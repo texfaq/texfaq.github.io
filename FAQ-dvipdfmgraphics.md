@@ -29,7 +29,7 @@ It's usually not obvious what values to give the `bb` key,
 but the program `ebb` will generate a file
 containing the information; the above numbers came from an
 `ebb` output file `photo.bb`:
-```latex
+```PostScript
 %%Title: /home/gsm10/photo.jpg
 %%Creator: ebb Version 0.5.2
 %%BoundingBox: 0 0 540 405
