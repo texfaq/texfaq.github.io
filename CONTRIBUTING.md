@@ -11,7 +11,7 @@ Please not any significant change to the content of questions in
 Commit messages where the content of a single question is changed should start
 with `Q-<name>`. Changes to the _content_ of questions should always be made in
 separate commits: formatting, typos or other 'non-significant' changes can be
-made for multiple questions in one go
+made for multiple questions in one go.
 
 If you are making a significant change to the content, please make sure you
 add yourself to the [contributors list](AUTHORS.md).
