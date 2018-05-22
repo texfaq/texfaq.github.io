@@ -6,7 +6,8 @@ all useful.
 ## ChangeLog, commit messages and authors
 
 Please not any significant change to the content of questions in
-`CHANGELOG.md`, including which question is changed in the format `Q-<name>`.
+[`CHANGELOG.md`](CHANGELOG.md), including which question is changed in the
+format `Q-<name>`.
 
 Commit messages where the content of a single question is changed should start
 with `Q-<name>`. Changes to the _content_ of questions should always be made in
