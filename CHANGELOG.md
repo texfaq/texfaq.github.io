@@ -12,3 +12,4 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 - Source converted to Markdown
 - Hosting moved to GitHub Pages
 - New management organisation
+- Q-noans: Updated to point to GitHub not email for suggestions
