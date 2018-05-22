@@ -26,7 +26,7 @@ T1, your document will be OK for almost all ASCII
 characters, but it's likely that anything ''out of the ordinary'' will
 not be represented properly.  (Of course, PDF generated from
 XeTeX- or LuaTeX-based formats is going to be OK, since
-those engines work in Unicode througout.)
+those engines work in Unicode throughout.)
 
 
 The solution comes from the character-mapping facilities in the
