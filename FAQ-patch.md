@@ -57,9 +57,11 @@ The general case may be achieved in two ways.  First, one can use the
 LaTeX command `\CheckCommand`; this compares an existing command
 with the definition you give it, and issues a warning if two don't
 match.  Use is therefore:
-  `\CheckCommand[[[complex]]]{`&lsaquo;_original definition_&rsaquo;`}`
+```latex
+\CheckCommand{\complex}{<original definition>}
 
-  `\renewcommand[[[complex]]]{`&lsaquo;_new definition_&rsaquo;`}`
+\renewcommand{\complex}{<new definition>}
+```
 This technique is obviously somewhat laborious, but if the original
 command comes from a source that's liable to change under the control
 of someone else, it does at least warn you that your patch is in
