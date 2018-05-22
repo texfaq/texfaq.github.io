@@ -1,4 +1,4 @@
-# The TeX Frequently Asked Questions
+# The English Language TeX Frequently Asked Questions
 
 ## The Background
 - [Getting started](FAQ-startup.html)
