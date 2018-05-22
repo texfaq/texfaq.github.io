@@ -19,7 +19,9 @@ for you.  They all create a TeX conditional command:
 
 These TeX commands may be used within the LaTeX conditional
 framework, as (for example):
-  `\ifthenelse``{}`\boolean{pdf}`\texttt{}``{}&lsaquo;_if pdf_&rsaquo[[[texttt]]]}``{}&lsaquo;_if not pdf_&rsaquo[[[texttt]]]}`
+```latex
+\ifthenelse{\boolean{pdf}}{<if pdf>}{<if not pdf>}
+```
 
 The [`ifxetex`](http://ctan.org/pkg/ifxetex) package also provides a command
 `\RequireXeTeX` which creates an error if the code is not running
