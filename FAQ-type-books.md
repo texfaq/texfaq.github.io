@@ -1,11 +1,7 @@
 # Books on Type
 
-
-
-
-    The following is a partial listing of books on typography in general.
+The following is a partial listing of books on typography in general.
 Of these, Bringhurst seems to be the one most often recommended.
-
 
 - The Elements of Typographic Styleby Robert Bringhurst
   (Hartley & Marks, 1992, ISBN-10 0-88179-033-8)
@@ -23,12 +19,8 @@ Of these, Bringhurst seems to be the one most often recommended.
   ([The Cardozo Kindersley Workshop](http://www.kindersleyworkshop.co.uk/)
   2001, ISBN-10 1-874426-139)
 
-
-
-
-    There are many catalogues of type specimens but the following books provide
+There are many catalogues of type specimens but the following books provide
 a more interesting overall view of types in general and some of their history.
-
 
 - Alphabets Old & Newby Lewis F.&nbsp;Day
   (Senate, 1995, ISBN-10 1-85958-160-9)
@@ -49,10 +41,7 @@ a more interesting overall view of types in general and some of their history.
 - A Short History of the Printed Wordby Warren Chappell and
   Robert Bringhurst (Hartley & Marks, 1999, ISBN-10 0-88179-154-7)
 
-
-
-
-    The above lists are limited to books published in English. Typographic 
+The above lists are limited to books published in English. Typographic 
 styles are somewhat language-dependent, and similarly the 'interesting' fonts
 depend on the particular writing system involved.
 
