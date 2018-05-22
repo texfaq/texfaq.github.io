@@ -51,7 +51,7 @@ define a command `plainmf`
   as a reference to Plain TeX
 </span>
 which executes `mf -base=plain` (or, in more traditional
-style `mf[[[&]]]lain`) which loads the `plain` base
+style `mf & lain`) which loads the `plain` base
 file.
 
 The usual way to create a font with MetaFont (with an appropriate base

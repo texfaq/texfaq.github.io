@@ -40,7 +40,7 @@
   ISBN-10 0-8176-4132-7) 
 - LaTeX: Line by Line:
   _Tips and Techniques for Document Processing_
-  by Antoni Diller (second edition, John Wiley[[[&]]]Sons,
+  by Antoni Diller (second edition, John Wiley & Sons,
   1999, ISBN-10 0-471-97918-X)
 - LaTeX for Linux:_A Vade Mecum_
   by Bernice Sacks Lipkin (Springer-Verlag, 1999,

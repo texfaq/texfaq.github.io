@@ -61,7 +61,7 @@ mechanisms are:
 3.  Web forum: alternatives are: the 
     [''LaTeX community'' site](http://www.latex-community.org/),
     which offers a variety of 'categories' to place your query, and the
-    [TeX, LaTeX and friends [[[&]]] site](http://tex.stackexchange.com/)
+    [TeX, LaTeX and friends&site](http://tex.stackexchange.com/)
     (''StackExchange'').
   
 

@@ -8,14 +8,14 @@ Of these, Bringhurst seems to be the one most often recommended.
 
 
 - The Elements of Typographic Styleby Robert Bringhurst
-  (Hartley[[[&]]]Marks, 1992, ISBN-10 0-88179-033-8)
-- Finer Points in the Spacing[[[&]]]Arrangement of Typeby Geoffrey Dowding
-  (Hartley[[[&]]]Marks, 1996, ISBN-10 0-88179-119-9)
-- The Thames[[[&]]]Hudson Manual of Typographyby Ruari McLean
-  (Thames[[[&]]]Hudson, 1980, ISBN-10 0-500-68022-1)
+  (Hartley & Marks, 1992, ISBN-10 0-88179-033-8)
+- Finer Points in the Spacing & Arrangement of Typeby Geoffrey Dowding
+  (Hartley & Marks, 1996, ISBN-10 0-88179-119-9)
+- The Thames & Hudson Manual of Typographyby Ruari McLean
+  (Thames & Hudson, 1980, ISBN-10 0-500-68022-1)
 - The Form of the Bookby Jan Tschichold
   (Lund Humphries, 1991, ISBN-10 0-85331-623-6)
-- Type[[[&]]]Layoutby Colin Wheildon
+- Type & Layoutby Colin Wheildon
   (Strathmore Press, 2006, ISBN-10 1-875750-22-3)
 - The Design of Booksby Adrian Wilson
   (Chronicle Books, 1993, ISBN-10 0-8118-0304-X)
@@ -30,7 +30,7 @@ Of these, Bringhurst seems to be the one most often recommended.
 a more interesting overall view of types in general and some of their history.
 
 
-- Alphabets Old[[[&]]]Newby Lewis F.&nbsp;Day
+- Alphabets Old & Newby Lewis F.&nbsp;Day
   (Senate, 1995, ISBN-10 1-85958-160-9)
 - An Introduction to the History of Printing Typesby Geoffrey Dowding
   (British Library, 1998, UK ISBN-10 0-7123-4563-9; USA ISBN-10 1-884718-44-2)
@@ -47,7 +47,7 @@ a more interesting overall view of types in general and some of their history.
 - Treasury of Alphabets and Letteringby Jan Tschichold
   (W.&nbsp;W.&nbsp;Norton, 1992, ISBN-10 0-393-70197-2)
 - A Short History of the Printed Wordby Warren Chappell and
-  Robert Bringhurst (Hartley[[[&]]]Marks, 1999, ISBN-10 0-88179-154-7)
+  Robert Bringhurst (Hartley & Marks, 1999, ISBN-10 0-88179-154-7)
 
 
 

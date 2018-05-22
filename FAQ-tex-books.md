@@ -59,7 +59,7 @@ and in late 2000, a ''Millennium Boxed Set'' of all
 TeX and MetaFont) was published by Addison Wesley:
 
 
-- Computers[[[&]]]Typesetting, Volumes A&ndash;E Boxed Setby Donald Knuth
+- Computers & Typesetting, Volumes A&ndash;E Boxed Setby Donald Knuth
   (Addison-Wesley, 2001, ISBN-10 0-201-73416-8).
 
 

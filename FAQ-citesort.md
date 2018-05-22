@@ -9,7 +9,7 @@ that sort of thing for no more improvement than ''[2,3,4,6]''?
 
 The [`cite`](http://ctan.org/pkg/cite) package sorts the numbers and detects consecutive
 sequences, so creating ''[2&ndash;4,6]''.  The [`natbib`](http://ctan.org/pkg/natbib) package,
-with the `numbers` and `sor[[[&]]]ompress` options, will
+with the `numbers` and `sor & ompress` options, will
 do the same when working with its own numeric bibliography styles
 (`plainnat.bst` and `unsrtnat.bst`).
 

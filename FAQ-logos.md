@@ -20,7 +20,7 @@ The MetaFont and MetaPost logos can be set in fonts that LaTeX 2e
 knows about (so that they scale with the surrounding text) using the
 [`mflogo`](http://ctan.org/pkg/mflogo) package; but be aware that booby-traps surround the
 use of the Knuthian font for MetaPost (you might get
-  something like 'MET[[[&]]]bsp[[[&]]]bsp;[[[&]]]bsp[[[&]]]bsp;T').
+  something like 'MET & bsp & bsp; & bsp & bsp;T').
 You needn't despair, however&nbsp;&mdash; most versions of the logo font
 distributed nowadays contain the missing letters, and the author
 himself uses just 'MetaPost'.

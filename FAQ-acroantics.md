@@ -20,7 +20,7 @@ to the next:
      ''100
 -   Adobe Reader 6:
 
-    in the print dialogue, on the ''copies[[[&]]]pages'' pane, you'll find a
+    in the print dialogue, on the ''copies & pages'' pane, you'll find a
     popup menu/drop-down list titled ''Page Scaling''&nbsp;&mdash; change to ''None''.
 -  Windows, Linux Acrobat (Reader) 5.0:
 
