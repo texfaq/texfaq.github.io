@@ -7,17 +7,17 @@ are of course widely used, because of their simple availability.  The
 set consists of:
   
 
--  `Times` family (4 fonts)
--  `Palatino` family (4 fonts)
--  `New` `Century` `Schoolbook` family (4 fonts)
--  `Bookman` family (4 fonts)
--  `Helvetica` family (4 fonts)
--  `Avant` `Garde` (4 fonts)
--  `Courier` family (4 fonts)
--  `Utopia` family (4 fonts)
--  Zapf `Chancery` (1 font)
--  Zapf `Dingbats` (1 font)
--  `Symbol` (1 font)
+-  Times family (4 fonts)
+-  Palatino family (4 fonts)
+-  New Century Schoolbook family (4 fonts)
+-  Bookman family (4 fonts)
+-  Helvetica family (4 fonts)
+-  Avant Garde (4 fonts)
+-  Courier family (4 fonts)
+-  Utopia family (4 fonts)
+-  Zapf Chancery (1 font)
+-  Zapf Dingbats (1 font)
+-  Symbol (1 font)
 
 All these fonts are supported, for LaTeX users, by the
 [`psnfss`](http://ctan.org/pkg/psnfss) set of metrics and support files in the file
