@@ -57,7 +57,7 @@ of converted versions of the standard bibliography styles.
 Another possibility is that some conventionally-published paper,
 technical report (or even book) is also available on the Web.  In such
 cases, a useful technique is something like:
-```latex
+```bibtex
 @techreport{...,
   ...,
   note = "Also available as \url{http://...}"
