@@ -28,3 +28,7 @@ may throw the GF file away.
 The log file should never be needed again, unless there was some sort
 of problem in the MetaFont run, and need not therefore be kept.
 
+
+----
+
+Content last updated: 2014-06-10

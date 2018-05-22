@@ -108,3 +108,7 @@ size is a fiddle.  If you _do_ find you've run out of memory,
 it may be worth scanning the list of languages in your
 `language.dat` to see whether any could reasonably be removed.
 
+
+----
+
+Content last updated: 2014-06-10

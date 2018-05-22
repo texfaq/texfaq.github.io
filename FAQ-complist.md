@@ -99,3 +99,7 @@ The ultimate in compaction (of every sort) is offered by the
 package's prime purpose is to save space at every touch and turn:
 don't use it if you're under any design constraint whatever!
 
+
+----
+
+Content last updated: 2014-06-10

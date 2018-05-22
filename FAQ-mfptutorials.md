@@ -49,3 +49,7 @@ most certainly valuable learning material.  Urs Oswald presents a
 [similar document](http://www.ursoswald.ch/metapost/tutorial.pdf),
 written more as a document, and presented in PDF.
 
+
+----
+
+Content last updated: 2014-06-10

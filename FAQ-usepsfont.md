@@ -42,3 +42,7 @@ re-encoding mechanisms available in many drivers and in
 Some common problems encountered are discussed elsewhere
 (see [problems with PS fonts](./FAQ-psfontprob.html)).
 
+
+----
+
+Content last updated: 2014-06-10

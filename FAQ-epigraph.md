@@ -62,3 +62,7 @@ The [`memoir`](http://ctan.org/pkg/memoir) class offers all the facilities of th
 commands `\setchapterpreamble` and `\dictum` to provide these
 facilities.
 
+
+----
+
+Content last updated: 2014-06-10

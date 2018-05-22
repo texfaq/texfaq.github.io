@@ -8,3 +8,7 @@ a means of cancelling 'to' a particular value.
 
 Documentation of [`cancel`](http://ctan.org/pkg/cancel) is in the package file.
 
+
+----
+
+Content last updated: 2014-06-10

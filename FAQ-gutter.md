@@ -48,3 +48,7 @@ The above may not be the best you can do: you may well choose to
 change the `\textwidth` in the presence of the binding offset; but
 the changes do work for constant `\textwidth`.
 
+
+----
+
+Content last updated: 2014-06-10

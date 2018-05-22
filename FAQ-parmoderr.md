@@ -34,3 +34,7 @@ conceivable that sane uses could be found (for example, using a
 package such as [`algorithm2e`](http://ctan.org/pkg/algorithm2e) to place two algorithms
 side-by-side).
 
+
+----
+
+Content last updated: 2014-06-10

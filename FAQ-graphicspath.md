@@ -66,3 +66,7 @@ in the question ''
 [bits of document in other directories](./FAQ-docotherdir.html)
 ''.
 
+
+----
+
+Content last updated: 2014-06-10

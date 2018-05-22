@@ -111,3 +111,7 @@ parameters, you should use them to rebuild the base file that you use.
 Other sources of help are discussed in our list of 
 [MetaFont and MetaPost Tutorials](./FAQ-mfptutorials.html).
 
+
+----
+
+Content last updated: 2014-06-10

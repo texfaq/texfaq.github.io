@@ -61,3 +61,7 @@ Both processes (preparing and installing a font) are very well (and
 thoroughly) described in Philipp Lehman's guide to font installation,
 which may be found on CTAN.
 
+
+----
+
+Content last updated: 2014-06-10

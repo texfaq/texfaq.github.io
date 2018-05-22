@@ -39,3 +39,7 @@ The commands could be used by one determined not to use
 [the current page is odd](./FAQ-oddpage.html), but it's probably no more
 trouble to use the fully-developed tool in this case.
 
+
+----
+
+Content last updated: 2014-06-10

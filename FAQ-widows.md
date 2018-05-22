@@ -53,3 +53,7 @@ length by one) seldom has the right effect&nbsp;&mdash; the looser paragraph
 typically has a one-word final line, which doesn't look much better
 than the original widow.
 
+
+----
+
+Content last updated: 2014-06-10

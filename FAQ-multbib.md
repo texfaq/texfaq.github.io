@@ -130,3 +130,7 @@ sorting process.)  A code example appears in the package documentation
 (a PDF file in the CTAN directory,
   which you can browse to, from the link, below).
 
+
+----
+
+Content last updated: 2014-06-10

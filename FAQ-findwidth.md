@@ -19,3 +19,7 @@ The same sort of thing is expressed in LaTeX by:
 This sets the value of the length command `\gnat` to the width of ''small''
 in bold-face text.
 
+
+----
+
+Content last updated: 2014-06-10

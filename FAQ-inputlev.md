@@ -20,3 +20,7 @@ However, for those improbable (or machine-generated) situations,
 some distributions offer the opportunity to adjust the parameter
 `max_in_open` in a configuration file.
 
+
+----
+
+Content last updated: 2014-06-10

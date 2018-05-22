@@ -91,3 +91,7 @@ separate window), degree of correspondence of the display to the final
 output, and the balance they strike between visual aid and visual
 distraction.
 
+
+----
+
+Content last updated: 2014-06-10

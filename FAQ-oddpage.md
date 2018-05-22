@@ -72,3 +72,7 @@ whole work will be done inside a box (as, for example, in the case of
 a float), so the elaborate work proposed by the author is not
 necessary.
 
+
+----
+
+Content last updated: 2014-06-10

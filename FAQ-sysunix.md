@@ -27,3 +27,7 @@ Pascal, thereby coming as close as you're likely to get to Knuth's original
 distribution.  It is known to work well, but the omission of &epsilon;-TeX
 and pdfTeX will rule it out of many users' choices.
 
+
+----
+
+Content last updated: 2014-06-10

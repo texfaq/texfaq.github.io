@@ -33,3 +33,7 @@ using LaTeX&nbsp;&mdash; there's already an
 [internal command](./FAQ-atsigns.html) `\strip@prefix` that you can
 use.
 
+
+----
+
+Content last updated: 2014-06-10

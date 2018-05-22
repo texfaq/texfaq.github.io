@@ -47,3 +47,7 @@ horizontal rules, and if their lack of configurability makes them
 still less attractive, so much the better for the design of your
 document.
 
+
+----
+
+Content last updated: 2014-06-10

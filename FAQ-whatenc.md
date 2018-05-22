@@ -76,3 +76,7 @@ most font encodings can't match the corresponding input encoding
 nearly so well, and the two packages provide the sort of symmetry the
 LaTeX system needs.
 
+
+----
+
+Content last updated: 2014-06-10

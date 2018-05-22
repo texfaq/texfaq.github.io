@@ -85,3 +85,7 @@ rows in the multi-row have been opened up with `\bigstrut`.
 The documentation of both [`multirow`](http://ctan.org/pkg/multirow) and [`bigstrut`](http://ctan.org/pkg/bigstrut) is
 to be found, as comments, in the package files themselves.
 
+
+----
+
+Content last updated: 2014-06-10

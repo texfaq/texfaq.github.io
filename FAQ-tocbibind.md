@@ -49,3 +49,7 @@ as a set of class options (e.g., `bibtotoc` to add the
 bibliography to the table of contents); the [`memoir`](http://ctan.org/pkg/memoir) class includes
 [`tocbibind`](http://ctan.org/pkg/tocbibind) itself.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -68,3 +68,7 @@ way, [TeX by Topic](./FAQ-ol-books.html) is possibly a more satisfactory
 choice.  Rather a lot of the answers in these FAQs tell you
 about various issues of how to write macros.
 
+
+----
+
+Content last updated: 2014-06-10

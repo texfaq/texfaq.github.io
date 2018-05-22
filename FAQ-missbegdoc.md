@@ -69,3 +69,7 @@ afflicted GNU Emacs users.)
 Fortunately XeTeX and LuaTeX know about BOMs and what to
 do with them, so LaTeX using them is ''safe''.
 
+
+----
+
+Content last updated: 2014-06-10

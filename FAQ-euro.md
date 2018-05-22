@@ -88,3 +88,7 @@ Other MetaFont-based bundles containing Euro symbols are to be found in
 [`china2e`](http://ctan.org/pkg/china2e) (whose primary aim is Chinese dates and suchlike
 matters) and the [`eurosym`](http://ctan.org/pkg/eurosym) fonts.
 
+
+----
+
+Content last updated: 2014-06-10

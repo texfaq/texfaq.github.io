@@ -41,3 +41,7 @@ So, we can now answer the two commonest questions about `\include`:
     under LaTeX 2.09, replace the `\include` commands with `\input`
     commands (with `\clearpage` as appropriate).
 
+
+----
+
+Content last updated: 2014-06-10

@@ -56,3 +56,7 @@ their corresponding environment variables.  In a
 `texmf.cnf` system configuration file help you to learn which
 path names correspond to which type of file.
 
+
+----
+
+Content last updated: 2014-06-10

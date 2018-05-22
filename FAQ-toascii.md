@@ -50,3 +50,7 @@ Another significant possibility is to use one of the
 and then to use a browser such as `lynx` to dump the resulting
 HTML as plain text.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -32,3 +32,7 @@ version of the [`hyperref`](http://ctan.org/pkg/hyperref) package does know abou
 [`minitoc`](http://ctan.org/pkg/minitoc) and treats `\minitoc` tables in the
 same way as ''real'' tables of contents.
 
+
+----
+
+Content last updated: 2014-06-10

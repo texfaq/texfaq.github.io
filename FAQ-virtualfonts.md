@@ -54,3 +54,7 @@ together with the discussion of
 fonts (it uses TeX to parse a description of the virtual font, and
 `qdtexvpl` itself processes the resulting DVI file).
 
+
+----
+
+Content last updated: 2014-06-10

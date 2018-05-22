@@ -28,3 +28,7 @@ beginners' r&ouml;le models are hard to come by.  As a result, beginners
 should probably resist the temptation to write their own contributed
 [`biblatex`](http://ctan.org/pkg/biblatex) style.
 
+
+----
+
+Content last updated: 2014-06-10

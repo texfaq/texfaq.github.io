@@ -138,3 +138,7 @@ analogous to `sed` substitutions, and it regenerates the
 command thus amended.  Unless you can't do your job any other way,
 [`patch`](http://ctan.org/pkg/patch) is best avoided.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -32,3 +32,7 @@ that potential users consider [LuaTeX](./FAQ-luatex.html) instead;
 fortunately, lessons learned in Aleph project have been carried
 forward in the development of LuaTeX.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -22,3 +22,7 @@ LaTeX commands, in the preamble of your document, will do the job:
 \makeatother
 ```
 
+
+----
+
+Content last updated: 2014-06-10

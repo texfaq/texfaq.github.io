@@ -21,3 +21,7 @@ work on, or new questions we should answer in future editions.
 Those who simply ask questions at that address will be referred to
 <a href="mailto:texhax@tug.org">texhax@tug.org</a> or to `comp.text.tex`.
 
+
+----
+
+Content last updated: 2014-06-10

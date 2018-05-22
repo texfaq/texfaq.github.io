@@ -84,3 +84,7 @@ mortals will seek support from some more experienced user at this
 stage, though it _is_ possible to proceed in the way that the original
 author apparently expected&hellip;by reading his code.
 
+
+----
+
+Content last updated: 2014-06-10

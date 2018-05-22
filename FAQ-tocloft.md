@@ -27,3 +27,7 @@ for the table of contents, and calculates the space needed for the
 numbers automatically.  The [`memoir`](http://ctan.org/pkg/memoir) class includes the functionality
 of [`tocloft`](http://ctan.org/pkg/tocloft).
 
+
+----
+
+Content last updated: 2014-06-10

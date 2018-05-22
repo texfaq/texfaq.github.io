@@ -19,3 +19,7 @@ develop your own; many big publishers have developed their own
 (La)TeX styles for journals and books, and insist that authors stick
 closely to their markup.
 
+
+----
+
+Content last updated: 2014-06-10

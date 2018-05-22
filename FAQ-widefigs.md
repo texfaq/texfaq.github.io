@@ -16,3 +16,7 @@ float environments.  You should include them in `figure` environments,
 or use the [`float`](http://ctan.org/pkg/float) or [`ccaption`](http://ctan.org/pkg/ccaption)package to define a
 new float type. 
 
+
+----
+
+Content last updated: 2014-06-10

@@ -44,3 +44,7 @@ LaTeX file with a special piece of supporting TeX code, and then
 counting word indications in the log file.  This is probably as
 accurate automatic counting as you can get, if it works for you.
 
+
+----
+
+Content last updated: 2014-06-10

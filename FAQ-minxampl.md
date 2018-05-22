@@ -96,3 +96,7 @@ that article may be found at
 [http://www.minimalbeispiel.de/](http://www.minimalbeispiel.de/), in
 both German and English.
 
+
+----
+
+Content last updated: 2014-06-10

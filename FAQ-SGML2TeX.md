@@ -60,3 +60,7 @@ Michel Goossens and Janne Saarela published a very useful summary of
 SGML, and of public domain tools for writing and manipulating it, in
 TUGboat 16(2).
 
+
+----
+
+Content last updated: 2014-06-10

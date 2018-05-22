@@ -32,3 +32,7 @@ in a separate file; documentation of [`scrpage2`](http://ctan.org/pkg/scrpage2) 
 with the `scrgui*` documentation files that are distributed with
 the [`KOMA-script`](http://ctan.org/pkg/KOMA-script) classes.
 
+
+----
+
+Content last updated: 2014-06-10

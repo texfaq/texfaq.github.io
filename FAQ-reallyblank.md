@@ -57,3 +57,7 @@ being an equivalent of `\cleardoublepage`).  One can achieve
 commands will also serve if you want the surreal effect of ''This page
 intentionally left blank'' in the centre of an otherwise empty page.
 
+
+----
+
+Content last updated: 2014-06-10

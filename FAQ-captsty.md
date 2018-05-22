@@ -40,3 +40,7 @@ Note that the previously-recommended package [`caption2`](http://ctan.org/pkg/ca
 now been overtaken again by [`caption`](http://ctan.org/pkg/caption); however,
 [`caption2`](http://ctan.org/pkg/caption2) remains available for use in older documents.
 
+
+----
+
+Content last updated: 2014-06-10

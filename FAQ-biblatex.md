@@ -86,3 +86,7 @@ produce a usable [`amsrefs`](http://ctan.org/pkg/amsrefs) bibliography database.
 [`Amsrefs`](http://ctan.org/pkg/Amsrefs) is maintained by the AMS as part of its author
 support programme,
 
+
+----
+
+Content last updated: 2014-06-10

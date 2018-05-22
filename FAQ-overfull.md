@@ -132,3 +132,7 @@ and how much to scale each font&nbsp;&hellip; for the fonts the package
 knows about; it's a good tool, and users who can take on the
 specification of adjustments for yet more fonts are always welcome.
 
+
+----
+
+Content last updated: 2014-06-10

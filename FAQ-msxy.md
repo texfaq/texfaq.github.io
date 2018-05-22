@@ -28,3 +28,7 @@ font could be a good choice.
 If you have a DVI file that requests the fonts, there is a package
 of [virtual fonts](./FAQ-virtualfonts.html) to map the old to the new series.
 
+
+----
+
+Content last updated: 2014-06-10

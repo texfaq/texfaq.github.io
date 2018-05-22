@@ -46,3 +46,7 @@ parentheses, but the issue seldom arises since such arguments rarely
 contain text.  If it were to arise, the same solution (enclosing the
 confused characters in braces) would solve the problem.
 
+
+----
+
+Content last updated: 2014-06-10

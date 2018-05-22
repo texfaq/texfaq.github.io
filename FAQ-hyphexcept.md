@@ -65,3 +65,7 @@ UTF-8-encoded patterns; since the hyphenation team do all the
 work ''behind the scenes'', the use of Unicode hyphenation is
 deceptively similar to what we are used to.
 
+
+----
+
+Content last updated: 2014-06-10

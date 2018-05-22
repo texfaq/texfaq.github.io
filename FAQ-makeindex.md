@@ -43,3 +43,7 @@ The following programs are available:
   with 'standard' LaTeX source, processes it and passes
   'sanitised' text to `Xindy`.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -25,3 +25,7 @@ an alternative target of translation, though it undoubtedly gives the
 user more than the ''bare minimum'' that Plain TeX is designed to
 offer.)
 
+
+----
+
+Content last updated: 2014-06-10

@@ -22,3 +22,7 @@ produced using MetaFont, nowadays.  Indeed, several of the major font
 families (that originated in MetaFont designs) are now seldom used in any
 other way than their conversion to an outline font format.
 
+
+----
+
+Content last updated: 2014-06-10

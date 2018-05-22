@@ -127,3 +127,7 @@ thus using TeX's own integer-parsing code to do the check.  It's a
 pity that such a mechanism was never defined (it could be that it's
 impossible to program within TeX!).
 
+
+----
+
+Content last updated: 2014-06-10

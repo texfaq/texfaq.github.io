@@ -26,3 +26,7 @@ _am_ or _pm_ in `12h` mode).  The `\thistime`
 command also takes an optional argument, the character to separate the
 hours and minutes: the default is of course `:`.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -32,3 +32,7 @@ A further option is Frank Siegert's (shareware)
 the PostScript it is distilling, and one option is to replace bitmap fonts
 in the file with Type&nbsp;1 versions.
 
+
+----
+
+Content last updated: 2014-06-10

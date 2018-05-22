@@ -8,3 +8,7 @@ the LaTeX distribution), and in the [`amsfonts`](http://ctan.org/pkg/amsfonts) p
 (which is part of the AMS distribution, and requires AMS
 symbol fonts).
 
+
+----
+
+Content last updated: 2014-06-10

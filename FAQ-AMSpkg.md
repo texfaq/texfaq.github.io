@@ -19,3 +19,7 @@ the functionality of AMSTeX.
 The AMS no longer recommends the use of AMSTeX, and urges
 its authors to use AMSLaTeX instead.
 
+
+----
+
+Content last updated: 2014-06-10

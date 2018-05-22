@@ -25,3 +25,7 @@ the separation between floats really big:
 \makeatother
 ```
 
+
+----
+
+Content last updated: 2014-06-10

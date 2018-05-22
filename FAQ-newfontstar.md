@@ -43,3 +43,7 @@ the Knuth standard set of sizes: LaTeX (by default) won't allow you
 to use such a size.  Don't despair: see the answer 
 ''[arbitrary font sizes](./FAQ-fontsize.html)''.
 
+
+----
+
+Content last updated: 2014-06-10

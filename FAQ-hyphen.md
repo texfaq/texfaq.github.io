@@ -50,3 +50,7 @@ it is very thoroughly managed by the [`babel`](http://ctan.org/pkg/babel) packag
   the context of
 [hyphenation failure](./FAQ-nohyph.html).
 
+
+----
+
+Content last updated: 2014-06-10

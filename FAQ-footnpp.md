@@ -40,3 +40,7 @@ The [`footnpag`](http://ctan.org/pkg/footnpag) package also does per-page footno
 nothing else).  With the competition from [`perpage`](http://ctan.org/pkg/perpage), it's
 probably not particularly useful any more.
 
+
+----
+
+Content last updated: 2014-06-10

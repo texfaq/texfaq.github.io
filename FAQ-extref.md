@@ -66,3 +66,7 @@ The module provides all the facilities of the older packages, and can
 deal both with ''traditional'' LaTeX labels and with
 [`zref`](http://ctan.org/pkg/zref)'s style of labels.
 
+
+----
+
+Content last updated: 2014-06-10

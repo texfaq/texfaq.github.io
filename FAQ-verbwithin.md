@@ -207,3 +207,7 @@ solutions to the problem:
     facilities of the package, but the user has to write a mini-package
     actually to use them.
 
+
+----
+
+Content last updated: 2014-06-10

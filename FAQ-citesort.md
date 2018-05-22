@@ -16,3 +16,7 @@ do the same when working with its own numeric bibliography styles
 The package [`biblatex`](http://ctan.org/pkg/biblatex) has a built-in style
 [`numeric-comp`](http://ctan.org/pkg/numeric-comp) for its bibliographies.
 
+
+----
+
+Content last updated: 2014-06-10

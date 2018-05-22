@@ -35,3 +35,7 @@ rigorous stickler for symmetry&nbsp;&mdash; it would surely challenge pretty
 much anyone's reading of the source of a document, if there was a need
 to distinguish `\subsubsubsection` and `\subsubsubsubsection`
 
+
+----
+
+Content last updated: 2014-06-10

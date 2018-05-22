@@ -45,3 +45,7 @@ will stop hyphenation of upper-case words.  (Note that Plain TeX
 syntax is needed here: there's no LaTeX alternative for setting
 this value.)
 
+
+----
+
+Content last updated: 2014-06-10

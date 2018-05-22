@@ -17,3 +17,7 @@ This problem is resolved by a LaTeX internal command
 Of course, these commands need to be tended carefully, since they're
 internal: see ['@' in control sequence names](./FAQ-atsigns.html).
 
+
+----
+
+Content last updated: 2014-06-10

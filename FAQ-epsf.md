@@ -33,3 +33,7 @@ somewhere near the start of your document, and then decorate your
 `\epsffile` statements with no more than adjustments of
 `\epsfxsize` and so on.
 
+
+----
+
+Content last updated: 2014-06-10

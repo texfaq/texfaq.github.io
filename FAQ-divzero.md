@@ -42,3 +42,7 @@ If you're using the simpler [`graphics`](http://ctan.org/pkg/graphics) package, 
 ```
 <!-- {% endraw %} -->
 
+
+----
+
+Content last updated: 2014-06-10

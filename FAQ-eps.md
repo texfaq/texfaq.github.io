@@ -36,3 +36,7 @@ which of course leads to much hilarity as exasperated (La)TeX users
 struggle to cope with the output of drawing software whose authors
 don't know the rules.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -18,3 +18,7 @@ The [`bigfoot`](http://ctan.org/pkg/bigfoot) package also uses [`manyfoot`](http
 its highly sophisticated structure of footnote facilities, which was
 also designed to support typesetting critical editions.
 
+
+----
+
+Content last updated: 2014-06-10

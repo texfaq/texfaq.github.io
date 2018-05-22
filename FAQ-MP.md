@@ -32,3 +32,7 @@ The TUG website also hosts a
 [`tex-overview`](http://ctan.org/pkg/tex-overview) document gives you a lot more detail (and some
 explanatory background material).
 
+
+----
+
+Content last updated: 2014-06-10

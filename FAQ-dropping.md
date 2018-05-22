@@ -24,3 +24,7 @@ The more recent [`lettrine`](http://ctan.org/pkg/lettrine) package is generally 
 It has a well-constructed array of options, and an impressive set of
 examples adds to the package's document.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -61,3 +61,7 @@ of float you've defined for yourself) inside tabulars or box commands;
 you _must_ get the float environment out from inside, one way or
 another.
 
+
+----
+
+Content last updated: 2014-06-10

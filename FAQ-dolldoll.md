@@ -37,3 +37,7 @@ needed in LaTeX''.
 the `displaymath` environment, which can be said to ''look
 nicer'', and actually _describes_ what's being done.)
 
+
+----
+
+Content last updated: 2014-06-10

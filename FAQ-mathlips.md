@@ -32,3 +32,7 @@ distribution (thus saving you the bother of installing the package
 before being able to read the documentation).  Documentation of
 [`mathdots`](http://ctan.org/pkg/mathdots) appears at the end the package file itself.
 
+
+----
+
+Content last updated: 2014-06-10

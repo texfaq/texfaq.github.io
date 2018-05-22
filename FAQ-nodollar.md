@@ -26,3 +26,7 @@ an `\alpha` in your running text, say
 transmutes into a bit of mathematics, the `\ensuremath` will become
 a no-op, so it's pretty much always safe.
 
+
+----
+
+Content last updated: 2014-06-10

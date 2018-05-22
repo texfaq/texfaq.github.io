@@ -39,3 +39,7 @@ and away we go.
 The form `\mypkg@...` is (sort of) blessed for LaTeX package
 internal names, which is why this example uses macros of that form.
 
+
+----
+
+Content last updated: 2014-06-10

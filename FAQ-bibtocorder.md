@@ -28,3 +28,7 @@ The package [`notoccite`](http://ctan.org/pkg/notoccite) avoids the kerfuffle, a
 citations while in the table of contents, or lists of figures, tables
 (or other floating things: the code is quite general).
 
+
+----
+
+Content last updated: 2014-06-10

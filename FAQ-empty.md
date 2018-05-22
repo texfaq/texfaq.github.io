@@ -28,3 +28,7 @@ third argument.  The package's code also appears in the LaTeX
 issue in number two of the ''around the bend'' articles by the late
 lamented Mike Downes.
 
+
+----
+
+Content last updated: 2014-06-10

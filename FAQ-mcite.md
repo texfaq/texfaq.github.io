@@ -48,3 +48,7 @@ sees a sequence
 ```
 it will collect `paper1` and `paper2` as a multiple reference.
 
+
+----
+
+Content last updated: 2014-06-10

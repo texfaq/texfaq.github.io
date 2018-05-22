@@ -25,3 +25,7 @@ fonts, too; while [`trip`](http://ctan.org/pkg/trip) and [`trap`](http://ctan.or
 pathways within the program, they don't actually test for any real
 world problem.)
 
+
+----
+
+Content last updated: 2014-06-10

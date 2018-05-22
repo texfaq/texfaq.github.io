@@ -36,3 +36,7 @@ The MacTeX-on-OS&nbsp;X mailing list is another useful resource for
 users; subscribe via the
 [list home page](http://mactex-wiki.tug.org/wiki/index.php?title=TeX_on_Mac_OS_X_mailing_list)
 
+
+----
+
+Content last updated: 2014-06-10

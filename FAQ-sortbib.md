@@ -17,3 +17,7 @@ you get to sort its contents.  BibTeX will only sort the contents
 of a `thebibliography` environment when it creates it, to
 be inserted from a `bbl` file by a `\bibliography` command.
 
+
+----
+
+Content last updated: 2014-06-10

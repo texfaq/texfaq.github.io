@@ -55,3 +55,7 @@ with such a short caption as that in the example above.)
 The documentation of the [`ccaption`](http://ctan.org/pkg/ccaption) package describes a really
 rather awful work-around for this problem.
 
+
+----
+
+Content last updated: 2014-06-10

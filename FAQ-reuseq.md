@@ -21,3 +21,7 @@ Here, the second instance of a=b will be
 typeset with a copy, made by the `\tag` command, of the label of the
 first instance.
 
+
+----
+
+Content last updated: 2014-06-10

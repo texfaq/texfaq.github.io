@@ -60,3 +60,7 @@ The [`memoir`](http://ctan.org/pkg/memoir) class includes functions that match t
 %%    \renewcommand{\labelenumi}{\theenumi/}
 %% ```
 
+
+----
+
+Content last updated: 2014-06-10

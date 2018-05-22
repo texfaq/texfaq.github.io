@@ -36,3 +36,7 @@ extract them from their `zip` file, install them and update
 the font maps.  It even goes so far as to apologise for how long it's
 taking!
 
+
+----
+
+Content last updated: 2014-06-10

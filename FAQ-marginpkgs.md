@@ -22,3 +22,7 @@ canned set of paper sizes (a superset of that provided in LaTeX 2e),
 provision for custom paper, margin adjustments and provision for
 two-sided printing.
 
+
+----
+
+Content last updated: 2014-06-10

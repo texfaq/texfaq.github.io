@@ -32,3 +32,7 @@ The Netherlands Users' Group's set of classes includes an
 equivalent ([`rapport3`](http://ctan.org/pkg/rapport3)) whose design incorporates zero paragraph
 indent and non-zero paragraph skip.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -28,3 +28,7 @@ avoided.
 Finally, of course, you can also print the files, or convert them to
 PDF using pdfTeX.
 
+
+----
+
+Content last updated: 2014-06-10

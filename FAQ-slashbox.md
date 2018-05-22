@@ -32,3 +32,7 @@ The [`diagbox`](http://ctan.org/pkg/diagbox) package supersedes [`slashbox`](htt
 package's commands `\slashbox` and `\backslashbox` are provided
 in a compatible way in the newer package, to ease transition.
 
+
+----
+
+Content last updated: 2014-06-10

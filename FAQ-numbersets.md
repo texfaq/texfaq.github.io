@@ -87,3 +87,7 @@ do better than the macros, or anything similar using capital 'I'
 (which looks even worse!).  Voluntary  (La)TeX effort has redefined
 the meaning of laziness (in this respect!).
 
+
+----
+
+Content last updated: 2014-06-10

@@ -41,3 +41,7 @@ LaTeX team may need to contact to discuss the bug with you, or to
 advise you of a work-around.  Your details will not appear in the
 public view of the database.
 
+
+----
+
+Content last updated: 2014-06-10

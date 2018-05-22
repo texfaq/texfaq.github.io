@@ -34,3 +34,7 @@ LaTeX honour '[h]' placement of double-column floats, but the
 [`midfloat`](http://ctan.org/pkg/midfloat) package can be pressed into service to provide
 something approximating the effect it would have.)
 
+
+----
+
+Content last updated: 2018-05-18

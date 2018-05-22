@@ -49,3 +49,7 @@ through the mailing list `latex-l`; some development work
 by sending a message `subscribe latex-l <_your name_>`
 to  <a href="mailto:listserv@urz.Uni-Heidelberg.de">listserv@urz.Uni-Heidelberg.de</a>
 
+
+----
+
+Content last updated: 2014-06-10

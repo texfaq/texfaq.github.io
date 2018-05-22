@@ -24,3 +24,7 @@ distribution: this isn't the code actually used on the Web site, but
 it's a close relation and is kept
 up to date for development purposes.
 
+
+----
+
+Content last updated: 2014-06-10

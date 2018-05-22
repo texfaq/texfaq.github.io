@@ -22,3 +22,7 @@ of the page each `\marginpar` _should_ be on.  The
 [`mparhack`](http://ctan.org/pkg/mparhack) package does this, using label-like marks stored in
 the `aux` file; the [`memoir`](http://ctan.org/pkg/memoir) class does likewise.
 
+
+----
+
+Content last updated: 2014-06-10

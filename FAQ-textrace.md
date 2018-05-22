@@ -42,3 +42,7 @@ available, [`mf2pt1`](http://ctan.org/pkg/mf2pt1) will use
 available) to auto-hint the result of its conversion.
 ([`Mf2pt1`](http://ctan.org/pkg/Mf2pt1) is also written in `perl`.)
 
+
+----
+
+Content last updated: 2014-06-10

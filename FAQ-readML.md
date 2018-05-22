@@ -24,3 +24,7 @@ achieve this end.
 However, modern usage would proceed via XSL or XSLT2 to
 produce a formattable version.
 
+
+----
+
+Content last updated: 2014-06-10

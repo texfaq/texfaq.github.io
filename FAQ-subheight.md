@@ -25,3 +25,7 @@ in a document, the LaTeX user is advised to use the
 [`subdepth`](http://ctan.org/pkg/subdepth) package, which forces the lower position for all
 subscripts.
 
+
+----
+
+Content last updated: 2014-06-10

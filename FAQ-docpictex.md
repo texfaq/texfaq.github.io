@@ -13,3 +13,7 @@ However, there _is_ a summary of PicTeX commands available on
 CTAN, which is a great aide-memoire for those who basically
 know the package to start with.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -30,3 +30,7 @@ An alternative approach is to use the (excellent) [`testflow`](http://ctan.org/p
 suite, that provides a detailed outline of the potential problems
 together with a sample document and prototype outputs.
 
+
+----
+
+Content last updated: 2014-06-10

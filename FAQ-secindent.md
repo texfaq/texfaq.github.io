@@ -7,3 +7,7 @@ The [`indentfirst`](http://ctan.org/pkg/indentfirst) package
 suppresses the mechanism, so that the first paragraph is
 indented.
 
+
+----
+
+Content last updated: 2014-06-10

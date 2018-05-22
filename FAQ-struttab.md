@@ -81,3 +81,7 @@ author's scheme, but deals with inter-row spacing too.  The most
 recent release of [`booktabs`](http://ctan.org/pkg/booktabs) sports compatibility with
 packages such as [`longtable`](http://ctan.org/pkg/longtable).
 
+
+----
+
+Content last updated: 2014-06-10

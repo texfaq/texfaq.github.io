@@ -27,3 +27,7 @@ modified `xdvi` and (recent releases of)
 releases of [`ghostscript`](http://www.ghostscript.com/)
 or Acrobat Distiller.
 
+
+----
+
+Content last updated: 2014-06-10

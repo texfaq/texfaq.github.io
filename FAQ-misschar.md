@@ -35,3 +35,7 @@ fonts.  In these cases, there _is_ a typeset sign of the
 character: `dvips` produces a black rectangle of whatever
 size the concocted font file has specified.
 
+
+----
+
+Content last updated: 2014-06-10

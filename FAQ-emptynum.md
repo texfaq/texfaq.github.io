@@ -25,3 +25,7 @@ A similar technique doesn't work for a [`book`](http://ctan.org/pkg/book) or [`r
 `\part` command pages.  For that, and for other detail, take look
 at ''[getting rid of page numbers](./FAQ-nopageno.html)''.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -32,3 +32,7 @@ To suppress the footnote in headings and table of contents:
     \section{title\footnote{title ftnt}}
     ```
 
+
+----
+
+Content last updated: 2014-06-10

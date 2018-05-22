@@ -64,3 +64,7 @@ pdfLaTeX, and also covers the [`pstricks`](http://ctan.org/pkg/pstricks)-specifi
 Herbert Vo&szlig;'s page) is [`pdftricks2`](http://ctan.org/pkg/pdftricks2), which offers similar
 facilities to [`pdftricks`](http://ctan.org/pkg/pdftricks), but with some useful variations.
 
+
+----
+
+Content last updated: 2014-06-10

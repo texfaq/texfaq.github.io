@@ -116,3 +116,7 @@ sectioning macros, or  look for some alternative in the packages
 discussed in 
 ''[The style of section headings](./FAQ-secthead.html)''.
 
+
+----
+
+Content last updated: 2014-06-10

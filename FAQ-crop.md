@@ -12,3 +12,7 @@ facilities to satisfy any conceivable production house.  Users of the
 [`memoir`](http://ctan.org/pkg/memoir) class don't need the package, since [`memoir`](http://ctan.org/pkg/memoir) has
 its own facilities for programming crop marks.
 
+
+----
+
+Content last updated: 2014-06-10

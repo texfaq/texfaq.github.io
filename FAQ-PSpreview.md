@@ -30,3 +30,7 @@ have a couple options:
     purchased the fonts, it is advisable to check that their licence
     permits you to convert them, for private use, in this way.)
 
+
+----
+
+Content last updated: 2014-06-10

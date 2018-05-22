@@ -29,3 +29,7 @@ The other comparable class is [`memoir`](http://ctan.org/pkg/memoir).  This aims
 spoken of, and its lengthy introductory section is regularly
 recommended as a tutorial on typesetting.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -103,3 +103,7 @@ The [`memoir`](http://ctan.org/pkg/memoir) class includes the facilities of the
 [`appendix`](http://ctan.org/pkg/appendix) package.  The [`KOMA-script`](http://ctan.org/pkg/KOMA-script) classes offer a
 `\appendixprefix` command for manipulating the appearance of appendixes.
 
+
+----
+
+Content last updated: 2014-06-10

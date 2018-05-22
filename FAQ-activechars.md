@@ -118,3 +118,7 @@ made active&nbsp;&mdash; the definition of the command persists even if the
 character's catcode reverts to its original value; the definition
 becomes accessible again if the character once again becomes active.
 
+
+----
+
+Content last updated: 2014-06-10

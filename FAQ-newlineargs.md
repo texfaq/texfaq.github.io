@@ -54,3 +54,7 @@ Note that the [`amsmath`](http://ctan.org/pkg/amsmath) package modifies the beha
 `eqnarray` example doesn't need any special action
 (`\relax` or braces).
 
+
+----
+
+Content last updated: 2014-06-10

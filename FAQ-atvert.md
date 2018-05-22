@@ -28,3 +28,7 @@ The problem is discussed in detail in
 ''[`@` in macro names](./FAQ-atsigns.html)'',
 together with solutions.
 
+
+----
+
+Content last updated: 2014-06-10

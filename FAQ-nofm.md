@@ -11,3 +11,7 @@ The documentation of the [`fancyhdr`](http://ctan.org/pkg/fancyhdr) package spel
 how one might actually use this information to produce page numbering
 as suggested in the question.
 
+
+----
+
+Content last updated: 2014-06-10

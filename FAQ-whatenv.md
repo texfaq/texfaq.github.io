@@ -94,3 +94,7 @@ have to wrap it in a macro of its own:
   {\typeout{what was \foo{}, again?}
 ```
 <!-- {% endraw %} -->
+
+----
+
+Content last updated: 2014-06-10

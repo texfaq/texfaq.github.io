@@ -44,3 +44,7 @@ for use in old documents.
 The [`FiNK`](http://ctan.org/pkg/FiNK) bundle includes a `fink.el` that provides
 support under `emacs` with AUC-TeX.
 
+
+----
+
+Content last updated: 2014-06-10

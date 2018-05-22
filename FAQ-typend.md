@@ -42,3 +42,7 @@ illegal character: what it is will depend on what macros you are
 running.  If you can't make that work, try a silly command name or
 two.
 
+
+----
+
+Content last updated: 2014-06-10

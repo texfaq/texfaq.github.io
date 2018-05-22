@@ -49,3 +49,7 @@ footnoting. They can be used like this:
 ```
 The [`memoir`](http://ctan.org/pkg/memoir) class offers all the facilities of [`abstract`](http://ctan.org/pkg/abstract).
 
+
+----
+
+Content last updated: 2014-06-10

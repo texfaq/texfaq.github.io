@@ -38,3 +38,7 @@ The [`array`](http://ctan.org/pkg/array) package works with several other
 example `longtable`), but unfortunately this trick won't
 always work.
 
+
+----
+
+Content last updated: 2014-06-10

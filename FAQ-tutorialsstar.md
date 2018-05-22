@@ -21,3 +21,7 @@ Next comes the (somewhat newer) field of
 A rather short list gives us a 
 [Typography style tutorial](./FAQ-typo-style.html).
 
+
+----
+
+Content last updated: 2014-06-10

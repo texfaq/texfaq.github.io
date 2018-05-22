@@ -77,3 +77,7 @@ value `10pt`) and `\belowcaptionskip` (default value
 does the job (if the length values are right; the package and classes
 are more careful!).
 
+
+----
+
+Content last updated: 2014-06-10

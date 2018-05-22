@@ -132,3 +132,7 @@ optional argument of the command, you can specify which pages you want
 to be included from the file named, and various details of the layout
 of the included pages.
 
+
+----
+
+Content last updated: 2014-06-10

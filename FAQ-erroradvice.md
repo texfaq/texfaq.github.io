@@ -65,3 +65,7 @@ appeal to the [wider public](./FAQ-gethelp.html)
 for assistance, but if you do, be sure to
 report full backtraces (see `errorcontextlines` above) and so on.
 
+
+----
+
+Content last updated: 2014-06-10

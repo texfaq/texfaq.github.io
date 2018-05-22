@@ -59,3 +59,7 @@ has been rendered obsolete by the appearance of the [`enumitem`](http://ctan.org
 package, which is discussed in the answer about 
 [decorating enumeration lists](./FAQ-enumerate.html).
 
+
+----
+
+Content last updated: 2014-06-10

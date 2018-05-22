@@ -35,3 +35,7 @@ TDS, so in principle, installation consists simply of
 Documentation of the [`psnfss`](http://ctan.org/pkg/psnfss) bundle is provided in
 `psnfss2e.pdf` in the distribution.
 
+
+----
+
+Content last updated: 2014-06-10

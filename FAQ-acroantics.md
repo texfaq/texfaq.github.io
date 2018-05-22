@@ -28,3 +28,7 @@ to the next:
     checkbox is unchecked.  It may also be useful to uncheck the
     ''Expand small pages to fit paper size'' checkbox as well.
 
+
+----
+
+Content last updated: 2014-06-10

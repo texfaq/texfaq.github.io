@@ -47,3 +47,7 @@ example would therefore become:
   ...  ... \TAB> voil\`a \TAB> ...
 ```
 
+
+----
+
+Content last updated: 2014-06-10

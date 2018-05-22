@@ -27,3 +27,7 @@ changes come from bug reports); this, too, is in pursuit of stability,
 and is a driving force for many of the efforts to contribute LaTeX
 packages.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -11,3 +11,7 @@ in principle, be a problem with the document class, but is more often
 caused by the user forgetting to start their document with a
 `\documentclass` command.
 
+
+----
+
+Content last updated: 2014-06-10

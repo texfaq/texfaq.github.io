@@ -77,3 +77,7 @@ protection of some things, but the techniques available in
 current LaTeX mean that this is an expensive exercise.  It remains
 a long-term aim of the team to remove all need for `\protect`ion.
 
+
+----
+
+Content last updated: 2014-06-10

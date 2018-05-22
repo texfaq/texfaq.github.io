@@ -56,3 +56,7 @@ What can be done about the problem?  Not much, short of rewriting
 LaTeX&nbsp;&mdash; you really need to rewrite your document in a slightly
 less labyrinthine way.
 
+
+----
+
+Content last updated: 2014-06-10

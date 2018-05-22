@@ -22,3 +22,7 @@ AMSTeX; no doubt it would also fail if asked to load Eplain.
 All these things can be overcome (although it's not often easy), but
 the environment saves a lot of work on many occasions.
 
+
+----
+
+Content last updated: 2014-06-10

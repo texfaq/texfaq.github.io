@@ -92,3 +92,7 @@ equally well to tables, or to ''non-standard'' floats defined by the
     rely on LaTeX's mechanism: get the [`endfloat`](http://ctan.org/pkg/endfloat) package to do
     the job for you.
 
+
+----
+
+Content last updated: 2014-06-10

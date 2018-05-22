@@ -62,3 +62,7 @@ TeX, which further the focus.
   web site), and read installation instructions from 
   [the MiKTeX installation page](http://www.miktex.org/2.9/setup)
 
+
+----
+
+Content last updated: 2014-06-10

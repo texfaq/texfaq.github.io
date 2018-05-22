@@ -123,3 +123,7 @@ The [`memoir`](http://ctan.org/pkg/memoir) class has its own multiple-index func
 well as its own index layout options, which other packages delegate to
 the index style used by `makeindex`).
 
+
+----
+
+Content last updated: 2014-06-10

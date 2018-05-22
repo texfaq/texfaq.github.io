@@ -46,3 +46,7 @@ For the Macintosh (classic), there is a program called
 [Textures](./FAQ-commercial.html) distribution, but is itself free
 software, and is available on CTAN.
 
+
+----
+
+Content last updated: 2014-06-10

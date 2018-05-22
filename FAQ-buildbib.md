@@ -72,3 +72,7 @@ in this endeavour:
     that tab gives you a page containing a BibTeX entry for the
     reference.
 
+
+----
+
+Content last updated: 2014-06-10

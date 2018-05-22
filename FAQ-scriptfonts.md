@@ -57,3 +57,7 @@ modern TeX distributions.
 Examples of the available styles are linked from the packages'
 catalogue entries.
 
+
+----
+
+Content last updated: 2014-06-10

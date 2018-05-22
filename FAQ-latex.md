@@ -14,3 +14,7 @@ the need for such things as FAQs: LaTeX _can_
 meet most user requirements, but finding out _how_ is often
 tricky.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -42,3 +42,7 @@ The whole scheme is outlined in the [`fontname`](http://ctan.org/pkg/fontname) d
 which includes extensive documentation and a set of tables of fonts
 whose names have been systematised.
 
+
+----
+
+Content last updated: 2014-06-10

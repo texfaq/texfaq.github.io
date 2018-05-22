@@ -44,3 +44,7 @@ for AMSTeX, `Pic``\TeX{}`
 for PicTeX, `Bib``\TeX{}`
 for BibTeX, and so on.
 
+
+----
+
+Content last updated: 2014-06-10

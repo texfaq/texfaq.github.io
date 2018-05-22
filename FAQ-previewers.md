@@ -29,3 +29,7 @@ Alternatives to previewing include
 -  generating  PDF output, and viewing that with
     `Acrobat` `Reader` or one of the substitutes for that.
 
+
+----
+
+Content last updated: 2014-06-10

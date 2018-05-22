@@ -67,3 +67,7 @@ loaded [`bar`](http://ctan.org/pkg/bar) once.  Debugging such errors is tricky: 
 involve reading the logs (to spot which packages were called), or the
 documentation of package [`foo`](http://ctan.org/pkg/foo).
 
+
+----
+
+Content last updated: 2014-06-10

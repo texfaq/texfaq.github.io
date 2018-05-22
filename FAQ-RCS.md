@@ -72,3 +72,7 @@ currently claims to support `Bazaar`-controlled repositories.
 Finally, for now, the [`gitinfo`](http://ctan.org/pkg/gitinfo) package supports
 `Git`-controlled documents.
 
+
+----
+
+Content last updated: 2014-06-10

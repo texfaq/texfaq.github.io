@@ -19,3 +19,7 @@ easy to insert
 [`ghostscript`](http://www.ghostscript.com/) into the
 print spooling process, which makes printing _really_ simple.)
 
+
+----
+
+Content last updated: 2014-06-10

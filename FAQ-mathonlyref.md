@@ -19,3 +19,7 @@ operation, only those equations to which you make reference will be
 numbered in the final output.  See the package's documentation for
 details of how to make references when the switch is in effect.
 
+
+----
+
+Content last updated: 2014-06-10

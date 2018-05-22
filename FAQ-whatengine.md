@@ -93,3 +93,7 @@ output, you also need to know about the value of `\pdfoutput`:
 \fi
 ```
 
+
+----
+
+Content last updated: 2014-06-10

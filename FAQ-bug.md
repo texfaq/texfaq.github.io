@@ -40,3 +40,7 @@ help&nbsp;&mdash; TUG maintains a
 (This of course requires that you have the resources&nbsp;&mdash; and a
 pressing  enough need&nbsp;&mdash; to hire someone.)
 
+
+----
+
+Content last updated: 2014-06-10

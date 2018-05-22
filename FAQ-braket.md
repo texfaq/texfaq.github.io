@@ -21,3 +21,7 @@ for set specifications (as above) and for Dirac brackets (and bras and
 kets).  The package uses the &epsilon;-TeX built-in command if it finds
 itself running under &epsilon;-TeX.
 
+
+----
+
+Content last updated: 2014-06-10

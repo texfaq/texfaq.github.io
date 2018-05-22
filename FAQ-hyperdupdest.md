@@ -50,3 +50,7 @@ loaded after hyperref: one such is [`memoir`](http://ctan.org/pkg/memoir)'s
 If loading your packages in the (seemingly) ''correct'' order doesn't
 solve the problem, you need to [seek further help](./FAQ-gethelp.html).
 
+
+----
+
+Content last updated: 2014-06-10

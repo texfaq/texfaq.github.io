@@ -36,3 +36,7 @@ symbols:
 
   are processed versions PDF form for both A4 and letter paper.
 
+
+----
+
+Content last updated: 2014-06-10

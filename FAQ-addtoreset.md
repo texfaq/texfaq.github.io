@@ -60,3 +60,7 @@ a label-like mechanism, and may require more than one run of LaTeX
 to stabilise counter values&nbsp;&mdash; LaTeX will generate the usual
 warnings about labels changing.
 
+
+----
+
+Content last updated: 2014-06-10

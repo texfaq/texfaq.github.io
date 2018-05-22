@@ -39,3 +39,7 @@ example above would become:
 and with that definition, the example will compile succesfully
 ([`hyperref`](http://ctan.org/pkg/hyperref) knows about the macro `\space`).
 
+
+----
+
+Content last updated: 2014-06-10

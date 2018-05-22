@@ -41,3 +41,7 @@ incorporates `Times`-like mathematics, and a sans-serif face
 based on `Helvetica`, but scaled to match `Times`
 text rather better.
 
+
+----
+
+Content last updated: 2014-06-10

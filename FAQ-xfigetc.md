@@ -20,3 +20,7 @@ language, which can draw 2D or 3D diagrams, and can also label
 diagrams with LaTeX text; copious documentation is available via
 [`asymptote`s web site](http://asymptote.sourceforge.net).
 
+
+----
+
+Content last updated: 2014-06-10

@@ -48,3 +48,7 @@ they are available from [MicroPress](./FAQ-psfchoice.html).  The
 [CM-Super fonts](./FAQ-textrace.html) contain Type&nbsp;1 versions
 of the Concrete fonts in T1 encoding.
 
+
+----
+
+Content last updated: 2014-06-10

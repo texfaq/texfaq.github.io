@@ -54,3 +54,7 @@ optional 'short' title argument to the chapter and section commands.
 (Although it comes from the same author, [`zref`](http://ctan.org/pkg/zref) _doesn't_
 define a short-name variant.)
 
+
+----
+
+Content last updated: 2014-06-10

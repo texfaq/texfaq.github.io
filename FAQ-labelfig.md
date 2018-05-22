@@ -106,3 +106,7 @@ environment which itself includes the graphic.  I would recommend
 are plainly little more than a convenience over what is achievable
 with the do-it-yourself approach.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -42,3 +42,7 @@ Otherwise, if you have a lengthy piece of text that you want active,
 you have at present no simple solution: you have to rewrite your text,
 or to use a different PDF generation mechanism.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -78,3 +78,7 @@ appeal to the specifiers of eccentric document layouts (such as those
 for dissertations), but for once their sense conforms with typographic
 style.  (Or at least, style constrained in this curious way.)
 
+
+----
+
+Content last updated: 2014-06-10

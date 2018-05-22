@@ -20,3 +20,7 @@ TeX macros.
 ExTeX will accept Unicode input, from the start.  In the longer
 term, drawing primitives are to be considered.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -38,3 +38,7 @@ becoming less common.
 Documentation of [`setspace`](http://ctan.org/pkg/setspace) appears as TeX comments in the
 package file itself.
 
+
+----
+
+Content last updated: 2014-06-10

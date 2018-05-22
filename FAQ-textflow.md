@@ -78,3 +78,7 @@ functional. Syntax is
 (the user is responsible for having the dimensions correct, and for
 ensuring the figure fits on the page).
 
+
+----
+
+Content last updated: 2014-06-10

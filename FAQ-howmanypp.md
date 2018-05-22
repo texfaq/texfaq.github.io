@@ -28,3 +28,7 @@ to the equivalent of the `LastPage` label and the
 Both [`count1to`](http://ctan.org/pkg/count1to) and [`totpages`](http://ctan.org/pkg/totpages) need the support of
 the [`everyshi`](http://ctan.org/pkg/everyshi) package.
 
+
+----
+
+Content last updated: 2014-06-10

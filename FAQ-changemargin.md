@@ -39,3 +39,7 @@ temporarily&nbsp;&mdash; and there's an answer that covers that, too:
 
 -  [Change the margins on the fly](./FAQ-chngmargonfly.html).
 
+
+----
+
+Content last updated: 2014-06-10

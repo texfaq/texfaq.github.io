@@ -11,3 +11,7 @@ The LaTeX 2e logo is supposed to end with an
 &epsilon;; nevertheless, most
 people pronounce the name as 'LaTeX-two-ee'.
 
+
+----
+
+Content last updated: 2014-06-10

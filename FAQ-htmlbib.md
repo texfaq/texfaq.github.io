@@ -18,3 +18,7 @@ A more conventional translator is the `awk` script
 a sample of the script's output may be viewed on the web, at
 [http://rikblok.cjb.net/lib/refs.html]
 
+
+----
+
+Content last updated: 2014-06-10

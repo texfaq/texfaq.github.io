@@ -27,3 +27,7 @@ December 1995 release of LaTeX 2e do _not_ use the alternative
 hyphen character, and therefore removed this source of problems; the
 solution, again, is to upgrade your LaTeX.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -25,3 +25,7 @@ fragments, which you can compose to produce complete diagrams.  It
 offers fairly simple diagrams which look good in equations, rather
 than complicated ones more suitable for display in figures.
 
+
+----
+
+Content last updated: 2014-06-10

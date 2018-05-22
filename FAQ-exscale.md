@@ -11,3 +11,7 @@ slightly odd-looking documents.  If you want the fonts to scale,
 despite the warning above, use the [`exscale`](http://ctan.org/pkg/exscale) package&nbsp;&mdash; just
 loading it is enough.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -25,3 +25,7 @@ produced themselves) is now described as [`amsfonts`](http://ctan.org/pkg/amsfon
 bundle contains metric and map files&nbsp;&mdash; all you need to
 [install the fonts](./FAQ-instt1font.html).
 
+
+----
+
+Content last updated: 2014-06-10

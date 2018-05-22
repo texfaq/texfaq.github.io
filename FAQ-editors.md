@@ -94,3 +94,7 @@ files, there are many systems that provide specific ''database-like''
 access to your BibTeX files&nbsp;&mdash;
   see ''[creating a bibliography file](./FAQ-buildbib.html)''.
 
+
+----
+
+Content last updated: 2014-06-10

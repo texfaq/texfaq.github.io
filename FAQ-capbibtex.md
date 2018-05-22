@@ -35,3 +35,7 @@ style with different capitalisation rules.
 There's more on the subject in the
 [BibTeX documentation](./FAQ-BibTeXing.html).
 
+
+----
+
+Content last updated: 2014-06-10

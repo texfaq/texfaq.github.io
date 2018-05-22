@@ -29,3 +29,7 @@ Use the command as follows:
 \includegraphics[width=\maxwidth]{figure}
 ```
 
+
+----
+
+Content last updated: 2014-06-10

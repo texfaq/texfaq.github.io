@@ -17,3 +17,7 @@ decided what it is that you want to install:
     finally
 -  You may need to [tidy up](./FAQ-inst-tidy.html) after the installation.
 
+
+----
+
+Content last updated: 2014-06-10

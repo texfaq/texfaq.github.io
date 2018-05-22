@@ -50,3 +50,7 @@ With commands
 ```
 these 'races' could behave a bit like LaTeX environments.
 
+
+----
+
+Content last updated: 2014-06-10

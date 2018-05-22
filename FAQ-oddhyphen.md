@@ -12,3 +12,7 @@ found on CTAN (see
 [''using a new language''](./FAQ-newlang.html) for instructions
 on adding this new ''language'').
 
+
+----
+
+Content last updated: 2014-06-10

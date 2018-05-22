@@ -33,3 +33,7 @@ Then process with LaTeX (of whatever flavour) and use
 `heading=bib title` to provide the bibliography with a
 (sub)section title.
 
+
+----
+
+Content last updated: 2014-06-10

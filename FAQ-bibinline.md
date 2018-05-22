@@ -43,3 +43,7 @@ bibliography; the user then formats the entry as desired&nbsp;&mdash; obviously
 one could construct one's own bibliography, altogether, from this
 command, but it would quickly become tedious.
 
+
+----
+
+Content last updated: 2014-06-10

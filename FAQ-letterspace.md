@@ -37,3 +37,7 @@ for some font styles (for example, `fraktur`), and the
 package provides a means of protecting the ligatures in a
 letter-spaced text.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -56,3 +56,7 @@ case/lower case translations, which (oddly enough) constrains
 hyphenation of mutilingual texts.  Another that regularly creates
 confusion is [`\baselineskip`](./FAQ-baselinepar.html).
 
+
+----
+
+Content last updated: 2014-06-10

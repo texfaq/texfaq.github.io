@@ -24,3 +24,7 @@ generated for use with various LaTeX font encodings.  Original sets
 of patterns remain on CTAN, for use when an older environment
 is needed.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -25,3 +25,7 @@ So, unless you have program-generated T1 input (which is almost
 inconceivable), use `\usepackage[T1]{fontenc}` rather than
 `\usepackage{t1enc}`.
 
+
+----
+
+Content last updated: 2014-06-10

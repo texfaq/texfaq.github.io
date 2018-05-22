@@ -51,3 +51,7 @@ documentation on how to do it&nbsp;&mdash; there are lots of
 [free tutorials](./FAQ-tutorials*.html) to help you on your way, if you
 don't have access to a LaTeX manual of any sort.
 
+
+----
+
+Content last updated: 2014-06-10

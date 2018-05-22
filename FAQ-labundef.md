@@ -34,3 +34,7 @@ of a single label, or the states of a list of labels.  The package's
 definition is a bit complicated, but the package itself is pretty
 powerful.
 
+
+----
+
+Content last updated: 2014-06-10

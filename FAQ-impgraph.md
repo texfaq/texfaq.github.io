@@ -90,3 +90,7 @@ has been written by Ian Hutchinson; the document isn't on CTAN,
 but may also be
 [browsed on the Web](http://silas.psfc.mit.edu/elec_fig/).
 
+
+----
+
+Content last updated: 2014-06-10

@@ -20,3 +20,7 @@ created by use of the following macros:
 `\dashint` gives a single-dashed integral sign, `\ddashint` a
 double-dashed one.
 
+
+----
+
+Content last updated: 2014-06-10

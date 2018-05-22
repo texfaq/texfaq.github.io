@@ -54,3 +54,7 @@ use with (La)TeX.  The rest of this answer discusses this preparation.
 Having traversed this list, you have a set of font files ready for
 installation.
 
+
+----
+
+Content last updated: 2014-06-10

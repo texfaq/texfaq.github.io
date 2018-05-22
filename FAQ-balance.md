@@ -42,3 +42,7 @@ It is this difficulty (what's required in any instance can't really be
 expressed in current LaTeX) that led the author of
 [`multicol`](http://ctan.org/pkg/multicol) to suppress single-column-wide floats.
 
+
+----
+
+Content last updated: 2014-06-10

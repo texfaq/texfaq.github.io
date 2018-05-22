@@ -53,3 +53,7 @@ if necessary.)  Users of the shareware program
 will find buttons to perform the required transformation of the file
 being displayed.
 
+
+----
+
+Content last updated: 2014-06-10

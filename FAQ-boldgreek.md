@@ -41,3 +41,7 @@ These problems may be addressed by using a bold mathematics package.
 All these solutions apply to all mathematical symbols, not merely
 Greek letters.
 
+
+----
+
+Content last updated: 2014-06-10

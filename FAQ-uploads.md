@@ -59,3 +59,7 @@ Mirroring is only practical using `ftp` or `rsync`, so
 this facility is limited to packages offered by a server that uses one
 of those protocols.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -17,3 +17,7 @@ your sections, or do away with section numbering by using
 discussed in 
 ''[unnumbered sections in the table of contents](./FAQ-secnumdep.html)''.
 
+
+----
+
+Content last updated: 2014-06-10

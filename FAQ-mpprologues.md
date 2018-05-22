@@ -72,3 +72,7 @@ A script application, `mptopdf`, is available in recent
 PDF from MetaPost, so may reasonably be considered an answer to
 the question&hellip;
 
+
+----
+
+Content last updated: 2014-06-10

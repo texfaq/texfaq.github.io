@@ -44,3 +44,7 @@ produce.  (Because [`xampl.bib`](http://ctan.org/pkg/xampl.bib) is so extreme in
 ''examples'', the BibTeX run will also give you an interesting
 selection of BibTeX's error messages&hellip;)
 
+
+----
+
+Content last updated: 2014-06-10

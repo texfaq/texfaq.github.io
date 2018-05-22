@@ -24,3 +24,7 @@ This author has also encountered the error when developing macros that
 used the LaTeX internal float mechanisms.  Most people doing that
 sort of thing are expected to be able to work out their own problems&hellip;
 
+
+----
+
+Content last updated: 2014-06-10

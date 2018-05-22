@@ -72,3 +72,7 @@ coding of the last `\foo` above:
 ```
 <!-- {% endraw %} -->
 
+
+----
+
+Content last updated: 2014-06-10

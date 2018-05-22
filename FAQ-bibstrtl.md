@@ -47,3 +47,7 @@ In this way, you arrange that all BibTeX has to deal with is the
 file name, though it will tell TeX (when appropriate) to include
 all the long text.
 
+
+----
+
+Content last updated: 2014-06-10

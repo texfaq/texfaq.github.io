@@ -76,3 +76,7 @@ A rudimentary revision facility is provided by another
 all changes.  Manual editing of the difference file can be used to 
 accept or reject selected changes only.
 
+
+----
+
+Content last updated: 2014-06-10

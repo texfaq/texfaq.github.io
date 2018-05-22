@@ -55,3 +55,7 @@ and
 The web pages provide programming examples, and expect users to adapt
 them to their own LaTeX use.
 
+
+----
+
+Content last updated: 2014-06-10

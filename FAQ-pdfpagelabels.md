@@ -33,3 +33,7 @@ an unnumbered title page, after which page numbers are reset: the
 pdfTeX warning of ''[duplicate destinations](./FAQ-hyperdupdest.html)''
 will happen in this case, regardless of the options.
 
+
+----
+
+Content last updated: 2014-06-10

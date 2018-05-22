@@ -35,3 +35,7 @@ the code of another macro.  This is explained elsewhere, separately
 for [LaTeX definitions](./FAQ-ltxhash.html) and for
 [TeX primitive definitions](./FAQ-hash.html)
 
+
+----
+
+Content last updated: 2014-06-10

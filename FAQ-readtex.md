@@ -55,3 +55,7 @@ Are you ''put off'' by all this?&nbsp;&mdash; remember that TeX is good at
 producing PDF: why not ask the person who sent the TeX file
 to send an PDF copy?
 
+
+----
+
+Content last updated: 2014-06-10

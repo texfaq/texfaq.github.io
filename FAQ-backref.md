@@ -22,3 +22,7 @@ forgiveable in the case of the [`hyperref`](http://ctan.org/pkg/hyperref)-relate
 [`backref`](http://ctan.org/pkg/backref), since the concept of multiple hyperlinks from the
 same anchor is less than appealing.)
 
+
+----
+
+Content last updated: 2014-06-10

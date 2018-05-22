@@ -18,3 +18,7 @@ by a different mechanism.
 
 Documentation of [`ulem`](http://ctan.org/pkg/ulem) is in the package file.
 
+
+----
+
+Content last updated: 2014-06-10

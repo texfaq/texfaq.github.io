@@ -9,3 +9,7 @@ documentation.
 Ordinary people (such as the author of this FAQ) need only type
 '@'.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -56,3 +56,7 @@ commands (_not_ the TeX primitive commands `\uppercase` and
 `\lowercase`), so that section headings and the like don't produce
 broken page headings.
 
+
+----
+
+Content last updated: 2014-06-10

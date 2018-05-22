@@ -23,3 +23,7 @@ won't 'float', and exhibit other strange behaviours (such as silently
 running off the end of the column at the end of the
 `multicols` environment).
 
+
+----
+
+Content last updated: 2014-06-10

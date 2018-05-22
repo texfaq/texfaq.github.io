@@ -118,3 +118,7 @@ support for new Web standards.
 ```
 ([`Mathtex`](http://ctan.org/pkg/Mathtex) supersedes the author's earlier [`mimetex`](http://ctan.org/pkg/mimetex).)
 
+
+----
+
+Content last updated: 2014-06-10

@@ -16,3 +16,7 @@ World Wide Web, there are four technologies to consider:
 -  Start from (unconventional) (La)TeX which use the 
     [hyperTeX conventions](./FAQ-hypertex.html).
 
+
+----
+
+Content last updated: 2014-06-10

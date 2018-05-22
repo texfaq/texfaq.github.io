@@ -26,3 +26,7 @@ too; TUG's web site maintains a list of
 
 Contact TUG itself via http://tug.org/contact
 
+
+----
+
+Content last updated: 2014-06-10

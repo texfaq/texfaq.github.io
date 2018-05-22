@@ -56,3 +56,7 @@ the load on CTAN mirrors.
 Note that all the download links, given in the web representation of
 these FAQs, are set up to use the mirror selector.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -94,3 +94,7 @@ as the text with a different size:
 Main body of text...
 ```
 
+
+----
+
+Content last updated: 2014-06-10

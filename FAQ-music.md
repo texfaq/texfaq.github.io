@@ -63,3 +63,7 @@ Once Andreas Egler had withdrawn (his last version of
 [`musixtex`](http://ctan.org/pkg/musixtex) is preserved on the archive), Daniel Taupin took up
 the development, leading to the [`musixtex`](http://ctan.org/pkg/musixtex) used today.
 
+
+----
+
+Content last updated: 2014-06-10

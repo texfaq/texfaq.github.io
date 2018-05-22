@@ -37,3 +37,7 @@ as it appears in `classes.dtx`, was published in
 TUGboat 28(1).  The article, by Peter Flynn, is a good guide to
 understanding `classes.dtx`
 
+
+----
+
+Content last updated: 2014-06-10

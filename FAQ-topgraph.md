@@ -48,3 +48,7 @@ the [`calc`](http://ctan.org/pkg/calc) package:
 The fact is, _you_ may choose where the base-line ends up.  This
 answer merely shows you sensible choices you might make.
 
+
+----
+
+Content last updated: 2014-06-10

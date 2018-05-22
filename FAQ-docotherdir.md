@@ -57,3 +57,7 @@ provide a path to the file.  (There are also
 Documentation of [`chapterfolder`](http://ctan.org/pkg/chapterfolder) is in French, but the
 `README` in the directory is in English.
 
+
+----
+
+Content last updated: 2014-06-10

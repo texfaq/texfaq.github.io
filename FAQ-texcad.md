@@ -11,3 +11,7 @@ TeXCAD is part of the emTeX distribution.
 
 A Unix port of the program (`xtexcad`) has been made.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -34,3 +34,7 @@ FAQ team.  Its output certainly looks good.
 There is also a LaTeX 2.09 package [`resume`](http://ctan.org/pkg/resume), which comes with
 little but advice _against_ trying to use it.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -47,3 +47,7 @@ ranges of sizes.  This is true, for example, of
 [presentation and lecturing classes](./FAQ-slidecls.html) (such as
 [`beamer`](http://ctan.org/pkg/beamer).
 
+
+----
+
+Content last updated: 2014-06-10

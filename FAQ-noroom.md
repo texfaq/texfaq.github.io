@@ -77,3 +77,7 @@ objects (and neither will the [`etex`](http://ctan.org/pkg/etex) package), but t
 [`morewrites`](http://ctan.org/pkg/morewrites) package can provide the _illusion_ of large
 numbers of `\write` objects.
 
+
+----
+
+Content last updated: 2014-06-10

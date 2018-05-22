@@ -48,3 +48,7 @@ language, you are asked whether you want the style to interact with
 worlds&nbsp;&mdash; formatting freedom from [`custom-bib`](http://ctan.org/pkg/custom-bib) and linguistic
 freedom via the extensibility of [`babelbib`](http://ctan.org/pkg/babelbib)
 
+
+----
+
+Content last updated: 2014-06-10

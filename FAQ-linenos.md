@@ -26,3 +26,7 @@ interpolated mathematics or figures.  Documentation of the package, in
 the package itself, is pretty tough going, though there is an example
 (also inside the package file).
 
+
+----
+
+Content last updated: 2014-06-10

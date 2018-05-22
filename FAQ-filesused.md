@@ -49,3 +49,7 @@ either via the `-recorder` option of TeX, or by using the
 doing.  The files thus found are copied (or linked) to a directory
 which may then be saved for transmission or archiving.
 
+
+----
+
+Content last updated: 2014-06-10

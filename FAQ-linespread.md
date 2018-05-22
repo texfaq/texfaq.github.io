@@ -28,3 +28,7 @@ you want to avoid [`setspace`](http://ctan.org/pkg/setspace), beware the behavio
 linespread changes within a paragraph: read 
 ''[`\baselineskip` is a paragraph parameter](./FAQ-baselinepar.html)''.
 
+
+----
+
+Content last updated: 2014-06-10

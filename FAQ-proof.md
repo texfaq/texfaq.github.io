@@ -30,3 +30,7 @@ equation:
 The `\tag*{`\qedhere`}` construction may be used in any of
 AMSLaTeX's numbering environments.
 
+
+----
+
+Content last updated: 2014-06-10

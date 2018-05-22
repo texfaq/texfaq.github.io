@@ -46,3 +46,7 @@ bundling them up into a `sty` file and including them with
 `\usepackage`; this way you hide your LaTeX internal code somewhere
 that LaTeX internal code is expected, which often looks 'tidier'.
 
+
+----
+
+Content last updated: 2014-06-10

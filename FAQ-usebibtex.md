@@ -77,3 +77,7 @@ resolve labels.
 To summarise: processing to resolve citations requires: LaTeX;
 BibTeX; LaTeX; LaTeX.
 
+
+----
+
+Content last updated: 2014-06-10

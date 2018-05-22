@@ -62,3 +62,7 @@ Footnotes can be even more complex;
 ''[footnotes in LaTeX section headings](./FAQ-ftnsect.html)''
 deals specifically with that issue.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -101,3 +101,7 @@ MetaPost, at least) in-line in your document, and then have them
 processed in a command spawned from your (La)TeX run.  For details,
 see [question](./FAQ-inlgrphapp.html).
 
+
+----
+
+Content last updated: 2014-06-10

@@ -86,3 +86,7 @@ Simply loading the package to provide `\DeclareDocumentCommand`
 ''pulls in'' all of the LaTeX3 kernel (a large bunch of packages)
 via the [`expl3`](http://ctan.org/pkg/expl3) package.
 
+
+----
+
+Content last updated: 2014-06-10

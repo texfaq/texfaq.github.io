@@ -73,3 +73,7 @@ either of the [`url`](http://ctan.org/pkg/url) or [`hyperref`](http://ctan.org/p
 ''`%`--end-of-line'' structure in its argument, and
 removes it.
 
+
+----
+
+Content last updated: 2014-06-10

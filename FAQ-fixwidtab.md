@@ -46,3 +46,7 @@ should process using LaTeX.  Processing will give you a `.sty`
 file as well as the `.dvi` or `.pdf` output containing the
 documentation.
 
+
+----
+
+Content last updated: 2014-06-10

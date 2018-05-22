@@ -17,3 +17,7 @@ Discussion of literate programming is conducted in the newsgroup
 CTAN.  Another good source of information is
 [http://www.literateprogramming.com/](http://www.literateprogramming.com/)
 
+
+----
+
+Content last updated: 2014-06-10

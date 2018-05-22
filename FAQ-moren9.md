@@ -58,3 +58,7 @@ accurately.
 
         * faq-mac-prog.tex (q-keyval): tweak words about getoptk
 
+
+----
+
+Content last updated: 2014-06-10

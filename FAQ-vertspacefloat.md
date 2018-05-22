@@ -49,3 +49,7 @@ not work with obsolete (pre-LaTeX 2e) packages such as
 [graphics inclusion](./FAQ-impgraph.html) for discussion of the
 genesis of `\includegraphics`.
 
+
+----
+
+Content last updated: 2014-06-10

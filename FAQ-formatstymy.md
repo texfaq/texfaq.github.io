@@ -40,3 +40,7 @@ depends on which system you are using.
   `MiKTeX Options`, and in the options window, click
     `Update now`.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -85,3 +85,7 @@ already in ConTeXt itself; there's a useful summary of what's
 available, with examples, in
 [http://wiki.ConTeXtgarden.net/Presentation_Styles]
 
+
+----
+
+Content last updated: 2014-06-10

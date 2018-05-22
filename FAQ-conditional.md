@@ -195,3 +195,7 @@ including (numeric or labelled) ranges of environments to extract, and
 an `extract` environment which you can use to create complete
 ready-to-run LaTeX documents with stuff you've extracted.
 
+
+----
+
+Content last updated: 2014-06-10

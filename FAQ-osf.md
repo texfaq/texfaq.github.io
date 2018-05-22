@@ -52,3 +52,7 @@ options available to the (La)TeX user, is already supported by
 package.  Similar support is also in the works for
 [LuaTeX](./FAQ-luatex.html).
 
+
+----
+
+Content last updated: 2014-06-10

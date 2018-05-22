@@ -47,3 +47,7 @@ advised.
 The [`memoir`](http://ctan.org/pkg/memoir) class includes the relevant functionality of the
 [`verbatim`](http://ctan.org/pkg/verbatim) and [`moreverb`](http://ctan.org/pkg/moreverb) packages.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -47,3 +47,7 @@ and making the [`txfonts`](http://ctan.org/pkg/txfonts) version of the command a
 Documentation of [`savesym`](http://ctan.org/pkg/savesym) doesn't amount to much: the only
 commands are `\savesymbol` and `\restoresymbol`, as noted above.
 
+
+----
+
+Content last updated: 2014-06-10

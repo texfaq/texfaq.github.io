@@ -23,3 +23,7 @@ want to override them. Even the casual user may find  more
 hyphenation or overfull boxes than Computer Modern produces; but CM
 is extremely generous. 
 
+
+----
+
+Content last updated: 2014-06-10

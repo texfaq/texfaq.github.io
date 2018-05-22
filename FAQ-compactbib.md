@@ -38,3 +38,7 @@ plethora of space-saving measures: you can, in principle, suppress all
 its other actions, and have it provide you a compressed bibliography
 _only_.
 
+
+----
+
+Content last updated: 2014-06-10

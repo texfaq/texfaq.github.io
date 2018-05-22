@@ -7,3 +7,7 @@ also makes a hash of accent commands:
 enclose the troublesome sequence in braces, as
 `{\~n}`, in this example.
 
+
+----
+
+Content last updated: 2014-06-10

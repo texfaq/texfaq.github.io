@@ -101,3 +101,7 @@ length registers `\stockheight` and `\stockwidth`.  The commands
 (for pdfLaTeX processing) then instruct the processor to produce
 output that specifies the necessary paper size.
 
+
+----
+
+Content last updated: 2014-06-10

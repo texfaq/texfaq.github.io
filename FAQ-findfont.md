@@ -43,3 +43,7 @@ fonts that are configured for general (both textual and mathematical)
 use with (La)TeX.  The list of such fonts is sufficiently short that
 they _can_ all be discussed in one answer.
 
+
+----
+
+Content last updated: 2014-06-10

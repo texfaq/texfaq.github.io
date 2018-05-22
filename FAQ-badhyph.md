@@ -37,3 +37,7 @@ accented-letter commands such as the `\``e` in
 single accented character by the time the hyphenation gets to look at
 it.
 
+
+----
+
+Content last updated: 2014-06-10

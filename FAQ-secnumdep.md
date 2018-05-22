@@ -51,3 +51,7 @@ aren't numbered.  The [`memoir`](http://ctan.org/pkg/memoir) class incorporates 
 of all three of the [`abstract`](http://ctan.org/pkg/abstract), [`tocbibind`](http://ctan.org/pkg/tocbibind) and
 [`tocvsec2`](http://ctan.org/pkg/tocvsec2) packages.
 
+
+----
+
+Content last updated: 2014-06-10

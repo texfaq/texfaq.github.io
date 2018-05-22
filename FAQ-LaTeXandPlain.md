@@ -28,3 +28,7 @@ So, Plain TeX and LaTeX are related through a common parent, and
 are designed for use in similar jobs; programming for one will often
 not work correctly in the other.
 
+
+----
+
+Content last updated: 2014-06-10

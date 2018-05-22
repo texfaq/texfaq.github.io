@@ -68,3 +68,7 @@ The package ensures that the repeated text appears at most once per
 page: it will usually take more than one run of LaTeX to get rid of
 the repeats.
 
+
+----
+
+Content last updated: 2014-06-10

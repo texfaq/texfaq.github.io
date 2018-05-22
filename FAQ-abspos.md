@@ -21,3 +21,7 @@ other rather stilted commands of `picture`-mode.
 ([`Eso-pic`](http://ctan.org/pkg/Eso-pic) requires the services of [`everyshi`](http://ctan.org/pkg/everyshi), which
 must therefore also be available.)
 
+
+----
+
+Content last updated: 2014-06-10

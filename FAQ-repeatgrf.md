@@ -59,3 +59,7 @@ objects whether or not the PostScript has them amalgamated.  pdfTeX does
 the same job with graphics, automatically converting multiple uses
 into references to graphics objects.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -16,3 +16,7 @@ Alternatively, the following sets up an environment
 The [`ntheorem`](http://ctan.org/pkg/ntheorem) package provides control of the fonts used by
 theorems, directly.
 
+
+----
+
+Content last updated: 2014-06-10

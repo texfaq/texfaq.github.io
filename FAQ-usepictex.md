@@ -49,3 +49,7 @@ part of the distribution).  `MathsPic` is available either as
 a `Basic` program for DOS, or as a `Perl`
 program for other systems (including Windows, nowadays).
 
+
+----
+
+Content last updated: 2014-06-10

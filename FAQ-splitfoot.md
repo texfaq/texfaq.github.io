@@ -39,3 +39,7 @@ one page.
 The [`fnbreak`](http://ctan.org/pkg/fnbreak) package detects (and generates warnings about)
 split footnotes.
 
+
+----
+
+Content last updated: 2014-06-10

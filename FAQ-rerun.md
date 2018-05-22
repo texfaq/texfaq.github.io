@@ -26,3 +26,7 @@ The only solution to this problem is to make a small change to your
 document (something as small as adding or deleting a comma will often
 be enough).
 
+
+----
+
+Content last updated: 2014-06-10

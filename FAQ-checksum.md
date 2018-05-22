@@ -28,3 +28,7 @@ If the output _does_ look bad, your only chance is to regenerate
 things from scratch.  Options include: flushing your bitmap cache,
 rebuild the TFM file locally, and so on.
 
+
+----
+
+Content last updated: 2014-06-10

@@ -51,3 +51,7 @@ In summary, the `\label` must be _after_ the command that
 defines it (e.g., `\caption`), and if the `\caption` is inside
 an environment, the `\label` must be in there too.
 
+
+----
+
+Content last updated: 2014-06-10

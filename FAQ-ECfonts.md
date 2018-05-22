@@ -67,3 +67,7 @@ and use Unicode-encoded fonts (typically in `ttf` or
 `otf` formats).  The [`cm-unicode`](http://ctan.org/pkg/cm-unicode) fonts carry the
 flag in this arena, along with the Latin Modern set.
 
+
+----
+
+Content last updated: 2014-06-10

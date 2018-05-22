@@ -44,3 +44,7 @@ Other non-English FAQs are available (off-CTAN):
 - CzechSee [http://www.fi.muni.cz/cstug/csfaq/](http://www.fi.muni.cz/cstug/csfaq/)
 
 
+
+----
+
+Content last updated: 2014-06-10

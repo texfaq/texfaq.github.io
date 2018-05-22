@@ -25,3 +25,7 @@ errors: you _must_ use
 \textsuperscript{\textregistered}
 ```
 
+
+----
+
+Content last updated: 2014-06-10

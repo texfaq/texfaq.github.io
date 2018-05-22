@@ -99,3 +99,7 @@ mathematical fonts, which is a non-trivial undertaking&nbsp;&mdash;
 see [''choice of scalable fonts''](./FAQ-psfchoice.html).
   very large download)
 
+
+----
+
+Content last updated: 2014-06-10

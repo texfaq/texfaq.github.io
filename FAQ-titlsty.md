@@ -17,3 +17,7 @@ to program alternative
 The web page is not useful to users unless they are willing to do
 their own LaTeX programming.
 
+
+----
+
+Content last updated: 2014-06-10

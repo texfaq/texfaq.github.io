@@ -11,3 +11,7 @@ start is the University of California style, but remember that it's
 often difficult to produce a thesis that both looks good and conforms
 with the style that your Univeristy demands.
 
+
+----
+
+Content last updated: 2014-06-10

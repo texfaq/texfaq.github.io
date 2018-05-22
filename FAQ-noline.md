@@ -69,3 +69,7 @@ You _can_ use `\leavevmode`, as above:
 but that is just as tiresome to type as ` ` with an optional
 argument, and can not be recommended.
 
+
+----
+
+Content last updated: 2014-06-10

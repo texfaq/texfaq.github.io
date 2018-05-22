@@ -61,3 +61,7 @@ the head- and footline capabilities of the major packages.
 
 Documentation of [`ltablex`](http://ctan.org/pkg/ltablex) is to be found in the package file.
 
+
+----
+
+Content last updated: 2014-06-10

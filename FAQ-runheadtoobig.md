@@ -78,3 +78,7 @@ example:
 As a result, it is always possible for users of [`memoir`](http://ctan.org/pkg/memoir) to
 tailor the header text to fit, with very little trouble.
 
+
+----
+
+Content last updated: 2014-06-10
