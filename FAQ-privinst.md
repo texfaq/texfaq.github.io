@@ -20,7 +20,7 @@ you to do it.  The most modern distributions refer to the tree as
 `$TEXMFHOME`, but it used to be called `$HOMETEXMF`;
 so to check that your TeX system does indeed support the mechanism
 you should start with
-```latex
+```
 kpsewhich -var-value TEXMFHOME
 ```
 (for example).  This will almost invariably return a pointer to a
@@ -32,7 +32,7 @@ If you can confirm that the technique does indeed work, install your
 new package (or whatever) in the [correct place](./FAQ-install-where.html)
 in a tree based on `$HOME/texmf`, 
 and generate an index of that tree
-```latex
+```
 texhash $HOME/texmf
 ```
 (the argument specifies which tree you are indexing: it's necessary
@@ -48,7 +48,7 @@ default name.  In either case, a good solution is to have your own
 `texmf.cnf`&nbsp;&mdash; an idea that sounds more frightening that it
 actually is.  The installation's existing file may be located with the
 command:
-```latex
+```
 kpsewhich texmf.cnf
 ```
 Take a copy of the file and put it into a directory of your own; this
@@ -57,26 +57,26 @@ directory of the tree you want to create, i.e.,
 `$HOME/texmf/web2c` 
 or the like.  Make an environment variable to
 point to this directory:
-```latex
+```
 TEXMFCNF=$HOME/texmf/web2c
 export TEXMFCNF
 ```
 (for a Bourne shell style system), or
-```latex
+```
 setenv TEXMFCNF $HOME/texmf/web2c
 ```
 (for a C-shell style system).  Now edit the copy of `texmf.cnf`
 
 There will be a line in the existing file that defines the tree where
 everything searches; the simplest form of the line is:
-```latex
+```
 TEXMF = !!$TEXMFMAIN
 ```
 but, there are likely to be several alternative settings behind
 comment markers ('''`%`''), and the person who
 installed your system may have left them there.  Whatever, you need to
 modify the line that's in effect: change the above to three lines:
-```latex
+```
 HOMETEXMF = $HOME/texmf
 TEXMF = {$HOMETEXMF,!!$TEXMFMAIN}
 % TEXMF = !!$TEXMFMAIN
@@ -84,11 +84,11 @@ TEXMF = {$HOMETEXMF,!!$TEXMFMAIN}
 the important point being that `$HOMETEXMF` must come before
 whatever was there before, inside the braces.  For example, if the
 original was
-```latex
+```
 TEXMF = {!!$LOCALTEXMF,!!$TEXMFMAIN}
 ```
 it should be converted to:
-```latex
+```
 HOMETEXMF = $HOME/texmf
 TEXMF = {$HOMETEXMF,!!$LOCALTEXMF,!!$TEXMFMAIN}
 % TEXMF = {!!$LOCALTEXMF,!!$TEXMFMAIN}
@@ -99,7 +99,7 @@ tell the file-searching library that it should insist on a
 `texhash`-ed directory tree; if you can count on yourself
 remembering to run `texhash` on your new tree every time you
 change it, then it's worth adding the marks to your tree:
-```latex
+```
 TEXMF = {!!$HOMETEXMF,!!$LOCALTEXMF,!!$TEXMFMAIN}
 ```
 as this will make (La)TeX find its files marginally faster.
