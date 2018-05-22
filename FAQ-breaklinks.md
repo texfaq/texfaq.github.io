@@ -13,7 +13,7 @@ If you use the driver for `dvips` output (presumably you want
 to distill the resulting PostScript), limitations in the way `dvips`
 deals with the `\special` commands mean that [`hyperref`](http://ctan.org/pkg/hyperref)
 must prevent link anchors from breaking at the end of lines.  Other
-drivers (notably those for PDFTeX and for `dvipdfm`) don't
+drivers (notably those for pdfTeX and for `dvipdfm`) don't
 suffer from this problem.
 
 The problem may occur in a number of different circumstances.  For a

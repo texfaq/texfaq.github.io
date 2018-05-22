@@ -369,7 +369,7 @@ working on them, and several problems have been identified:
   sans serif and monospaced fonts supplied with the `txfonts`
   set (see below) may be used with `pxfonts`; the
   `txfonts` set should be installed whenever `pxfonts`
-  are.  LaTeX, `dvips` and PDFTeX support files are
+  are.  LaTeX, `dvips` and pdfTeX support files are
   included.
 
   The fonts are not perfect; the widths assigned to the characters in

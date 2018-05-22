@@ -30,6 +30,6 @@ usually are not.
 The recipe isn't perfect: it relies on `\thepage` being different
 for every page in the document.  A common problem arises when there is
 an unnumbered title page, after which page numbers are reset: the
-PDFTeX warning of ''[duplicate destinations](./FAQ-hyperdupdest.html)''
+pdfTeX warning of ''[duplicate destinations](./FAQ-hyperdupdest.html)''
 will happen in this case, regardless of the options.
 

@@ -6,8 +6,8 @@ bars''), requires surprisingly much
 trickery of the programmer.  The problem is that TeX 'proper'
 doesn't provide the programmer with any information about the
 ''current position'' from which a putative start- or end-point of a
-bar might be calculated.   PDFTeX _does_ provide that
-information, but no PDFTeX-based changebar package has been
+bar might be calculated.   pdfTeX _does_ provide that
+information, but no pdfTeX-based changebar package has been
 published, that takes advantage of that.
 
 The simplest package that offers change bars is Peter Schmitt's

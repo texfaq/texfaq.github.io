@@ -1,4 +1,4 @@
-# Am I using PDFTeX, XeTeX or LuaTeX?
+# Am I using pdfTeX, XeTeX or LuaTeX?
 
 You often need to know what ''engine'' your macros are running on (the
 engine is the TeX-derivative or TeX-alike processor that
@@ -27,20 +27,20 @@ under XeTeX; while the other packages don't provide such a command,
 it's not really difficult to write one for yourself.
 
 Now for those who want to do the job for themselves: here's a
-discussion of doing the job for PDFTeX and `\ifpdf`&nbsp;&mdash; the
+discussion of doing the job for pdfTeX and `\ifpdf`&nbsp;&mdash; the
 eager programmer can regenerate `\ifxetex` or `\ifluatex` in the
 same fashion.  It's not recommended&hellip;
 
 Suppose you need to test whether your output will be PDF or
 DVI.  The natural thing is to check whether you have access to
-some PDFTeX-only primitive; a good one to try (not least because it
-was present in the very first releases of PDFTeX) is
+some pdfTeX-only primitive; a good one to try (not least because it
+was present in the very first releases of pdfTeX) is
 `\pdfoutput`.  So you try
 ```latex
 \ifx\pdfoutput\undefined
-  ... % not running PDFTeX
+  ... % not running pdfTeX
 \else
-  ... % running PDFTeX
+  ... % running pdfTeX
 \fi
 ```
 Except that neither branch of this conditional is rock-solid.  The
@@ -59,16 +59,16 @@ Plain TeX user).  Such a package may have gone ahead of you, so the
 test may need to be elaborated:
 ```latex
 \ifx\pdfoutput\undefined
-  ... % not running PDFTeX
+  ... % not running pdfTeX
 \else
   \ifx\pdfoutput\relax
-    ... % not running PDFTeX
+    ... % not running pdfTeX
   \else
-    ... % running PDFTeX
+    ... % running pdfTeX
   \fi
 \fi
 ```
-If you only want to know whether some PDFTeX extension (such as
+If you only want to know whether some pdfTeX extension (such as
 marginal kerning) is present, you can stop at this point: you know as
 much as you need.
 
@@ -76,12 +76,12 @@ However, if you need to know whether you're creating PDF
 output, you also need to know about the value of `\pdfoutput`:
 ```latex
 \ifx\pdfoutput\undefined
-  ... % not running PDFTeX
+  ... % not running pdfTeX
 \else
   \ifx\pdfoutput\relax
-    ... % not running PDFTeX
+    ... % not running pdfTeX
   \else
-    % running PDFTeX, with...
+    % running pdfTeX, with...
     \ifnum\pdfoutput>0
       ... % PDF output
     \else

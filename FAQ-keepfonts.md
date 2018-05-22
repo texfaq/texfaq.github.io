@@ -18,7 +18,7 @@ To preview or to produce printed output, the DVI processor will need a
 font raster file; this is what the GF file provides.  However, while
 there used (once upon a time) to be DVI processors that could use 
 GF files, modern processors  use
-packed raster (PK) files (incidentally, PDFTeX also uses
+packed raster (PK) files (incidentally, pdfTeX also uses
 PK files if nothing ''better'' is available, but
 see [fuzzy fonts in PDF](./FAQ-fuzzy-type3.html)).
 Therefore, you need to generate a PK file from the GF file; the

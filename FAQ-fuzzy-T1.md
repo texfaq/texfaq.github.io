@@ -7,7 +7,7 @@ You've been having problems with hyphenation, and someone has
 suggested that you should use `\usepackage[T1]{fontenc}`
 to help sort them out.  Suddenly you find that your final PDF
 has become fuzzy.  The problem may arise whether you are using PostScript
-output and then distilling it, or you are using PDFTeX for the
+output and then distilling it, or you are using pdfTeX for the
 whole job.
 
 

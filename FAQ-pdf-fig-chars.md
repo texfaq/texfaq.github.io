@@ -1,10 +1,10 @@
-# Characters disappear from figures in PDFTeX
+# Characters disappear from figures in pdfTeX
 
 
 
 
 You have a PDF figure, which you want to use in your
-PDFLaTeX document.  When you compile the document, PDFTeX
+pdfLaTeX document.  When you compile the document, pdfTeX
 complains about ''missing glyphs'', and some (or all) of the labelling
 text or symbols in the original figure is no longer visible.
 
@@ -14,21 +14,21 @@ What has happened is:
 
 1.  Your figure file (say `fig.pdf`) has a font `font.pfb`
     embedded in it.
-2.  PDFTeX notes that it has `font.pfb` on disc, and loads
+2.  pdfTeX notes that it has `font.pfb` on disc, and loads
     that in place of the copy in `fig.pdf`.
 3.  It turns out that the copy in `fig.pdf` has glyphs that
     aren't in `font.pfb` on disc, so that you get errors while
     compiling and you see that characters are missing when you view the
-    output.  (PDFTeX can't know that the fonts are different, since
+    output.  (pdfTeX can't know that the fonts are different, since
     they have the same name.)
 
 
 Which is all very undesirable.
 
 
-PDFTeX does this to keep file sizes down: suppose you have a
+pdfTeX does this to keep file sizes down: suppose you have a
 document that loads figures `fig1.pdf` and `fig2.pdf`; both
-of those use font `font.pfb`.  If PDFTeX takes no action,
+of those use font `font.pfb`.  If pdfTeX takes no action,
 there will be _two_ copies of `font.pfb` in the output.
 (If your document also uses the font, there could be three copies.)
 

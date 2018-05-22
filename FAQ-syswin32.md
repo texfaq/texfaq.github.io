@@ -6,7 +6,7 @@ only in recent years been a real challenger to the long-established
 MiKTeX, and even now MiKTeX has features that TeX&nbsp;Live lacks.
 Both are comprehensive
 distributions, offering all the established TeX variants (TeX,
-PDFTeX&nbsp;&mdash; both with &epsilon;-TeX variants&nbsp;&mdash; as well as XeTeX and
+pdfTeX&nbsp;&mdash; both with &epsilon;-TeX variants&nbsp;&mdash; as well as XeTeX and
 LuaTeX), together with a wide range of support tools.
 
 Both MiKTeX and TeX&nbsp;Live offer management tools, including the

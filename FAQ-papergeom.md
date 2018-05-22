@@ -30,18 +30,18 @@ the `Options` application for MiKTeX), but this still
 doesn't provide for people using the ''wrong'' sort of paper for some
 reason.
 
-A different issue arises for users of PDFTeX&nbsp;&mdash; the
+A different issue arises for users of pdfTeX&nbsp;&mdash; the
 PDF format _does_ have the means of expressing paper size
-and PDFTeX has system variables `\pdfpagewidth` and
+and pdfTeX has system variables `\pdfpagewidth` and
 `\pdfpageheight`, that are written into the output PDF file.
-Unfortunately, most of the core software predates PDFTeX, so not even
-PDFLaTeX sets the correct values into those variables, to match the
+Unfortunately, most of the core software predates pdfTeX, so not even
+pdfLaTeX sets the correct values into those variables, to match the
 paper size specified in a `\documentclass` option.
 
 The DVI drivers `dvips`, `dvipdfm` and its
 extensions (`dvipdfmx` and `xdvipdfmx`) define
 `\special` commands for the document to specify its own paper size;
-so in those cases, as when PDFTeX is being used, the
+so in those cases, as when pdfTeX is being used, the
 paper size can be programmed by the document.  Users who wish to, may
 of course consult the manuals of the various programs to write the
 necessary code.
@@ -52,11 +52,11 @@ typeset page areas), also takes notice the size of the paper that the
 document is going to be printed on, and can issue the commands
 necessary to ensure the correct size of paper is used.  If
 [`geometry`](http://ctan.org/pkg/geometry) is used when a document is being processed by
-PDFLaTeX, it can set the necessary dimensions ''in the output''.
+pdfLaTeX, it can set the necessary dimensions ''in the output''.
 If the document is being processed by LaTeX on a TeX or &epsilon;-TeX
 engine, there are package options which instruct [`geometry`](http://ctan.org/pkg/geometry)
 which `\special` commands to use.  (Note that the options are
-ignored if you are using PDFLaTeX.)
+ignored if you are using pdfLaTeX.)
 
 So, one resolution of the problem, when you are using LaTeX, is to add
 ```latex
@@ -68,7 +68,7 @@ your (PostScript or PDF output&nbsp;&mdash; [`geometry`](http://ctan.org/pkg/geo
 serves for the extension `dvipdfmx` and
 `xdvipdfmx`).
 
-If you're using PDFLaTeX or XeTeX, load with
+If you're using pdfLaTeX or XeTeX, load with
 ```latex
 \usepackage[program-option,...]{geometry}
 ```
@@ -90,7 +90,7 @@ Needless to say, both the ''big'' classes ([`koma-script`](http://ctan.org/pkg/k
 The [`typearea`](http://ctan.org/pkg/typearea) package is the [`Koma-script`](http://ctan.org/pkg/Koma-script)
 distribution's way of providing page layout functionality.  Load it
 with the `pagesize` option and it will ensure the correct
-paper is selected, for PDF output from PDFLaTeX, and for
+paper is selected, for PDF output from pdfLaTeX, and for
 PostScript output from LaTeX via `dvips`.
 
 [`Memoir`](http://ctan.org/pkg/Memoir) has the standard classes' paper-size selections
@@ -98,6 +98,6 @@ PostScript output from LaTeX via `dvips`.
 permits the user to choose an arbitrary paper size, by setting the
 length registers `\stockheight` and `\stockwidth`.  The commands
 `\fixdvipslayout` (for LaTeX processing), and `\fixpdflayout`
-(for PDFLaTeX processing) then instruct the processor to produce
+(for pdfLaTeX processing) then instruct the processor to produce
 output that specifies the necessary paper size.
 

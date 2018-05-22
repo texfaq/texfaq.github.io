@@ -19,7 +19,7 @@ as simple as
 \end{Parallel}
 ```
 [`Parallel`](http://ctan.org/pkg/Parallel) can get terribly confused with colour changes, in
-PDFTeX; the indefatigable Heiko Oberdiek has a patch for this
+pdfTeX; the indefatigable Heiko Oberdiek has a patch for this
 issue&nbsp;&mdash; the [`pdfcolparallel`](http://ctan.org/pkg/pdfcolparallel) package, which maintains
 separate colour stacks for the columns.
 

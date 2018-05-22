@@ -7,7 +7,7 @@ applicable to TeX may be expressed in single bytes (expressing up
 to 256 characters); Unicode characters may require several bytes, and
 the scheme may express a very large number of characters.
 
-For ''old-style'' applications (TeX or PDFTeX) to deal with
+For ''old-style'' applications (TeX or pdfTeX) to deal with
 Unicode input, the sequence of bytes to make up Unicode character are
 processed by a set of macros that deliver a glyph number in an
 appropriate font.  The macros that read these bytes is complicated,

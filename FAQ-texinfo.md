@@ -26,5 +26,5 @@ HTML than is LaTeX, so that the breast-beating agonies of
 avoided.
 
 Finally, of course, you can also print the files, or convert them to
-PDF using PDFTeX.
+PDF using pdfTeX.
 

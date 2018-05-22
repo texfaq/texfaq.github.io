@@ -1,4 +1,4 @@
-# PDFTeX destination &hellip; ignored
+# pdfTeX destination &hellip; ignored
 
 The warning:
 ```latex

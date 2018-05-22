@@ -28,8 +28,8 @@ etc.)&nbsp;that will draw lines at arbitrary orientations, and
 commands in `dvitoln03` that permit the page to be set in
 landscape orientation.
 
-Note that `\special` behaves rather differently in PDFTeX, since
+Note that `\special` behaves rather differently in pdfTeX, since
 there is no device driver around.  There _is_ a concept of
 PDF specials, but in most cases `\special` will provoke a
-warning when used in PDFTeX.
+warning when used in pdfTeX.
 

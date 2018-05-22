@@ -8,12 +8,12 @@ or `Acrobat`s `Distiller`).
 
 `Dvipdfm`/`Dvipdfmx` are particularly flexible
 applications.  They permit the inclusion of bitmap and PDF
-graphics (as does [PDFTeX](./FAQ-pdftexgraphics.html)), but are also
+graphics (as does [pdfTeX](./FAQ-pdftexgraphics.html)), but are also
 capable of employing
 [`ghostscript`](http://www.ghostscript.com/) ''on the
 fly'' to permit the inclusion of encapsulated PostScript (`eps`)
 files by translating them to PDF.  In this way, they combine the good
-qualities of `dvips` and of PDFTeX as a means of
+qualities of `dvips` and of pdfTeX as a means of
 processing illustrated documents.
 
 Unfortunately, ''ordinary'' LaTeX can't deduce the bounding box of

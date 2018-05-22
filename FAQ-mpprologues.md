@@ -64,7 +64,7 @@ The Plain TeX user may use an adaptation, by
 Dan Luecking, of a jiffy of Knuth's.  Dan's version
 [`mpsproof.tex`](http://ctan.org/pkg/mpsproof.tex) will work under
 TeX to produce a DVI file for use with `dvips`, or
-under PDFTeX to produce a PDF file, direct.  The output is
+under pdfTeX to produce a PDF file, direct.  The output is
 set up to look like a proof sheet.
 
 A script application, `mptopdf`, is available in recent

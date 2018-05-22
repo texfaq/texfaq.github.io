@@ -14,7 +14,7 @@ has designed a
 number of 'historical' fonts using MetaFont).  For MetaFont the article is
 geared towards testing and installing new MetaFont fonts, while its MetaPost
 section describes how to use MetaPost illustrations in LaTeX and
-PDFLaTeX documents, with an emphasis on how to use appropriate
+pdfLaTeX documents, with an emphasis on how to use appropriate
 fonts for any text or mathematics.
 
 Hans Hagen (of ConTeXt fame) offers a MetaPost tutorial called

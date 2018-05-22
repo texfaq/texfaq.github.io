@@ -40,7 +40,7 @@ sections you want included interactively, using the
 [`askinclude`](http://ctan.org/pkg/askinclude) package.
 
 A variant on the `\includeonly` mechanism is offered by the
-[`stampinclude`](http://ctan.org/pkg/stampinclude) package, which takes advantage of the PDFTeX
+[`stampinclude`](http://ctan.org/pkg/stampinclude) package, which takes advantage of the pdfTeX
 `\pdffilemoddate` command.  When an `\include`d file is
 processed in a LaTeX document, an `aux` file is created
 holding data such as page-number ranges and chapter/section numbers.
@@ -48,9 +48,9 @@ When `\stampinclude` is included in a document, it compares the
 file system modification times for each file and its corresponding
 `aux` file; the file is only compiled in ''this run'' of the
 document if the file is newer than its corresponding `aux`
-file.  The package requires a current PDFTeX, and will also run on
+file.  The package requires a current pdfTeX, and will also run on
 LuaTeX if the [`pdftexcmds`](http://ctan.org/pkg/pdftexcmds) package is available
-([`pdftexcmds`](http://ctan.org/pkg/pdftexcmds) emulates the requisite PDFTeX commands using
+([`pdftexcmds`](http://ctan.org/pkg/pdftexcmds) emulates the requisite pdfTeX commands using
 `lua`.  Apart from this requirement, [`stampinclude`](http://ctan.org/pkg/stampinclude) is
 a low-maintenace object; include it in your document and it silently
 does its job.  When you want a final version of your document, delete

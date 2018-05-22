@@ -1,16 +1,16 @@
-# PDFTeX and LuaTeX
+# pdfTeX and LuaTeX
 
 Elsewhere in these FAQs, we learn that development of
-[PDFTeX](./FAQ-whatpdftex.html) is ''in essence'' complete&nbsp;&mdash; no new
-facilities are being developed at the time of writing.  The PDFTeX
-team has announced that they have frozen PDFTeX's specification in
+[pdfTeX](./FAQ-whatpdftex.html) is ''in essence'' complete&nbsp;&mdash; no new
+facilities are being developed at the time of writing.  The pdfTeX
+team has announced that they have frozen pdfTeX's specification in
 its current state (version 1.40.11), and that nothing but bug
 corrections will be provided up to the time of the final release,
-PDFTeX 1.50.0.  (The interpretation of the statement seems to allow
+pdfTeX 1.50.0.  (The interpretation of the statement seems to allow
 sensible changes that are beyond any reasonable definition of
 _bug_&hellip;)
 
-As PDFTeX development ran down,
+As pdfTeX development ran down,
 development of a new system, LuaTeX was started.
 [`Lua`](http://www.lua.org/) is a interpreter designed
 to be incorporated into other applications.  LuaTeX consists of a

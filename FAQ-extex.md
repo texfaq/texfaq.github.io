@@ -10,7 +10,7 @@ marked as obsolete, and ''modern'' alternatives provided (an obvious
 example is the primitive `\input` command, whose syntax inevitably
 makes life difficult for users of modern operating system file
 paths).  Desirable extensions from [&epsilon;-TeX](./FAQ-etex.html),
-[PDFTeX](./FAQ-whatpdftex.html) and [&Omega;](./FAQ-omegaleph.html)
+[pdfTeX](./FAQ-whatpdftex.html) and [&Omega;](./FAQ-omegaleph.html)
 have been identified.
 
 Usability will be another focus of the work: debugging support and log

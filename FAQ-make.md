@@ -55,7 +55,7 @@ AutoLaTeX can be configured to process.
 The [[`texinfo`](http://ctan.org/pkg/texinfo) system](./FAQ-texinfo.html) comes with a similar
 utility called `texi2dvi`, which is capable of ''converting''
 either LaTeX or [`texinfo`](http://ctan.org/pkg/texinfo) files into DVI (or into
-PDF, using PDFTeX).
+PDF, using pdfTeX).
 
 A later contribution is the bundle [`latexmake`](http://ctan.org/pkg/latexmake), which
 offers a set of `make` rules that invoke `texi2dvi`

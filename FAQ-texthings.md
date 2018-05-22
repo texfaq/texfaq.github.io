@@ -90,16 +90,16 @@ lacked some features that users have come to expect from today's
 software.  The following programs address these issues by augmenting
 the TeX engine with some additional useful features:
 
-  - PDFTeX (executable: `pdftex`)
+  - pdfTeX (executable: `pdftex`)
   TeX, which predates the PDF file format by a decade,
   outputs files in a TeX-specific format called DVI
   (cf.&nbsp;[What is a DVI file?](./FAQ-dvi.html)).  In
-  contrast, PDFTeX can output both DVI _and_ PDF
+  contrast, pdfTeX can output both DVI _and_ PDF
   files.  In PDF mode, it lets documents exploit various
   PDF features such as hyperlinks, bookmarks, and annotations,
-  PDFTeX additionally supports two sophisticated micro-typographic
+  pdfTeX additionally supports two sophisticated micro-typographic
   features: character protrusion and font expansion.  See
-  [What is PDFTeX?](./FAQ-whatpdftex.html).
+  [What is pdfTeX?](./FAQ-whatpdftex.html).
 
   - XeTeX (executable: `xetex`)
   XeTeX reads UTF-8 encoded Unicode input, and extends
@@ -141,7 +141,7 @@ ConTeXt is now using LuaTeX.
 
 Some executables combine the features of multiple enhanced TeX
 engines: for example, `pdftex` now (in current distributions)
-offers both PDFTeX and &epsilon;-TeX extensions into a single executable
+offers both pdfTeX and &epsilon;-TeX extensions into a single executable
 This executable may be offered with a LaTeX format (as
 `latex` or `pdflatex`) or with a Plain TeX format
 (as `pdftex`).  (`Tex` remains with an unadorned

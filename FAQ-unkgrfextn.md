@@ -10,7 +10,7 @@ corresponding to the output driver you're using.
 The error message arises, then, if you have a graphics file whose
 extension doesn't correspond with one your driver knows about.  Most
 often, this is because you're being optimistic: asking
-`dvips` to deal with a `png` file, or PDFTeX to deal with
+`dvips` to deal with a `png` file, or pdfTeX to deal with
 a `eps` file: the solution in this case is to transform the graphics
 file to a format your driver knows about.
 

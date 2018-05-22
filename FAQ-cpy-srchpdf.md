@@ -19,7 +19,7 @@ assume the text is presented in Unicode.
 
 
 For PDF generated from LaTeX (the DVI being
-converted, by whatever means), or from PDFLaTeX, the character
+converted, by whatever means), or from pdfLaTeX, the character
 codes used in the PDF file are in fact those of the document's
 [font encoding](./FAQ-whatenc.html); if you're using OT1 or
 T1, your document will be OK for almost all ASCII
@@ -37,7 +37,7 @@ version of the characters.
 
 Packages [`cmap`](http://ctan.org/pkg/cmap) and [`mmap`](http://ctan.org/pkg/mmap) both offer means of
 generating such tables ([`mmap`](http://ctan.org/pkg/mmap) has wider coverage, including
-the various maths encodings); both work with PDFTeX and no other
+the various maths encodings); both work with pdfTeX and no other
 engine.  Thus your document becomes something like:
 ```latex
 \documentclass{article}

@@ -113,14 +113,14 @@ width.  It is therefore clear that `\emergencystretch` needs to be
 treated with a degree of caution.
 
 More subtle (but more tricky to manage) are the microtypographic
-extensions provided by PDFTeX.  Since PDFTeX is the default
+extensions provided by pdfTeX.  Since pdfTeX is the default
 'engine' for LaTeX and ConTeXt work in all distributions,
 nowadays, the extensions are available to all.  There are two
 extensions, margin kerning and font expansion; margin kerning only
 affects the visual effect of the typeset page, and has little effect
 on the ability of the paragraph setter to ''get things right''.
 Font expansion works like a subtler version of the trick that
-`\emergencystretch` plays: PDFTeX 'knows' that your current font
+`\emergencystretch` plays: pdfTeX 'knows' that your current font
 may be stretched (or shrunk) to a certain extent, and will do that
 ''on the fly'' to optimise the setting of a paragraph.  This is a
 powerful tool in the armoury of the typesetter.

@@ -12,7 +12,7 @@
 - [The (CTAN) catalogue](FAQ-catalogue.html)
 - [How can I be sure it's really TeX?](FAQ-triptrap.html)
 - [What is &epsilon;-TeX?](FAQ-etex.html)
-- [What is PDFTeX?](FAQ-whatpdftex.html)
+- [What is pdfTeX?](FAQ-whatpdftex.html)
 - [What is LaTeX?](FAQ-latex.html)
 - [What is LaTeX 2e?](FAQ-latex2e.html)
 - [How should I pronounce ''LaTeX(2<sub>&epsilon;</sub>)''?](FAQ-latexpronounce.html)
@@ -187,7 +187,7 @@
 ## Graphics
 - [Importing graphics into (La)TeX documents](FAQ-impgraph.html)
 - [Imported graphics in `dvips`](FAQ-dvipsgraphics.html)
-- [Imported graphics in PDFLaTeX](FAQ-pdftexgraphics.html)
+- [Imported graphics in pdfLaTeX](FAQ-pdftexgraphics.html)
 - [Imported graphics in `dvipdfm`](FAQ-dvipdfmgraphics.html)
 - [''Modern'' graphics file names](FAQ-grffilenames.html)
 - [Importing graphics from ''somewhere else''](FAQ-graphicspath.html)
@@ -425,7 +425,7 @@
 - [Defining a macro from an argument](FAQ-csname.html)
 - [Transcribing LaTeX command definitions](FAQ-cvtlatex.html)
 - [Detecting that something is empty](FAQ-empty.html)
-- [Am I using PDFTeX, XeTeX or LuaTeX?](FAQ-whatengine.html)
+- [Am I using pdfTeX, XeTeX or LuaTeX?](FAQ-whatengine.html)
 - [Subverting a token register](FAQ-subverttoks.html)
 - [Is this command defined?](FAQ-isdef.html)
 
@@ -492,7 +492,7 @@
 - [Link text doesn't break at end line](FAQ-breaklinks.html)
 - [Page number is wrong at start of page](FAQ-wrongpn.html)
 - [My brackets don't match](FAQ-matchbrak.html)
-- [Characters disappear from figures in PDFTeX](FAQ-pdf-fig-chars.html)
+- [Characters disappear from figures in pdfTeX](FAQ-pdf-fig-chars.html)
 - [I asked for ''empty'', but the page is numbered](FAQ-emptynum.html)
 
 ## Common misunderstandings
@@ -543,7 +543,7 @@
 - [Mismatched mode ljfour and resolution 8000](FAQ-8000.html)
 - [''Too deeply nested''](FAQ-toodeep.html)
 - [Capacity exceeded&nbsp;&mdash; input levels](FAQ-inputlev.html)
-- [PDFTeX destination &hellip; ignored](FAQ-hyperdupdest.html)
+- [pdfTeX destination &hellip; ignored](FAQ-hyperdupdest.html)
 - [Alignment tab changed to `\cr`](FAQ-altabcr.html)
 - [Graphics division by zero](FAQ-divzero.html)
 - [Missing `\begin`{document}](FAQ-missbegdoc.html)
@@ -567,7 +567,7 @@
 - [The TeX document preparation environment](FAQ-WYGexpts.html)
 - [Omega and Aleph](FAQ-omegaleph.html)
 - [XeTeX](FAQ-xetex.html)
-- [PDFTeX and LuaTeX](FAQ-luatex.html)
+- [pdfTeX and LuaTeX](FAQ-luatex.html)
 - [The ANT typesetting system](FAQ-ant.html)
 - [The ExTeX project](FAQ-extex.html)
 - [Replacing the BibTeX&ndash;LaTeX mechanism](FAQ-biblatex.html)

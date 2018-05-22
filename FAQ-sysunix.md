@@ -25,5 +25,5 @@ _only_ (unlike TeX&nbsp;Live, no 'tailored' package bundles are
 provided).  It is distributed as source, and compiles with GNU
 Pascal, thereby coming as close as you're likely to get to Knuth's original
 distribution.  It is known to work well, but the omission of &epsilon;-TeX
-and PDFTeX will rule it out of many users' choices.
+and pdfTeX will rule it out of many users' choices.
 

@@ -38,5 +38,5 @@ of TeX; the main changes include:
 Otherwise, the process of typesetting is essentially the same as
 TeX's.  (However some changes have also been made in the
 hyphenation stage that may give slightly different results if the same
-document is compiled with PDFTeX or XeTeX.)
+document is compiled with pdfTeX or XeTeX.)
 

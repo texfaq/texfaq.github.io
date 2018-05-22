@@ -21,14 +21,14 @@ ConTeXt documents with accurate graphic elements.
 
 ConTeXt allows users to specify formatting commands in English,
 Dutch, German, French, or Italian, and to use different typesetting
-engines (PDFTeX, XeTeX, Aleph and LuaTeX) without
+engines (pdfTeX, XeTeX, Aleph and LuaTeX) without
 changing the user interface. ConTeXt continues to develop, often in
 response to requests from the user community.
 
 The development of [LuaTeX](./FAQ-luatex.html) was originally driven
 by ConTeXt, almost from the start of its project.  Nowadays,
 ConTeXt it is distributed in two versions&nbsp;&mdash; mark two (files with
-extension `mkii`) which runs on PDFTeX but is not under
+extension `mkii`) which runs on pdfTeX but is not under
 active development, and mark four (files with extension
 `mkiv`) (which runs on LuaTeX and is where development
 happens).

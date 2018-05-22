@@ -21,7 +21,7 @@ even recognisable as the original letter, and are often not properly placed
 on the line.  Nevertheless, even now, most TeX systems have
 `dvips` configured to use
 [`pk` files](./FAQ-pk.html) in its output.  Even
-PDFTeX will use `pk` files if it can see no alternative for
+pdfTeX will use `pk` files if it can see no alternative for
 a font in the document it is processing.
 
 

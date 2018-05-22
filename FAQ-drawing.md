@@ -45,9 +45,9 @@ of drawing, and setup, here are a few systems you may consider:
     [`Pstricks`](http://ctan.org/pkg/Pstricks)' `\special`s are
     by default specific to `dvips`, but there is
     a [`Pstricks`](http://ctan.org/pkg/Pstricks) 'driver' that allow [`Pstricks`](http://ctan.org/pkg/Pstricks) to
-    operate under XeTeX.  PDFTeX users may use [`pst-pdf`](http://ctan.org/pkg/pst-pdf),
+    operate under XeTeX.  pdfTeX users may use [`pst-pdf`](http://ctan.org/pkg/pst-pdf),
     which (like [`epstopdf`](http://ctan.org/pkg/epstopdf)&nbsp;&mdash; see 
-    [PDFLaTeX graphics](./FAQ-pdftexgraphics.html)) generates
+    [pdfLaTeX graphics](./FAQ-pdftexgraphics.html)) generates
     PDF files using an auxiliary program, from [`PSTricks`](http://ctan.org/pkg/PSTricks)
     commands ([`pst-pdf`](http://ctan.org/pkg/pst-pdf) also requires a recent installation of
     the [`preview`](http://ctan.org/pkg/preview) package).
@@ -59,7 +59,7 @@ of drawing, and setup, here are a few systems you may consider:
     just browse the 
     [list archives](http://tug.org/pipermail/pstricks/).
 -  [`pgf`](http://ctan.org/pkg/pgf): while [`pstricks`](http://ctan.org/pkg/pstricks) is very powerful and
-    convenient from 'traditional' TeX, using it with PDFLaTeX is
+    convenient from 'traditional' TeX, using it with pdfLaTeX is
     pretty tiresome: if you 
     simply want the graphical capabilities, [`pgf`](http://ctan.org/pkg/pgf), together with
     its ''user-oriented'' interface [`tikz`](http://ctan.org/pkg/tikz), may be a good
@@ -86,7 +86,7 @@ of drawing, and setup, here are a few systems you may consider:
     `Mfpic` makes up MetaFont or MetaPost code for you using
     familiar-looking (La)TeX macros.  Not _quite_ the full power
     of MetaFont or MetaPost, but a friendlier interface, and with MetaPost output
-    the results can be used equally well in either LaTeX or PDFLaTeX.
+    the results can be used equally well in either LaTeX or pdfLaTeX.
 -  You liked PicTeX but don't have enough memory or time?  Look
     at the late Eitan Gurari's [`dratex`](http://ctan.org/pkg/dratex): it is just as powerful,
     but is an entirely new implementation which is not as hard on

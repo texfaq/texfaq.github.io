@@ -27,7 +27,7 @@ much of what follows will be familiar:
     your files in the TDS tree.
 -  Regenerate the file indexes (as described in
     [package installation](./FAQ-inst-wlcf.html)).
--  Update the `dvips`, PDFTeX and other maps:
+-  Update the `dvips`, pdfTeX and other maps:
   
 
   -  On any current TeX&nbsp;Live-based system, or a teTeX v3.0

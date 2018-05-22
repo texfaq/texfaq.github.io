@@ -55,7 +55,7 @@ If your PostScript is destined for conversion to PDF, either by a
 mechanism such as `ps2pdf` or by
 (for example) `Acrobat` `Distiller`, the issue isn't
 so pressing, since the distillation mechanism will amalgamate graphics
-objects whether or not the PostScript has them amalgamated.  PDFTeX does
+objects whether or not the PostScript has them amalgamated.  pdfTeX does
 the same job with graphics, automatically converting multiple uses
 into references to graphics objects.
 

@@ -16,7 +16,7 @@ you process the `dtx`, the package itself must already be
 installed.  Unfortunately, [`dropping`](http://ctan.org/pkg/dropping) has an intimate relation
 to the set of device drivers available in an early version of the
 LaTeX graphics package, and it cannot be trusted to work with
-modern offerings such as PDFTeX or DVIpdfm, let
+modern offerings such as pdfTeX or DVIpdfm, let
 alone such modernisms as XeTeX.  As a result, the package is widely
 deprecated, nowadays.
 
