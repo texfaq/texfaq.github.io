@@ -5,7 +5,7 @@ all useful.
 
 ## ChangeLog, commit messages and authors
 
-Please not any significant change to the content of questions in
+Please note any significant change to the content of questions in
 [`CHANGELOG.md`](CHANGELOG.md), including which question is changed in the
 format `Q-<name>`.
 
