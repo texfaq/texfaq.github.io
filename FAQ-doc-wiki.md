@@ -11,7 +11,7 @@ WIKI under control.
 
 
 Following the encouraging performance of the 
-[CONTeXT WIKI](http://contextgarden.net/), valiant
+[ConTeXt WIKI](http://ConTeXtgarden.net/), valiant
 efforts have been made generating ''WIKI books'' for (La)TeX
 users.  Thus we have 
 [(Plain) TeX WIKI book](http://en.wikibooks.org/wiki/TeX) and 

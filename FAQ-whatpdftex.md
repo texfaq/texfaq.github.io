@@ -1,7 +1,7 @@
 # What is PDFTeX?
 
 One can reasonably say that PDFTeX is (today) the main stream of
-TeX distributions: most LaTeX and many CONTeXT users nowadays use
+TeX distributions: most LaTeX and many ConTeXt users nowadays use
 PDFTeX whether they know it or not (more precisely, they use
 PDFTeX extended by
   [&epsilon;-TeX](./FAQ-etex.html)).

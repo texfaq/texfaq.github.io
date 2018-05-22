@@ -25,7 +25,7 @@ The extensions range from the seemingly simple (increasing the number
 of available registers from 256 to 32768) through to extremely subtle
 programming support.
 
-[CONTeXT](./FAQ-context.html) has required &epsilon;-TeX for its operation
+[ConTeXt](./FAQ-ConTeXt.html) has required &epsilon;-TeX for its operation
 for some time, though development is now focused on the use of
 [LuaTeX](./FAQ-luatex.html).
 

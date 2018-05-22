@@ -5,7 +5,7 @@ playing with the configuration, or have just installed a new version.
 
 The format file contains the macros that define the system you want to
 use: anything from the simplest (Plain TeX) all the way to the most
-complicated, such as LaTeX or CONTeXT.  From the command you
+complicated, such as LaTeX or ConTeXt.  From the command you
 issue, TeX knows which format you want.
 
 The error message

@@ -63,9 +63,9 @@ that you are likely to encounter:
   long-since-obsolete (since 1994) version (cf.&nbsp;
   [What is LaTeX 2e?](./FAQ-latex2e.html) for more information).
 
-  - CONTeXT (executable: `texmfstart`)
+  - ConTeXt (executable: `texmfstart`)
   See
-  [What is CONTeXT?](./FAQ-context.html).
+  [What is ConTeXt?](./FAQ-ConTeXt.html).
 
   - Texinfo (executables: `tex`, `makeinfo`)
   See
@@ -137,7 +137,7 @@ packages listed earlier to produce 'extended' executables.  For
 example, the `pdflatex`, `xelatex` and
 `lualatex` executables each combine LaTeX with an enhanced
 TeX engine.  Indeed, most (if not all) of the development of
-Context is now using LuaTeX.
+ConTeXt is now using LuaTeX.
 
 Some executables combine the features of multiple enhanced TeX
 engines: for example, `pdftex` now (in current distributions)

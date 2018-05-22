@@ -58,7 +58,7 @@ CM fonts.  It's a compact solution, within its restrictions.
 Other Plain TeX approaches to the problem (packages
 [`plnfss`](http://ctan.org/pkg/plnfss), [`fontch`](http://ctan.org/pkg/fontch) and [`ofs`](http://ctan.org/pkg/ofs)) break out of the
 Plain TeX model, towards the sort of font selection provided by
-CONTeXT and LaTeX&nbsp;&mdash; font selection that allows you to change
+ConTeXt and LaTeX&nbsp;&mdash; font selection that allows you to change
 family, as well as size and face.  The remaining packages all make
 provision for using encodings other than Knuth's OT1.
 

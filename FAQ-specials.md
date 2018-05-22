@@ -18,7 +18,7 @@ operation that requires real wizardry.  LaTeX 2e
 has standard graphics and colour packages that make figure inclusion,
 rotation and scaling, and colour typesetting relatively
 straightforward, despite the rather daunting `\special` commands
-involved.  (CONTeXT provides similar support, though not by way of
+involved.  (ConTeXt provides similar support, though not by way of
 packages.)
 
 The allowable arguments of `\special` depend on the device driver

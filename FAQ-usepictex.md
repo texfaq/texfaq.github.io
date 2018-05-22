@@ -29,7 +29,7 @@ PicTeX; unfortunately PicTeX's author is no longer active in the
 TeX world, so one must resort to patching.  There are two solutions
 available.
 
-The CONTeXT module `m-pictex.tex` (for Plain TeX and
+The ConTeXt module `m-pictex.tex` (for Plain TeX and
 variants) or the corresponding LaTeX [`m-pictex`](http://ctan.org/pkg/m-pictex) package provide
 an ingenious solution to the problem based on hacking the code of
 `\newdimen` itself.

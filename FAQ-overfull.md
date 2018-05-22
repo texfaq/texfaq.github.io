@@ -114,7 +114,7 @@ treated with a degree of caution.
 
 More subtle (but more tricky to manage) are the microtypographic
 extensions provided by PDFTeX.  Since PDFTeX is the default
-'engine' for LaTeX and CONTeXT work in all distributions,
+'engine' for LaTeX and ConTeXt work in all distributions,
 nowadays, the extensions are available to all.  There are two
 extensions, margin kerning and font expansion; margin kerning only
 affects the visual effect of the typeset page, and has little effect

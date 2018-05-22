@@ -56,7 +56,7 @@ to latch onto the idea of WYSIWYG.
 Apart from simple arrogance (''we're better, and have no need to
 consider the petty doings of the commercial word processor market''),
 there is a real conceptual difference between the word processor model
-of the world and the model LaTeX and CONTeXT employ&nbsp;&mdash; the idea of
+of the world and the model LaTeX and ConTeXt employ&nbsp;&mdash; the idea of
 ''markup''.  ''Pure'' markup expresses a logical model of a document,
 where every object within the document is labelled according to what
 it is rather than how it should appear: appearance is deduced from the

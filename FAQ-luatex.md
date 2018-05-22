@@ -41,13 +41,13 @@ demonstrates the ''final functionality'', though the project
 remains a &beta;-release.  Functional stability was first
 declared for version 0.50.0, released near the end of December 2009.
 
-CONTeXT 'Mark 4' can already make use of LuaTeX; much of its
+ConTeXt 'Mark 4' can already make use of LuaTeX; much of its
 code already appears in two forms&nbsp;&mdash; a TeX-based version
 (`mkii`) and a `mkiv` version (new functionality
 typically _only_ appears in `mkiv` form), which uses
 LuaTeX extensions (including `lua` scripting).  LaTeX
 packages that support its use are appearing (some of them providing
-re-implementations of existing Context code).
+re-implementations of existing ConTeXt code).
 
 LaTeX running over LuaTeX (commonly known as LuaLaTeX) is not
 an ''official'' entity (yet), but useful packages are

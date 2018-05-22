@@ -78,7 +78,7 @@ Users should also consider the possibilities of typesetting
 - Fourier/New Century SchoolbookMichael Zedler
 
   `Fouriernc` is a configuration using the Fourier fonts in
-  the context of New Century Schoolbook text fonts.
+  the ConTeXt of New Century Schoolbook text fonts.
 
   For a sample, see [http://www.tug.dk/FontCatalogue/newcent/]
 

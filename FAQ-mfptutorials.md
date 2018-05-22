@@ -17,9 +17,9 @@ section describes how to use MetaPost illustrations in LaTeX and
 PDFLaTeX documents, with an emphasis on how to use appropriate
 fonts for any text or mathematics.
 
-Hans Hagen (of CONTeXT fame) offers a MetaPost tutorial called
+Hans Hagen (of ConTeXt fame) offers a MetaPost tutorial called
 MetaFun (which admittedly concentrates on the use of MetaPost within
-CONTeXT).  It may be found on his company's 
+ConTeXt).  It may be found on his company's 
 ['manuals' page](http://www.pragma-ade.com/general/manuals/metafun-p.pdf).
 
 Another MetaPost tutorial in English is: 

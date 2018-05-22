@@ -52,8 +52,8 @@ enthusiastically accepted&nbsp;&mdash; see (for example) the
 [Beamer Gallery](http://deic.uab.es/&nbsp;iblanes/beamer_gallery/).
 
 [`Lecturer`](http://ctan.org/pkg/Lecturer) is a _generic_ solution (it works with
-Plain TeX, LaTeX and Context&nbsp;mk&nbsp;ii, but not&nbsp;&mdash; yet&nbsp;&mdash; with
-Context&nbsp;mk iv).  By separating the functionality needed for a
+Plain TeX, LaTeX and ConTeXt&nbsp;mk&nbsp;ii, but not&nbsp;&mdash; yet&nbsp;&mdash; with
+ConTeXt&nbsp;mk iv).  By separating the functionality needed for a
 presentation (using TeX for typesetting, and PDF functions
 for layering and dynamic effects) a clear structure emerges.  While it
 doesn't have the range of ''themes'' (presentation styles) of
@@ -80,8 +80,8 @@ A more detailed examination of the alternatives (including examples
 of code using many of them) may be found at Michael Wiedmann's fine
 [http://www.miwie.org/presentations/presentations.html]
 
-CONTeXT users will find that much (if not all) of what they need is
-already in CONTeXT itself; there's a useful summary of what's
+ConTeXt users will find that much (if not all) of what they need is
+already in ConTeXt itself; there's a useful summary of what's
 available, with examples, in
-[http://wiki.contextgarden.net/Presentation_Styles]
+[http://wiki.ConTeXtgarden.net/Presentation_Styles]
 
