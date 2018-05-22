@@ -12,7 +12,7 @@ or (using TeX primitive definitions):
 In either of the above, the definition uses an argument, but the
 programmer did not tell (La)TeX, in advance, that she was going to.
 The fix is simple&nbsp;&mdash; `\newcommand{`\abc`}`[1], in the
-LaTeX case, `\de[[[abc]]]1` in the basic TeX case.
+LaTeX case, `\def\abc#1` in the basic TeX case.
 
 The more complicated case is exemplified by the attempted definition:
 <!-- {% raw %} -->
