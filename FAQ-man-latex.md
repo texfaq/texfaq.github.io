@@ -17,8 +17,7 @@ translations into a rather large set of languages.
 
 Peter Flynn's ''Beginner's LaTeX'' (which started life as course
 material) is a pleasing read.  A complete copy may be found on
-CTAN, but it may also be browsed over the web
-([http://mirrors.ctan.org/info/beginlatex/html/]).
+CTAN, but it may also be [browsed over the web](http://mirrors.ctan.org/info/beginlatex/html/).
 
 
 Harvey Greenberg's 'Simplified Introduction to LaTeX' was written

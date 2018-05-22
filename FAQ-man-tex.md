@@ -8,6 +8,7 @@ Michael Doob's splendid 'Gentle Introduction' to Plain TeX
 
 
 Another recommendable document is D. R.&nbsp;Wilkins' 'Getting started with TeX',
-available on the web at [http://www.ntg.nl/doc/wilkins/pllong.pdf]
+available on the web at
+[http://www.ntg.nl/doc/wilkins/pllong.pdf](http://www.ntg.nl/doc/wilkins/pllong.pdf)
 
 

@@ -10,7 +10,7 @@ problem to a succinct demonstration of your problem.
 There are two valid approaches to this task: building up, and hacking
 down.
 
-*_Building up_* starts
+_Building up_ starts
 with a basic document structure
 (for LaTeX, this would have `\documentclass`,
 `\begin{document}`, `\end{document}`) and adds
@@ -37,7 +37,7 @@ properly unless another package has been loaded.  (Another common case
 is that package [`A`](http://ctan.org/pkg/A) only fails when package [`B`](http://ctan.org/pkg/B) has been
 loaded.)
 
-*_Hacking down_* starts
+_Hacking down_ starts
 with your entire document, and
 removes bits until the file no longer fails (and then of course
 restores the last thing removed).  Don't forget to hack out any
@@ -90,7 +90,9 @@ All things considered, a good example file can save you a day, for
 perhaps half an hour's effort invested.
 
 Much of the above advice, differently phrased, may also be read on the
-web at [http://www.minimalbeispiel.de/mini-en.html]; source of
-that article may be found at [http://www.minimalbeispiel.de/], in
+web at [http://www.minimalbeispiel.de/mini-en.html](http://www.minimalbeispiel.de/mini-en.html);
+source of
+that article may be found at
+[http://www.minimalbeispiel.de/](http://www.minimalbeispiel.de/), in
 both German and English.
 

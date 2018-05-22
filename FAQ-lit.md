@@ -15,5 +15,5 @@ contains a subset of the constructs Knuth used.
 Discussion of literate programming is conducted in the newsgroup
 `comp.programming.literate`, whose FAQ is stored on
 CTAN.  Another good source of information is
-[http://www.literateprogramming.com/]
+[http://www.literateprogramming.com/](http://www.literateprogramming.com/)
 

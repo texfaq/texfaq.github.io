@@ -30,7 +30,7 @@ also have email, and normal telephone and fax support.
 
     Email: <a href="mailto:kinch@truetex.com">kinch@truetex.com</a>
 
-    Web: [http://www.truetex.com/]
+    Web: [http://www.truetex.com/](http://www.truetex.com/)
   Source: Mail from Richard Kinch, August 2004.
 - pcTeX Long-established: pcTeX32 is a Windows implementation.
     Personal TeX Inc
@@ -49,7 +49,7 @@ also have email, and normal telephone and fax support.
 
     Email: <a href="mailto:sales@pctex.com">sales@pctex.com</a>
 
-    Web: [http://www.pctex.com/]
+    Web: [http://www.pctex.com/](http://www.pctex.com/)
   Source: Personal TeX Inc web site, December 2004
 - PC; Scientific Word Scientific Word and Scientific Workplace
   offer a mechanism for near-WYSIWYG input of LaTeX documents; they
@@ -75,7 +75,7 @@ also have email, and normal telephone and fax support.
 
     Email: <a href="mailto:christopher@sciword.co.uk">christopher@sciword.co.uk</a> 
 
-    Web: [http://www.sciword.co.uk]
+    Web: [http://www.sciword.co.uk](http://www.sciword.co.uk)
     MacKichan Software Inc.
 
     19307 8th Avenue, Suite C
@@ -91,7 +91,7 @@ also have email, and normal telephone and fax support.
 
     Email: <a href="mailto:info@mackichan.com">info@mackichan.com</a>
 
-    Web: [http://www.mackichan.com]
+    Web: [http://www.mackichan.com](http://www.mackichan.com)
   Source: Mail from Christopher Mabb, August 2007
 - AmigaTeX A full implementation for the Commodore Amiga,
   including full, on-screen and printing support for all PostScript
@@ -111,5 +111,6 @@ TeX (and support for it) is therefore no longer available.  Users
 of Y&Y systems may care to use the self-help
 [mailing list](http://tug.org/pipermail/yandytex/)
 that was established in 2003; the remaining usable content of
-Y&Y's web site is available at [http://www.tug.org/yandy/]
+Y&Y's web site is available at
+[http://www.tug.org/yandy/](http://www.tug.org/yandy/)
 

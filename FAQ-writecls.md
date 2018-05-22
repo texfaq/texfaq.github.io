@@ -32,7 +32,7 @@ the standard class with `\LoadClass`&nbsp;&mdash; an example of this
 technique may be seen in [`ltxguide.cls`](http://ctan.org/pkg/ltxguide.cls)
 
 An 
-[annotated version of [`article`](http://ctan.org/pkg/article)](http://tug.org/TUGboat/Articles/tb28-1/tb88flynn.pdf),
+[annotated version of `article`](http://tug.org/TUGboat/Articles/tb28-1/tb88flynn.pdf),
 as it appears in `classes.dtx`, was published in
 TUGboat 28(1).  The article, by Peter Flynn, is a good guide to
 understanding `classes.dtx`

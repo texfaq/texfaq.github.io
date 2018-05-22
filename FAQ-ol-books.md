@@ -25,7 +25,8 @@ Licence, and it is available from CTAN.
 
 Norm Walsh's ''Making TeX Work'' (originally published by O'Reilly)
 is also available (free) on the Web, at
-[http://makingtexwork.sourceforge.net/mtw/]; the sources of the
+[http://makingtexwork.sourceforge.net/mtw/](http://makingtexwork.sourceforge.net/mtw/);
+the sources of the
 Web page are on CTAN.  The book was an excellent resource in
 its day, but while it is now somewhat dated, it still has its uses,
 and is a welcome addition to the list of on-line resources.  A project

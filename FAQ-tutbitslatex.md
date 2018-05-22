@@ -2,7 +2,8 @@
 
 The AMS publishes a ''Short Math Guide for LaTeX'', which is
 available (in several formats) via
-[http://www.ams.org/tex/amslatex.html] (the ''Additional
+[http://www.ams.org/tex/amslatex.html](http://www.ams.org/tex/amslatex.html)
+(the ''Additional
 Documentation'' about half-way down the page.
 
 Herbert Vo&szlig; has written an extensive guide to mathematics in
@@ -38,7 +39,7 @@ lack of sources.
 Stefan Kottwitz manages a web site devoted to the use of the drawing
 packages 
 [PGF and TikZ](./FAQ-drawing.html), 
-[http://www.texample.net/]
+(TeXample.net)[http://www.texample.net/]
 
 Included is 
  [examples catalogue](http://www.texample.net/tikz/examples/)
@@ -83,12 +84,12 @@ on the web.  Most straightforwardly, there's the simple translation of
 existing documentation into HTML, for example the INFO
 documentation of the (La)TeX installation, of which a sample is the
 LaTeX documentation available at
-[http://www.tac.dk/cgi-bin/info2www?(latex)]
+[http://www.tac.dk/cgi-bin/info2www?(latex)](http://www.tac.dk/cgi-bin/info2www?(latex))
 
 More ambitiously, some university departments have enthusiastic
 documenters who 
 make public record of their (La)TeX support.  For example, Tim Love
 (of Cambridge University Engineering Department) maintains his
 department's pages at
-[http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/]
+[http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/](http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/)
 

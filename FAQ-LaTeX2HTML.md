@@ -68,10 +68,10 @@ For today, possible packages are:
 
 An interesting set of samples, including conversion of the same text
 by the four free programs listed above, is available at
-[http://www.mayer.dial.pipex.com/samples/example.htm]; a linked
+[http://www.mayer.dial.pipex.com/samples/example.htm](http://www.mayer.dial.pipex.com/samples/example.htm); a linked
 page gives lists of pros and cons, by way of comparison.
 
 The World Wide Web Consortium maintains a list of ''filters'' to
 HTML, with sections on (La)TeX and BibTeX&nbsp;&mdash; see
-[http://www.w3.org/Tools/Word_proc_filters.html]
+[http://www.w3.org/Tools/Word_proc_filters.html](http://www.w3.org/Tools/Word_proc_filters.html)
 
