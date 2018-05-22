@@ -4,7 +4,7 @@ Sometimes LaTeX saves data it will reread later. These data are
 often the argument of some command; they are the so-called moving
 arguments.  ('Moving' because data are moved around.)  Candidates
 are all arguments that may go into table of contents, list of figures,
-_etc_.; namely, data that are written to an auxiliary file and
+etc.; namely, data that are written to an auxiliary file and
 read in later.  Other places are those data that might appear in head-
 or footlines.  Section headings and figure captions are the most
 prominent examples; there's a complete list in Lamport's book

@@ -2,7 +2,7 @@
 
 MetaFont produces from its run three files, a metrics (TFM) file, a
 generic font (GF) file, and a log file; all of these files have the
-same base name as does the input (_e.g._, if the input file was
+same base name as does the input (e.g., if the input file was
 `cmr10.mf`, the outputs will be `cmr10.tfm`,
 `cmr10.nnngf` (the file name may be mangled if you are using an
 operating system which doesn't permit long file names)

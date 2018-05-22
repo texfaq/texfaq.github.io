@@ -83,7 +83,7 @@ look something like
  mf '\mode=epson; mag=magstep 1; input cmr10'
 ```
 If you need a special mode that isn't in the base, you can put its
-commands in a file (_e.g._, `ln03.mf`) and invoke it on the
+commands in a file (e.g., `ln03.mf`) and invoke it on the
 fly with the `\smode` command.  For example, to create
 `cmr10.300gf` for an LN03 printer, using the file
 ```latex

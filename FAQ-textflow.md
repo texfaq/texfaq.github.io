@@ -32,7 +32,7 @@ LaTeX document).
     The _`height`_ may be omitted, in which case it will
     be calculated from the size of the figure; the package will use
     the greater of the specified and the
-    actual width.  The `{l,r,_etc_.}` parameter may
+    actual width.  The `{l,r,etc.}` parameter may
     also be specified as `i`_(nside)_ or
     `o`_(utside)_ for two-sided documents, and uppercase
     may be used to indicate that the picture should float.  The

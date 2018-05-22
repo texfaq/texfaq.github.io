@@ -265,14 +265,14 @@ commercially, include:
 
   Lucida is a family of related fonts including seriffed, sans serif,
   sans serif fixed width, calligraphic, blackletter, fax, Kris Holmes'
-  connected handwriting font, _etc_; they're not as 'spindly' as
+  connected handwriting font, etc; they're not as 'spindly' as
   Computer Modern, with a large x-height, and include a larger set of
   maths symbols, operators, relations and delimiters than CM
   (over 800 instead of 384: among others, it also includes the
   AMS `msam` and `msbm` symbol sets).  'Lucida
   Bright Expert' 
   (14 fonts) adds seriffed fixed width, another handwriting font,
-  smallcaps, bold maths, upright 'maths italic', _etc_., to the
+  smallcaps, bold maths, upright 'maths italic', etc., to the
   set.  Support under LaTeX is available under the auspices of the
   PSNFSS, and pre-built metrics are also provided.
 
@@ -286,7 +286,7 @@ commercially, include:
   The three maths fonts contain only the glyphs in the CM maths
   italic, symbol, and extension fonts.  Support for using LucidaMath
   with TeX is not very good; you will need to do some work
-  reencoding fonts _etc_.  (In some sense this set is the
+  reencoding fonts etc.  (In some sense this set is the
   ancestor of the LucidaBright plus LucidaNewMath font set, which are
   not currently available.)
 

@@ -1,4 +1,4 @@
-# The English TeX Frequently Asked Questions
+# The TeX Frequently Asked Questions
 
 ## The Background
 - [Getting started](FAQ-startup.html)
@@ -19,7 +19,7 @@
 - [Should I use Plain TeX or LaTeX?](FAQ-plainvltx.html)
 - [How does LaTeX relate to Plain TeX?](FAQ-LaTeXandPlain.html)
 - [What is Context?](FAQ-context.html)
-- [What are the AMS packages (AMSTeX, _etc_.)?](FAQ-AMSpkg.html)
+- [What are the AMS packages (AMSTeX, etc.)?](FAQ-AMSpkg.html)
 - [What is Eplain?](FAQ-eplain.html)
 - [What is Texinfo?](FAQ-texinfo.html)
 - [Lollipop](FAQ-lollipop.html)

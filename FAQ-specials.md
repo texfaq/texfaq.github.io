@@ -24,7 +24,7 @@ packages.)
 The allowable arguments of `\special` depend on the device driver
 you're using.  Apart from the examples above, there are `\special`
 commands in the emTeX drivers (e.g., `dvihplj`, `dviscr`,
-_etc_.)&nbsp;that will draw lines at arbitrary orientations, and
+etc.)&nbsp;that will draw lines at arbitrary orientations, and
 commands in `dvitoln03` that permit the page to be set in
 landscape orientation.
 
