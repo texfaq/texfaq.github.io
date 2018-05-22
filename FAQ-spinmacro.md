@@ -68,6 +68,7 @@ command name (since the end of line behaves like a space, it will be
 ignored following a command name).  Thus the above command would be
 written (by an experienced programmer with a similar eye to
 emphasising the structure):
+<!-- {% raw %} -->
 ```latex
 \newcommand{\stline}[1]{%
   \bigskip
@@ -76,6 +77,7 @@ emphasising the structure):
   }%
 }
 ```
+<!-- {% endraw %} -->
 Care has been taken to ensure that every space in the revised
 definition is ignored, so none appears in the output.  The revised
 definition takes the ''belt and braces'' approach, explicitly dealing

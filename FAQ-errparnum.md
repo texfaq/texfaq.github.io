@@ -15,17 +15,21 @@ The fix is simple&nbsp;&mdash; `\newcommand{`\abc`}`[1], in the
 LaTeX case, `\de[[[abc]]]1` in the basic TeX case.
 
 The more complicated case is exemplified by the attempted definition:
+<!-- {% raw %} -->
 ```latex
 \newcommand{\abc}{joy, oh joy!%
   \newcommand{\ghi}[1]{gloom, oh #1!}%
 }
 ```
+<!-- {% endraw %} -->
 will also produce this error, as will its TeX primitive equivalent:
+<!-- {% raw %} -->
 ```latex
 \def\abc{joy, oh joy!%
   \def\ghi#1{gloom, oh #1!}%
 }
 ```
+<!-- {% endraw %} -->
 This is because special care is needed when defining one macro within
 the code of another macro.  This is explained elsewhere, separately
 for [LaTeX definitions](./FAQ-ltxhash.html) and for

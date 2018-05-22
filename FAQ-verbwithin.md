@@ -26,6 +26,7 @@ may encounter are `\verb` ended by end of line', or even the
 rather more helpful `\verb` illegal in command argument'.  The
 same sorts of thing happen with `\begin{verbatim}` &hellip;
 `\end{verbatim}`:
+<!-- {% raw %} -->
 ```latex
 \ifthenelse{\boolean{foo}}{%
 \begin{verbatim}
@@ -37,6 +38,7 @@ barfoo
 \end{verbatim}
 }
 ```
+<!-- {% endraw %} -->
 provokes errors like 'File ended while scanning use of
 `xverbatim`, as `\begin{verbatim}` fails to see its
 matching `\end{verbatim}`.

@@ -26,6 +26,7 @@ we can define:
 \endgroup
 ```
 and:
+<!-- {% raw %} -->
 ```latex
 \begingroup
   \lccode`\~=`\b
@@ -33,10 +34,12 @@ and:
     \def~{$\flat$}%
   }
 ```
+<!-- {% endraw %} -->
 The second problem is one of timing: the command has to make each
 character active _before_ its arguments are read: this means that
 the command can't actually ''have'' arguments itself, but must be
 split in two.  So we write:
+<!-- {% raw %} -->
 ```latex
 \def\chord{%
   \begingroup
@@ -49,6 +52,7 @@ split in two.  So we write:
   \endgroup
 }
 ```
+<!-- {% endraw %} -->
 and we can use the command as `\chord{F#}` or
 `\chord{Bb minor}`.
 

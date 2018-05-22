@@ -9,6 +9,7 @@ every touch and turn.)
 
 The following technique, due to David Kastrup, does what you need, and
 allows an independent package to play the exact same game:
+<!-- {% raw %} -->
 ```latex
 \let\mypkg@@everypar\everypar
 \newtoks\mypkg@everypar
@@ -19,6 +20,7 @@ allows an independent package to play the exact same game:
 }
 \let\everypar\mypkg@everypar
 ```
+<!-- {% endraw %} -->
 As you can see, the package ([`mypkg`](http://ctan.org/pkg/mypkg))
   
 

@@ -7,6 +7,7 @@ mandatory argument, but `\newcommand` requires that you 'know' the
 value of the default beforehand.
 
 The requisite trick is to use a macro in the optional argument:
+<!-- {% raw %} -->
 ```latex
 \documentclass{article}
 \newcommand\thing[2][\DefaultOpt]{%
@@ -19,15 +20,18 @@ The requisite trick is to use a macro in the optional argument:
 \thing[opti]{manda}% #1="opti"
 \end{document}
 ```
+<!-- {% endraw %} -->
 LaTeX itself has a trickier (but less readily understandable)
 method, using a macro `dblarg`; inside LaTeX, the example
 above would have been programmed:
+<!-- {% raw %} -->
 ```latex
 \newcommand\thing{\@dblarg\@thing}
 \newcommand\@thing[2][\@error]{%
   optional arg: #1,  mandatory arg: #2%
 }
 ```
+<!-- {% endraw %} -->
 In that code, `thing` is only ever called with an optional and a
 mandatory argument; if the default from the `\newcommand` is
 invoked, a bug in user code has bitten&hellip;

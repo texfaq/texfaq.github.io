@@ -7,6 +7,7 @@ that it fits within the page width.
 
 You do this by delving into the innards of the graphics package (which
 of course needs a little LaTeX internals programming):
+<!-- {% raw %} -->
 ```latex
 \makeatletter
 \def\maxwidth{%
@@ -18,6 +19,7 @@ of course needs a little LaTeX internals programming):
 }
 \makeatother
 ```
+<!-- {% endraw %} -->
 This defines a ''variable'' width which has the properties you want.
 Replace `\linewidth` if you have a different constraint on the width
 of the graphic.

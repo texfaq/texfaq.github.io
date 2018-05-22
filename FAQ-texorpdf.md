@@ -3,6 +3,7 @@
 The package [`hyperref`](http://ctan.org/pkg/hyperref) produces this error when it doesn't
 know how to make something into a ''character'' that will go into one
 of its PDF entries.  For example, the (unlikely) sequence
+<!-- {% raw %} -->
 ```latex
 \newcommand{\filled}[2]{%
   #1%
@@ -11,6 +12,7 @@ of its PDF entries.  For example, the (unlikely) sequence
 }
 \section{\filled{foo}{bar}}
 ```
+<!-- {% endraw %} -->
 provokes the error.  [`Hyperref`](http://ctan.org/pkg/Hyperref) goes on to tell you:
 ```latex
 removing `\hfil' on input line ...
@@ -24,6 +26,7 @@ arguments&nbsp;&mdash; the first is what is typeset, the second is what is put
 into the bookmark.  For example, what you would probably like in this
 case is just a single space in the bookmark; if so, the erroneous
 example above would become:
+<!-- {% raw %} -->
 ```latex
 \newcommand{\filled}[2]{%
   #1%
@@ -32,6 +35,7 @@ example above would become:
 }
 \section{\filled{foo}{bar}}
 ```
+<!-- {% endraw %} -->
 and with that definition, the example will compile succesfully
 ([`hyperref`](http://ctan.org/pkg/hyperref) knows about the macro `\space`).
 

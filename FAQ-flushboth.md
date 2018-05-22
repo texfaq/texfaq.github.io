@@ -8,6 +8,7 @@ in the same way.
 The following code (to be inserted in a package of your own, or as
 [internal LaTeX code](./FAQ-atsigns.html)) defines a command that
 restores flush justification at both margins:
+<!-- {% raw %} -->
 ```latex
 \def\flushboth{%
   \let\\\@normalcr
@@ -15,6 +16,7 @@ restores flush justification at both margins:
   \leftskip\z@skip
   \parindent 1.5em\relax}
 ```
+<!-- {% endraw %} -->
 There's a problem with the setting of `\parindent` in the code: it's
 necessary because both the `\ragged` commands set `\parindent` to
 zero, but the setting isn't a constant of nature: documents using a

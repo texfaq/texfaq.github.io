@@ -58,6 +58,7 @@ default value given for the first argument), or as
 
 Coding of commands with optional arguments is exemplified by the
 coding of the last `\foo` above:
+<!-- {% raw %} -->
 ```latex
 \def\foo{\futurelet\next\@r@foo}
 \def\@r@foo{\ifx\next[%
@@ -69,4 +70,5 @@ coding of the last `\foo` above:
 }
 \def\@x@foo[#1]#2{...#1...#2...}
 ```
+<!-- {% endraw %} -->
 

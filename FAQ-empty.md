@@ -3,6 +3,7 @@
 Suppose you need to know that the argument of your command is empty:
 that is, to distinguish between `\cmd{}` 
 and `\cmd{blah}`.  This is pretty simple:
+<!-- {% raw %} -->
 ```latex
 \def\cmd#1{%
   \def\tempa{}%
@@ -14,6 +15,7 @@ and `\cmd{blah}`.  This is pretty simple:
   \fi
 }
 ```
+<!-- {% endraw %} -->
 The case where you want to ignore an argument that consists of nothing
 but spaces, rather than something completely empty, is more tricky.
 It's solved in the code fragment [`ifmtarg`](http://ctan.org/pkg/ifmtarg), which defines

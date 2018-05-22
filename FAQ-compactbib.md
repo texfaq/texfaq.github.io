@@ -24,6 +24,7 @@ here, because it makes a different-named list, while the name
 `thebibliography` is built into LaTeX and
 BibTeX.  Therefore, we need to 
 [patch the underlying macro](./FAQ-patch.html):
+<!-- {% raw %} -->
 ```latex
 \let\oldbibliography\thebibliography
 \renewcommand{\thebibliography}[1]{%
@@ -31,6 +32,7 @@ BibTeX.  Therefore, we need to
   \setlength{\itemsep}{0pt}%
 }
 ```
+<!-- {% endraw %} -->
 The [`savetrees`](http://ctan.org/pkg/savetrees) package performs such a patch, among a
 plethora of space-saving measures: you can, in principle, suppress all
 its other actions, and have it provide you a compressed bibliography

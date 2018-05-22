@@ -3,6 +3,7 @@
 This symbol (an integral sign, 'crossed') does not appear in any of
 the fonts ordinarily available to (La)TeX users, but it can be
 created by use of the following macros:
+<!-- {% raw %} -->
 ```latex
 \def\Xint#1{\mathchoice
    {\XXint\displaystyle\textstyle{#1}}%
@@ -15,6 +16,7 @@ created by use of the following macros:
 \def\ddashint{\Xint=}
 \def\dashint{\Xint-}
 ```
+<!-- {% endraw %} -->
 `\dashint` gives a single-dashed integral sign, `\ddashint` a
 double-dashed one.
 

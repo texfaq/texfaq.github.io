@@ -87,6 +87,7 @@ do what's necessary.  Remember that `\tolerance` is a paragraph
 parameter, so you need to ensure it's actually applied&nbsp;&mdash; see
 ''[ignoring paragraph parameters](./FAQ-paraparam.html)''.
 LaTeX users could use an environment like:
+<!-- {% raw %} -->
 ```latex
 \newenvironment{tolerant}[1]{%
   \par\tolerance=#1\relax
@@ -94,6 +95,7 @@ LaTeX users could use an environment like:
   \par
 }
 ```
+<!-- {% endraw %} -->
 enclosing entire paragraphs (or set of paragraphs) in it.
 
 The value of `\emergencystretch` is added to the assumed

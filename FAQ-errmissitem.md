@@ -1,5 +1,4 @@
 # Perhaps a missing `\item`?
-
 Sometimes, the error
 ```latex
 Something's wrong--perhaps a missing \item
@@ -35,6 +34,7 @@ want to number the cells in a table, you have to do it ''by hand'':
 \end{tabular}
 ```
 This is obviously untidy; a command `\numbercell` defined as:
+<!-- {% raw %} -->
 ```latex
 \newcounter{tablecell}
 ...
@@ -43,6 +43,7 @@ This is obviously untidy; a command `\numbercell` defined as:
   \thetablecell. % **
 }
 ```
+<!-- {% endraw %} -->
 could make life easier:
 ```latex
 \begin{tabular}{l}
@@ -58,6 +59,7 @@ counter `tablecell` to zero
 The error also regularly appears when you would never have thought
 that a `\item` command  might be appropriate.  For example, the
 seemingly innocent:
+<!-- {% raw %} -->
 ```latex
 \fbox{%
   \begin{alltt}
@@ -65,6 +67,7 @@ seemingly innocent:
   \end{alltt}%
 }
 ```
+<!-- {% endraw %} -->
 produces the error (the same happens with `\mbox` in place of
 `\fbox`, or with either of their ''big brothers'', `\framebox` and
 `\makebox`).  This is because the `alltt` environment
@@ -79,6 +82,7 @@ themselves that there's a missing `\item` command.
 To solve this rather cryptic error, one must put the
 `alltt` inside a paragraph-style box.  The following
 modification of the above _does_ work:
+<!-- {% raw %} -->
 ```latex
 \fbox{%
   \begin{minipage}{0.75\textwidth}
@@ -88,6 +92,7 @@ modification of the above _does_ work:
   \end{minipage}
 }
 ```
+<!-- {% endraw %} -->
 The code above produces a box that's far too wide for the text.  One
 may want to use something that allows 
 [variable size boxes](./FAQ-varwidth.html) in place of the

@@ -13,6 +13,7 @@ like.
 
 The (excellent) [`fancyhdr`](http://ctan.org/pkg/fancyhdr) manual covers this issue, basically
 advising the creation of a command `\clearemptydoublepage`:
+<!-- {% raw %} -->
 ```latex
 \let\origdoublepage\cleardoublepage
 \newcommand{\clearemptydoublepage}{%
@@ -20,6 +21,7 @@ advising the creation of a command `\clearemptydoublepage`:
   {\pagestyle{empty}\origdoublepage}%
 }
 ```
+<!-- {% endraw %} -->
 The ''obvious'' thing is then to use this command to replace
 `\cleardoublepage` in a patched version of the `\chapter` command.
 (Make a package of your own containing a copy 

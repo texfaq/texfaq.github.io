@@ -13,6 +13,7 @@ _after_ the `\caption` command, or be part of it. For example:
 \end{figure}
 ```
 is correct, as is
+<!-- {% raw %} -->
 ```latex
 \begin{figure}
   <the illustration itself>
@@ -20,6 +21,7 @@ is correct, as is
     \label{myfig}}
 \end{figure}
 ```
+<!-- {% endraw %} -->
 whereas, in
 ```latex
 \begin{figure}

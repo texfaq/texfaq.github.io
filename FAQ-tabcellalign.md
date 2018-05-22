@@ -40,12 +40,14 @@ The `\tabularnewline` and `\arraybackslash` commands are
 package, respectively.  In the unlikely event that neither is
 available, the user may try the (old) solution which preserves the
 meaning of ` `:
+<!-- {% raw %} -->
 ```latex
 \newcommand\PBS[1]{\let\temp=\\%
   #1%
   \let\\=\temp
 }
 ```
+<!-- {% endraw %} -->
 which one uses within a table as:
 ```latex
 ... & \PBS\centering blah ... \\

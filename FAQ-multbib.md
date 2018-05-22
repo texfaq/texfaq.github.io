@@ -46,6 +46,7 @@ place.
 The [`multibib`](http://ctan.org/pkg/multibib) package allows you to define a series of
 ''additional topics'', each of which comes with its own series of
 bibliography commands.  So one might write:
+<!-- {% raw %} -->
 ```latex
 \usepackage{multibib}
 \newcites{bk,art}%
@@ -61,6 +62,7 @@ bibliography commands.  So one might write:
 \bibliographybk{book-bib}
 \bibliographyart{art-bib}
 ```
+<!-- {% endraw %} -->
 Again, as for [`multibbl`](http://ctan.org/pkg/multibbl), any `\bibliography...` command may
 scan any list of `bib` files.
 

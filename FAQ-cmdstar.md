@@ -21,6 +21,7 @@ to take an argument.
 
 The LaTeX kernel does a lot of this, and has its own command,
 `ifstar` (which needs 'internal command protection', cf.
+<!-- {% raw %} -->
 ```latex
 \makeatletter
 \newcommand{\mycommand}{%
@@ -32,6 +33,7 @@ The LaTeX kernel does a lot of this, and has its own command,
 \newcommand{\mycommandStar}{starred version}
 \newcommand{\mycommandNoStar}{normal version}
 ```
+<!-- {% endraw %} -->
 (Note that arguments to `\mycommandStar` and `\mycommandNoStar`
 are independent&nbsp;&mdash; either can have their own arguments, unconstrained
 by the technique we're using, unlike the trick described above.)
@@ -63,6 +65,7 @@ distribution.  The package defines a bunch of commands (such as
 the specification of command arguments; for each argument, you have a
 set of choices in the command specification.  So, to create a
 *-command (in LaTeX 2e style), one might write:
+<!-- {% raw %} -->
 ```latex
 \NewDocumentCommand \foo { s m } {%
   % #1 is the star indicator
@@ -70,6 +73,7 @@ set of choices in the command specification.  So, to create a
   ...
 }
 ```
+<!-- {% endraw %} -->
 The ''star indicator'' (`s`) argument appears as `#1`
 and will take values `\BooleanTrue` (if there was a star) or
 `\BooleanFalse` (otherwise); the other (`m`) argument  is a

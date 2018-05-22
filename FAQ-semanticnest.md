@@ -26,10 +26,12 @@ the traceback consists of
                 here's \silly being executed}
 ```
 followed by 100 instances of
+<!-- {% raw %} -->
 ```latex
 \silly ->\hbox {here's \silly 
                               being executed}
 ```
+<!-- {% endraw %} -->
 The repeated lines are broken at exactly the offending macro; of
 course the loop need not be as simple as this&nbsp;&mdash; if `\silly` calls
 `\dopy` which boxes `\silly`, the effect is just the same and

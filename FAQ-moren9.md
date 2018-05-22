@@ -10,6 +10,7 @@ round this: how would you express a 10th argument?&nbsp;&mdash; and ensure that
 the syntax didn't gobble some other valid usage?
 
 If you really must have more than 9 arguments, the way to go is:
+<!-- {% raw %} -->
 ```latex
 \def\blah#1#2 ... #9{%
   \def\ArgI{{#1}}%
@@ -26,6 +27,7 @@ If you really must have more than 9 arguments, the way to go is:
   <macro body>%
 }
 ```
+<!-- {% endraw %} -->
 This technique is easily extendible by concert pianists of the TeX
 keyboard, but is really hard to recommend.
 
@@ -37,6 +39,7 @@ way out of such barbarous command syntax: the [`keyval`](http://ctan.org/pkg/key
 package.  With [`keyval`](http://ctan.org/pkg/keyval), and a bit of programming, one can
 write really quite sophisticated commands, whose invocation might look
 like:
+<!-- {% raw %} -->
 ```latex
 \flowerinstance{species=Primula veris,
   family=Primulaceae,
@@ -47,6 +50,7 @@ like:
   soiltype=alkaline
 }
 ```
+<!-- {% endraw %} -->
 The merit of such verbosity is that it is self-explanatory: the typist
 doesn't have to remember that argument twelve is `soiltype`, and so
 on: the commands may be copied from field notes quickly and

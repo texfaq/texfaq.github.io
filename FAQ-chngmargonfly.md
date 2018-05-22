@@ -12,6 +12,7 @@ changed in the preamble of the document, i.e., before the
 happened.
 
 To adjust text width within a document we define an environment:
+<!-- {% raw %} -->
 ```latex
 \newenvironment{changemargin}[2]{%
   \begin{list}{}{%
@@ -24,6 +25,7 @@ To adjust text width within a document we define an environment:
   }%
   \item[]}{\end{list}}
 ```
+<!-- {% endraw %} -->
 The environment takes two arguments, and will indent the left and
 right margins, respectively, by the parameters' values. Negative
 values will cause the margins to be narrowed, so

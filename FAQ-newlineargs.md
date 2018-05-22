@@ -23,6 +23,7 @@ were giving it a 'modifier'.
 
 An obvious solution is to enclose the stuff at the start of the new
 line in braces, typing:
+<!-- {% raw %} -->
 ```latex
 {\ttfamily
   /* C-language comment\\
@@ -30,6 +31,7 @@ line in braces, typing:
   {*}/
 }
 ```
+<!-- {% endraw %} -->
 This particular example could be coded (without any problems) in
 verbatim, but the behaviour does confuse people.
 

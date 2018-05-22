@@ -58,16 +58,19 @@ Another consequence is that catcode assignments made
 in macros often don't work as expected 
 (see ''[Active characters in command arguments](./FAQ-actinarg.html)'').
 For example, the definition
+<!-- {% raw %} -->
 ```latex
 \def\mistake{%
 \catcode`_=\active
 \def_{\textunderscore\-}%
 }
 ```
+<!-- {% endraw %} -->
 does not work because it attempts to define an ordinary `_` character:
 When the macro is used, the category change does not apply to the 
 underscore character already in the macro definition.  Instead, one may
 use:
+<!-- {% raw %} -->
 ```latex
 \begingroup
 \catcode`_=\active
@@ -77,12 +80,14 @@ use:
 }
 \endgroup
 ```
+<!-- {% endraw %} -->
 The alternative (''tricksy'') way of creating such an isolated
 definition depends on the curious properties of `\lowercase`, which
 changes characters without altering their catcodes.  Since there is
 always _one_ active character (`&#x7e;`), we
 can fool `\lowercase` into patching up a definition without ever
 explicitly changing a catcode:
+<!-- {% raw %} -->
 ```latex
 \begingroup
   \lccode`\~=`\_
@@ -90,6 +95,7 @@ explicitly changing a catcode:
     \def~{\textunderscore\-}%
   }%
 ```
+<!-- {% endraw %} -->
 The two definitions have the same overall effect (the character is
 defined as a command, but the character does not remain active),
 except that the first defines a `\global` command.
@@ -97,6 +103,7 @@ except that the first defines a `\global` command.
 For active characters to be used only in maths mode, it is much better
 to leave the character having its ordinary catcode, but assign it a
 special active _maths code_, as with
+<!-- {% raw %} -->
 ```latex
 \begingroup
   \lccode`~=`x
@@ -105,6 +112,7 @@ special active _maths code_, as with
   }%
 \mathcode`x="8000
 ```
+<!-- {% endraw %} -->
 The special character does not need to be redefined whenever it is
 made active&nbsp;&mdash; the definition of the command persists even if the
 character's catcode reverts to its original value; the definition

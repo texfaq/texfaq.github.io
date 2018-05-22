@@ -29,6 +29,7 @@ consecutively, in a sort of list introduced by `\qitem` commands:
 ```
 The `\epigraphhead` command enables you to place your epigraph
 _above_ a chapter header:
+<!-- {% raw %} -->
 ```latex
 \setlength{\unitlength}{1pt}
 ...
@@ -38,6 +39,7 @@ _above_ a chapter header:
            {Lewis Carroll}%
 }
 ```
+<!-- {% endraw %} -->
 The &lsaquo;_distance_&rsaquo; says how far above the chapter heading the
 epigraph is to go; it's expressed in terms of the `\unitlength`
 that's used in the `picture` environment; the package's

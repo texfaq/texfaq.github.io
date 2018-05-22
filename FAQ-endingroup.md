@@ -50,6 +50,7 @@ fairly quickly.
 &epsilon;-TeX (and e-LaTeX&nbsp;&mdash; LaTeX run on &epsilon;-TeX) gives you
 further diagnostics after the traditional infuriating TeX one&nbsp;&mdash; it
 actually keeps the information in a similar way to LaTeX:
+<!-- {% raw %} -->
 ```latex
 (\end occurred inside a group at level 3)
 
@@ -58,6 +59,7 @@ actually keeps the information in a similar way to LaTeX:
 ### simple group (level 1) entered at line 4 ({)
 ### bottom level
 ```
+<!-- {% endraw %} -->
 The diagnostic not only tells us where the group started, but also the
 _way_ it started: `\begingroup` or `{` (which is an alias of
 `\bgroup`, and the two are not  distinguishable at the TeX-engine

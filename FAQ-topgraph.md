@@ -8,6 +8,7 @@ Most imported graphics have their base-line set at the bottom of the
 picture.  When using packages such as [`subfig`](http://ctan.org/pkg/subfig), one often
 wants to align figures by their tops.  The following odd little bit of
 code does this:
+<!-- {% raw %} -->
 ```latex
 \vtop{%
   \vskip0pt
@@ -16,6 +17,7 @@ code does this:
   }%
 }
 ```
+<!-- {% endraw %} -->
 The `\vtop` primitive sets the base-line of the resulting object to
 that of the first ''line'' in it; the `\vskip` creates the illusion
 of an empty line, so `\vtop` makes the very top of the box into the
@@ -24,6 +26,7 @@ base-line.
 In cases where the graphics are to be aligned with text, there is a
 case for making the base-line one ex-height below the top of the box,
 as in:
+<!-- {% raw %} -->
 ```latex
 \vtop{%
   \vskip-1ex
@@ -32,6 +35,7 @@ as in:
   }%
 }
 ```
+<!-- {% endraw %} -->
 A more LaTeX-y way of doing the job (somewhat inefficiently) uses
 the [`calc`](http://ctan.org/pkg/calc) package:
 ```latex

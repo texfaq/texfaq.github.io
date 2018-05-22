@@ -28,6 +28,7 @@ good:
 
 2.  Define a ''special-command generator'', and  use the resulting
     commands:
+    <!-- {% raw %} -->
     ```latex
     \newcommand{\DefineRemark}[2]{%
       \expandafter\newcommand\csname rmk-#1\endcsname{#2}%
@@ -38,7 +39,7 @@ good:
     ...
     \Remark{cul8r}
     ```
-    
+    <!-- {% endraw %} -->
 
     - Pro: Straightforward to use, not too untidy
     - Con: It's hardly doing what we set out to do (experts will

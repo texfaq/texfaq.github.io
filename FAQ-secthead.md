@@ -9,12 +9,14 @@ programming described in section 2.2 of _The LaTeX Companion_
   FAQ).
 The following hack will 
 probably satisfy your editor. Define yourself new commands
+<!-- {% raw %} -->
 ```latex
 \newcommand{\ssection}[1]{%
   \section[#1]{\centering\normalfont\scshape #1}}
 \newcommand{\ssubsection}[1]{%
   \subsection[#1]{\raggedright\normalfont\itshape #1}}
 ```
+<!-- {% endraw %} -->
 and then use `\ssection` and `\ssubsection` in place of
 `\section` and `\subsection`. This isn't perfect: section numbers
 remain in bold, and starred forms need a separate redefinition.

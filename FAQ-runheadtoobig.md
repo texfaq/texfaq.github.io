@@ -43,11 +43,13 @@ typically to take account of the nature of the `\*mark` commands:
 the thing that goes in the heading is the first mark on the page (or,
 failing any mark, the last mark on any previous page).  As a result
 the recipe for sections is more tiresome:
+<!-- {% raw %} -->
 ```latex
 \section[middling version]{verbose version%
               \sectionmark{terse version}}
 \sectionmark{terse version}
 ```
+<!-- {% endraw %} -->
 (the first `\sectionmark` deals with the header of the page the
 `\section` command falls on, and the second deal with subsequent
 pages; note that here, you need the optional argument to `\section`,

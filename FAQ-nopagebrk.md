@@ -73,6 +73,7 @@ sequences of LaTeX-style sections, by incorporating `\filbreak`
 into the definition of a command (as in 
 [patching commands](./FAQ-patch.html)).  A simple and effective
 patch would be:
+<!-- {% raw %} -->
 ```latex
 \let\oldsubsubsection=\subsubsection
 \renewcommand{\subsubsection}{%
@@ -80,6 +81,7 @@ patch would be:
   \oldsubsubsection
 }
 ```
+<!-- {% endraw %} -->
 While the trick works for consecutive sequences of blocks, it's
 slightly tricky to get out of such sequences unless the sequence is
 interrupted by a forced page break (such as `\clearpage`, which may

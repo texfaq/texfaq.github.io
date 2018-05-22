@@ -34,19 +34,24 @@ them.
 
 Donald Arseneau's [`cite`](http://ctan.org/pkg/cite) package offers the following test
 for an argument being a strictly positive integer:
+<!-- {% raw %} -->
 ```latex
 \def\IsPositive#1{%
   TT\fi
   \ifcat_\ifnum0<0#1 _\else A\fi
 }
 ```
+<!-- {% endraw %} -->
 which can be adapted to a test for a non-negative integer thus:
+<!-- {% raw %} -->
 ```latex
 \def\IsNonNegative{%
   \ifcat_\ifnum9<1#1 _\else A\fi
 }
 ```
+<!-- {% endraw %} -->
 or a test for any integer:
+<!-- {% raw %} -->
 ```latex
 \def\gobbleminus#1{\ifx-#1\else#1\fi}
 \def\IsInteger#1{%
@@ -54,6 +59,7 @@ or a test for any integer:
   \ifcat_\ifnum9<1\gobbleminus#1 _\else A\fi
 }
 ```
+<!-- {% endraw %} -->
 but this surely stretches the technique further than is reasonable.
 
 If we don't care about the sign, we can use TeX to remove the
@@ -67,6 +73,7 @@ what's left:
 errors, noted in an earlier version of this answer, was suggested by
 Andreas Matthias).
 In a later thread on the same topic, Michael Downes offered:
+<!-- {% raw %} -->
 ```latex
 \def\IsInteger#1{%
   TT\fi
@@ -79,6 +86,7 @@ In a later thread on the same topic, Michael Downes offered:
     \romannumeral0\string#1}\delimiter
 }
 ```
+<!-- {% endraw %} -->
 which relies on `\romannumeral` producing an empty result if its
 argument is zero.  Sadly, this technique has the unfortunate property
 that it accepts simple expressions such as `1+2-3`; this
@@ -100,6 +108,7 @@ The LaTeX [`memoir`](http://ctan.org/pkg/memoir) class has an internal command o
 Of course, all this kerfuffle would be (essentially) void if there was
 a simple means of ''catching'' TeX errors.  Imagining an
 error-catching primitive `\ifnoerror`, one might write:
+<!-- {% raw %} -->
 ```latex
 \def\IsInteger#1{%
   TT%
@@ -113,6 +122,7 @@ error-catching primitive `\ifnoerror`, one might write:
   \fi
 }
 ```
+<!-- {% endraw %} -->
 thus using TeX's own integer-parsing code to do the check.  It's a
 pity that such a mechanism was never defined (it could be that it's
 impossible to program within TeX!).

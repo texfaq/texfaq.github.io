@@ -37,10 +37,12 @@ definitions of the symbolic names, on a per-language basis:
 `\addto``\captions``&lsaquo;_language_&rsaquo;` is the thing
 (`&lsaquo;_language_&rsaquo;` being the language option you gave to
 [`babel`](http://ctan.org/pkg/babel) in the first place).  For example:
+<!-- {% raw %} -->
 ```latex
 \addto\captionsdanish{%
   \renewcommand{\contentsname}%
     {Indholdsfortegnelse}%
 }
 ```
+<!-- {% endraw %} -->
 

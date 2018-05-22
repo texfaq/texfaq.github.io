@@ -17,6 +17,7 @@ case, the code of `\blah` will have an argument of `Default`.
 
 To define a command with two optional arguments, we use the relaying
 technique, as follows:
+<!-- {% raw %} -->
 ```latex
 \newcommand{\blah}[1][Default1]{%
   \def\ArgI{{#1}}%
@@ -29,6 +30,7 @@ technique, as follows:
   ...%
 }
 ```
+<!-- {% endraw %} -->
 Of course, `\BlahRelay` may have as many mandatory arguments as are
 allowed, after allowance for the one taken up with its own
 optional argument&nbsp;&mdash; that is, 8.

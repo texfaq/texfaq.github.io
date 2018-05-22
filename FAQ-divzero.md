@@ -32,6 +32,7 @@ will resolve the error, and will behave as you might hope.
 If you're using the simpler [`graphics`](http://ctan.org/pkg/graphics) package, use the
 `*` form of the `\resizebox` command to specify the use of
 `totalheight`:
+<!-- {% raw %} -->
 ```latex
 \resizebox*{!}{5cm}{%
   \rotatebox{180}{%
@@ -39,4 +40,5 @@ If you're using the simpler [`graphics`](http://ctan.org/pkg/graphics) package, 
   }%
 }
 ```
+<!-- {% endraw %} -->
 

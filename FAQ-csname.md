@@ -15,11 +15,13 @@ as a rather strange redefinition of `#`).  The trick is to use
 `\csname`, which is a TeX primitive for generating command names
 from random text, together with `\expandafter`.  The definition
 above should read:
+<!-- {% raw %} -->
 ```latex
 \def\relay#1#2{%
   \expandafter\def\csname #1\endcsname{#2}%
 }
 ```
+<!-- {% endraw %} -->
 With this definition, `\relay{blah}{bleah}` is equivalent to
 `\def``\blah{bleah}`.
 
@@ -29,6 +31,7 @@ because they're not necessary (in fact they seldom are), and in this
 circumstance they make the macro code slightly more tedious.
 
 The name created need not (of course) be _just_ the argument:
+<!-- {% raw %} -->
 ```latex
 \def\newrace#1#2#3{%
   \expandafter\def\csname start#1\endcsname{%
@@ -39,6 +42,7 @@ The name created need not (of course) be _just_ the argument:
   }%
 }
 ```
+<!-- {% endraw %} -->
 With commands
 ```latex
 \def\start#1{\csname start#1\endcsname}

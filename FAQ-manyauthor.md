@@ -14,10 +14,12 @@ Last, Suffix, First
 ```
 and lists of names should be separated with `and`.
 For example:
+<!-- {% raw %} -->
 ```latex
 AUTHOR = {Fred Q. Bloggs, John P. Doe \&
           Another Idiot}
 ```
+<!-- {% endraw %} -->
 falls foul of two of the above rules: a syntactically significant
 comma appears in an incorrect place, and `\\&` is being used as a
 name separator.  The output of the above might be something like:
@@ -27,10 +29,12 @@ John P. Doe \& Another Idiot Fred Q. Bloggs
 because ''John P. Doe[[[&]]]Another Idiot has become the 'first name',
 while ''Fred Q. Bloggs'' has become the 'last name' of a single
 person.  The example should have been written:
+<!-- {% raw %} -->
 ```latex
 AUTHOR = {Fred Q. Bloggs and John P. Doe and
           Another Idiot}
 ```
+<!-- {% endraw %} -->
 Some bibliography styles implement clever acrobatics with very long
 author lists.  You can force truncation by using the pseudo-name
 `others`, which will usually translate to something like

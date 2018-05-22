@@ -66,6 +66,7 @@ are better adjusted.  The `mathpazo` family includes a
 the digit '1', and lower-case 'k'.
 
 The ''lazy person's'' blackboard bold macros:
+<!-- {% raw %} -->
 ```latex
 \newcommand{\R}{{\textsf{R}\hspace*{-0.9ex}%
   \rule{0.15ex}{1.5ex}\hspace*{0.9ex}}}
@@ -76,6 +77,7 @@ The ''lazy person's'' blackboard bold macros:
 \newcommand{\C}{{\textsf{C}\hspace*{-0.9ex}%
   \rule{0.15ex}{1.3ex}\hspace*{0.9ex}}}
 ```
+<!-- {% endraw %} -->
 are almost acceptable at normal size if the surrounding text is
 `cmr10` (the position of the vertical bar can be affected by
 the surrounding font).  However, they are not part of a proper maths font,

@@ -2,7 +2,6 @@
 
 
 
-
 TeX was _not_ designed as a programming language, but there
 are occasions when you want to repeat some part of your document, just
 as parts of programs need to run several times.  An obvious
@@ -58,6 +57,7 @@ probably not recommendable.
 
 The LaTeX distribution package [`ifthen`](http://ctan.org/pkg/ifthen) offers the macro
 `\whiledo`:
+<!-- {% raw %} -->
 ```latex
 \newcounter{ct}
 ...
@@ -68,9 +68,10 @@ The LaTeX distribution package [`ifthen`](http://ctan.org/pkg/ifthen) offers the
   \stepcounter {ct}%
 }
 ```
-
+<!-- {% endraw %} -->
 
 The [`forloop`](http://ctan.org/pkg/forloop) package provides nothing but `\forloop`:
+<!-- {% raw %} -->
 ```latex
 \newcounter{ct}
 ...
@@ -79,6 +80,7 @@ The [`forloop`](http://ctan.org/pkg/forloop) package provides nothing but `\forl
   \thect\
 }
 ```
+<!-- {% endraw %} -->
 as you can see, the arguments are counter, starting value and
 termination condition; an optional argument supplies a step value
 (default step is 1).

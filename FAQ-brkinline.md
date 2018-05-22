@@ -25,6 +25,7 @@ values.  You can actually forbid all breaks, everywhere, by:
 \binoppenalty = 10000
 ```
 If you want just to prevent breaks in a single expression, write:
+<!-- {% raw %} -->
 ```latex
 {%
   \relpenalty   = 10000
@@ -32,6 +33,7 @@ If you want just to prevent breaks in a single expression, write:
   $a=b+c$
 }
 ```
+<!-- {% endraw %} -->
 and the original values will remain undisturbed outside the braces.
 This is tedious: there is often value in an alternative approach,
 in which you say which parts of the expression may not break whatever

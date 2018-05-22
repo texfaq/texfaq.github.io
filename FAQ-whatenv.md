@@ -86,10 +86,11 @@ produces an error message
 ```
 So, if you need to pass an environment argument to the end-code, you
 have to wrap it in a macro of its own:
+<!-- {% raw %} -->
 ```latex
 \newenvironment{normaltext}[1][Intro]%
   {#1%
    \newcommand{\foo}{#1}}%
   {\typeout{what was \foo{}, again?}
 ```
-
+<!-- {% endraw %} -->

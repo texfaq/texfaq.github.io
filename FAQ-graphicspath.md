@@ -30,9 +30,11 @@ syntax of `\graphicspath`s one argument is slightly odd: it's a
 sequence of paths (typically relative paths), each of which is
 enclosed in braces.  A slightly odd example (slightly modified from one
 given in the [`graphics`](http://ctan.org/pkg/graphics) bundle documentation) is:
+<!-- {% raw %} -->
 ```latex
 \graphicspath{{eps/}{png/}}
 ```
+<!-- {% endraw %} -->
 which will search for graphics files in subdirectories `eps` and
 `png` of the directory in which LaTeX is running.  (Note that
 the trailing `/` _is_ required.)

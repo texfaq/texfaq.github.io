@@ -27,6 +27,7 @@ on an inner list item is supposedly done using the command
 `\p@enumii{`\theenumii`}`.  Unfortunately, the internal
 workings of this aren't quite right, and you need to patch the
 `\refstepcounter` command:
+<!-- {% raw %} -->
 ```latex
 \renewcommand*\refstepcounter[1]{\stepcounter{#1}%
   \protected@edef\@currentlabel{%
@@ -35,6 +36,7 @@ workings of this aren't quite right, and you need to patch the
   }%
 }
 ```
+<!-- {% endraw %} -->
 With the patch in place you can now, for example, change the labels on
 all inner lists by adding the following code in your preamble:
 ```latex

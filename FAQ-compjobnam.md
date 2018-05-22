@@ -9,6 +9,7 @@ create a macro whose expansion looks the same as the expansion of
 the `\show` command'' prefix.
 
 The full command looks like:
+<!-- {% raw %} -->
 ```latex
 \def\StripPrefix#1>{}
 \def\jobis#1{FF\fi
@@ -18,6 +19,7 @@ The full command looks like:
   \ifx\job\predicate
 }
 ```
+<!-- {% endraw %} -->
 And it's used as:
 ```latex
 \if\jobis{mainfile}%

@@ -91,10 +91,12 @@ just `/x`.  When you specify keys you can provide the complete
 path of the key, but you usually just provide the name of the key
 (corresponding to the file name without any path) and the path is
 added automatically.  So a `\pgfkeys` command might be:
+<!-- {% raw %} -->
 ```latex
 \pgfkeys{/my key=hello,/your keys/main key=something\strange,
   key name without path=something else}
 ```
+<!-- {% endraw %} -->
 and for each key mentioned, the associated code will be executed.
 &hellip; and that code is also set up using `\pgfkeys`:
 ```latex

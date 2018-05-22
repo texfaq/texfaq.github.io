@@ -15,30 +15,36 @@ The section number is typeset using the
 subsection, &hellip;) of the heading, as argument.  Ordinarily,
 `seccntformat` 
 merely outputs the section number, and then a `\quad` of space:
+<!-- {% raw %} -->
 ```latex
 \renewcommand*{\@seccntformat}[1]{%
   \csname the#1\endcsname\quad
 }
 ```
+<!-- {% endraw %} -->
 Suppose you want to put a stop after every section (subsection,
 subsubsection, &hellip;) number, a trivial change may be implemented by
 simple modification of the command:
+<!-- {% raw %} -->
 ```latex
 \renewcommand*{\@seccntformat}[1]{%
   \csname the#1\endcsname.\quad
 }
 ```
+<!-- {% endraw %} -->
 However, many people want to modify section numbers, but not
 subsection numbers, or any of the others.  To do this, one must make
 `seccntformat` switch according to its argument.  The following
 technique for doing the job is slightly wasteful, but is efficient
 enough for a relatively rare operation:
+<!-- {% raw %} -->
 ```latex
 \renewcommand*{\@seccntformat}[1]{%
   \csname the#1\endcsname
   \csname adddot@#1\endcsname\quad
 }
 ```
+<!-- {% endraw %} -->
 which uses a second-level command to provide the dot, if it has been
 defined; otherwise it merely appends `\relax` (which does nothing
 in this context).  The definition of the second-level command (the
