@@ -17,7 +17,6 @@ Some time ago, TUG established a ''technical council'', whose
 task was to oversee the development of TeXnical projects.  Most
 such projects nowadays go on their way without any support from
 TUG, but TUG's web site lists its
-
 [Technical Working Groups (TWGs)](http://www.tug.org/twg.html).
 
 TUG has a reasonable claim to be considered a world-wide
@@ -25,5 +24,5 @@ organisation, but there are many national and regional user groups,
 too; TUG's web site maintains a list of
 [''Local User Groups'' (LUGs)](http://www.tug.org/lugs.html).
 
-Contact TUG itself via [http://tug.org/contact]
+Contact TUG itself via http://tug.org/contact
 
