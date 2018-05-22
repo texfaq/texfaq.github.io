@@ -90,9 +90,8 @@ of drawing, and setup, here are a few systems you may consider:
 -  You liked PicTeX but don't have enough memory or time?  Look
     at the late Eitan Gurari's [`dratex`](http://ctan.org/pkg/dratex): it is just as powerful,
     but is an entirely new implementation which is not as hard on
-    memory, is much more readable and is (admittedly sparsely) documented at
-    [http://www.cse.ohio-state.edu/&nbsp;gurari/tpf/html/README.html],
-    as well as in the author's book ''TeX and LATeX: Drawing and
+    memory, is much more readable,
+    as well as in the author's book ''TeX and LaTeX: Drawing and
     Literate Programming'', which remains available from on-line
     booksellers.
 
