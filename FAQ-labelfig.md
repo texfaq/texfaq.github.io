@@ -25,10 +25,10 @@ in `pfgguide` in the distribution.
 
 Since [`psfrag`](http://ctan.org/pkg/psfrag) works in terms of (encapsulated) PostScript files,
 it needs extra work for use with PDFLaTeX.  Two techniques are
-available, using [[`pst-pdf`](http://ctan.org/pkg/pst-pdf) package](./FAQ-pdftexgraphics.html)
+available, using [`pst-pdf` package](./FAQ-pdftexgraphics.html)
 in a mode designed to do this work; and using [`pdfrack`](http://ctan.org/pkg/pdfrack).
 
-The [[`Pst-pdf`](http://ctan.org/pkg/Pst-pdf) package](./FAQ-pdftexgraphics.html) can support
+The [`Pst-pdf` package](./FAQ-pdftexgraphics.html) can support
 this ''extra work'' usage.  In fact, the [`pst-pdf`](http://ctan.org/pkg/pst-pdf) support
 package [`auto-pst-pdf`](http://ctan.org/pkg/auto-pst-pdf) offers a configuration setting
 precisely for use with [`psfrag`](http://ctan.org/pkg/psfrag).

@@ -38,13 +38,14 @@ is an obvious choice.
 fonts, and has some virtues&nbsp;&mdash; it's noticeably smaller than
 [`CM-super`](http://ctan.org/pkg/CM-super) while being less stark than [`CM-LGC`](http://ctan.org/pkg/CM-LGC).
 
-[`Latin`](http://ctan.org/pkg/Latin) [`Modern`](http://ctan.org/pkg/Modern) is produced using the
+[`Latin Modern`](http://ctan.org/pkg/lm) is produced using the
 program [`MetaType1`](./FAQ-textrace.html).  The
-[`Latin`](http://ctan.org/pkg/Latin) [`Modern`](http://ctan.org/pkg/Modern) set comes with T1, TS1
+[`Latin Modern`](http://ctan.org/pkg/lm) set comes with T1, TS1
 LY1 encoded variants (as well as a variant using the Polish
 QX encoding); for the glyph set it covers, its outlines seem
-rather cleaner than those of [`CM-super`](http://ctan.org/pkg/CM-super).  [`Latin`](http://ctan.org/pkg/Latin)
-[`Modern`](http://ctan.org/pkg/Modern) is more modest in its disc space demands than is
+rather cleaner than those of [`CM-super`](http://ctan.org/pkg/CM-super). 
+[`Latin Modern`](http://ctan.org/pkg/lm)
+is more modest in its disc space demands than is
 [`CM-super`](http://ctan.org/pkg/CM-super), while not being nearly as stark in its range of
 design sizes as is [`CM-LGC`](http://ctan.org/pkg/CM-LGC)&nbsp;&mdash;  [`Latin`](http://ctan.org/pkg/Latin)
 [`Modern`](http://ctan.org/pkg/Modern)'s fonts are offered in the same set of sizes as the

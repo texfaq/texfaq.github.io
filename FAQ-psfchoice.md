@@ -73,14 +73,14 @@ Users should also consider the possibilities of typesetting
   text support of OT1 encoding is not provided&nbsp;&mdash; you are
   expected to use T1.
 
-  For a sample, see [http://www.tug.dk/FontCatalogue/utopia/]
+  For a sample, see [http://www.tug.dk/FontCatalogue/utopia/](http://www.tug.dk/FontCatalogue/utopia/)
 
 - Fourier/New Century SchoolbookMichael Zedler
 
   `Fouriernc` is a configuration using the Fourier fonts in
   the ConTeXt of New Century Schoolbook text fonts.
 
-  For a sample, see [http://www.tug.dk/FontCatalogue/newcent/]
+  For a sample, see [http://www.tug.dk/FontCatalogue/newcent/](http://www.tug.dk/FontCatalogue/newcent/)
 
 - KP-fontsThe Johannes Kepler project
 
@@ -90,7 +90,7 @@ Users should also consider the possibilities of typesetting
   successful, and their use may be suppressed when loading the fonts'
   [`kpfonts`](http://ctan.org/pkg/kpfonts) LaTeX support package).
 
-  For an example, see [http://www.tug.dk/FontCatalogue/kpserif/]
+  For an example, see [http://www.tug.dk/FontCatalogue/kpserif/](http://www.tug.dk/FontCatalogue/kpserif/)
 
 - MathDesign(3 free families, 3 commercial-based
   families&hellip;so far) Paul Pichaureau
@@ -107,9 +107,9 @@ Users should also consider the possibilities of typesetting
   want: there is a wealth of documentation and examples.
 
   For samples of the free variants, see
-  [http://www.tug.dk/FontCatalogue/charter/] for URW Charter,
-  [http://www.tug.dk/FontCatalogue/garamond/] for URW Garamond and
-  [http://www.tug.dk/FontCatalogue/utopia-md/] for Adobe Utopia.
+  [http://www.tug.dk/FontCatalogue/charter/](http://www.tug.dk/FontCatalogue/charter/) for URW Charter,
+  [http://www.tug.dk/FontCatalogue/garamond/](http://www.tug.dk/FontCatalogue/garamond/) for URW Garamond and
+  [http://www.tug.dk/FontCatalogue/utopia-md/](http://www.tug.dk/FontCatalogue/utopia-md/) for Adobe Utopia.
 
 - Belleek(3 fonts) Richard Kinch
 
@@ -141,7 +141,7 @@ Users should also consider the possibilities of typesetting
   PostScript files can be freely exchanged.  Support under LaTeX 2e
   is available in [PSNFSS](./FAQ-usepsfont.html).
 
-  For a sample, see [http://www.tug.dk/FontCatalogue/times/]
+  For a sample, see [http://www.tug.dk/FontCatalogue/times/](http://www.tug.dk/FontCatalogue/times/)
 
 - Computer Modern BrightFree scalable outline versions of these
   fonts do exist; they are covered below together with their
@@ -192,8 +192,7 @@ commercially, include:
   four free Bitstream text fonts, in addition to the 15 hand-hinted
   MicroPress fonts.)
   For further details (including samples) see
-
-  [http://www.micropress-inc.com/fonts/chmath/chmain.htm]
+  [http://www.micropress-inc.com/fonts/chmath/chmain.htm](http://www.micropress-inc.com/fonts/chmath/chmain.htm)
 
 - Computer Modern Bright(62 fonts&nbsp;&mdash; optical scaling) Walter
   Schmidt
@@ -210,8 +209,7 @@ commercially, include:
   mathematics.
 
   For further details of Micropress' offering (including samples) see
-
-  [http://www.micropress-inc.com/fonts/brmath/brmain.htm]
+  [http://www.micropress-inc.com/fonts/brmath/brmain.htm](http://www.micropress-inc.com/fonts/brmath/brmain.htm)
 
 - Concrete Math(25 fonts&nbsp;&mdash; optical scaling) Ulrik Vieth
 
@@ -227,8 +225,7 @@ commercially, include:
   format by MicroPress, Inc.
 
   For further information (including samples) see
-
-  [http://www.micropress-inc.com/fonts/ccmath/ccmain.htm]
+  [http://www.micropress-inc.com/fonts/ccmath/ccmain.htm](http://www.micropress-inc.com/fonts/ccmath/ccmain.htm)
 
 - HV Math(14 fonts) MicroPress Inc.
 
@@ -243,8 +240,7 @@ commercially, include:
   are available free, on CTAN.
 
   For further details (and samples) see
-
-  [http://www.micropress-inc.com/fonts/hvmath/hvmain.htm]
+  [http://www.micropress-inc.com/fonts/hvmath/hvmain.htm](http://www.micropress-inc.com/fonts/hvmath/hvmain.htm)
 
 - Informal Math(7 outline fonts) MicroPress Inc.
 
@@ -257,8 +253,7 @@ commercially, include:
   Plain TeX, LaTeX 2.09 and current LaTeX are provided.
 
   For further details (including samples) see
-
-  [http://www.micropress-inc.com/fonts/ifmath/ifmain.htm]
+  [http://www.micropress-inc.com/fonts/ifmath/ifmain.htm](http://www.micropress-inc.com/fonts/ifmath/ifmain.htm)
 
 - Lucida Bright _with_ Lucida New Math(25 fonts) Chuck Bigelow and
   Kris Holmes
@@ -325,8 +320,7 @@ commercially, include:
   are provided.
 
   For further details (and samples) see
-
-  [http://www.micropress-inc.com/fonts/pamath/pamain.htm] 
+  [http://www.micropress-inc.com/fonts/pamath/pamain.htm](http://www.micropress-inc.com/fonts/pamath/pamain.htm)
 
 - TM Math(14 fonts) MicroPress Inc.
 
@@ -341,8 +335,7 @@ commercially, include:
   CTAN.
 
   For further details (and samples) see
-
-  [http://www.micropress-inc.com/fonts/tmmath/tmmain.htm] 
+  [http://www.micropress-inc.com/fonts/tmmath/tmmain.htm](http://www.micropress-inc.com/fonts/tmmath/tmmain.htm)
 
 Two other font sets should be mentioned, even though they don't
 currently produce satisfactory output&nbsp;&mdash; their author is no longer

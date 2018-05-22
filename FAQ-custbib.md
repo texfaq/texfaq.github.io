@@ -18,7 +18,7 @@ of document, but the [`custom-bib`](http://ctan.org/pkg/custom-bib)'s ''master B
 styles'' already offer significantly more than the BibTeX standard set.
 
 An alternative, which is increasingly often recommended, to use
-[[`biblatex`](http://ctan.org/pkg/biblatex)](./FAQ-biblatex.html).  [`Biblatex`](http://ctan.org/pkg/Biblatex) offers
+[`biblatex`](./FAQ-biblatex.html).  [`Biblatex`](http://ctan.org/pkg/Biblatex) offers
 many hooks for adjusting the format of the output of your 'basic'
 BibTeX style, and a collection of 'contributed' styles have also
 started to appear.  Note.bowever There are not as many of
