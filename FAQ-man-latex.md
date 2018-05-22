@@ -38,11 +38,11 @@ interest to those writing documents containing mathematics.
 
 
 Edith Hodgen's 
-[LaTeX, a Braindump](http://www.mcs.vuw.ac.nz/&nbsp;david/latex/notes.pdf)
+[LaTeX, a Braindump](http://www.mcs.vuw.ac.nz/~david/latex/notes.pdf)
 starts you from the ground up&nbsp;&mdash; giving a basic tutorial in the use
 of `Linux` to get you going (rather a large file&hellip;).
 Its parent site, David Friggens' 
-[documentation page](http://www.mcs.vuw.ac.nz/&nbsp;david/latex/) is a
+[documentation page](http://www.mcs.vuw.ac.nz/~david/latex/) is a
 useful collection of links in itself.
 
 
@@ -53,7 +53,7 @@ well.
 
 
 D. R.&nbsp;Wilkins' 
-['Getting started with LaTeX'](http://www.maths.tcd.ie/&nbsp;dwilkins/LaTeXPrimer/)
+['Getting started with LaTeX'](http://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/)
 also looks good (it appears shorter&nbsp;&mdash; more of a primer&nbsp;&mdash; than some
 of the other offerings).
 

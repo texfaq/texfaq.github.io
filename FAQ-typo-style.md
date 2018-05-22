@@ -13,9 +13,9 @@ that manual)
 
 There's also (at least one) typographic style tutorial available on
 the Web, the excellent 
-''[Guidelines for Typography in NBCS](http://www.nbcs.rutgers.edu/&nbsp;hedrick/typography/typography.janson-syntax.107514.pdf)''.
+''[Guidelines for Typography in NBCS](http://www.nbcs.rutgers.edu/~hedrick/typography/typography.janson-syntax.107514.pdf)''.
 In fact, its 
-[parent page](http://www.nbcs.rutgers.edu/&nbsp;hedrick/typography/index.html)
+[parent page](http://www.nbcs.rutgers.edu/~hedrick/typography/index.html)
 is also worth a read: among other things, it provides copies of the
 ''guidelines'' document in a wide variety of primary fonts, for
 comparison purposes.  The author is careful to explain that he has no

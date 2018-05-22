@@ -18,7 +18,7 @@ Fortunately, help is at hand, on the Web, with this problem:
 
 -  a sample text, showing the sorts of style choices available, can
     be found on 
-    [Ken Turner's web site](http://www.cs.stir.ac.uk/&nbsp;kjt/software/latex/showbst.html);
+    [Ken Turner's web site](http://www.cs.stir.ac.uk/~kjt/software/latex/showbst.html);
 -  an excellent survey, that lists a huge variety of styles,
     sorted into their nominal topics as well as providing a good range
     of examples, is the Reed College 

@@ -6,7 +6,7 @@ phrase it?
 
 Excellent ''general'' advice (how to ask questions of anyone) is
 contained in
-[Eric Raymond's article on the topic](http://catb.org/&nbsp;esr/faqs/smart-questions.html).
+[Eric Raymond's article on the topic](http://catb.org/~esr/faqs/smart-questions.html).
 Eric's an extremely self-confident person, and this comes through in
 his advice; but his guidelines are very good, even for us in the
 un-self-confident majority.  It's important to remember that you don't

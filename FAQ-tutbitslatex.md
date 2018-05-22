@@ -75,7 +75,7 @@ The issues are also covered in a later
 
 Documentation of Japanese &Omega; use appears in
 Haruhiko Okumura's page
-[typesetting Japanese with Omega](http://oku.edu.mie-u.ac.jp/&nbsp;okumura/texfaq/japanese/)
+[typesetting Japanese with Omega](http://oku.edu.mie-u.ac.jp/~okumura/texfaq/japanese/)
 (the parent page is in Japanese, so out of the scope of this
 FAQ list).
 

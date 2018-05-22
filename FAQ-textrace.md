@@ -19,7 +19,7 @@ Cyrillic LH font sets (for details of both of which sets, see
 [''8-bit'' type 1 fonts](./FAQ-type1T1.html)).
 
 Another system, which arrived slightly later, is 
-[`mftrace`](http://www.cs.uu.nl/&nbsp;hanwen/mftrace/):
+[`mftrace`](http://www.cs.uu.nl/~hanwen/mftrace/):
 this is a small `Python` program that does the same job.
 `Mftrace` may use either `autotrace` (like
 `TeXtrace`) or Peter Selinger's

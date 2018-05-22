@@ -49,7 +49,7 @@ the other between slides, as you need.  The class itself provides
 just the one style, in the package [`greybars`](http://ctan.org/pkg/greybars): the author's
 suggestion that users should contribute their own has been
 enthusiastically accepted&nbsp;&mdash; see (for example) the 
-[Beamer Gallery](http://deic.uab.es/&nbsp;iblanes/beamer_gallery/).
+[Beamer Gallery](http://deic.uab.es/~iblanes/beamer_gallery/).
 
 [`Lecturer`](http://ctan.org/pkg/Lecturer) is a _generic_ solution (it works with
 Plain TeX, LaTeX and ConTeXt&nbsp;mk&nbsp;ii, but not&nbsp;&mdash; yet&nbsp;&mdash; with

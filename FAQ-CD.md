@@ -15,7 +15,7 @@ is distributed on DVD, and contains:
     run from the DVD or installed on hard disc.
 -  MacTeX: an easy to install TeX system for MacOS/X, based
     on TeX&nbsp;Live; this distribution includes a native Mac installer,
-    [the TeXShop front-end](http://www.uoregon.edu/&nbsp;koch/texshop/)
+    [the TeXShop front-end](http://www.uoregon.edu/~koch/texshop/)
     and other Mac-specific tools;
 -  ProTeXt: an easy to install TeX system for Windows, based
     on MiKTeX, based on an 'active' document that guides
