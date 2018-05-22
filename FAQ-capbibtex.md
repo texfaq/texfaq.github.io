@@ -9,20 +9,20 @@ formulae, etc.).
 
 The solution is to enclose the letter or letters, whose capitalisation
 BibTeX should not touch, in braces, as:
-```latex
+```bibtex
 title = {The {THE} operating system},
 ```
 Sometimes you find BibTeX changing the case of a single letter
 inappropriately.  No matter: the technique can be applied to single
 letters, as in:
-```latex
+```bibtex
 title = {Te{X}niques and tips},
 ```
 If your document design specification requires a different style of
 capitalisation, you should acquire a bibliography style that doesn't
 enforce BibTeX's default rules.  It is definitely _not_ a good
 idea to enclose an entire title in braces, as in
-```latex
+```bibtex
 title = {{TeXniques and tips}},
 ```
 though that does ensure that the capitalisation is not changed.  Your

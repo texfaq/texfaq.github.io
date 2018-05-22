@@ -9,7 +9,7 @@ about it from the command
   `tldoc tlmgr`
 but basic operation is pretty straightforward.  The manager needs to
 know where to download stuff from; the canonical setup is
-```latex
+```
 tlmgr option repository http://mirror.ctan.org/systems/texlive/tlnet
 ```
 which passes the decision to the mirror selector.  You can (of course)
@@ -20,13 +20,13 @@ proposition).
 
 
 To update a single package, use:
-```latex
+```
 tlmgr update <package>
 ```
 
 
 To update everything you already have in your installation, use:
-```latex
+```
 tlmgr update --all
 ```
 

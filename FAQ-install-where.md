@@ -13,7 +13,7 @@ you decided on.
 The basic idea is to imitate the directory structure in your
 existing tree(s). Here are some examples of where various sorts of
 files should go:
-```latex
+```
 .sty, .cls or .fd: $TEXMF/tex/<format>/<package>/
 .mf:   $TEXMF/fonts/source/<supplier>/<font>/
 .tfm:  $TEXMF/fonts/tfm/<supplier>/<font>/
@@ -26,7 +26,7 @@ files should go:
 ```
 and for modern systems (those distributed in 2005 or later, using TDS
 v1.1 layouts):
-```latex
+```
 .map:  $TEXMF/fonts/map/<syntax>/<bundle>/
 .enc:  $TEXMF/fonts/enc/<syntax>/<bundle>/
 ```

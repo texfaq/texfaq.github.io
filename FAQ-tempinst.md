@@ -26,11 +26,11 @@ filled' at the end of the environment variable.  The syntax is simple
 (though it depends which shell you're actually using): so on a
 Unix-like system, using the `bash` shell, the job might be
 done like:
-```latex
+```
 export TEXINPUTS=/tmp:
 ```
 while in a Windows system, within a MS-DOS window, it would be:
-```latex
+```
 set TEXINPUTS=C:/temp;
 ```
 In either case, we're asking TeX to load files from the root disc

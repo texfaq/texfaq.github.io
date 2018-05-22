@@ -27,7 +27,7 @@ package, in their ''correct'' locations in a
 
 To install such a file on a Unix system (we assume that you'll install
 into the local TEXMF tree, at `$TEXMFLOCAL`):
-```latex
+```
 cd $TEXMFLOCAL
 unzip $package.tds.zip
 ```

@@ -36,7 +36,7 @@ you a tick box for your package: check that box.
 
 If you prefer a command-line utility, there's `mpm`.  Open a
 command shell, and type:
-```latex
+```
 mpm --install=<package>
 ```
 (which of course assumes you know the name by which MiKTeX refers to

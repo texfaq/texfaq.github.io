@@ -12,7 +12,7 @@ much of what follows will be familiar:
     about installing non-standard things applies here, too).  The
     following list gives reasonable destinations for the various files
     related to a font family &lsaquo;_fname_&rsaquo;:
-    ```latex
+    ```
     .pfb,
     .pfa  .../fonts/type1/<foundry>/<fname>
     .tfm  .../fonts/tfm/<foundry>/<fname>
@@ -32,7 +32,7 @@ much of what follows will be familiar:
 
   -  On any current TeX&nbsp;Live-based system, or a teTeX v3.0
       system, execute the command
-    ```latex
+    ```
     updmap-sys --enable Map <fname>.map
     ```
       as root.  (If you _can_ use `updmap-sys`&nbsp;&mdash; do; if
@@ -42,16 +42,16 @@ much of what follows will be familiar:
       map sets that might be changed behind your back.)
   -  On a current MiKTeX system, update the system file
       `updmap.cfg`, using the shell command
-    ```latex
+    ```
     initexmf --edit-config-file updmap
     ```
       adding a line at the end:
-    ```latex
+    ```
     Map <fname>.map
     ```
       for each font family &lsaquo;_fname_&rsaquo; you are adding to the system.
       Now generate revised maps with the shell command
-    ```latex
+    ```
     initexmf --mkmaps
     ```
       This, and other matters, are described in MiKTeX 
