@@ -64,7 +64,7 @@ For today, possible packages are:
   entire approach is very similar to `TtH`).  It is written
   in Objective CAML by Luc Maranget.  `Hevea` isn't
   archived on CTAN; details (including download points) are
-  available via [http://pauillac.inria.fr/&nbsp;maranget/hevea/]
+  available via [http://pauillac.inria.fr/~maranget/hevea/]
 
 An interesting set of samples, including conversion of the same text
 by the four free programs listed above, is available at

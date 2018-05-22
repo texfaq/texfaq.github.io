@@ -80,7 +80,7 @@ course at his university.
 
 
 Mark van Dongen's 
-['LaTeX and friends']("http://csweb.ucc.ie/&nbsp;dongen/LaTeX-and-Friends.pdf)
+['LaTeX and friends'](http://csweb.ucc.ie/~dongen/LaTeX-and-Friends.pdf)
 appeared as he was writing his book on the subject (soon to be published).
 
 

@@ -26,7 +26,7 @@ Another MetaPost tutorial in English is:
 [http://www.tlhiv.org/MetaPost/tutorial/] by Urs Oswald.
 One in French (listed here because it's clearly enough written
 that even this author understands it),
-[http://pauillac.inria.fr/&nbsp;cheno/metapost/metapost.pdf]
+[http://pauillac.inria.fr/~cheno/metapost/metapost.pdf]
 by Laurent Ch&eacute;no.
 
 Urs Oswald's tutorial uses Troy Henderson's tool
