@@ -14,7 +14,7 @@ _typesetting_ anything in the preamble, so if you have:
 -  gave it the wrong file
 
 the error is inevitable and the solution is simple&nbsp;&mdash; judicious use
-of comment markers ([[[texttt]]]
+of comment markers (`%`) at the beginning of a line
 line, moving things around, providing something that was
 missing&nbsp;&hellip; or switching to the correct file.
 

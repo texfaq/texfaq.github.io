@@ -6,7 +6,7 @@ text after `\end{env}`.  This doesn't happen with similar
 LaTeX-supplied environments.
 
 You could impose the restriction that your users always put a
-'[[[texttt]]]
+''`%`'' sign after the environment&nbsp;&hellip; but
 LaTeX environments don't require that, either.
 
 The LaTeX environments' ''secret'' is an internal flag which causes

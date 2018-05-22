@@ -60,8 +60,7 @@ meaning of its various parts; unfortunately the meaning was rather
 lost in the problems the macro caused.
 
 The principal technique for suppressing spaces is the use of
-\texttt{
-\texttt{
+`%` characters: everything after a `%` is ignored, even the end of line itself (so
 that not even the end of line can contribute an unwanted space).  The
 secondary technique is to ensure that the end of line is preceded by a
 command name (since the end of line behaves like a space, it will be
@@ -89,18 +88,18 @@ whether you actually need to.  Three techniques were used to suppress
 spaces:
   
 
--  placing a[[[texttt]]]
+-  placing a `%` character at the end of a line
     (as in the 1st, 3rd and 5th lines),
 -  ending a line 'naturally' with a control sequence, as in line 2,
     and
 -  ending a line with an 'artificial' control sequence, as in line
     4; the control sequence in this case (`\relax`) is a no-op in many
     circumstances (as here), but this usage is deprecated&nbsp;&mdash; a
-   [[[texttt]]]
+   `%` character would have been better.
 
 Beware of the (common) temptation to place a space _before_ a
-\texttt{
-the[[[texttt]]]
+`%` character: if you do this you might as well omit
+the `%` altogether. 
 
 In ''real life'', of course, the spaces that appear in macros are far
 more cryptic than those in the example above.  The most common spaces
