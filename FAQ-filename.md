@@ -24,51 +24,6 @@ used on them.  (Note that LaTeX's `\input` command is itself a
 patch on top of the Plain TeX command.  Our patches apply to the
 LaTeX version of the command, which is used as `\input{file}`)
 
-%% ```latex
-%% \def\ThisFile{\jobname}
-%% \let\OldInput\input
-%% \renewcommand{\input}[1]{%
-%%   \renewcommand{\ThisFile}{#1}%
-%%   \OldInput#1%
-%% }
-%% ```
-%% ```latex
-%% \documentclass{article}
-%% ... (macros above)
-%% \begin{document}
-%% \input{preamble}
-%% <body of document>
-%% \input{postamble}
-%% \end{document}
-%% ```
-
-%% ```latex
-%% \def\ThisFile{\jobname}
-%% \newcounter{FileStack}
-%% \let\OrigInput\input
-%% \renewcommand{\input}[1]{%
-%%   \stackinput{#1}{\OrigInput}%
-%% }
-%% \newcommand{\stackinput}[2]{%
-%%   \stepcounter{FileStack}%
-%%   \expandafter\let
-%%     \csname NameStack\theFileStack\endcsname
-%%     \ThisFile
-%%   \def\ThisFile{#1}%
-%%   #2#1%
-%%   \expandafter\let\expandafter
-%%     \ThisFile
-%%     \csname NameStack\theFileStack\endcsname
-%%   \addtocounter{FileStack}{-1}%
-%% }
-%% ```
-%% ```latex
-%% \let\OrigInclude\include
-%% \renewcommand{\include}[1]{%
-%%   \stackinput{#1}{\OrigInclude}%
-%% }
-%% ```
-
 It is possible to keep track of the name of the file currently being
 processed, but it's surprisingly difficult (these FAQs offered
 code, for a long time, that just didn't work in many cases).
@@ -86,11 +41,6 @@ The [`FiNK`](http://ctan.org/pkg/FiNK) (''File Name Keeper'') package keeps trac
 file name and extension, in a macro `\finkfile`.  [`FiNK`](http://ctan.org/pkg/FiNK) is
 now deprecated, in favour of [`currfile`](http://ctan.org/pkg/currfile), but remains available
 for use in old documents.
-%% ```latex
-%% \def\striptexext#1.tex{#1}
-%% ...
-%% \edef\ThisFile{\expandafter\stripext\finkfile}
-%% ```
 The [`FiNK`](http://ctan.org/pkg/FiNK) bundle includes a `fink.el` that provides
 support under `emacs` with AUC-TeX.
 
