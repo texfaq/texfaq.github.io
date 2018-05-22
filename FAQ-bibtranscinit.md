@@ -3,7 +3,7 @@
 If your bibliographic style uses initials&nbsp;+ surname, you may encounter
 a problem with some transcribed names (for example, Russian ones).
 Consider the following example from the real world:
-```latex
+```bibtex
 @article{epifanov1997,
    author = {Epifanov, S. Yu. and Vigasin, A. A.},
    title  = ...
@@ -19,7 +19,7 @@ One solution is to replace each affected initial by a command that
 prints the correct combination.  To keep your bibliography portable,
 you need to add that command to your bibliography with the
 `@preamble` directive:
-```latex
+```bibtex
 @preamble{ {\providecommand{\BIBYu}{Yu} } }
 
 @article{epifanov1997,
@@ -34,7 +34,7 @@ directive.
 An alternative is to make the transcription look like an accent, from
 BibTeX's point of view.  For this we need a control sequence that
 does nothing:
-```latex
+```bibtex
 @article{epifanov1997,
    author   = {Epifanov, S. {\relax Yu}. and Vigasin, A. A.},
    title    = ...
@@ -49,7 +49,7 @@ undesirable if the bibliography is a shared one.
 ''Compound'' initials (for single names made up of two or more words)
 may be treated in the same way, so one can enter Forster's rather
 complicated name as:
-```latex
+```bibtex
 @article{forster2006,
   author   = {Forster, P.M. {\relax de F.} and Collins, M.},
   title    = ...
@@ -64,7 +64,7 @@ The same trick can be played if you're entering whole names:
 offered!)
 However, if you're typing the names in the ''natural'' (Western) way,
 with given names first, the trick:
-```latex
+```bibtex
 ...
   author   = {P.M. {\relax de F.} Forster and
 ...

@@ -36,7 +36,7 @@ is to take the entry out of the database, so that you don't encounter
 BibTeX's limit, but you may need to retain the entry because it
 will be included in the typeset document.  In such cases, put the body
 of the entry in a separate file:
-```latex
+```bibtex
 @article{long.boring,
   author =    "Fred Verbose",
   ...
