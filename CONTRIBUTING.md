@@ -3,7 +3,7 @@
 Thanks for considering contributing to the TeX FAQ: feedback, fixes and ideas are
 all useful.
 
-## ChangeLog and commit messages
+## ChangeLog, commit messages and authors
 
 Please not any significant change to the content of questions in
 `CHANGELOG.md`, including which question is changed in the format `Q-<name>`.
@@ -12,6 +12,9 @@ Commit messages where the content of a single question is changed should start
 with `Q-<name>`. Changes to the _content_ of questions should always be made in
 separate commits: formatting, typos or other 'non-significant' changes can be
 made for multiple questions in one go
+
+If you are making a significant change to the content, please make sure you
+add yourself to the [contributors list](AUTHORS.md).
 
 ## Formatting
 

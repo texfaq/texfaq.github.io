@@ -1,0 +1,97 @@
+# Contributors
+ 
+The following people are _known_ to have contributed to the FAQ:
+
+- William Adams
+- Donald Arseneau
+- Rosemary Bailey
+- Barbara Beeton
+- Karl Berry
+- Giuseppe Bilotta
+- Charles Cameron
+- François Charette
+- Damian Cugley
+- Martin Garrod
+- Michael Dewey
+- Michael Downes
+- Jean-Pierre Drucbert
+- David Epstein
+- Michael Ernst
+- Thomas Esser
+- Ulrike Fischer
+- Bruno Le Floch
+- Anthony Goreham
+- Norman Gray
+- Enrico Gregorio
+- Werner Grundlingh
+- Eitan Gurari
+- William Hammond
+- John Hammond
+- John Harper
+- Gernot Hassenpflug
+- Troy Henderson
+- Hartmut Henkel
+- Stephan Hennig
+- John Hobby
+- Morten Høgholm
+- Berthold Horn
+- Ian Hutchinson
+- Werner Icking
+- William Ingram
+- David Jansen
+- Alan Jeffrey
+- Regnor Jernsletten
+- David Kastrup
+- Oleg Katsitadze
+- Isaac Khabaza
+- Ulrich Klauer
+- Markus Kohm
+- Stefan Kottwitz
+- David Kraus
+- Ryszard Kubiak
+- Simon Law
+- Uwe Lück
+- Daniel Luecking
+- Aditya Mahajan
+- Sanjoy Mahajan
+- Diego Andres Alvarez Marin
+- Andreas Matthias
+- Steve Mayer
+- Javier Mora
+- Brooks Moses
+- Peter Moulder
+- Iain Murray
+- Vilar Camara Neto
+- Dick Nickalls
+- Ted Nieland
+- Hans Nordhaug
+- Pat Rau
+- Heiko Oberdiek
+- Piet van Oostrum
+- Scott Pakin
+- Oren Patashnik
+- Manuel Pégourié-Gonnard
+- Steve Peter
+- Sebastian Rahtz
+- Philip Ratcliffe
+- Chris Rowley
+- Jos\'e Carlos Santos
+- Walter Schmidt
+- Hans-Peter Schröcker
+- Joachim Schrod
+- Uwe Siart
+- Maarten Sneep
+- Axel Sommerfeldt
+- Philipp Stephani
+- James Szinger
+- Nicola Talbot
+- Bob Tennent
+- Tomek Trzeciak
+- Ulrik Vieth
+- Mike Vulis
+- Chris Walker
+- Peter Wilson
+- Joseph Wright
+- Rick Zaccone
+- Gregor Zattler
+- Reinhard Zierke
