@@ -48,3 +48,6 @@ which is discussed in
 ''[Installing a Type&nbsp;1 font](./FAQ-instt1font.html)''
 
 
+
+----
+Content last updated: 2014-06-10

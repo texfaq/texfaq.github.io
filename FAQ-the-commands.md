@@ -47,3 +47,6 @@ best done by redefining the page style itself, perhaps using
 
 
 
+
+----
+Content last updated: 2014-06-10

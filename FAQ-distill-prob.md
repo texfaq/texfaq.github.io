@@ -40,3 +40,6 @@ is either to upgrade `dvips`, or to spend money to upgrade
 `Distiller`.
 
 
+
+----
+Content last updated: 2014-06-10

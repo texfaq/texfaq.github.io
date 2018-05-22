@@ -65,3 +65,6 @@ TeX and MetaFont) was published by Addison Wesley:
 
 
 
+
+----
+Content last updated: 2014-06-10

@@ -49,3 +49,6 @@ look around for such alternatives.  The files are treated in the same
 way as any ''ordinary'' LaTeX file.
 
 
+
+----
+Content last updated: 2014-06-10

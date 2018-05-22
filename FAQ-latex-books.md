@@ -60,3 +60,6 @@ Gr&auml;tzer's ''First Steps in LaTeX'', are all available on
 CTAN.
 
 
+
+----
+Content last updated: 2014-06-10

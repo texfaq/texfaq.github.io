@@ -36,3 +36,6 @@ document itself needs to be altered from its default
 (`dvips`) state, before `dvipdfm` will process it.
 
 
+
+----
+Content last updated: 2014-06-10

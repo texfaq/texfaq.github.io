@@ -38,3 +38,6 @@ user level) even if you have switched to T1&nbsp;encoding when using the
 fonts.
 
 
+
+----
+Content last updated: 2014-06-10

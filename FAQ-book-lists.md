@@ -22,3 +22,6 @@ these FAQs do _not_ carry reviews of current published
 material.
 
 
+
+----
+Content last updated: 2014-06-10

@@ -36,3 +36,6 @@ The [`inputenc`](http://ctan.org/pkg/inputenc)&ndash;[`fontenc`](http://ctan.org
 cumbersome, but it's safe.
 
 
+
+----
+Content last updated: 2014-06-10

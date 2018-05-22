@@ -48,3 +48,6 @@ FAQ uses `LuxiMono`, with the metrics and LaTeX
 support available on the archive.
 
 
+
+----
+Content last updated: 2014-06-10
