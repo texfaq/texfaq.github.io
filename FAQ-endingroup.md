@@ -1,14 +1,14 @@
 # `\end` occurred inside a group
 
 The actual error we observe is:
-
-<code class="verb">&#x5c;end occurred inside a group at level &gt;</code>`_n_``>)`
-
+```latex
+\end occurred inside a group at level <n>) 
+```
 and it tells us that something we started in the document never got
 finished before we ended the document itself.  The things involved
 ('groups') are what TeX uses for restricting the scope of things:
 you see them, for example, in the ''traditional'' font selection
-commands: <code class="verb">{&#x5c;it stuff&#x7d;</code>&nbsp;&mdash; if the closing brace is left off such a
+commands: `{\it stuff}`&nbsp;&mdash; if the closing brace is left off such a
 construct, the effect of `\it` will last to the end of the document,
 and you'll get the diagnostic.
 
@@ -17,11 +17,11 @@ often spot it by looking at the typeset output in a previewer.
 Otherwise, you can usually find mismatched braces using an intelligent
 editor (at least `emacs` and `winedt` offer this facility).
 However, groups are not _only_ created by matching
-`{} with[[[texttt]]]}`:
+`{` with `}`:
 other grouping commands are discussed elsewhere in these FAQs,
 and are also a potential source of unclosed group.
 
-`\begin{&lsaquo;_environment_&rsaquo;}` encloses the environment's body
+`\begin{<environment>}` encloses the environment's body
 in a group, and establishes its own diagnostic mechanism.  If you end
 the document before closing some other environment, you get the
 'usual' LaTeX diagnostic
