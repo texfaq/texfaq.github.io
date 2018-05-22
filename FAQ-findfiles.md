@@ -39,11 +39,11 @@ In fact, `Google`, and other search engines, can be useful
 tools.  Enter your search keywords, and you may pick up a package that
 the author hasn't bothered to submit to CTAN.
 
-A user of `Google` can restrict the search to
+A user of Google can restrict the search to
 CTAN by entering
-  `site:ctan.org tex-archive &lsaquo;_search term(s)_&rsaquo;`
-in `Google`s ''search box''.  You can also enforce the
-restriction using `Google`s ''advanced search'' mechanism;
+  `site:ctan.org tex-archive <search term(s)>`
+in Google's ''search box''.  You can also enforce the
+restriction using Google's ''advanced search'' mechanism;
 other search engines (presumably) have similar facilities.
 
 Many people avoid the need to go over the network at all, for their

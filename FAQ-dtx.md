@@ -23,7 +23,7 @@ Comments removed: 1336
 Comments  passed: 2
 Codelines passed: 972
 ```
-The lines `Processing &hellip; ended by `\endinput`` may
+The lines `Processing ... ended by \endinput` may
 be repeated if the `dtx` file provides more than one
 'unpacked' file.
 

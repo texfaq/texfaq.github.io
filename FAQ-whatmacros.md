@@ -15,12 +15,12 @@ overridden, and it simply expands to the letters ''TeX''.  (_You_
 may not think this a good thing, but the author of the macros has his
 reasons&nbsp;&ndash; see [TeX-related logos](./FAQ-logos.html).)
 
-Macro names are conventionally built from a ` `
+Macro names are conventionally built from a `\\`
 followed by a sequence of letters, which may be upper or lower case
 (as in `\TeX`, mentioned above).  They may also be 
-` &lsaquo;_any single character_&rsaquo;`, which allows all
+`<any single character>`, which allows all
 sorts of oddities (many built in to most TeX macro sets, all the
-way up from the apparently simple `\ ` meaning ''insert a space
+way up from the apparently simple <code>\ </code> meaning ''insert a space
 here'').
 
 Macro programming can be a complicated business, but at their very
@@ -56,7 +56,7 @@ which produces:
 (LaTeX users waltz through life, perhaps?)
 
 You will have noticed that the arguments, above, were enclosed in
-braces (`{&hellip;}`); this is the
+braces (`{`&hellip;`}`); this is the
 normal way of typing arguments, though TeX is enormously flexible,
 and you may find all sorts of other ways of passing arguments (if you
 stick with it).
