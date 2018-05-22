@@ -17,7 +17,7 @@ included as an (encapsulated) PostScript file.  Place an unique
 text in your graphic, using the normal text features of your tool, and
 you can ask [`psfrag`](http://ctan.org/pkg/psfrag) to replace the text with arbitrary
 (La)TeX material.  [`Psfrag`](http://ctan.org/pkg/Psfrag)'s ''operative'' command is
-`\psfrag{_Orig text_}{_Repl text_}`, which
+`\psfrag{<Orig text>}{<Repl text>}`, which
 instructs the system to replace the original (''unique'') text with
 the TeX-typeset replacement text.  Optional arguments permit
 adjustment of position, scale and rotation; full details may be found

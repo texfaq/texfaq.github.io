@@ -21,7 +21,7 @@ AUTHOR = {Fred Q. Bloggs, John P. Doe \&
 ```
 <!-- {% endraw %} -->
 falls foul of two of the above rules: a syntactically significant
-comma appears in an incorrect place, and `\\&` is being used as a
+comma appears in an incorrect place, and `\&` is being used as a
 name separator.  The output of the above might be something like:
 ```latex
 John P. Doe \& Another Idiot Fred Q. Bloggs

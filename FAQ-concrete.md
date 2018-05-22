@@ -40,7 +40,7 @@ package with `boldsans` class option (in spite of the fact
 that the [`concmath`](http://ctan.org/pkg/concmath) documentation calls it
 `sansbold` class option). If you are using [`beton`](http://ctan.org/pkg/beton),
 add
-  `\renewcommand{`\bfdefault`}{sbc}`
+  `\renewcommand{\bfdefault}{sbc}`
 to the preamble of your document.
 
 Type&nbsp;1 versions of the fonts are available.  For OT1 encoding,

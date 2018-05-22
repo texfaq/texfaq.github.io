@@ -24,7 +24,7 @@ The two options in question are:
   of 40)' rather than simply '4 of 40'.
 
 The two should be used whenever page numbering is not just
-'1`..`n'; they may be used independently, but
+'1&hellip;n'; they may be used independently, but
 usually are not.
 
 The recipe isn't perfect: it relies on `\thepage` being different

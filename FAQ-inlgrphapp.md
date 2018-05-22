@@ -10,17 +10,18 @@ Some of the free-standing graphics applications may also be used
   the 'usual' LaTeX way).
 
   Basically, you write
-    `\begin{asy}`
+  ```latex
+  \begin{asy}`
+  <asymptote code>`
 
-    &nbsp;&nbsp;`&lsaquo;_asymptote code_&rsaquo;`
-
-    `\end{asy}`
+  \end{asy}
+  ```
   and then execute
-```latex
-latex document
-asy document-*.asy
-latex document
-```
+   ```latex
+   latex document
+   asy document-*.asy
+   latex document
+    ```
 - egplotAllows you to incorporate `GNUplot`
   instructions in your document, for processing outside of LaTeX.
   The package provides commands that enable the user to do calculation

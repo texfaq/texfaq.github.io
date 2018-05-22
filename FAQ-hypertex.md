@@ -10,13 +10,13 @@ to external documents.
 The HyperTeX specification says that conformant viewers/translators
 must recognize the following set of `\special` commands:
 
-- href: |html:<a href = "href_string">|
-- name: |html:<a name = "name_string">|
-- end: `html:</a>`
-- image: |html:<img src = "href_string">|
-- base_name: |html:<base href = "href_string">|
+- `href`: `html:<a href = "href_string">`
+- `name`: `html:<a name = "name_string">`
+- `end`: `html:</a>`
+- `image`: `html:<img src = "href_string">`
+- `base_name`: `html:<base href = "href_string">`
 
-The _href_, _name_ and _end_ commands are used to do
+The `href`, `name` and `end` commands are used to do
 the basic hypertext operations of establishing links between sections
 of documents. 
 
