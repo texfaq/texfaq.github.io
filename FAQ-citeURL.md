@@ -67,9 +67,9 @@ There is good reason to use the [`url`](http://ctan.org/pkg/url) or [`hyperref`]
 packages in this context: BibTeX has a habit of splitting
 lines it considers excessively long, and if there are no space
 characters for it to use as 'natural' breakpoints, BibTeX will
-insert a comment ([[[texttt]]]
+insert a comment (`%`) character&nbsp;&hellip; which
 is an acceptable character in an URL.  Any current version of
 either of the [`url`](http://ctan.org/pkg/url) or [`hyperref`](http://ctan.org/pkg/hyperref) packages detects this
-'[[[texttt]]]
+''`%`--end-of-line'' structure in its argument, and
 removes it.
 
