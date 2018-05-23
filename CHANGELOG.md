@@ -9,6 +9,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 ## 2018-05-23
 
 ### Changed
+- Q-latexbug: Updated to reflect new GitHub issuer tracker
 - Q-newans: Updated to point to GitHub for contributions
 
 ## 2018-05-22
