@@ -48,7 +48,7 @@ A alternative route is the ''continued'' mechanism of the
 small tweak to the next `\caption` command, so that the command
 makes no increment to the caption number.  This does not (of course)
 have any effect on actual placement of the float, but it makes the
-caption texts read 'sensibly':
+caption texts read ''sensibly'':
 ```latex
 \begin{table}
   \caption{A table}

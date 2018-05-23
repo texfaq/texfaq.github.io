@@ -49,7 +49,7 @@ and others.
 
 The compendious PGF/TikZ manual is clear, but is
 bewildering for some beginners.  The 
-['minimal' introduction](http://cremeronline.com/LaTeX/minimaltikz.pdf)
+[''minimal'' introduction](http://cremeronline.com/LaTeX/minimaltikz.pdf)
 has helped at least the present author.
 
 Vincent Zoonekynd provides a set of excellent (and graphic) tutorials

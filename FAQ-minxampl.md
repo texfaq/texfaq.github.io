@@ -50,8 +50,8 @@ the preamble too: that way, LaTeX will produce a list of the
 packages you've used and their version numbers.  This information may
 be useful evidence for people trying to help you.
 
-The process of 'building up', and to some extent that of 'hacking
-down', can be helped by stuff available on CTAN:
+The process of ''building up'', and to some extent that of ''hacking
+down'', can be helped by stuff available on CTAN:
   
 
 -  the [`minimal`](http://ctan.org/pkg/minimal) class (part of the LaTeX distribution)

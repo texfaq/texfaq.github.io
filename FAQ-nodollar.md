@@ -9,7 +9,7 @@ TeX (and by inheritance, LaTeX too) will say
 as if you couldn't possibly have misunderstood the import of what you
 were typing, and the only possible interpretation is that you had
 committed a typo in failing to enter maths mode.  TeX, therefore,
-tries to patch things up by inserting the `$` you 'forgot', so that
+tries to patch things up by inserting the `$` you ''forgot'', so that
 the maths-only object will work; as often as not this will land you in
 further confusion.
 

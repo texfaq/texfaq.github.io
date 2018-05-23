@@ -26,7 +26,7 @@ typewriter font to `Courier`.  To go with these
 packages, you need the font metric files
 and font description (`.fd`) files for each font family you
 want to use.  For convenience,
-metrics for the 'common 35' PostScript fonts found in most PostScript printers
+metrics for the ''common 35'' PostScript fonts found in most PostScript printers
 are provided with PSNFSS, packaged as the ''Laserwriter set''.
 
 For older versions of LaTeX there are various schemes, of which the

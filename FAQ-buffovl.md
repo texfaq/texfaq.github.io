@@ -12,7 +12,7 @@ When you overwhelm TeX's input mechanism, you get told:
 ! Unable to read an entire line---bufsize=3000.
     Please ask a wizard to enlarge me.
 ```
-(for some value of '3000'&nbsp;&mdash; the quote was from a
+(for some value of ''3000''&nbsp;&mdash; the quote was from a
 `comp.text.tex` posting by a someone who was presumably
 using an old TeX).
 

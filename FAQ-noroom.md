@@ -1,4 +1,4 @@
-# No room for a new '_thing_'
+# No room for a new ''_thing_''
 
 The technology available to Knuth at the time TeX was written is
 said to have been particularly poor at managing dynamic storage; as a
@@ -62,7 +62,7 @@ these things: the command `\reserveinserts{n}` ensures there
 is room for &lsaquo;_n_&rsaquo; more inserts.  Hint: by default
 [`morefloats`](http://ctan.org/pkg/morefloats) adds 18 inserts (though it can be instructed to
 use more), and [`manyfoot`](http://ctan.org/pkg/manyfoot) seems to be happy with 10 reserved,
-but there are 'hard' limits that we cannot program around&nbsp;&mdash; the
+but there are ''hard'' limits that we cannot program around&nbsp;&mdash; the
 discussion of [running out of floats](./FAQ-tmupfl.html) has more about this.
 It is essential that you load [`etex`](http://ctan.org/pkg/etex) before any other
 packages, and reserve any extra inserts immediately:

@@ -44,7 +44,7 @@ second edition.)
 The alternative is to treat all these fragments as a package proper,
 bundling them up into a `sty` file and including them with
 `\usepackage`; this way you hide your LaTeX internal code somewhere
-that LaTeX internal code is expected, which often looks 'tidier'.
+that LaTeX internal code is expected, which often looks ''tidier''.
 
 
 ----

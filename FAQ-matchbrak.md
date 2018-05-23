@@ -26,7 +26,7 @@ aren't OK at all&nbsp;&mdash; the optional argument comes to consist of
 the first ''now'') as its argument.
 
 Fortunately, TeX's scanning mechanisms helps us by accepting the
-syntax `{]}` to 'hide' the closing bracket from the
+syntax `{]}` to ''hide'' the closing bracket from the
 scanning mechanism that LaTeX uses.  In practice, the commonest way
 to use this facility is:
 ```latex

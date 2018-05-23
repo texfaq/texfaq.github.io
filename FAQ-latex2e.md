@@ -18,7 +18,7 @@ continues to this day to offer a compatibility mode in which most
 files prepared for use with LaTeX 2.09 will run (albeit with somewhat
 reduced performance, and subject to voluminous complaints in the log
 file).  Differences between LaTeX 2e and LaTeX 2.09 are
-outlined in a series of 'guide' files that are available in every
+outlined in a series of ''guide'' files that are available in every
 LaTeX distribution (the same directory also contains ''news'' about
 each new release of LaTeX 2e).
 

@@ -15,14 +15,14 @@ by the way the `\chapter` command uses the counter `secnumdepth`
 Other sectioning commands are similar, but with other values used in
 the test.
 
-So a simple way to get headings of funny 'sections' such as prefaces
+So a simple way to get headings of funny ''sections'' such as prefaces
 in the table of contents is to use the counter:
 ```latex
 \setcounter{secnumdepth}{-1}
 \chapter{Preface}
 ```
 Unfortunately, you have to set `secnumdepth` back to its usual
-value (which is&nbsp;2 in the standard styles) before you do any 'section'
+value (which is&nbsp;2 in the standard styles) before you do any ''section''
 which you want to be numbered.
 
 Similar settings are made, automatically, in the LaTeX book class by

@@ -27,7 +27,7 @@ LaTeX, but the [`fancyhdr`](http://ctan.org/pkg/fancyhdr) package provides a com
 LaTeX's uppercasing tendencies.  Classes in the [`KOMA-script`](http://ctan.org/pkg/KOMA-script)
 bundle don't uppercase in the first place.
 
-In fact, the sectioning commands use 'mark' commands to pass
+In fact, the sectioning commands use ''mark'' commands to pass
 information to the page headers.  For example, `\chapter` uses
 `\chaptermark`, `\section` uses `\sectionmark`, and so on.  With
 this knowledge, one can achieve a three-layer structure for chapters:

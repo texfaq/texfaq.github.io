@@ -45,7 +45,7 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
 Substitutions may also be ''silent''; in this case, there is no more
 than an ''information'' message in the log file.  For example, if you
 specify an encoding for which there is no version in the current font
-family, the 'default family for the encoding' is selected.  This
+family, the ''default family for the encoding'' is selected.  This
 happens, for example, if you use command `\textbullet`, which is
 normally taken from the maths symbols font, which is in `OMS`
 encoding.  My test log contained:

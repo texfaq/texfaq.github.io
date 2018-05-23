@@ -46,7 +46,7 @@ support for new Web standards.
   has had major browser support since 2002 with richness of mathematical
   content for online purposes approaching that of TeX for print.
   Browser support for MathML is provided by `amaya`, the
-  'Open Source' browser `mozilla` (and its derivatives
+  ''Open Source'' browser `mozilla` (and its derivatives
   including `NetScape`, `Firefox` and `Galeon`) and
   `Internet Explorer` when equipped with a suitable plug-in
   such as `MathPlayer`.
@@ -58,7 +58,7 @@ support for new Web standards.
 
   The [`MathJax`](http://www.mathjax.org) engine will process the
   content of LaTeX `\[` &hellip;&nbsp;`\]` and `\(` &hellip;&nbsp;`\)`
-  'environments' in an HTML document, to produce mathematical
+  ''environments'' in an HTML document, to produce mathematical
   output that may (for example) be cut-and-pasted into other programs.
 
   Incorporation into your document can be

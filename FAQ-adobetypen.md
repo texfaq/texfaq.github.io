@@ -10,7 +10,7 @@ OpenType format, whose many advantages now becoming accessible to most
   [LuaTeX](./FAQ-luatex.html)).
 
 Adobe Type&nbsp;1 format specifies a means to represent outlines of the glyphs
-in a font.  The 'language' used is closely restricted, to ensure that
+in a font.  The ''language'' used is closely restricted, to ensure that
 the font is rendered as quickly as possible.  (Or rather, as quickly
 as possible with Adobe's technology at the time the specification was
 written: the structure could well be different if it were specified

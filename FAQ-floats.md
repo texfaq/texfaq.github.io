@@ -5,9 +5,9 @@ away from where they were specified to appear.  This is in fact
 perfectly ordinary document design; any professional typesetting
 package will float figures and tables to where they'll fit without
 violating the certain typographic rules.  Even if you use the
-placement specifier&nbsp;`h` (for 'here'), the figure or table
+placement specifier&nbsp;`h` (for ''here''), the figure or table
 will not be 
-printed 'here' if doing so would break the rules; the rules themselves
+printed ''here'' if doing so would break the rules; the rules themselves
 are pretty simple, and are given on page&nbsp;198, section&nbsp;C.9 of the
 LaTeX manual.  In the worst case, LaTeX's rules can cause the
 floating items to pile up to the extent that you get an error message
@@ -50,7 +50,7 @@ equally well to tables, or to ''non-standard'' floats defined by the
     The meanings of these
     parameters are described on pages&nbsp;199&ndash;200, section&nbsp;C.9 of the
     LaTeX manual.
--  Are there places in your document where you could 'naturally'
+-  Are there places in your document where you could ''naturally''
     put a `\clearpage` command?  If so, do: the backlog of floats is
     cleared after a `\clearpage`.  (Note that the `\chapter`
     command in the standard [`book`](http://ctan.org/pkg/book) and [`report`](http://ctan.org/pkg/report) classes

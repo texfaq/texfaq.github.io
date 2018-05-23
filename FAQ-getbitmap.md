@@ -13,7 +13,7 @@ a wider range of resolutions, but they were resisted for two reasons:
 -  The need to decide which printers to generate fonts for.  The
     broad-brush approach taken for 300&nbsp;dpi printers was (more or less)
     justified back then, given the dominance of certain printer
-    'engines', but nowadays one could not make any such assumption.
+    ''engines'', but nowadays one could not make any such assumption.
 -  Given the above, it has been near-impossible to justify the
     space that would be required by a huge array of bitmap fonts.
 
@@ -37,7 +37,7 @@ in association with the AMS and other scientific publishers
 two sets contain slightly different ranges of fonts, but you are
 advised to use the [`bluesky`](http://ctan.org/pkg/bluesky) set except when [`bakoma`](http://ctan.org/pkg/bakoma)
 is for some reason absolutely unavoidable.  In recent years, several
-other 'MetaFont' fonts have been converted to Type&nbsp;1 format; it's
+other ''MetaFont'' fonts have been converted to Type&nbsp;1 format; it's
 uncommon ever to need to generate bitmap fonts for any purpose other
 than previewing&nbsp;&mdash; see 
 [''previewing documents with Type&nbsp;1 fonts''](./FAQ-PSpreview.html)&nbsp;&mdash;

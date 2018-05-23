@@ -6,7 +6,7 @@ The actual error we observe is:
 ```
 and it tells us that something we started in the document never got
 finished before we ended the document itself.  The things involved
-('groups') are what TeX uses for restricting the scope of things:
+(''groups'') are what TeX uses for restricting the scope of things:
 you see them, for example, in the ''traditional'' font selection
 commands: `{\it stuff}`&nbsp;&mdash; if the closing brace is left off such a
 construct, the effect of `\it` will last to the end of the document,
@@ -24,7 +24,7 @@ and are also a potential source of unclosed group.
 `\begin{<environment>}` encloses the environment's body
 in a group, and establishes its own diagnostic mechanism.  If you end
 the document before closing some other environment, you get the
-'usual' LaTeX diagnostic
+''usual'' LaTeX diagnostic
 ```latex
 ! LaTeX Error: \begin{blah} on input line 6 ended by \end{document}.
 ```

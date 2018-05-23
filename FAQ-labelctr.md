@@ -8,7 +8,7 @@ operation that happens so often &hellip;&nbsp;so there's a command
 increasing-by-one.
 
 There's an internal LaTeX variable, the ''current label'', that
-remembers the last 'labellable' thing that LaTeX has processed.
+remembers the last ''labellable'' thing that LaTeX has processed.
 You could (if you were to insist) set that value by the relevant
 TeX command (having taken the necessary precautions to ensure that
 the internal command worked)&nbsp;&mdash; but it's not necessary.  If, instead

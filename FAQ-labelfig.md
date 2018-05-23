@@ -6,7 +6,7 @@ drawing or graphing tools that can do such things (the honourable
 exception being MetaPost, which allows you to program the labels, in
 (La)TeX, in the middle of specifying your graphic).
 
-Placing 'labels' on graphics produced by all those _other_ tools is
+Placing ''labels'' on graphics produced by all those _other_ tools is
 what we discuss here.  (Note that the term ''label'' should be
 liberally interpreted; many of the techniques _were_ designed for
 use when applying labels to figures, but they may be used equally well
@@ -33,7 +33,7 @@ this ''extra work'' usage.  In fact, the [`pst-pdf`](http://ctan.org/pkg/pst-pdf
 package [`auto-pst-pdf`](http://ctan.org/pkg/auto-pst-pdf) offers a configuration setting
 precisely for use with [`psfrag`](http://ctan.org/pkg/psfrag).
 
-If you have the 'right' environment (see below), you could try the
+If you have the ''right'' environment (see below), you could try the
 [`pdfrack`](http://ctan.org/pkg/pdfrack) script bundle.  The script aims to cut each figure
 out of your source, using it to produce a small LaTeX file with
 nothing but the figure inclusion commands.  Each of these figure files
@@ -77,7 +77,7 @@ graphic.
 
 [`Pinlabel`](http://ctan.org/pkg/Pinlabel) is another package whose author thought in the same
 sort of way as that of [`overpic`](http://ctan.org/pkg/overpic); the documentation explains
-in detail how to plan your 'labelling attack'&nbsp;&mdash; in this case by
+in detail how to plan your ''labelling attack''&nbsp;&mdash; in this case by
 loading your figure into a viewer and taking measurements from it.
 (The package discusses direct use of
 [`ghostscript`](http://www.ghostscript.com/) as well as

@@ -20,8 +20,8 @@ algorithm matches candidates for hyphenation against a set of
 ''hyphenation patterns''.  The candidates for hyphenation must be
 sequences of letters (or other single characters that TeX may be
 persuaded to think of as letters).  Non-letters interrupt hyphenation;
-this applies to TeX's `\accent` primitive (as in 'syst&egrave;me')
-just as much as the exclamation in'syst!eme'.
+this applies to TeX's `\accent` primitive (as in ''syst&egrave;me'')
+just as much as the exclamation in''syst!eme''.
 
 (Hyphenation takes place on the characters ''sent to the printer''.
 The problem with `\accent` is avoided&nbsp;&mdash;in LaTeX&nbsp;&mdash; by the use

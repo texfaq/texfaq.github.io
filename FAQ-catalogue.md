@@ -22,7 +22,7 @@ documentation and home page if any, and related packages.
 
 The [CTAN central database machine](http://www.ctan.org)
 offers a ''Browse CTAN'' area, with links to the list of
-packages, to a list of 'topics' (with packages that match each topic),
+packages, to a list of ''topics'' (with packages that match each topic),
 and to a list of authors (with their packages).
 
 In addition, every CTAN mirror holds a copy of the catalogue,

@@ -53,7 +53,7 @@ advice, you can:
 -  Use [`mdwtab`](http://ctan.org/pkg/mdwtab) from the same bundle; it will handle
     footnotes as you might expect, and has other facilities to increase
     the beauty of your tables.  Unfortunately, it may be incompatible
-    with other table-related packages, though not those in the standard 'tools'
+    with other table-related packages, though not those in the standard ''tools''
     bundle.
 
 All the techniques listed will work, to some extent, whether in a float or

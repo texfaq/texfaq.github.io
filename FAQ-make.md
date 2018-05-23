@@ -5,7 +5,7 @@ LaTeX documents are tricky beasts for building using
 instruct LaTeX to run several times for essentially different
 reasons (for example, ''get the table of contents stable'', ''get the
 labels stable'', ''add the bibliography'', ''add the index'') is
-actually rather difficult to express in the 'ordinary' sort of
+actually rather difficult to express in the ''ordinary'' sort of
 dependency graph that one constructs for `make`.
 
 The `latex-make` package offers help with this task (far more

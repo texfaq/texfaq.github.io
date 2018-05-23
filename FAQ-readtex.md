@@ -18,7 +18,7 @@ many of these&nbsp;&mdash; a compilation of links may be found in
 
 Of that long list, the present author has only dabbled with 
 [WriteLaTeX](https://www.writelatex.com/); it seems well
-suited to simple 'one-shot' use in this way.
+suited to simple ''one-shot'' use in this way.
 
 If no online compiler helps, you need to typeset the document
 ''yourself''.  The good news is that TeX systems are available,

@@ -9,8 +9,8 @@ But how to find the files?
 
 Modern distributions (TeX&nbsp;Live and MiKTeX, at least) provide the
 means to update your system ''over the net''.  This is the minimum
-effort route to getting a new file: 'simply' find which of the
-distribution's 'packages' holds the file in question, and ask the
+effort route to getting a new file: ''simply'' find which of the
+distribution's ''packages'' holds the file in question, and ask the
 distribution to update itself.  The mechanisms are different (the two
 distributions exhibit the signs of evolutionary divergence in their
 different niches), but neither is difficult&nbsp;&mdash; see 
@@ -26,7 +26,7 @@ files: so if you've learnt about a package here, you should be able to
 retrieve it without too much fuss.
 
 Otherwise, CTAN provides a full-text search, at its
-['central database'](http://www.ctan.org/) site, as well as
+[''central database''](http://www.ctan.org/) site, as well as
 topic- and author-based indexes and a link to browse the archive
 itself.
 

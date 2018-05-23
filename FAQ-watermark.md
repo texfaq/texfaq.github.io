@@ -1,11 +1,11 @@
-# 'Watermarks' on every page
+# ''Watermarks'' on every page
 
-It's often useful to place some text (such as 'DRAFT') in the
+It's often useful to place some text (such as ''DRAFT'') in the
 background of every page of a document.  For LaTeX users, the
 simplest way to do this uses the [`draftcopy`](http://ctan.org/pkg/draftcopy) package.  This
 can deal with
 many types of DVI processors (in the same way that the graphics
-package does) and knows translations for the word 'DRAFT' into a wide
+package does) and knows translations for the word ''DRAFT'' into a wide
 range of languages (though you can choose your own word, too).
 Unfortunately, however, the package relies on PostScript specials, and will
 therefore fail if you are viewing your document with `xdvi`,
@@ -20,7 +20,7 @@ facilities for tiling images.  All its commands come in pairs: one for
 
 The [`draftwatermark`](http://ctan.org/pkg/draftwatermark) package uses the same author's
 [`everypage`](http://ctan.org/pkg/everypage) package to provide a simple interface for adding
-textual ('DRAFT'-like) watermarks.
+textual (''DRAFT''-like) watermarks.
 
 The [`xwatermark`](http://ctan.org/pkg/xwatermark) package provides very flexible watermarking,
 with a ''modern'' (key-value) interface.

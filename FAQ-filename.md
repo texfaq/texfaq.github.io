@@ -31,7 +31,7 @@ code, for a long time, that just didn't work in many cases).
 The [`currfile`](http://ctan.org/pkg/currfile) package provides a regular means of keeping
 track of the details of the current file (its name in
 `\currfilename`, directory in `\currfiledir`, as well as the
-file 'base' name (less its extension) and its extension).
+file ''base'' name (less its extension) and its extension).
 [`Currfile`](http://ctan.org/pkg/Currfile) does this with the help of a second package,
 [`filehook`](http://ctan.org/pkg/filehook), which spots file operations that use `\input`,
 `\InputIfFileExists` and `\include`, as well as package and

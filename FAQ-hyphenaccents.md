@@ -15,7 +15,7 @@ by adding the command
 to the preamble of their document.  Other encodings (notably
 LY1, once promoted by Y&Y inc) may be used
 in place of T1.  Indeed, most current 8-bit TeX font
-encodings will 'work' with the relevant sets of hyphenation patterns. 
+encodings will ''work'' with the relevant sets of hyphenation patterns. 
 
 With the advance of XeTeX and LuaTeX to the mainstream, a new
 regime for generating hyphenation tables is in place.  For each

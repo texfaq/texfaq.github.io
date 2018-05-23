@@ -9,7 +9,7 @@ supported TIFF (`tif` files) format as an alternative
 to PNG files; don't rely on this facility, even if you
 _are_ running an old enough version of pdfTeX&hellip;
 
-In addition to the 'native' formats, the standard pdfLaTeX
+In addition to the ''native'' formats, the standard pdfLaTeX
 [`graphics`](http://ctan.org/pkg/graphics) package setup causes Hans Hagen's `supp-pdf`
 macros to be loaded: these macros are capable of translating the
 output of MetaPost to PDF ''on the fly''; thus MetaPost output
@@ -30,7 +30,7 @@ files ''on the fly''; this is convenient, but requires that you
 suppress one of TeX's security checks: don't allow its use in files
 from sources you don't entirely trust.
 
-The package [`pst-pdf`](http://ctan.org/pkg/pst-pdf) permits other things than 'mere'
+The package [`pst-pdf`](http://ctan.org/pkg/pst-pdf) permits other things than ''mere''
 graphics files in its argument.  [`Pst-pdf`](http://ctan.org/pkg/Pst-pdf) operates (the
 authors suggest) ''like BibTeX''&nbsp;&mdash; you process your file using
 pdfLaTeX, then use LaTeX, `dvips` and `ps2pdf`
@@ -47,7 +47,7 @@ pdfLaTeX with:
 ```latex
 pdflatex -shell-escape <file>
 ```
-for complete 'automation'.
+for complete ''automation''.
 
 An alternative solution is to use `purifyeps`, a
 `Perl` script which uses the good offices of

@@ -1,6 +1,6 @@
 # The Principal Value Integral symbol
 
-This symbol (an integral sign, 'crossed') does not appear in any of
+This symbol (an integral sign, ''crossed'') does not appear in any of
 the fonts ordinarily available to (La)TeX users, but it can be
 created by use of the following macros:
 <!-- {% raw %} -->

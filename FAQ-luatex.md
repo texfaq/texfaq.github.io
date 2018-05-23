@@ -14,11 +14,11 @@ As pdfTeX development ran down,
 development of a new system, LuaTeX was started.
 [`Lua`](http://www.lua.org/) is a interpreter designed
 to be incorporated into other applications.  LuaTeX consists of a
-TeX-like engine with a `lua` interpreter 'embedded' in it;
+TeX-like engine with a `lua` interpreter ''embedded'' in it;
 the `lua` interpreter has access to many of the data
 structures used for typesetting, so that the programmer may also
 interpolate chunks of `lua` code into their (La)TeX macros,
-or as 'call-backs' for use when the TeX-like engine does certain
+or as ''call-backs'' for use when the TeX-like engine does certain
 operations.
 
 This arrangement offers the prospect of a ''semi-soft'' typesetting
@@ -41,7 +41,7 @@ demonstrates the ''final functionality'', though the project
 remains a &beta;-release.  Functional stability was first
 declared for version 0.50.0, released near the end of December 2009.
 
-ConTeXt 'Mark 4' can already make use of LuaTeX; much of its
+ConTeXt ''Mark 4'' can already make use of LuaTeX; much of its
 code already appears in two forms&nbsp;&mdash; a TeX-based version
 (`mkii`) and a `mkiv` version (new functionality
 typically _only_ appears in `mkiv` form), which uses

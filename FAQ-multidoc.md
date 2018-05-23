@@ -1,4 +1,4 @@
-# A 'report' from lots of 'article's
+# A ''report'' from lots of 'article's
 
 This is a requirement, for example, if one is preparing the
 proceedings of a conference whose papers were submitted in LaTeX.
@@ -64,7 +64,7 @@ Arrangements may be made so that the component files will
 be typeset using different page format, etc., parameters than those
 used when they are typeset as a part of the main file.
 
-A more 'raw' toolkit is offered by Matt Swift's [`includex`](http://ctan.org/pkg/includex) and
+A more ''raw'' toolkit is offered by Matt Swift's [`includex`](http://ctan.org/pkg/includex) and
 [`newclude`](http://ctan.org/pkg/newclude) packages, both part of the [`frankenstein`](http://ctan.org/pkg/frankenstein)
 bundle.  Note that Matt believes [`includex`](http://ctan.org/pkg/includex) is obsolete
 (though it continues to work for this author); furthermore, its

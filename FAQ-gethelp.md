@@ -33,7 +33,7 @@ places where people ask are:
     [Google groups](http://groups.google.com/group/comp.text.tex),
     and
 2.  the mailing list `texhax` via its
-    [archive](http://tug.org/pipermail/texhax/), or via the 'Gmane'
+    [archive](http://tug.org/pipermail/texhax/), or via the ''Gmane''
     newsgroup `gmane.comp.tex.texhax`, which holds a
     _very_ long history of the list.  A long shot would be to
     search the archives of the mailing list's ancient posts on
@@ -49,7 +49,7 @@ mechanisms are:
   
 
 1.  Mailing lists: there are various specialist mailing lists, but
-    the place for 'general' (La)TeX queries is the `texhax`
+    the place for ''general'' (La)TeX queries is the `texhax`
     mailing list.  Mail to <a href="mailto:texhax@tug.org">texhax@tug.org</a> to ask a question,
     but it's probably better to subscribe to the list
     (via [http://tug.org/mailman/listinfo/texhax]) 
@@ -60,7 +60,7 @@ mechanisms are:
     [http://groups.google.com/group/comp.text.tex].
 3.  Web forum: alternatives are: the 
     [''LaTeX community'' site](http://www.latex-community.org/),
-    which offers a variety of 'categories' to place your query, and the
+    which offers a variety of ''categories'' to place your query, and the
     [TeX, LaTeX and friends&site](http://tex.stackexchange.com/)
     (''StackExchange'').
   

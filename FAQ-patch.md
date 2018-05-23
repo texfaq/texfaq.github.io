@@ -11,7 +11,7 @@ would naturally write:
 ```
 However, this would not work: a call to `\splat` would execute
 `\mumble`, and then call the redefined `\splat` again; this is an
-'unterminated recursion', that will quickly exhaust TeX's memory.
+''unterminated recursion'', that will quickly exhaust TeX's memory.
 
 Fortunately, the TeX primitive `\let` command comes to our
 rescue; it allows us to take a ''snapshot'' of the current state of a
@@ -84,7 +84,7 @@ after
 ```
 we will have a new version of `\b` defined as `abc`.
 
-The [`ted`](http://ctan.org/pkg/ted) package is a 'token list editor', and provides a
+The [`ted`](http://ctan.org/pkg/ted) package is a ''token list editor'', and provides a
 command `\substitute` which will patch the
 contents of a macro, putting the result in a token-list, or
 (in the form `\Substitute*`) using the result to (re)define a

@@ -21,7 +21,7 @@ non-standard floats.  The [`caption`](http://ctan.org/pkg/caption) and [`ccaptio
 (note the double ''_c_'') packages provide a range of different
 formatting options.
 
-[`ccaption`](http://ctan.org/pkg/ccaption) also provides 'continuation' captions and captions
+[`ccaption`](http://ctan.org/pkg/ccaption) also provides ''continuation'' captions and captions
 that can be placed outside of float environments.  The (very simple)
 [`capt-of`](http://ctan.org/pkg/capt-of) package also allows captions outside a float
 environment.  Note that care is needed when doing things that assume

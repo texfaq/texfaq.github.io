@@ -44,7 +44,7 @@ of drawing, and setup, here are a few systems you may consider:
     diagrams, is available).
     [`Pstricks`](http://ctan.org/pkg/Pstricks)' `\special`s are
     by default specific to `dvips`, but there is
-    a [`Pstricks`](http://ctan.org/pkg/Pstricks) 'driver' that allow [`Pstricks`](http://ctan.org/pkg/Pstricks) to
+    a [`Pstricks`](http://ctan.org/pkg/Pstricks) ''driver'' that allow [`Pstricks`](http://ctan.org/pkg/Pstricks) to
     operate under XeTeX.  pdfTeX users may use [`pst-pdf`](http://ctan.org/pkg/pst-pdf),
     which (like [`epstopdf`](http://ctan.org/pkg/epstopdf)&nbsp;&mdash; see 
     [pdfLaTeX graphics](./FAQ-pdftexgraphics.html)) generates
@@ -59,15 +59,15 @@ of drawing, and setup, here are a few systems you may consider:
     just browse the 
     [list archives](http://tug.org/pipermail/pstricks/).
 -  [`pgf`](http://ctan.org/pkg/pgf): while [`pstricks`](http://ctan.org/pkg/pstricks) is very powerful and
-    convenient from 'traditional' TeX, using it with pdfLaTeX is
+    convenient from ''traditional'' TeX, using it with pdfLaTeX is
     pretty tiresome: if you 
     simply want the graphical capabilities, [`pgf`](http://ctan.org/pkg/pgf), together with
     its ''user-oriented'' interface [`tikz`](http://ctan.org/pkg/tikz), may be a good
     bet for you.  While PDF has (in essence) the same graphical
-    capabilities as PostScript, it isn't programmable; [`pgf`](http://ctan.org/pkg/pgf) provides
+    capabilities as PostScript, it isn''t programmable; [`pgf`](http://ctan.org/pkg/pgf) provides
     LaTeX commands that will utilise the graphical capabilities of
     both PostScript and PDF equally.  [`Pgf`](http://ctan.org/pkg/Pgf) has extensive
-    mathematical support, which allows it to rival [`PSTricks`](http://ctan.org/pkg/PSTricks)'
+    mathematical support, which allows it to rival [`PSTricks`](http://ctan.org/pkg/PSTricks)''
     use of the computation engine within PostScript.
     The [`pgf`](http://ctan.org/pkg/pgf) manual is enormous, but a simple introduction which
     allows the user to get a feel for the capabilities of the system, is

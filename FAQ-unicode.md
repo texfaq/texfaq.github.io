@@ -20,7 +20,7 @@ less robust, coverage via an [`inputenc`](http://ctan.org/pkg/inputenc) option
 `utf8x` until you have convinced yourself that
 `utf8` can not do the job for you.
 
-'Modern' TeX-alike applications, [XeTeX](./FAQ-xetex.html) and
+''Modern'' TeX-alike applications, [XeTeX](./FAQ-xetex.html) and
 [LuaTeX](./FAQ-luatex.html) read their input using UTF-8
 representations of Unicode as standard.  They also use TrueType or
 OpenType fonts for output; each such font has tables that tell the

@@ -57,8 +57,8 @@ Another alternative for `Subversion` users is the
 [`svn`](http://ctan.org/pkg/svn) but with a rather different focus.  [`Svninfo`](http://ctan.org/pkg/Svninfo)
 does the date trick that [`svn`](http://ctan.org/pkg/svn) performs (controlled by a
 package option), and can set up page foot-lines using 
-[package [`fancyhdr`](http://ctan.org/pkg/fancyhdr)](./FAQ-fancyhdr.html).  There isn't much to
-choose between the two packages: you should read the packages'
+[package [`fancyhdr`](http://ctan.org/pkg/fancyhdr)](./FAQ-fancyhdr.html).  There isn''t much to
+choose between the two packages: you should read the packages''
 documentation to see which suits you best.
 
 An alternative script-based approach to version control has been taken

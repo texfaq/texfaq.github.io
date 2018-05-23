@@ -37,7 +37,7 @@ Functions that distinguish core archives are:
     [upload redirector](./FAQ-uploads.html). Significant changes to the
     archive are reported via the mailing list <a href="mailto:ctan-ann@dante.de">ctan-ann@dante.de</a>
 -  Weak consistency: changes to the content of the archives are
-    rapidly distributed to all core archives.  (Consistency is 'weak'
+    rapidly distributed to all core archives.  (Consistency is ''weak''
     since changes can take several minutes to propagate.)
 -  Providing distribution (TeX&nbsp;Live and MiKTeX) support.
 -  Catalogue maintenance.

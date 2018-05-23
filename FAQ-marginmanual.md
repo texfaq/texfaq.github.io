@@ -26,9 +26,9 @@ by the number of characters per line, as mentioned in
 
 Margins are controlled by two parameters: `\oddsidemargin` and
 `\evensidemargin`, whose names come from the convention that
-odd-numbered pages appear on the right-hand side ('recto') of a
+odd-numbered pages appear on the right-hand side (''recto'') of a
 two-page spread and even-numbered pages on the left-hand side
-('verso').  Both parameters actually refer to the left-hand margin of
+(''verso'').  Both parameters actually refer to the left-hand margin of
 the relevant pages; in each case the right-hand margin is specified by
 implication, from the value of `\textwidth` and the width of the
 paper.  (In a one-sided document, which is the default in many

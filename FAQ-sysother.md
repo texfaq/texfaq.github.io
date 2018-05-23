@@ -11,7 +11,7 @@ very actively encouraged.)
 
 A version of emTeX, packaged to use a 
 [TDS directory structure](./FAQ-tds.html), is separately available as an
-emTeX 'contribution'.  Note that neither emTeX itself, nor
+emTeX ''contribution''.  Note that neither emTeX itself, nor
 emTeX-TDS, is maintained.  Users of Microsoft operating
 systems, who want an up-to-date (La)TeX system, need Win32-based
 systems.

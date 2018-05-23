@@ -3,7 +3,7 @@
 You wanted to `\include{../bar/xyz.tex}`, but LaTeX says:
 ```latex
 latex: Not writing to ../bar/xyz.aux (openout_any = p).
-! I can't write on file `../bar/xyz.aux'.
+! I can''t write on file `../bar/xyz.aux''.
 ```
 The error comes from TeX's protection against writing to
 directories that aren't descendents of the one where your document

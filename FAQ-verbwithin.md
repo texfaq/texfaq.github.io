@@ -6,7 +6,7 @@ right&hellip;'', since once the category code has been assigned to a
 character, it doesn't change.  So `\verb` and
 `\begin{verbatim}` have to assume that they are getting the
 first look at the parameter text; if they aren't, TeX has already
-assigned category codes so that the verbatim command doesn't have a
+assigned category codes so that the verbatim command doesn''t have a
 chance.  For example:
 ```latex
 \verb+\error+
@@ -22,7 +22,7 @@ which simply regurgitates its argument, and use it as:
 ```
 the combinartion will not (it will attempt to execute `\error`).
 Other errors one
-may encounter are `\verb` ended by end of line', or even the
+may encounter are `\verb` ended by end of line'', or even the
 rather more helpful `\verb` illegal in command argument'.  The
 same sorts of thing happen with `\begin{verbatim}` &hellip;
 `\end{verbatim}`:
@@ -166,7 +166,7 @@ solutions to the problem:
     ...
     \section{... \texttt{my\us name}}
     ```
-    Such a definition is 'naturally' robust; the construction
+    Such a definition is ''naturally'' robust; the construction
     ''&lsaquo;_back-tick_&rsaquo;`\&lsaquo;_char_&rsaquo;` may be used for any
     troublesome character (though it's plainly not necessary for things
     like percent signs for which (La)TeX already provides
@@ -194,7 +194,7 @@ solutions to the problem:
     \end{tcbverbatimwrite}
     ```
     In this case, you use the anonymous file with the `\tcbusetemp`
-    macro.  (You can change the name used for the 'anonymous' file, if
+    macro.  (You can change the name used for the ''anonymous'' file, if
     its default proves troublesome.)
   
 

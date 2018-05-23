@@ -49,7 +49,7 @@ measured for the group.
 The [`varwidth`](http://ctan.org/pkg/varwidth) package defines a `varwidth`
 environment which sets the content of the box to match a ''narrower
 natural width'' if it finds one.  (You give it the same parameters as
-you would give `minipage`: in effect, it is a 'drop-in'
+you would give `minipage`: in effect, it is a ''drop-in''
 replacement.)  [`Varwidth`](http://ctan.org/pkg/Varwidth) provides its own ragged text command:
 `\narrowragged`, which aims to make narrower lines and to put more
 text in the last line of the paragraph (thus producing lines with more

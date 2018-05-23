@@ -1,7 +1,7 @@
 # Spawning programs from (La)TeX: `\write18`
 
 The TeX [`\write` primitive instruction](./FAQ-write.html) is used
-to write to different file 'streams'; TeX refers to each open file by
+to write to different file ''streams''; TeX refers to each open file by
 a number, not by a file name (although most of the time we hide this).
 Originally, TeX would write to a file connected to a stream
 numbered 0&ndash;15.  More recently, a special ''stream 18'' has been
@@ -13,7 +13,7 @@ write:
 ```latex
 \write18{epstopdf \epsfilename}
 ```
-When using something like the [`epstopdf`](http://ctan.org/pkg/epstopdf) package, the 'stream'
+When using something like the [`epstopdf`](http://ctan.org/pkg/epstopdf) package, the ''stream''
 write operation is hidden away and you don't need to worry about the
 exact way it's done.
 
@@ -36,7 +36,7 @@ processed: you defeat the point of the original protection, that way.
 The latest MiKTeX (version 2.9), and recent TeX&nbsp;Live (from the
 2010 release) get
 around this by having a special ''limited'' version of `\write18`
-enabled 'out of the box'.  The idea is to allow only a pre-set list of
+enabled ''out of the box''.  The idea is to allow only a pre-set list of
 commands (for example, BibTeX, `epstopdf`, TeX itself,
 and so on).  Those on the list are regarded as safe enough to allow,
 whereas anything else (for example deleting files) still needs to be

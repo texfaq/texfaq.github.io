@@ -1,6 +1,6 @@
 # Typesetting pseudocode in LaTeX
 
-There is no consensus on the 'right' way to typeset pseudocode.
+There is no consensus on the ''right'' way to typeset pseudocode.
 Consequently, there are a variety of LaTeX packages to choose from
 for producing &aelig;sthetically pleasing pseudocode listings.
 
@@ -65,7 +65,7 @@ this is the package as used in the second edition of the book.
 Similarly, the style of 
 ''_Combinatorial Algorithms: Generation, Enumeration and Search_''
 is supported by the [`pseudocode`](http://ctan.org/pkg/pseudocode) package, written by the
-authors of the book.  It has the common 'Pascal-like' style, and has
+authors of the book.  It has the common ''Pascal-like'' style, and has
 some interesting constructs for what one thinks of as Pascal blocks.
 
 The [`algorithm2e`](http://ctan.org/pkg/algorithm2e) is of very long standing, and is widely used

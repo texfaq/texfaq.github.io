@@ -37,11 +37,11 @@ Getting rid of a widow can be more tricky.  Options are
   
 
 -  If the previous page contains a long paragraph with a short last
-    line, it may be possible to set it 'tight': write
+    line, it may be possible to set it ''tight'': write
     `\looseness``=-1` immediately after the last word of the
     paragraph.
 -  If that doesn't work, adjusting the page size, using
-    `\enlargethispage{`\baselineskip`}` to 'add a line' to
+    `\enlargethispage{`\baselineskip`}` to ''add a line'' to
     the page, which may have the effect of getting the whole paragraph
     on one page.
 -  Reducing the size of the page by

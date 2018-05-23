@@ -50,7 +50,7 @@ Each of [`titleref`](http://ctan.org/pkg/titleref), [`byname`](http://ctan.org/p
 defines a reference command with the same name as the package:
 `\titleref`, `\byname` and `\nameref`. The [`nameref`](http://ctan.org/pkg/nameref)
 package also defines a command `\byshortnameref`, which uses the
-optional 'short' title argument to the chapter and section commands.
+optional ''short'' title argument to the chapter and section commands.
 (Although it comes from the same author, [`zref`](http://ctan.org/pkg/zref) _doesn't_
 define a short-name variant.)
 

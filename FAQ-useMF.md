@@ -62,10 +62,10 @@ line
 ```
 in response to the `**` prompt or on the MetaFont command line. (If
 `<mode name>` is unknown or omitted, the mode defaults to
-'proof' mode and MetaFont will produce an output file called 
+''proof'' mode and MetaFont will produce an output file called 
 `<font file name>.2602gf`)
 The `<magnification>` is a floating point number or a
-'magstep' (magsteps define sizes by stating how many times you need to
+''magstep'' (magsteps define sizes by stating how many times you need to
 multiply a base size by `1.2`, so for a base size of
 `10`, `magstep 1` is `12`, `magstep 2` is
 `14.4`
@@ -80,7 +80,7 @@ Note that under Unix the ` ` and `;`
 characters must usually be quoted or escaped, so this would typically
 look something like
 ```latex
- mf '\mode=epson; mag=magstep 1; input cmr10'
+ mf ''\mode=epson; mag=magstep 1; input cmr10''
 ```
 If you need a special mode that isn't in the base, you can put its
 commands in a file (e.g., `ln03.mf`) and invoke it on the

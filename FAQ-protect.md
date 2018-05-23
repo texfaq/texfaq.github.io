@@ -1,8 +1,8 @@
-# What's the reason for 'protection'?
+# What's the reason for ''protection''?
 
 Sometimes LaTeX saves data it will reread later. These data are
 often the argument of some command; they are the so-called moving
-arguments.  ('Moving' because data are moved around.)  Candidates
+arguments.  (''Moving'' because data are moved around.)  Candidates
 are all arguments that may go into table of contents, list of figures,
 etc.; namely, data that are written to an auxiliary file and
 read in later.  Other places are those data that might appear in head-
@@ -18,14 +18,14 @@ processed again. Protecting a command, using
 `\protect``\cmd` tells LaTeX to save `\cmd` as
 `\cmd`, without expanding it at all.
 
-So, what is a 'fragile command'?&nbsp;&mdash; it's a command that expands into
+So, what is a ''fragile command''?&nbsp;&mdash; it's a command that expands into
 illegal TeX code during the save process.
 
-What is a 'robust command'?&nbsp;&mdash; it's a command that expands into legal
+What is a ''robust command''?&nbsp;&mdash; it's a command that expands into legal
 TeX code during the save process.
 
 Lamport's book says in its description of every LaTeX command whether
-it is 'robust' or 'fragile'; it also says that every command with an
+it is ''robust'' or ''fragile''; it also says that every command with an
 optional argument is fragile.  The list isn't reliable, and neither
 is the assertion about optional arguments; the statements may have
 been true in early versions of LaTeX 2e but are not any longer

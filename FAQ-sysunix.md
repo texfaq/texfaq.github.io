@@ -21,7 +21,7 @@ use on another computer, or for using the TeX&nbsp;Live DVD with
 no installation at all.
 
 TeX-gpc is a ''back-to-basics'' distribution of TeX utilities,
-_only_ (unlike TeX&nbsp;Live, no 'tailored' package bundles are
+_only_ (unlike TeX&nbsp;Live, no ''tailored'' package bundles are
 provided).  It is distributed as source, and compiles with GNU
 Pascal, thereby coming as close as you're likely to get to Knuth's original
 distribution.  It is known to work well, but the omission of &epsilon;-TeX

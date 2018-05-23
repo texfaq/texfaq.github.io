@@ -42,7 +42,7 @@ Using either method, you have to deal with the possibility of the
 figure or table being too large for the page.  (Floating objects will
 float away in this circumstance; ''doing it by hand'', like this, you
 take upon yourself the responsibility for avoiding 
-'_Overfull `\vbox`_' errors.
+''_Overfull `\vbox`_'' errors.
 
 A further problem is the possibility that such ''fixed floats'' will
 overtake ''real floats'', so that the numbers of figures will be out

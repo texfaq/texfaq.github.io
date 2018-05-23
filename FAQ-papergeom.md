@@ -9,7 +9,7 @@ paper size as something the TeX engine needs to know about.  As a
 result, there is no DVI command to specify the paper on which
 the document should be printed, which has led a dichotomy where macros
 shape the text according to the needs of the author's chosen paper
-size, and device drivers' choice happens independently of the macros'
+size, and device drivers'' choice happens independently of the macros''
 ideas.
 
 In practice, one usually finds that macro packages (such as Plain TeX and

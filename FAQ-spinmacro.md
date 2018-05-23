@@ -19,12 +19,12 @@ obeyed (''expanded'').
 
 Spaces are ignored in vertical mode (between paragraphs), at the
 beginning of a line, and after a command name.  Since sequences of
-spaces are collapsed into one, it 'feels as if' spaces are ignored if
+spaces are collapsed into one, it ''feels as if'' spaces are ignored if
 they follow another space.  Space can have syntactic meaning after
 certain sorts of non-braced arguments (e.g., _count_ and
 _dimen_ variable assignments in Plain TeX) and after certain
 control words (e.g., in `\hbox` `to`, so again we have instances
-where it 'feels as if' spaces are being ignored when they're merely
+where it ''feels as if'' spaces are being ignored when they're merely
 working quietly for their living.
 
 Consider the following macro, fairly faithfully adapted from one that
@@ -90,9 +90,9 @@ spaces:
 
 -  placing a `%` character at the end of a line
     (as in the 1st, 3rd and 5th lines),
--  ending a line 'naturally' with a control sequence, as in line 2,
+-  ending a line ''naturally'' with a control sequence, as in line 2,
     and
--  ending a line with an 'artificial' control sequence, as in line
+-  ending a line with an ''artificial'' control sequence, as in line
     4; the control sequence in this case (`\relax`) is a no-op in many
     circumstances (as here), but this usage is deprecated&nbsp;&mdash; a
    `%` character would have been better.

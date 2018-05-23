@@ -5,7 +5,7 @@ get the line-breaking right; on each attempt it runs the same
 algorithm, but gives it different parameters.  You can affect the way
 TeX's line breaking works by adjusting the parameters: this answer
 deals with the ''tolerance'' and stretchability parameters.  The other
-vital 'parameter' is the set of hyphenations to be applied: see
+vital ''parameter'' is the set of hyphenations to be applied: see
 ''[my words aren't being hyphenated](./FAQ-nohyph.html)''
 (and the questions it references) for advice.
 
@@ -23,7 +23,7 @@ parameters.  This answer discusses the approaches one might take to
 resolution of the problem, on the assumption that you've got the
 hyphenation correct.
 
-The simplest case is where a 'small' word fails to break at the end of
+The simplest case is where a ''small'' word fails to break at the end of
 a line; pushing the entire word to a new line isn't going to make much
 difference, but it might make things just bad enough that TeX won't
 do it by default.  In such a case on can _try_ the LaTeX
@@ -54,7 +54,7 @@ For both, an ''infinite'' tolerance is represented by the value
 `10``000`, but infinite tolerance is rarely
 appropriate, since it can lead to very bad line breaks indeed.
 
-`\emergencystretch` is a TeX-internal 'dimen' register, and can
+`\emergencystretch` is a TeX-internal ''dimen'' register, and can
 be set as normal for dimens in Plain TeX; in LaTeX, use
 `\setlength`&nbsp;&mdash; for example:
 ```latex
@@ -114,13 +114,13 @@ treated with a degree of caution.
 
 More subtle (but more tricky to manage) are the microtypographic
 extensions provided by pdfTeX.  Since pdfTeX is the default
-'engine' for LaTeX and ConTeXt work in all distributions,
+''engine'' for LaTeX and ConTeXt work in all distributions,
 nowadays, the extensions are available to all.  There are two
 extensions, margin kerning and font expansion; margin kerning only
 affects the visual effect of the typeset page, and has little effect
 on the ability of the paragraph setter to ''get things right''.
 Font expansion works like a subtler version of the trick that
-`\emergencystretch` plays: pdfTeX 'knows' that your current font
+`\emergencystretch` plays: pdfTeX ''knows'' that your current font
 may be stretched (or shrunk) to a certain extent, and will do that
 ''on the fly'' to optimise the setting of a paragraph.  This is a
 powerful tool in the armoury of the typesetter.

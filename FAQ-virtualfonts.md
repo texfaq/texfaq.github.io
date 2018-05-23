@@ -23,19 +23,19 @@ each glyph is to be processed.
 The virtual font may contain commands:
   
 
--  to 'open' one or more (real) fonts for subsequent use,
+-  to ''open'' one or more (real) fonts for subsequent use,
 -  to remap a glyph from one of the (real) fonts for use in the
     virtual font,
 -  to build up a more complicated effect (using DVI commands).
 
 In practice, the most common use of virtual fonts is to remap
 Adobe Type 1 fonts (see [font metrics](./FAQ-metrics.html)),
-though there has also been useful useful work building 'fake' maths
+though there has also been useful useful work building ''fake'' maths
 fonts (by bundling glyphs from several fonts into a single virtual
 font).  Virtual Computer Modern fonts, making a 
 [Cork encoded](./FAQ-ECfonts.html) font from Knuth's originals by using
-remapping and fragments of DVI for single-glyph 'accented
-characters', were the first ''Type&nbsp;1 format'' Cork-encoded Computer
+remapping and fragments of DVI for single-glyph ''accented
+characters'', were the first ''Type&nbsp;1 format'' Cork-encoded Computer
 Modern fonts available.
 
 Virtual fonts are normally created in a single ASCII VPL

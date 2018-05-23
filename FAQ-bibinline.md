@@ -34,7 +34,7 @@ be advisable to use [`jurabib`](http://ctan.org/pkg/jurabib) (or of course
 [`inlinebib`](http://ctan.org/pkg/inlinebib)), to avoid confusion of footnotes and
 foot-citations.
 
-The [`usebib`](http://ctan.org/pkg/usebib) package offers a 'toolbox', which allows the user
+The [`usebib`](http://ctan.org/pkg/usebib) package offers a ''toolbox'', which allows the user
 to place exactly what is needed, in the text (that is, rather than a
 full citation).  The package's command, that does the actual
 typesetting, is `\usebibdata{&lsaquo;_key_&rsaquo;}{&lsaquo;_field_&rsaquo;}`; it

@@ -1,7 +1,7 @@
 # Displaying MetaPost output in `ghostscript`
 
 MetaPost ordinarily expects its output to be included in some context
-where the 'standard' MetaFont fonts (that you've specified) are already
+where the ''standard'' MetaFont fonts (that you've specified) are already
 defined&nbsp;&mdash; for example, as a figure in TeX document.  If you're
 debugging your MetaPost code, you may want to view it in a
 [`ghostscript`](http://www.ghostscript.com/)-based (or some
@@ -24,7 +24,7 @@ encodings are anything but simple, encoding of text in diagrams are
 another source of problems.  If you're suffering such problems (the
 symptom is that 
 characters disappear, or are wrongly presented) the solution is
-to view the 'original' MetaPost output after processing through
+to view the ''original'' MetaPost output after processing through
 LaTeX and `dvips`.
 
 Conditional compilation may be done either
@@ -36,7 +36,7 @@ input MyFigure
 ```
 or by issuing a shell command such as
 ```latex
-mp '\prologues:=2; input MyFigure'
+mp ''\prologues:=2; input MyFigure''
 ```
 (which will work without the quote marks if you're not using a Unix
 shell).

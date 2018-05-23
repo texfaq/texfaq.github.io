@@ -45,7 +45,7 @@ optional arguments of the `\includegraphics` command of the
 [`keyval`](http://ctan.org/pkg/keyval) was designed to do.)
 
 However, we need more if we're to to have package options in
-'key-value' form.  Packages like [`hyperref`](http://ctan.org/pkg/hyperref) have enormously
+''key-value'' form.  Packages like [`hyperref`](http://ctan.org/pkg/hyperref) have enormously
 complicated package options which need key-value processing at
 `\ProcessOptions` time: [`keyval`](http://ctan.org/pkg/keyval) can't do that on its own.
 
@@ -56,7 +56,7 @@ operate as key and value pairs.  The package defines commands
 _true_ or _false_, and `\DeclareStringOption` for all
 other options that have a value.  Keys are declared using
 [`keyval`](http://ctan.org/pkg/keyval) and may remain available for use within the document,
-or may be 'cancelled' to avoid confusion.  If you have loaded
+or may be ''cancelled'' to avoid confusion.  If you have loaded
 [`kvoptions`](http://ctan.org/pkg/kvoptions), the LaTeX kernel's `\DeclareOption` becomes
 `\DeclareVoidOption` (it's an option with no value), and
 `\DeclareOption*` becomes `\DeclareDefaultOption`.
@@ -100,14 +100,14 @@ added automatically.  So a `\pgfkeys` command might be:
 and for each key mentioned, the associated code will be executed.
 &hellip; and that code is also set up using `\pgfkeys`:
 ```latex
-\pgfkeys{/my key/.code=The value is '#1'.}
+\pgfkeys{/my key/.code=The value is ''#1''.}
 ```
 after which
 ```latex
 \pgfkeys{/my key=hi!}
 ```
 will produce just
-  The value is 'hi!'.
+  The value is ''hi!''.
 The manual goes on, showing how to define a key with two arguments,
 how to provide default value for a key, and how to define aliases for
 particular key sequences (which are called ''styles'').  All in all,
@@ -124,7 +124,7 @@ for defining and setting keys.  The package [`l3keys2e`](http://ctan.org/pkg/l3k
 it possible for LaTeX 2e class and package
 options to be processed using [`l3keys`](http://ctan.org/pkg/l3keys). [`L3kernel`](http://ctan.org/pkg/L3kernel)
 code can be used within existing LaTeX2e documents, so
-[`l3keys`](http://ctan.org/pkg/l3keys) is also available to the LaTeX 2e programmer 'direct'.
+[`l3keys`](http://ctan.org/pkg/l3keys) is also available to the LaTeX 2e programmer ''direct''.
 
 Another key-value system that's part of larger set of macros is
 [`scrbase`](http://ctan.org/pkg/scrbase), which uses the facilities of [`keyval`](http://ctan.org/pkg/keyval) to
@@ -134,8 +134,8 @@ difficulties from the German-only documentation; however, from a
 partial translation available to the author of this answer, a summary
 is possible.  The package may build on the facilities either of
 [`kyeval`](http://ctan.org/pkg/kyeval) or of [`xkeyval`](http://ctan.org/pkg/xkeyval), and builds its functionality
-on the structure of the 'key family'.  The user may define family
-'members' and keys are defined relative to the members.  (For example,
+on the structure of the ''key family''.  The user may define family
+''members'' and keys are defined relative to the members.  (For example,
 the package [`scrbase`](http://ctan.org/pkg/scrbase) is part of the [`KOMA-script`](http://ctan.org/pkg/KOMA-script)
 bundle; so its keys are all members of the [`scrbase.sty`](http://ctan.org/pkg/scrbase.sty)
 family within the [`KOMA`](http://ctan.org/pkg/KOMA) family.  The function

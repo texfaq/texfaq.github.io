@@ -6,7 +6,7 @@ computers are pretty fast, so users aren't too badly affected by its
 performance.
 
 However, PicTeX has the further unfortunate tendency to fill up
-TeX's fixed-size arrays&nbsp;&mdash; notably the array of 256 'dimension'
+TeX's fixed-size arrays&nbsp;&mdash; notably the array of 256 ''dimension''
 registers.  This is a particular problem when you're using
 `pictex.sty` with LaTeX and some other packages that also need
 dimension registers.  When this happens, you will see the TeX error

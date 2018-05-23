@@ -46,7 +46,7 @@ shown below, and simply execute the command to find its definition:
           \ttfamily \check@icl #1\check@icr
     \expandafter \egroup \fi .
 ```
-Note that the command name that is protected is the 'base' command,
+Note that the command name that is protected is the ''base'' command,
 with a space appended.  This is cryptically visible, in a couple of
 places above.  (Again, the output has been sanitised.)
 
@@ -68,7 +68,7 @@ macro:->\protect \texttt
     \expandafter \egroup \fi .
 ```
 (again, the output has been sanitised&nbsp;&mdash; but we see that
-`latexdef` has useful 'intelligence' in it, as it has spotted
+`latexdef` has useful ''intelligence'' in it, as it has spotted
 and dealt with the `\protect`.)
 
 With the `-s` switch, `latexdef` will give you a
@@ -141,12 +141,12 @@ also contains some automatically-converted LaTeX 2.09 documentation.
 And of course, the kernel isn't all of LaTeX: your command may be
 defined in one of LaTeX's class or package files.  For example, we
 find a definition of `\thebibliography` in [`article`](http://ctan.org/pkg/article), but
-there's no `article.dtx`.  Some such files are generated from
+there''s no `article.dtx`.  Some such files are generated from
 parts of the kernel, some from other files in the distribution.  You
 find which by looking at the start of the file: in `article.cls`,
 we find:
 ```latex
-%% This is file `article.cls',
+%% This is file `article.cls'',
 %% generated with the docstrip utility.
 %%
 %% The original source files were:

@@ -107,8 +107,8 @@ context, but the command remains a useful item in the armoury.
 
 Note that both `\pagebreak` and `\nopagebreak` take an optional
 number argument to adjust how the command is to be interpreted.  Thus
-`\pagebreak[0]`, the command 'suggests' that a page break
-might be worth doing, whereas `\pagebreak[4]` 'demands' a
+`\pagebreak[0]`, the command ''suggests'' that a page break
+might be worth doing, whereas `\pagebreak[4]` ''demands'' a
 page break.  Similarly `\nopagebreak[0]` makes a suggestion,
 while `\nopagebreak[4]` is a demand.  In both commands, the
 default value of the optional argument is 4.

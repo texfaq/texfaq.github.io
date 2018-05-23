@@ -1,4 +1,4 @@
-# Getting 'free' fonts not in your distribution
+# Getting ''free'' fonts not in your distribution
 
 Some fonts are free to use, but may not be sold.  This creates a
 dilemma for distributions: users may want the fonts, but since the
@@ -28,7 +28,7 @@ getnonfreefonts luximono
 that the example was to hand&hellip;).
 
 (System adminstrators may use `getnonfreefonts-sys`, which
-will install the font in the 'public' `texmf` tree, so that all
+will install the font in the ''public'' `texmf` tree, so that all
 users of the system may use the new font.)
 
 The script will download the relevant font files from CTAN,

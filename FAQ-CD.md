@@ -18,7 +18,7 @@ is distributed on DVD, and contains:
     [the TeXShop front-end](http://www.uoregon.edu/~koch/texshop/)
     and other Mac-specific tools;
 -  ProTeXt: an easy to install TeX system for Windows, based
-    on MiKTeX, based on an 'active' document that guides
+    on MiKTeX, based on an ''active'' document that guides
     installation; and
 -  A snapshot of CTAN.
 

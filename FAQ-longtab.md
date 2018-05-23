@@ -39,7 +39,7 @@ problem for you, it may be worth a try.
 
 The [`supertabular`](http://ctan.org/pkg/supertabular) package starts and stops a
 `tabular` environment for each page of the table.  As a
-result, each 'page worth' of the table is compiled independently, and
+result, each ''page worth'' of the table is compiled independently, and
 the widths of corresponding columns may differ on successive pages.
 However, if the correspondence doesn't matter, or if your columns are
 fixed-width, [`supertabular`](http://ctan.org/pkg/supertabular) has the great advantage of doing

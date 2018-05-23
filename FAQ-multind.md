@@ -49,7 +49,7 @@ documentation (unlike [`multind`](http://ctan.org/pkg/multind)).
 
 The [`index`](http://ctan.org/pkg/index) package provides a comprehensive set of indexing
 facilities, including a `\newindex` command that allows the
-definition of new styles of index.  `\newindex` takes a 'tag' (for
+definition of new styles of index.  `\newindex` takes a ''tag'' (for
 use in indexing commands), replacements for the `idx` and
 `ind` file extensions, and a title for the index when it's
 finally printed; it can also change the item that's being indexed

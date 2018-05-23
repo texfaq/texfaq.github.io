@@ -2,8 +2,8 @@
 
 While LaTeX (or any other TeX-derived package) isn't really like a
 compiler, people regularly want to do compiler-like things using it.
-Common requirements are conditional 'compilation' and 'block
-comments', and several LaTeX-specific means to this end are available.
+Common requirements are conditional ''compilation'' and ''block
+comments'', and several LaTeX-specific means to this end are available.
 
 The simple `\newcommand{`\gobble`}`[1]`{}` 
 and `\iffalse`` ... ``\fi` aren't really satisfactory (as
@@ -111,7 +111,7 @@ A significant development of [`version`](http://ctan.org/pkg/version), confusing
 that prints the included text, with a clear printed mark around it.
 
 [`optional`](http://ctan.org/pkg/optional) defines a command `\opt`; its first argument is
-an 'inclusion flag', and its second is text to be included or
+an ''inclusion flag'', and its second is text to be included or
 excluded.  Text to be included or excluded must be well-formed
 (nothing mismatched), and should not be too big&nbsp;&mdash; if a large body of
 text is needed, `\input` should be used in the argument.
@@ -148,7 +148,7 @@ environments named in its argument.  So, for example:
 The [`tagging`](http://ctan.org/pkg/tagging) package offers another neat set of syntax, which
 allow the user to apply ''tags'' to chunks of text, and to include and
 exclude tagged text, according to the tags.  For example, the user may
-'use' text marked with some tags, and to 'drop' marked with others:
+''use'' text marked with some tags, and to ''drop'' marked with others:
 ```latex
 \usetag{<tag list>}
 \droptag{<tag list>}
@@ -189,7 +189,7 @@ which will cause the package to produce a file `foobar.tex`
 containing all the `figure` and `table`
 environments, and the `\chapter` and `\section` commands, from
 the document being processed.  The new file `foobar.tex` is
-generated in the course of an otherwise ordinary run on the 'master'
+generated in the course of an otherwise ordinary run on the ''master''
 document.  The package provides a good number of other facilities,
 including (numeric or labelled) ranges of environments to extract, and
 an `extract` environment which you can use to create complete

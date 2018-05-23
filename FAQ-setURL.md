@@ -23,9 +23,9 @@ There are three packages that help solve this problem:
     LaTeX use.
 -  The [`url`](http://ctan.org/pkg/url) package, which defines an `\url` command
     (among others, including its own `\path` command).  The command
-    gives each potential break character a maths-mode 'personality', and
+    gives each potential break character a maths-mode ''personality'', and
     then sets the URL itself (in the user's choice of font) in
-    maths mode.  It can produce (LaTeX-style) 'robust' commands
+    maths mode.  It can produce (LaTeX-style) ''robust'' commands
     (see [use of `\protect`](./FAQ-protect.html)) for use
     within moving arguments.
   

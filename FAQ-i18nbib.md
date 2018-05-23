@@ -34,7 +34,7 @@ of the ''general'' problem are available&nbsp;&mdash; that offered by
 [`bibgerm`](http://ctan.org/pkg/bibgerm) package) co-operates with [`babel`](http://ctan.org/pkg/babel) to control
 the language of presentation of citations (potentially at the level of
 individual items).  The package has a built-in set of languages it
-'knows about', but the documentation includes instructions on defining
+''knows about'', but the documentation includes instructions on defining
 commands for other languages.  [`Babelbib`](http://ctan.org/pkg/Babelbib) comes with its own
 set of bibliography styles, which could be a restriction if there
 wasn't also a link from [`custom-bib`](http://ctan.org/pkg/custom-bib).

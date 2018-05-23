@@ -59,7 +59,7 @@ The [`multenum`](http://ctan.org/pkg/multenum) package offers a more regular for
 [`paralist`](http://ctan.org/pkg/paralist)'s `inparaenum`; you define a notional
 grid on which list entries are to appear, and list items will always
 appear at positions on that grid.  The effect is somewhat like that of
-the 'tab' keys on traditional typewriters; the package was designed
+the ''tab'' keys on traditional typewriters; the package was designed
 for example sheets, or lists of answers in the appendices of a book.
 
 The [`expdlist`](http://ctan.org/pkg/expdlist), [`mdwlist`](http://ctan.org/pkg/mdwlist) and [`paralist`](http://ctan.org/pkg/paralist)

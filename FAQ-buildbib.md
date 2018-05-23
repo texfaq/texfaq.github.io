@@ -24,7 +24,7 @@ publications in the same year.  So, for example, the Dyson, Eddington,
 Davidson paper about deflection of starlight appears in my
 experimental `bib` file as `Dyson20.1`.
 
-So, noting the rules of the style, you have 'simply' to write a
+So, noting the rules of the style, you have ''simply'' to write a
 bibliography database.  Fortunately, there are several tools to help
 in this endeavour:
   
@@ -41,7 +41,7 @@ in this endeavour:
   
 
     Tools such as `Xbibfile` (a graphical user interface),
-    `ebib` (a database application written to run 'inside'
+    `ebib` (a database application written to run ''inside''
     `emacs`) and 
     `btOOL` (a set of `perl` tools for building 
     BibTeX database handlers) are available from CTAN.

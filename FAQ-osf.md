@@ -11,8 +11,8 @@ above the x-height; sometimes 2 will also ascend (this last seems to
 be a variation associated with French typography).
 
 LaTeX provides a command `\oldstylenums{digits}`, which
-by default uses an old-style set embedded in Knuth's 'math italic'
-font.  The command is only sensitive to 'bold' of the font style of
+by default uses an old-style set embedded in Knuth's ''math italic''
+font.  The command is only sensitive to ''bold'' of the font style of
 surrounding text: glyphs (for this command) are only available to
 match the normal medium and bold (i.e., bold-extended) weights of the
 Computer Modern Roman fonts.

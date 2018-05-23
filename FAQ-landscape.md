@@ -56,7 +56,7 @@ facilities, in this respect, as does [`geometry`](http://ctan.org/pkg/geometry).
 A word of warning: most current TeX previewers do not honour
 rotation requests in DVI files.
 Your best bet is to convert your output to PostScript or to PDF, and
-to view these 'final' forms with an appropriate viewer.
+to view these ''final'' forms with an appropriate viewer.
 
 
 ----

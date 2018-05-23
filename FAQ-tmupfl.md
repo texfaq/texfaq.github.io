@@ -8,7 +8,7 @@ If LaTeX responds to a `\begin{figure}` or
 See the LaTeX manual or LaTeX Companion for explanation.
 ```
 your figures (or tables) are not being placed properly.  LaTeX
-has a limited amount of storage for 'floats' (figures, tables, or
+has a limited amount of storage for ''floats'' (figures, tables, or
 floats you've defined yourself with the [`float`](http://ctan.org/pkg/float) package); if
 something you have done has prevented LaTeX from typesetting
 floats, it will run out of storage space.

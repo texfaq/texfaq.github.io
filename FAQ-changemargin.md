@@ -17,8 +17,8 @@ even 11pt or 12pt) type because readers find such wide, dense, lines
 difficult to read.  There should ideally be no more than 75 characters
 per line (though the constraints change for two-column text).
 
-So Lamport's warning to beginners in his section on 'Customizing the
-Style'&nbsp;&mdash; ''don't do it''&nbsp;&mdash; should not lightly be ignored.
+So Lamport's warning to beginners in his section on ''Customizing the
+Style''&nbsp;&mdash; ''don't do it''&nbsp;&mdash; should not lightly be ignored.
 
 This set of FAQs recommends that you use a package to establish
 consistent settings of the parameters: the interrelationships are

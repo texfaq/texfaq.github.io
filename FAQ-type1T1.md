@@ -1,7 +1,7 @@
-# Finding '8-bit' Type&nbsp;1 fonts
+# Finding ''8-bit'' Type&nbsp;1 fonts
 
 Elsewhere, answers to these FAQs recommend that you use an
-'8-bit' font to permit 
+''8-bit'' font to permit 
 [accentuation of inflected languages](./FAQ-hyphenaccents.html),
 and also recommend the use of Type&nbsp;1 fonts to ensure that
 you get [good quality PDF](./FAQ-fuzzy-type3.html).  These
@@ -63,7 +63,7 @@ selected from a font, the arrangement is sufficient to fool
 facilities for searching for text that contains inflected characters,
 and if you _cut_ text from a window that contains such a
 character, you'll find something unexpected (typically the accent and
-the 'base' characters separated by a space) when you `paste`
+the ''base'' characters separated by a space) when you `paste`
 the result.  However, if you can live with this difficulty, virtual
 fonts are a useful and straightforward solution to the problem.
 

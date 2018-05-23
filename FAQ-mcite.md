@@ -18,8 +18,8 @@ with ''ordinary'' ones, as in
 \cite{paper0,paper1,*paper2,paper3}
 ```
 Which will appear in the document as 3&nbsp;citations ''[4,7,11]''
-(say)&nbsp;&mdash; citation '4' will refer to paper&nbsp;0, '7' will refer to a
-combined entry for paper&nbsp;1 and paper&nbsp;2, and '11' will refer to
+(say)&nbsp;&mdash; citation ''4'' will refer to paper&nbsp;0, ''7'' will refer to a
+combined entry for paper&nbsp;1 and paper&nbsp;2, and ''11'' will refer to
 paper&nbsp;3.
 
 You need to make a small change to the bibliography style
@@ -33,7 +33,7 @@ support for combined citations and so no longer even need
 work with many other class and package combinations).
 
 The [`mciteplus`](http://ctan.org/pkg/mciteplus) package adresses many of the infelicites of
-[`mcite`](http://ctan.org/pkg/mcite).  Again, 'ordinary' `bst` files will not
+[`mcite`](http://ctan.org/pkg/mcite).  Again, ''ordinary'' `bst` files will not
 work with [`mciteplus`](http://ctan.org/pkg/mciteplus), but the package documentation explains
 how to patch an existing BibTeX style.
 

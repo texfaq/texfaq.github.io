@@ -15,7 +15,7 @@ To suppress the footnote in headings and table of contents:
   
 
 -  Take advantage of the fact that the mandatory argument doesn't
-    'move' if the optional argument is present:
+    ''move'' if the optional argument is present:
   
 
     `\section[title]`

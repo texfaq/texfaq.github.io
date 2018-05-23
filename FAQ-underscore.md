@@ -10,7 +10,7 @@ underscore characters, the prospect of typing `\_` for every one
 of them will daunt most ordinary people.
 
 Moderately skilled macro programmers can readily generate a quick hack
-to permit typing `_` to mean 'text underscore' (the answer in
+to permit typing `_` to mean ''text underscore'' (the answer in
   ''[defining characters as macros](./FAQ-activechars.html)''
 uses this example to illustrate its techniques).
 However, the code _is_ somewhat tricky, and more importantly

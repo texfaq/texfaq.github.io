@@ -46,7 +46,7 @@ mark&nbsp;ii or mark&nbsp;iv ConTeXt.
 
 Note that CTAN does _not_ hold the primary distribution of
 ConTeXt&nbsp;&mdash; potential users should refer to
-[ConTeXt 'garden' site](http://ConTeXtgarden.net) for details
+[ConTeXt ''garden'' site](http://ConTeXtgarden.net) for details
 of the
 current distribution.  CTAN holds a copy of ConTeXt but
 makes no claim about its ''up-to-date''ness.  Likewise, CTAN

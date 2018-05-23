@@ -72,8 +72,8 @@ Documentation within the package itself is the third common form.
 Such documentation ordinarily appears in comments at the head of the
 file, though at least one eminent author regularly places it after the
 `\endinput` command in the package.  (This is desirable, since
-`\endinput` is a 'logical' end-of-file, and (La)TeX doesn't read
-beyond it: thus such documentation does not 'cost' any package loading time.)
+`\endinput` is a ''logical'' end-of-file, and (La)TeX doesn't read
+beyond it: thus such documentation does not ''cost'' any package loading time.)
 
 The above suggestions cover most possible ways of finding
 documentation.  If, despite your best efforts, you can't find

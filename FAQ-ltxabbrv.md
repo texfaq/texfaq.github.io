@@ -18,7 +18,7 @@ doesn't help, try the LaTeX source.  The table lists each
 abbreviation's _name_ and its _value_, which provide most of
 what a user needs to know.  The table also lists the abbreviation's
 _type_, which is a trickier concept: if you need to know, the
-only real confusion is that the abbreviations labelled 'defn' are
+only real confusion is that the abbreviations labelled ''defn'' are
 defined using an `_xxxx_def` command.
 
 <table><tbody>

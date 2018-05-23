@@ -1,7 +1,7 @@
 # Better script fonts for maths
 
-The font selected by `\mathcal` is the only script font 'built
-in'. However, there are other useful calligraphic fonts included with
+The font selected by `\mathcal` is the only script font ''built
+in''. However, there are other useful calligraphic fonts included with
 modern TeX distributions.
 
 - Euler The [`eucal`](http://ctan.org/pkg/eucal) package (part of most sensible TeX

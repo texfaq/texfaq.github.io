@@ -1,7 +1,7 @@
 # Comparing the ''job name''
 
 The token `\jobname` amusingly produces a sequence of characters
-whose category code is 12 ('other'), regardless of what the characters
+whose category code is 12 (''other''), regardless of what the characters
 actually are.  Since one inevitably has to compare a macro with the
 contents of another macro (using `\ifx`, somewhere) one needs to
 create a macro whose expansion looks the same as the expansion of

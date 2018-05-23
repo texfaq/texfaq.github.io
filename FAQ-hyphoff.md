@@ -12,7 +12,7 @@ suppressing hyphenation (there were only two prior to the extensions
 that arrived with TeX version&nbsp;3).
 
 First, one can set the hyphenation penalties `\hyphenpenalty` and
-`\exhyphenpenalty` to an 'infinite' value (that is to say, 10000).
+`\exhyphenpenalty` to an ''infinite'' value (that is to say, 10000).
 This means that all hyphenations will sufficiently penalise the line
 that would contain them, that the hyphenation won't happen.  The
 disadvantage of this method is that TeX will re-evaluate any
@@ -72,7 +72,7 @@ wrapping overfull lines and stretching the remainder.
 
 The better bet is to set the text [ragged right](./FAQ-ragright.html),
 and at least get rid of the overfull lines; this technique is
-'traditional' (in the sense that typists have always done it) and may
+''traditional'' (in the sense that typists have always done it) and may
 be expected to 
 appeal to the specifiers of eccentric document layouts (such as those
 for dissertations), but for once their sense conforms with typographic

@@ -12,17 +12,17 @@ Modern TeX implementations come with a bunch of search paths
 built in to them.  In most circumstances these paths are adequate, but
 one sometimes needs to extend them to pick up files in strange
 places: for example, we may wish to try a new bundle of packages
-before [installing them 'properly'](./FAQ-installthings.html).  To do
+before [installing them ''properly''](./FAQ-installthings.html).  To do
 this, we need to change the relevant path as TeX perceives it.
 However, we don't want to throw away TeX's built-in path (all of a
 sudden, TeX won't know how to deal with all sorts of things).
 
 To _extend_ a TeX path, we define an operating system
-environment variable in 'path format', but leaving a gap which TeX
+environment variable in ''path format'', but leaving a gap which TeX
 will fill with its built-in value for the path.  The commonest case is
 that we want to place our extension in front of the path, so that our
-new things will be chosen in preference, so we leave our 'gap to be
-filled' at the end of the environment variable.  The syntax is simple
+new things will be chosen in preference, so we leave our ''gap to be
+filled'' at the end of the environment variable.  The syntax is simple
 (though it depends which shell you're actually using): so on a
 Unix-like system, using the `bash` shell, the job might be
 done like:

@@ -36,7 +36,7 @@ by packages on CTAN, with a wild-card `other-free`
 which covers packages that the CTAN administrators believe to
 be free even though the authors haven't used a standard licence.)
 
-There is a corollary to the 'general rule': if you notice something
+There is a corollary to the ''general rule'': if you notice something
 that ought to be in the distributions, for which there is no catalogue
 entry, please let the CTAN team (<a href="mailto:ctan@dante.de">ctan@dante.de</a>) know.
 It may well be that the package has simply been missed, but some aren't

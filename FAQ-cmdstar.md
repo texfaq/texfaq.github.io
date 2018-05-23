@@ -20,7 +20,7 @@ various tiresome failure modes, and it requires `\mycommandnostar`
 to take an argument.
 
 The LaTeX kernel does a lot of this, and has its own command,
-`ifstar` (which needs 'internal command protection', cf.
+`ifstar` (which needs ''internal command protection'', cf.
 <!-- {% raw %} -->
 ```latex
 \makeatletter

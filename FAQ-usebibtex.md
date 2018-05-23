@@ -8,7 +8,7 @@ First: you need a BibTeX bibliography file (a `bib`
 file)&nbsp;&mdash; see [''creating a BibTeX file''](./FAQ-buildbib.html).
 
 Second: you must write your LaTeX document to include a declaration
-of the 'style' of bibliography, citations, and a reference to the
+of the ''style'' of bibliography, citations, and a reference to the
 bibliography file mentioned above.  So we may have a LaTeX
 file containing:
 ```latex

@@ -4,7 +4,7 @@ Bibliographies are, in fact, implemented as lists, so all the
 confusion about [reducing list item spacing](./FAQ-complist.html) also
 applies to bibliographies.
 
-If the [`natbib`](http://ctan.org/pkg/natbib) package 'works' for you (it may not if you are using
+If the [`natbib`](http://ctan.org/pkg/natbib) package ''works'' for you (it may not if you are using
 some special-purpose bibliography style), the solution is relatively
 simple&nbsp;&mdash; add
 ```latex

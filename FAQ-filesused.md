@@ -43,7 +43,7 @@ document; it comes with configuration files for use with
 TeX&nbsp;Live-`Unix` and `MiKTeX`.  It's plainly useful when
 you're sending the first copy of a document.
 
-The `mkjobtexmf` finds which files are used in a 'job',
+The `mkjobtexmf` finds which files are used in a ''job'',
 either via the `-recorder` option of TeX, or by using the
 (Unix) command `strace` to keep an eye on what TeX is
 doing.  The files thus found are copied (or linked) to a directory

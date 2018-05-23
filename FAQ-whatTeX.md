@@ -18,7 +18,7 @@ Knuth produced a second version (in 1982) which is the basis of what
 we use today.
 
 Knuth developed a system of 
-'[literate programming](./FAQ-lit.html)' to write TeX,
+''[literate programming](./FAQ-lit.html)'' to write TeX,
 and he provides the literate (WEB) source of TeX free of charge,
 together with tools for processing the `web` source into something
 that can be compiled and something that can be printed; there is (in
@@ -34,7 +34,7 @@ fascination: it's nothing like the way one would construct such a
 program nowadays, yet it has lasted better than most, and has been
 ported to many different computer architectures and operating
 systems&nbsp;&mdash; the sorts of attributes that much modern programming
-practice aims for.  The processed 'readable' source of TeX the
+practice aims for.  The processed ''readable'' source of TeX the
 program may be found in the 
   [TDS structured](./FAQ-tds.html) version of the distribution.
 

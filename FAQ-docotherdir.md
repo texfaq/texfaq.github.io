@@ -41,7 +41,7 @@ each of which takes directory and file arguments, e.g.:
 ```latex
 \cfpart[pt 1]{Part One}{part1}{part}
 ```
-which command will issue a 'normal' command 
+which command will issue a ''normal'' command 
 `\part[pt 1]{Part One}` and then input the file
 `part1/part.tex`, remembering that `part1/` is now the
 ''current folder''.  There are also commands of the form

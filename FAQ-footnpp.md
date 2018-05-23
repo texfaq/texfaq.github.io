@@ -5,7 +5,7 @@ page number is stepped, using the
 [LaTeX internal mechanism](./FAQ-addtoreset.html).  Sadly, the place
 in the document where the page number is stepped is unpredictable, not
 (''tidily'') at the end of the printed page; so changing the footnote
-number only ever works by 'luck'.
+number only ever works by ''luck''.
 
 As a result, resetting footnotes is inevitably a complicated process,
 using labels of some sort.  It's nevertheless important, given the

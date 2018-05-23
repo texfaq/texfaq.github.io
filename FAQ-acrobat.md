@@ -1,7 +1,7 @@
 # Making PDF documents from (La)TeX
 
 There are three general routes to PDF output: Adobe's original
-'distillation' route (via PostScript output), direct conversion of a
+''distillation'' route (via PostScript output), direct conversion of a
 DVI file, and the use of a direct TeX-like PDF
 generator such as [pdfTeX](./FAQ-whatpdftex.html).
 

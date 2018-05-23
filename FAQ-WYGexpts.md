@@ -42,7 +42,7 @@ screen.
 A different type of tool focuses on making update and access to
 previews of the typeset document more immediate.  A recent addition
 in several viewers, editors and TeX executables are so-called
-'source specials' for cross-navigation.  When TeX compiles a
+''source specials'' for cross-navigation.  When TeX compiles a
 document, it will upon request insert special markers for every input
 line into the typeset output.  The markers are interpreted by the DVI
 previewer which can be made to let its display track the page

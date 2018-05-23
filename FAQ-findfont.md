@@ -22,14 +22,14 @@ you are using; roughly speaking:
 -  MetaFont fonts will work without much fuss (provided their
     sources are in the correct place in the installation's tree);
     TeX-with-`dvips`, and pdfTeX are ''happy'' with them.
-    While a new font will need 'generating' (by running MetaFont, etc.),
+    While a new font will need ''generating'' (by running MetaFont, etc.),
     distributions are set up to do that ''on the fly'' and to save the
     results (for next time).
 -  Adobe Type 1 fonts can be made to work, after `tfm`
     and (usually) `vf` files have been created from their
     metric (`afm`) files; `map` files also need to
     be created.  Such fonts will work with pdfTeX, and with the
-    ('vanilla')(La)TeX and `dvips` combination.
+    (''vanilla'')(La)TeX and `dvips` combination.
 -  TrueType fonts can be made to work with pdfTeX&nbsp;&mdash; see
   [Using TrueType fonts with TeX&hellip;](http://www.radamir.com/tex/ttf-tex.htm)
     (a rather dated document, dicsussing use with MiKTeX&nbsp;1.11).

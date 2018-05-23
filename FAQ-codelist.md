@@ -1,6 +1,6 @@
 # Code listings in LaTeX
 
-'Pretty' code listings are sometimes considered worthwhile by the
+''Pretty'' code listings are sometimes considered worthwhile by the
 ''ordinary'' programmer, but they have a serious place in
 the typesetting of dissertations by computer science and other
 students who are expected to write programs.  Simple verbatim listings
@@ -77,7 +77,7 @@ though such usage is likely to require that
 
 On a rather different path, the package [`showexpl`](http://ctan.org/pkg/showexpl) supports
 typesetting (La)TeX code and its typeset output, in parallel
-'panes'.  (Thiscould provide support for (La)TeX instruction texts,
+''panes''.  (Thiscould provide support for (La)TeX instruction texts,
 or for papers in TeX user group publications.  The package uses
 [`listings`](http://ctan.org/pkg/listings) for its (La)TeX pane, and typesets the result
 into a simple box, for the other pane.

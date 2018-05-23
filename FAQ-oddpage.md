@@ -25,7 +25,7 @@ output of `\pageref`; be careful!
 
 The [`changepage`](http://ctan.org/pkg/changepage) package needs to provide this functionality
 for its own use, and therefore provides a command `\checkoddpage`;
-this sets a private-use 'label', and the page reference part of that
+this sets a private-use ''label'', and the page reference part of that
 label is then examined (in a [`hyperref`](http://ctan.org/pkg/hyperref)-safe way) to set a
 conditional `\ifoddpage` true if the command was issued on an odd
 page.  (The [`memoir`](http://ctan.org/pkg/memoir) class has the same command.)  LaTeX
@@ -38,7 +38,7 @@ the [`ifthen`](http://ctan.org/pkg/ifthen) package:
 \ifthenelse{\boolean{oddpage}}{<odd page stuff>}{<even page stuff>}
 ```
 
-Of course, the 'label' contributes to LaTeX's ''Rerun to get
+Of course, the ''label'' contributes to LaTeX's ''Rerun to get
 cross-references right'' error messages&hellip;
 
 The Koma-Script classes have an `addmargin*` environment
@@ -50,7 +50,7 @@ executes different things depending on the page number.
 The package [`ifoddpage`](http://ctan.org/pkg/ifoddpage) is designed to provide the same
 facility; crucially, it can behave ''sensibly'' even if you are
 typesetting for one-side printing only; like the [`changepage`](http://ctan.org/pkg/changepage)
-it uses a 'check' command `\checkoddpage`.  The conditional 'side'
+it uses a ''check'' command `\checkoddpage`.  The conditional ''side''
 flags are set using (Plain) TeX conditionals; they are defined
 locally, so that you can minimise their use of TeX workspace&nbsp;&mdash;
 see the package documentation for the somewhat tricky sequence

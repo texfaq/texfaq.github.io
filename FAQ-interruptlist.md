@@ -1,6 +1,6 @@
 # Interrupting enumerated lists
 
-It's often convenient to have commentary text, 'outside' the list,
+It's often convenient to have commentary text, ''outside'' the list,
 between successive entries of a list.  In the case of
 `itemize` lists this is no problem, since there's never
 anything to distinguish successive items, while in the case of
@@ -121,7 +121,7 @@ of lists:
 % end outer enumerate
 \end{enumerate}
 ```
-However, the 'nested comment' interpolated in the nested enumeration
+However, the ''nested comment'' interpolated in the nested enumeration
 appears as if it were a second paragraph to ''outer item 2'', which is
 hardly satisfactory.
 

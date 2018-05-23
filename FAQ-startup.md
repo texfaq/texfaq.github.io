@@ -3,7 +3,7 @@
 (La)TeX offers a very large number of choices, and the beginner has
 to navigate through that set before even taking his first steps.  The
 aim here is to guide the beginner through a set of answers that may
-help the process.  We assume the beginner 'knows' that (La)TeX is
+help the process.  We assume the beginner ''knows'' that (La)TeX is
 for them; if not, the discussion ''[what is TeX](./FAQ-whatTeX.html)''
 may help.
 

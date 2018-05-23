@@ -1,6 +1,6 @@
 # Parallel setting of text
 
-It's commonly necessary to present text in two languages 'together' on a
+It's commonly necessary to present text in two languages ''together'' on a
 page, or on a two-page spread.  For this to be satisfactory, one usually
 needs some sort of alignment between the two texts.
 
@@ -47,7 +47,7 @@ The [`ledpar`](http://ctan.org/pkg/ledpar) package is distributed with (and inte
 the [[`ledmac`](http://ctan.org/pkg/ledmac) package](./FAQ-linenos.html).  It provides parallel
 setting carefully integrated with the needs of a scholarly text,
 permitting translation, or notes, or both, to be set in parallel with
-the 'base' text of the document.
+the ''base'' text of the document.
 
 
 ----

@@ -35,7 +35,7 @@
 
   -  Convert LaTeX to `OpenOffice` format, using the
       `tex4ht` command `oolatex`;
-  -  open the result in `OpenOffice` and 'save as' a
+  -  open the result in `OpenOffice` and ''save as'' a
       MS-Word document.
 
   (Note that `OpenOffice` itself is _not_ on

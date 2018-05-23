@@ -2,7 +2,7 @@
 
 Sometimes, when you are running (La)TeX, it will abruptly stop and
 present you with a prompt (by default, just a `*` character).  Many
-people (including this author) will reflexively hit the 'return'
+people (including this author) will reflexively hit the ''return''
 key, pretty much immediately, and of course this is no help at all&nbsp;&mdash;
 TeX just says:
 ```latex
@@ -37,7 +37,7 @@ If you can persuade TeX to read it, an end-of-file indication
 (control-`D` under Unix, control-`Z` under Windows) will provoke
 TeX to report an error and exit immediately.  Otherwise you should
 attempt to provoke an error dialogue, from which you can exit (using
-the `x` 'command').  An accessible error could well be inserting an
+the `x` ''command'').  An accessible error could well be inserting an
 illegal character: what it is will depend on what macros you are
 running.  If you can't make that work, try a silly command name or
 two.

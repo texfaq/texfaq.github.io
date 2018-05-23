@@ -15,7 +15,7 @@ by
   [Thierry Bouche in TUGboat 19(2)](http://tug.org/TUGboat/Articles/tb19-2/tb59bouc.pdf)).
 There are several options available, which are
 based on Knuth's original designs.  Others complement other
-commercial and free text font designs; one set (MicroPress's 'informal math')
+commercial and free text font designs; one set (MicroPress's ''informal math'')
 stands alone.
 
 Users should also consider the possibilities of typesetting
@@ -120,7 +120,7 @@ Users should also consider the possibilities of typesetting
   be done'').
 
   The paper outlining Kinch's thoughts, proceeding from considerations
-  of the 'intellectual' superiority of MetaFont to evaluations of why its
+  of the ''intellectual'' superiority of MetaFont to evaluations of why its
   adoption is so limited and what might be done about the problem, is
   to be found at [http://truetex.com/belleek.pdf]
 
@@ -245,7 +245,7 @@ commercially, include:
 - Informal Math(7 outline fonts) MicroPress Inc.
 
   Informal Math is a family of fanciful fonts loosely based on the
-  Adobe's Tekton (TM) family, fonts which imitate handwritten
+  Adobe''s Tekton (TM) family, fonts which imitate handwritten
   text.  Informal Math comprises the fonts necessary for
   mathematical typesetting (maths italic, maths symbols and extensions)
   in normal weight, as well as OT1 encoded text fonts in
@@ -259,15 +259,15 @@ commercially, include:
   Kris Holmes
 
   Lucida is a family of related fonts including seriffed, sans serif,
-  sans serif fixed width, calligraphic, blackletter, fax, Kris Holmes'
-  connected handwriting font, etc; they're not as 'spindly' as
+  sans serif fixed width, calligraphic, blackletter, fax, Kris Holmes''
+  connected handwriting font, etc; they're not as ''spindly'' as
   Computer Modern, with a large x-height, and include a larger set of
   maths symbols, operators, relations and delimiters than CM
   (over 800 instead of 384: among others, it also includes the
-  AMS `msam` and `msbm` symbol sets).  'Lucida
-  Bright Expert' 
+  AMS `msam` and `msbm` symbol sets).  ''Lucida
+  Bright Expert'' 
   (14 fonts) adds seriffed fixed width, another handwriting font,
-  smallcaps, bold maths, upright 'maths italic', etc., to the
+  smallcaps, bold maths, upright ''maths italic'', etc., to the
   set.  Support under LaTeX is available under the auspices of the
   PSNFSS, and pre-built metrics are also provided.
 
@@ -393,7 +393,7 @@ working on them, and several problems have been identified:
       substitutes for Times, which is distributed as part of the
       URW ''basic 35'' collection) with
       modified plus, equal and slash symbols;
-  -  matching sets of sans serif and monospace ('typewriter')
+  -  matching sets of sans serif and monospace (''typewriter'')
       fonts (the sans serif set is based on `Adobe` `Helvetica`);
   -  maths alphabets using Adobe `Times`, or the URW
       equivalent `NimbusRomanNo9`;
@@ -459,12 +459,12 @@ Adobe, Monotype and Bitstream.  However, be careful with cheap font
 (or crippling) parts of the font programs such as hinting.  Such
 behaviour is both unethical and bad for the consumer.
 The fonts may not render well (or at all, under ATM), may not have the
-'standard' complement of 228 glyphs, or may not include metric files
+''standard'' complement of 228 glyphs, or may not include metric files
 (which you need to make TFM files).
 
 TrueType was for a long time the ''native'' format for Windows, but
 MicroSoft joined the development of the OpenType specification, and
-'modern' windows will work happily with fonts in either format.  Some TeX
+''modern'' windows will work happily with fonts in either format.  Some TeX
 implementations such as [TrueTeX](./FAQ-commercial.html) use TrueType
 versions of Computer Modern and Times Maths fonts to render TeX
 documents in Windows without the need for additional system software like

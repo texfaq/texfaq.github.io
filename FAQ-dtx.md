@@ -6,7 +6,7 @@ documentation in the
 same file.  This format in fact originated before the
 days of the LaTeX project as one of the ''Mainz'' series of
 packages.  A documented source file conventionally has the suffix
-`dtx`, and will normally be 'stripped' before use with
+`dtx`, and will normally be ''stripped'' before use with
 LaTeX; an installation (`ins`) file is normally provided,
 to automate this process of removing comments for speed of loading.
 If the `ins` file is available, you may process _it_
@@ -25,7 +25,7 @@ Codelines passed: 972
 ```
 The lines `Processing ... ended by \endinput` may
 be repeated if the `dtx` file provides more than one
-'unpacked' file.
+''unpacked'' file.
 
 To read the comments ''as a document'', you can run LaTeX on the
 `dtx` file to produce a nicely formatted version of the
@@ -60,7 +60,7 @@ HTML output; it is often quite difficult to make
 with `dtx` files, since they use an unusual class file.
 
 The `sty2dtx` system goes one step further: it attempts to
-create a `dtx` file from a 'normal' `sty` file
+create a `dtx` file from a ''normal'' `sty` file
 with comments.  It works well, in some circumstances, but can become
 confused by comments that aspire to ''structure'' (e.g., tabular
 material, as in many older packages' file headers).

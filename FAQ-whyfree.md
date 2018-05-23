@@ -6,7 +6,7 @@ nevertheless apparently happy that others should earn money by selling
 TeX-based services and products. While several valuable
 TeX-related tools and packages are offered subject to restrictions
 imposed by the GNU General Public Licence (GPL,
-sometimes referred to as 'Copyleft'), which denies the right to
+sometimes referred to as ''Copyleft''), which denies the right to
 commercial exploitation.  TeX itself is offered under a pretty
 permissive licence of Knuth's own.
 
@@ -17,7 +17,7 @@ have features that are not available in free versions.  (The
 reverse is also true: some free implementations have features
 not available commercially.)
 
-This FAQ concentrates on 'free' distributions of TeX, but we
+This FAQ concentrates on ''free'' distributions of TeX, but we
 do at least list the [major vendors](./FAQ-commercial.html).
 
 

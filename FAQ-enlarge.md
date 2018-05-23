@@ -1,6 +1,6 @@
 # Enlarging TeX
 
-The TeX error message 'capacity exceeded' covers a multitude of
+The TeX error message ''capacity exceeded'' covers a multitude of
 problems.  What has been exhausted is listed in brackets after the
 error message itself, as in:
 ```latex

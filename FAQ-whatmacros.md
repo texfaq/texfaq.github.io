@@ -8,7 +8,7 @@ generation one might expect.
 
 Macros are a _good thing_, since they allow the user to
 manipulate documents according to context.  For example, the macro
-`\TeX` is usually defined to produce ''TEX'' with the 'E' lowered
+`\TeX` is usually defined to produce ''TEX'' with the ''E'' lowered
 (the original idea was Knuth's),
 but in these FAQs the default definition of the macro is
 overridden, and it simply expands to the letters ''TeX''.  (_You_

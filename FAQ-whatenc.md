@@ -2,7 +2,7 @@
 
 Let's start by defining two concepts, the _character_ and the
 _glyph_.
-The character is the abstract idea of the 'atom' of a
+The character is the abstract idea of the ''atom'' of a
 language or other dialogue: so it might be a letter in an alphabetic
 language, a syllable in a syllabic language, or an ideogram in an
 ideographic language.  The glyph is the mark created on screen or

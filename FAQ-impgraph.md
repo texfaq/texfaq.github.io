@@ -12,7 +12,7 @@ means of
 
 There is therefore a straightforward way for anyone to import graphics
 into their document: read the specification of the `\special`
-commands your driver uses, and 'just' code them.  This is the
+commands your driver uses, and ''just'' code them.  This is the
 hair-shirt approach: it definitely works, but it's not for everyone.
 
 Over the years, therefore, ''graphics inclusion'' packages have sprung

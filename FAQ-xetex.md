@@ -2,7 +2,7 @@
 
 [XeTeX](http://scripts.sil.org/xetex), by Jonathan Kew, is a
 successor to the shareware TeX/GX program for Macintoshes.  It was
-developed as a WEB 'change file' applied to the original source
+developed as a WEB ''change file'' applied to the original source
 of TeX; the main changes include:
 
 - The input stage XeTeX by default reads Unicode (UTF-8, for
@@ -18,7 +18,7 @@ of TeX; the main changes include:
 - The maths font set up XeTeX introduces new primitives for
   extending the `\mathcode` and `\mathchardef` commands in TeX,
   allowing the user to specify characters in the whole Unicode set and
-  in 256 'math families' (TeX only has 16, which limits some maths
+  in 256 ''math families'' (TeX only has 16, which limits some maths
   coding techniques).
 - ''Post-processing'' features (A) XeTeX links to the
   `teckit` library so it can apply a `map` file

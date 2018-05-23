@@ -10,8 +10,8 @@ class to define new entry types, etc.
 
 Didier Verna's class, [`curve`](http://ctan.org/pkg/curve), is based on a model in which
 the CV is made of a set of _rubrics_ (each one dealing
-with a major item that you want to discuss, such as 'education', 'work
-experience', etc).  The class's documentation is supported by a couple
+with a major item that you want to discuss, such as ''education'', ''work
+experience'', etc).  The class's documentation is supported by a couple
 of example files, and an emacs mode is provided.
 
 Xavier Danaux offers a class [`moderncv`](http://ctan.org/pkg/moderncv) which supports

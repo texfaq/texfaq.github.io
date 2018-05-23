@@ -23,12 +23,12 @@ which will look like:
 so it is a particularly simple example.  A rather complicated
 environment is introduced by `\begin{document}`; it looks
 simple, but needs all sorts of special TeX code to make it work
-'transparently'; most environments are more elaborate than
+''transparently''; most environments are more elaborate than
 `monoblock` and _much_ simpler than
 `document`.
 
 An environment puts its content inside a TeX _group_, so that
-commands used inside the environment don't 'leak out'&nbsp;&mdash; the
+commands used inside the environment don't ''leak out''&nbsp;&mdash; the
 `monoblock` environment, above, restricts its effect to
 its own contents (the stuff between the `\begin{monoblock}`
 and `\end{monoblock}`), which is just what you need for this

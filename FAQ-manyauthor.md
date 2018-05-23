@@ -26,8 +26,8 @@ name separator.  The output of the above might be something like:
 ```latex
 John P. Doe \& Another Idiot Fred Q. Bloggs
 ```
-because ''John P. Doe & Another Idiot has become the 'first name',
-while ''Fred Q. Bloggs'' has become the 'last name' of a single
+because ''John P. Doe & Another Idiot has become the ''first name'',
+while ''Fred Q. Bloggs'' has become the ''last name'' of a single
 person.  The example should have been written:
 <!-- {% raw %} -->
 ```latex

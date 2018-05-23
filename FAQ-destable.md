@@ -16,7 +16,7 @@ addressed in several packages&nbsp;&mdash; see
 
 The argument about rules is presented in the excellent essay that
 prefaces the documentation of Simon Fear's [`booktabs`](http://ctan.org/pkg/booktabs) package,
-which (of course) implements Fear's scheme for 'comfortable' rules.
+which (of course) implements Fear's scheme for ''comfortable'' rules.
 (The same rule commands are implemented in the [`memoir`](http://ctan.org/pkg/memoir) class.)
 
 Lamport's LaTeX was also inflexibly wrong in ''insisting'' that

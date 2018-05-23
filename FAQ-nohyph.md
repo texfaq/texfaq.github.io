@@ -1,6 +1,6 @@
 # My words aren't being hyphenated
 
-Let's assume you've selected the right TeX 'language'&nbsp;&mdash; as
+Let's assume you've selected the right TeX ''language''&nbsp;&mdash; as
 explained in [''how hyphenation works''](./FAQ-hyphen.html),
 you're not likely to get the correct results typesetting one language
 using the hyphenation rules of another.  (Select the proper language,
@@ -53,7 +53,7 @@ argument&nbsp;&mdash; `\hyphenation{ana-lysis pot-able}`; note that
 (as here, for analysis) you can use the command to overrule TeX's
 choice of hyphenation (ana-lysis is the British etymological
 hyphenation; some feel the American hyphenation feels
-'unfortunate'&hellip;).
+''unfortunate''&hellip;).
 
 
 ----

@@ -3,7 +3,7 @@
 The `msx` and `msy` fonts were designed by the
 American Mathematical Society in the very early days of TeX, for
 use in typesetting papers for mathematical journals.  They were
-designed using the 'old' MetaFont, which wasn't portable and is no longer
+designed using the ''old'' MetaFont, which wasn't portable and is no longer
 available; for a long time they were only available in 300dpi versions
 which only imperfectly matched modern printers.  The AMS has
 now redesigned the fonts, using the current version of MetaFont, and the

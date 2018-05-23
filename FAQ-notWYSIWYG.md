@@ -36,7 +36,7 @@ in the background typesetting the result.  VorTeX was quite
 impressive for its time, but the two workstations combined had hugely
 less power than the average sub-thousand-dollar Personal Computer
 nowadays, and its code has not proved portable (it never even made the
-last 'great' TeX version change, at the turn of the 1990s, to
+last ''great'' TeX version change, at the turn of the 1990s, to
 TeX version 3).
 
 Lightning Textures (an extension of Blue Sky's original TeX system

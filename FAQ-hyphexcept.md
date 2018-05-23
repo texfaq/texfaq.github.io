@@ -22,7 +22,7 @@ write:
 ```
 and the hyphenation would be set for the whole document.  Barbara
 Beeton publishes articles containing lists of these ''hyphenation
-exceptions'', in _TUGboat_; the hyphenation 'man-u-script'
+exceptions'', in _TUGboat_; the hyphenation ''man-u-script''
 comes from one of those articles.
 
 What if you have more than one language in your document?  Simple:
@@ -45,7 +45,7 @@ tells us that the hyphenation is ''improper'', and that it will be ''flushed''.
 But, just as hyphenation of words is enabled by selecting an 8-bit
 font encoding, so `\hyphenation` commands are rendered proper again
 by selecting that same 8-bit font encoding.  For the hyphenation
-patterns provided for 'legacy', the encoding is
+patterns provided for ''legacy'', the encoding is
 [Cork](./FAQ-ECfonts.html), so the complete sequence is:
 ```latex
 \usepackage[T1]{fontenc}

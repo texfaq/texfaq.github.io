@@ -7,8 +7,8 @@ access to bold chalk, so they invented special symbols that are now
 often used for the number sets.  Such symbols are known as
 ''blackboard bold'' (or double-stroked) letters; in place of the heavier
 strokes of a bold font, (some) strokes of the letters are doubled.
-The minimum useful set is upper-case letters 'I', 'N', 'R', 'Q' and
-'Z'; some fonts offer a figure '1' (for a unit matrix&nbsp;&mdash; not a number
+The minimum useful set is upper-case letters ''I'', ''N'', ''R'', ''Q'' and
+''Z''; some fonts offer a figure ''1'' (for a unit matrix&nbsp;&mdash; not a number
 set at all).
 
 A set of blackboard bold capitals is available in the AMS
@@ -30,7 +30,7 @@ the font source directory also contains sources for a LaTeX package
 that enables use of the fonts.  The fonts are not available in Type&nbsp;1 format.
 
 The `bbm` family claims to provide
-'blackboard' versions of most of the `cm` fonts&nbsp;&hellip; including
+''blackboard'' versions of most of the `cm` fonts&nbsp;&hellip; including
 the bold and bold-extended series.  Again, the fonts are designed in
 MetaFont and are not available in Type&nbsp;1 format.  LaTeX macro support
 comes from a package by Torsten Hilbrich.
@@ -38,7 +38,7 @@ comes from a package by Torsten Hilbrich.
 The `doublestroke` family comes in just roman
 and sans shapes, at a single weight, and is available both as MetaFont
 sources and as Type&nbsp;1; the font covers the uppercase latin letters,
-lowercase 'h' and 'k', and the digit '1'.
+lowercase ''h'' and ''k'', and the digit ''1''.
 
 A document that shows the `bbm`, `bbold`,
 `doublestroke` and `msbm` fonts, so that you can get
@@ -48,7 +48,7 @@ a feel for their appearance, is available (CTAN package
 The [`boondox`](http://ctan.org/pkg/boondox) font set consists of Type&nbsp;1 versions of the
 STIX mathematics set (the originals are distributed in
 OTF format).  The set contains a font
-'BOONDOXDoubleStruck-Regular' (blackboard bold) (as well as a 'bold'
+''BOONDOXDoubleStruck-Regular'' (blackboard bold) (as well as a ''bold''
 version of that.
 
 An alternative source of Type&nbsp;1 fonts with blackboard bold characters
@@ -63,7 +63,7 @@ revised versions of the fonts, `newtx` and `newpx`
 are better adjusted.  The `mathpazo` family includes a
 ''mathematically significant'' choice of blackboard bold characters, and the
 `fourier` fonts contain blackboard bold upper-case letters,
-the digit '1', and lower-case 'k'.
+the digit ''1'', and lower-case ''k''.
 
 The ''lazy person's'' blackboard bold macros:
 <!-- {% raw %} -->
@@ -83,7 +83,7 @@ are almost acceptable at normal size if the surrounding text is
 the surrounding font).  However, they are not part of a proper maths font,
 and do not work in sub- and superscripts.  As we've seen, there are
 plenty of alternatives: that mythical ''lazy'' person can inevitably
-do better than the macros, or anything similar using capital 'I'
+do better than the macros, or anything similar using capital ''I''
 (which looks even worse!).  Voluntary  (La)TeX effort has redefined
 the meaning of laziness (in this respect!).
 

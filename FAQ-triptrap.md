@@ -1,7 +1,7 @@
 # How can I be sure it's really TeX?
 
 TeX (and MetaFont and MetaPost) are written in a
-  ['literate' programming](./FAQ-lit.html) language called `Web`
+  [''literate'' programming](./FAQ-lit.html) language called `Web`
 which is designed to be portable across a wide range of computer
 systems.  How, then, is a new version of TeX checked?
 
@@ -9,9 +9,9 @@ Of course, any sensible software implementor will have his own suite
 of tests to check that his software runs: those who port TeX and
 its friends to other platforms do indeed perform such tests.
 
-Knuth, however, provides a 'conformance test' for both TeX
+Knuth, however, provides a ''conformance test'' for both TeX
 ([`trip`](http://ctan.org/pkg/trip)) and MetaFont ([`trap`](http://ctan.org/pkg/trap)).
-He characterises these as 'torture tests': they are designed not to
+He characterises these as ''torture tests'': they are designed not to
 check the obvious things that ordinary typeset documents, or font
 designs, will exercise, but rather to explore small alleyways off the
 main path through the code of TeX.  They are, to the casual reader,

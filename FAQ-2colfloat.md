@@ -15,7 +15,7 @@ Barbara Beeton's article
 gives a manual method for doing the same.
 
 The [`stfloats`](http://ctan.org/pkg/stfloats) package also ameliorates the situation somewhat, and
-makes LaTeX honour '[b]' placement as well; the
+makes LaTeX honour ''[b]'' placement as well; the
 [`dblfloatfix`](http://ctan.org/pkg/dblfloatfix) package combines a tidied version of the changes
 made in [`stfloats`](http://ctan.org/pkg/stfloats) with the
   [float ordering corrections](./FAQ-2colfltorder.html) defined in
@@ -30,7 +30,7 @@ numbers may become ''entangled'' (particularly if you're using
 float is set _before_ any single column floats).
 
 (The FAQ team doesn't know of any package that will make
-LaTeX honour '[h]' placement of double-column floats, but the
+LaTeX honour ''[h]'' placement of double-column floats, but the
 [`midfloat`](http://ctan.org/pkg/midfloat) package can be pressed into service to provide
 something approximating the effect it would have.)
 

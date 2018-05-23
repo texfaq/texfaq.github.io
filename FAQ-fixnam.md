@@ -1,7 +1,7 @@
 # How to change LaTeX's ''fixed names''
 
 LaTeX document classes define several typographic operations that
-need 'canned text' (text not supplied by the user).  In the earliest
+need ''canned text'' (text not supplied by the user).  In the earliest
 days of LaTeX 2.09 these bits of text were built in to the body of
 LaTeX's macros and were rather difficult to change, but ''fixed
 name'' macros were introduced for the benefit of those wishing to use

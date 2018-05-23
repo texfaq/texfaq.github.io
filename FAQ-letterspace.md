@@ -26,11 +26,11 @@ Gill's view of such an activity is not (even apocryphally) recorded.
 (Spacing-out forms part of the name of [`soul`](http://ctan.org/pkg/soul); the other half
 is described in [another question](./FAQ-underline.html).)
 
-Possibly the 'ultimate' in this field is the [`microtype`](http://ctan.org/pkg/microtype),
+Possibly the ''ultimate'' in this field is the [`microtype`](http://ctan.org/pkg/microtype),
 which uses the micro-typography capabilities of current pdfTeX to
 provide a `\textls` command, which operates according to parameters
 declared in a `\SetTracking` command.  [`Microtype`](http://ctan.org/pkg/Microtype)'s
-'tracking' facility expands the natural spacing of the font itself,
+''tracking'' facility expands the natural spacing of the font itself,
 rather than inserting space between characters.  Ordinarily,
 letter-spacing will destroy ligatures; however, this is _wrong_
 for some font styles (for example, `fraktur`), and the

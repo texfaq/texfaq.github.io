@@ -43,7 +43,7 @@ You upload via the
 (the archive's main page has a link).  The upload page shows what it
 needs to know, and allows you to enter the information.  The mechanism
 can only accept one file per upload: if you had intended to upload
-lots of files, you need to bundle them into an 'archive' file of some
+lots of files, you need to bundle them into an ''archive'' file of some
 sort; acceptable formats are `zip` and `tar.gz`
 (most uploads are packed in `zip` format).  Once you have
 completed your upload, the redirector assigns it to a member of the
@@ -54,7 +54,7 @@ advice of the
   [CTAN management team](mailto:ctan@dante.de)
 
 If your package is large, or regularly updated, it may be appropriate
-to 'mirror' your contribution direct into CTAN.
+to ''mirror'' your contribution direct into CTAN.
 Mirroring is only practical using `ftp` or `rsync`, so
 this facility is limited to packages offered by a server that uses one
 of those protocols.

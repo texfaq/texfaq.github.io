@@ -5,8 +5,8 @@ specifies a standard way of organising all the TeX-related files on
 a computer system.
 
 Most modern distributions arrange their TeX files in conformance
-with the TDS, using both a 'distribution' directory tree and a
-(set of) 'local' directory trees, each containing TeX-related
+with the TDS, using both a ''distribution'' directory tree and a
+(set of) ''local'' directory trees, each containing TeX-related
 files.  The TDS recommends the name `texmf` for the name
 of the root directory (folder) of an hierarchy; in practice there are
 typically several such trees, each of which has a name that compounds
@@ -17,7 +17,7 @@ distribution's tree, but the location of the distribution's hierarchy is
 system dependent.  (On a Unix system it might be at
 `/usr/share/texmf` or `/opt/texmf`, or a similar location.)
 
-There may be more than one 'local' hierarchy in which additional files
+There may be more than one ''local'' hierarchy in which additional files
 can be stored.  An installation will also typically offer a local
 hierarchy, while each user may have an individual local hierarchy.
 

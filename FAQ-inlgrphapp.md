@@ -7,7 +7,7 @@ Some of the free-standing graphics applications may also be used
   `asymptote` distribution) defines an environment
   `asy` which arranges that its contents are available for
   processing, and will therefore be typeset (after ''enough'' runs, in
-  the 'usual' LaTeX way).
+  the ''usual'' LaTeX way).
 
   Basically, you write
   ```latex

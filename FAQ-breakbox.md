@@ -20,7 +20,7 @@ marginpars and head-line entries, and will not work with
 
 The [`mdframed`](http://ctan.org/pkg/mdframed) package does the same job, using a different
 algorithm.  The package also provides means of defining
-'private' framed environments, whose parameters are set at definition
+''private'' framed environments, whose parameters are set at definition
 time, thus saving considerable effort in documents with many framed
 boxes.  Its restrictions seem much the same as those of
 [`framed`](http://ctan.org/pkg/framed); this is as one would expect, but the list is

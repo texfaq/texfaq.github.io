@@ -1,7 +1,7 @@
 # Alternative head- and footlines in LaTeX
 
-The standard LaTeX document classes define a small set of 'page
-styles' which specify head- and footlines for your document (though
+The standard LaTeX document classes define a small set of ''page
+styles'' which specify head- and footlines for your document (though
 they can be used for other purposes, too).  The standard set is very
 limited, but LaTeX is capable of much more.  The internal
 LaTeX coding needed to change page styles is not particularly

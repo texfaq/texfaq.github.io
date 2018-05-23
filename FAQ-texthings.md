@@ -103,7 +103,7 @@ the TeX engine with some additional useful features:
 
   - XeTeX (executable: `xetex`)
   XeTeX reads UTF-8 encoded Unicode input, and extends
-  TeX's font support to include 'modern' formats such as TrueType
+  TeX's font support to include ''modern'' formats such as TrueType
   and OpenType; these extensions to its capabilities make it
   well-suited to multi-lingual texts covering different writing
   systems.  See [What is XeTeX?](./FAQ-xetex.html).
@@ -111,7 +111,7 @@ the TeX engine with some additional useful features:
   - LuaTeX (executable: `luatex`)
   TeX is programmed in its own arcane, integrated, macro-based
   programming language.  LuaTeX adds a second programming engine
-  using a modern scripting language, Lua, which is 'embedded' in a
+  using a modern scripting language, Lua, which is ''embedded'' in a
   TeX-alike engine; it too reads UTF-8 and uses TrueType
   OpenType fonts.  See 
   [What is LuaTeX?](./FAQ-luatex.html).
@@ -133,7 +133,7 @@ the TeX engine with some additional useful features:
 
 Because each of the above derive from a base TeX engine, it is in
 principle possible to combine any of them with one of the TeX macro
-packages listed earlier to produce 'extended' executables.  For
+packages listed earlier to produce ''extended'' executables.  For
 example, the `pdflatex`, `xelatex` and
 `lualatex` executables each combine LaTeX with an enhanced
 TeX engine.  Indeed, most (if not all) of the development of

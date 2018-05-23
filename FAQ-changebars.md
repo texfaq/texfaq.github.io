@@ -3,7 +3,7 @@
 One often needs clear indications of how a document has changed, but
 the commonest technique, ''change bars'' (also known as ''revision
 bars''), requires surprisingly much
-trickery of the programmer.  The problem is that TeX 'proper'
+trickery of the programmer.  The problem is that TeX ''proper''
 doesn't provide the programmer with any information about the
 ''current position'' from which a putative start- or end-point of a
 bar might be calculated.   pdfTeX _does_ provide that

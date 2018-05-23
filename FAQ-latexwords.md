@@ -23,7 +23,7 @@ particular, when [`babel`](http://ctan.org/pkg/babel) is selecting a new languag
 ensures that LaTeX's symbolic names are translated appropriately
 for the language in question.  Unfortunately, [`babel`](http://ctan.org/pkg/babel)'s choice
 of names isn't always to everyone's choice, and there is still a need
-for a mechanism to replace the 'standard' names.
+for a mechanism to replace the ''standard'' names.
 
 Whenever a new language is selected, [`babel`](http://ctan.org/pkg/babel) resets all the
 names to the settings for that language.  In particular,
