@@ -14,7 +14,7 @@ do the same when working with its own numeric bibliography styles
 (`plainnat.bst` and `unsrtnat.bst`).
 
 The package [`biblatex`](http://ctan.org/pkg/biblatex) has a built-in style
-[`numeric-comp`](http://ctan.org/pkg/numeric-comp) for its bibliographies.
+[`numeric-comp`](http://ctan.org/pkg/biblatex) for its bibliographies.
 
 
 ----

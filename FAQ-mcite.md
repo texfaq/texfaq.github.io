@@ -26,7 +26,7 @@ You need to make a small change to the bibliography style
 (`bst`) file you use; the [`mcite`](http://ctan.org/pkg/mcite) package
 documentation tells you how to do that.
 
-Most recent versions of [`REVTeX`](http://ctan.org/pkg/REVTeX) (version 4.1 and later), in
+Most recent versions of [`REVTeX`](http://ctan.org/pkg/revtex4-1) (version 4.1 and later), in
 conjunction with recent versions of [`natbib`](http://ctan.org/pkg/natbib), already contain
 support for combined citations and so no longer even need
 [`mciteplus`](http://ctan.org/pkg/mciteplus) (but [`mciteplus`](http://ctan.org/pkg/mciteplus) is more general and will

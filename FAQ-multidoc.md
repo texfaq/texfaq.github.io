@@ -14,7 +14,7 @@ available, well-suited to less formal documents.
 and provides means of specifying significant features of the layout of
 the document, as well as a global table of contents, and so on.  The
 complete set of facilities is pretty complex.  An auxiliary package,
-[`combinet`](http://ctan.org/pkg/combinet), allows use of the `\title`s and `\author`s
+[`combinet`](http://ctan.org/pkg/combine), allows use of the `\title`s and `\author`s
 (etc.) of the `\import`ed documents to appear in the global table
 of contents.  The basic structure of a combined document would be:
 ```latex
