@@ -9,7 +9,7 @@ sequence of steps, some of which seem a bit odd.  If you choose to use
 BibTeX, the sequence is:
 
 First: you need a BibTeX bibliography file (a `bib`
-file)&nbsp;&mdash; see [''creating a BibTeX file''](./FAQ-buildbib.html).
+file)&nbsp;&mdash; see [''creating a BibTeX file''](FAQ-buildbib.md).
 
 Second: you must write your LaTeX document to include a declaration
 of the ''style'' of bibliography, citations, and a reference to the

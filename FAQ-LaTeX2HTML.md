@@ -26,7 +26,7 @@ load, and are inaccessible to those with visual disabilities.  The
 symbol fonts offer poor coverage of mathematics, and their use
 requires configuration of the browser.  The future of mathematical
 browsing may be brighter&nbsp;&mdash; see
-[future Web technologies](./FAQ-mathml.html).
+[future Web technologies](FAQ-mathml.md).
 
 For today, possible packages are:
 
@@ -60,7 +60,7 @@ For today, possible packages are:
     well as the ability to generate mulitple output formats
     (e.g. HTML, DocBook, tBook, etc.).
 - `TeXpider`a commercial program from
-  [Micropress](./FAQ-commercial.html), which is
+  [Micropress](FAQ-commercial.md), which is
   described on [http://www.micropress-inc.com/webb/wbstart.htm];
   it uses bitmaps for equations.
 - `Hevea` a compiled program that supports LaTeX

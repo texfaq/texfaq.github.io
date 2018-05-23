@@ -23,7 +23,7 @@ commercial and free text font designs; one set (MicroPress's ''informal math'')
 stands alone.
 
 Users should also consider the possibilities of typesetting
-[maths using OpenType fonts](./FAQ-otf-maths.html).
+[maths using OpenType fonts](FAQ-otf-maths.md).
 
 ''Free'' font families that will support TeX mathematics include:
 
@@ -61,7 +61,7 @@ Users should also consider the possibilities of typesetting
   the fifth font contains a small selection of ''blackboard bold''
   characters (chosen for their mathematical significance).  Support
   under LaTeX 2e is available in 
-  [PSNFSS](./FAQ-usepsfont.html); the fonts are
+  [PSNFSS](FAQ-usepsfont.md); the fonts are
   licensed under the GPL, with legalese permitting the use of
   the fonts in published documents.
 
@@ -143,7 +143,7 @@ Users should also consider the possibilities of typesetting
   acceptable, but can pass in many circumstances.  The real advantage
   is that the mathptm fonts are (effectively) free, and the resulting
   PostScript files can be freely exchanged.  Support under LaTeX 2e
-  is available in [PSNFSS](./FAQ-usepsfont.html).
+  is available in [PSNFSS](FAQ-usepsfont.md).
 
   For a sample, see [http://www.tug.dk/FontCatalogue/times/](http://www.tug.dk/FontCatalogue/times/)
 
@@ -297,7 +297,7 @@ commercially, include:
   many typographic improvements that make for high-quality documents.
   The fonts are supported under both Plain TeX and LaTeX 2e, and
   are exclusively available for purchase from
-  [Personal TeX Inc](./FAQ-commercial.html).
+  [Personal TeX Inc](FAQ-commercial.md).
   
 
   For further details and samples and fliers, see
@@ -469,7 +469,7 @@ The fonts may not render well (or at all, under ATM), may not have the
 TrueType was for a long time the ''native'' format for Windows, but
 MicroSoft joined the development of the OpenType specification, and
 ''modern'' windows will work happily with fonts in either format.  Some TeX
-implementations such as [TrueTeX](./FAQ-commercial.html) use TrueType
+implementations such as [TrueTeX](FAQ-commercial.md) use TrueType
 versions of Computer Modern and Times Maths fonts to render TeX
 documents in Windows without the need for additional system software like
 ATM.  (When used on a system running Windows&nbsp;XP or later,

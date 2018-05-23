@@ -24,7 +24,7 @@ package [`fix2col`](https://ctan.org/pkg/fix2col) should serve.  This package (a
 member of the LaTeX team) was the basis of the relevant part of
 [`fixltx2e`](https://ctan.org/pkg/fixltx2e).  The functionality has also been included in
 [`dblfloatfix`](https://ctan.org/pkg/dblfloatfix), which also has code to place full-width floats
-at [`[b]` placement](./FAQ-2colfloat.html).
+at [`[b]` placement](FAQ-2colfloat.md).
 
 Once you have loaded the package, no more remains to be done: the
 whole requirement is to patch the output routine; no extra commands

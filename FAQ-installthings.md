@@ -10,14 +10,14 @@ provide a step-by-step approach, starting from the point where you've
 decided what it is that you want to install:
   
 
--  You must [find the file you need](./FAQ-install-find.html);
+-  You must [find the file you need](FAQ-install-find.md);
 -  If you are going to install a LaTeX package, you may need to
-    [unpack the distributed files](./FAQ-install-unpack.html);
+    [unpack the distributed files](FAQ-install-unpack.md);
 -  It may be necessary to 
-    [generate some documentation to read](./FAQ-install-doc.html);
+    [generate some documentation to read](FAQ-install-doc.md);
 -  You need to 
-    [decide where to install the files](./FAQ-install-where.html);
--  You must now [install the files](./FAQ-inst-wlcf.html); and
+    [decide where to install the files](FAQ-install-where.md);
+-  You must now [install the files](FAQ-inst-wlcf.md); and
     finally
--  You may need to [tidy up](./FAQ-inst-tidy.html) after the installation.
+-  You may need to [tidy up](FAQ-inst-tidy.md) after the installation.
 

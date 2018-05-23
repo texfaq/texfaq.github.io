@@ -52,7 +52,7 @@ happy & as can be
 \end{tabular}
 ```
 the problem here (as explained in 
-[tabular cell alignment](./FAQ-tabcellalign.html)) is that the
+[tabular cell alignment](FAQ-tabcellalign.md)) is that the
 `\raggedright` command in the column specification has overwritten
 `tabular`s definition of ` `, so that
 `happy` appears in a new line of the second column, and the
@@ -60,7 +60,7 @@ following `\&` appears to LaTeX just like the second
 `\&` in the first example above.
 
 Get rid of the error in the way described in 
-[tabular cell alignment](./FAQ-tabcellalign.html)&nbsp;&mdash; either use
+[tabular cell alignment](FAQ-tabcellalign.md)&nbsp;&mdash; either use
 `\tabularnewline` explicitly, or use the `\RBS` trick described
 there.
 

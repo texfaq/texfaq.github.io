@@ -10,7 +10,7 @@ that quality typesetting in non-English languages can be difficult.
 
 For TeX macro packages, you can avoiding the effect by using an
 appropriately encoded font (for example, a Cork-encoded font&nbsp;&mdash; see
-[the EC fonts](./FAQ-ECfonts.html)) which contains accented
+[the EC fonts](FAQ-ECfonts.md)) which contains accented
 letters as single glyphs.  LaTeX users can achieve this end simply
 by adding the command
 ```latex

@@ -19,7 +19,7 @@ distribution to update itself.  The mechanisms are different (the two
 distributions exhibit the signs of evolutionary divergence in their
 different niches), but neither is difficult&nbsp;&mdash; see 
 ''[using MiKTeX for installing](./FAQ-inst-miktex*.html)'' and 
-''[using TeX&nbsp;Live for installing](./FAQ-inst-texlive.html)''.
+''[using TeX&nbsp;Live for installing](FAQ-inst-texlive.md)''.
 
 There are packages, though, that aren't in the distribution you use
 (or for which the distribution hasn't yet been updated to offer the

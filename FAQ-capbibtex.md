@@ -37,5 +37,5 @@ future occasion, you might find yourself using a different BibTeX
 style with different capitalisation rules.
 
 There's more on the subject in the
-[BibTeX documentation](./FAQ-BibTeXing.html).
+[BibTeX documentation](FAQ-BibTeXing.md).
 

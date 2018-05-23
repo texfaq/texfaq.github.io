@@ -16,7 +16,7 @@ Modern TeX implementations come with a bunch of search paths
 built in to them.  In most circumstances these paths are adequate, but
 one sometimes needs to extend them to pick up files in strange
 places: for example, we may wish to try a new bundle of packages
-before [installing them ''properly''](./FAQ-installthings.html).  To do
+before [installing them ''properly''](FAQ-installthings.md).  To do
 this, we need to change the relevant path as TeX perceives it.
 However, we don't want to throw away TeX's built-in path (all of a
 sudden, TeX won't know how to deal with all sorts of things).

@@ -10,8 +10,8 @@ we only discuss the two formats most commonly encountered in the
 (La)TeX context, types&nbsp;1 and 3.  In particular, we don't discuss the
 OpenType format, whose many advantages now becoming accessible to most
 (La)TeX users (by means of
-  the widely-used [XeTeX](./FAQ-xetex.html) and the more experimental
-  [LuaTeX](./FAQ-luatex.html)).
+  the widely-used [XeTeX](FAQ-xetex.md) and the more experimental
+  [LuaTeX](FAQ-luatex.md)).
 
 Adobe Type&nbsp;1 format specifies a means to represent outlines of the glyphs
 in a font.  The ''language'' used is closely restricted, to ensure that
@@ -40,7 +40,7 @@ ask Reader for the `File`&rarr;
 `Fonts ...`, and it will likely show some font or other as
 ''Type&nbsp;3'' (usually with encoding ''Custom'').  The problem has
 disappeared with version 6 of Acrobat Reader.  See 
-[PDF quality](./FAQ-dvips-pdf.html) for a discussion of
+[PDF quality](FAQ-dvips-pdf.md) for a discussion of
 the issue, and for ways of addressing it.
 
 Type&nbsp;3 fonts should not entirely be dismissed, however.  Acrobat

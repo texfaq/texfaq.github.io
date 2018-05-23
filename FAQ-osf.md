@@ -52,7 +52,7 @@ OpenType fonts have a pair of axes for number variations&nbsp;&mdash;
 proportional/tabular and lining/oldstyle selections are commonly
 available.  ''Full feature access'' to OpenType fonts, making such
 options available to the (La)TeX user, is already supported by
-[XeTeX](./FAQ-xetex.html) using, for example, the [`fontspec`](https://ctan.org/pkg/fontspec)
+[XeTeX](FAQ-xetex.md) using, for example, the [`fontspec`](https://ctan.org/pkg/fontspec)
 package.  Similar support is also in the works for
-[LuaTeX](./FAQ-luatex.html).
+[LuaTeX](FAQ-luatex.md).
 

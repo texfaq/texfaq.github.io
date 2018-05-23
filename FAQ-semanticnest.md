@@ -22,7 +22,7 @@ easily:
 \silly
 ```
 The extended traceback
-(see [_general advice_ on errors](./FAQ-erroradvice.html))
+(see [_general advice_ on errors](FAQ-erroradvice.md))
 _does_ help, though it does rather run on.  In the case above,
 the traceback consists of
 ```latex

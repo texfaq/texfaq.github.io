@@ -8,14 +8,14 @@ One can reasonably say that pdfTeX is (today) the main stream of
 TeX distributions: most LaTeX and many ConTeXt users nowadays use
 pdfTeX whether they know it or not (more precisely, they use
 pdfTeX extended by
-  [&epsilon;-TeX](./FAQ-etex.html)).
+  [&epsilon;-TeX](FAQ-etex.md)).
 So what is pdfTeX?
 
 pdfTeX is a development of TeX that is capable of generating
 typeset PDF output in place of DVI.  pdfTeX has
 other capabilities, most notably in the area of fine typographic
 detail (for example, its support for 
-  [optimising line breaks](./FAQ-overfull.html)),
+  [optimising line breaks](FAQ-overfull.md)),
 but its greatest impact to date has been in the area of
 PDF output.
 
@@ -34,5 +34,5 @@ to maintain a stable platform for general use.
 
 Development of pdfTeX has mostly stopped (only bug fixes, and
 occasional small development items are processed): future development
-is focused on [LuaTeX](./FAQ-luatex.html).
+is focused on [LuaTeX](FAQ-luatex.md).
 

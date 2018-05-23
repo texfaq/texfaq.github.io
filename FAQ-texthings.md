@@ -17,9 +17,9 @@ in a document.  TeX is fully programmable using an integrated macro
 scripting language that supports variables, scoping, conditional
 execution, control flow, and function (really, macro) definitions.
 See 
-[what is TeX?](./FAQ-whatTeX.html) for some background
+[what is TeX?](FAQ-whatTeX.md) for some background
 information on TeX and 
-[some reference documents](./FAQ-ref-doc.html) for pointers to
+[some reference documents](FAQ-ref-doc.md) for pointers to
 descriptions of TeX control sequences, data types, and other key
 parts of TeX.
 
@@ -47,10 +47,10 @@ that you are likely to encounter:
 
   - Plain TeX (executable: `tex`)
   See
-  [Books on TeX and Plain TeX](./FAQ-tex-books.html),
-  [Online introductions: TeX](./FAQ-man-tex.html),
-  [Should I use Plain TeX or LaTeX?](./FAQ-plainvltx.html) and
-  [Freely available (La)TeX books](./FAQ-ol-books.html).
+  [Books on TeX and Plain TeX](FAQ-tex-books.md),
+  [Online introductions: TeX](FAQ-man-tex.md),
+  [Should I use Plain TeX or LaTeX?](FAQ-plainvltx.md) and
+  [Freely available (La)TeX books](FAQ-ol-books.md).
   Note that the Plain TeX executable is called `tex`; the
   base TeX engine is generally provided by a separate executable
   such as `initex` or as a `-ini` flag to
@@ -58,22 +58,22 @@ that you are likely to encounter:
 
   - LaTeX (executable: `latex`)
   See
-  [Books on TeX and its relations](./FAQ-latex-books.html),
+  [Books on TeX and its relations](FAQ-latex-books.md),
   [(La)TeX Tutorials, etc.](./FAQ-tutorials*.html),
-  [Online introductions: LaTeX](./FAQ-man-latex.html) and
-  [Specialized (La)TeX tutorials](./FAQ-tutbitslatex.html).
+  [Online introductions: LaTeX](FAQ-man-latex.md) and
+  [Specialized (La)TeX tutorials](FAQ-tutbitslatex.md).
   Note that there have been two major versions of LaTeX: LaTeX 2e
   refers to the current version of LaTeX while LaTeX 2.09 is the
   long-since-obsolete (since 1994) version (cf.&nbsp;
-  [What is LaTeX 2e?](./FAQ-latex2e.html) for more information).
+  [What is LaTeX 2e?](FAQ-latex2e.md) for more information).
 
   - ConTeXt (executable: `texmfstart`)
   See
-  [What is ConTeXt?](./FAQ-ConTeXt.html).
+  [What is ConTeXt?](FAQ-ConTeXt.md).
 
   - Texinfo (executables: `tex`, `makeinfo`)
   See
-  [What is Texinfo?](./FAQ-texinfo.html).  `makeinfo`
+  [What is Texinfo?](FAQ-texinfo.md).  `makeinfo`
   converts Texinfo documents to HTML, DocBook, Emacs info,
   XML, and plain text.  `Tex` (or wrappers such as
   `texi2dvi` and `texi2pdf`) produce one of TeX's
@@ -85,11 +85,11 @@ that you are likely to encounter:
 
   - Eplain&nbsp;&mdash; Extended Plain TeX (executable: `eplain`)
   See
-  [What is Eplain?](./FAQ-eplain.html).
+  [What is Eplain?](FAQ-eplain.md).
 
 #### Modified `tex` executables
 The original `tex` executable was produced in the late 1970s
-(cf.&nbsp;[What is TeX?](./FAQ-whatTeX.html)) and consequently
+(cf.&nbsp;[What is TeX?](FAQ-whatTeX.md)) and consequently
 lacked some features that users have come to expect from today's
 software.  The following programs address these issues by augmenting
 the TeX engine with some additional useful features:
@@ -97,20 +97,20 @@ the TeX engine with some additional useful features:
   - pdfTeX (executable: `pdftex`)
   TeX, which predates the PDF file format by a decade,
   outputs files in a TeX-specific format called DVI
-  (cf.&nbsp;[What is a DVI file?](./FAQ-dvi.html)).  In
+  (cf.&nbsp;[What is a DVI file?](FAQ-dvi.md)).  In
   contrast, pdfTeX can output both DVI _and_ PDF
   files.  In PDF mode, it lets documents exploit various
   PDF features such as hyperlinks, bookmarks, and annotations,
   pdfTeX additionally supports two sophisticated micro-typographic
   features: character protrusion and font expansion.  See
-  [What is pdfTeX?](./FAQ-whatpdftex.html).
+  [What is pdfTeX?](FAQ-whatpdftex.md).
 
   - XeTeX (executable: `xetex`)
   XeTeX reads UTF-8 encoded Unicode input, and extends
   TeX's font support to include ''modern'' formats such as TrueType
   and OpenType; these extensions to its capabilities make it
   well-suited to multi-lingual texts covering different writing
-  systems.  See [What is XeTeX?](./FAQ-xetex.html).
+  systems.  See [What is XeTeX?](FAQ-xetex.md).
 
   - LuaTeX (executable: `luatex`)
   TeX is programmed in its own arcane, integrated, macro-based
@@ -118,7 +118,7 @@ the TeX engine with some additional useful features:
   using a modern scripting language, Lua, which is ''embedded'' in a
   TeX-alike engine; it too reads UTF-8 and uses TrueType
   OpenType fonts.  See 
-  [What is LuaTeX?](./FAQ-luatex.html).
+  [What is LuaTeX?](FAQ-luatex.md).
 
   - &epsilon;-TeX (executable: `etex`)
   &epsilon;-TeX is an extension of TeX's programming interface; as such
@@ -129,7 +129,7 @@ the TeX engine with some additional useful features:
   `pdftex` executables provided in the standard
   distributions; XeTeX and LuaTeX also provide &epsilon;-TeX's
   programming facilities.    See 
-  [What is &epsilon;-TeX?](./FAQ-etex.html).
+  [What is &epsilon;-TeX?](FAQ-etex.md).
 
   (Note: &epsilon;-TeX, which enhances the TeX engine, is not to be
   confused with Eplain, which enhances the Plain TeX macro
@@ -171,9 +171,9 @@ DVD mailing, as well as being available online.
 Some TeX distributions target a specific operating system and/or
 processor architecture; others run on multiple platforms.  Many TeX
 distributions are free; a few require payment.  See 
-[(La)TeX for different machines](./FAQ-TeXsystems.html) for a
+[(La)TeX for different machines](FAQ-TeXsystems.md) for a
 list of free and shareware TeX distributions and 
-[Commercial TeX implementations](./FAQ-commercial.html) for a
+[Commercial TeX implementations](FAQ-commercial.md) for a
 list of commercial TeX distributions.
 
 #### Summary

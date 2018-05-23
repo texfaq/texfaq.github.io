@@ -48,7 +48,7 @@ add
 to the preamble of your document.
 
 Type&nbsp;1 versions of the fonts are available.  For OT1 encoding,
-they are available from [MicroPress](./FAQ-psfchoice.html).  The
-[CM-Super fonts](./FAQ-textrace.html) contain Type&nbsp;1 versions
+they are available from [MicroPress](FAQ-psfchoice.md).  The
+[CM-Super fonts](FAQ-textrace.md) contain Type&nbsp;1 versions
 of the Concrete fonts in T1 encoding.
 

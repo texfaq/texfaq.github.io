@@ -4,7 +4,7 @@ revised: 2016-08-18
 ---
 # Specialist mailing lists
 
-The previous question, ''[getting help](./FAQ-gethelp.html)'', talked of
+The previous question, ''[getting help](FAQ-gethelp.md)'', talked of
 the two major forums in which (La)TeX, MetaFont and MetaPost are
 discussed; however, these aren't the only ones available.
 

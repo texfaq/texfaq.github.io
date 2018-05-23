@@ -5,7 +5,7 @@ revised: 2014-06-10
 # How to ask a question
 
 You want help from the community at large; you've decided where you're
-going to [ask your question](./FAQ-gethelp.html), but how do you
+going to [ask your question](FAQ-gethelp.md), but how do you
 phrase it?
 
 Excellent ''general'' advice (how to ask questions of anyone) is
@@ -53,8 +53,8 @@ application of your own common sense.
     the [`elephant`](https://ctan.org/pkg/elephant) in the [`minicar`](https://ctan.org/pkg/minicar) directory, and it
     didn't work, even after refreshing the filename database''.
 -  If something's going wrong within (La)TeX, pretend you're
-    [submitting a LaTeX bug report](./FAQ-latexbug.html),
-    and try to generate a [minimum failing example](./FAQ-minxampl.html).
+    [submitting a LaTeX bug report](FAQ-latexbug.md),
+    and try to generate a [minimum failing example](FAQ-minxampl.md).
     If your example 
     needs your local [`xyzthesis`](https://ctan.org/pkg/xyzthesis) class, or some other resource
     not generally available, be sure to include a pointer to how the

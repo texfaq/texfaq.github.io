@@ -5,7 +5,7 @@ revised: 2014-06-10
 # Reducing spacing in the bibliography
 
 Bibliographies are, in fact, implemented as lists, so all the
-confusion about [reducing list item spacing](./FAQ-complist.html) also
+confusion about [reducing list item spacing](FAQ-complist.md) also
 applies to bibliographies.
 
 If the [`natbib`](https://ctan.org/pkg/natbib) package ''works'' for you (it may not if you are using
@@ -27,7 +27,7 @@ Otherwise, one is into unseemly hacking of something or other.  The
 here, because it makes a different-named list, while the name
 `thebibliography` is built into LaTeX and
 BibTeX.  Therefore, we need to 
-[patch the underlying macro](./FAQ-patch.html):
+[patch the underlying macro](FAQ-patch.md):
 <!-- {% raw %} -->
 ```latex
 \let\oldbibliography\thebibliography

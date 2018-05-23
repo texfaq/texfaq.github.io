@@ -23,7 +23,7 @@ itself.  Put:
 in the preamble of your document, and the job is done.
 (However, beware of the [`babel`](https://ctan.org/pkg/babel) package, which requires you to
 use a different mechanism: be sure to check
-[changing [`babel`](https://ctan.org/pkg/babel) names](./FAQ-latexwords.html) if
+[changing [`babel`](https://ctan.org/pkg/babel) names](FAQ-latexwords.md) if
 you're using it.)
 
 The names that are defined in the standard LaTeX classes (and the

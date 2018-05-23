@@ -12,7 +12,7 @@ the float as
   `\begin{figure}`[p!]
 but the overriding `!` modifier has no effect on float page floats; so
 you have to make the float satisfy the parameters.
-[Moving tables and figures](./FAQ-floats.html) offers some
+[Moving tables and figures](FAQ-floats.md) offers some
 suggestions, but doesn't solve the one-float-per-page question.
 
 The ''obvious'' solution, using the counter `totalnumber`

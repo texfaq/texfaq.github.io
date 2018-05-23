@@ -24,7 +24,7 @@ length, with columns matching on consecutive pages.
 other packages, but it does work with [`colortbl`](https://ctan.org/pkg/colortbl), and its
 author has provided the [`ltxtable`](https://ctan.org/pkg/ltxtable) package to provide (most
 of) the facilities of [`tabularx`](https://ctan.org/pkg/tabularx) (see
-[fixed-width tables](./FAQ-fixwidtab.html)) for long tables:
+[fixed-width tables](FAQ-fixwidtab.md)) for long tables:
 beware of its rather curious usage constraints&nbsp;&mdash; each long table
 should be in a file of its own, and included by
 `\LTXtable{width}{file}`.  Since [`longtable`](https://ctan.org/pkg/longtable)'s

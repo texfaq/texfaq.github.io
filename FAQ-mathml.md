@@ -5,7 +5,7 @@ revised: 2014-06-10
 # Future WWW technologies and (La)TeX
 
 An earlier answer 
-([''converting to HTML''](./FAQ-LaTeX2HTML.html))
+([''converting to HTML''](FAQ-LaTeX2HTML.md))
 addresses the issue of converting existing (La)TeX documents for
 viewing on the Web as HTML.  All the present techniques are
 somewhat flawed: the answer explains why.
@@ -40,10 +40,10 @@ support for new Web standards.
   alternative, authoring in XML (thus producing documents that
   are immediately Web-friendly, if not ready) and using (La)TeX to
   typeset is also well advanced.  One useful technique is
-  [_transforming_ the XML to LaTeX](./FAQ-SGML2TeX.html),
+  [_transforming_ the XML to LaTeX](FAQ-SGML2TeX.md),
   using an XSLT stylesheet or code for an XML library,
   and then simply using LaTeX; alternatively, one may
-  [typeset direct from the XML source](./FAQ-readML.html).
+  [typeset direct from the XML source](FAQ-readML.md).
 - Direct representation of mathematics
   MathML is a standard for representing maths on the Web; its
   original version was distinctly limited, but version 2 of MathML

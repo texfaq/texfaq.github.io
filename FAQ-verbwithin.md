@@ -51,7 +51,7 @@ This is why the LaTeX book insists that verbatim
 commands must not appear in the argument of any other command; they
 aren't just fragile, they're quite unusable in any ''normal'' command
 parameter, 
-regardless of [`\protect`ion](./FAQ-protect.html).  (The `\verb`
+regardless of [`\protect`ion](FAQ-protect.md).  (The `\verb`
 command tries hard to detect if you're misusing it; unfortunately, it
 can't always do so, and the error message is therefore not reliable as an
 indication of problems.)
@@ -67,7 +67,7 @@ necessary?''.
     address or the like, then the `\url` command from the
     [`url`](https://ctan.org/pkg/url) will help: it doesn't suffer from all the problems of
     `\verb`, though it's still not robust; 
-    ''[typesetting URLs](./FAQ-setURL.html)'' offers advice here.
+    ''[typesetting URLs](FAQ-setURL.md)'' offers advice here.
 -  If you're putting `\verb` into the argument of a boxing
     command (such as `\fbox`), consider using the `lrbox`
     environment:
@@ -160,7 +160,7 @@ solutions to the problem:
     typesets the same as 
     `\verb+my_name+`, and will work in the argument of a command.  It
     won't, however, work in a moving argument, and no amount of
-    [`\protect`ion](./FAQ-protect.html) will make it work in
+    [`\protect`ion](FAQ-protect.md) will make it work in
     such a case.
   
 

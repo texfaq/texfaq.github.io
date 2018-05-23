@@ -14,7 +14,7 @@ same directory as the main file.  Most people find this
 counter-intuitive.
 
 It may be appropriate to use the ''path extension'' technique
-[used in temporary installations](./FAQ-tempinst.html) to deal with
+[used in temporary installations](FAQ-tempinst.md) to deal with
 this problem.  However, if there several files with the same name in
 your document, such as `chapter1/fig1.eps` and
 `chapter2/fig1.eps`, you're not giving TeX any hint as to

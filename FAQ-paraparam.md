@@ -58,5 +58,5 @@ In fact, there are a number of parameters for which TeX only
 maintains one value per paragraph.  A tiresome one is the set of upper
 case/lower case translations, which (oddly enough) constrains
 hyphenation of mutilingual texts.  Another that regularly creates
-confusion is [`\baselineskip`](./FAQ-baselinepar.html).
+confusion is [`\baselineskip`](FAQ-baselinepar.md).
 

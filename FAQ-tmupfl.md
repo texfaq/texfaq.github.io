@@ -18,7 +18,7 @@ something you have done has prevented LaTeX from typesetting
 floats, it will run out of storage space.
 
 This failure usually occurs in extreme cases of 
-[floats moving ''wrongly''](./FAQ-floats.html);
+[floats moving ''wrongly''](FAQ-floats.md);
 LaTeX has found it can't place a float, and floats of the same type
 have piled up behind it.
 
@@ -32,7 +32,7 @@ means that simple failure to place a float means that no subsequent
 float can be placed; and hence (eventually) the error.
 
 Techniques for solving the problem are discussed in the 
-[floats question](./FAQ-floats.html) already referenced.
+[floats question](FAQ-floats.md) already referenced.
 
 For LaTeX releases prior to 2015, an
  alternative _may_ be to use the [`morefloats`](https://ctan.org/pkg/morefloats) package.

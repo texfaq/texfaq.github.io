@@ -30,7 +30,7 @@ just as much as the exclamation in''syst!eme''.
 (Hyphenation takes place on the characters ''sent to the printer''.
 The problem with `\accent` is avoided&nbsp;&mdash;in LaTeX&nbsp;&mdash; by the use
 of the [`fontenc`](https://ctan.org/pkg/fontenc) package, as discussed in 
-''[Accented words aren t hyphenated](./FAQ-hyphenaccents.html)''.)
+''[Accented words aren t hyphenated](FAQ-hyphenaccents.md)''.)
 
 Sets of hyphenation patterns are usually derived from analysis of
 a list of valid hyphenations (the process of derivation, using a tool
@@ -40,8 +40,8 @@ ordinary mortals).
 The patterns for the languages a TeX system is going to deal with
 may only be loaded when the system is installed.  To change the set of
 hyphenation patterns recognised by a TeX-based or XeTeX system,
-a [partial reinstallation](./FAQ-newlang.html) is necessary (note that 
-[LuaTeX](./FAQ-luatex.html) relaxes this constraint).
+a [partial reinstallation](FAQ-newlang.md) is necessary (note that 
+[LuaTeX](FAQ-luatex.md) relaxes this constraint).
 
 TeX provides two ''user-level'' commands for control of
 hyphenation: `\language` (which selects a hyphenation style), and
@@ -52,5 +52,5 @@ The ordinary LaTeX user need not worry about `\language`, since
 it is very thoroughly managed by the [`babel`](https://ctan.org/pkg/babel) package; use of
 `\hyphenation` is discussed in
   the context of
-[hyphenation failure](./FAQ-nohyph.html).
+[hyphenation failure](FAQ-nohyph.md).
 

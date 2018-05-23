@@ -34,12 +34,12 @@ what you propose to do.
 The following answers deal with the ways one may choose to proceed:
   
 
--  [Choose which package to use](./FAQ-marginpkgs.html).
--  [Find advice on setting up page layout by hand](./FAQ-marginmanual.html).
+-  [Choose which package to use](FAQ-marginpkgs.md).
+-  [Find advice on setting up page layout by hand](FAQ-marginmanual.md).
 
 There is a related question&nbsp;&mdash; how to change the layout
 temporarily&nbsp;&mdash; and there's an answer that covers that, too:
   
 
--  [Change the margins on the fly](./FAQ-chngmargonfly.html).
+-  [Change the margins on the fly](FAQ-chngmargonfly.md).
 

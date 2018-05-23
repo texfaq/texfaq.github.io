@@ -20,7 +20,7 @@ of research students).
 Before that distressing event, a separate thread of development had
 started, to produce a program 
 called Aleph, which merged the facilities of
-[&epsilon;-TeX](./FAQ-etex.html) into a stable Omega codebase and added other
+[&epsilon;-TeX](FAQ-etex.md) into a stable Omega codebase and added other
 extensions.  Aleph also proved an attractive platform for many people;
 but its development, too, has dried up.
 
@@ -32,7 +32,7 @@ typesetting.  The new system was to be known as Omega-2
 designed in a modular fashion so that support of new facilities (such
 as use of advanced OpenType fonts) could be added in a relatively
 straightforward fashion.  A quick web search leads to a recommendation
-that potential users consider [LuaTeX](./FAQ-luatex.html) instead;
+that potential users consider [LuaTeX](FAQ-luatex.md) instead;
 fortunately, lessons learned in Aleph project have been carried
 forward in the development of LuaTeX.
 

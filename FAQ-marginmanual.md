@@ -5,12 +5,12 @@ revised: 2014-06-10
 # How to set up page layout ''by hand''
 
 So you're eager to do it yourself, notwithstanding the cautions
-  outlined in ''[changing margins](./FAQ-changemargin.html)''.
+  outlined in ''[changing margins](FAQ-changemargin.md)''.
 
 It's important that you first start by familiarising yourself
 with LaTeX's page layout parameters. For example, see section C.5.3 of the
 LaTeX manual (pp.&nbsp;181-182), or corresponding sections in many of the other
-good LaTeX manuals (see [LaTeX books](./FAQ-latex-books.html)). 
+good LaTeX manuals (see [LaTeX books](FAQ-latex-books.md)). 
 
 LaTeX controls the page layout with a number of parameters, which
 allow you to change the distance from the edges of a page to the left
@@ -26,7 +26,7 @@ Even changing the text height and width, `\textheight` and
 should be set to fit a whole number of text lines (in terms of
 multiples of `\baselinskip`), and the width should be constrained
 by the number of characters per line, as mentioned in 
-''[changing margins](./FAQ-changemargin.html)''.
+''[changing margins](FAQ-changemargin.md)''.
 
 Margins are controlled by two parameters: `\oddsidemargin` and
 `\evensidemargin`, whose names come from the convention that

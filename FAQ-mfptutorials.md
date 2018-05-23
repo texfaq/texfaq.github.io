@@ -8,7 +8,7 @@ Apart from Knuth's book, there seems to be only one publicly-available
 [tutorial for MetaFont](http://metafont.tutorial.free.fr/), by
 Christophe Grandsire (a copy in PDF form may be downloaded).
 Geoffrey Tobin's _MetaFont for Beginners_ 
-(see [using MetaFont](./FAQ-useMF.html)) describes how the MetaFont
+(see [using MetaFont](FAQ-useMF.md)) describes how the MetaFont
 system works and how to avoid some of the potential pitfalls.
 
 Peter Wilson's experience of running both MetaFont and MetaPost (the

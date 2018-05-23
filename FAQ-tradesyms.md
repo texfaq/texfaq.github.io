@@ -5,7 +5,7 @@ revised: 2014-06-10
 # How to get copyright, trademark, etc.
 
 The ''
-[Comprehensive symbol list](./FAQ-symbols.html)'', lists
+[Comprehensive symbol list](FAQ-symbols.md)'', lists
 the symbol commands `\textcopyright`,
 `\textregistered` and `\texttrademark`, which are available in
 TS1-encoded fonts, and which are enabled using the

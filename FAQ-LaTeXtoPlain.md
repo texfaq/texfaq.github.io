@@ -6,7 +6,7 @@ revised: 2014-06-10
 
 Unfortunately, no ''general'', simple, automatic process is likely to
 succeed at this task.  See 
-''[How does LaTeX relate to Plain TeX](./FAQ-LaTeXandPlain.html)''
+''[How does LaTeX relate to Plain TeX](FAQ-LaTeXandPlain.md)''
 for further details.
 
 Obviously, trivial documents will translate in a trivial way.
@@ -23,7 +23,7 @@ Some of this work has (in a sense) been done, in the port of the
 LaTeX graphics package to Plain TeX.  However, while
 [`graphics`](https://ctan.org/pkg/graphics) is available, other complicated packages (notably
 [`hyperref`](https://ctan.org/pkg/hyperref)) are not.  The aspiring translator may find the
-[Eplain](./FAQ-eplain.html) system a useful source of code.  (In fact,
+[Eplain](FAQ-eplain.md) system a useful source of code.  (In fact,
 a light-weight system such as Eplain might reasonably be adopted as
 an alternative target of translation, though it undoubtedly gives the
 user more than the ''bare minimum'' that Plain TeX is designed to

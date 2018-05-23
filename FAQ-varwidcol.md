@@ -5,7 +5,7 @@ revised: 2014-06-10
 # Variable-width columns in tables
 
 This is a slightly different take on the problem addressed in
-''[fixed-width tables](./FAQ-fixwidtab.html)''&nbsp;&mdash; here we have
+''[fixed-width tables](FAQ-fixwidtab.md)''&nbsp;&mdash; here we have
 a column whose size we can't absolutely predict when we design the
 document.
 
@@ -25,7 +25,7 @@ to a maximum width and (if even that width is exceeded) turn into a
 `p`-style column.
 
 The [`varwidth`](https://ctan.org/pkg/varwidth) package, discussed in 
-''[automatic sizing of minipages](./FAQ-varwidth.html)'', provides
+''[automatic sizing of minipages](FAQ-varwidth.md)'', provides
 a solution.  If you load it together with the LaTeX ''required''
 [`array`](https://ctan.org/pkg/array) package, i.e.:
 ```latex

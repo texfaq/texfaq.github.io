@@ -36,6 +36,6 @@ will also produce this error, as will its TeX primitive equivalent:
 <!-- {% endraw %} -->
 This is because special care is needed when defining one macro within
 the code of another macro.  This is explained elsewhere, separately
-for [LaTeX definitions](./FAQ-ltxhash.html) and for
-[TeX primitive definitions](./FAQ-hash.html)
+for [LaTeX definitions](FAQ-ltxhash.md) and for
+[TeX primitive definitions](FAQ-hash.md)
 

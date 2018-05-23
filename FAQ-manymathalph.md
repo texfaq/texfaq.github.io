@@ -15,14 +15,14 @@ Nevertheless, there are many packages that provide symbols, or that
 manipulate them, which allocate themselves one or more maths alphabet.
 
 If you can't afford to drop any of these packages, you might be able
-to consider switching to use of [XeTeX](./FAQ-xetex.html) or
-[LuaTeX](./FAQ-luatex.html), which both have 256 math alphabets
+to consider switching to use of [XeTeX](FAQ-xetex.md) or
+[LuaTeX](FAQ-luatex.md), which both have 256 math alphabets
 available.  (Such a change is best not done when under pressure to
 complete a document; other issues, such as font availability) could
 make a change impractical.)
 
 Even if switching is not possible, there's still hope if you're using
-the [`bm`](https://ctan.org/pkg/bm) package to support [bold maths](./FAQ-boldgreek.html):
+the [`bm`](https://ctan.org/pkg/bm) package to support [bold maths](FAQ-boldgreek.md):
 [`bm`](https://ctan.org/pkg/bm) is capable of gobbling alphabets as if there is no
 tomorrow.  The package defines two limiter commands: `\bmmax` (for
 _bold_ symbols; default&nbsp;4) and `\hmmax` (for _heavy_

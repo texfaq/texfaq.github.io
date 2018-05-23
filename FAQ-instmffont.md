@@ -15,7 +15,7 @@ learning from them what printer they were generated for, and naming
 schemes under different operating systems are another source of
 confusion.
 
-''[Where to install files](./FAQ-install-where.html)''
+''[Where to install files](FAQ-install-where.md)''
 specifies where the files should go.
 
 Further confusion is introduced by font families whose authors devise rules

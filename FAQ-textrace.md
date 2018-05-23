@@ -20,7 +20,7 @@ fonts generated using `TeXtrace` are P&eacute;ter Szab&oacute;'s own
 EC/TC font set `tt2001` and Vladimir Volovich's
 CM-Super set, which covers the EC, TC, and the
 Cyrillic LH font sets (for details of both of which sets, see
-[''8-bit'' type 1 fonts](./FAQ-type1T1.html)).
+[''8-bit'' type 1 fonts](FAQ-type1T1.md)).
 
 Another system, which arrived slightly later, is 
 [`mftrace`](http://www.cs.uu.nl/~hanwen/mftrace/):
@@ -35,7 +35,7 @@ are increasingly being used to provide Type&nbsp;1 fonts to the public domain.
 The `MetaType1` system aims to use MetaFont font sources, by way
 of MetaPost and a bunch of scripts and so on, to produce high-quality
 Type&nbsp;1 fonts.  The first results, the 
-[[`Latin Modern`](https://ctan.org/pkg/Latin Modern) fonts](./FAQ-type1T1.html), are now
+[[`Latin Modern`](https://ctan.org/pkg/Latin Modern) fonts](FAQ-type1T1.md), are now
 well-established, and a bunch of existing designs have been reworked
 in MetaType1 format.
 

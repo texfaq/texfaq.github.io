@@ -7,7 +7,7 @@ revised: 2014-06-10
 The process of installing a Type&nbsp;1 font set is rather convoluted, and
 we will deal with it in two chunks: first (in the present answer)
 preparing the font for installation, and second 
-[installing a Type&nbsp;1 font](./FAQ-instt1font.html)).
+[installing a Type&nbsp;1 font](FAQ-instt1font.md)).
 
 Many fonts are supplied in (La)TeX ready form: such fonts need no
 preparation, and may be installed immediately.
@@ -36,7 +36,7 @@ use with (La)TeX.  The rest of this answer discusses this preparation.
     default: if the files are not available, you are unlikely to be able
     to use the font with (La)TeX.
 -  Rename the AFM files and the Type&nbsp;1 files to match the
-    [Berry font naming scheme](./FAQ-fontname.html).
+    [Berry font naming scheme](FAQ-fontname.md).
 -  Generate TeX metric files from the AFM files.  The
     commonest tool for this task is [`fontinst`](https://ctan.org/pkg/fontinst); the package
     documentation helps, but other guides are available (see below).

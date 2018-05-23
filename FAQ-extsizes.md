@@ -47,7 +47,7 @@ the size chosen.
 Many classes, designed to produce typeset results other than on
 ''ordinary'' paper, will have their own font size mechanisms and
 ranges of sizes.  This is true, for example, of 
-[poster classes](./FAQ-poster.html) (such as [`a0poster`](https://ctan.org/pkg/a0poster)), and of
-[presentation and lecturing classes](./FAQ-slidecls.html) (such as
+[poster classes](FAQ-poster.md) (such as [`a0poster`](https://ctan.org/pkg/a0poster)), and of
+[presentation and lecturing classes](FAQ-slidecls.md) (such as
 [`beamer`](https://ctan.org/pkg/beamer).
 

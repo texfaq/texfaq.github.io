@@ -12,7 +12,7 @@ public archives.
 Nevertheless, there are considerable numbers of macros of one sort or
 another available on CTAN; searching for your journal name in
 the CTAN catalogue&nbsp;&mdash; see 
-[searching CTAN](./FAQ-findfiles.html))&nbsp;&mdash;
+[searching CTAN](FAQ-findfiles.md))&nbsp;&mdash;
 may well turn up what you're seeking.
 
 Failing that, you may be well advised to contact the prospective

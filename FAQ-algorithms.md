@@ -13,7 +13,7 @@ strict syntax and semantics.  Also, because pseudocode is supposed to
 be a clear expression of an algorithm it may need to incorporate
 mathematical notation, figures, tables, and other LaTeX features
 that do not appear in conventional programming languages.
-  [Typesetting program listings](./FAQ-codelist.html) is described
+  [Typesetting program listings](FAQ-codelist.md) is described
   elsewhere.
 
 You can certainly create your own environment for typesetting

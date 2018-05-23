@@ -11,7 +11,7 @@ cell, but problems at the end of a table row are common.  With a
 ... & \centering blah ... \\
 ```
 one is liable to encounter errors that complain about a ''misplaced
-`\noalign` or ''[extra alignment tab](./FAQ-altabcr.html)'', or the like.
+`\noalign` or ''[extra alignment tab](FAQ-altabcr.md)'', or the like.
 The problem is that the command ` ` means different things in
 different circumstances: the `tabular` environment
 switches the meaning to a value for use in the table, and

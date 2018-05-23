@@ -13,8 +13,8 @@ While ExTeX will implement all of TeX's primitives, some may be
 marked as obsolete, and ''modern'' alternatives provided (an obvious
 example is the primitive `\input` command, whose syntax inevitably
 makes life difficult for users of modern operating system file
-paths).  Desirable extensions from [&epsilon;-TeX](./FAQ-etex.html),
-[pdfTeX](./FAQ-whatpdftex.html) and [&Omega;](./FAQ-omegaleph.html)
+paths).  Desirable extensions from [&epsilon;-TeX](FAQ-etex.md),
+[pdfTeX](FAQ-whatpdftex.md) and [&Omega;](FAQ-omegaleph.md)
 have been identified.
 
 Usability will be another focus of the work: debugging support and log

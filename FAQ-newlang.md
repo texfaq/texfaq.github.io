@@ -39,7 +39,7 @@ the error should prove little more than an inconvenience (most of the
 files are in better distributions anyway, but an elusive one
 may be found on CTAN; if you have to retrieve
 a new file, ensure that it's correctly installed, for which see
-[installing a new package](./FAQ-inst-wlcf.html)).
+[installing a new package](FAQ-inst-wlcf.md)).
 
 Finally, you need to regenerate the formats used (in fact, most users
 of Babel are using it in their LaTeX documents, so regenerating the

@@ -19,7 +19,7 @@ because TeX runs its page maker asynchronously.  If a
 doesn't get used until page n+1, then the `\marginpar` will turn
 up on the wrong side of the page.  This is an instance of a general
 problem: see
-''[finding if you're on an odd or an even page](./FAQ-oddpage.html)''.
+''[finding if you're on an odd or an even page](FAQ-oddpage.md)''.
 
 The solution to the problem is for LaTeX to ''remember'' which side
 of the page each `\marginpar` _should_ be on.  The

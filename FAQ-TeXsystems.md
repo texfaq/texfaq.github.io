@@ -6,17 +6,17 @@ revised: 2014-06-10
 
 We list here the free or shareware packages;
   another question addresses
-  [commercial TeX vendors'](./FAQ-commercial.html) products.
+  [commercial TeX vendors'](FAQ-commercial.md) products.
 
 The list is provided in four answers:
   
 
 -  TeX systems for use with
-    [Unix and GNU Linux systems](./FAQ-sysunix.html)
+    [Unix and GNU Linux systems](FAQ-sysunix.md)
 -  TeX systems for use with 
-    [Modern Windows systems](./FAQ-syswin32.html)
+    [Modern Windows systems](FAQ-syswin32.md)
 -  TeX systems for use with 
-    [Macintosh systems](./FAQ-sysmac.html)
+    [Macintosh systems](FAQ-sysmac.md)
 -  TeX systems for 
-    [Other sorts of systems](./FAQ-sysother.html)
+    [Other sorts of systems](FAQ-sysother.md)
 

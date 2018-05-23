@@ -5,7 +5,7 @@ revised: 2014-06-10
 # What is &epsilon;-TeX?
 
 While Knuth has declared that TeX will never 
-[change in any substantial way](./FAQ-TeXfuture.html), there remain
+[change in any substantial way](FAQ-TeXfuture.md), there remain
 things that one might wish had been done differently, or indeed
 implemented at all.
 
@@ -29,14 +29,14 @@ The extensions range from the seemingly simple (increasing the number
 of available registers from 256 to 32768) through to extremely subtle
 programming support.
 
-[ConTeXt](./FAQ-ConTeXt.html) has required &epsilon;-TeX for its operation
+[ConTeXt](FAQ-ConTeXt.md) has required &epsilon;-TeX for its operation
 for some time, though development is now focused on the use of
-[LuaTeX](./FAQ-luatex.html).
+[LuaTeX](FAQ-luatex.md).
 
 Some LaTeX packages already specify the use of &epsilon;-TeX.  Some such
 packages may not work at all on a non-&epsilon;-TeX system; others will
 work, but not as well as on an &epsilon;-TeX system.  The 
-[LaTeX team](./FAQ-LaTeX3.html) has announced that future LaTeX
+[LaTeX team](FAQ-LaTeX3.md) has announced that future LaTeX
 packages (specifically those from the team, as opposed to those
 individually contributed) may require &epsilon;-TeX for optimum performance.
 

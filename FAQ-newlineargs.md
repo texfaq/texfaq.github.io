@@ -51,7 +51,7 @@ searches of this nature) may be used.  From another
 \end{eqnarray}
 ```
 which is a usage this FAQ would not recommend, anyway: refer
-to the [reason not to use `eqnarray`](./FAQ-eqnarray.html).
+to the [reason not to use `eqnarray`](FAQ-eqnarray.md).
 
 Note that the [`amsmath`](https://ctan.org/pkg/amsmath) package modifies the behaviour of
 ` ` in maths.  With [`amsmath`](https://ctan.org/pkg/amsmath), the

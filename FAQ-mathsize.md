@@ -9,8 +9,8 @@ declare what size fonts are to be used in mathematics with it.  This
 is done by declaring `\textfont`, `\scriptfont` and
 `\scriptscriptfont` for the maths families you're using; all such
 things are described in chapter&nbsp;17 of the 
-[TeXbook](./FAQ-tex-books.html) and in other books and
-[tutorials](./FAQ-man-tex.html) that discuss Plain TeX in sufficient
+[TeXbook](FAQ-tex-books.md) and in other books and
+[tutorials](FAQ-man-tex.md) that discuss Plain TeX in sufficient
 detail.
 
 In LaTeX, of course, all this stuff is automated: there is a scheme
@@ -50,8 +50,8 @@ for the whole document.  The default settings are specified in
 `fontdef.dtx` in the latex distribution, and are compiled into
 `fontmath.ltx`; the arguments to the command are just numbers
 (`pt` is assumed), but some of them are written using
-[LaTeX abbreviations](./FAQ-ltxabbrv.html) for standard font sizes.
+[LaTeX abbreviations](FAQ-ltxabbrv.md) for standard font sizes.
 Beware simply copying (parts of) the LaTeX definitions&nbsp;&mdash; since
 they contain those internal abbreviations, they need to be treated as
-[internal commands](./FAQ-atsigns.html).
+[internal commands](FAQ-atsigns.md).
 

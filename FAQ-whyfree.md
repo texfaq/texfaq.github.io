@@ -22,5 +22,5 @@ reverse is also true: some free implementations have features
 not available commercially.)
 
 This FAQ concentrates on ''free'' distributions of TeX, but we
-do at least list the [major vendors](./FAQ-commercial.html).
+do at least list the [major vendors](FAQ-commercial.md).
 

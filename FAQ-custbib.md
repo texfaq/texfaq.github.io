@@ -7,7 +7,7 @@ revised: 2014-06-10
 It _is_ possible to write your own: the standard bibliography
 styles are distributed in a form with many comments, and there is a description
 of the language in the BibTeX distribution (see 
-[BibTeX documentation](./FAQ-BibTeXing.html)).
+[BibTeX documentation](FAQ-BibTeXing.md)).
 However, it must be admitted that the language in which BibTeX
 styles are written is pretty obscure, and one would not recommend
 anyone who's not a confident programmer to write their own, though
@@ -22,7 +22,7 @@ of document, but the [`custom-bib`](https://ctan.org/pkg/custom-bib)'s ''master 
 styles'' already offer significantly more than the BibTeX standard set.
 
 An alternative, which is increasingly often recommended, to use
-[`biblatex`](./FAQ-biblatex.html).  [`Biblatex`](https://ctan.org/pkg/Biblatex) offers
+[`biblatex`](FAQ-biblatex.md).  [`Biblatex`](https://ctan.org/pkg/Biblatex) offers
 many hooks for adjusting the format of the output of your ''basic''
 BibTeX style, and a collection of ''contributed'' styles have also
 started to appear.  Note.bowever There are not as many of

@@ -32,7 +32,7 @@ base directory.  (References to such files will look like
 hint.)
 
 But why did it want to write at all?&nbsp;&mdash; 
-''[what's going in in my `\include`](./FAQ-include.html)'' explains
+''[what's going in in my `\include`](FAQ-include.md)'' explains
 how `\include` works, among other things by writing an
 `aux` file for every `\includ`ed file.
 

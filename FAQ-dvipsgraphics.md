@@ -6,9 +6,9 @@ revised: 2014-06-10
 
 `Dvips`, as originally conceived, can only import a single
 graphics format: 
-[encapsulated PostScript](./FAQ-eps.html) (`eps` files).
+[encapsulated PostScript](FAQ-eps.md) (`eps` files).
 `Dvips` also deals with the slightly eccentric EPS that is
-created by [MetaPost](./FAQ-MP.html).
+created by [MetaPost](FAQ-MP.md).
 
 Apart from the fact that a depressing proportion of drawing
 applications produce corrupt EPS when asked for such output,

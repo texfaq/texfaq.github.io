@@ -6,7 +6,7 @@ revised: 2014-06-10
 
 The obvious solution is to make the footnote number reset whenever the
 page number is stepped, using the 
-[LaTeX internal mechanism](./FAQ-addtoreset.html).  Sadly, the place
+[LaTeX internal mechanism](FAQ-addtoreset.md).  Sadly, the place
 in the document where the page number is stepped is unpredictable, not
 (''tidily'') at the end of the printed page; so changing the footnote
 number only ever works by ''luck''.

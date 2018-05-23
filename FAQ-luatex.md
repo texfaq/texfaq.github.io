@@ -5,7 +5,7 @@ revised: 2014-06-10
 # pdfTeX and LuaTeX
 
 Elsewhere in these FAQs, we learn that development of
-[pdfTeX](./FAQ-whatpdftex.html) is ''in essence'' complete&nbsp;&mdash; no new
+[pdfTeX](FAQ-whatpdftex.md) is ''in essence'' complete&nbsp;&mdash; no new
 facilities are being developed at the time of writing.  The pdfTeX
 team has announced that they have frozen pdfTeX's specification in
 its current state (version 1.40.11), and that nothing but bug
@@ -35,7 +35,7 @@ The [LuaTeX project](http://www.luatex.org/) is (with monetary
 support from various sources) pursuing avenues that many of the other
 current projects have in their sights, notably Unicode character
 representations and support for OpenType fonts.  The intention is
-to integrate the extensions pioneered by [Aleph](./FAQ-omegaleph.html).
+to integrate the extensions pioneered by [Aleph](FAQ-omegaleph.md).
 Users may also care to view the 
 [LuaTeX documentation page](http://www.luatex.org/documentation.html)
 or the [LuaTeX WIKI](http://wiki.luatex.org)

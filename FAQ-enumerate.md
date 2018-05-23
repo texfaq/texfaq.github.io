@@ -30,7 +30,7 @@ starts a list whose labels run (a), (b), (c), &hellip;; while
 starts a list whose labels run I/, II/, III/, &hellip;
 
 The [`paralist`](https://ctan.org/pkg/paralist) package, whose primary purpose is 
-[compaction of lists](./FAQ-complist.html), provides the same facilities
+[compaction of lists](FAQ-complist.md), provides the same facilities
 for its `enumerate`-like environments.
 
 If you need non-stereotyped designs, the [`enumitem`](https://ctan.org/pkg/enumitem) package

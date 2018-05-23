@@ -24,7 +24,7 @@ there used (once upon a time) to be DVI processors that could use
 GF files, modern processors  use
 packed raster (PK) files (incidentally, pdfTeX also uses
 PK files if nothing ''better'' is available, but
-see [fuzzy fonts in PDF](./FAQ-fuzzy-type3.html)).
+see [fuzzy fonts in PDF](FAQ-fuzzy-type3.md)).
 Therefore, you need to generate a PK file from the GF file; the
 program `gftopk` does this for you, and once you've done that you
 may throw the GF file away.

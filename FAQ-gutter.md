@@ -28,12 +28,12 @@ the treasured symmetry unless you've done something about the margin
 settings.
 
 The packages recommended in 
-''[setting up margins](./FAQ-marginpkgs.html)'' mostly have provision for
+''[setting up margins](FAQ-marginpkgs.md)'' mostly have provision for
 a ''binding offset'' or a ''binding correction''&nbsp;&mdash; search for
 ''binding'' in the manuals ([`vmargin`](https://ctan.org/pkg/vmargin) doesn't help, here).
 
 If you're doing the job by hand (see 
-[manual margin setup](./FAQ-marginmanual.html)), the trick is to
+[manual margin setup](FAQ-marginmanual.md)), the trick is to
 calculate your page and margin dimensions as normal, and then:
   
 

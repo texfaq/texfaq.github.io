@@ -20,7 +20,7 @@ creates the typographic effects of the document needs to be recreated
 by editing.
 
 If the file you have is in DVI format, many of the techniques
-for [converting (La)TeX to ASCII](./FAQ-toascii.html) are
+for [converting (La)TeX to ASCII](FAQ-toascii.md) are
 applicable.  Consider `dvi2tty`, `crudetype` and
 `catdvi`.  Remember that there are likely to be problems
 finding included material (such as included PostScript figures, that
@@ -43,7 +43,7 @@ you can tag the PDF file into an estructured document, output
 thence to well-formed XHTML, and import the results into
 Microsoft `Word` (2000 or later).  From there, one may
 convert to (La)TeX using one of the techniques discussed in
-''[converting to and from (La)TeX](./FAQ-fmtconv.html)''.
+''[converting to and from (La)TeX](FAQ-fmtconv.md)''.
 
 The result will typically (at best) be poorly marked-up.  Problems may
 also arise from the oddity of typical TeX font encodings (notably

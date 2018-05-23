@@ -12,7 +12,7 @@ are expandable in modern TeX implementations, but size of the
 arrays of ''registers'' is written into the specification as being 256
 (usually); this number may not be changed if you still wish to call
 the result TeX
-(see [testing TeX implementations](./FAQ-triptrap.html)).
+(see [testing TeX implementations](FAQ-triptrap.md)).
 
 If you fill up one of these register arrays, you get a TeX error
 message saying
@@ -30,23 +30,23 @@ whose use is ''hidden'' in LaTeX; the limit on the number of
 There is nothing that can directly be done about this error, as you can't
 extend the number of available registers without extending TeX
 itself.
-  Of course, [&epsilon;-TeX](./FAQ-etex.html), [Omega](./FAQ-omegaleph.html) and
-  [LuaTeX](./FAQ-luatex.html)
-all do this, as does [MicroPress Inc's VTeX](./FAQ-commercial.html).
+  Of course, [&epsilon;-TeX](FAQ-etex.md), [Omega](FAQ-omegaleph.md) and
+  [LuaTeX](FAQ-luatex.md)
+all do this, as does [MicroPress Inc's VTeX](FAQ-commercial.md).
 
 The commonest way to encounter one of these error messages is to have
 broken macros of some sort, or incorrect usage of macros (an example
-is discussed in [epsf problems](./FAQ-epsf.html)).
+is discussed in [epsf problems](FAQ-epsf.md)).
 
 However, sometimes one just _needs_ more than TeX can offer,
 and when this happens, you've just got to work out a different way of
 doing things.  An example is the 
-[difficulty of loading PicTeX with LaTeX](./FAQ-usepictex.html).
+[difficulty of loading PicTeX with LaTeX](FAQ-usepictex.md).
 The more modern drawing package, [`pgf`](https://ctan.org/pkg/pgf) with its higher-level
 interface [`TikZ`](https://ctan.org/pkg/TikZ) is also a common source of such problems.
 
 In such cases, it is usually possible to use the
-[&epsilon;-TeX](./FAQ-etex.html) extensions (all modern distributions provide
+[&epsilon;-TeX](FAQ-etex.md) extensions (all modern distributions provide
 them).  The LaTeX package [`etex`](https://ctan.org/pkg/etex) modifies the register allocation
 mechanism to make use of &epsilon;-TeX's extended register sets.
 [`Etex`](https://ctan.org/pkg/Etex) is a
@@ -67,7 +67,7 @@ is room for &lsaquo;_n_&rsaquo; more inserts.  Hint: by default
 [`morefloats`](https://ctan.org/pkg/morefloats) adds 18 inserts (though it can be instructed to
 use more), and [`manyfoot`](https://ctan.org/pkg/manyfoot) seems to be happy with 10 reserved,
 but there are ''hard'' limits that we cannot program around&nbsp;&mdash; the
-discussion of [running out of floats](./FAQ-tmupfl.html) has more about this.
+discussion of [running out of floats](FAQ-tmupfl.md) has more about this.
 It is essential that you load [`etex`](https://ctan.org/pkg/etex) before any other
 packages, and reserve any extra inserts immediately:
 ```latex

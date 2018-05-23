@@ -6,7 +6,7 @@ revised: 2014-06-10
 
 This is a pdfTeX error: pdfTeX is running in PDF output
 mode, and it has encountered a 
-[`\special`](./FAQ-specials.html) command.  pdfTeX is
+[`\special`](FAQ-specials.md) command.  pdfTeX is
 able to generate its own output, and in this mode of operation has no
 need of `\special` commands (which allow the user to pass
 information to the driver being used to generate output).

@@ -25,7 +25,7 @@ revised: 2014-06-10
   Translation _to_ RTF may be done (for a somewhat
   constrained set of LaTeX documents) by TeX2RTF, which
   can produce ordinary RTF, Windows Help RTF (as well as
-  HTML, [conversion to HTML](./FAQ-LaTeX2HTML.html)).
+  HTML, [conversion to HTML](FAQ-LaTeX2HTML.md)).
   TeX2RTF is supported on various Unix platforms and under
   Windows&nbsp;3.1
 - Microsoft Word A rudimentary (free) program for converting

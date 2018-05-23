@@ -17,7 +17,7 @@ manipulate documents according to context.  For example, the macro
 but in these FAQs the default definition of the macro is
 overridden, and it simply expands to the letters ''TeX''.  (_You_
 may not think this a good thing, but the author of the macros has his
-reasons&nbsp;&ndash; see [TeX-related logos](./FAQ-logos.html).)
+reasons&nbsp;&ndash; see [TeX-related logos](FAQ-logos.md).)
 
 Macro names are conventionally built from a `\\`
 followed by a sequence of letters, which may be upper or lower case
@@ -67,8 +67,8 @@ stick with it).
 
 Macro writing can get very complicated, very quickly.  If you are a
 beginner (La)TeX programmer, you are well advised to read something
-along the lines of the [TeXbook](./FAQ-tex-books.html); once you're under
-way, [TeX by Topic](./FAQ-ol-books.html) is possibly a more satisfactory
+along the lines of the [TeXbook](FAQ-tex-books.md); once you're under
+way, [TeX by Topic](FAQ-ol-books.md) is possibly a more satisfactory
 choice.  Rather a lot of the answers in these FAQs tell you
 about various issues of how to write macros.
 

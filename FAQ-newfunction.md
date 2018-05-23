@@ -27,7 +27,7 @@ say:
 ```
 `\DeclareMathOperator*` declares the operator always to have its
 sub- and superscripts in the 
-''[`\limits` position](./FAQ-limits.html)''.
+''[`\limits` position](FAQ-limits.md)''.
 
 The [`amsopn`](https://ctan.org/pkg/amsopn) command `\operatorname` allows you to
 introduce _ad hoc_ operators into your mathematics, so

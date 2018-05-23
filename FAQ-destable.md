@@ -5,7 +5,7 @@ revised: 2014-06-10
 # The design of tables
 
 In recent years, several authors have argued that the examples, set
-out by Lamport in his [LaTeX manual](./FAQ-latex-books.html), have cramped
+out by Lamport in his [LaTeX manual](FAQ-latex-books.md), have cramped
 authors' style and have led to extremely poor table design.  It is in
 fact difficult even to work out what many of the examples in Lamport's
 book ''mean''.
@@ -16,7 +16,7 @@ offer.
 
 The problem of vertical spacing is plain for all to see, and is
 addressed in several packages&nbsp;&mdash; see 
-''[spacing of lines in tables](./FAQ-struttab.html)''.
+''[spacing of lines in tables](FAQ-struttab.md)''.
 
 The argument about rules is presented in the excellent essay that
 prefaces the documentation of Simon Fear's [`booktabs`](https://ctan.org/pkg/booktabs) package,

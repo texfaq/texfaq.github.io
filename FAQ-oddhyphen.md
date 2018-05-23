@@ -13,6 +13,6 @@ in the Oxford Dictionaries). This problem is being addressed by the UK
 TeX User community (see Baskerville, issue&nbsp;4.4) but an entirely
 satisfactory solution will take time; the current status is to be
 found on CTAN (see
-[''using a new language''](./FAQ-newlang.html) for instructions
+[''using a new language''](FAQ-newlang.md) for instructions
 on adding this new ''language'').
 

@@ -31,7 +31,7 @@ The technique is beguilingly simple, but it's not terribly accurate
 The `latexcount` script does the same sort of job, in one
 ''step''; being a `perl` script, it is in principle rather
 easily configured (see documentation inside the script).
-Several [editors and shells](./FAQ-editors.html) offer something similar.
+Several [editors and shells](FAQ-editors.md) offer something similar.
 
 `TeXcount` goes a long way with heuristics for counting,
 starting from a LaTeX file; the documentation is comprehensive, and

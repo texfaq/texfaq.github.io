@@ -21,7 +21,7 @@ elsewhere in TeX (to say the least!), so that the characters can
 only be made active while the command is executing.
 
 Using the techniques discussed in 
-''[characters as commands](./FAQ-activechars.html)'',
+''[characters as commands](FAQ-activechars.md)'',
 we can define:
 ```latex
 \begingroup
@@ -74,7 +74,7 @@ Two features of the coding are important:
 Note that the technique used in such macros as `\chord`, here, is
 analogous to that used in such commands as `\verb`; and, in just the
 same way as `\verb` (see
-''[`\verb` doesn't work in arguments](./FAQ-verbwithin.html)''),
+''[`\verb` doesn't work in arguments](FAQ-verbwithin.md)''),
 `\chord` won't work inside the argument of another command (the
 error messages, if they appear at all, will probably be rather odd).
 

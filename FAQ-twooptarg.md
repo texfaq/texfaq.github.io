@@ -5,7 +5,7 @@ revised: 2014-06-10
 # More than one optional argument
 
 If you've already read 
-''[breaking the 9-argument limit](./FAQ-moren9.html)''.
+''[breaking the 9-argument limit](FAQ-moren9.md)''.
 you can probably guess the ''simple'' solution to this problem:
 command relaying.
 
@@ -49,7 +49,7 @@ A command with two optional arguments strains the limit of what's
 sensible: obviously you can extend the technique to provide as many
 optional arguments as your fevered imagination can summon.  However,
 see the comments on the use of the [`keyval`](https://ctan.org/pkg/keyval) package, in 
-''[breaking the 9-argument limit](./FAQ-moren9.html)'',
+''[breaking the 9-argument limit](FAQ-moren9.md)'',
 which offers an alternative way forward.
 
 If you must, however, consider the [`optparams`](https://ctan.org/pkg/optparams) or

@@ -5,7 +5,7 @@ revised: 2014-06-10
 # What is a DVI driver?
 
 A DVI driver is a program that takes as input a
-[DVI file](./FAQ-dvi.html)
+[DVI file](FAQ-dvi.md)
 and (usually) produces a file in a format that something _other_
 than a TeX-related program can process.
 
@@ -20,8 +20,8 @@ provides.  Each driver will expect the font information in a particular
 form.
 
 For more information on the forms of font information, see
-[PK files](./FAQ-pk.html),
-[TFM files](./FAQ-tfm.html),
-[virtual fonts](./FAQ-virtualfonts.html)
-and [Using PostScript fonts with TeX](./FAQ-usepsfont.html).
+[PK files](FAQ-pk.md),
+[TFM files](FAQ-tfm.md),
+[virtual fonts](FAQ-virtualfonts.md)
+and [Using PostScript fonts with TeX](FAQ-usepsfont.md).
 

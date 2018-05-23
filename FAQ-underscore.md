@@ -15,7 +15,7 @@ of them will daunt most ordinary people.
 
 Moderately skilled macro programmers can readily generate a quick hack
 to permit typing `_` to mean ''text underscore'' (the answer in
-  ''[defining characters as macros](./FAQ-activechars.html)''
+  ''[defining characters as macros](FAQ-activechars.md)''
 uses this example to illustrate its techniques).
 However, the code _is_ somewhat tricky, and more importantly
 there are significant points where it's easy to get it wrong.  There
