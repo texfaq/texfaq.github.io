@@ -23,7 +23,7 @@ might write:
 \end{tabular}
 ```
 and [`multirow`](http://ctan.org/pkg/multirow) will position ''Common g text'' at the vertical
-centre of the space defined by the other rows.  Note that the rows
+center of the space defined by the other rows.  Note that the rows
 that don't contain the ''multi-row'' specification must have empty
 cells where the multi-row is going to appear.
 

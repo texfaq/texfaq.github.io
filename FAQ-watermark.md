@@ -30,7 +30,7 @@ package, or by using [`everypage`](http://ctan.org/pkg/everypage) (see below).
 [`Eso-pic`](http://ctan.org/pkg/Eso-pic) attaches a `picture` environment to
 every page as it is shipped out; the user can put things into that
 environment: the package provides commands for placing things at
-certain useful points (like ''text upper left'' or ''text centre'') in
+certain useful points (like ''text upper left'' or ''text center'') in
 the picture, but the user is at liberty to do what he or she likes.
 
 [`Eso-pic`](http://ctan.org/pkg/Eso-pic) is, in turn, built upon the package

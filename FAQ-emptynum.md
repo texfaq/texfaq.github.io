@@ -4,7 +4,7 @@ If you use `\pagestyle{empty}` and you find some pages are
 numbered anyway, you are probably encountering one of the style
 decisions built into the standard LaTeX classes: that certain
 special pages should always appear with `\pagestyle{plain}`,
-with a page number at the centre of the page foot.  The special pages
+with a page number at the center of the page foot.  The special pages
 in question are those (in [`article`](http://ctan.org/pkg/article) class) containing a
 `\maketitle`, or (in [`book`](http://ctan.org/pkg/book) and [`report`](http://ctan.org/pkg/report) classes)
 `\chapter` or `\part` commands.

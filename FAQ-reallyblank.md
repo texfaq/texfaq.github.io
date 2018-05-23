@@ -55,7 +55,7 @@ being an equivalent of `\cleardoublepage`).  One can achieve
 `\clearemptydoublepage` we're after would be achieved by
 `\cleartooddpage[``\thispagestyle{empty}``]`.  The
 commands will also serve if you want the surreal effect of ''This page
-intentionally left blank'' in the centre of an otherwise empty page.
+intentionally left blank'' in the center of an otherwise empty page.
 
 
 ----

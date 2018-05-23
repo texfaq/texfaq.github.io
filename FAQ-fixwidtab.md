@@ -26,7 +26,7 @@ between them.
 The [`tabulary`](http://ctan.org/pkg/tabulary) package (by the same author) provides a way of
 ''balancing'' the space taken by the columns of a table.  The package
 defines column specifications `C`, `L`, `R` and
-`J`, giving, respectively, centred, left, right and
+`J`, giving, respectively, centerd, left, right and
 fully-justified versions of space-sharing columns.  The package
 examines how long each column would be ''naturally'' (i.e., on a piece of paper of unlimited width), and
 allocates space to each column accordingly.  There are ''sanity
