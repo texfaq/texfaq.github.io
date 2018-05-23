@@ -6,10 +6,15 @@ https://github.com/uktug/uk-tex-faq/blob/master/ChangeLog
 The format is based on [Keep a
 Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2018-05-23
+
+### Changed
+- Q-newans: Updated to point to GitHub for contributions
+
 ## 2018-05-22
 
 ### Changed
 - Source converted to Markdown
 - Hosting moved to GitHub Pages
 - New management organisation
-- Q-noans: Updated to point to GitHub not email for suggestions
+- Q-noans: Updated to point to GitHub for suggestions
