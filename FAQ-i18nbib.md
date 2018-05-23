@@ -18,7 +18,7 @@ Otherwise, the simplest procedure is to provide translations of
 BibTeX styles into the
 required language: the solitary [`finplain.bst`](https://ctan.org/pkg/finplain.bst) does that for
 Finnish; others one can find are for Danish ([`dk-bib`](https://ctan.org/pkg/dk-bib)), French
-([`bib-fr`](https://ctan.org/pkg/bib-fr)), German ([`bibgerm`](https://ctan.org/pkg/bibgerm)), Norwegian
+([`bib-fr`](https://ctan.org/pkg/bib-fr)), German ([`germbib`](https://ctan.org/pkg/germbib)), Norwegian
 ([`norbib`](https://ctan.org/pkg/norbib)) and Swedish ([`swebib`](https://ctan.org/pkg/swebib)) bundles (of which
 the [`bib-fr`](https://ctan.org/pkg/bib-fr) set is the most extensive).  The [`spain`](https://ctan.org/pkg/spain)
 style implements a traditional Spanish citation style.

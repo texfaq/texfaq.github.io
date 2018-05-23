@@ -24,7 +24,7 @@ universally loved&hellip;
 Nevertheless, use the TC font version of the symbol if you are
 producing documents using Knuth's Computer Modern Fonts.
 
-The each of the [`latin9`](https://ctan.org/pkg/latin9) and [`latin10`](https://ctan.org/pkg/latin10) input encoding
+The each of the `latin9` and `latin10 input encoding
 definitions for the [`inputenc`](https://ctan.org/pkg/inputenc) package has a euro character
 defined (character position 164, occupied in other ISO Latin
 character sets by the ''currency symbol'' &#xa4;, which
@@ -59,7 +59,7 @@ package provides the
 command `\euro`), whereas [`europs`](https://ctan.org/pkg/europs) matches the Euro symbol
 with the surrounding text (providing the command `\EUR`).  To use
 either package
-with the [`latin9`](https://ctan.org/pkg/latin9) encoding, you need to define `\texteuro`
+with the `latin9` encoding, you need to define `\texteuro`
 as an alias for the euro command the package defines.
 
 The Adobe fonts are probably the best bet for use in non-Computer

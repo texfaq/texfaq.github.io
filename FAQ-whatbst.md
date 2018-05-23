@@ -27,7 +27,7 @@ Fortunately, help is at hand, on the Web, with this problem:
 Of course, these pages don't cover everything; the problem the
 inquisitive user faces, in fact, is to find what the various available
 styles actually do.  This is best achieved (if the links above don't
-help) by using [`xampl.bib`](https://ctan.org/pkg/xampl.bib) from the BibTeX documentation
+help) by using [`xampl.bib`](https://ctan.org/pkg/bibtex) from the BibTeX documentation
 distribution: one can get a pretty good feel for any style one has to
 hand using this ''standard'' bibliography.  For style
 [`my-style.bst`](https://ctan.org/pkg/my-style.bst), the simple LaTeX document:

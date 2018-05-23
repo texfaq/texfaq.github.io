@@ -19,7 +19,7 @@ families (the other is called `msam`), which offer a large number of
 mathematical symbols to supplement those provided in Knuth's fonts.
 The fonts are available in Type&nbsp;1 format in
 modern distributions.   Support for using the fonts under
-LaTeX is available in packages [`amssymb`](https://ctan.org/pkg/amssymb) and
+LaTeX is available in packages [`amssymb`](https://ctan.org/pkg/amsfonts) and
 [`amsfonts`](https://ctan.org/pkg/amsfonts).  The font shape is a rather
 austere sans, which many people don't like (though it captures the
 essence of quickly-chalked writing rather well).

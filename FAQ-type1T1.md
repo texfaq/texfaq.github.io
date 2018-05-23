@@ -47,8 +47,8 @@ rather cleaner than those of [`CM-super`](https://ctan.org/pkg/CM-super).
 [`Latin Modern`](https://ctan.org/pkg/lm)
 is more modest in its disc space demands than is
 [`CM-super`](https://ctan.org/pkg/CM-super), while not being nearly as stark in its range of
-design sizes as is [`CM-LGC`](https://ctan.org/pkg/CM-LGC)&nbsp;&mdash;  [`Latin`](https://ctan.org/pkg/Latin)
-[`Modern`](https://ctan.org/pkg/Modern)'s fonts are offered in the same set of sizes as the
+design sizes as is [`CM-LGC`](https://ctan.org/pkg/CM-LGC)&nbsp;&mdash;
+[`Latin Modern`](https://ctan.org/pkg/lm)'s fonts are offered in the same set of sizes as the
 original [`CM`](https://ctan.org/pkg/CM) fonts.  It's hard to argue with the choice:
 Knuth's range of sizes has stood the test of time, and is one of the
 bases on which the excellence of the TeX system rests.

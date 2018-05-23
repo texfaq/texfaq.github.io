@@ -30,7 +30,7 @@ which come with bold variants of the small-caps fonts.
 
 
 If you need to use Type&nbsp;1 fonts, you can't proceed with Knuth-style
-fonts, since there are no Type&nbsp;1 versions of the [`mf-extra`](https://ctan.org/pkg/mf-extra)
+fonts, since there are no Type&nbsp;1 versions of the [`mf-extra`](https://ctan.org/pkg/cm-mf-extra-bold)
 set.  There are, however, Type&nbsp;1 distributions of the EC&nbsp;fonts, so you
 can switch to EC and use them; alternatives are discussed in
 [8-bit Type&nbsp;1 fonts](./FAQ-type1T1.html).
