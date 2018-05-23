@@ -8,7 +8,7 @@ cases) by using
 technique rather strictly limits what can be used as the content of
 the cell.
 
-The [`multirow`](http://ctan.org/pkg/multirow) package enables you to construct such multi-row
+The [`multirow`](https://ctan.org/pkg/multirow) package enables you to construct such multi-row
 cells, in a very simple manner.  For the simplest possible use, one
 might write:
 ```latex
@@ -22,7 +22,7 @@ might write:
 \hline
 \end{tabular}
 ```
-and [`multirow`](http://ctan.org/pkg/multirow) will position ''Common g text'' at the vertical
+and [`multirow`](https://ctan.org/pkg/multirow) will position ''Common g text'' at the vertical
 center of the space defined by the other rows.  Note that the rows
 that don't contain the ''multi-row'' specification must have empty
 cells where the multi-row is going to appear.
@@ -46,7 +46,7 @@ up the text into a `*`-declared `\multirow`.
 
 The `\multirow` command may also used to write labels vertically
 down one or other side of a table (with the help of the
-[`graphics`](http://ctan.org/pkg/graphics) or [`graphicx`](http://ctan.org/pkg/graphicx) package, which provide the
+[`graphics`](https://ctan.org/pkg/graphics) or [`graphicx`](https://ctan.org/pkg/graphicx) package, which provide the
 `\rotatebox` command):
 ```latex
 \begin{tabular}{|l|l|}
@@ -76,13 +76,13 @@ bottom left
      &bottom right\\ \hline
 \end{tabular}
 ```
-[`Multirow`](http://ctan.org/pkg/Multirow) is set up to interact with the [`bigstrut`](http://ctan.org/pkg/bigstrut)
+[`Multirow`](https://ctan.org/pkg/Multirow) is set up to interact with the [`bigstrut`](https://ctan.org/pkg/bigstrut)
 package (which is also discussed in the answer to 
 [spacing lines in tables](./FAQ-struttab.html)).  You use an
 optional argument to the `\multirow` command to say how many of the
 rows in the multi-row have been opened up with `\bigstrut`.
 
-The documentation of both [`multirow`](http://ctan.org/pkg/multirow) and [`bigstrut`](http://ctan.org/pkg/bigstrut) is
+The documentation of both [`multirow`](https://ctan.org/pkg/multirow) and [`bigstrut`](https://ctan.org/pkg/bigstrut) is
 to be found, as comments, in the package files themselves.
 
 

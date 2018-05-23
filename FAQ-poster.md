@@ -1,45 +1,45 @@
 # Creating posters with LaTeX
 
 There is no complete ''canned solution'' to creating a poster (as, for
-example, classes like [`seminar`](http://ctan.org/pkg/seminar), [`powerdot`](http://ctan.org/pkg/powerdot) and
-[`beamer`](http://ctan.org/pkg/beamer) serve for creating presentations in a variety of
+example, classes like [`seminar`](https://ctan.org/pkg/seminar), [`powerdot`](https://ctan.org/pkg/powerdot) and
+[`beamer`](https://ctan.org/pkg/beamer) serve for creating presentations in a variety of
 styles).
 
-The nearest approach to the complete solution is the [`sciposter`](http://ctan.org/pkg/sciposter)
+The nearest approach to the complete solution is the [`sciposter`](https://ctan.org/pkg/sciposter)
 class, which provides the means to produce really rather good posters
 according to the author's required style.  A complete worked example
 is provided with the distribution
 
 Otherwise, there is a range of tools, most of which are based on the
-[`a0poster`](http://ctan.org/pkg/a0poster) class, which sets up an appropriately-sized piece of
+[`a0poster`](https://ctan.org/pkg/a0poster) class, which sets up an appropriately-sized piece of
 paper, sets font sizes appropriately, and leaves you to your own
 devices.
 
-Having used [`a0poster`](http://ctan.org/pkg/a0poster), you can of course slog it out, and write
+Having used [`a0poster`](https://ctan.org/pkg/a0poster), you can of course slog it out, and write
 all your poster as an unadorned LaTeX document (presumably in
-multiple columns, using the [`multicol`](http://ctan.org/pkg/multicol) package), but it's not really
-necessary: the (straightforward) [`textpos`](http://ctan.org/pkg/textpos) package provides a
+multiple columns, using the [`multicol`](https://ctan.org/pkg/multicol) package), but it's not really
+necessary: the (straightforward) [`textpos`](https://ctan.org/pkg/textpos) package provides a
 simple way of positioning chunks of text, or tables or figures, on the
 poster page.
 
-More sophisticated is the [`flowfram`](http://ctan.org/pkg/flowfram) package, whose basic aim
+More sophisticated is the [`flowfram`](https://ctan.org/pkg/flowfram) package, whose basic aim
 in life is flowing text from one box on the page to the next.  One of
 the package's design aims seems to have been the production of
 posters, and a worked example is provided.  The author of
-[`flowfram`](http://ctan.org/pkg/flowfram) has an experimental tool called
+[`flowfram`](https://ctan.org/pkg/flowfram) has an experimental tool called
 [JpgfDraw](http://www.dickimaw-books.com/software.html#jpgfdraw), which
 allows you to construct the outline of frames for use with
-[`flowfram`](http://ctan.org/pkg/flowfram).
+[`flowfram`](https://ctan.org/pkg/flowfram).
 
-The [`beamerposter`](http://ctan.org/pkg/beamerposter) package is added to a 
-[[`beamer`](http://ctan.org/pkg/beamer) document](./FAQ-slidecls.html) to enable the user to work
-as if in a [`a0poster`](http://ctan.org/pkg/a0poster) class.  Thus [`beamer`](http://ctan.org/pkg/beamer)'s neat
+The [`beamerposter`](https://ctan.org/pkg/beamerposter) package is added to a 
+[[`beamer`](https://ctan.org/pkg/beamer) document](./FAQ-slidecls.html) to enable the user to work
+as if in a [`a0poster`](https://ctan.org/pkg/a0poster) class.  Thus [`beamer`](https://ctan.org/pkg/beamer)'s neat
 provisions for layout may be used when creating the poster.
-Documentation of [`beamerposter`](http://ctan.org/pkg/beamerposter) is sparse, but an example file
+Documentation of [`beamerposter`](https://ctan.org/pkg/beamerposter) is sparse, but an example file
 allows the user to get a grip on what's available.
 
 Despite the relative shortage of tools, there are a fair few web pages
-that explain the process (mostly in terms of the [`a0poster`](http://ctan.org/pkg/a0poster)
+that explain the process (mostly in terms of the [`a0poster`](https://ctan.org/pkg/a0poster)
 route):
   
 

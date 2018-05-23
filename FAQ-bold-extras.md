@@ -21,7 +21,7 @@ would be an appropriate place).  Once you've
 [rebuilt the file indexes as necessary](./FAQ-inst-wlcf.html),
 TeX (and friends) will automatically build whatever font files they
 need when you first make reference to them.  There's a jiffy package
-[`bold-extra`](http://ctan.org/pkg/bold-extra) that builds the necessary font data structures
+[`bold-extra`](https://ctan.org/pkg/bold-extra) that builds the necessary font data structures
 so that you can use the fonts within LaTeX.
 
 
@@ -30,7 +30,7 @@ which come with bold variants of the small-caps fonts.
 
 
 If you need to use Type&nbsp;1 fonts, you can't proceed with Knuth-style
-fonts, since there are no Type&nbsp;1 versions of the [`mf-extra`](http://ctan.org/pkg/mf-extra)
+fonts, since there are no Type&nbsp;1 versions of the [`mf-extra`](https://ctan.org/pkg/mf-extra)
 set.  There are, however, Type&nbsp;1 distributions of the EC&nbsp;fonts, so you
 can switch to EC and use them; alternatives are discussed in
 [8-bit Type&nbsp;1 fonts](./FAQ-type1T1.html).

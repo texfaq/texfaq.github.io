@@ -33,7 +33,7 @@ can make them like this:
 ```
 and so on.
 
-As an alternative, among other facilities the [`abstract`](http://ctan.org/pkg/abstract) package 
+As an alternative, among other facilities the [`abstract`](https://ctan.org/pkg/abstract) package 
 provides a
 `\saythanks` command and a `onecolabstract` environment
 which remove the need to fiddle with the `\thanks` and
@@ -47,7 +47,7 @@ footnoting. They can be used like this:
 ]
 \saythanks            % typeset any \thanks
 ```
-The [`memoir`](http://ctan.org/pkg/memoir) class offers all the facilities of [`abstract`](http://ctan.org/pkg/abstract).
+The [`memoir`](https://ctan.org/pkg/memoir) class offers all the facilities of [`abstract`](https://ctan.org/pkg/abstract).
 
 
 ----

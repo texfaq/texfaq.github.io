@@ -10,10 +10,10 @@ of programs are commonly useful, as well.
 as is the problem of 
 [typesetting algorithm specifications](./FAQ-algorithms.html).
 
-The [`listings`](http://ctan.org/pkg/listings) package is widely regarded as the best bet for
+The [`listings`](https://ctan.org/pkg/listings) package is widely regarded as the best bet for
 formatted output (it is capable of parsing program source, within the
 package itself), but there are several well-established packages that
-rely on a pre-compiler of some sort.  You may use [`listings`](http://ctan.org/pkg/listings)
+rely on a pre-compiler of some sort.  You may use [`listings`](https://ctan.org/pkg/listings)
 to typeset snippets that you include within your source:
 ```latex
 \usepackage{listings}
@@ -45,7 +45,7 @@ and of course there are other languages in the package's vocabulary
 than just `C`&hellip;
 
 For a long time, advice on (La)TeX lists seemed to regard
-[`listings`](http://ctan.org/pkg/listings) as the be-all and end-all on this topic.  In the
+[`listings`](https://ctan.org/pkg/listings) as the be-all and end-all on this topic.  In the
 last few years, viable alternatives have appeared
 
 `Highlight` is attractive if you need more than one output
@@ -55,7 +55,7 @@ and XSL-FO representations of your program listing.  The
 manual leads you through the details of defining a parameter file for
 a ''new'' language, as well as the presentation details of a language.
 
-The [`minted`](http://ctan.org/pkg/minted) package is another alternative that offers
+The [`minted`](https://ctan.org/pkg/minted) package is another alternative that offers
 the means of creating new language definitions.  It
 requires that code be processed using an external (`python`)
 script, [`Pygments`](http://pygments.org/).
@@ -65,7 +65,7 @@ more commonly-used languages, and there is advice on ''rolling your
 own'' on the 
 [`Pygments`](http://pygments.org/docs/lexerdevelopment/) site</a>
 
-Usage of [`minted`](http://ctan.org/pkg/minted) can be as simple as
+Usage of [`minted`](https://ctan.org/pkg/minted) can be as simple as
   `\begin{minted}{&lsaquo;_language_&rsaquo;}`
 
   &hellip;
@@ -75,11 +75,11 @@ which processes the program code dynamically, at typesetting time&nbsp;&mdash;
 though such usage is likely to require that 
 [separate processing be enabled](./FAQ-spawnprog.html).
 
-On a rather different path, the package [`showexpl`](http://ctan.org/pkg/showexpl) supports
+On a rather different path, the package [`showexpl`](https://ctan.org/pkg/showexpl) supports
 typesetting (La)TeX code and its typeset output, in parallel
 ''panes''.  (Thiscould provide support for (La)TeX instruction texts,
 or for papers in TeX user group publications.  The package uses
-[`listings`](http://ctan.org/pkg/listings) for its (La)TeX pane, and typesets the result
+[`listings`](https://ctan.org/pkg/listings) for its (La)TeX pane, and typesets the result
 into a simple box, for the other pane.
 
 Longer-established, and variously less ''powerful'' systems include:

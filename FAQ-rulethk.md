@@ -31,17 +31,17 @@ it's necessary to delve into the (rather tricky) code of `\hline`
 and `\cline` themselves.
 
 Fortunately, this job has already been done for the community: the
-[`booktabs`](http://ctan.org/pkg/booktabs) package defines three different classes of rule
+[`booktabs`](https://ctan.org/pkg/booktabs) package defines three different classes of rule
 (`\toprule`, `\midrule` and `\bottomrule`), and the package
 documentation offers hints on how to use them.  You are
 _strongly_ advised to read the documentation pretty carefully.
 
-The [`memoir`](http://ctan.org/pkg/memoir) class includes the [`booktabs`](http://ctan.org/pkg/booktabs) package, and
+The [`memoir`](https://ctan.org/pkg/memoir) class includes the [`booktabs`](https://ctan.org/pkg/booktabs) package, and
 repeats the documentation in its compendious manual.
 
 Note that none of the above mentions the issue of the weight of
 vertical rules (except in passing).  For the reasons, see the
-documentation of the [`booktabs`](http://ctan.org/pkg/booktabs) package (again); vertical
+documentation of the [`booktabs`](https://ctan.org/pkg/booktabs) package (again); vertical
 rules in tables are in any case even more trickily coded than are
 horizontal rules, and if their lack of configurability makes them
 still less attractive, so much the better for the design of your

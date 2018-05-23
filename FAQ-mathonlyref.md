@@ -12,8 +12,8 @@ using the AMSLaTeX unnumbered environments such as
 make no reference.  In a long or complex paper, this procedure could
 well become deeply tedious.
 
-Fortunately, help is at hand: the [`mh`](http://ctan.org/pkg/mh) bundle's
-[`mathtools`](http://ctan.org/pkg/mathtools) package offers a `showonlyrefs`
+Fortunately, help is at hand: the [`mh`](https://ctan.org/pkg/mh) bundle's
+[`mathtools`](https://ctan.org/pkg/mathtools) package offers a `showonlyrefs`
 switch through its `\mathtoolsset` command; when that's in
 operation, only those equations to which you make reference will be
 numbered in the final output.  See the package's documentation for

@@ -35,8 +35,8 @@ of characters present in the coding used in the file, to a Unicode
 version of the characters.
 
 
-Packages [`cmap`](http://ctan.org/pkg/cmap) and [`mmap`](http://ctan.org/pkg/mmap) both offer means of
-generating such tables ([`mmap`](http://ctan.org/pkg/mmap) has wider coverage, including
+Packages [`cmap`](https://ctan.org/pkg/cmap) and [`mmap`](https://ctan.org/pkg/mmap) both offer means of
+generating such tables ([`mmap`](https://ctan.org/pkg/mmap) has wider coverage, including
 the various maths encodings); both work with pdfTeX and no other
 engine.  Thus your document becomes something like:
 ```latex

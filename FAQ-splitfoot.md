@@ -36,7 +36,7 @@ increasing the size of the page may allow the footnote to be included
 in its entirety.  It may be necessary to change the size of more than
 one page.
 
-The [`fnbreak`](http://ctan.org/pkg/fnbreak) package detects (and generates warnings about)
+The [`fnbreak`](https://ctan.org/pkg/fnbreak) package detects (and generates warnings about)
 split footnotes.
 
 

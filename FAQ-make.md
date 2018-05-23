@@ -52,12 +52,12 @@ it makes no claim to deal with other things (such as multiple
 bibliographies or indexes, or lists of terminology, etc.), which
 AutoLaTeX can be configured to process.
 
-The [[`texinfo`](http://ctan.org/pkg/texinfo) system](./FAQ-texinfo.html) comes with a similar
+The [[`texinfo`](https://ctan.org/pkg/texinfo) system](./FAQ-texinfo.html) comes with a similar
 utility called `texi2dvi`, which is capable of ''converting''
-either LaTeX or [`texinfo`](http://ctan.org/pkg/texinfo) files into DVI (or into
+either LaTeX or [`texinfo`](https://ctan.org/pkg/texinfo) files into DVI (or into
 PDF, using pdfTeX).
 
-A later contribution is the bundle [`latexmake`](http://ctan.org/pkg/latexmake), which
+A later contribution is the bundle [`latexmake`](https://ctan.org/pkg/latexmake), which
 offers a set of `make` rules that invoke `texi2dvi`
 as necessary.
 

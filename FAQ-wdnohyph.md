@@ -29,7 +29,7 @@ each language the word may appear in.  So:
 \selectlanguage{french}
 \hyphenation{oddword}
 ```
-(note that [`babel`](http://ctan.org/pkg/babel) will select the default language for the
+(note that [`babel`](https://ctan.org/pkg/babel) will select the default language for the
 document&nbsp;&mdash; English, in this case&nbsp;&mdash; at `\begin{document}`.)
 
 A particular instance of this requirement is avoiding the hyphenation

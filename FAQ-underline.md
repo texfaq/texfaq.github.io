@@ -17,15 +17,15 @@ satisfactory, however: the text gets stuck into a box, and won't break
 at line end.
 
 Two packages are available that solve this problem.  The
-[`ulem`](http://ctan.org/pkg/ulem) package redefines the
+[`ulem`](https://ctan.org/pkg/ulem) package redefines the
 `\emph` command to underline its argument; the underlined text thus
 produced behaves as ordinary emphasised text, and will break over the
 end of a line.  (The package is capable of other peculiar effects,
 too: read its documentation.)
-The [`soul`](http://ctan.org/pkg/soul) package defines an `\ul` command (after which the
+The [`soul`](https://ctan.org/pkg/soul) package defines an `\ul` command (after which the
 package is, in part, named) that underlines running text.
 
-Beware of [`ulem`](http://ctan.org/pkg/ulem)'s default behaviour, which is to convert the
+Beware of [`ulem`](https://ctan.org/pkg/ulem)'s default behaviour, which is to convert the
 `\emph` command into an underlining command; this can be avoided by
 loading the package with:
 ```latex

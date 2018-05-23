@@ -10,15 +10,15 @@ There _are_ places on the page, from which things may be hung,
 and two LaTeX packages allow you position things relative to such
 points, thus providing a means of absolute positioning.
 
-The [`textpos`](http://ctan.org/pkg/textpos) package aids the construction of pages from
+The [`textpos`](https://ctan.org/pkg/textpos) package aids the construction of pages from
 ''blobs'', dotted around over the page (as in a poster); you give it
 the location, and it places your typeset box accordingly.
 
-The [`eso-pic`](http://ctan.org/pkg/eso-pic) defines a ''shipout picture'' that covers the
+The [`eso-pic`](https://ctan.org/pkg/eso-pic) defines a ''shipout picture'' that covers the
 page.  The user may add `picture`-mode commands to this
 picture, which of course can include box placements as well as the
 other rather stilted commands of `picture`-mode.
-([`Eso-pic`](http://ctan.org/pkg/Eso-pic) requires the services of [`everyshi`](http://ctan.org/pkg/everyshi), which
+([`Eso-pic`](https://ctan.org/pkg/Eso-pic) requires the services of [`everyshi`](https://ctan.org/pkg/everyshi), which
 must therefore also be available.)
 
 

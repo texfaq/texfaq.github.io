@@ -1,6 +1,6 @@
 # Fancy enumeration lists
 
-The [`enumerate`](http://ctan.org/pkg/enumerate) package allows you to control the display of
+The [`enumerate`](https://ctan.org/pkg/enumerate) package allows you to control the display of
 the enumeration counter.  The package adds an optional parameter to
 the `enumerate` environment, which is used to specify the
 layout of the labels.  The layout parameter contains an enumeration
@@ -25,11 +25,11 @@ starts a list whose labels run (a), (b), (c), &hellip;; while
 ```
 starts a list whose labels run I/, II/, III/, &hellip;
 
-The [`paralist`](http://ctan.org/pkg/paralist) package, whose primary purpose is 
+The [`paralist`](https://ctan.org/pkg/paralist) package, whose primary purpose is 
 [compaction of lists](./FAQ-complist.html), provides the same facilities
 for its `enumerate`-like environments.
 
-If you need non-stereotyped designs, the [`enumitem`](http://ctan.org/pkg/enumitem) package
+If you need non-stereotyped designs, the [`enumitem`](https://ctan.org/pkg/enumitem) package
 gives you most of the flexibility you might want to design your own.
 The silly roman example above could be achieved by:
 ```latex
@@ -52,8 +52,8 @@ references to list item labels:
 to make references to the list items format appear as (i), (ii),
 (iii), etc.
 
-The [`memoir`](http://ctan.org/pkg/memoir) class includes functions that match those in the
-[`enumerate`](http://ctan.org/pkg/enumerate) package, and has similar functionality for
+The [`memoir`](https://ctan.org/pkg/memoir) class includes functions that match those in the
+[`enumerate`](https://ctan.org/pkg/enumerate) package, and has similar functionality for
 `itemize` lists.
 %% ```latex
 %%    \renewcommand{\theenumi}{\Roman{enumi}}

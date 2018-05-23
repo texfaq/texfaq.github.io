@@ -46,15 +46,15 @@ paper size can be programmed by the document.  Users who wish to, may
 of course consult the manuals of the various programs to write the
 necessary code.
 
-The [`geometry`](http://ctan.org/pkg/geometry) and [`zwpagelayout`](http://ctan.org/pkg/zwpagelayout) packages (whose main
+The [`geometry`](https://ctan.org/pkg/geometry) and [`zwpagelayout`](https://ctan.org/pkg/zwpagelayout) packages (whose main
 business includes defining
 typeset page areas), also takes notice the size of the paper that the
 document is going to be printed on, and can issue the commands
 necessary to ensure the correct size of paper is used.  If
-[`geometry`](http://ctan.org/pkg/geometry) is used when a document is being processed by
+[`geometry`](https://ctan.org/pkg/geometry) is used when a document is being processed by
 pdfLaTeX, it can set the necessary dimensions ''in the output''.
 If the document is being processed by LaTeX on a TeX or &epsilon;-TeX
-engine, there are package options which instruct [`geometry`](http://ctan.org/pkg/geometry)
+engine, there are package options which instruct [`geometry`](https://ctan.org/pkg/geometry)
 which `\special` commands to use.  (Note that the options are
 ignored if you are using pdfLaTeX.)
 
@@ -63,7 +63,7 @@ So, one resolution of the problem, when you are using LaTeX, is to add
 \usepackage[processor-option,...]{geometry}
 ```
 Where `processor-option` tells the package what will produce
-your (PostScript or PDF output&nbsp;&mdash; [`geometry`](http://ctan.org/pkg/geometry) knows about
+your (PostScript or PDF output&nbsp;&mdash; [`geometry`](https://ctan.org/pkg/geometry) knows about
 `dvips` and `dvipdfm` (`dvipdfm` also
 serves for the extension `dvipdfmx` and
 `xdvipdfmx`).
@@ -75,7 +75,7 @@ If you're using pdfLaTeX or XeTeX, load with
 where `program-option` is `pdftex`,
 `xetex`.
 
-The alternative, [`zwpagelayout`](http://ctan.org/pkg/zwpagelayout) requires a `driver`
+The alternative, [`zwpagelayout`](https://ctan.org/pkg/zwpagelayout) requires a `driver`
 option:
 ```latex
 \usepackage[driver=value,...]{zwpagelayout}
@@ -83,17 +83,17 @@ option:
 (permissible &lsaquo;_values_&rsaquo; are `pdftex`, `xetex`
 and `dvips`; the default value is `unknown`).
 
-Needless to say, both the ''big'' classes ([`koma-script`](http://ctan.org/pkg/koma-script) and
-[`memoir`](http://ctan.org/pkg/memoir)) provide their own ways to get the paper size
+Needless to say, both the ''big'' classes ([`koma-script`](https://ctan.org/pkg/koma-script) and
+[`memoir`](https://ctan.org/pkg/memoir)) provide their own ways to get the paper size
 ''right''.
 
-The [`typearea`](http://ctan.org/pkg/typearea) package is the [`Koma-script`](http://ctan.org/pkg/Koma-script)
+The [`typearea`](https://ctan.org/pkg/typearea) package is the [`Koma-script`](https://ctan.org/pkg/Koma-script)
 distribution's way of providing page layout functionality.  Load it
 with the `pagesize` option and it will ensure the correct
 paper is selected, for PDF output from pdfLaTeX, and for
 PostScript output from LaTeX via `dvips`.
 
-[`Memoir`](http://ctan.org/pkg/Memoir) has the standard classes' paper-size selections
+[`Memoir`](https://ctan.org/pkg/Memoir) has the standard classes' paper-size selections
 (`a4paper`, `letterpaper` and so on), but also
 permits the user to choose an arbitrary paper size, by setting the
 length registers `\stockheight` and `\stockwidth`.  The commands

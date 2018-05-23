@@ -25,7 +25,7 @@ archives are sent to the mailing list `ctan-ann`.  Subscribe
 to the list via its [`MailMan`
 web-site](https://lists.dante.de/mailman/listinfo/ctan-ann); list archives
 are available at the same address.  An RSS feed is available at
-[http://ctan.org/ctan-ann](http://ctan.org/ctan-ann).
+[https://ctan.org/ctan-ann](https://ctan.org/ctan-ann).
 
 
 ----

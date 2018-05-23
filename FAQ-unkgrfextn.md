@@ -21,7 +21,7 @@ you want to include a graphics file `home.bedroom.eps` using the
 `dvips` driver; the package will conclude that your file's
 extension is `bedroom.eps`, and will complain.
 
-The [`grffile`](http://ctan.org/pkg/grffile) package deals with the last problem (and
+The [`grffile`](https://ctan.org/pkg/grffile) package deals with the last problem (and
 others&nbsp;&mdash; see the package documentation); using the package, you may
 write:
 ```latex
@@ -34,11 +34,11 @@ or you may even write
 ```latex
 \includegraphics{home.bedroom}
 ```
-and [`graphicx`](http://ctan.org/pkg/graphicx) will find a `eps` or `pdf`
+and [`graphicx`](https://ctan.org/pkg/graphicx) will find a `eps` or `pdf`
 (or whatever) version, according to what version of (La)TeX you're
 running.
 
-If for some reason you can't use [`grffile`](http://ctan.org/pkg/grffile), you have three
+If for some reason you can't use [`grffile`](https://ctan.org/pkg/grffile), you have three
 unsatisfactory alternatives:
   
 

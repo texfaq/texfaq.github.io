@@ -17,13 +17,13 @@ The `\extracolsep` applies to all inter-column gaps to its right as
 well; if you don't want all gaps stretched, add
 `\extracolsep{0pt}` to cancel the original.
 
-The [`tabularx`](http://ctan.org/pkg/tabularx) package defines an extra `clpr` column
+The [`tabularx`](https://ctan.org/pkg/tabularx) package defines an extra `clpr` column
 specification, `X`; `X` columns behave as `p`
 columns which expand to fill the space available.  If there's more
 than one `X` column in a table, the spare space is distributed
 between them.
 
-The [`tabulary`](http://ctan.org/pkg/tabulary) package (by the same author) provides a way of
+The [`tabulary`](https://ctan.org/pkg/tabulary) package (by the same author) provides a way of
 ''balancing'' the space taken by the columns of a table.  The package
 defines column specifications `C`, `L`, `R` and
 `J`, giving, respectively, centerd, left, right and
@@ -38,8 +38,8 @@ has to typeset each row several times, so things that leave
 ''side-effects'' (for example, a counter used to produce a row-number
 somewhere) are inevitably unreliable, and should not even be tried.
 
-The [`ltxtable`](http://ctan.org/pkg/ltxtable) package combines the features of the
-[`longtable`](http://ctan.org/pkg/longtable) and [`tabularx`](http://ctan.org/pkg/tabularx) packages.  It's important
+The [`ltxtable`](https://ctan.org/pkg/ltxtable) package combines the features of the
+[`longtable`](https://ctan.org/pkg/longtable) and [`tabularx`](https://ctan.org/pkg/tabularx) packages.  It's important
 to read the documentation, since usage is distinctly odd; the
 distribution contains no more than a file `ltxtable.tex`, which you
 should process using LaTeX.  Processing will give you a `.sty`

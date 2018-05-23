@@ -18,13 +18,13 @@ and `\cmd{blah}`.  This is pretty simple:
 <!-- {% endraw %} -->
 The case where you want to ignore an argument that consists of nothing
 but spaces, rather than something completely empty, is more tricky.
-It's solved in the code fragment [`ifmtarg`](http://ctan.org/pkg/ifmtarg), which defines
+It's solved in the code fragment [`ifmtarg`](https://ctan.org/pkg/ifmtarg), which defines
 commands `ifmtarg` and `ifnotmtarg`, which examine their
 first argument, and select (in opposite directions) their second or
 third argument.  The package's code also appears in the LaTeX
-[`memoir`](http://ctan.org/pkg/memoir) class.
+[`memoir`](https://ctan.org/pkg/memoir) class.
 
-[`Ifmtarg`](http://ctan.org/pkg/Ifmtarg) makes challenging reading; there's also a discussion of the
+[`Ifmtarg`](https://ctan.org/pkg/Ifmtarg) makes challenging reading; there's also a discussion of the
 issue in number two of the ''around the bend'' articles by the late
 lamented Mike Downes.
 

@@ -126,7 +126,7 @@ may be stretched (or shrunk) to a certain extent, and will do that
 powerful tool in the armoury of the typesetter.
 
 As mentioned above, the microtypographic extensions are tricky beasts
-to control; however, the [`microtype`](http://ctan.org/pkg/microtype) package relieves the user
+to control; however, the [`microtype`](https://ctan.org/pkg/microtype) package relieves the user
 of the tedious work of specifying how to perform margin adjustments
 and how much to scale each font&nbsp;&hellip; for the fonts the package
 knows about; it's a good tool, and users who can take on the

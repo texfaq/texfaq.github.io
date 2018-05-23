@@ -31,8 +31,8 @@ A straightforward solution, which avoids the warning, is to write:
 \end{description}
 ```
 which starts a paragraph before forcing a break.  The
-[`expdlist`](http://ctan.org/pkg/expdlist) package provides the same functionality with its
-`\breaklabel` command, and [`mdwlist`](http://ctan.org/pkg/mdwlist) provides it via its
+[`expdlist`](https://ctan.org/pkg/expdlist) package provides the same functionality with its
+`\breaklabel` command, and [`mdwlist`](https://ctan.org/pkg/mdwlist) provides it via its
 `\desclabelstyle` command.
 
 The other common occasion for the message is when you're using the

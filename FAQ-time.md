@@ -13,13 +13,13 @@ the date, as well as of the time: this question will concentrate on
 the time-printing capabilities, and interested users can investigate
 the documentation for details about dates.
 
-The [`datetime`](http://ctan.org/pkg/datetime) package defines two time-printing functions:
+The [`datetime`](https://ctan.org/pkg/datetime) package defines two time-printing functions:
 `\xxivtime` (for 24-hour time), `\ampmtime` (for 12-hour time) and
 `\oclock` (for time-as-words, albeit a slightly eccentric set of
 words).
 
-The [`scrtime`](http://ctan.org/pkg/scrtime) package (part of the compendious
-[`KOMA-Script`](http://ctan.org/pkg/KOMA-Script) bundle) takes a package option (`12h` or
+The [`scrtime`](https://ctan.org/pkg/scrtime) package (part of the compendious
+[`KOMA-Script`](https://ctan.org/pkg/KOMA-Script) bundle) takes a package option (`12h` or
 `24h`) to specify how times are to be printed.  The command
 `\thistime` then prints the time appropriately (though there's no
 _am_ or _pm_ in `12h` mode).  The `\thistime`

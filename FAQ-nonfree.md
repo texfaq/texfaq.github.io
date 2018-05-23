@@ -31,7 +31,7 @@ the general rule for distributors has become
 whether you should distribute; if the package is not listed in the
 catalogue, don't think of distributing it''.
 (The catalogue only has a modest 
-[list of licences](http://www.ctan.org/license/), but it covers the set used
+[list of licences](https://ctan.org/license/), but it covers the set used
 by packages on CTAN, with a wild-card `other-free`
 which covers packages that the CTAN administrators believe to
 be free even though the authors haven't used a standard licence.)

@@ -8,7 +8,7 @@ well as they might when the fonts are scaled.
 
 However, this behaviour confounds user expectations, and can lead to
 slightly odd-looking documents.  If you want the fonts to scale,
-despite the warning above, use the [`exscale`](http://ctan.org/pkg/exscale) package&nbsp;&mdash; just
+despite the warning above, use the [`exscale`](https://ctan.org/pkg/exscale) package&nbsp;&mdash; just
 loading it is enough.
 
 

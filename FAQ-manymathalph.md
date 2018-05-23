@@ -18,17 +18,17 @@ complete a document; other issues, such as font availability) could
 make a change impractical.)
 
 Even if switching is not possible, there's still hope if you're using
-the [`bm`](http://ctan.org/pkg/bm) package to support [bold maths](./FAQ-boldgreek.html):
-[`bm`](http://ctan.org/pkg/bm) is capable of gobbling alphabets as if there is no
+the [`bm`](https://ctan.org/pkg/bm) package to support [bold maths](./FAQ-boldgreek.html):
+[`bm`](https://ctan.org/pkg/bm) is capable of gobbling alphabets as if there is no
 tomorrow.  The package defines two limiter commands: `\bmmax` (for
 _bold_ symbols; default&nbsp;4) and `\hmmax` (for _heavy_
 symbols, if you have them; default&nbsp;3), which control the number of
 alphabets to be used.
 
 Any reduction of the `_xx_max` variables will slow
-[`bm`](http://ctan.org/pkg/bm) down&nbsp;&mdash; but that's surely better than the document not
+[`bm`](https://ctan.org/pkg/bm) down&nbsp;&mdash; but that's surely better than the document not
 running at all.
-Before loading [`bm`](http://ctan.org/pkg/bm)),  then steadily reduce the bold
+Before loading [`bm`](https://ctan.org/pkg/bm)),  then steadily reduce the bold
 families, starting with 
 ```latex
   \newcommand{\bmmax}{3}
@@ -37,7 +37,7 @@ until (with a bit of luck) the error goes away.
 
 If  you're using maths fonts (such as
 `Mathtime Plus`) that feature a heavy symbol weight,
-you may want to suppress all use of heavy families by [`bm`](http://ctan.org/pkg/bm) by
+you may want to suppress all use of heavy families by [`bm`](https://ctan.org/pkg/bm) by
 similarly setting
 ```latex
   \newcommand{\hmmax}{0}

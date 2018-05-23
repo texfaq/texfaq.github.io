@@ -14,7 +14,7 @@ have ''true'' Type&nbsp;1 fonts available: as always, we have an
 embarrassment of riches with three free alternatives, and one
 commercial and one shareware version.
 
-[`CM-super`](http://ctan.org/pkg/CM-super) is an
+[`CM-super`](https://ctan.org/pkg/CM-super) is an
 auto-traced set which encompasses all of the T1 and TS1
 encodings as well as the T2* series (the family of encodings
 that cover languages based on Cyrillic alphabets).  These fonts are
@@ -22,34 +22,34 @@ pretty easy to install (the installation instructions are clear), but
 they are huge: don't try to install them if you're short of disc
 space.
 
-[`CM-LGC`](http://ctan.org/pkg/CM-LGC) is a similar ''super-font'' set, but of much more
+[`CM-LGC`](https://ctan.org/pkg/CM-LGC) is a similar ''super-font'' set, but of much more
 modest size; it covers T1, TS1 and T2A
-encodings (as does [`CM-super`](http://ctan.org/pkg/CM-super), and also covers the LGR
+encodings (as does [`CM-super`](https://ctan.org/pkg/CM-super), and also covers the LGR
 encoding (for typesetting Greek, based on Claudio Beccari's MetaFont
-sources).  [`CM-LGC`](http://ctan.org/pkg/CM-LGC) manages to be small by going to the
-opposite extreme from [`CM-super`](http://ctan.org/pkg/CM-super), which includes fonts at all
+sources).  [`CM-LGC`](https://ctan.org/pkg/CM-LGC) manages to be small by going to the
+opposite extreme from [`CM-super`](https://ctan.org/pkg/CM-super), which includes fonts at all
 the sizes supported by the original EC (a huge range);
-[`CM-LGC`](http://ctan.org/pkg/CM-LGC) has one font per font shape, getting other sizes by
+[`CM-LGC`](https://ctan.org/pkg/CM-LGC) has one font per font shape, getting other sizes by
 scaling.  There is an inevitable loss of quality inherent in this
-approach, but for the disc-space-challenged machine, [`CM-LGC`](http://ctan.org/pkg/CM-LGC)
+approach, but for the disc-space-challenged machine, [`CM-LGC`](https://ctan.org/pkg/CM-LGC)
 is an obvious choice.
 
-[`Tt2001`](http://ctan.org/pkg/Tt2001) is a simple scan of the EC and TC
+[`Tt2001`](https://ctan.org/pkg/Tt2001) is a simple scan of the EC and TC
 fonts, and has some virtues&nbsp;&mdash; it's noticeably smaller than
-[`CM-super`](http://ctan.org/pkg/CM-super) while being less stark than [`CM-LGC`](http://ctan.org/pkg/CM-LGC).
+[`CM-super`](https://ctan.org/pkg/CM-super) while being less stark than [`CM-LGC`](https://ctan.org/pkg/CM-LGC).
 
-[`Latin Modern`](http://ctan.org/pkg/lm) is produced using the
+[`Latin Modern`](https://ctan.org/pkg/lm) is produced using the
 program [`MetaType1`](./FAQ-textrace.html).  The
-[`Latin Modern`](http://ctan.org/pkg/lm) set comes with T1, TS1
+[`Latin Modern`](https://ctan.org/pkg/lm) set comes with T1, TS1
 LY1 encoded variants (as well as a variant using the Polish
 QX encoding); for the glyph set it covers, its outlines seem
-rather cleaner than those of [`CM-super`](http://ctan.org/pkg/CM-super). 
-[`Latin Modern`](http://ctan.org/pkg/lm)
+rather cleaner than those of [`CM-super`](https://ctan.org/pkg/CM-super). 
+[`Latin Modern`](https://ctan.org/pkg/lm)
 is more modest in its disc space demands than is
-[`CM-super`](http://ctan.org/pkg/CM-super), while not being nearly as stark in its range of
-design sizes as is [`CM-LGC`](http://ctan.org/pkg/CM-LGC)&nbsp;&mdash;  [`Latin`](http://ctan.org/pkg/Latin)
-[`Modern`](http://ctan.org/pkg/Modern)'s fonts are offered in the same set of sizes as the
-original [`CM`](http://ctan.org/pkg/CM) fonts.  It's hard to argue with the choice:
+[`CM-super`](https://ctan.org/pkg/CM-super), while not being nearly as stark in its range of
+design sizes as is [`CM-LGC`](https://ctan.org/pkg/CM-LGC)&nbsp;&mdash;  [`Latin`](https://ctan.org/pkg/Latin)
+[`Modern`](https://ctan.org/pkg/Modern)'s fonts are offered in the same set of sizes as the
+original [`CM`](https://ctan.org/pkg/CM) fonts.  It's hard to argue with the choice:
 Knuth's range of sizes has stood the test of time, and is one of the
 bases on which the excellence of the TeX system rests.
 
@@ -68,13 +68,13 @@ the result.  However, if you can live with this difficulty, virtual
 fonts are a useful and straightforward solution to the problem.
 
 There are two virtual-font offerings of CM-based 8-bit
-fonts&nbsp;&mdash; the [`ae`](http://ctan.org/pkg/ae) (''almost EC'') and
-[`zefonts`](http://ctan.org/pkg/zefonts) sets; the [`zefonts`](http://ctan.org/pkg/zefonts) set has wider coverage
-(though the [`ae`](http://ctan.org/pkg/ae) set may be extended to offer guillemets by
-use of the [`aeguill`](http://ctan.org/pkg/aeguill) package).  Neither offers characters such
+fonts&nbsp;&mdash; the [`ae`](https://ctan.org/pkg/ae) (''almost EC'') and
+[`zefonts`](https://ctan.org/pkg/zefonts) sets; the [`zefonts`](https://ctan.org/pkg/zefonts) set has wider coverage
+(though the [`ae`](https://ctan.org/pkg/ae) set may be extended to offer guillemets by
+use of the [`aeguill`](https://ctan.org/pkg/aeguill) package).  Neither offers characters such
 as `eth` and `thorn` (used in, for example, in
-Icelandic), but the [`aecompl`](http://ctan.org/pkg/aecompl) package works with the
-[`ae`](http://ctan.org/pkg/ae) fonts to provide the missing characters from the
+Icelandic), but the [`aecompl`](https://ctan.org/pkg/aecompl) package works with the
+[`ae`](https://ctan.org/pkg/ae) fonts to provide the missing characters from the
 EC fonts (i.e., as bitmaps).
 
 The sole remaining commercial CM-like 8-bit font comes from

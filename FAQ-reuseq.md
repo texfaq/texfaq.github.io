@@ -2,7 +2,7 @@
 
 To repeat an existing equation, one wants not only to have the same
 mathematics in it, one also wants to re-use the original label it had.
-The [`amsmath`](http://ctan.org/pkg/amsmath) package comes to our help, here:
+The [`amsmath`](https://ctan.org/pkg/amsmath) package comes to our help, here:
 ```latex
 \usepackage{amsmath}
 ...

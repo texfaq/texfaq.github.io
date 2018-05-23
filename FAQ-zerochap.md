@@ -1,7 +1,7 @@
 # Why are my sections numbered 0.1 &hellip;?
 
-This happens when your document is using the standard [`book`](http://ctan.org/pkg/book) or
-[`report`](http://ctan.org/pkg/report) class (or one similar), and you've got a `\section`
+This happens when your document is using the standard [`book`](https://ctan.org/pkg/book) or
+[`report`](https://ctan.org/pkg/report) class (or one similar), and you've got a `\section`
 before your first `\chapter`.
 
 What happens is, that the class numbers sections as 
@@ -10,7 +10,7 @@ What happens is, that the class numbers sections as
 use`\chapter*`, which doesn't number the chapter it produces, the
 problem still arises.)
 
-If you're doing this, it's possible that the [`article`](http://ctan.org/pkg/article) class
+If you're doing this, it's possible that the [`article`](https://ctan.org/pkg/article) class
 is for you; try it and see.  Otherwise, put a `\chapter` before
 your sections, or do away with section numbering by using
 `\section*` instead.  An alternative way of avoiding numbering is

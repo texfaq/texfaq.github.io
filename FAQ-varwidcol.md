@@ -5,8 +5,8 @@ This is a slightly different take on the problem addressed in
 a column whose size we can't absolutely predict when we design the
 document.
 
-While the basic techniques (the [`tabularx`](http://ctan.org/pkg/tabularx), [`tabulary`](http://ctan.org/pkg/tabulary)
-and [`ltxtable`](http://ctan.org/pkg/ltxtable) packages) are the same for this problem as for the
+While the basic techniques (the [`tabularx`](https://ctan.org/pkg/tabularx), [`tabulary`](https://ctan.org/pkg/tabulary)
+and [`ltxtable`](https://ctan.org/pkg/ltxtable) packages) are the same for this problem as for the
 fixed-width _table_ problem, there's one extra tool that we can
 call to our aid, which may be preferable in some situations.
 
@@ -20,15 +20,15 @@ column to be as small as possible, but have the possibility to spread
 to a maximum width and (if even that width is exceeded) turn into a
 `p`-style column.
 
-The [`varwidth`](http://ctan.org/pkg/varwidth) package, discussed in 
+The [`varwidth`](https://ctan.org/pkg/varwidth) package, discussed in 
 ''[automatic sizing of minipages](./FAQ-varwidth.html)'', provides
 a solution.  If you load it together with the LaTeX ''required''
-[`array`](http://ctan.org/pkg/array) package, i.e.:
+[`array`](https://ctan.org/pkg/array) package, i.e.:
 ```latex
 \usepackage{array}
 \usepackage{varwidth}
 ```
-[`varwidth`](http://ctan.org/pkg/varwidth) defines a new column-type `V`, which you
+[`varwidth`](https://ctan.org/pkg/varwidth) defines a new column-type `V`, which you
 can use as follows:
 ```latex
 \begin{tabular}{l V{3.5cm} r}

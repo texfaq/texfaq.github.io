@@ -34,7 +34,7 @@ verbosity) are getting the level right (''should I use counter
 nest the interruptions (i.e., not to have a separate list, that is
 itself interrupted) in the ''commentary text'').
 
-The [`mdwlist`](http://ctan.org/pkg/mdwlist) package defines commands `\suspend` and
+The [`mdwlist`](https://ctan.org/pkg/mdwlist) package defines commands `\suspend` and
 `\resume` that simplify the process:
 ```latex
 \begin{enumerate}
@@ -53,10 +53,10 @@ nested suspensions.
 If you're suspending a [fancy-enumeration list](./FAQ-enumerate.html),
 you need to 
 re-supply the optional ''item label layout'' parameters required by
-the [`enumerate`](http://ctan.org/pkg/enumerate) package when resuming the list, whether by the
-belt-and-braces approach, or by the [`mdwlist`](http://ctan.org/pkg/mdwlist)
+the [`enumerate`](https://ctan.org/pkg/enumerate) package when resuming the list, whether by the
+belt-and-braces approach, or by the [`mdwlist`](https://ctan.org/pkg/mdwlist)
 `\resume{enumerate}` technique.  The task is a little tedious
-in the [`mdwlist`](http://ctan.org/pkg/mdwlist) case, since the optional argument has to be
+in the [`mdwlist`](https://ctan.org/pkg/mdwlist) case, since the optional argument has to be
 encapsulated, whole, inside an optional argument to `\resume`,
 which requires use of extra braces:
 ```latex
@@ -68,7 +68,7 @@ which requires use of extra braces:
 ...
 \end{enumerate}
 ```
-The [`enumitem`](http://ctan.org/pkg/enumitem) package, in its most recent
+The [`enumitem`](https://ctan.org/pkg/enumitem) package, in its most recent
 release, will also allow you to resume lists:
 ```latex
 \begin{enumerate}
@@ -79,11 +79,11 @@ release, will also allow you to resume lists:
 ...
 \end{enumerate}
 ```
-which feels just as ''natural'' as the [`mdwtools`](http://ctan.org/pkg/mdwtools) facility,
+which feels just as ''natural'' as the [`mdwtools`](https://ctan.org/pkg/mdwtools) facility,
 and has the advantage of playing well with the other excellent
-facilities of [`enumitem`](http://ctan.org/pkg/enumitem).
+facilities of [`enumitem`](https://ctan.org/pkg/enumitem).
 
-[`Expdlist`](http://ctan.org/pkg/Expdlist) has a neat way of providing for comments, with its
+[`Expdlist`](https://ctan.org/pkg/Expdlist) has a neat way of providing for comments, with its
 `\listpart` command.  The command's argument becomes a comment
 between items of the list:
 ```latex
@@ -99,7 +99,7 @@ suspending or resuming the list, and of course it works equally well
 in any of the list environments (thought it's not actually
 _necessary_ for any but `enumerate`).
 
-[`Enumitem`](http://ctan.org/pkg/Enumitem) also allows multi-level suspension and resumption
+[`Enumitem`](https://ctan.org/pkg/Enumitem) also allows multi-level suspension and resumption
 of lists:
 ```latex
 \begin{enumerate}

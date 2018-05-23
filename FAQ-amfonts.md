@@ -28,7 +28,7 @@ specify that every `am` font should be replaced by its
 corresponding `cm` font.
 
 Alternatively, one may try DVI editing&nbsp;&mdash; packages
-[`dtl`](http://ctan.org/pkg/dtl) (DVI Text Language) and [`dviasm`](http://ctan.org/pkg/dviasm)
+[`dtl`](https://ctan.org/pkg/dtl) (DVI Text Language) and [`dviasm`](https://ctan.org/pkg/dviasm)
 (DVI assembler) can both provide round trips from DVI to
 text and back to DVI.  One therefore edits font names
 (throughout the text representation of the file) in the middle of that

@@ -1,6 +1,6 @@
 # Using the Latin Modern fonts
 
-The [`lm`](http://ctan.org/pkg/lm) fonts are an exciting addition to
+The [`lm`](https://ctan.org/pkg/lm) fonts are an exciting addition to
 the armoury of the (La)TeX user: high quality outlines of fonts that
 were until recently difficult to obtain, all in a free and
 relatively compact package.  However, the spartan information file
@@ -9,7 +9,7 @@ user knows what to do with all these files''.  This answer aims to
 fill in the requirements: the job is really not terribly difficult.
 
 Note that teTeX distributions, from version&nbsp;3.0, already have the
-[`lm`](http://ctan.org/pkg/lm) fonts: all you need do is use them.  The fonts may also
+[`lm`](https://ctan.org/pkg/lm) fonts: all you need do is use them.  The fonts may also
 be installed via the package manager, in a current MiKTeX system.
 The remainder of this answer, then, is for people who don't use such
 systems.

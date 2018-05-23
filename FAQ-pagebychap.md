@@ -12,7 +12,7 @@ and the basic technique is indeed pretty similar.
 
 However, tidying-up loose ends, making sure the page number gets reset
 to the correct value at the start of each chapter, and so on, is
-slightly more challenging.  This is why the [`chappg`](http://ctan.org/pkg/chappg) package
+slightly more challenging.  This is why the [`chappg`](https://ctan.org/pkg/chappg) package
 was written: it does the obvious things, and more.
 
 Users have been known to ask for running page numbers within a

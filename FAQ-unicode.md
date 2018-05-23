@@ -12,10 +12,10 @@ Unicode input, the sequence of bytes to make up Unicode character are
 processed by a set of macros that deliver a glyph number in an
 appropriate font.  The macros that read these bytes is complicated,
 and manifests as `utf8` option for the LaTeX distribution
-[`inputenc`](http://ctan.org/pkg/inputenc) package; the coverage of that option is limited to
+[`inputenc`](https://ctan.org/pkg/inputenc) package; the coverage of that option is limited to
 Unicode characters that can be represented using ''LaTeX standard
-encodings''.  The separate package [`ucs`](http://ctan.org/pkg/ucs) provides wider, but
-less robust, coverage via an [`inputenc`](http://ctan.org/pkg/inputenc) option
+encodings''.  The separate package [`ucs`](https://ctan.org/pkg/ucs) provides wider, but
+less robust, coverage via an [`inputenc`](https://ctan.org/pkg/inputenc) option
 `utf8x`.  As a general rule, you should never use
 `utf8x` until you have convinced yourself that
 `utf8` can not do the job for you.

@@ -2,8 +2,8 @@
 
 LaTeX provides an exceedingly simple mechanism for appendixes: the
 command `\appendix` switches the document from generating sections
-(in [`article`](http://ctan.org/pkg/article) class) or chapters (in [`report`](http://ctan.org/pkg/report) or
-[`book`](http://ctan.org/pkg/book) classes) to producing appendixes.  Section or chapter
+(in [`article`](https://ctan.org/pkg/article) class) or chapters (in [`report`](https://ctan.org/pkg/report) or
+[`book`](https://ctan.org/pkg/book) classes) to producing appendixes.  Section or chapter
 numbering is restarted and the representation of the counter switches
 to alphabetic.  So:
 ```latex
@@ -17,7 +17,7 @@ to alphabetic.  So:
 \section{How I became inspired}
 ...
 ```
-would be typeset (in an [`article`](http://ctan.org/pkg/article) document) something like:
+would be typeset (in an [`article`](https://ctan.org/pkg/article) document) something like:
 *1&nbsp;&nbsp;My inspiration*
 
 &hellip;
@@ -34,7 +34,7 @@ you've switched to typesetting appendixes, LaTeX provides you with
 no way back&nbsp;&mdash; once you've had an appendix, you can no longer have an
 ''ordinary'' `\section` or `\chapter`.
 
-The [`appendix`](http://ctan.org/pkg/appendix) provides several ways of elaborating on this
+The [`appendix`](https://ctan.org/pkg/appendix) provides several ways of elaborating on this
 simple setup.  Straightforward use of the package allows you to have a
 separate heading, both in the body of the document and the table of
 contents; this would be achieved by
@@ -99,8 +99,8 @@ Which will produce output something like:
 There are many other merry things one may do with the package; the
 user is referred to the package documentation for further details.
 
-The [`memoir`](http://ctan.org/pkg/memoir) class includes the facilities of the
-[`appendix`](http://ctan.org/pkg/appendix) package.  The [`KOMA-script`](http://ctan.org/pkg/KOMA-script) classes offer a
+The [`memoir`](https://ctan.org/pkg/memoir) class includes the facilities of the
+[`appendix`](https://ctan.org/pkg/appendix) package.  The [`KOMA-script`](https://ctan.org/pkg/KOMA-script) classes offer a
 `\appendixprefix` command for manipulating the appearance of appendixes.
 
 

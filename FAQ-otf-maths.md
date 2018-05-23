@@ -40,8 +40,8 @@ and `LM Math` extending the OpenType version of the
 
 
 Actually using a unicode maths font is quite a complicated business,
-but the LaTeX package [`unicode-math`](http://ctan.org/pkg/unicode-math) (supported
-by the [`fontspec`](http://ctan.org/pkg/fontspec) package) does the essential groundwork.
+but the LaTeX package [`unicode-math`](https://ctan.org/pkg/unicode-math) (supported
+by the [`fontspec`](https://ctan.org/pkg/fontspec) package) does the essential groundwork.
 
 
 

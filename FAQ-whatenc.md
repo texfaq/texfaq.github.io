@@ -67,8 +67,8 @@ the TeX input stream is translated into TeX commands that would
 generate something looking like the input character; this sequence of
 TeX commands is then translated back again into a single
 diacriticised glyph as the output is created.  This is in fact
-precisely what the LaTeX packages [`inputenc`](http://ctan.org/pkg/inputenc) and
-[`fontenc`](http://ctan.org/pkg/fontenc) do, if operated in tandem on (most) characters in
+precisely what the LaTeX packages [`inputenc`](https://ctan.org/pkg/inputenc) and
+[`fontenc`](https://ctan.org/pkg/fontenc) do, if operated in tandem on (most) characters in
 the ISO&nbsp;Latin-1 input encoding and the T1 font encoding.
 At first sight, it seems eccentric to have the first package do a thing, and
 the second precisely undo it, but it doesn't always happen that way:

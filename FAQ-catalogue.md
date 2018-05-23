@@ -20,7 +20,7 @@ articles; each shows basic information about a package on CTAN,
 and includes pointers to download address (on a CTAN mirror),
 documentation and home page if any, and related packages.
 
-The [CTAN central database machine](http://www.ctan.org)
+The [CTAN central database machine](https://ctan.org)
 offers a ''Browse CTAN'' area, with links to the list of
 packages, to a list of ''topics'' (with packages that match each topic),
 and to a list of authors (with their packages).

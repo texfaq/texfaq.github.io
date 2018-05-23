@@ -19,9 +19,9 @@ fit:
 ```
 
 The same command may be employed in documents typeset with the
-[`memoir`](http://ctan.org/pkg/memoir) package (by the same author as [`tocloft`](http://ctan.org/pkg/tocloft)).
+[`memoir`](https://ctan.org/pkg/memoir) package (by the same author as [`tocloft`](https://ctan.org/pkg/tocloft)).
 
-[`Memoir`](http://ctan.org/pkg/Memoir) has another mechanism for the job:
+[`Memoir`](https://ctan.org/pkg/Memoir) has another mechanism for the job:
 `\cftsetindents{&lsaquo;_kind_&rsaquo;}{indent}{numwidth}`.  Here
 _kind_ is `chapter`, `section`, or whatever; the
 _indent_ specifies the ''margin'' before the entry starts; and the

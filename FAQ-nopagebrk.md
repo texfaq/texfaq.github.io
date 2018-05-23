@@ -52,7 +52,7 @@ out by the stretchability introduced by `\raggedbottom`; however, it
 could well have an effect if `\flushbottom` was in effect.)
 
 An alternative (which derives from a suggestion by Knuth in the
-TeXbook) is the package [`needspace`](http://ctan.org/pkg/needspace) or the [`memoir`](http://ctan.org/pkg/memoir) class,
+TeXbook) is the package [`needspace`](https://ctan.org/pkg/needspace) or the [`memoir`](https://ctan.org/pkg/memoir) class,
 which both define a command `\needspace` whose argument tells it
 what space is needed.  If the space isn't available, the current page
 is cleared, and the matter that needs to be kept together will be

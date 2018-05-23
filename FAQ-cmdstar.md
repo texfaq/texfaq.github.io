@@ -6,7 +6,7 @@ tagged onto their name: for example `\newcommand` and
 command).
 
 The simple-minded way for a user to write such a command involves use
-of the [`ifthen`](http://ctan.org/pkg/ifthen) package:
+of the [`ifthen`](https://ctan.org/pkg/ifthen) package:
 ```latex
 \newcommand{\mycommand}[1]{\ifthenelse{\equal{#1}{*}}%
   {\mycommandStar}%
@@ -41,7 +41,7 @@ The `ifstar` trick is all very well, is fast and efficient, but
 it requires that the definition be 
 [`\makeatletter` protected](./FAQ-atsigns.html).
 
-A pleasing alternative is the [`suffix`](http://ctan.org/pkg/suffix) package.  This elegant
+A pleasing alternative is the [`suffix`](https://ctan.org/pkg/suffix) package.  This elegant
 piece of code allows you to define variants of your commands:
 ```latex
 \newcommand\mycommand{normal version}
@@ -58,7 +58,7 @@ definition like:
 ```
 
 For those of an adventurous disposition, a further option is to use
-the [`xparse`](http://ctan.org/pkg/xparse) package from the [`l3packages`](http://ctan.org/pkg/l3packages)
+the [`xparse`](https://ctan.org/pkg/xparse) package from the [`l3packages`](https://ctan.org/pkg/l3packages)
 distribution.  The package defines a bunch of commands (such as
 `\NewDocumentCommand`) which are somewhat analagous to
 `\newcommand` and the like, in LaTeX 2e.  The big difference is
@@ -79,12 +79,12 @@ and will take values `\BooleanTrue` (if there was a star) or
 `\BooleanFalse` (otherwise); the other (`m`) argument  is a
 normal TeX-style mandatory argument, and appears as `#2`.
 
-While [`xparse`](http://ctan.org/pkg/xparse) provides pleasing command argument
+While [`xparse`](https://ctan.org/pkg/xparse) provides pleasing command argument
 specifications, it _is_ part of the 
 [LaTeX&nbsp;3 experimental harness](./FAQ-LaTeX3.html).
 Simply loading the package to provide `\DeclareDocumentCommand`
 ''pulls in'' all of the LaTeX3 kernel (a large bunch of packages)
-via the [`expl3`](http://ctan.org/pkg/expl3) package.
+via the [`expl3`](https://ctan.org/pkg/expl3) package.
 
 
 ----

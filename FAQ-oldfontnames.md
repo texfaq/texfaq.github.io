@@ -11,7 +11,7 @@ nevertheless used them to achieve effects they needed.
 
 Since the commands weren't public, they weren't included in LaTeX 2e;
 to use the unconverted LaTeX 2.09 packages under LaTeX 2e, you need
-also to include the [`rawfonts`](http://ctan.org/pkg/rawfonts) package (which is part of the
+also to include the [`rawfonts`](https://ctan.org/pkg/rawfonts) package (which is part of the
 LaTeX 2e distribution).
 
 

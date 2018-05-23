@@ -38,33 +38,33 @@ However, sometimes one just _needs_ more than TeX can offer,
 and when this happens, you've just got to work out a different way of
 doing things.  An example is the 
 [difficulty of loading PicTeX with LaTeX](./FAQ-usepictex.html).
-The more modern drawing package, [`pgf`](http://ctan.org/pkg/pgf) with its higher-level
-interface [`TikZ`](http://ctan.org/pkg/TikZ) is also a common source of such problems.
+The more modern drawing package, [`pgf`](https://ctan.org/pkg/pgf) with its higher-level
+interface [`TikZ`](https://ctan.org/pkg/TikZ) is also a common source of such problems.
 
 In such cases, it is usually possible to use the
 [&epsilon;-TeX](./FAQ-etex.html) extensions (all modern distributions provide
-them).  The LaTeX package [`etex`](http://ctan.org/pkg/etex) modifies the register allocation
+them).  The LaTeX package [`etex`](https://ctan.org/pkg/etex) modifies the register allocation
 mechanism to make use of &epsilon;-TeX's extended register sets.
-[`Etex`](http://ctan.org/pkg/Etex) is a
-derivative of the Plain TeX macro file [`etex.src`](http://ctan.org/pkg/etex.src), which is
+[`Etex`](https://ctan.org/pkg/Etex) is a
+derivative of the Plain TeX macro file [`etex.src`](https://ctan.org/pkg/etex.src), which is
 used in building the &epsilon;-TeX Plain format; both files are part of the
 &epsilon;-TeX distribution and are available in current distributions.
 
-It is possible that, even with [`etex`](http://ctan.org/pkg/etex) loaded, you still find
+It is possible that, even with [`etex`](https://ctan.org/pkg/etex) loaded, you still find
 yourself running out of things.  Problems can be caused by packages
 that use large numbers of ''inserts'' (inserts are combinations of
 counter, box, dimension and skip registers, used for storing floats
-and footnotes).  [`Morefloats`](http://ctan.org/pkg/Morefloats) does this, of course (naturally enough,
+and footnotes).  [`Morefloats`](https://ctan.org/pkg/Morefloats) does this, of course (naturally enough,
 allocating new floats), and footnote packages such as
-[`manyfoot`](http://ctan.org/pkg/manyfoot) and [`bigfoot`](http://ctan.org/pkg/bigfoot) (which uses [`manyfoot`](http://ctan.org/pkg/manyfoot))
-can also give problems.  The [`etex`](http://ctan.org/pkg/etex) extensions allow you to deal with
+[`manyfoot`](https://ctan.org/pkg/manyfoot) and [`bigfoot`](https://ctan.org/pkg/bigfoot) (which uses [`manyfoot`](https://ctan.org/pkg/manyfoot))
+can also give problems.  The [`etex`](https://ctan.org/pkg/etex) extensions allow you to deal with
 these things: the command `\reserveinserts{n}` ensures there
 is room for &lsaquo;_n_&rsaquo; more inserts.  Hint: by default
-[`morefloats`](http://ctan.org/pkg/morefloats) adds 18 inserts (though it can be instructed to
-use more), and [`manyfoot`](http://ctan.org/pkg/manyfoot) seems to be happy with 10 reserved,
+[`morefloats`](https://ctan.org/pkg/morefloats) adds 18 inserts (though it can be instructed to
+use more), and [`manyfoot`](https://ctan.org/pkg/manyfoot) seems to be happy with 10 reserved,
 but there are ''hard'' limits that we cannot program around&nbsp;&mdash; the
 discussion of [running out of floats](./FAQ-tmupfl.html) has more about this.
-It is essential that you load [`etex`](http://ctan.org/pkg/etex) before any other
+It is essential that you load [`etex`](https://ctan.org/pkg/etex) before any other
 packages, and reserve any extra inserts immediately:
 ```latex
 \documentclass[...]{...}
@@ -73,8 +73,8 @@ packages, and reserve any extra inserts immediately:
 ```
 
 The &epsilon;-TeX extensions don't help with `\read` or `\write`
-objects (and neither will the [`etex`](http://ctan.org/pkg/etex) package), but the
-[`morewrites`](http://ctan.org/pkg/morewrites) package can provide the _illusion_ of large
+objects (and neither will the [`etex`](https://ctan.org/pkg/etex) package), but the
+[`morewrites`](https://ctan.org/pkg/morewrites) package can provide the _illusion_ of large
 numbers of `\write` objects.
 
 

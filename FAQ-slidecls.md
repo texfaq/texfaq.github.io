@@ -6,11 +6,11 @@ produced by printing separate slides in different-colored inks, and
 overlaying them, and was just about acceptable back then.  When
 LaTeX 2e came along, the reason SliTeX had to be a separate
 program went away, and its functionality was supplied by the
-[`slides`](http://ctan.org/pkg/slides) class.  While this makes life a little easier for
+[`slides`](https://ctan.org/pkg/slides) class.  While this makes life a little easier for
 system administrators, it does nothing for the inferior functionality
-of the class: no-one who ''knows'' uses [`slides`](http://ctan.org/pkg/slides) nowadays.
+of the class: no-one who ''knows'' uses [`slides`](https://ctan.org/pkg/slides) nowadays.
 
-The ''classic'' alternatives have been [`seminar`](http://ctan.org/pkg/seminar) and [`foils`](http://ctan.org/pkg/foils)
+The ''classic'' alternatives have been [`seminar`](https://ctan.org/pkg/seminar) and [`foils`](https://ctan.org/pkg/foils)
 (originally known as FoilTeX).  Both were originally designed to
 produce output on acetate foils, though subsequent work has provided
 environments in which they can be used with screen projectors (see
@@ -20,46 +20,46 @@ The advent of Microsoft `PowerPoint` (feeble though early
 versions of it were) has created a demand for ''dynamic'' slides&nbsp;&mdash;
 images that develop their content in a more elaborate fashion than by
 merely replacing one foil with the next in the way that was the norm
-when [`slides`](http://ctan.org/pkg/slides), [`foils`](http://ctan.org/pkg/foils) and [`seminar`](http://ctan.org/pkg/seminar) were designed.
+when [`slides`](https://ctan.org/pkg/slides), [`foils`](https://ctan.org/pkg/foils) and [`seminar`](https://ctan.org/pkg/seminar) were designed.
 
-The [`prosper`](http://ctan.org/pkg/prosper) class builds on [`seminar`](http://ctan.org/pkg/seminar) to provide dynamic
+The [`prosper`](https://ctan.org/pkg/prosper) class builds on [`seminar`](https://ctan.org/pkg/seminar) to provide dynamic
 effects and the like; it retains the ability to provide PDF for
 a projected presentation, or to print foils for a foil-based
-presentation.  The add-on package [`ppr-prv`](http://ctan.org/pkg/ppr-prv) adds ''preview''
+presentation.  The add-on package [`ppr-prv`](https://ctan.org/pkg/ppr-prv) adds ''preview''
 facilities (that which is commonly called ''hand-out printing'').  The
-[`HA-prosper`](http://ctan.org/pkg/HA-prosper) package, which you load with [`prosper`](http://ctan.org/pkg/prosper),
+[`HA-prosper`](https://ctan.org/pkg/HA-prosper) package, which you load with [`prosper`](https://ctan.org/pkg/prosper),
 mends a few bugs, and adds several facilities and slide design styles.
-The (more recent) [`powerdot`](http://ctan.org/pkg/powerdot) class is designed as a
-replacement for [`prosper`](http://ctan.org/pkg/prosper) and [`HA-prosper`](http://ctan.org/pkg/HA-prosper), co-authored
-by the author of [`HA-prosper`](http://ctan.org/pkg/HA-prosper).
+The (more recent) [`powerdot`](https://ctan.org/pkg/powerdot) class is designed as a
+replacement for [`prosper`](https://ctan.org/pkg/prosper) and [`HA-prosper`](https://ctan.org/pkg/HA-prosper), co-authored
+by the author of [`HA-prosper`](https://ctan.org/pkg/HA-prosper).
 
-[`Beamer`](http://ctan.org/pkg/Beamer) is a relatively easy-to-learn, yet powerful, class that
+[`Beamer`](https://ctan.org/pkg/Beamer) is a relatively easy-to-learn, yet powerful, class that
 (as its name implies) was designed for use with projection displays.
-It needs the [`pgf`](http://ctan.org/pkg/pgf) package (for graphics support), which in
-turn requires [`xcolor`](http://ctan.org/pkg/xcolor); while this adds to the tedium of
-installing [`beamer`](http://ctan.org/pkg/beamer) ''from scratch'', both are good additions to
-a modern LaTeX installation.  [`Beamer`](http://ctan.org/pkg/Beamer) has reasonable
+It needs the [`pgf`](https://ctan.org/pkg/pgf) package (for graphics support), which in
+turn requires [`xcolor`](https://ctan.org/pkg/xcolor); while this adds to the tedium of
+installing [`beamer`](https://ctan.org/pkg/beamer) ''from scratch'', both are good additions to
+a modern LaTeX installation.  [`Beamer`](https://ctan.org/pkg/Beamer) has reasonable
 facilities for producing printed copies of slides.
 
-[`Talk`](http://ctan.org/pkg/Talk) is another highly functional, yet easy-to-learn class
+[`Talk`](https://ctan.org/pkg/Talk) is another highly functional, yet easy-to-learn class
 which claims to differ from the systems mentioned above, such as
-[`beamer`](http://ctan.org/pkg/beamer), in that it doesn't impose a slide style on you.  You
+[`beamer`](https://ctan.org/pkg/beamer), in that it doesn't impose a slide style on you.  You
 get to specify a bunch of slide styles, and you can switch from one to
 the other between slides, as you need.  The class itself provides
-just the one style, in the package [`greybars`](http://ctan.org/pkg/greybars): the author's
+just the one style, in the package [`greybars`](https://ctan.org/pkg/greybars): the author's
 suggestion that users should contribute their own has been
 enthusiastically accepted&nbsp;&mdash; see (for example) the 
 [Beamer Gallery](http://deic.uab.es/~iblanes/beamer_gallery/).
 
-[`Lecturer`](http://ctan.org/pkg/Lecturer) is a _generic_ solution (it works with
+[`Lecturer`](https://ctan.org/pkg/Lecturer) is a _generic_ solution (it works with
 Plain TeX, LaTeX and ConTeXt&nbsp;mk&nbsp;ii, but not&nbsp;&mdash; yet&nbsp;&mdash; with
 ConTeXt&nbsp;mk iv).  By separating the functionality needed for a
 presentation (using TeX for typesetting, and PDF functions
 for layering and dynamic effects) a clear structure emerges.  While it
 doesn't have the range of ''themes'' (presentation styles) of
-[`beamer`](http://ctan.org/pkg/beamer) it seems a useful alternative candidate.
+[`beamer`](https://ctan.org/pkg/beamer) it seems a useful alternative candidate.
 
-[`Present`](http://ctan.org/pkg/Present) is designed for use with Plain TeX only; its
+[`Present`](https://ctan.org/pkg/Present) is designed for use with Plain TeX only; its
 design is simple, to the extent that its author hopes that users will
 themselves be able to tune its macros.
 
@@ -71,10 +71,10 @@ work on PDF that has come from `dvips` output; they
 work with PDF generated by pdfLaTeX, LaTeX, or
 `dvipdfm` running on LaTeX output.
 
-[`Pdfscreen`](http://ctan.org/pkg/Pdfscreen) and [`texpower`](http://ctan.org/pkg/texpower) are add-on packages that
+[`Pdfscreen`](https://ctan.org/pkg/Pdfscreen) and [`texpower`](https://ctan.org/pkg/texpower) are add-on packages that
 permit dynamic effects in documents formatted in ''more modest''
-classes; [`pdfscreen`](http://ctan.org/pkg/pdfscreen) will even allow you to plug
-''presentation effects'' into an [`article`](http://ctan.org/pkg/article)-class document.
+classes; [`pdfscreen`](https://ctan.org/pkg/pdfscreen) will even allow you to plug
+''presentation effects'' into an [`article`](https://ctan.org/pkg/article)-class document.
 
 A more detailed examination of the alternatives (including examples
 of code using many of them) may be found at Michael Wiedmann's fine

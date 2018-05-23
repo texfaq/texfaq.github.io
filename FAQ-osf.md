@@ -17,16 +17,16 @@ surrounding text: glyphs (for this command) are only available to
 match the normal medium and bold (i.e., bold-extended) weights of the
 Computer Modern Roman fonts.
 
-The [`textcomp`](http://ctan.org/pkg/textcomp) package changes `\oldstylenums` to use the
+The [`textcomp`](https://ctan.org/pkg/textcomp) package changes `\oldstylenums` to use the
 glyphs in the Text Companion fonts (LaTeX TS1 encoding) when
 in text mode, and also makes them available using the macros of the
 form `\text<number>oldstyle`, e.g., `\textzerooldstyle`.
 (Of course, not all font families can provide this facility.)
 
-Some font packages (e.g., [`mathpazo`](http://ctan.org/pkg/mathpazo)) make old-style figures
+Some font packages (e.g., [`mathpazo`](https://ctan.org/pkg/mathpazo)) make old-style figures
 available and provide explicit support for making them the default:
 `\usepackage[osf]{mathpazo}` selects a form where digits are
-always old-style in text.  The [`fontinst`](http://ctan.org/pkg/fontinst) package will
+always old-style in text.  The [`fontinst`](https://ctan.org/pkg/fontinst) package will
 automatically generate ''old-style versions'' of commercial Adobe Type
 1 font families for which ''expert'' sets are available.
 
@@ -48,7 +48,7 @@ OpenType fonts have a pair of axes for number variations&nbsp;&mdash;
 proportional/tabular and lining/oldstyle selections are commonly
 available.  ''Full feature access'' to OpenType fonts, making such
 options available to the (La)TeX user, is already supported by
-[XeTeX](./FAQ-xetex.html) using, for example, the [`fontspec`](http://ctan.org/pkg/fontspec)
+[XeTeX](./FAQ-xetex.html) using, for example, the [`fontspec`](https://ctan.org/pkg/fontspec)
 package.  Similar support is also in the works for
 [LuaTeX](./FAQ-luatex.html).
 

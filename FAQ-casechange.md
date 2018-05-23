@@ -45,7 +45,7 @@ expanded and made upper case; you can achieve the same result by
 declaring it with `\DeclareRobustCommand`, in which case the
 `\protect` won't be necessary.
 
-David Carlisle's [`textcase`](http://ctan.org/pkg/textcase) package
+David Carlisle's [`textcase`](https://ctan.org/pkg/textcase) package
 addresses many of these problems in a transparent way.  It defines
 commands `\MakeTextUppercase` and `\MakeTextLowercase` which do
 upper- or lowercase, with the fancier features of the LaTeX

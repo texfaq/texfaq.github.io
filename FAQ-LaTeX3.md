@@ -28,17 +28,17 @@ Some of the project's experimental code is visible on the net:
 -  via the project's
     [_GitHub_ mirror](https://github.com/latex3/svn-mirror);
 -  from CTAN: snapshots of two major collections from the
-    code, [`l3kernel`](http://ctan.org/pkg/l3kernel) (supporting LaTeX3 coding conventions in
-    a LaTeX 2e environment), [`l3packages`](http://ctan.org/pkg/l3packages) (a first cut of a
+    code, [`l3kernel`](https://ctan.org/pkg/l3kernel) (supporting LaTeX3 coding conventions in
+    a LaTeX 2e environment), [`l3packages`](https://ctan.org/pkg/l3packages) (a first cut of a
     ''document designer's interface'') as well as
-    [`l3experimental`](http://ctan.org/pkg/l3experimental) (new stuff that's still under
+    [`l3experimental`](https://ctan.org/pkg/l3experimental) (new stuff that's still under
     development).
 
-The packages [`l3kernel`](http://ctan.org/pkg/l3kernel) and [`l3packages`](http://ctan.org/pkg/l3packages) provide an
+The packages [`l3kernel`](https://ctan.org/pkg/l3kernel) and [`l3packages`](https://ctan.org/pkg/l3packages) provide an
 ''experimental harness'' that may be used as a testbed for LaTeX3
 work.
 
-Note that [`l3kernel`](http://ctan.org/pkg/l3kernel) introduces a coding structure quite
+Note that [`l3kernel`](https://ctan.org/pkg/l3kernel) introduces a coding structure quite
 different from earlier LaTeX code; a few hardy authors, who are not
 members of the project, are nevertheless using it in their development
 work.

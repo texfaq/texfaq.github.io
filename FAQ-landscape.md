@@ -11,22 +11,22 @@ of landscape typesetting:
 
 -  If you have a single floating object that is wider than it is
     deep, and will only fit on the page in landscape orientation, use
-    the [`rotating`](http://ctan.org/pkg/rotating) package; this defines
+    the [`rotating`](https://ctan.org/pkg/rotating) package; this defines
     `sidewaysfigure` and `sidewaystable`
     environments which create floats that occupy a whole page.
   
 
-    Note that [`rotating`](http://ctan.org/pkg/rotating) has problems in a document that also
-    loads the [`float`](http://ctan.org/pkg/float) package, which recommended in other
+    Note that [`rotating`](https://ctan.org/pkg/rotating) has problems in a document that also
+    loads the [`float`](https://ctan.org/pkg/float) package, which recommended in other
     answers in these FAQs, for example that on
-    [float placement](./FAQ-floats.html).  The [`rotfloat`](http://ctan.org/pkg/rotfloat) package
-    loads [`rotating`](http://ctan.org/pkg/rotating) for you, and smooths the interaction with
-    [`float`](http://ctan.org/pkg/float).
+    [float placement](./FAQ-floats.html).  The [`rotfloat`](https://ctan.org/pkg/rotfloat) package
+    loads [`rotating`](https://ctan.org/pkg/rotating) for you, and smooths the interaction with
+    [`float`](https://ctan.org/pkg/float).
 -  If you have a long sequence of things that need to be typeset in
     landscape (perhaps a code listing, a wide `tabbing`
-    environment, or a huge table typeset using [`longtable`](http://ctan.org/pkg/longtable) or
-    [`supertabular`](http://ctan.org/pkg/supertabular)), use the [`lscape`](http://ctan.org/pkg/lscape) package (or
-    [`pdflscape`](http://ctan.org/pkg/pdflscape) if you're generating PDF output, whether
+    environment, or a huge table typeset using [`longtable`](https://ctan.org/pkg/longtable) or
+    [`supertabular`](https://ctan.org/pkg/supertabular)), use the [`lscape`](https://ctan.org/pkg/lscape) package (or
+    [`pdflscape`](https://ctan.org/pkg/pdflscape) if you're generating PDF output, whether
     using PDFLaTeX or `dvips` and generating PDF from
     that).  Both packages define an environment `landscape`, which
     clears the current page and restarts typesetting in landscape
@@ -40,18 +40,18 @@ behaviour was an absolute necessity, one might use the techniques
 described in
 ["flowing text around figures"](./FAQ-textflow.html), and would
 rotate the landscape portion using the rotation facilities of the
-[`graphics`](http://ctan.org/pkg/graphics) package.  (Returning from landscape to portrait
+[`graphics`](https://ctan.org/pkg/graphics) package.  (Returning from landscape to portrait
 orientation would be somewhat easier: the portrait part of the page
 would be a bottom float at the end of the landscape section, with its
 content rotated.)
 
 To set an entire document in landscape orientation, one might use
-[`lscape`](http://ctan.org/pkg/lscape) around the whole document.  A better option is the
-`landscape` option of the [`geometry`](http://ctan.org/pkg/geometry) package; if you
+[`lscape`](https://ctan.org/pkg/lscape) around the whole document.  A better option is the
+`landscape` option of the [`geometry`](https://ctan.org/pkg/geometry) package; if you
 also give it `dvips` or `pdftex` option,
-[`geometry`](http://ctan.org/pkg/geometry) also emits the rotation instructions to cause the
-output to be properly oriented.  The [`memoir`](http://ctan.org/pkg/memoir) class has the same
-facilities, in this respect, as does [`geometry`](http://ctan.org/pkg/geometry).
+[`geometry`](https://ctan.org/pkg/geometry) also emits the rotation instructions to cause the
+output to be properly oriented.  The [`memoir`](https://ctan.org/pkg/memoir) class has the same
+facilities, in this respect, as does [`geometry`](https://ctan.org/pkg/geometry).
 
 A word of warning: most current TeX previewers do not honour
 rotation requests in DVI files.

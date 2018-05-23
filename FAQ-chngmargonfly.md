@@ -38,16 +38,16 @@ environment (which is a close relation of the LaTeX
 as far as TeX is concerned: it merely moves text around inside the
 width that TeX believes in.
 
-The [`changepage`](http://ctan.org/pkg/changepage) package provides ready-built commands to do
+The [`changepage`](https://ctan.org/pkg/changepage) package provides ready-built commands to do
 the above; it includes provision for changing the shifts applied to
 your text according to whether you're on an odd (_recto_) or an
 even (_verso_) page of a two-sided document.
-[`Changepage`](http://ctan.org/pkg/Changepage)'s structure matches that of the [`memoir`](http://ctan.org/pkg/memoir)
+[`Changepage`](https://ctan.org/pkg/Changepage)'s structure matches that of the [`memoir`](https://ctan.org/pkg/memoir)
 class.
 
-The (earlier) package [`chngpage`](http://ctan.org/pkg/chngpage) provides the same facilities,
-but it uses rather different syntax.  [`Changepage`](http://ctan.org/pkg/Changepage)'s structure
-matches that of the [`memoir`](http://ctan.org/pkg/memoir) class, and it should be used for
+The (earlier) package [`chngpage`](https://ctan.org/pkg/chngpage) provides the same facilities,
+but it uses rather different syntax.  [`Changepage`](https://ctan.org/pkg/Changepage)'s structure
+matches that of the [`memoir`](https://ctan.org/pkg/memoir) class, and it should be used for
 any new work.
 
 Changing the vertical dimensions of a page is more clumsy still: the
@@ -61,7 +61,7 @@ to make the page one line longer, or
 \enlargethispage{-\baselineskip}
 ```
 to make the page one line shorter.  The process is (to an extent)
-simplified by the [`addlines`](http://ctan.org/pkg/addlines) package: its `\addlines`
+simplified by the [`addlines`](https://ctan.org/pkg/addlines) package: its `\addlines`
 command takes as argument the _number_ of lines to add to the
 page (rather than a length): the package documentation also provides a
 useful analysis of when the command may (or may not) be expected to

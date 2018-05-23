@@ -13,9 +13,9 @@ There is now a comprehensive set of packages that answer the question
 for you.  They all create a TeX conditional command:
   
 
--  [`ifpdf`](http://ctan.org/pkg/ifpdf) creates a command `\ifpdf`,
--  [`ifxetex`](http://ctan.org/pkg/ifxetex) creates a command `\ifxetex` and
--  [`ifluatex`](http://ctan.org/pkg/ifluatex) creates a command `\ifluatex`.
+-  [`ifpdf`](https://ctan.org/pkg/ifpdf) creates a command `\ifpdf`,
+-  [`ifxetex`](https://ctan.org/pkg/ifxetex) creates a command `\ifxetex` and
+-  [`ifluatex`](https://ctan.org/pkg/ifluatex) creates a command `\ifluatex`.
 
 These TeX commands may be used within the LaTeX conditional
 framework, as (for example):
@@ -23,7 +23,7 @@ framework, as (for example):
 \ifthenelse{\boolean{pdf}}{<if pdf>}{<if not pdf>}
 ```
 
-The [`ifxetex`](http://ctan.org/pkg/ifxetex) package also provides a command
+The [`ifxetex`](https://ctan.org/pkg/ifxetex) package also provides a command
 `\RequireXeTeX` which creates an error if the code is not running
 under XeTeX; while the other packages don't provide such a command,
 it's not really difficult to write one for yourself.
@@ -56,7 +56,7 @@ this is a theoretical problem, it is unlikely to be a major one.
 
 More important is the user who loads a package that uses
 LaTeX-style testing for the command name's existence (for example,
-the LaTeX [`graphics`](http://ctan.org/pkg/graphics) package, which is useful even to the
+the LaTeX [`graphics`](https://ctan.org/pkg/graphics) package, which is useful even to the
 Plain TeX user).  Such a package may have gone ahead of you, so the
 test may need to be elaborated:
 ```latex

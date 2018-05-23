@@ -13,7 +13,7 @@ and `\subparagraph`; you can (if you _must_) arrange that these
 two commands produce numbered headings, so that you can use them as
 `\subsubsubsection`s and lower.
 
-The [`titlesec`](http://ctan.org/pkg/titlesec) package provides a sensible set of macros for
+The [`titlesec`](https://ctan.org/pkg/titlesec) package provides a sensible set of macros for
 you to adjust the definitions of the sectioning macros, and it may be
 used to transform a `\paragraph`s typesetting so that it looks
 like that of a `\section`.

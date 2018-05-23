@@ -11,7 +11,7 @@ case.
   
 
 -  Don't specify a driver when loading loading whichever version of
-    the [`graphics`](http://ctan.org/pkg/graphics) package you use.  The scheme relies on the
+    the [`graphics`](https://ctan.org/pkg/graphics) package you use.  The scheme relies on the
     distribution's ability to decide which driver is going to be used:
     the choice is between `dvips` and pdfTeX, in this case.
     Be sure to exclude options `dvips`, `pdftex` and

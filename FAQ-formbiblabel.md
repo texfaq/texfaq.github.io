@@ -10,7 +10,7 @@ while many documents need something like:
   2. Doe, Jane et al. Some journal. 2003.
 
 This sort of change may be achieved by many of the ''general''
-citation packages; for example, in [`natbib`](http://ctan.org/pkg/natbib), it's as simple as:
+citation packages; for example, in [`natbib`](https://ctan.org/pkg/natbib), it's as simple as:
 ```latex
 \renewcommand{\bibnumfmt}[1]{#1.}
 ```

@@ -1,17 +1,17 @@
 # Really blank pages between chapters
 
 If you're using the standard classes, you need to take special action;
-the [`memoir`](http://ctan.org/pkg/memoir) class and the [`Koma-Script`](http://ctan.org/pkg/Koma-Script) classes provide
+the [`memoir`](https://ctan.org/pkg/memoir) class and the [`Koma-Script`](https://ctan.org/pkg/Koma-Script) classes provide
 their own support for this&nbsp;&mdash; see below. 
 
-[`Book`](http://ctan.org/pkg/Book) (by default) and [`report`](http://ctan.org/pkg/report) (with `openright` class
+[`Book`](https://ctan.org/pkg/Book) (by default) and [`report`](https://ctan.org/pkg/report) (with `openright` class
 option) ensure that each chapter starts on a right-hand (recto) page;
 they do this by inserting a `\cleardoublepage` command between
 chapters (rather than a mere `\clearpage`).  The empty page thus
 created gets to have a normal running header, which some people don't
 like.
 
-The (excellent) [`fancyhdr`](http://ctan.org/pkg/fancyhdr) manual covers this issue, basically
+The (excellent) [`fancyhdr`](https://ctan.org/pkg/fancyhdr) manual covers this issue, basically
 advising the creation of a command `\clearemptydoublepage`:
 <!-- {% raw %} -->
 ```latex
@@ -36,18 +36,18 @@ of `\cleardoublepage`: instructions on macro programming
 [patching techniques](./FAQ-patch.html) explain the problem and
 why this is a solution.
 
-The [`emptypage`](http://ctan.org/pkg/emptypage) package does this sort of thing for you; all
+The [`emptypage`](https://ctan.org/pkg/emptypage) package does this sort of thing for you; all
 you need do is load the package, and it does the rest.
 
 The _KOMA-Script_ replacements for the
-[`book`](http://ctan.org/pkg/book) and [`report`](http://ctan.org/pkg/report) classes ([`scrbook`](http://ctan.org/pkg/scrbook) and
-[`scrreprt`](http://ctan.org/pkg/scrreprt) offers class options `cleardoubleempty`,
+[`book`](https://ctan.org/pkg/book) and [`report`](https://ctan.org/pkg/report) classes ([`scrbook`](https://ctan.org/pkg/scrbook) and
+[`scrreprt`](https://ctan.org/pkg/scrreprt) offers class options `cleardoubleempty`,
 `cleardoubleplain` and `cleardoublestandard`
 (using the running page style, as normal) that control the appearance
 of these empty pages.  The classes also offer do-it-yourself commands
 `\cleardoubleempty` (etc.).
 
-The [`memoir`](http://ctan.org/pkg/memoir) class (and the [`nextpage`](http://ctan.org/pkg/nextpage) package)
+The [`memoir`](https://ctan.org/pkg/memoir) class (and the [`nextpage`](https://ctan.org/pkg/nextpage) package)
 provide commands `\cleartooddpage` and `\cleartoevenpage`,
 which both take an optional argument (the first, with no argument,
 being an equivalent of `\cleardoublepage`).  One can achieve

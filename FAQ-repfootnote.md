@@ -42,8 +42,8 @@ summoned to our aid, but there are ugly error messages before the
 ```
 Alternatively, one may use the `\footref` command, which has the
 advantage of working even when the footnote mark isn't expressed as a
-number.  The command is defined in the [`footmisc`](http://ctan.org/pkg/footmisc) package and
-in the [`memoir`](http://ctan.org/pkg/memoir) class (at least); `\footref` reduces the above
+number.  The command is defined in the [`footmisc`](https://ctan.org/pkg/footmisc) package and
+in the [`memoir`](https://ctan.org/pkg/memoir) class (at least); `\footref` reduces the above
 example to:
 ```latex
 ...\footnote{Text to repeat\label{fn:repeat}}
@@ -54,7 +54,7 @@ This is the cleanest simple way of doing the job.  Note that the
 `\label` command _must_ be inside the argument of
 `\footnote`.
 
-The [`fixfoot`](http://ctan.org/pkg/fixfoot) package takes away some of the pain of the
+The [`fixfoot`](https://ctan.org/pkg/fixfoot) package takes away some of the pain of the
 matter: you declare footnotes you're going to reuse, typically in the
 preamble of your document, using a `\DeclareFixedFoot` command, and
 then use the command you've ''declared'' in the body of the document:

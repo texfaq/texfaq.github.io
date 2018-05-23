@@ -18,8 +18,8 @@ distribution (look for
 `btxhak`), explains the postfix stack-based language used to
 write BibTeX styles (`.bst` files). The file`btxbst.doc`,
 also in the BibTeX distribution,
-is the template for the four standard styles ([`plain`](http://ctan.org/pkg/plain),
-[`abbrv`](http://ctan.org/pkg/abbrv), [`alpha`](http://ctan.org/pkg/alpha), and [`unsrt`](http://ctan.org/pkg/unsrt)); it also
+is the template for the four standard styles ([`plain`](https://ctan.org/pkg/plain),
+[`abbrv`](https://ctan.org/pkg/abbrv), [`alpha`](https://ctan.org/pkg/alpha), and [`unsrt`](https://ctan.org/pkg/unsrt)); it also
 contains their documentation.
 
 A useful tutorial of the whole process of using BibTeX is Nicolas

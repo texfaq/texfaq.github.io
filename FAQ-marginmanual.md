@@ -32,7 +32,7 @@ two-page spread and even-numbered pages on the left-hand side
 the relevant pages; in each case the right-hand margin is specified by
 implication, from the value of `\textwidth` and the width of the
 paper.  (In a one-sided document, which is the default in many
-classes, including the standard [`article`](http://ctan.org/pkg/article) and [`report`](http://ctan.org/pkg/report)
+classes, including the standard [`article`](https://ctan.org/pkg/article) and [`report`](https://ctan.org/pkg/report)
 classes, `\oddsidemargin` stands for both.)
 
 The

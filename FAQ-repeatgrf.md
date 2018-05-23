@@ -24,8 +24,8 @@ experts'' only (the author of this answer has never even tried it), it has
 potential for the same sort of space saving as the `epslatex`
 technique, with greater flexibility in actual use.
 
-More practical is Hendri Adriaens' [`graphicx-psmin`](http://ctan.org/pkg/graphicx-psmin); you load
-this _in place_ of [`graphicx`](http://ctan.org/pkg/graphicx), so rather than:
+More practical is Hendri Adriaens' [`graphicx-psmin`](https://ctan.org/pkg/graphicx-psmin); you load
+this _in place_ of [`graphicx`](https://ctan.org/pkg/graphicx), so rather than:
 ```latex
 \usepackage[<options>]{graphicx}
 ```

@@ -57,7 +57,7 @@ Note that all the command definitions above are dealing in
 [LaTeX internal commands](./FAQ-atsigns.html), so the above
 code should be in a package file, for preference.
 
-The [`Koma-script`](http://ctan.org/pkg/Koma-script) classes have different commands for specifying
+The [`Koma-script`](https://ctan.org/pkg/Koma-script) classes have different commands for specifying
 changes to section number presentation: `\partformat`,
 `\chapterformat` and `\othersectionlevelsformat`, but otherwise
 their facilities are similar to those of ''raw'' LaTeX.

@@ -18,7 +18,7 @@ an alternative way of placing the command; there is no slick solution.
 
 If a floating environment is the culprit, it may be possible to use
 the `H` placement option, provided (for example) by the
-[`float`](http://ctan.org/pkg/float) package:
+[`float`](https://ctan.org/pkg/float) package:
 <!-- {% raw %} -->
 ```latex
 \parbox{25cm}{%
@@ -31,7 +31,7 @@ the `H` placement option, provided (for example) by the
 <!-- {% endraw %} -->
 This example makes little sense as it stands; however, it is
 conceivable that sane uses could be found (for example, using a
-package such as [`algorithm2e`](http://ctan.org/pkg/algorithm2e) to place two algorithms
+package such as [`algorithm2e`](https://ctan.org/pkg/algorithm2e) to place two algorithms
 side-by-side).
 
 

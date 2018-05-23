@@ -16,9 +16,9 @@ to run things), but the lack might confuse automatic processors that
 scan the log file to determine whether another run is necessary.
 
 A couple of packages are available, that aim to reduce the impact of
-`\nocite{*}` of a large citation database.  [`Biblist`](http://ctan.org/pkg/Biblist)
+`\nocite{*}` of a large citation database.  [`Biblist`](https://ctan.org/pkg/Biblist)
 was written for use under LaTeX 2.09, but seems to work well enough;
-[`listbib`](http://ctan.org/pkg/listbib) is more modern.  Both provide their own
+[`listbib`](https://ctan.org/pkg/listbib) is more modern.  Both provide their own
 `bst` files.  (The impact of large databases was significant
 in the old days of LaTeX systems with very little free memory; this
 problem is less significant now than it once was.)

@@ -38,7 +38,7 @@ However, even quite sophisticated stripping of (La)TeX markup can
 never be entirely reliable: markup itself may contribute typeset
 words, or even consume words that appear in the text.
 
-The [`wordcount`](http://ctan.org/pkg/wordcount) package
+The [`wordcount`](https://ctan.org/pkg/wordcount) package
 contains a Bourne shell (i.e., typically Unix) script for running a
 LaTeX file with a special piece of supporting TeX code, and then
 counting word indications in the log file.  This is probably as

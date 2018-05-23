@@ -24,7 +24,7 @@ support for new Web standards.
   available on CTAN, and a tweaked version
   (`XITS`) and `Asana Math` are also
   available.  The STIX project has still not released macros
-  for using the fonts, but the [`unicode-math`](http://ctan.org/pkg/unicode-math) package will do
+  for using the fonts, but the [`unicode-math`](https://ctan.org/pkg/unicode-math) package will do
   what is necessary under XeTeX and LuaTeX, and the fonts can of
   course be used in browsers.
 - XML The core of the range of new standards is
@@ -116,7 +116,7 @@ support for new Web standards.
 ```latex
 <img src="/cgi-bin/mathtex.cgi?f(x)=\int\limits_{-\infty}^xe^{-t^2}dt">
 ```
-([`Mathtex`](http://ctan.org/pkg/Mathtex) supersedes the author's earlier [`mimetex`](http://ctan.org/pkg/mimetex).)
+([`Mathtex`](https://ctan.org/pkg/Mathtex) supersedes the author's earlier [`mimetex`](https://ctan.org/pkg/mimetex).)
 
 
 ----

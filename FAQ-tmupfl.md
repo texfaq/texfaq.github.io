@@ -9,7 +9,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 ```
 your figures (or tables) are not being placed properly.  LaTeX
 has a limited amount of storage for ''floats'' (figures, tables, or
-floats you've defined yourself with the [`float`](http://ctan.org/pkg/float) package); if
+floats you've defined yourself with the [`float`](https://ctan.org/pkg/float) package); if
 something you have done has prevented LaTeX from typesetting
 floats, it will run out of storage space.
 
@@ -31,11 +31,11 @@ Techniques for solving the problem are discussed in the
 [floats question](./FAQ-floats.html) already referenced.
 
 For LaTeX releases prior to 2015, an
- alternative _may_ be to use the [`morefloats`](http://ctan.org/pkg/morefloats) package.
+ alternative _may_ be to use the [`morefloats`](https://ctan.org/pkg/morefloats) package.
 The package will allocate more ''float skeletons'' than LaTeX
 does by default; each such skeleton may then be used to store a
-float.  Beware that even with [`morefloats`](http://ctan.org/pkg/morefloats), the number you can
-allocate is limited; even with the [`etex`](http://ctan.org/pkg/etex) package.
+float.  Beware that even with [`morefloats`](https://ctan.org/pkg/morefloats), the number you can
+allocate is limited; even with the [`etex`](https://ctan.org/pkg/etex) package.
 
 LaTeX releases from 2015 onwards have an `\extrafloats`
 command which (assuming an &epsilon;-TeX format is being used) will
@@ -53,7 +53,7 @@ sequence is sufficiently prolonged: once the page fills, LaTeX
 won't place any more floats, leading to the error.
 
 Techniques for resolution may involve redefining the floats using the
-[`float`](http://ctan.org/pkg/float) package's `[H]` float qualifier, but you are unlikely
+[`float`](https://ctan.org/pkg/float) package's `[H]` float qualifier, but you are unlikely
 to get away without using `\clearpage` from time to time.
 
 

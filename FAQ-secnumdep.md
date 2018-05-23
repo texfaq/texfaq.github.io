@@ -31,25 +31,25 @@ the `\frontmatter` and `\backmatter` commands.
 The value of the counter `tocdepth` controls which headings
 will be finally printed in the table of contents; it is normally set
 in the preamble and is a constant for the document.  The package
-[`tocvsec2`](http://ctan.org/pkg/tocvsec2) package takes the tedium out of changing the
+[`tocvsec2`](https://ctan.org/pkg/tocvsec2) package takes the tedium out of changing the
 `secnumdepth` and/or the `tocdepth` counter values at
 any point in the body of the document; the commands (respectively)
 `\setsecnumdepth` and `\settocdepth` make the changes based on
 the _name_ of the sectional unit (`chapter`,
 `section`, etc.).
 
-The package [`abstract`](http://ctan.org/pkg/abstract) (see 
+The package [`abstract`](https://ctan.org/pkg/abstract) (see 
 [one-column abstracts](./FAQ-onecolabs.html)) includes an option
 to add the `abstract` to the table of contents, while the
-package [`tocbibind`](http://ctan.org/pkg/tocbibind) has options to include the table of
+package [`tocbibind`](https://ctan.org/pkg/tocbibind) has options to include the table of
 contents itself, the `bibliography`, `index`, etc., to
 the table of contents.
 
-The [`KOMA-Script`](http://ctan.org/pkg/KOMA-Script) classes have commands `\addchap` and
+The [`KOMA-Script`](https://ctan.org/pkg/KOMA-Script) classes have commands `\addchap` and
 `\addled`, which work like `\chapter` and `\section` but
-aren't numbered.  The [`memoir`](http://ctan.org/pkg/memoir) class incorporates the facilities
-of all three of the [`abstract`](http://ctan.org/pkg/abstract), [`tocbibind`](http://ctan.org/pkg/tocbibind) and
-[`tocvsec2`](http://ctan.org/pkg/tocvsec2) packages.
+aren't numbered.  The [`memoir`](https://ctan.org/pkg/memoir) class incorporates the facilities
+of all three of the [`abstract`](https://ctan.org/pkg/abstract), [`tocbibind`](https://ctan.org/pkg/tocbibind) and
+[`tocvsec2`](https://ctan.org/pkg/tocvsec2) packages.
 
 
 ----

@@ -1,11 +1,11 @@
-# Why use [`fontenc`](http://ctan.org/pkg/fontenc) rather than [`t1enc`](http://ctan.org/pkg/t1enc)?
+# Why use [`fontenc`](https://ctan.org/pkg/fontenc) rather than [`t1enc`](https://ctan.org/pkg/t1enc)?
 
 In the very earliest days of LaTeX 2e, the only way to use the
-T1 encoding was [`t1enc`](http://ctan.org/pkg/t1enc); with the summer 1994
-''production'' release, the [`fontenc`](http://ctan.org/pkg/fontenc) package appeared, and
+T1 encoding was [`t1enc`](https://ctan.org/pkg/t1enc); with the summer 1994
+''production'' release, the [`fontenc`](https://ctan.org/pkg/fontenc) package appeared, and
 provided comprehensive support for use of the encoding.
 
-Nevertheless, the [`t1enc`](http://ctan.org/pkg/t1enc) package remains (as part of the
+Nevertheless, the [`t1enc`](https://ctan.org/pkg/t1enc) package remains (as part of the
 LaTeX 2.09 compatibility code), but it does very little: it merely
 selects font encoding T1, and leaves to the user the business
 of generating the character codes required.
@@ -18,7 +18,7 @@ standard encodings, and includes code points in areas of the table
 which standard encodings specifically exclude, so no T1
 keyboards have been (or ever will be) manufactured.
 
-By contrast, the [`fontenc`](http://ctan.org/pkg/fontenc) package generates the T1
+By contrast, the [`fontenc`](https://ctan.org/pkg/fontenc) package generates the T1
 code points from ordinary LaTeX commands (e.g., it generates the
 `&eacute;` character codepoint from the command `\``e`).
 So, unless you have program-generated T1 input (which is almost

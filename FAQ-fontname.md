@@ -38,7 +38,7 @@ encoding allocates one character to the font ''foundry'' (Adobe, Monotype,
 and so on), two to the typeface name (Baskerville, Times Roman, and so
 on), one to the weight, shape, and encoding and so on.  
 
-The whole scheme is outlined in the [`fontname`](http://ctan.org/pkg/fontname) distribution,
+The whole scheme is outlined in the [`fontname`](https://ctan.org/pkg/fontname) distribution,
 which includes extensive documentation and a set of tables of fonts
 whose names have been systematised.
 

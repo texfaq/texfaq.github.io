@@ -5,7 +5,7 @@ indeed, typically strictly limited both in character set and length.
 In modern systems, such restrictions have largely disappeared, which
 leaves TeX rather at odds with its environment.  Particular
 problems arise with spaces in file names, but things like multiple
-period characters can seriously confuse the [`graphics`](http://ctan.org/pkg/graphics)
+period characters can seriously confuse the [`graphics`](https://ctan.org/pkg/graphics)
 package.
 
 The specification of TeX leaves some leeway for distributions to
@@ -29,7 +29,7 @@ difficulties.  Note that
 ```
 works in a similar version of pdfTeX.
 
-If you're using the [`graphics`](http://ctan.org/pkg/graphics) package, the [`grffile`](http://ctan.org/pkg/grffile)
+If you're using the [`graphics`](https://ctan.org/pkg/graphics) package, the [`grffile`](https://ctan.org/pkg/grffile)
 package will help.  The package offers several options, the simplest
 of which are `multidot` (allowing more than one dot in a
 file name) and `space` (allowing space in a file name).  The

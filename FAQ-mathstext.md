@@ -49,8 +49,8 @@ The `\mbox` short cut is (just about) OK for ''occasional''
 use, but serious mathematics calls for a technique that
 relieves the typist of the sort of thought required.  As usual, the
 AMSLaTeX system provides what's necessary&nbsp;&mdash; the `\text`
-command.  (The command is actually provided by the [`amstext`](http://ctan.org/pkg/amstext)
-package, but the ''global'' [`amsmath`](http://ctan.org/pkg/amsmath) package loads it.)  Thus
+command.  (The command is actually provided by the [`amstext`](https://ctan.org/pkg/amstext)
+package, but the ''global'' [`amsmath`](https://ctan.org/pkg/amsmath) package loads it.)  Thus
 anyone using AMSLaTeX proper has the command available, so even
 this author can write:
 ```latex
@@ -59,7 +59,7 @@ this author can write:
 $z = a_{\text{other end}}$
 ```
 and the text will be at the right size, and in the same font as
-surrounding text.  (The [`amstext`](http://ctan.org/pkg/amstext) package also puts
+surrounding text.  (The [`amstext`](https://ctan.org/pkg/amstext) package also puts
 `\textrm` to rights&nbsp;&mdash; but `\text` is easier to type than
 `\textrm`!)
 
@@ -77,7 +77,7 @@ places the text ''and'' on a separate line before the last line of the
 display.  If the interjected text is short, or the equations
 themselves are light-weight, you may find that `\intertext` leaves
 too much space.  Slightly more modest is the `\shortintertext`
-command from the [`mathtools`](http://ctan.org/pkg/mathtools) package:
+command from the [`mathtools`](https://ctan.org/pkg/mathtools) package:
 ```latex
 \begin{align}
   a =& b
@@ -86,7 +86,7 @@ command from the [`mathtools`](http://ctan.org/pkg/mathtools) package:
 \end{align}
 ```
 To have the text on the same line as the second equation, one can use
-the `flalign` environment (from [`amsmath`](http://ctan.org/pkg/amsmath))
+the `flalign` environment (from [`amsmath`](https://ctan.org/pkg/amsmath))
 with lots of dummy equations (represented by the double `\&`
 signs):
 ```latex

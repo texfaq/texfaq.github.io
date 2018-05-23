@@ -32,7 +32,7 @@ which (though it doesn't tell you which _file_ the
 `\begin{blah}` was in) is usually enough to locate the
 immediate problem.  If you press on past the LaTeX error, you get
 one or more repetitions of the ''occurred inside a group'' message
-before LaTeX finally exits.  The [`checkend`](http://ctan.org/pkg/checkend) package
+before LaTeX finally exits.  The [`checkend`](https://ctan.org/pkg/checkend) package
 recognises other unclosed `\begin{blob}` commands, and
 generates an ''ended by'' error message for each one, rather than
 producing the ''occurred inside a group'' message, which is sometimes

@@ -32,16 +32,16 @@ a URL).
 
 Several LaTeX packages provide capabilities which Plain TeX
 users are lacking, most notably text coloring and rotation provided by
-the [`graphics`](http://ctan.org/pkg/graphics) bundle (packages [`color`](http://ctan.org/pkg/color) and
-[`graphics`](http://ctan.org/pkg/graphics)).  Although the [`graphics`](http://ctan.org/pkg/graphics) bundle provides
+the [`graphics`](https://ctan.org/pkg/graphics) bundle (packages [`color`](https://ctan.org/pkg/color) and
+[`graphics`](https://ctan.org/pkg/graphics)).  Although the [`graphics`](https://ctan.org/pkg/graphics) bundle provides
 a Plain TeX ''loader'' for some of the packages, it is not a
 trivial job to pass options to those packages under Plain TeX, and
 much of the functionality of the packages is accessed through package
 options.  Eplain extends the loader so that options can be passed
 to the packages just as they are in LaTeX.  The following packages are
-known to work with Eplain:  [`graphics`](http://ctan.org/pkg/graphics), [`graphicx`](http://ctan.org/pkg/graphicx),
-[`color`](http://ctan.org/pkg/color), [`autopict`](http://ctan.org/pkg/autopict) (LaTeX picture environment),
-[`psfrag`](http://ctan.org/pkg/psfrag), and [`url`](http://ctan.org/pkg/url).
+known to work with Eplain:  [`graphics`](https://ctan.org/pkg/graphics), [`graphicx`](https://ctan.org/pkg/graphicx),
+[`color`](https://ctan.org/pkg/color), [`autopict`](https://ctan.org/pkg/autopict) (LaTeX picture environment),
+[`psfrag`](https://ctan.org/pkg/psfrag), and [`url`](https://ctan.org/pkg/url).
 
 [Eplain documentation](http://tug.org/docs/html/eplain) is
 available online (there's a PDF copy in the CTAN

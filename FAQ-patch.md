@@ -33,7 +33,7 @@ If `\smooth` takes arguments, one must pass them on:
 The situation is more difficult still if `\smooth` takes an
 optional argument; the structure of the command is so complex that the
 simple `\let` command does not retain the necessary detail.  In
-this case, we need the [`letltxmacro`](http://ctan.org/pkg/letltxmacro) package which knows about all
+this case, we need the [`letltxmacro`](https://ctan.org/pkg/letltxmacro) package which knows about all
 sorts of LaTeX commands and how to replicate them.  Suppose we have
 a command defined as:
 ```latex
@@ -67,10 +67,10 @@ command comes from a source that's liable to change under the control
 of someone else, it does at least warn you that your patch is in
 danger of going wrong.
 
-Otherwise, LaTeX users may use one of the [`patchcmd`](http://ctan.org/pkg/patchcmd),
-[`ted`](http://ctan.org/pkg/ted) or [`etoolbox`](http://ctan.org/pkg/etoolbox) packages.
+Otherwise, LaTeX users may use one of the [`patchcmd`](https://ctan.org/pkg/patchcmd),
+[`ted`](https://ctan.org/pkg/ted) or [`etoolbox`](https://ctan.org/pkg/etoolbox) packages.
 
-The [`patchcmd`](http://ctan.org/pkg/patchcmd) package addresses a slightly simpler task, by
+The [`patchcmd`](https://ctan.org/pkg/patchcmd) package addresses a slightly simpler task, by
 restricting the set of commands that you may patch; you mayn't patch
 any command that has an optional argument, though it does deal with
 the case of commands defined with `\DeclareRobustCommand`.  The
@@ -84,7 +84,7 @@ after
 ```
 we will have a new version of `\b` defined as `abc`.
 
-The [`ted`](http://ctan.org/pkg/ted) package is a ''token list editor'', and provides a
+The [`ted`](https://ctan.org/pkg/ted) package is a ''token list editor'', and provides a
 command `\substitute` which will patch the
 contents of a macro, putting the result in a token-list, or
 (in the form `\Substitute*`) using the result to (re)define a
@@ -105,7 +105,7 @@ The package also offers a command `\ShowTokens`, which shows the
 content of its argument, one token to a line, with details of the
 token's category code, etc.  This is recommended as a debugging tool.
 
-The [`etoolbox`](http://ctan.org/pkg/etoolbox) package (which provides user access to &epsilon;-TeX's
+The [`etoolbox`](https://ctan.org/pkg/etoolbox) package (which provides user access to &epsilon;-TeX's
 programming facilities) provides a command `\patchcmd` which is
 very similar to `\Substitute`, except that it only replaces a
 single instance of the token(s) in its search pattern.  Since not all
@@ -119,15 +119,15 @@ target command's body does indeed include the patch string you propose
 to use.  (The command `\ifpatchable*` omits the test on the patch
 string.)
 
-The [`regexpatch`](http://ctan.org/pkg/regexpatch) package deals with cases that are
-inaccessible with [`etoolbox`](http://ctan.org/pkg/etoolbox); it uses the regular expression
-(pattern-matching) package [`l3regex`](http://ctan.org/pkg/l3regex) from the LaTeX3
+The [`regexpatch`](https://ctan.org/pkg/regexpatch) package deals with cases that are
+inaccessible with [`etoolbox`](https://ctan.org/pkg/etoolbox); it uses the regular expression
+(pattern-matching) package [`l3regex`](https://ctan.org/pkg/l3regex) from the LaTeX3
 distribution to find the code you need to patch.  The package also
 ''knows about'' robust commands and about
-[[`biblatex`](http://ctan.org/pkg/biblatex)](./FAQ-biblatex.html).
+[[`biblatex`](https://ctan.org/pkg/biblatex)](./FAQ-biblatex.html).
 
 Finally, we'll briefly consider a package that is (just about)
-usable, but not really recommendable.  [`Patch`](http://ctan.org/pkg/Patch) gives you an
+usable, but not really recommendable.  [`Patch`](https://ctan.org/pkg/Patch) gives you an
 ingenious (and difficult to understand) mechanism, and comes as an
 old-style LaTeX documented macro file, which can no longer be
 processed to [produce formatted documentation, etc.](./FAQ-install-doc.html).
@@ -136,7 +136,7 @@ Fortunately, the file (`patch.doc`) may be input directly, and
 Roughly speaking, one gives the command a set of instructions
 analogous to `sed` substitutions, and it regenerates the
 command thus amended.  Unless you can't do your job any other way,
-[`patch`](http://ctan.org/pkg/patch) is best avoided.
+[`patch`](https://ctan.org/pkg/patch) is best avoided.
 
 
 ----

@@ -13,7 +13,7 @@ simply ignored.
 
 Unfortunately, page-wide equations can only be accommodated inside
 float environments.  You should include them in `figure` environments,
-or use the [`float`](http://ctan.org/pkg/float) or [`ccaption`](http://ctan.org/pkg/ccaption)package to define a
+or use the [`float`](https://ctan.org/pkg/float) or [`ccaption`](https://ctan.org/pkg/ccaption)package to define a
 new float type. 
 
 

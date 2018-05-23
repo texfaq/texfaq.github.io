@@ -31,16 +31,16 @@ are increasingly being used to provide Type&nbsp;1 fonts to the public domain.
 The `MetaType1` system aims to use MetaFont font sources, by way
 of MetaPost and a bunch of scripts and so on, to produce high-quality
 Type&nbsp;1 fonts.  The first results, the 
-[[`Latin Modern`](http://ctan.org/pkg/Latin Modern) fonts](./FAQ-type1T1.html), are now
+[[`Latin Modern`](https://ctan.org/pkg/Latin Modern) fonts](./FAQ-type1T1.html), are now
 well-established, and a bunch of existing designs have been reworked
 in MetaType1 format.
 
-[`Mf2pt1`](http://ctan.org/pkg/Mf2pt1) is another translator of MetaFont font sources by way of
+[`Mf2pt1`](https://ctan.org/pkg/Mf2pt1) is another translator of MetaFont font sources by way of
 MetaPost; in addition,
-available, [`mf2pt1`](http://ctan.org/pkg/mf2pt1) will use
+available, [`mf2pt1`](https://ctan.org/pkg/mf2pt1) will use
 [`fontforge`](http://fontforge.sourceforge.net/) (if it's
 available) to auto-hint the result of its conversion.
-([`Mf2pt1`](http://ctan.org/pkg/Mf2pt1) is also written in `perl`.)
+([`Mf2pt1`](https://ctan.org/pkg/Mf2pt1) is also written in `perl`.)
 
 
 ----

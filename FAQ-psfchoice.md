@@ -43,7 +43,7 @@ Users should also consider the possibilities of typesetting
   These are not a self-standing family, but merit discussion here (not
   least because several other families mimic the symbol fonts).
   Freely-available Type&nbsp;1 versions of the fonts are available on
-  CTAN.  The [`eulervm`](http://ctan.org/pkg/eulervm) package permits use
+  CTAN.  The [`eulervm`](https://ctan.org/pkg/eulervm) package permits use
   of the Euler maths alphabet in conjunction with text fonts that do
   not provide maths alphabets of their own (for instance, Adobe
   Palatino or Minion).
@@ -69,7 +69,7 @@ Users should also consider the possibilities of typesetting
   and add many of the AMS mathematical symbols (though you are
   expected to use some from the AMS fonts themselves).  There
   are also several other mathematical and decorative symbols.  The
-  fonts come with a [`fourier`](http://ctan.org/pkg/fourier) package for use with LaTeX;
+  fonts come with a [`fourier`](https://ctan.org/pkg/fourier) package for use with LaTeX;
   text support of OT1 encoding is not provided&nbsp;&mdash; you are
   expected to use T1.
 
@@ -88,7 +88,7 @@ Users should also consider the possibilities of typesetting
   and maths fonts.  The set includes replacement fixed-width and sans
   fonts (though some reports have suggested that these are less
   successful, and their use may be suppressed when loading the fonts'
-  [`kpfonts`](http://ctan.org/pkg/kpfonts) LaTeX support package).
+  [`kpfonts`](https://ctan.org/pkg/kpfonts) LaTeX support package).
 
   For an example, see [http://www.tug.dk/FontCatalogue/kpserif/](http://www.tug.dk/FontCatalogue/kpserif/)
 
@@ -151,7 +151,7 @@ Users should also consider the possibilities of typesetting
 
   These are clones of Zapf's Optima available from CTAN (for
   non-commercial use only).  Mathematics support can be provided by
-  using packages [`eulervm`](http://ctan.org/pkg/eulervm) or [`sansmath`](http://ctan.org/pkg/sansmath). As a
+  using packages [`eulervm`](https://ctan.org/pkg/eulervm) or [`sansmath`](https://ctan.org/pkg/sansmath). As a
   sans-serif font family, Optima is especially suitable for
   presentations.
 
@@ -164,7 +164,7 @@ are only scheduled for inclusion here.
 Another useful document is Stephen Hartke's ''Free maths font
 survey'', which is available on CTAN in both PDF and
 HTML formats.  The survey covers most of the fonts mentioned in
-the font catalogue, but also mentions some (such as [`Belleek`](http://ctan.org/pkg/Belleek)
+the font catalogue, but also mentions some (such as [`Belleek`](https://ctan.org/pkg/Belleek)
 that the catalogue omits.
 
 Fonts capable of setting TeX mathematics, that are available
@@ -203,8 +203,8 @@ commercially, include:
   symbol fonts of various shapes.  The collection comes with its own
   set of files for use with LaTeX.  The CM Bright fonts are
   supplied in Type&nbsp;1 format by MicroPress, Inc.   The
-  [`hfbright`](http://ctan.org/pkg/hfbright) bundle offers free Type&nbsp;1 fonts for text using
-  the OT1 encoding&nbsp;&mdash; the [`cm-super`](http://ctan.org/pkg/cm-super) fonts provide the
+  [`hfbright`](https://ctan.org/pkg/hfbright) bundle offers free Type&nbsp;1 fonts for text using
+  the OT1 encoding&nbsp;&mdash; the [`cm-super`](https://ctan.org/pkg/cm-super) fonts provide the
   fonts in T1 text encoding but don't support CM bright
   mathematics.
 
@@ -305,7 +305,7 @@ commercially, include:
   `Minion Pro` derives from the widely-available commercial
   OpenType font of the same name by Adobe; scripts are provided to
   convert relevant parts of it to Adobe Type&nbsp;1 format.  The
-  [`MinionPro`](http://ctan.org/pkg/MinionPro) package will set up text and maths support using
+  [`MinionPro`](https://ctan.org/pkg/MinionPro) package will set up text and maths support using
   `Minion Pro`, but a separate (free) font set
   `MnSymbol` greatly extends the symbol coverage.
 
@@ -379,8 +379,8 @@ working on them, and several problems have been identified:
   This collection is derived from `pxfonts`; the maths fonts
   metrics have been adjusted so that the output is less cramped than
   when `pxfonts` is used; the appearance of the output is
-  much improved.  Two packages are provided, [`newpxtext`](http://ctan.org/pkg/newpxtext) for
-  using the associated text fonts, and [`newpxmath`](http://ctan.org/pkg/newpxmath) for
+  much improved.  Two packages are provided, [`newpxtext`](https://ctan.org/pkg/newpxtext) for
+  using the associated text fonts, and [`newpxmath`](https://ctan.org/pkg/newpxmath) for
   mathematics.
 
 - Txfonts set version 3.1(42 fonts) by Young Ryu
@@ -428,8 +428,8 @@ working on them, and several problems have been identified:
   This collection is derived from `txfonts`; the maths fonts
   metrics have been adjusted so that the output is less cramped than
   when `txfonts` is used; the appearance of the output is
-  much improved.  Two packages are provided, [`newtxtext`](http://ctan.org/pkg/newtxtext) for
-  using the associated text fonts, and [`newtxmath`](http://ctan.org/pkg/newtxmath) for
+  much improved.  Two packages are provided, [`newtxtext`](https://ctan.org/pkg/newtxtext) for
+  using the associated text fonts, and [`newtxmath`](https://ctan.org/pkg/newtxmath) for
   mathematics.  Options are provided to substitute
   letters and symbols from the `Libertine` set, and from the
   Garamond extension font `garamondx` (but note that

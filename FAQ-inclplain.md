@@ -9,7 +9,7 @@ documents (or parts of documents) to be typeset within LaTeX.
 The truly reliable way is to translate the Plain TeX commands, to
 produce an equivalent of the original's semantics.  However, this is
 not practical in many circumstances, and for those occasions, the
-[`plain`](http://ctan.org/pkg/plain) package will often come to your aid.  The package
+[`plain`](https://ctan.org/pkg/plain) package will often come to your aid.  The package
 defines a `plain` environment, in which a Plain TeX
 document may be processed:
 ```latex

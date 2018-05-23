@@ -32,7 +32,7 @@ tendency to gobble spaces in the argument), and in any case TeX
 itself has mechanisms for reading numbers, and it would be nice to use
 them.
 
-Donald Arseneau's [`cite`](http://ctan.org/pkg/cite) package offers the following test
+Donald Arseneau's [`cite`](https://ctan.org/pkg/cite) package offers the following test
 for an argument being a strictly positive integer:
 <!-- {% raw %} -->
 ```latex
@@ -101,7 +101,7 @@ conditionals written ''naturally''&nbsp;&mdash; for example:
   <deal with non-integer>%
 \fi
 ```
-The LaTeX [`memoir`](http://ctan.org/pkg/memoir) class has an internal command of its own,
+The LaTeX [`memoir`](https://ctan.org/pkg/memoir) class has an internal command of its own,
 `\checkifinteger{num}`, that sets the conditional command
 `\ifinteger` according to whether the argument was an integer.
 

@@ -3,13 +3,13 @@
 
 
 
-Many LaTeX classes (including the standard [`book`](http://ctan.org/pkg/book) class)
+Many LaTeX classes (including the standard [`book`](https://ctan.org/pkg/book) class)
 number things per chapter; so figures in chapter 1 are numbered 1.1,
 1.2, and so on.  Sometimes this is not appropriate for the user's
 needs.
 
 
-Short of rewriting the whole class, one may use the [`chngcntr`](http://ctan.org/pkg/chngcntr)
+Short of rewriting the whole class, one may use the [`chngcntr`](https://ctan.org/pkg/chngcntr)
 package, which provides commands `\counterwithin` (which
 establishes this nested numbering relationship) and
 `\counterwithout` (which undoes it).
@@ -33,10 +33,10 @@ numbered per chapter:
 (assuming there was a class that did such a thing in the first place...)
 
 
-The [`chngcntr`](http://ctan.org/pkg/chngcntr) approach doesn't involve much programming, and
+The [`chngcntr`](https://ctan.org/pkg/chngcntr) approach doesn't involve much programming, and
 the enthusiastic LaTeX programmer might choose to try the technique
-that we had to use before the advent of [`chngcntr`](http://ctan.org/pkg/chngcntr).  Each of
-the packages [`removefr`](http://ctan.org/pkg/removefr) and [`remreset`](http://ctan.org/pkg/remreset) defines a
+that we had to use before the advent of [`chngcntr`](https://ctan.org/pkg/chngcntr).  Each of
+the packages [`removefr`](https://ctan.org/pkg/removefr) and [`remreset`](https://ctan.org/pkg/remreset) defines a
 `removefromreset` command, and having included the package one
 writes something like:
 ```latex

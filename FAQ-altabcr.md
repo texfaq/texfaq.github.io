@@ -60,7 +60,7 @@ Get rid of the error in the way described in
 `\tabularnewline` explicitly, or use the `\RBS` trick described
 there.
 
-The [`amsmath`](http://ctan.org/pkg/amsmath) package adds a further twist; when typesetting
+The [`amsmath`](https://ctan.org/pkg/amsmath) package adds a further twist; when typesetting
 a matrix (the package provides many matrix environments), it has a
 fixed maximum number of columns in a matrix&nbsp;&mdash; exceed that maximum,
 and the error will appear.  By default, the maximum is set to 10, but

@@ -26,7 +26,7 @@ The check-list for such problems has two entries:
 -  Something in your TeX system is producing the wrong size (or
     shape) of output: read [paper geometry](./FAQ-papergeom.html).
 
-An alternative approach is to use the (excellent) [`testflow`](http://ctan.org/pkg/testflow)
+An alternative approach is to use the (excellent) [`testflow`](https://ctan.org/pkg/testflow)
 suite, that provides a detailed outline of the potential problems
 together with a sample document and prototype outputs.
 

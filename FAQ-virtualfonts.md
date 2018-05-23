@@ -50,7 +50,7 @@ of generating an VPL file is to use the
 `fontinst` package, which is described in more detail
 together with the discussion of
 [PostScript font metrics](./FAQ-metrics.html).
-[`Qdtexvpl`](http://ctan.org/pkg/Qdtexvpl) is another utility for creating ad-hoc virtual
+[`Qdtexvpl`](https://ctan.org/pkg/Qdtexvpl) is another utility for creating ad-hoc virtual
 fonts (it uses TeX to parse a description of the virtual font, and
 `qdtexvpl` itself processes the resulting DVI file).
 

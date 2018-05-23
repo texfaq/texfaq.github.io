@@ -49,8 +49,8 @@ searches of this nature) may be used.  From another
 which is a usage this FAQ would not recommend, anyway: refer
 to the [reason not to use `eqnarray`](./FAQ-eqnarray.html).
 
-Note that the [`amsmath`](http://ctan.org/pkg/amsmath) package modifies the behaviour of
-` ` in maths.  With [`amsmath`](http://ctan.org/pkg/amsmath), the
+Note that the [`amsmath`](https://ctan.org/pkg/amsmath) package modifies the behaviour of
+` ` in maths.  With [`amsmath`](https://ctan.org/pkg/amsmath), the
 `eqnarray` example doesn't need any special action
 (`\relax` or braces).
 

@@ -12,13 +12,13 @@ use it successfully).
 
 Older systems also manage, using no more than (La)TeX macro
 programming, to process XML and the like.  David Carlisle's
-[`xmltex`](http://ctan.org/pkg/xmltex) is the prime example; it offers a solution
+[`xmltex`](https://ctan.org/pkg/xmltex) is the prime example; it offers a solution
 for typesetting XML files, and is still in active (though not
 very widespread) use.
 
 One use of a TeX that can typeset XML files is as a backend
 processor for XSL formatting objects, serialized as XML.
-Sebastian Rahtz's PassiveTeX uses [`xmltex`](http://ctan.org/pkg/xmltex) to
+Sebastian Rahtz's PassiveTeX uses [`xmltex`](https://ctan.org/pkg/xmltex) to
 achieve this end.
 
 However, modern usage would proceed via XSL or XSLT2 to

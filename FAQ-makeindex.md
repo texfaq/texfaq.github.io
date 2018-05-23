@@ -15,8 +15,8 @@ The following programs are available:
   but is not well-arranged to deal with other sort orders than the
   canonical ASCII ordering.
 
-  The [`makeindex`](http://ctan.org/pkg/makeindex) documentation is a good source of
-  information on how to create your own index. [`Makeindex`](http://ctan.org/pkg/Makeindex) can
+  The [`makeindex`](https://ctan.org/pkg/makeindex) documentation is a good source of
+  information on how to create your own index. [`Makeindex`](https://ctan.org/pkg/Makeindex) can
   be used with some TeX
   macro packages other than LaTeX, such as 
   [Eplain](./FAQ-eplain.html), and TeX (whose macros can
@@ -27,7 +27,7 @@ The following programs are available:
   and `awk`; designed for LaTeX under Unix.
 - texindex(2) The [Texinfo](./FAQ-texinfo.html) system also offers a program
   `texindex`, whose source is to be found in the
-  `texinfo` distribution.  The [`ltxindex`](http://ctan.org/pkg/ltxindex) package
+  `texinfo` distribution.  The [`ltxindex`](https://ctan.org/pkg/ltxindex) package
   provides macros that enable LaTeX users to use this
   `texindex`.
 - xindy arose from frustration at the difficulty of making a

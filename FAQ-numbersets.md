@@ -19,8 +19,8 @@ families (the other is called `msam`), which offer a large number of
 mathematical symbols to supplement those provided in Knuth's fonts.
 The fonts are available in Type&nbsp;1 format in
 modern distributions.   Support for using the fonts under
-LaTeX is available in packages [`amssymb`](http://ctan.org/pkg/amssymb) and
-[`amsfonts`](http://ctan.org/pkg/amsfonts).  The font shape is a rather
+LaTeX is available in packages [`amssymb`](https://ctan.org/pkg/amssymb) and
+[`amsfonts`](https://ctan.org/pkg/amsfonts).  The font shape is a rather
 austere sans, which many people don't like (though it captures the
 essence of quickly-chalked writing rather well).
 
@@ -43,9 +43,9 @@ lowercase ''h'' and ''k'', and the digit ''1''.
 A document that shows the `bbm`, `bbold`,
 `doublestroke` and `msbm` fonts, so that you can get
 a feel for their appearance, is available (CTAN package
-[`blackboard`](http://ctan.org/pkg/blackboard)).
+[`blackboard`](https://ctan.org/pkg/blackboard)).
 
-The [`boondox`](http://ctan.org/pkg/boondox) font set consists of Type&nbsp;1 versions of the
+The [`boondox`](https://ctan.org/pkg/boondox) font set consists of Type&nbsp;1 versions of the
 STIX mathematics set (the originals are distributed in
 OTF format).  The set contains a font
 ''BOONDOXDoubleStruck-Regular'' (blackboard bold) (as well as a ''bold''

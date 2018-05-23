@@ -2,7 +2,7 @@
 
 Ellipses are commonly required, and LaTeX natively supplies a fair
 range (`\dots`, `\cdots`, `\vdots` and `\ddots`).  By using
-the [`graphics`](http://ctan.org/pkg/graphics) package, one can change the slope of the
+the [`graphics`](https://ctan.org/pkg/graphics) package, one can change the slope of the
 `\ddots` command, as in
 ```latex
 $ ... \reflectbox{$\ddots$} ... $
@@ -17,20 +17,20 @@ ellipses, for use in different situations: `\dotsb` for use between
 pairs of binary operators, `\dotsc` for use between pairs of commas,
 and so on.
 
-The [`yhmath`](http://ctan.org/pkg/yhmath) package defines an `\adots` command, which is
+The [`yhmath`](https://ctan.org/pkg/yhmath) package defines an `\adots` command, which is
 the analogue of `\ddots`, sloping forwards rather than backwards.
-The [`yhmath`](http://ctan.org/pkg/yhmath) package comes with a rather interesting font that
-extends the standard [`cmex`](http://ctan.org/pkg/cmex); details are in the documentation.
+The [`yhmath`](https://ctan.org/pkg/yhmath) package comes with a rather interesting font that
+extends the standard [`cmex`](https://ctan.org/pkg/cmex); details are in the documentation.
 
-The [`mathdots`](http://ctan.org/pkg/mathdots) package (besides fixing up the behaviour of
+The [`mathdots`](https://ctan.org/pkg/mathdots) package (besides fixing up the behaviour of
 (La)TeX `\ddots` and `\vdots` when the font size changes)
 provides an ''inverse diagonal'' ellipsis `\iddots` (doing the same
-job as [`yhmath`](http://ctan.org/pkg/yhmath)'s `\adots`, but better).
+job as [`yhmath`](https://ctan.org/pkg/yhmath)'s `\adots`, but better).
 
-Documentation of [`yhmath`](http://ctan.org/pkg/yhmath) appears, processed, in the
+Documentation of [`yhmath`](https://ctan.org/pkg/yhmath) appears, processed, in the
 distribution (thus saving you the bother of installing the package
 before being able to read the documentation).  Documentation of
-[`mathdots`](http://ctan.org/pkg/mathdots) appears at the end the package file itself.
+[`mathdots`](https://ctan.org/pkg/mathdots) appears at the end the package file itself.
 
 
 ----

@@ -25,12 +25,12 @@ just as much as the exclamation in''syst!eme''.
 
 (Hyphenation takes place on the characters ''sent to the printer''.
 The problem with `\accent` is avoided&nbsp;&mdash;in LaTeX&nbsp;&mdash; by the use
-of the [`fontenc`](http://ctan.org/pkg/fontenc) package, as discussed in 
+of the [`fontenc`](https://ctan.org/pkg/fontenc) package, as discussed in 
 ''[Accented words aren t hyphenated](./FAQ-hyphenaccents.html)''.)
 
 Sets of hyphenation patterns are usually derived from analysis of
 a list of valid hyphenations (the process of derivation, using a tool
-called [`patgen`](http://ctan.org/pkg/patgen), is not ordinarily a sport to be played by
+called [`patgen`](https://ctan.org/pkg/patgen), is not ordinarily a sport to be played by
 ordinary mortals).
 
 The patterns for the languages a TeX system is going to deal with
@@ -45,7 +45,7 @@ hyphenation: `\language` (which selects a hyphenation style), and
 engine, overriding the effect of the patterns).
 
 The ordinary LaTeX user need not worry about `\language`, since
-it is very thoroughly managed by the [`babel`](http://ctan.org/pkg/babel) package; use of
+it is very thoroughly managed by the [`babel`](https://ctan.org/pkg/babel) package; use of
 `\hyphenation` is discussed in
   the context of
 [hyphenation failure](./FAQ-nohyph.html).

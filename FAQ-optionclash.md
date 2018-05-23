@@ -31,7 +31,7 @@ error message tells you which options were loaded each time.
 Otherwise, it's down to the log analysis games discussed in 
 ''[How to approach errors](./FAQ-erroradvice.html)''; the trick to remember
 is that that the process of loading each file is parenthesised in the
-log; so if package [`foo`](http://ctan.org/pkg/foo) loads [`graphics`](http://ctan.org/pkg/graphics), the log
+log; so if package [`foo`](https://ctan.org/pkg/foo) loads [`graphics`](https://ctan.org/pkg/graphics), the log
 will contain something like:
 ```latex
 (<path>/foo.sty ...
@@ -41,14 +41,14 @@ will contain something like:
 ...
 )
 ```
-(the parentheses for [`graphics`](http://ctan.org/pkg/graphics) are completely enclosed in
-those for [`foo`](http://ctan.org/pkg/foo); the same is of course true if your class
-[`bar`](http://ctan.org/pkg/bar) is the culprit, except that the line will start with the
+(the parentheses for [`graphics`](https://ctan.org/pkg/graphics) are completely enclosed in
+those for [`foo`](https://ctan.org/pkg/foo); the same is of course true if your class
+[`bar`](https://ctan.org/pkg/bar) is the culprit, except that the line will start with the
 path to `bar.cls`).
 
 If we're dealing with a package that loads the package you are
 interested in, you need to ask LaTeX to slip in options when
-[`foo`](http://ctan.org/pkg/foo) loads it.  Instead of:
+[`foo`](https://ctan.org/pkg/foo) loads it.  Instead of:
 `\usepackage{foo}`
 
 `\usepackage[draft]{graphics}`
@@ -74,15 +74,15 @@ you would write:
 with `\PassOptionsToPackage` _before_ the `\documentclass`
 command.
 
-However, if the [`foo`](http://ctan.org/pkg/foo) package or the [`bar`](http://ctan.org/pkg/bar) class loads
-[`graphics`](http://ctan.org/pkg/graphics) with an option of its own that clashes with
+However, if the [`foo`](https://ctan.org/pkg/foo) package or the [`bar`](https://ctan.org/pkg/bar) class loads
+[`graphics`](https://ctan.org/pkg/graphics) with an option of its own that clashes with
 what you need in some way, you're stymied.  For example:
 `\PassOptionsToPackage{draft}{graphics}`
 where the package or class does:
 `\usepackage[final]{graphics}`
 sets `final` _after_ it's dealt with option you passed to
 it, so your `draft` will get forgotten.  In extreme cases,
-the package might generate an error here ([`graphics`](http://ctan.org/pkg/graphics) doesn't
+the package might generate an error here ([`graphics`](https://ctan.org/pkg/graphics) doesn't
 go in for that kind of thing, and there's no indication that
 `draft` has been forgotten).
 

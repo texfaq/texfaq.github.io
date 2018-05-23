@@ -1,7 +1,7 @@
 # Master and slave counters
 
 It's common to have things numbered ''per chapter'' (for example, in
-the standard [`book`](http://ctan.org/pkg/book) and [`report`](http://ctan.org/pkg/report) classes, figures, tables
+the standard [`book`](https://ctan.org/pkg/book) and [`report`](https://ctan.org/pkg/report) classes, figures, tables
 and footnotes are all numbered thus).  The process of resetting is
 done automatically, when the ''master'' counter is stepped (when the
 `\chapter` command that starts chapter &lsaquo;_n_&rsaquo; happens, the
@@ -26,7 +26,7 @@ can also use it:
 (but remember that it needs to be between `\makeatletter` and
 `\makeatother`, or in a package of your own).
 
-The [`chngcntr`](http://ctan.org/pkg/chngcntr) package encapsulates the `addtoreset`
+The [`chngcntr`](https://ctan.org/pkg/chngcntr) package encapsulates the `addtoreset`
 command into a command `\counterwithin`.  So:
 ```latex
 \counterwithin*{corrollary}{theorem}
@@ -42,7 +42,7 @@ if you ever want to refer to the corollaries&nbsp;&mdash; there are potentially
 many ''corollary&nbsp;1'' in any document, so it's as well to tie its number
 to the counter of the theorem it belongs to.  This is true of pretty
 much any such counter-within-another; if you're not using the
-[`chngcntr`](http://ctan.org/pkg/chngcntr), refer to the answer to 
+[`chngcntr`](https://ctan.org/pkg/chngcntr), refer to the answer to 
 [redefining counters' `\the-`commands](./FAQ-the-commands.html) for
 the necessary techniques.
 
@@ -52,7 +52,7 @@ inside the output routine, which usually gets called some time after
 the text for the new page has started to appear: so special
 techniques are required to deal with that.  One special case is dealt
 with elsewhere: [footnotes numbered per page](./FAQ-footnpp.html).  One
-of the techniques described there, using package [`perpage`](http://ctan.org/pkg/perpage),
+of the techniques described there, using package [`perpage`](https://ctan.org/pkg/perpage),
 may be applied to any counter.  The command:
 `\MakePerPage{counter}`
 will cause &lsaquo;_counter_&rsaquo; to be reset for each page.  The package uses

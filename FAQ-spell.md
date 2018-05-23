@@ -41,7 +41,7 @@ result (the checkers listed above all work in this r&ocirc;le).  For this
 to work reasonably well, the user should disable hyphenation before
 making the PDF output.
 
-The (experimental) LuaTeX/LaTeX package [`spelling`](http://ctan.org/pkg/spelling) goes
+The (experimental) LuaTeX/LaTeX package [`spelling`](https://ctan.org/pkg/spelling) goes
 one step further: it uses `lua` code to extract words
 _while typesetting is going on_, but before hyphenation is
 applied.  Each word is looked up in a list of known bad spellings, and

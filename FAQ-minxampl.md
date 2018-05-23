@@ -34,7 +34,7 @@ If this file you've built up shows the problem already, then you're done.
 Otherwise, try adding packages; the optimum is a file with only one
 package in it, but you may find that the guilty package won't even load
 properly unless another package has been loaded.  (Another common case
-is that package [`A`](http://ctan.org/pkg/A) only fails when package [`B`](http://ctan.org/pkg/B) has been
+is that package [`A`](https://ctan.org/pkg/A) only fails when package [`B`](https://ctan.org/pkg/B) has been
 loaded.)
 
 _Hacking down_ starts
@@ -54,13 +54,13 @@ The process of ''building up'', and to some extent that of ''hacking
 down'', can be helped by stuff available on CTAN:
   
 
--  the [`minimal`](http://ctan.org/pkg/minimal) class (part of the LaTeX distribution)
+-  the [`minimal`](https://ctan.org/pkg/minimal) class (part of the LaTeX distribution)
     does what its name says: it provides nothing more than what is
     needed to get LaTeX code going, and
--  the [`mwe`](http://ctan.org/pkg/mwe) bundle provides a number of images in formats
-    that (La)TeX documents can use, and a small package [`mwe`](http://ctan.org/pkg/mwe)
-    which loads other useful packages (such as [`blindtext`](http://ctan.org/pkg/blindtext) and
-    [`lipsum`](http://ctan.org/pkg/lipsum), both capable of producing dummy text in a
+-  the [`mwe`](https://ctan.org/pkg/mwe) bundle provides a number of images in formats
+    that (La)TeX documents can use, and a small package [`mwe`](https://ctan.org/pkg/mwe)
+    which loads other useful packages (such as [`blindtext`](https://ctan.org/pkg/blindtext) and
+    [`lipsum`](https://ctan.org/pkg/lipsum), both capable of producing dummy text in a
     document).
 
 What if none of of these cut-down derivatives of your document will

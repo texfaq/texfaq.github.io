@@ -7,7 +7,7 @@ you need something that behaves like a `figure` or
 `table` environment, except that it doesn't allow the
 figure or table to float.
 
-The most straightforward way is to use of the [`float`](http://ctan.org/pkg/float) package;
+The most straightforward way is to use of the [`float`](https://ctan.org/pkg/float) package;
 it gives you a `[H]` float placement option that prevents
 floating:
 ```latex
@@ -20,11 +20,11 @@ floating:
 ```
 As the example suggests, such a `[H]` figure (or
 corresponding table) offers all you need to cross-reference as well
-as typeset.  (The package [`here`](http://ctan.org/pkg/here) provides the same function,
+as typeset.  (The package [`here`](https://ctan.org/pkg/here) provides the same function,
 but is no longer recommended.)
 
-However, you don't actually _have_ to use [`float`](http://ctan.org/pkg/float) (or
-[`here`](http://ctan.org/pkg/here)) since it is, in fact, doing rather little for you.
+However, you don't actually _have_ to use [`float`](https://ctan.org/pkg/float) (or
+[`here`](https://ctan.org/pkg/here)) since it is, in fact, doing rather little for you.
 You can place your figure as you please, with a sequence like
 ```latex
 \begin{center}
@@ -35,8 +35,8 @@ You can place your figure as you please, with a sequence like
 ```
 which relies on the `\captionof` command to place a caption without
 benefit of an enclosing float.  That command may be had from the extremely
-simple-minded package [`capt-of`](http://ctan.org/pkg/capt-of) or from the highly
-sophisticated [`caption`](http://ctan.org/pkg/caption) package.
+simple-minded package [`capt-of`](https://ctan.org/pkg/capt-of) or from the highly
+sophisticated [`caption`](https://ctan.org/pkg/caption) package.
 
 Using either method, you have to deal with the possibility of the
 figure or table being too large for the page.  (Floating objects will
@@ -51,7 +51,7 @@ page 13.  It's best, therefore, either to stay with floating figures
 throughout a document, or to use fixed figures throughout.
 
 If it's really impossible to follow that counsel of perfection, you
-can use the [`perpage`](http://ctan.org/pkg/perpage) package's command `\MakeSorted`
+can use the [`perpage`](https://ctan.org/pkg/perpage) package's command `\MakeSorted`
 command:
 ```latex
 ...

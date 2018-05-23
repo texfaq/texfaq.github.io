@@ -47,7 +47,7 @@ perplexing) errors that you may encounter.  There's a long list of
     the simplest traces are best examined in a text editor after the event).
   
 
-    The LaTeX [`trace`](http://ctan.org/pkg/trace) package (first distributed with the
+    The LaTeX [`trace`](https://ctan.org/pkg/trace) package (first distributed with the
     2001 release of LaTeX) provides more manageable tracing.  Its
     `\traceon` command gives you what `\tracingall` offers, but
     suppresses tracing around some of the truly verbose parts of

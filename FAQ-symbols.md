@@ -24,7 +24,7 @@ distribution ought to provide the Unicode maths symbol table
 `unimath-symbols.pdf`; this lists the things available in the
 commonly-used mathematics fonts.  (If the file isn't already available
 on your system, you can download it from CTAN, where it live
-with the [`unicode-math`](http://ctan.org/pkg/unicode-math) package.
+with the [`unicode-math`](https://ctan.org/pkg/unicode-math) package.
 
 Other questions in this FAQ offer specific help on kinds of
 symbols:

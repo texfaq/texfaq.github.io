@@ -22,7 +22,7 @@ extending TeX itself.
 It's actually quite practical (with most modern distributions) to use
 &epsilon;-TeX's extended register set:  Current LaTeX distributions
 will do this automatically, or for older, pre-2015 LaTeX
-releases, use package [`etex`](http://ctan.org/pkg/etex).
+releases, use package [`etex`](https://ctan.org/pkg/etex).
 
 If you're in some situation where you can't use &epsilon;-TeX, you need to change
 PicTeX; unfortunately PicTeX's author is no longer active in the
@@ -30,14 +30,14 @@ TeX world, so one must resort to patching.  There are two solutions
 available.
 
 The ConTeXt module `m-pictex.tex` (for Plain TeX and
-variants) or the corresponding LaTeX [`m-pictex`](http://ctan.org/pkg/m-pictex) package provide
+variants) or the corresponding LaTeX [`m-pictex`](https://ctan.org/pkg/m-pictex) package provide
 an ingenious solution to the problem based on hacking the code of
 `\newdimen` itself.
 
-Alternatively, Andreas Schrell's [`pictexwd`](http://ctan.org/pkg/pictexwd) and related
+Alternatively, Andreas Schrell's [`pictexwd`](https://ctan.org/pkg/pictexwd) and related
 packages replace PicTeX with a version that uses 33 fewer
-`\dimen` registers; so use [`pictexwd`](http://ctan.org/pkg/pictexwd) in place of
-[`pictex`](http://ctan.org/pkg/pictex) (either as a LaTeX package, or as a file to read
+`\dimen` registers; so use [`pictexwd`](https://ctan.org/pkg/pictexwd) in place of
+[`pictex`](https://ctan.org/pkg/pictex) (either as a LaTeX package, or as a file to read
 into Plain TeX).
 
 And how does one use PicTeX anyway, given that the

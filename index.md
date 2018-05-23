@@ -445,7 +445,7 @@
 
 ### LaTeX macro programming
 - [How to change LaTeX's ''fixed names''](FAQ-fixnam.html)
-- [Changing the words [`babel`](http://ctan.org/pkg/babel) uses](FAQ-latexwords.html)
+- [Changing the words [`babel`](https://ctan.org/pkg/babel) uses](FAQ-latexwords.html)
 - [Running equation, figure and table numbering](FAQ-running-nos.html)
 - [Making labels from a counter](FAQ-labelctr.html)
 - [Finding if you're on an odd or an even page](FAQ-oddpage.html)

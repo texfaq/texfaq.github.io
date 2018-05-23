@@ -39,7 +39,7 @@ Before we even start, here's a check-list of things to sort out:
     aren't suitable.
 
 You upload via the
-  [CTAN upload redirector](http://www.ctan.org/upload)
+  [CTAN upload redirector](https://ctan.org/upload)
 (the archive's main page has a link).  The upload page shows what it
 needs to know, and allows you to enter the information.  The mechanism
 can only accept one file per upload: if you had intended to upload

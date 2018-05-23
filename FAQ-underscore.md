@@ -15,7 +15,7 @@ to permit typing `_` to mean ''text underscore'' (the answer in
 uses this example to illustrate its techniques).
 However, the code _is_ somewhat tricky, and more importantly
 there are significant points where it's easy to get it wrong.  There
-is therefore a package [`underscore`](http://ctan.org/pkg/underscore) which provides a general
+is therefore a package [`underscore`](https://ctan.org/pkg/underscore) which provides a general
 solution to this requirement.
 
 There is a problem, though: OT1 text fonts don't contain an
@@ -44,7 +44,7 @@ A stable procedure to achieve this is:
 \usepackage{textcomp}
 ```
 which will provide a command `\textunderscore` which robustly
-selects the right character.  The [`underscore`](http://ctan.org/pkg/underscore) package,
+selects the right character.  The [`underscore`](https://ctan.org/pkg/underscore) package,
 mentioned above, will use this command.
 
 

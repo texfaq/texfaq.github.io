@@ -2,7 +2,7 @@
 
 If a pair of floats need to be forced to form a 2-page spread (in a
 book, or whatever), the first must lie on the left side of the spread,
-on an even-numbered page.  The [`dpfloat`](http://ctan.org/pkg/dpfloat) package provides for
+on an even-numbered page.  The [`dpfloat`](https://ctan.org/pkg/dpfloat) package provides for
 this: the construction to use is:
 ```latex
 \begin{figure}[p]
@@ -18,12 +18,12 @@ this: the construction to use is:
 ```
 The construction has no effect on documents with class option
 `oneside` (`twoside` is the default for
-[`book`](http://ctan.org/pkg/book) class).
+[`book`](https://ctan.org/pkg/book) class).
 
 A special case of this requirement places the caption for a float on
 the next page.  (This is useful if you have a float that ''only just''
 fits the page.)  You can (with a certain amount of twiddling) make
-this work with [`dpfloat`](http://ctan.org/pkg/dpfloat), but the [`fltpage`](http://ctan.org/pkg/fltpage) package is
+this work with [`dpfloat`](https://ctan.org/pkg/dpfloat), but the [`fltpage`](https://ctan.org/pkg/fltpage) package is
 specially designed for the job:
 ```latex
 \documentclass[twoside]{article}
@@ -44,7 +44,7 @@ be a beta release, and contains no valid licence statement so that it
 is not in TeX&nbsp;Live.  It seems to work, but&hellip;)
 
 A alternative route is the ''continued'' mechanism of the
-[`caption`](http://ctan.org/pkg/caption) package.  The `\ContinuedFloat` macro makes a
+[`caption`](https://ctan.org/pkg/caption) package.  The `\ContinuedFloat` macro makes a
 small tweak to the next `\caption` command, so that the command
 makes no increment to the caption number.  This does not (of course)
 have any effect on actual placement of the float, but it makes the

@@ -20,7 +20,7 @@ Suppose you're including your graphic with a command like:
 In the case that `myfig.eps` has no depth to start with, the
 scaling calculations will produce the division-by-zero error.
 
-Fortunately, the [`graphicx`](http://ctan.org/pkg/graphicx) package has a keyword
+Fortunately, the [`graphicx`](https://ctan.org/pkg/graphicx) package has a keyword
 `totalheight`, which allows you to specify the size of the
 image relative to the sum of the object's `height` and
 `depth`, so
@@ -29,7 +29,7 @@ image relative to the sum of the object's `height` and
 ```
 will resolve the error, and will behave as you might hope.
 
-If you're using the simpler [`graphics`](http://ctan.org/pkg/graphics) package, use the
+If you're using the simpler [`graphics`](https://ctan.org/pkg/graphics) package, use the
 `*` form of the `\resizebox` command to specify the use of
 `totalheight`:
 <!-- {% raw %} -->

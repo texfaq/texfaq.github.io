@@ -4,9 +4,9 @@ When you're sharing a document with someone else (perhaps as part of a
 co-development cycle) it's as well to arrange that both correspondents
 have the same set of auxiliary files, as well as the document in
 question.  Your correspondent obviously needs the same set of files
-(if you use the [`url`](http://ctan.org/pkg/url) package, she has to have [`url`](http://ctan.org/pkg/url)
+(if you use the [`url`](https://ctan.org/pkg/url) package, she has to have [`url`](https://ctan.org/pkg/url)
 too, for example).  But suppose you have a bug-free version of the
-[`shinynew`](http://ctan.org/pkg/shinynew) package but her copy is still the unstable
+[`shinynew`](https://ctan.org/pkg/shinynew) package but her copy is still the unstable
 original; until you both realise what is happening, such a situation
 can be very confusing.
 
@@ -31,13 +31,13 @@ primitive syntax for `\input`, as:
 `mymacros.tex` _won't_ be recorded, and so won't listed by
 `\listfiles`&nbsp;&mdash; you've bypassed the mechanism that records its use.
 
-The [`snapshot`](http://ctan.org/pkg/snapshot) package helps the owner of a LaTeX document
+The [`snapshot`](https://ctan.org/pkg/snapshot) package helps the owner of a LaTeX document
 obtain a list of the external dependencies of the document, in a form
 that can be embedded at the top of the document.  The intended use of
 the package is the creation of archival copies of documents, but it
 has application in document exchange situations too.
 
-The `bundledoc` system uses the [`snapshot`](http://ctan.org/pkg/snapshot) to produce an
+The `bundledoc` system uses the [`snapshot`](https://ctan.org/pkg/snapshot) to produce an
 archive (e.g., `tar.gz` or `zip`) of the files needed by your
 document; it comes with configuration files for use with
 TeX&nbsp;Live-`Unix` and `MiKTeX`.  It's plainly useful when

@@ -9,13 +9,13 @@ the displayed maths and gets ready for a new line before it reads any
 instructions connected with ending the proof, so the code is very
 tricky.  You _can_ insert the symbol by hand, but the
 (apparently) original ''automatic'' solution came with Paul Taylor's
-[`QED`](http://ctan.org/pkg/QED).
+[`QED`](https://ctan.org/pkg/QED).
 
-Nowadays, the [`ntheorem`](http://ctan.org/pkg/ntheorem) package now solves the problem for
+Nowadays, the [`ntheorem`](https://ctan.org/pkg/ntheorem) package now solves the problem for
 LaTeX users: it provides an automatic way of signalling
 the end of a proof.
 
-The AMSLaTeX package [`amsthm`](http://ctan.org/pkg/amsthm) also provides a
+The AMSLaTeX package [`amsthm`](https://ctan.org/pkg/amsthm) also provides a
 `proof` environment that does the job; though you need to
 insert a `\qedhere` command if the proof ends with a displayed
 equation:

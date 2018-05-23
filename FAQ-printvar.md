@@ -19,12 +19,12 @@ In each case, the variable's value is printed as a number of points.
 
 To typeset the value of `\textheight`, just
 `\the``\textheight` is enough, but a more flexible alternative is
-to use the [`printlen`](http://ctan.org/pkg/printlen) package.  [`Printlen`](http://ctan.org/pkg/Printlen) allows you
+to use the [`printlen`](https://ctan.org/pkg/printlen) package.  [`Printlen`](https://ctan.org/pkg/Printlen) allows you
 to choose the units in which you print a variable; this is useful,
 given that the most ordinary people don't think in points
 (particularly Knuth's points, of which there are 72.27 to the inch).
 
-So, using [`printlen`](http://ctan.org/pkg/printlen), we could say:
+So, using [`printlen`](https://ctan.org/pkg/printlen), we could say:
 ```latex
 \newlength{\foo}
 \setlength{\foo}{12pt}

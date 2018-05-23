@@ -20,26 +20,26 @@ typing numbers.
 
 Therefore, if you need to use commas as decimal separator, you will
 probably welcome macro support.  There are two packages that
-can help relieve the tedium: [`icomma`](http://ctan.org/pkg/icomma) and [`ziffer`](http://ctan.org/pkg/ziffer).
+can help relieve the tedium: [`icomma`](https://ctan.org/pkg/icomma) and [`ziffer`](https://ctan.org/pkg/ziffer).
 
 
-[`Icomma`](http://ctan.org/pkg/Icomma) ensures that there will be no extra space after a
+[`Icomma`](https://ctan.org/pkg/Icomma) ensures that there will be no extra space after a
 comma, unless you type a space after it (as in `f(x, y)`&nbsp;&mdash; in
 the absence of the package, you don't need that space), in which case
-the usual small space after the comma appears.  [`Ziffer`](http://ctan.org/pkg/Ziffer) is
+the usual small space after the comma appears.  [`Ziffer`](https://ctan.org/pkg/Ziffer) is
 specifically targeted at the needs of those typesetting German, but
 covers the present need, as well as providing the double-minus sign
 used in German (and other languages) for the empty 'cents' part of an
 amount of currency.
 
 
-The [`numprint`](http://ctan.org/pkg/numprint) package provides a command
+The [`numprint`](https://ctan.org/pkg/numprint) package provides a command
 `\numprint{number}` that prints its argument according to
 settings you give it, or according to settings chosen to match the
-language you have selected in [`babel`](http://ctan.org/pkg/babel).  The formatting works
+language you have selected in [`babel`](https://ctan.org/pkg/babel).  The formatting works
 equally well in text or maths.  The command is very flexible (it can also
 group the digits of very 'long' numbers), but is inevitably less
-convenient than [`icomma`](http://ctan.org/pkg/icomma) or [`ziffer`](http://ctan.org/pkg/ziffer) if you are typing a
+convenient than [`icomma`](https://ctan.org/pkg/icomma) or [`ziffer`](https://ctan.org/pkg/ziffer) if you are typing a
 lot of numbers.
 
 

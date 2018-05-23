@@ -6,7 +6,7 @@ your document (such as the chapters within the document), please see
 
 For more than one bibliography, there are three options.
 
-The [`multibbl`](http://ctan.org/pkg/multibbl) package offers a very simple interface: you use
+The [`multibbl`](https://ctan.org/pkg/multibbl) package offers a very simple interface: you use
 a command `\newbibliography` to define a bibliography ''tag''.  The package
 redefines the other bibliography commands so that each time you use any one
 of them, you give it the tag for the bibliography where you want the
@@ -14,7 +14,7 @@ citations to appear.  The `\bibliography` command itself also takes
 a further extra argument that says what title to use for the resulting
 section or chapter (i.e., it patches
 [`\refname` and `\bibname`](./FAQ-fixnam.html) in a
-[`babel`](http://ctan.org/pkg/babel)-safe way).  So one might write:
+[`babel`](https://ctan.org/pkg/babel)-safe way).  So one might write:
 ```latex
 \usepackage{multibbl}
 \newbibliography{bk}
@@ -43,7 +43,7 @@ bibtex art
 after the first run of LaTeX, to get the citations in the correct
 place.
 
-The [`multibib`](http://ctan.org/pkg/multibib) package allows you to define a series of
+The [`multibib`](https://ctan.org/pkg/multibib) package allows you to define a series of
 ''additional topics'', each of which comes with its own series of
 bibliography commands.  So one might write:
 <!-- {% raw %} -->
@@ -63,19 +63,19 @@ bibliography commands.  So one might write:
 \bibliographyart{art-bib}
 ```
 <!-- {% endraw %} -->
-Again, as for [`multibbl`](http://ctan.org/pkg/multibbl), any `\bibliography...` command may
+Again, as for [`multibbl`](https://ctan.org/pkg/multibbl), any `\bibliography...` command may
 scan any list of `bib` files.
 
-BibTeX processing with [`multibib`](http://ctan.org/pkg/multibib) is much like that with
-[`multibbl`](http://ctan.org/pkg/multibbl); with the above example, one needs:
+BibTeX processing with [`multibib`](https://ctan.org/pkg/multibib) is much like that with
+[`multibbl`](https://ctan.org/pkg/multibbl); with the above example, one needs:
 ```latex
 bibtex bk
 bibtex art
 ```
-Note that, unlike [`multibbl`](http://ctan.org/pkg/multibbl), [`multibib`](http://ctan.org/pkg/multibib) allows a
+Note that, unlike [`multibbl`](https://ctan.org/pkg/multibbl), [`multibib`](https://ctan.org/pkg/multibib) allows a
 simple, unmodified bibliography (as well as the ''topic'' ones).  
 
-The [`bibtopic`](http://ctan.org/pkg/bibtopic) package allows you separately to cite several
+The [`bibtopic`](https://ctan.org/pkg/bibtopic) package allows you separately to cite several
 different bibliographies.  At the appropriate place in your document,
 you put a sequence of `btSect` environments (each of which
 specifies a bibliography database to scan) to typeset the separate
@@ -113,12 +113,12 @@ There is also a command `\btPrintNotCited`, which gives the rest of
 the content of the database (if nothing has been cited from the
 database, this is equivalent to LaTeX standard `\nocite{*}`).
 
-However, the _real_ difference from [`multibbl`](http://ctan.org/pkg/multibbl) and
-[`multibib`](http://ctan.org/pkg/multibib) is that selection of what appears in each
-bibliography section is determined in [`bibtopic`](http://ctan.org/pkg/bibtopic) by what's in
+However, the _real_ difference from [`multibbl`](https://ctan.org/pkg/multibbl) and
+[`multibib`](https://ctan.org/pkg/multibib) is that selection of what appears in each
+bibliography section is determined in [`bibtopic`](https://ctan.org/pkg/bibtopic) by what's in
 the `bib` files.
 
-An entirely different approach is taken by the [`splitbib`](http://ctan.org/pkg/splitbib)
+An entirely different approach is taken by the [`splitbib`](https://ctan.org/pkg/splitbib)
 package.  You provide a `category` environment, in the
 preamble of your document, for each category you want a separate
 citation list for.  In each environment, you list the `\cite` keys

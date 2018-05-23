@@ -61,7 +61,7 @@ necessary?''.
     `\verb` in the first place.
 -  If you're using `\verb` to typeset a URL or email
     address or the like, then the `\url` command from the
-    [`url`](http://ctan.org/pkg/url) will help: it doesn't suffer from all the problems of
+    [`url`](https://ctan.org/pkg/url) will help: it doesn't suffer from all the problems of
     `\verb`, though it's still not robust; 
     ''[typesetting URLs](./FAQ-setURL.html)'' offers advice here.
 -  If you're putting `\verb` into the argument of a boxing
@@ -77,7 +77,7 @@ necessary?''.
     ```
 
 If you can't avoid verbatim, the `\cprotect` command (from the
-package [`cprotect`](http://ctan.org/pkg/cprotect)) might help.  The package manages to make a
+package [`cprotect`](https://ctan.org/pkg/cprotect)) might help.  The package manages to make a
 macro read a verbatim argument in a ''sanitised'' way by the simple
 medium of prefixing the macro with `\cprotect`:
 ```latex
@@ -89,7 +89,7 @@ more details.
 
 Another way out is to use one of ''argument types'' of the
 `\NewDocumentCommand` command in the experimental LaTeX3 package
-[`xparse`](http://ctan.org/pkg/xparse):
+[`xparse`](https://ctan.org/pkg/xparse):
 ```latex
 \NewDocumentCommand\cmd{ m v m }{#1 `#2' #3}
 \cmd{Command }|\furble|{ isn't defined}
@@ -105,39 +105,39 @@ may be any old character that doesn't
 conflict with the content of the argument.
 
 This is pretty neat (even if the verbatim is in an argument of its
-own) but the downside is that [`xparse`](http://ctan.org/pkg/xparse) pulls in
+own) but the downside is that [`xparse`](https://ctan.org/pkg/xparse) pulls in
 the experimental LaTeX3 programming environment
-([`l3kernel`](http://ctan.org/pkg/l3kernel)) which is pretty big.
+([`l3kernel`](https://ctan.org/pkg/l3kernel)) which is pretty big.
 
-Other than the [`cprotect`](http://ctan.org/pkg/cprotect) package, there are four partial
+Other than the [`cprotect`](https://ctan.org/pkg/cprotect) package, there are four partial
 solutions to the problem:
   
 
 -  Some packages have macros which are designed to be responsive
     to verbatim text in their arguments.  For example,
-    the [`fancyvrb`](http://ctan.org/pkg/fancyvrb) package defines a command
+    the [`fancyvrb`](https://ctan.org/pkg/fancyvrb) package defines a command
     `\VerbatimFootnotes`, which redefines the `\footnotetext`
     command, and hence also the behaviour of the `\footnote`)
     command, in such a way that you can include `\verb` commands in
     its argument.  This approach could in principle be extended to the
     arguments of other commands, but it can clash with other packages:
     for example, `\VerbatimFootnotes` interacts poorly with the
-    `para` option of the [`footmisc`](http://ctan.org/pkg/footmisc) package.
+    `para` option of the [`footmisc`](https://ctan.org/pkg/footmisc) package.
   
 
-    The [`memoir`](http://ctan.org/pkg/memoir) class defines its `\footnote` command so that
+    The [`memoir`](https://ctan.org/pkg/memoir) class defines its `\footnote` command so that
     it will accept verbatim in its arguments, without any supporting package.
--  The [`fancyvrb`](http://ctan.org/pkg/fancyvrb) package defines a command `\SaveVerb`,
+-  The [`fancyvrb`](https://ctan.org/pkg/fancyvrb) package defines a command `\SaveVerb`,
     with a corresponding `\UseVerb` command, that allow you to save
     and then to reuse the content of its argument; for details of this
     extremely powerful facility, see the package documentation.
   
 
-    Rather simpler is the [`verbdef`](http://ctan.org/pkg/verbdef) package, whose `\verbdef`
+    Rather simpler is the [`verbdef`](https://ctan.org/pkg/verbdef) package, whose `\verbdef`
     command defines a (robust) command which expands to the verbatim
-    argument given; the [`newverbs`](http://ctan.org/pkg/newverbs) package provides a similar
+    argument given; the [`newverbs`](https://ctan.org/pkg/newverbs) package provides a similar
     function as well as several related ones.
--  In a similar vein, the [`verbatimbox`](http://ctan.org/pkg/verbatimbox) package makes it
+-  In a similar vein, the [`verbatimbox`](https://ctan.org/pkg/verbatimbox) package makes it
     possible to put verbatim material in a box:
     ```latex
     \begin{verbbox}
@@ -149,7 +149,7 @@ solutions to the problem:
     contents may be retrieved using the command `\theverbbox`.  It is
     clear that it's in the same mould as the `\verbdef` command
     mentioned above; the package defines other similar commands.
--  The [`tcolorbox`](http://ctan.org/pkg/tcolorbox) package provides a similar facility
+-  The [`tcolorbox`](https://ctan.org/pkg/tcolorbox) package provides a similar facility
 -  If you have a single character that is giving trouble (in
     its absence you could simply use `\texttt`), consider using
     `\string`.  `\texttt{my`\string`_name}`
@@ -175,7 +175,7 @@ solutions to the problem:
 
 -  One may also consider putting verbatim material in an external
     file; this is somewhat more tedious, but the file may be reused
-    several times within a single document.  The [`tcolorbox`](http://ctan.org/pkg/tcolorbox)
+    several times within a single document.  The [`tcolorbox`](https://ctan.org/pkg/tcolorbox)
     package allows this:
     ```latex
     \begin{tcbverbatimwrite}{<file name>}
@@ -198,12 +198,12 @@ solutions to the problem:
     its default proves troublesome.)
   
 
-    The [`moreverb`](http://ctan.org/pkg/moreverb) package provides a `\verbatimwrite`
+    The [`moreverb`](https://ctan.org/pkg/moreverb) package provides a `\verbatimwrite`
     command, which doesn't provide an anonynous file.
   
 
     Macros, to achieve the same effect, are outlined in the
-    documentation of the [`verbatim`](http://ctan.org/pkg/verbatim) package; the macros use the
+    documentation of the [`verbatim`](https://ctan.org/pkg/verbatim) package; the macros use the
     facilities of the package, but the user has to write a mini-package
     actually to use them.
 

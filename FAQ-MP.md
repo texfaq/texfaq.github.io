@@ -29,7 +29,7 @@ A mailing list discussing MetaPost is available;
   [TUG `mailman` interface](http://lists.tug.org/metapost).
 The TUG website also hosts a 
 [MetaPost summary page](http://tug.org/metapost.html), and the
-[`tex-overview`](http://ctan.org/pkg/tex-overview) document gives you a lot more detail (and some
+[`tex-overview`](https://ctan.org/pkg/tex-overview) document gives you a lot more detail (and some
 explanatory background material).
 
 

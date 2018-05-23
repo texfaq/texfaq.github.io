@@ -48,14 +48,14 @@ This would make the labels for second-level enumerated lists appear as
 ''1(a)'' (and so on).  The analogous change works for any counter that
 gets used in a `\label` command.
 
-In fact, the [`fncylab`](http://ctan.org/pkg/fncylab) package does all the above (including
+In fact, the [`fncylab`](https://ctan.org/pkg/fncylab) package does all the above (including
 the patch to LaTeX itself).  With the package, the code above is
 (actually quite efficiently) rendered by the command:
 ```latex
 \labelformat{enumii}{\theenumi(#1)}
 ```
 In fact, the above example, which we can do in several different ways,
-has been rendered obsolete by the appearance of the [`enumitem`](http://ctan.org/pkg/enumitem)
+has been rendered obsolete by the appearance of the [`enumitem`](https://ctan.org/pkg/enumitem)
 package, which is discussed in the answer about 
 [decorating enumeration lists](./FAQ-enumerate.html).
 

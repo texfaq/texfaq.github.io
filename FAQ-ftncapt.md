@@ -13,7 +13,7 @@ worth reviewing what you are trying to say by placing this footnote:
 other options are to place text at the bottom of the float, or to
 place a footnote at the point where you refer to the float.
 
-Note that the [`threeparttable`](http://ctan.org/pkg/threeparttable) scheme (see, again, 
+Note that the [`threeparttable`](https://ctan.org/pkg/threeparttable) scheme (see, again, 
 [footnotes in tables](./FAQ-footintab.html)) also applies
 to notes in captions, and may very well be preferable to whatever you
 were thinking of.
@@ -52,7 +52,7 @@ body ''something''. (In fact, the effect only occurs with captions that are
 long enough to require two lines to be typeset, and so wouldn't appear
 with such a short caption as that in the example above.)
 
-The documentation of the [`ccaption`](http://ctan.org/pkg/ccaption) package describes a really
+The documentation of the [`ccaption`](https://ctan.org/pkg/ccaption) package describes a really
 rather awful work-around for this problem.
 
 

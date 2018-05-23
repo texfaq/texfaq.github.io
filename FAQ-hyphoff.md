@@ -21,13 +21,13 @@ down.
 
 Second, one can select a language for which no hyphenation patterns
 exist.  Some distributions create a language `nohyphenation`,
-and the [`hyphenat`](http://ctan.org/pkg/hyphenat) package uses this technique for its
+and the [`hyphenat`](https://ctan.org/pkg/hyphenat) package uses this technique for its
 `\nohyphens` command which sets its argument without any
-hyphenation.  You can load [`hyphenat`](http://ctan.org/pkg/hyphenat) with the command
+hyphenation.  You can load [`hyphenat`](https://ctan.org/pkg/hyphenat) with the command
   `\usepackage[none]{hyphenat}`
 to prevent any hyphenation in a single-language document.  The
-technique cannot work in a document in which [`babel`](http://ctan.org/pkg/babel) controls
-language selection, since [`babel`](http://ctan.org/pkg/babel) incorporates hyphenation
+technique cannot work in a document in which [`babel`](https://ctan.org/pkg/babel) controls
+language selection, since [`babel`](https://ctan.org/pkg/babel) incorporates hyphenation
 change into its language change facilities.
 
 Third, one can set `\left-` and/or `\righthyphenmin` to a
@@ -54,9 +54,9 @@ hyphen minima active at the end of a paragraph are used when
 hyphenation is calculated.
 
 Contrariwise, if you are writing a multilanguage document using the
-[`babel`](http://ctan.org/pkg/babel) package, you _cannot_ suppress hyphenation
+[`babel`](https://ctan.org/pkg/babel) package, you _cannot_ suppress hyphenation
 throughout using either the no-hyphens language or the hyphen minima:
-all those values get changed at a [`babel`](http://ctan.org/pkg/babel) language switch: use
+all those values get changed at a [`babel`](https://ctan.org/pkg/babel) language switch: use
 the penalties instead.
 
 If you simply switch off hyphenation for a good bit of text, the

@@ -33,7 +33,7 @@ been made publicly available on CTAN.
 Philip Hirschhorn's ''Getting up and running with AMSLaTeX'' has a
 brief introduction to LaTeX itself, followed by a substantial
 introduction to the use of the AMS classes and the
-[`amsmath`](http://ctan.org/pkg/amsmath) package and other things that are potentially of
+[`amsmath`](https://ctan.org/pkg/amsmath) package and other things that are potentially of
 interest to those writing documents containing mathematics.
 
 
@@ -85,7 +85,7 @@ appeared as he was writing his book on the subject (soon to be published).
 
 
 An interesting (and practical) tutorial about what _not_ to do is
-[`l2tabu`](http://ctan.org/pkg/l2tabu), or ''A list of sins of LaTeX 2e users'' by Mark
+[`l2tabu`](https://ctan.org/pkg/l2tabu), or ''A list of sins of LaTeX 2e users'' by Mark
 Trettin, translated into English by J&uuml;rgen Fenn.  The
 tutorial is available from CTAN as a PDF file (though
 the source is also available).

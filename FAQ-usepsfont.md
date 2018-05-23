@@ -17,11 +17,11 @@ bug reports may be submitted via the
 [LaTeX bugs system](./FAQ-latexbug.html). 
 PSNFSS gives you a set of packages for changing the default
 roman, sans-serif and typewriter fonts; _e.g_., the
-[`mathptmx`](http://ctan.org/pkg/mathptmx) package will set up `Times`
+[`mathptmx`](https://ctan.org/pkg/mathptmx) package will set up `Times`
 `Roman` as the main text font (and introduces mechanisms to
 typeset mathematics using `Times` and various more-or-less
-matching fonts),  while package [`avant`](http://ctan.org/pkg/avant) changes the sans-serif
-family to `AvantGarde`, and [`courier`](http://ctan.org/pkg/courier) changes the
+matching fonts),  while package [`avant`](https://ctan.org/pkg/avant) changes the sans-serif
+family to `AvantGarde`, and [`courier`](https://ctan.org/pkg/courier) changes the
 typewriter font to `Courier`.  To go with these
 packages, you need the font metric files
 and font description (`.fd`) files for each font family you

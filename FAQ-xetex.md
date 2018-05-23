@@ -32,8 +32,8 @@ of TeX; the main changes include:
 - ''Post-processing'' features (B) Characters can be assigned to
   an ''interchar token class'' and it is possible to specify tokens to
   be added when there is a transition from one class to another.  The
-  packages [`polyglossia`](http://ctan.org/pkg/polyglossia), [`xeCJK`](http://ctan.org/pkg/xeCJK) and
-  [`ucharclasses`](http://ctan.org/pkg/ucharclasses) exploit this feature.
+  packages [`polyglossia`](https://ctan.org/pkg/polyglossia), [`xeCJK`](https://ctan.org/pkg/xeCJK) and
+  [`ucharclasses`](https://ctan.org/pkg/ucharclasses) exploit this feature.
 
 Otherwise, the process of typesetting is essentially the same as
 TeX's.  (However some changes have also been made in the

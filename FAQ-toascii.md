@@ -22,7 +22,7 @@ typesetting something: since the output is inevitably viewed using
 fonts that don't match the original, the hyphenation usually looks
 silly.
 
-Ralph Droms provides a [`txt`](http://ctan.org/pkg/txt) bundle of things in support of
+Ralph Droms provides a [`txt`](https://ctan.org/pkg/txt) bundle of things in support of
 ASCII generation,
 but it doesn't do a good job with tables and mathematics.
 

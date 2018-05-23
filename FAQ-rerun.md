@@ -10,7 +10,7 @@ from the previous run when it started; it does this comparison at
 Sometimes, the message won't go away: however often you reprocess your
 document, LaTeX still tells you that ''Label(s) may have
 changed''.  This can sometimes be caused by a broken package: both
-[`footmisc`](http://ctan.org/pkg/footmisc) (with the `perpage` option) and [`hyperref`](http://ctan.org/pkg/hyperref)
+[`footmisc`](https://ctan.org/pkg/footmisc) (with the `perpage` option) and [`hyperref`](https://ctan.org/pkg/hyperref)
 have been known to give trouble, in the past: if you are using either,
 check you have the latest version, and upgrade if possible.
 

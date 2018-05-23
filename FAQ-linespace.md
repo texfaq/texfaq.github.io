@@ -11,13 +11,13 @@ be inconsistent.
 
 For preference (and certainly for a production document, such as a
 dissertation or an article submission), use a line-spacing package.
-The only one currently supported is [`setspace`](http://ctan.org/pkg/setspace).
-[`Setspace`](http://ctan.org/pkg/Setspace) switches off double-spacing at places where even
+The only one currently supported is [`setspace`](https://ctan.org/pkg/setspace).
+[`Setspace`](https://ctan.org/pkg/Setspace) switches off double-spacing at places where even
 the most die-hard official would doubt its utility (footnotes, figure
 captions, and so on); it's very difficult to do this consistently if
 you're manipulating `\baselinestretch` yourself.
 
-(Note: do _not_ be tempted by [`doublespace`](http://ctan.org/pkg/doublespace)&nbsp;&mdash; its
+(Note: do _not_ be tempted by [`doublespace`](https://ctan.org/pkg/doublespace)&nbsp;&mdash; its
 performance under current LaTeX is at best problematical.)
 
 Of course, the real solution (other than for private copy editing) is
@@ -35,7 +35,7 @@ papers to conferences or journals.  Fortunately (judging by the
 questions from users in this author's department), this demand is
 becoming less common.
 
-Documentation of [`setspace`](http://ctan.org/pkg/setspace) appears as TeX comments in the
+Documentation of [`setspace`](https://ctan.org/pkg/setspace) appears as TeX comments in the
 package file itself.
 
 

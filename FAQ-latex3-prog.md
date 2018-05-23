@@ -9,13 +9,13 @@ _comprehensive_ support.
 However, there are some 'resources':
   
 
--  The ''introduction to LaTeX3 ideas'' in the [`expl3`](http://ctan.org/pkg/expl3)
+-  The ''introduction to LaTeX3 ideas'' in the [`expl3`](https://ctan.org/pkg/expl3)
     documentation gives a broad-brush overview of the concepts.
 -  Joseph Wright has written a short series of 
     [blog posts](http://www.texdev.net/index.php?s=programming+latex3),
     which may help.
 -  There is also a complete command reference in the
-    [`interface3`](http://ctan.org/pkg/interface3) document.
+    [`interface3`](https://ctan.org/pkg/interface3) document.
 
 
 

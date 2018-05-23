@@ -26,7 +26,7 @@ files: so if you've learnt about a package here, you should be able to
 retrieve it without too much fuss.
 
 Otherwise, CTAN provides a full-text search, at its
-[''central database''](http://www.ctan.org/) site, as well as
+[''central database''](https://ctan.org/) site, as well as
 topic- and author-based indexes and a link to browse the archive
 itself.
 

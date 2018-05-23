@@ -24,7 +24,7 @@ terminating'' (like ` `) and you don't need braces after
 _it_.  Thus one can reduce to one the number of extra characters
 one needs to type.
 
-If even that one character is too many, the package [`xspace`](http://ctan.org/pkg/xspace)
+If even that one character is too many, the package [`xspace`](https://ctan.org/pkg/xspace)
 defines a command `\xspace` that guesses whether there should have
 been a space after it, and if so introduces that space.  So
 `fred`\xspace` jim` produces ''fred jim'', while
@@ -42,7 +42,7 @@ The `\xspace` command must be the last thing in your macro
 definition (as in the example); it's not completely foolproof, but it
 copes with most obvious situations in running text.
 
-The [`xspace`](http://ctan.org/pkg/xspace) package doesn't save you anything if you use it in
+The [`xspace`](https://ctan.org/pkg/xspace) package doesn't save you anything if you use it in
 a macro that appears only once or twice within your document, and it
 is not totally foolproof.  (The original author of the package wrote
 it because he had been bitten by lost spaces.  He no longer recommends

@@ -4,7 +4,7 @@ Let's assume you've selected the right TeX ''language''&nbsp;&mdash; as
 explained in [''how hyphenation works''](./FAQ-hyphen.html),
 you're not likely to get the correct results typesetting one language
 using the hyphenation rules of another.  (Select the proper language,
-using [`babel`](http://ctan.org/pkg/babel) if you're a LaTeX user.  This may reveal that
+using [`babel`](https://ctan.org/pkg/babel) if you're a LaTeX user.  This may reveal that
 you need another set of hyphenation patterns; see
 [''using a new language''](./FAQ-newlang.html) for advice on how
 to install it.)
@@ -33,7 +33,7 @@ So what else can go wrong?
     \def\hyph{-\penalty0\hskip0pt\relax}
     ```
     This is _not_ the sort of thing this FAQ would
-    ordinarily recommend&hellip; The [`hyphenat`](http://ctan.org/pkg/hyphenat) package defines a
+    ordinarily recommend&hellip; The [`hyphenat`](https://ctan.org/pkg/hyphenat) package defines a
     bundle of such commands (for introducing hyphenation points at
     various punctuation characters).
 -  There may be accent commands in the word.  The causes of and

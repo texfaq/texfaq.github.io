@@ -37,10 +37,10 @@ don't get `\include`d are skipped entirely, but the document
 processing continues as if they _were_ there, and page, footnote,
 and other numbers are not disturbed.  Note that you can choose which
 sections you want included interactively, using the
-[`askinclude`](http://ctan.org/pkg/askinclude) package.
+[`askinclude`](https://ctan.org/pkg/askinclude) package.
 
 A variant on the `\includeonly` mechanism is offered by the
-[`stampinclude`](http://ctan.org/pkg/stampinclude) package, which takes advantage of the pdfTeX
+[`stampinclude`](https://ctan.org/pkg/stampinclude) package, which takes advantage of the pdfTeX
 `\pdffilemoddate` command.  When an `\include`d file is
 processed in a LaTeX document, an `aux` file is created
 holding data such as page-number ranges and chapter/section numbers.
@@ -49,23 +49,23 @@ file system modification times for each file and its corresponding
 `aux` file; the file is only compiled in ''this run'' of the
 document if the file is newer than its corresponding `aux`
 file.  The package requires a current pdfTeX, and will also run on
-LuaTeX if the [`pdftexcmds`](http://ctan.org/pkg/pdftexcmds) package is available
-([`pdftexcmds`](http://ctan.org/pkg/pdftexcmds) emulates the requisite pdfTeX commands using
-`lua`.  Apart from this requirement, [`stampinclude`](http://ctan.org/pkg/stampinclude) is
+LuaTeX if the [`pdftexcmds`](https://ctan.org/pkg/pdftexcmds) package is available
+([`pdftexcmds`](https://ctan.org/pkg/pdftexcmds) emulates the requisite pdfTeX commands using
+`lua`.  Apart from this requirement, [`stampinclude`](https://ctan.org/pkg/stampinclude) is
 a low-maintenace object; include it in your document and it silently
 does its job.  When you want a final version of your document, delete
-all the `aux` files, and and [`stampinclude`](http://ctan.org/pkg/stampinclude) won't
+all the `aux` files, and and [`stampinclude`](https://ctan.org/pkg/stampinclude) won't
 interfere.)
 
-The inverse can be done using the [`excludeonly`](http://ctan.org/pkg/excludeonly) package: this
+The inverse can be done using the [`excludeonly`](https://ctan.org/pkg/excludeonly) package: this
 allows you to exclude a (list of) `\include`d files from your
 document, by means of an `\excludeonly` command.
 
 If you want to select particular pages of your document, use Heiko
-Oberdiek's [`pagesel`](http://ctan.org/pkg/pagesel) or the [`selectp`](http://ctan.org/pkg/selectp) packages.  You
+Oberdiek's [`pagesel`](https://ctan.org/pkg/pagesel) or the [`selectp`](https://ctan.org/pkg/selectp) packages.  You
 can do something similar with an existing PDF document (which
 you may have compiled using `pdflatex` in the first place),
-using the [`pdfpages`](http://ctan.org/pkg/pdfpages) package.  The job is then done with a
+using the [`pdfpages`](https://ctan.org/pkg/pdfpages) package.  The job is then done with a
 document looking like:
 ```latex
 \documentclass{article}
@@ -81,10 +81,10 @@ document looking like:
 omitting the start and end pages in the optional argument.)
 
 If you want flexible facilities for including or excluding small
-portions of a file, consider the [`comment`](http://ctan.org/pkg/comment), [`version`](http://ctan.org/pkg/version) or
-[`optional`](http://ctan.org/pkg/optional) packages.
+portions of a file, consider the [`comment`](https://ctan.org/pkg/comment), [`version`](https://ctan.org/pkg/version) or
+[`optional`](https://ctan.org/pkg/optional) packages.
 
-The [`comment`](http://ctan.org/pkg/comment) package allows you to declare areas of a document to be
+The [`comment`](https://ctan.org/pkg/comment) package allows you to declare areas of a document to be
 included or excluded; you make these declarations in the preamble of
 your file.  The command `\includecomment{version-name}`
 declares an environment `version-name` whose content will
@@ -94,23 +94,23 @@ content will be excluded from the document.  The package uses a method
 for exclusion that is pretty robust, and can cope with ill-formed
 bunches of text (e.g., with unbalanced braces or `\if` commands).
 
-(These FAQs employ the [`comment`](http://ctan.org/pkg/comment) package to alter layout
+(These FAQs employ the [`comment`](https://ctan.org/pkg/comment) package to alter layout
 between the printed (two-column) version and the PDF version
 for browsing; there are `narrowversion` and
 `wideversion` for the two versions of the file.)
 
-[`version`](http://ctan.org/pkg/version) offers similar facilities to `comment.sty`
+[`version`](https://ctan.org/pkg/version) offers similar facilities to `comment.sty`
 (i.e., `\includeversion` and `\excludeversion` commands);
 it's far ''lighter weight'', but is less robust (and in particular,
 cannot deal with very large areas of text being included/excluded).
 
-A significant development of [`version`](http://ctan.org/pkg/version), confusingly called
-[`versions`](http://ctan.org/pkg/versions) (i.e., merely a plural of the old package name).
-[`Versions`](http://ctan.org/pkg/Versions) adds a command
+A significant development of [`version`](https://ctan.org/pkg/version), confusingly called
+[`versions`](https://ctan.org/pkg/versions) (i.e., merely a plural of the old package name).
+[`Versions`](https://ctan.org/pkg/Versions) adds a command
 `\markversion{version-name}` which defines an environment
 that prints the included text, with a clear printed mark around it.
 
-[`optional`](http://ctan.org/pkg/optional) defines a command `\opt`; its first argument is
+[`optional`](https://ctan.org/pkg/optional) defines a command `\opt`; its first argument is
 an ''inclusion flag'', and its second is text to be included or
 excluded.  Text to be included or excluded must be well-formed
 (nothing mismatched), and should not be too big&nbsp;&mdash; if a large body of
@@ -122,13 +122,13 @@ which it can be done on the command line that invokes LaTeX, or
 interactively.
 
 And, not least of this style of conditional compilation,
-[`verbatim`](http://ctan.org/pkg/verbatim) (which should be available in any distribution)
+[`verbatim`](https://ctan.org/pkg/verbatim) (which should be available in any distribution)
 defines a `comment` environment, which enables the
 dedicated user of the source text editor to suppress bits of a
-LaTeX source file.  The [`memoir`](http://ctan.org/pkg/memoir) class offers the same
+LaTeX source file.  The [`memoir`](https://ctan.org/pkg/memoir) class offers the same
 environment.
 
-An interesting variation is the [`xcomment`](http://ctan.org/pkg/xcomment) package.  This
+An interesting variation is the [`xcomment`](https://ctan.org/pkg/xcomment) package.  This
 defines an environment whose body is all excluded, apart from
 environments named in its argument.  So, for example:
 ```latex
@@ -145,7 +145,7 @@ environments named in its argument.  So, for example:
 \end{xcomment}
 ```
 
-The [`tagging`](http://ctan.org/pkg/tagging) package offers another neat set of syntax, which
+The [`tagging`](https://ctan.org/pkg/tagging) package offers another neat set of syntax, which
 allow the user to apply ''tags'' to chunks of text, and to include and
 exclude tagged text, according to the tags.  For example, the user may
 ''use'' text marked with some tags, and to ''drop'' marked with others:
@@ -172,7 +172,7 @@ Further commands offer an if-then-else setup, and specify
 that.
 
 Another valuable aspect of the problem is covered by the
-[`extract`](http://ctan.org/pkg/extract) package.  The package allows you to produce a
+[`extract`](https://ctan.org/pkg/extract) package.  The package allows you to produce a
 ''partial copy'' of an existing document: 
 the package was developed to permit production of a ''book of
 examples'' from a set of lecture notes.  The package documentation

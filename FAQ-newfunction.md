@@ -13,8 +13,8 @@ to the right, do:
 \newcommand{\diag}{\mathop{\mathrm{diag}}\nolimits}
 ```
 
-AMSLaTeX (in its [`amsopn`](http://ctan.org/pkg/amsopn) package, which is automatically
-loaded by [`amsmath`](http://ctan.org/pkg/amsmath)) provides a command
+AMSLaTeX (in its [`amsopn`](https://ctan.org/pkg/amsopn) package, which is automatically
+loaded by [`amsmath`](https://ctan.org/pkg/amsmath)) provides a command
 `\DeclareMathOperator` that takes does the same job as the first
 definition above.  To create our original `\diag` command, one would
 say:
@@ -25,7 +25,7 @@ say:
 sub- and superscripts in the 
 ''[`\limits` position](./FAQ-limits.html)''.
 
-The [`amsopn`](http://ctan.org/pkg/amsopn) command `\operatorname` allows you to
+The [`amsopn`](https://ctan.org/pkg/amsopn) command `\operatorname` allows you to
 introduce _ad hoc_ operators into your mathematics, so
   `\[` `\operatorname{foo}``(bar)` `\]`
 typesets the same as

@@ -35,7 +35,7 @@ you are using; roughly speaking:
     (a rather dated document, dicsussing use with MiKTeX&nbsp;1.11).
 -  TrueType and OpenType fonts are the usual sort used by XeTeX
     and LuaTeX; while straightforward use is pretty easy, one is
-    well-advised to use a package such as [`fontspec`](http://ctan.org/pkg/fontspec) to gain
+    well-advised to use a package such as [`fontspec`](https://ctan.org/pkg/fontspec) to gain
     access to the full range of a font's capabilities.
 
 The answer ''[choice of scalable fonts](./FAQ-psfchoice.html)'' discusses

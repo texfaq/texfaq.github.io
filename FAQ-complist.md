@@ -11,16 +11,16 @@ appearing as a lower-case roman numeral); what's more, the top-level
 result, it's rather tricky for 
 the user to control list spacing.  Of course, the real answer is to use
 a document class designed with more modest list spacing, but we all
-know such things are hard to come by.  The [`memoir`](http://ctan.org/pkg/memoir) class doesn't
+know such things are hard to come by.  The [`memoir`](https://ctan.org/pkg/memoir) class doesn't
 provide more compact lists, but offers the user control over the list
 spacing using `\firmlist` and `\tightlist` (and `*`-ed
 versions of them); see section&nbsp;8.6 of the memoir manual.
 
 There are packages that provide some control of list spacing, but they
 seldom address the separation from surrounding text (defined by
-`\topsep`).  The [`expdlist`](http://ctan.org/pkg/expdlist) package, among its many controls
+`\topsep`).  The [`expdlist`](https://ctan.org/pkg/expdlist) package, among its many controls
 of the appearance of `description` lists, offers a
-compaction parameter (see the documentation); the [`mdwlist`](http://ctan.org/pkg/mdwlist)
+compaction parameter (see the documentation); the [`mdwlist`](https://ctan.org/pkg/mdwlist)
 package offers a `\makecompactlist` command for users' own list
 definitions, and uses it to define compact lists
 `itemize*`, `enumerate*` and
@@ -33,7 +33,7 @@ these commands define pretty straightforwardly&nbsp;&mdash; for example:
     \setlength{\parskip}{0pt}}%
   {\end{itemize}}
 ```
-The [`paralist`](http://ctan.org/pkg/paralist) package provides several approaches to list
+The [`paralist`](https://ctan.org/pkg/paralist) package provides several approaches to list
 compaction:
   
 
@@ -41,35 +41,35 @@ compaction:
     it were a paragraph introduced by the enumeration label (which saves
     space if the item texts are long);
 -  its `compactenum` environment is the same sort of
-    compact list as is provided in [`expdlist`](http://ctan.org/pkg/expdlist) and
-    [`mdwlist`](http://ctan.org/pkg/mdwlist); and
+    compact list as is provided in [`expdlist`](https://ctan.org/pkg/expdlist) and
+    [`mdwlist`](https://ctan.org/pkg/mdwlist); and
 -  its `inparaenum` environment produces a list ''in
     the paragraph'', i.e., with no line break between items, which is a
     great space-saver if the list item texts are short.
 
 The package will manipulate its `enumerate` environment
-labels just like the [[`enumerate`](http://ctan.org/pkg/enumerate) package](./FAQ-enumerate.html)
+labels just like the [[`enumerate`](https://ctan.org/pkg/enumerate) package](./FAQ-enumerate.html)
 does.
 
-[`Paralist`](http://ctan.org/pkg/Paralist) also provides `itemize` equivalents
+[`Paralist`](https://ctan.org/pkg/Paralist) also provides `itemize` equivalents
 (`asparaitem`, etc.), and `description`
 equivalents (`asparadesc`, etc.).
 
-The [`multenum`](http://ctan.org/pkg/multenum) package offers a more regular form of
-[`paralist`](http://ctan.org/pkg/paralist)'s `inparaenum`; you define a notional
+The [`multenum`](https://ctan.org/pkg/multenum) package offers a more regular form of
+[`paralist`](https://ctan.org/pkg/paralist)'s `inparaenum`; you define a notional
 grid on which list entries are to appear, and list items will always
 appear at positions on that grid.  The effect is somewhat like that of
 the ''tab'' keys on traditional typewriters; the package was designed
 for example sheets, or lists of answers in the appendices of a book.
 
-The [`expdlist`](http://ctan.org/pkg/expdlist), [`mdwlist`](http://ctan.org/pkg/mdwlist) and [`paralist`](http://ctan.org/pkg/paralist)
+The [`expdlist`](https://ctan.org/pkg/expdlist), [`mdwlist`](https://ctan.org/pkg/mdwlist) and [`paralist`](https://ctan.org/pkg/paralist)
 packages all offer other facilities for list configuration: you should
 probably not try the ''do-it-yourself'' approaches outlined below if
 you need one of the packages for some other list configuration
 purpose.
 
 For ultimate flexibility (including manipulation of `\topsep`), the
-[`enumitem`](http://ctan.org/pkg/enumitem) package permits adjustment of list parameters using
+[`enumitem`](https://ctan.org/pkg/enumitem) package permits adjustment of list parameters using
 a ''_key_=&lsaquo;_value_&rsaquo;'' format.
 For example, one might write
 ```latex
@@ -90,12 +90,12 @@ to suppress all spacing above and below your list, or
 \end{enumerate}
 ```
 to set spacing between items and between paragraphs within items.
-[`Enumitem`](http://ctan.org/pkg/Enumitem) also permits manipulation of the label format in a
+[`Enumitem`](https://ctan.org/pkg/Enumitem) also permits manipulation of the label format in a
 more ''basic'' (and therefore more flexible) manner than the 
-[[`enumerate`](http://ctan.org/pkg/enumerate) package](./FAQ-enumerate.html) does.
+[[`enumerate`](https://ctan.org/pkg/enumerate) package](./FAQ-enumerate.html) does.
 
 The ultimate in compaction (of every sort) is offered by the
-[`savetrees`](http://ctan.org/pkg/savetrees) package; compaction of lists is included.  The
+[`savetrees`](https://ctan.org/pkg/savetrees) package; compaction of lists is included.  The
 package's prime purpose is to save space at every touch and turn:
 don't use it if you're under any design constraint whatever!
 

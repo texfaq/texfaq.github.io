@@ -35,7 +35,7 @@ might have special applications.  (Note that, in
 is therefore not necessary&nbsp;&mdash; `\defz` would do; we choose to
 retain the space, for what little clarity we can manage.)
 Some LaTeX packages facilitate such definitions. For example, the
-[`shortvrb`](http://ctan.org/pkg/shortvrb) package with its `\MakeShortVerb` command.
+[`shortvrb`](https://ctan.org/pkg/shortvrb) package with its `\MakeShortVerb` command.
 
 TeX uses category codes to interpret characters as they are read 
 from the input.
@@ -46,8 +46,8 @@ purposes (the `\verb` command does this), then the altered
 characters will not be interpreted properly when they  appear in the
 argument to another command (as, for example, in
 ''[`\verb` in command arguments](./FAQ-verbwithin.html)'').
-An exemplary case is the [`doc`](http://ctan.org/pkg/doc) package, which processes .dtx
-files using the [`shortvrb`](http://ctan.org/pkg/shortvrb) package to define
+An exemplary case is the [`doc`](https://ctan.org/pkg/doc) package, which processes .dtx
+files using the [`shortvrb`](https://ctan.org/pkg/shortvrb) package to define
 `&#x7c;&hellip;&#x7c;` as a shorthand for
 `\verb``&#x7c;&hellip;&#x7c;`. But `&#x7c;` is
 also used in the preambles of tabular environments, so that tables in

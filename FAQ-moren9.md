@@ -35,8 +35,8 @@ LaTeX users have the small convenience of merely giving a number of
 arguments in the `\newcommand` that defines each part of the
 relaying mechanism: Knuth's restriction applies to `\newcommand`
 just as it does to `\def`.  However, LaTeX users also have the
-way out of such barbarous command syntax: the [`keyval`](http://ctan.org/pkg/keyval)
-package.  With [`keyval`](http://ctan.org/pkg/keyval), and a bit of programming, one can
+way out of such barbarous command syntax: the [`keyval`](https://ctan.org/pkg/keyval)
+package.  With [`keyval`](https://ctan.org/pkg/keyval), and a bit of programming, one can
 write really quite sophisticated commands, whose invocation might look
 like:
 <!-- {% raw %} -->

@@ -17,8 +17,8 @@ beyond the provisions of Plain TeX, which the document uses.
 
 Some of this work has (in a sense) been done, in the port of the
 LaTeX graphics package to Plain TeX.  However, while
-[`graphics`](http://ctan.org/pkg/graphics) is available, other complicated packages (notably
-[`hyperref`](http://ctan.org/pkg/hyperref)) are not.  The aspiring translator may find the
+[`graphics`](https://ctan.org/pkg/graphics) is available, other complicated packages (notably
+[`hyperref`](https://ctan.org/pkg/hyperref)) are not.  The aspiring translator may find the
 [Eplain](./FAQ-eplain.html) system a useful source of code.  (In fact,
 a light-weight system such as Eplain might reasonably be adopted as
 an alternative target of translation, though it undoubtedly gives the

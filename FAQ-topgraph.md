@@ -5,7 +5,7 @@ each object in the line is at the same level as the base-line of the
 final object.  (Apart, of course, from `\raisebox` commands&hellip;)
 
 Most imported graphics have their base-line set at the bottom of the
-picture.  When using packages such as [`subfig`](http://ctan.org/pkg/subfig), one often
+picture.  When using packages such as [`subfig`](https://ctan.org/pkg/subfig), one often
 wants to align figures by their tops.  The following odd little bit of
 code does this:
 <!-- {% raw %} -->
@@ -37,7 +37,7 @@ as in:
 ```
 <!-- {% endraw %} -->
 A more LaTeX-y way of doing the job (somewhat inefficiently) uses
-the [`calc`](http://ctan.org/pkg/calc) package:
+the [`calc`](https://ctan.org/pkg/calc) package:
 ```latex
 \usepackage{calc}
 ...

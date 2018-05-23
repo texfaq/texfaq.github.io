@@ -1,6 +1,6 @@
 # Using a new language with Babel
 
-[`Babel`](http://ctan.org/pkg/Babel) is capable of working with a large range of
+[`Babel`](https://ctan.org/pkg/Babel) is capable of working with a large range of
 languages, and a new user often wants to use a language that her
 TeX installation is not set up to employ.  Simply asking Babel to
 use the language, with the command
@@ -68,7 +68,7 @@ texconfig hyphen latex
 
   where _`hyphenfile`_ is the file specifying hyphenation
   to the format&nbsp;&mdash; usually `language.dat`
-- MiKTeX On a [`MiKTeX`](http://ctan.org/pkg/MiKTeX) distribution earlier than v2.0, do: 
+- MiKTeX On a [`MiKTeX`](https://ctan.org/pkg/MiKTeX) distribution earlier than v2.0, do: 
 
   `Start`&rarr;
   `Programs`&rarr;
@@ -80,7 +80,7 @@ texconfig hyphen latex
 
   `initexmf --dump`
 
-  On a [`MiKTeX`](http://ctan.org/pkg/MiKTeX) distribution v2.0 or later, the whole
+  On a [`MiKTeX`](https://ctan.org/pkg/MiKTeX) distribution v2.0 or later, the whole
   procedure can be done via the GUI.  To select the new
   language, do:
 

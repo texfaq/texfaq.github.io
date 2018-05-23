@@ -13,19 +13,19 @@ heading, including the space for section numbers.  All these internal
 commands may be individually redefined to give the effect that you
 want.
 
-All that work may be avoided, using the package [`tocloft`](http://ctan.org/pkg/tocloft)
+All that work may be avoided, using the package [`tocloft`](https://ctan.org/pkg/tocloft)
 which provides a set of user-level commands that may be used to change
 the TOC formatting.  Since exactly the same mechanisms are used
 for the List of Figures and List of Tables, the layout of these
 sections may be controlled in the same way.
 
-The [`etoc`](http://ctan.org/pkg/etoc) package offers similar flexibility, together with
+The [`etoc`](https://ctan.org/pkg/etoc) package offers similar flexibility, together with
 multicolumn tables of contents and boxes around tables (and the like).
 
-The [`KOMA-Script`](http://ctan.org/pkg/KOMA-Script) classes provides an optional variant structure
+The [`KOMA-Script`](https://ctan.org/pkg/KOMA-Script) classes provides an optional variant structure
 for the table of contents, and calculates the space needed for the
-numbers automatically.  The [`memoir`](http://ctan.org/pkg/memoir) class includes the functionality
-of [`tocloft`](http://ctan.org/pkg/tocloft).
+numbers automatically.  The [`memoir`](https://ctan.org/pkg/memoir) class includes the functionality
+of [`tocloft`](https://ctan.org/pkg/tocloft).
 
 
 ----

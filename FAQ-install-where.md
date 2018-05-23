@@ -55,11 +55,11 @@ names of programs such as `dvips` or `pdftex`.
 ''Straight'' (La)TeX input can take other forms than the
 `sty`, `cls` or `fd` listed above, too
 (apart from the 'obvious' `tex`).  Examples are (the
-obvious) `tex`, `lfd` for [`babel`](http://ctan.org/pkg/babel) language
+obvious) `tex`, `lfd` for [`babel`](https://ctan.org/pkg/babel) language
 definitions, `sto` and `clo` for package and class
 options, `cfg` for configuration information,
 `def` for variants (such as the types of devices
-[`graphics`](http://ctan.org/pkg/graphics) drives).  The `README` of the package should
+[`graphics`](https://ctan.org/pkg/graphics) drives).  The `README` of the package should
 tell you of any others, though sometimes that information is printed
 when the package's [comments are stripped](./FAQ-install-unpack.html).
 All of these files should live together with the main package files.

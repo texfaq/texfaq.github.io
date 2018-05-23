@@ -20,7 +20,7 @@ human-prepared files (just don't name them all the same),
 automatically produced files have a way of having repetitious names,
 and changing _them_ is a procedure prone to error.
 
-The [`import`](http://ctan.org/pkg/import) package comes to your help here: it defines an
+The [`import`](https://ctan.org/pkg/import) package comes to your help here: it defines an
 `\import` command that accepts a full path name and the name of a
 file in that directory, and arranges things to ''work properly''.
 So, for example, if `/home/friend/results.tex` contains
@@ -34,7 +34,7 @@ does the same sort of thing for a subdirectory (a relative path rather
 than an absolute one), and there are corresponding `\includefrom`
 and `\subincludefrom` commands.
 
-The [`chapterfolder`](http://ctan.org/pkg/chapterfolder) package provides commands to deal with its
+The [`chapterfolder`](https://ctan.org/pkg/chapterfolder) package provides commands to deal with its
 (fixed) model of file inclusion in a document.  It provides commands
 `\cfpart`, `\cfchapter`, `\cfsection` and `\cfsubsection`,
 each of which takes directory and file arguments, e.g.:
@@ -47,14 +47,14 @@ which command will issue a ''normal'' command
 ''current folder''.  There are also commands of the form
 `\cfpartstar` (which corresponds to a `\part*` command).
 
-Once you're ''in'' a [`chapterfolder`](http://ctan.org/pkg/chapterfolder)-included document, you
+Once you're ''in'' a [`chapterfolder`](https://ctan.org/pkg/chapterfolder)-included document, you
 may use `\cfinput` to input something relative to the ''current
 folder'', or you may use `\input`, using `\cfcurrentfolder` to
 provide a path to the file.  (There are also
 `\cfcurrentfolderfigure` for a `figure/` subdirectory and
 `\cfcurrentfolderlistings` for a `listings/` subdirectory.)
 
-Documentation of [`chapterfolder`](http://ctan.org/pkg/chapterfolder) is in French, but the
+Documentation of [`chapterfolder`](https://ctan.org/pkg/chapterfolder) is in French, but the
 `README` in the directory is in English.
 
 

@@ -7,9 +7,9 @@ ends of chapters of the TeXbook).
 Typesetting them is a bit of a fiddle, but not impossible to do for
 yourself.  Fortunately, there are two packages that do the job, to
 some extent; there are also facilities in the two ''big'' classes
-([`memoir`](http://ctan.org/pkg/memoir) and [`koma-script`](http://ctan.org/pkg/koma-script).
+([`memoir`](https://ctan.org/pkg/memoir) and [`koma-script`](https://ctan.org/pkg/koma-script).
 
-The [`epigraph`](http://ctan.org/pkg/epigraph) package defines an `\epigraph` command, for
+The [`epigraph`](https://ctan.org/pkg/epigraph) package defines an `\epigraph` command, for
 creating a single 
 epigraph (as at the top of a chapter):
 ```latex
@@ -51,14 +51,14 @@ an `\epigraphhead`), for patching the bibliography, for patching
 `\part` pages, and so on.  (Some of these suggested patches lead you
 through writing your own package&hellip;)
 
-The [`quotchap`](http://ctan.org/pkg/quotchap) package redefines chapter headings (in a
+The [`quotchap`](https://ctan.org/pkg/quotchap) package redefines chapter headings (in a
 moderately striking way), and provides an environment
 `savequotes` in which you can provide one (or more)
 quotations to use as epigraphs.  The facilities seem not as flexible
-as those of [`epigraph`](http://ctan.org/pkg/epigraph), but it's probably easier to use.
+as those of [`epigraph`](https://ctan.org/pkg/epigraph), but it's probably easier to use.
 
-The [`memoir`](http://ctan.org/pkg/memoir) class offers all the facilities of the
-[`epigraph`](http://ctan.org/pkg/epigraph) package.  The [`Koma-script`](http://ctan.org/pkg/Koma-script) classes have
+The [`memoir`](https://ctan.org/pkg/memoir) class offers all the facilities of the
+[`epigraph`](https://ctan.org/pkg/epigraph) package.  The [`Koma-script`](https://ctan.org/pkg/Koma-script) classes have
 commands `\setchapterpreamble` and `\dictum` to provide these
 facilities.
 

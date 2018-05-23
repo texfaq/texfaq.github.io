@@ -6,7 +6,7 @@ TeX was _not_ designed as a programming language, but there
 are occasions when you want to repeat some part of your document, just
 as parts of programs need to run several times.  An obvious
 example is TeX-based drawing: LaTeX's `picture`
-environment and [`pgf`](http://ctan.org/pkg/pgf) (at least) provide repeat facilities&nbsp;&mdash;
+environment and [`pgf`](https://ctan.org/pkg/pgf) (at least) provide repeat facilities&nbsp;&mdash;
 they are useful for drawing repeating patterns.  As a result,
 ''common'' programming techniques often have to be emulated using
 obscure macro TeXniques.
@@ -36,7 +36,7 @@ In this slightly tricky code, `\loop` starts the construct ended by
 TeX `\message` (i.e., on the console output).
 
 
-The [`multido`](http://ctan.org/pkg/multido) package is also 'generic' (usable both in
+The [`multido`](https://ctan.org/pkg/multido) package is also 'generic' (usable both in
 Plain TeX and LaTeX); it defines a command `\multido` with
 three arguments:
   `\multido{&lsaquo;_variables_&rsaquo;}{&lsaquo;_repetitions_&rsaquo;}{&lsaquo;_stuff to repeat_&rsaquo;}`
@@ -55,7 +55,7 @@ commands for internal use and for package writers; their use is
 probably not recommendable.
 
 
-The LaTeX distribution package [`ifthen`](http://ctan.org/pkg/ifthen) offers the macro
+The LaTeX distribution package [`ifthen`](https://ctan.org/pkg/ifthen) offers the macro
 `\whiledo`:
 <!-- {% raw %} -->
 ```latex
@@ -70,7 +70,7 @@ The LaTeX distribution package [`ifthen`](http://ctan.org/pkg/ifthen) offers the
 ```
 <!-- {% endraw %} -->
 
-The [`forloop`](http://ctan.org/pkg/forloop) package provides nothing but `\forloop`:
+The [`forloop`](https://ctan.org/pkg/forloop) package provides nothing but `\forloop`:
 <!-- {% raw %} -->
 ```latex
 \newcounter{ct}
@@ -106,8 +106,8 @@ with nothing but an iterative calculation in the braced argument, in
 which case its graphical capabilities have no effect.
 
 
-The [`pgffor`](http://ctan.org/pkg/pgffor) package, which is part of the 
-[[`pgf`](http://ctan.org/pkg/pgf) distribution](./FAQ-drawing.html), also
+The [`pgffor`](https://ctan.org/pkg/pgffor) package, which is part of the 
+[[`pgf`](https://ctan.org/pkg/pgf) distribution](./FAQ-drawing.html), also
 provides iterations to support the needs of graphics.  Its syntax is
 in the style of common programming languages:
 ```latex

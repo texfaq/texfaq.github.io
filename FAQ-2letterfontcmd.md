@@ -82,7 +82,7 @@ In almost all cases, this merely excludes ludicrous ideas such as
 couple of immediate oddities, though.  The first is the conflict
 between `\itshape` (or `\slshape`) and `\scshape`: while many
 claim that an italic small-caps font is typographically unsound, such
-fonts do exist.  Daniel Taupin's [`smallcap`](http://ctan.org/pkg/smallcap) package enables
+fonts do exist.  Daniel Taupin's [`smallcap`](https://ctan.org/pkg/smallcap) package enables
 use of the instances in the [EC fonts](./FAQ-ECfonts.html), and
 similar techniques could be brought to bear on many other font sets.
 The second is the conflict between `\upshape` and `\itshape`:

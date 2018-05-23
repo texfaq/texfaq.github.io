@@ -19,7 +19,7 @@ LaTeX 2e has facilities for dealing with fonts in different
 encodings; read the [_LaTeX Companion_](./FAQ-latex-books.html) for
 more details.  In practice, if you do much non-English (but Latin
 script) typesetting, you are strongly recommended to use the
-[`fontenc`](http://ctan.org/pkg/fontenc) package with option `T1` to select
+[`fontenc`](https://ctan.org/pkg/fontenc) package with option `T1` to select
 [''Cork''](./FAQ-ECfonts.html) encoding.
 
 An alternative favoured by some is Y&Y's ''private'' LY1 encoding,

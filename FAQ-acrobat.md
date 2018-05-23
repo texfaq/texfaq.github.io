@@ -24,10 +24,10 @@ links, you need a LaTeX package to redefine
 the internal commands.  There are two of these for LaTeX, both
 capable of conforming to the
 [HyperTeX specification](./FAQ-hyper.html):
-Heiko Oberdiek's [`hyperref`](http://ctan.org/pkg/hyperref), and Michael Mehlich's
-[`hyper`](http://ctan.org/pkg/hyper).  (In practice, almost everyone uses
-[`hyperref`](http://ctan.org/pkg/hyperref); [`hyper`](http://ctan.org/pkg/hyper) hasn't been updated since 2000.)
-[`Hyperref`](http://ctan.org/pkg/Hyperref) can often determine how it should generate
+Heiko Oberdiek's [`hyperref`](https://ctan.org/pkg/hyperref), and Michael Mehlich's
+[`hyper`](https://ctan.org/pkg/hyper).  (In practice, almost everyone uses
+[`hyperref`](https://ctan.org/pkg/hyperref); [`hyper`](https://ctan.org/pkg/hyper) hasn't been updated since 2000.)
+[`Hyperref`](https://ctan.org/pkg/Hyperref) can often determine how it should generate
 hypertext from its environment, but there is a wide set of
 configuration options you can give via `\usepackage`.  The package
 can operate using pdfTeX primitives, the hyperTeX

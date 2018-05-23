@@ -72,7 +72,7 @@ many packages the `dtx` file is the primary source of
 documentation, so you may want to keep `dtx` files elsewhere.
 
 An interesting sideline to the story of `dtx` files is the
-[`docmfp`](http://ctan.org/pkg/docmfp) package, which extends the model of the [`doc`](http://ctan.org/pkg/doc)
+[`docmfp`](https://ctan.org/pkg/docmfp) package, which extends the model of the [`doc`](https://ctan.org/pkg/doc)
 package to
   [MetaFont](./FAQ-MF.html) and [MetaPost](./FAQ-MP.html),
 thus permitting documented distribution of bundles containing code for

@@ -12,14 +12,14 @@ end of the line, but in some circumstances&nbsp;&mdash; such as where
 [hyphenation is suppressed](./FAQ-hyphoff.html)&nbsp;&mdash; painfully large gaps
 may sometimes be required.
 
-Martin Schr&ouml;der's [`ragged2e`](http://ctan.org/pkg/ragged2e) package offers the best of both
+Martin Schr&ouml;der's [`ragged2e`](https://ctan.org/pkg/ragged2e) package offers the best of both
 worlds: it provides raggedness which is built on the Plain TeX
 model, but which is easily configurable.  It defines easily-remembered
 command (e.g., `\RaggedRight`) and environment (e.g.,
 `FlushLeft`) names that are simply capitalised
 transformations of the LaTeX kernel originals.  The documentation
 discusses the issues and explains the significance of the various
-parameters of [`ragged2e`](http://ctan.org/pkg/ragged2e)'s operation.
+parameters of [`ragged2e`](https://ctan.org/pkg/ragged2e)'s operation.
 
 
 ----

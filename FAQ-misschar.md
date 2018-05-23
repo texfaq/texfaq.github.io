@@ -21,13 +21,13 @@ TeX will log the actual character in error, if it thinks it''s
 possible).
 
 Somewhat more understandable are the diagnostics you may get from
-[`dvips`](http://ctan.org/pkg/dvips) when using the OT1 and T1 versions of
+[`dvips`](https://ctan.org/pkg/dvips) when using the OT1 and T1 versions of
 fonts that were supplied in Adobe standard encoding:
 ```latex
 dvips: Warning: missing glyph `Delta''
 ```
 The process that generates the metrics for using the fonts generates
-an instruction to [`dvips`](http://ctan.org/pkg/dvips) to produce these diagnostics, so
+an instruction to [`dvips`](https://ctan.org/pkg/dvips) to produce these diagnostics, so
 that their non-appearance in the printed output is less surprising
 than it might be.  Quite a few glyphs provided in Knuth's text
 encodings and in the Cork encoding are not available in the Adobe

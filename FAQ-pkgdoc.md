@@ -15,7 +15,7 @@ On TeX&nbsp;Live-based distributions, help should be available from the
 ```latex
 texdoc footmisc
 ```
-which opens a window showing documentation of the [`footmisc`](http://ctan.org/pkg/footmisc)
+which opens a window showing documentation of the [`footmisc`](https://ctan.org/pkg/footmisc)
 package.  (The window is tailored to the file type, in the way normal
 for the system.)
 
@@ -57,12 +57,12 @@ mention this wrinkle in a package `README` file.)
 Another common form is the separate documentation file; particularly
 if a package is ''conceptually large'' (and therefore needs a lot of
 documentation), the documentation would prove a cumbersome extension
-to the `dtx` file.  Examples of such cases are the [`memoir`](http://ctan.org/pkg/memoir)
-class, the [`KOMA-script`](http://ctan.org/pkg/KOMA-script) bundle
+to the `dtx` file.  Examples of such cases are the [`memoir`](https://ctan.org/pkg/memoir)
+class, the [`KOMA-script`](https://ctan.org/pkg/KOMA-script) bundle
 (whose developers take the trouble to produce detailed documentation
-in both German and English), the [`pgf`](http://ctan.org/pkg/pgf) documentation (which
+in both German and English), the [`pgf`](https://ctan.org/pkg/pgf) documentation (which
 would make a substantial book in its own right)
-and the [`fancyhdr`](http://ctan.org/pkg/fancyhdr) package (whose
+and the [`fancyhdr`](https://ctan.org/pkg/fancyhdr) package (whose
 documentation derives from a definitive tutorial in a mathematical
 journal).  Even if the documentation is not separately identified in a
 `README` file, it should not be too difficult to recognise its

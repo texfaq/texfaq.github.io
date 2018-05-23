@@ -24,7 +24,7 @@ standard LaTeX class with `twocolumn` option will have
 `1.0em` by default, and there's no knowing what you (or some
 other class) will have done.
 
-Any but a really old copy of Martin Schr&ouml;der's [`ragged2e`](http://ctan.org/pkg/ragged2e)
+Any but a really old copy of Martin Schr&ouml;der's [`ragged2e`](https://ctan.org/pkg/ragged2e)
 package has a `\justifying` command to match its 
 [versions of the LaTeX ''ragged'' commands](./FAQ-ragright.html).  The
 package also provides a `justify` environment, which

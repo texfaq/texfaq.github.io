@@ -37,10 +37,10 @@ should become:
 
   `\usepackage{verbatim}`
 because `11pt` happens to be a class option, while
-[`verbatim`](http://ctan.org/pkg/verbatim) is a package.
+[`verbatim`](https://ctan.org/pkg/verbatim) is a package.
 
 There's no simple way to work out what are class options under
-LaTeX 2.09; for [`article`](http://ctan.org/pkg/article), the list includes `10pt`,
+LaTeX 2.09; for [`article`](https://ctan.org/pkg/article), the list includes `10pt`,
 `11pt`, `12pt`, `draft`,
 `fleqn`, `leqno`, `twocolumn` and
 `twoside`&nbsp;&mdash; anything else must be a package.

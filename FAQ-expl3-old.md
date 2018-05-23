@@ -1,4 +1,4 @@
-# Support package [`expl3`](http://ctan.org/pkg/expl3) too old
+# Support package [`expl3`](https://ctan.org/pkg/expl3) too old
 
 
 
@@ -14,9 +14,9 @@ author's installation at time of testing.  The error message is:
 ! Support package expl3 too old.
 ```
 The ''additional help'' tells you the solution: update your LaTeX3
-installation.  The relevant things are [`l3kernel`](http://ctan.org/pkg/l3kernel) (the
-programming environment, which contains the [`expl3`](http://ctan.org/pkg/expl3) mentioned
-in the error message) and [`l3packages`](http://ctan.org/pkg/l3packages) (LaTeX3 constructs
+installation.  The relevant things are [`l3kernel`](https://ctan.org/pkg/l3kernel) (the
+programming environment, which contains the [`expl3`](https://ctan.org/pkg/expl3) mentioned
+in the error message) and [`l3packages`](https://ctan.org/pkg/l3packages) (LaTeX3 constructs
 such as command definitions).
 
 

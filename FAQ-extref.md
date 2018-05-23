@@ -4,7 +4,7 @@ When producing a set of inter-related documents, you'll often want to
 refer to labels in another document of the set; but LaTeX, of its
 own accord, doesn't permit this.
 
-So the package [`xr`](http://ctan.org/pkg/xr) was written: if you say
+So the package [`xr`](https://ctan.org/pkg/xr) was written: if you say
 ```latex
 \usepackage{xr}
 \externaldocument{volume1}
@@ -29,8 +29,8 @@ as:
 ...
 ... the introduction to volume1 (\ref{V1-introduction})...
 ```
-To have the facilities of [`xr`](http://ctan.org/pkg/xr) working with
-[`hyperref`](http://ctan.org/pkg/hyperref), you need [`xr-hyper`](http://ctan.org/pkg/xr-hyper).  For simple
+To have the facilities of [`xr`](https://ctan.org/pkg/xr) working with
+[`hyperref`](https://ctan.org/pkg/hyperref), you need [`xr-hyper`](https://ctan.org/pkg/xr-hyper).  For simple
 hyper-cross-referencing (i.e., to a local PDF file you've just
 compiled), write:
 ```latex
@@ -52,9 +52,9 @@ have the .aux file, write:
 ...
 ... the \nameref{V1-introduction})...
 ```
-Heiko Oberdiek's experimental [`zref`](http://ctan.org/pkg/zref) bundle includes a
-hyper-crossreferencing mechanism using its [`zref-xr`](http://ctan.org/pkg/zref-xr) module.
-Usage is closely modelled on [`xr`](http://ctan.org/pkg/xr) and [`xr-hyper`](http://ctan.org/pkg/xr-hyper); a
+Heiko Oberdiek's experimental [`zref`](https://ctan.org/pkg/zref) bundle includes a
+hyper-crossreferencing mechanism using its [`zref-xr`](https://ctan.org/pkg/zref-xr) module.
+Usage is closely modelled on [`xr`](https://ctan.org/pkg/xr) and [`xr-hyper`](https://ctan.org/pkg/xr-hyper); a
 trivial example (from a `comp.text.tex` posting) is
 ```latex
 \usepackage{zref-xr,zref-user}
@@ -64,7 +64,7 @@ trivial example (from a `comp.text.tex` posting) is
 ```
 The module provides all the facilities of the older packages, and can
 deal both with ''traditional'' LaTeX labels and with
-[`zref`](http://ctan.org/pkg/zref)'s style of labels.
+[`zref`](https://ctan.org/pkg/zref)'s style of labels.
 
 
 ----

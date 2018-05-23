@@ -10,7 +10,7 @@ restricts the sizes of fonts.  In fact, the restriction only
 significantly applies to the default (Computer Modern) and the
 Cork-encoded (T1) EC fonts, but it is widely considered to be
 anomalous, nowadays.  In recognition of this problem, there is a
-package [`fix-cm`](http://ctan.org/pkg/fix-cm) which will allow you to use the fonts, within
+package [`fix-cm`](https://ctan.org/pkg/fix-cm) which will allow you to use the fonts, within
 LaTeX, at any size you choose.  If you're not using scaleable
 versions of the fonts, most modern distributions will just generate an
 appropriate bitmap for you.
@@ -32,17 +32,17 @@ which will indeed work, but will actually produce a worse result than
   Huge text
 \end{center}
 ```
-Note that the [`fix-cm`](http://ctan.org/pkg/fix-cm) package was not distributed until the
+Note that the [`fix-cm`](https://ctan.org/pkg/fix-cm) package was not distributed until the
 December 2003 edition of LaTeX; if you have an older distribution,
-the packages [`type1cm`](http://ctan.org/pkg/type1cm) (for CM fonts) and
-[`type1ec`](http://ctan.org/pkg/type1ec) (for EC fonts) are available.
+the packages [`type1cm`](https://ctan.org/pkg/type1cm) (for CM fonts) and
+[`type1ec`](https://ctan.org/pkg/type1ec) (for EC fonts) are available.
 
-[`Fix-cm`](http://ctan.org/pkg/Fix-cm) doesn't has one or two omissions&nbsp;&mdash; fonts the LaTeX
+[`Fix-cm`](https://ctan.org/pkg/Fix-cm) doesn't has one or two omissions&nbsp;&mdash; fonts the LaTeX
 team did not consider useful, or something; the CM dunhill fonts (as
 CM, but with stretched ascenders) and the CM fibonacci font (which is only
 available in 8-point design size) are certainly missing.  If
-[`fix-cm`](http://ctan.org/pkg/fix-cm) doesn't do the job, try the [`type1xx`](http://ctan.org/pkg/type1xx)
-packages, or the [`anyfontsize`](http://ctan.org/pkg/anyfontsize) package.
+[`fix-cm`](https://ctan.org/pkg/fix-cm) doesn't do the job, try the [`type1xx`](https://ctan.org/pkg/type1xx)
+packages, or the [`anyfontsize`](https://ctan.org/pkg/anyfontsize) package.
 
 A further alternative might be to switch to the
 [`Latin` `Modern` fonts](./FAQ-uselmfonts.html) (which

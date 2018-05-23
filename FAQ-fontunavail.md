@@ -32,7 +32,7 @@ Nowadays, most of the fonts that were once bitmap-only are also
 available in scaleable (Adobe Type&nbsp;1) form.  If your installation uses
 scaleable versions of the Computer Modern or European Computer Modern
 (EC) fonts, you can tell LaTeX to remove the restrictions;
-use the [`type1cm`](http://ctan.org/pkg/type1cm) or [`type1ec`](http://ctan.org/pkg/type1ec) package as appropriate.
+use the [`type1cm`](https://ctan.org/pkg/type1cm) or [`type1ec`](https://ctan.org/pkg/type1ec) package as appropriate.
 
 If the combination of font shape and series isn't available, LaTeX
 will usually have been told of a fall-back combination that may be

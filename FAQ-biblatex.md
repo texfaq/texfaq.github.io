@@ -49,17 +49,17 @@ CrossTeX's team respond to queries, and seem well aware of the
 need for multilingual support, though it isn't currently offered.
 
 `Biber` is intimately associated with the LaTeX package
-[`biblatex`](http://ctan.org/pkg/biblatex); it is logically a BibTeX replacement, but is also
+[`biblatex`](https://ctan.org/pkg/biblatex); it is logically a BibTeX replacement, but is also
 capable of using bibliography databases in its own
-`biblatexml` (XML-based) format.  [`Biblatex`](http://ctan.org/pkg/Biblatex)
+`biblatexml` (XML-based) format.  [`Biblatex`](https://ctan.org/pkg/Biblatex)
 can also use BibTeX, but `biber` opens up a far wider
 range of possibilities, including full Unicode support.
 
-[`Biblatex`](http://ctan.org/pkg/Biblatex) is a processor for the output of an application
+[`Biblatex`](https://ctan.org/pkg/Biblatex) is a processor for the output of an application
 such as `biber` or BibTeX; the style of citations and of
 the bibliography itself (in your document) is determined by the way
-your [`biblatex`](http://ctan.org/pkg/biblatex) style has been set up, not on some
-BibTeX-LaTeX package combination.  [`Biblatex`](http://ctan.org/pkg/Biblatex)'s
+your [`biblatex`](https://ctan.org/pkg/biblatex) style has been set up, not on some
+BibTeX-LaTeX package combination.  [`Biblatex`](https://ctan.org/pkg/Biblatex)'s
 structure thus eliminates the collections of BibTeX styles, at a
 stroke; it comes with a basic set of styles, and details are
 determined by options, set at package loading time.  The author,
@@ -68,22 +68,22 @@ before starting, and as a result the package provides answers to
 many of the questions asked in the bibliography sections of these
 FAQs.
 
-[`Biblatex`](http://ctan.org/pkg/Biblatex) was released as experimental software, but it's
+[`Biblatex`](https://ctan.org/pkg/Biblatex) was released as experimental software, but it's
 clear that many users are already using it happily; Lehman is
 responsive to problem reports, at the moment, but a _de facto_
 set of expert users is already establishing itself.  A set of
 contributed styles has appeared, which cover some of the trickier
 bibliography styles.  The road map of the project shows that we are
 now working on the final _beta_ releases before the ''stable''
-[`biblatex`](http://ctan.org/pkg/biblatex)&nbsp;1.0.
+[`biblatex`](https://ctan.org/pkg/biblatex)&nbsp;1.0.
 
-Finally, [`Amsrefs`](http://ctan.org/pkg/Amsrefs) uses a transformed `bib` file,
+Finally, [`Amsrefs`](https://ctan.org/pkg/Amsrefs) uses a transformed `bib` file,
 which is expressed as LaTeX macros.  (The package provides a
 BibTeX style that performs the transformation, so that a LaTeX
 source containing a `\nocite{*}` command enables BibTeX to
-produce a usable [`amsrefs`](http://ctan.org/pkg/amsrefs) bibliography database.)
+produce a usable [`amsrefs`](https://ctan.org/pkg/amsrefs) bibliography database.)
 
-[`Amsrefs`](http://ctan.org/pkg/Amsrefs) is maintained by the AMS as part of its author
+[`Amsrefs`](https://ctan.org/pkg/Amsrefs) is maintained by the AMS as part of its author
 support programme,
 
 

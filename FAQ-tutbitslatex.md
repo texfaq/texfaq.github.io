@@ -31,7 +31,7 @@ page covers a rather smaller subject area, but is similarly comprehensive
 monolithic document).
 
 Keith Reckdahl's ''Using Imported Graphics in LaTeX 2e''
-([`epslatex`](http://ctan.org/pkg/epslatex)) is an
+([`epslatex`](https://ctan.org/pkg/epslatex)) is an
 excellent introduction to graphics use.  It's available on
 CTAN, but not in the TeX&nbsp;Live or MiKTeX distributions, for
 lack of sources.
@@ -64,7 +64,7 @@ style, and for each style, the code that produces it is shown.
 An invaluable step-by-step setup guide for establishing a ''work
 flow'' through your (La)TeX system, so that output appears at the
 correct size and position on standard-sized paper, and that the print
-quality is satisfactory, is Mike Shell's [`testflow`](http://ctan.org/pkg/testflow).  The
+quality is satisfactory, is Mike Shell's [`testflow`](https://ctan.org/pkg/testflow).  The
 tutorial consists of a large plain text document, and there is a
 supporting LaTeX file together with correct output, both in PostScript and
 PDF, for each of A4 and ''letter'' paper sizes.  The

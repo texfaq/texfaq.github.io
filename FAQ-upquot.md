@@ -7,7 +7,7 @@ sees on a modern
 
 The appearance of these quotes is critical in program listings,
 particularly in those of Unix-like shell scripts.  The
-[`upquote`](http://ctan.org/pkg/upquote) package modifies the behaviour of the
+[`upquote`](https://ctan.org/pkg/upquote) package modifies the behaviour of the
 `verbatim` environment so that the output is a clearer
 representation of what the user must type.
 

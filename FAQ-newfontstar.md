@@ -33,7 +33,7 @@ source.  The mini-document:
 gives you ''German low double quotes'' (under the ''a'') in place of
 the grave accent.  This happens because `ecrm1000` is in a
 different [font encoding](./FAQ-whatenc.html) than LaTeX is
-expecting&nbsp;&mdash; if you use the LaTeX [`fontenc`](http://ctan.org/pkg/fontenc) package to
+expecting&nbsp;&mdash; if you use the LaTeX [`fontenc`](https://ctan.org/pkg/fontenc) package to
 select the EC fonts, all these tiresome encoding issues are
 solved for you, behind the scenes.
 

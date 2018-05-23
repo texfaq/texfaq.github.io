@@ -26,7 +26,7 @@ settings.
 The packages recommended in 
 ''[setting up margins](./FAQ-marginpkgs.html)'' mostly have provision for
 a ''binding offset'' or a ''binding correction''&nbsp;&mdash; search for
-''binding'' in the manuals ([`vmargin`](http://ctan.org/pkg/vmargin) doesn't help, here).
+''binding'' in the manuals ([`vmargin`](https://ctan.org/pkg/vmargin) doesn't help, here).
 
 If you're doing the job by hand (see 
 [manual margin setup](./FAQ-marginmanual.html)), the trick is to

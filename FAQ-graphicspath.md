@@ -23,13 +23,13 @@ This method has the merit of efficiency ((La)TeX does _all_ of
 the searches, which is quick), but it's always clumsy and may prove
 inconvenient to use in Windows setups (at least).
 
-The alternative is to use the [`graphics`](http://ctan.org/pkg/graphics) package command
+The alternative is to use the [`graphics`](https://ctan.org/pkg/graphics) package command
 `\graphicspath`; this command is of course also available to users
-of the [`graphicx`](http://ctan.org/pkg/graphicx) and the [`epsfig`](http://ctan.org/pkg/epsfig) packages.  The
+of the [`graphicx`](https://ctan.org/pkg/graphicx) and the [`epsfig`](https://ctan.org/pkg/epsfig) packages.  The
 syntax of `\graphicspath`s one argument is slightly odd: it's a
 sequence of paths (typically relative paths), each of which is
 enclosed in braces.  A slightly odd example (slightly modified from one
-given in the [`graphics`](http://ctan.org/pkg/graphics) bundle documentation) is:
+given in the [`graphics`](https://ctan.org/pkg/graphics) bundle documentation) is:
 <!-- {% raw %} -->
 ```latex
 \graphicspath{{eps/}{png/}}
@@ -46,8 +46,8 @@ _it_ is concerned, you can access files anywhere.)
 
 Be aware that `\graphicspath` does not affect the operations of
 graphics macros other than those from the graphics bundle&nbsp;&mdash; in
-particular, those of the outdated [`epsf`](http://ctan.org/pkg/epsf) and
-[`psfig`](http://ctan.org/pkg/psfig) packages are immune.
+particular, those of the outdated [`epsf`](https://ctan.org/pkg/epsf) and
+[`psfig`](https://ctan.org/pkg/psfig) packages are immune.
 
 The slight disadvantage of the `\graphicspath` method is
 inefficiency.  The package will call (La)TeX once for each entry in
@@ -60,7 +60,7 @@ ordinary document in a reasonably modern (La)TeX system, but it
 should be borne in mind.)
 
 If your document is split into a variety of directories, and each
-directory has its associated graphics, the [`import`](http://ctan.org/pkg/import) package
+directory has its associated graphics, the [`import`](https://ctan.org/pkg/import) package
 may well be the thing for you; see the discussion 
 in the question ''
 [bits of document in other directories](./FAQ-docotherdir.html)

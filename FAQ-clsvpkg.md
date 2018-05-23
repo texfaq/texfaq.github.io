@@ -8,8 +8,8 @@ designers of LaTeX created a model which offered an
 _abstraction_ of the design of documents.  Obviously, not all
 documents can look the same (even with the defocussed eye of
 abstraction), so the model uses _classes_ of document.  Base
-LaTeX offers five classes of document: [`book`](http://ctan.org/pkg/book),
-[`report`](http://ctan.org/pkg/report), [`article`](http://ctan.org/pkg/article) and [`letter`](http://ctan.org/pkg/letter).
+LaTeX offers five classes of document: [`book`](https://ctan.org/pkg/book),
+[`report`](https://ctan.org/pkg/report), [`article`](https://ctan.org/pkg/article) and [`letter`](https://ctan.org/pkg/letter).
 For each class, LaTeX provides a _class file_; the user
 arranges to use it via a `\documentclass` command at the top of the
 document.  So a document starting
@@ -32,16 +32,16 @@ design of a document&nbsp;&mdash; using such packages achieves what the
 programmer might have achieved by refining the class.
 
 Other packages provide new facilities: for example, the
-[`graphics`](http://ctan.org/pkg/graphics) package (actually provided as part of any LaTeX
+[`graphics`](https://ctan.org/pkg/graphics) package (actually provided as part of any LaTeX
 distribution) allows the user to load externally-provided graphics
-into a document, and the [`hyperref`](http://ctan.org/pkg/hyperref) package enables the user
+into a document, and the [`hyperref`](https://ctan.org/pkg/hyperref) package enables the user
 to construct hyper-references within a document.
 
 On disc, class and package files only appear different by virtue of
 their name ''extension''&nbsp;&mdash; class files are called `*.cls` while
 package files are called `*.sty`.  Thus we find that the LaTeX
-standard [`article`](http://ctan.org/pkg/article) class is represented on disc by a file called
-`article.cls`, while the [`hyperref`](http://ctan.org/pkg/hyperref) package is
+standard [`article`](https://ctan.org/pkg/article) class is represented on disc by a file called
+`article.cls`, while the [`hyperref`](https://ctan.org/pkg/hyperref) package is
 represented on disc by a file called `hyperref.sty`.
 
 The class vs.&nbsp;package distinction was not clear in LaTeX 2.09&nbsp;&mdash;

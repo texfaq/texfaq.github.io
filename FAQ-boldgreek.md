@@ -21,7 +21,7 @@ in a text box:
 $... \mbox{\boldmath$\theta$} ...$
 ```
 which then causes problems in superscripts, etc.  With
-[`amsmath`](http://ctan.org/pkg/amsmath) loaded,
+[`amsmath`](https://ctan.org/pkg/amsmath) loaded,
 ```latex
 $... \text{\boldmath$\theta$} ...$
 ```
@@ -31,10 +31,10 @@ is an unsatisfactory solution, too.
 These problems may be addressed by using a bold mathematics package.
   
 
--  The [`bm`](http://ctan.org/pkg/bm) package, which is part of the LaTeX tools
+-  The [`bm`](https://ctan.org/pkg/bm) package, which is part of the LaTeX tools
     distribution, defines a command `\bm` which may be used anywhere
     in maths mode.
--  The [`amsbsy`](http://ctan.org/pkg/amsbsy) package (which is part of AMSLaTeX)
+-  The [`amsbsy`](https://ctan.org/pkg/amsbsy) package (which is part of AMSLaTeX)
     defines a command `\boldsymbol`, which (though slightly less
     comprehensive than `\bm`) covers almost all common cases.
 

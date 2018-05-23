@@ -34,7 +34,7 @@ support is the
 Shareware product [`winedt`](http://www.winedt.com/).
 Continuing the range of
 tools prettifying your input, we have the `emacs` package
-[[`x-symbol`](http://ctan.org/pkg/x-symbol)](http://x-symbol.sourceforge.net), which does
+[[`x-symbol`](https://ctan.org/pkg/x-symbol)](http://x-symbol.sourceforge.net), which does
 the WYSIWYG part of its work by replacing single TeX tokens and
 accented letter sequences with appropriate-looking characters on the
 screen.
@@ -52,12 +52,12 @@ to a source line corresponding to a click in the preview window.
 An `emacs` package that combines this sort of editor movement
 tracking with automatic fast recompilations (through the use of dumped
 formats) is
-[[`WhizzyTeX`](http://ctan.org/pkg/WhizzyTeX)](http://pauillac.inria.fr/whizzytex/)
+[[`WhizzyTeX`](https://ctan.org/pkg/WhizzyTeX)](http://pauillac.inria.fr/whizzytex/)
  which is best used with a previewer by the
 same author.
 
 Another `emacs` package called
-[[`preview-latex`](http://ctan.org/pkg/preview-latex)](http://preview-latex.sourceforge.net)
+[[`preview-latex`](https://ctan.org/pkg/preview-latex)](http://preview-latex.sourceforge.net)
 tries to solve
 the problem of visual correlation between source and previews in a
 more direct way: it uses a LaTeX package to chop the document source

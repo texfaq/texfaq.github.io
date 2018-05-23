@@ -20,7 +20,7 @@ To suppress the footnote in headings and table of contents:
 
     `\section[title]`
       `{title}`\footnote{title ftnt}`\texttt{}`
--  Use the [`footmisc`](http://ctan.org/pkg/footmisc) package, with package option
+-  Use the [`footmisc`](https://ctan.org/pkg/footmisc) package, with package option
     `stable`&nbsp;&mdash; this modifies footnotes so that they softly and
     silently vanish away if used in a moving argument.  With this, you
     simply need:

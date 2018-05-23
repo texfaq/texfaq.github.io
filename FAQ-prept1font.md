@@ -34,9 +34,9 @@ use with (La)TeX.  The rest of this answer discusses this preparation.
 -  Rename the AFM files and the Type&nbsp;1 files to match the
     [Berry font naming scheme](./FAQ-fontname.html).
 -  Generate TeX metric files from the AFM files.  The
-    commonest tool for this task is [`fontinst`](http://ctan.org/pkg/fontinst); the package
+    commonest tool for this task is [`fontinst`](https://ctan.org/pkg/fontinst); the package
     documentation helps, but other guides are available (see below).
-    The simplest possible script to pass to [`fontinst`](http://ctan.org/pkg/fontinst) is:
+    The simplest possible script to pass to [`fontinst`](https://ctan.org/pkg/fontinst) is:
     ```latex
     \latinfamily{xyz}{}
     \bye
@@ -45,10 +45,10 @@ use with (La)TeX.  The rest of this answer discusses this preparation.
     simple script is adequate for most purposes: its output covers the
     font family in both T1 and OT1 font encodings.  Nevertheless,
     with fancier fonts, more elaborate things are possible with
-    [`fontinst`](http://ctan.org/pkg/fontinst): see its documentation for details.
+    [`fontinst`](https://ctan.org/pkg/fontinst): see its documentation for details.
   
 
-    [`Fontinst`](http://ctan.org/pkg/Fontinst) also generates map files, and LaTeX font
+    [`Fontinst`](https://ctan.org/pkg/Fontinst) also generates map files, and LaTeX font
     definition (`fd`) files.
 
 Having traversed this list, you have a set of font files ready for

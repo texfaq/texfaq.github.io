@@ -1,7 +1,7 @@
 # How to get rid of page numbers
 
 Very occasionally, one wants a document with no page numbers.  For
-such occasions, the package [`nopageno`](http://ctan.org/pkg/nopageno) will make
+such occasions, the package [`nopageno`](https://ctan.org/pkg/nopageno) will make
 `\pagestyle{plain}` have the same effect as
 `\pagestyle{empty}`; in simple documents, this will suppress
 all page numbering (it will not work, of course, if the document uses
@@ -20,8 +20,8 @@ page.  Note that, in the standard classes, `\maketitle` and
 `\chapter` use `\thispagestyle` internally, so your call
 must be _after_ those commands.
 
-Unfortunately, `\thispagestyle` doesn't work for [`book`](http://ctan.org/pkg/book) or
-[`report`](http://ctan.org/pkg/report) `\part` commands: they set the page style (as do
+Unfortunately, `\thispagestyle` doesn't work for [`book`](https://ctan.org/pkg/book) or
+[`report`](https://ctan.org/pkg/report) `\part` commands: they set the page style (as do
 `\chapter` commands), but then they advance to the next page so
 that you have no opportunity to change the style using
 `\thispagestyle`.  The present author has proposed solving the
@@ -34,15 +34,15 @@ problem with the following ''grubby little patch'', on
 \makeatother
 ```
 Fortunately, that patch has now been incorporated in a small package
-[`nonumonpart`](http://ctan.org/pkg/nonumonpart) (a difficult name&hellip;)
+[`nonumonpart`](https://ctan.org/pkg/nonumonpart) (a difficult name&hellip;)
 
-Both the [`KOMA-script`](http://ctan.org/pkg/KOMA-script) classes and [`memoir`](http://ctan.org/pkg/memoir) have separate
+Both the [`KOMA-script`](https://ctan.org/pkg/KOMA-script) classes and [`memoir`](https://ctan.org/pkg/memoir) have separate
 page styles for the styles of various ''special'' pages, so, in a
-[`KOMA`](http://ctan.org/pkg/KOMA) class document one might say:
+[`KOMA`](https://ctan.org/pkg/KOMA) class document one might say:
 ```latex
 \renewcommand*{\titlepagestyle}{empty}
 ```
-while [`memoir`](http://ctan.org/pkg/memoir) will do the job with
+while [`memoir`](https://ctan.org/pkg/memoir) will do the job with
   `\aliaspagestyle{title}{empty}`
 
 An alternative (in all classes) is to use the rather delightful
@@ -53,7 +53,7 @@ However, the `\pagenumbering` command does have the side effect that
 it resets the page number (to 1), so it is unlikely to be helpful
 other than at the beginning of a document.
 
-The [`scrpage2`](http://ctan.org/pkg/scrpage2) package separates out the representation of the
+The [`scrpage2`](https://ctan.org/pkg/scrpage2) package separates out the representation of the
 page number (it typesets the number using the `\pagemark` command) from
 the construction of the page header and footer; so one can say
 ```latex

@@ -5,7 +5,7 @@ or have been sent a document without one.  Or even, you've realised
 the error of building a substantial document without the benefit of
 BibTeX&hellip;
 
-The `Perl` script, [`tex2bib`](http://ctan.org/pkg/tex2bib) makes a reasonable job
+The `Perl` script, [`tex2bib`](https://ctan.org/pkg/tex2bib) makes a reasonable job
 of regenerating `bib` files from `thebibliography`
 environments, provided that the original (whether automatically or
 manually generated) doesn't deviate too far from the ''standard''

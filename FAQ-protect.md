@@ -61,7 +61,7 @@ trick above as:
 ```
 then `\jim` is robust.
 
-Finally, we have the [`makerobust`](http://ctan.org/pkg/makerobust) package, which  defines
+Finally, we have the [`makerobust`](https://ctan.org/pkg/makerobust) package, which  defines
 `\MakeRobustCommand` to convert a command to be robust.  With the
 package, the ''wrapping'' above can simply be replaced by:
 ```latex

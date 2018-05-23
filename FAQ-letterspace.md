@@ -16,20 +16,20 @@ text is less awful a crime; the technique used also to be used for
 emphasis of text set in Fraktur (or similar) fonts.
 
 Straightforward macros (usable, in principle, with any TeX macro
-package) may be found in [`letterspacing`](http://ctan.org/pkg/letterspacing) (which is the name of
+package) may be found in [`letterspacing`](https://ctan.org/pkg/letterspacing) (which is the name of
 the `tex` file).
 
-A more comprehensive solution is to be found in the [`soul`](http://ctan.org/pkg/soul)
+A more comprehensive solution is to be found in the [`soul`](https://ctan.org/pkg/soul)
 package (which is optimised for use with LaTeX, but also works with
 Plain TeX).  Soul also permits hyphenation of letterspaced text;
 Gill's view of such an activity is not (even apocryphally) recorded.
-(Spacing-out forms part of the name of [`soul`](http://ctan.org/pkg/soul); the other half
+(Spacing-out forms part of the name of [`soul`](https://ctan.org/pkg/soul); the other half
 is described in [another question](./FAQ-underline.html).)
 
-Possibly the ''ultimate'' in this field is the [`microtype`](http://ctan.org/pkg/microtype),
+Possibly the ''ultimate'' in this field is the [`microtype`](https://ctan.org/pkg/microtype),
 which uses the micro-typography capabilities of current pdfTeX to
 provide a `\textls` command, which operates according to parameters
-declared in a `\SetTracking` command.  [`Microtype`](http://ctan.org/pkg/Microtype)'s
+declared in a `\SetTracking` command.  [`Microtype`](https://ctan.org/pkg/Microtype)'s
 ''tracking'' facility expands the natural spacing of the font itself,
 rather than inserting space between characters.  Ordinarily,
 letter-spacing will destroy ligatures; however, this is _wrong_

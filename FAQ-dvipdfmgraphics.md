@@ -44,13 +44,13 @@ code, above, to read:
 ```
 which makes the operation feel as simple as does including
 `eps` images in a LaTeX file for processing with
-`dvips`; the [`graphicx`](http://ctan.org/pkg/graphicx) package knows to look for a
+`dvips`; the [`graphicx`](https://ctan.org/pkg/graphicx) package knows to look for a
 `bb` file if no bounding box is provided in the
 `\includegraphics` command.
 
 The one place where usage isn't quite so simple is the need to quote
 `dvipdfm` explicitly, as an option when loading the
-[`graphicx`](http://ctan.org/pkg/graphicx) package: if you are using `dvips`, you
+[`graphicx`](https://ctan.org/pkg/graphicx) package: if you are using `dvips`, you
 don't ordinarily need to specify the fact, since the default graphics
 configuration file (of most distributions) ''guesses'' the
 `dvips` option if you're using TeX.

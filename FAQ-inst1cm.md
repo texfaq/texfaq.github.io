@@ -21,7 +21,7 @@ need do no more.
 
 If the test has failed, you need to install your own set of the fonts;
 the distribution (including all the fonts the AMS designed and
-produced themselves) is now described as [`amsfonts`](http://ctan.org/pkg/amsfonts).  The
+produced themselves) is now described as [`amsfonts`](https://ctan.org/pkg/amsfonts).  The
 bundle contains metric and map files&nbsp;&mdash; all you need to
 [install the fonts](./FAQ-instt1font.html).
 

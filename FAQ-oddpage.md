@@ -19,18 +19,18 @@ However, `\pageref` itself isn't reliable: one might hope that
 ```latex
 \ifthenelse{\isodd{\pageref{foo}}}{odd}{even}
 ```
-would do the necessary, but both the [`babel`](http://ctan.org/pkg/babel) and
-[`hyperref`](http://ctan.org/pkg/hyperref) packages have been known to interfere with the
+would do the necessary, but both the [`babel`](https://ctan.org/pkg/babel) and
+[`hyperref`](https://ctan.org/pkg/hyperref) packages have been known to interfere with the
 output of `\pageref`; be careful!
 
-The [`changepage`](http://ctan.org/pkg/changepage) package needs to provide this functionality
+The [`changepage`](https://ctan.org/pkg/changepage) package needs to provide this functionality
 for its own use, and therefore provides a command `\checkoddpage`;
 this sets a private-use ''label'', and the page reference part of that
-label is then examined (in a [`hyperref`](http://ctan.org/pkg/hyperref)-safe way) to set a
+label is then examined (in a [`hyperref`](https://ctan.org/pkg/hyperref)-safe way) to set a
 conditional `\ifoddpage` true if the command was issued on an odd
-page.  (The [`memoir`](http://ctan.org/pkg/memoir) class has the same command.)  LaTeX
+page.  (The [`memoir`](https://ctan.org/pkg/memoir) class has the same command.)  LaTeX
 users who are unfamiliar with TeX's `\if...` commands may use
-the [`ifthen`](http://ctan.org/pkg/ifthen) package:
+the [`ifthen`](https://ctan.org/pkg/ifthen) package:
 ```latex
 \usepackage{ifthen,changepage}
 ...
@@ -42,14 +42,14 @@ Of course, the ''label'' contributes to LaTeX's ''Rerun to get
 cross-references right'' error messages&hellip;
 
 The Koma-Script classes have an `addmargin*` environment
-that also provides the sorts of facilities that the [`changepage`](http://ctan.org/pkg/changepage)
+that also provides the sorts of facilities that the [`changepage`](https://ctan.org/pkg/changepage)
 offers.  Koma-Script's supporting command:
 `\ifthispageodd{<true>}{<false>}`
 executes different things depending on the page number.
 
-The package [`ifoddpage`](http://ctan.org/pkg/ifoddpage) is designed to provide the same
+The package [`ifoddpage`](https://ctan.org/pkg/ifoddpage) is designed to provide the same
 facility; crucially, it can behave ''sensibly'' even if you are
-typesetting for one-side printing only; like the [`changepage`](http://ctan.org/pkg/changepage)
+typesetting for one-side printing only; like the [`changepage`](https://ctan.org/pkg/changepage)
 it uses a ''check'' command `\checkoddpage`.  The conditional ''side''
 flags are set using (Plain) TeX conditionals; they are defined
 locally, so that you can minimise their use of TeX workspace&nbsp;&mdash;

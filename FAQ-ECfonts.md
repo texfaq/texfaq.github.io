@@ -64,7 +64,7 @@ Note that T1 (and other eight-bit font encodings) are superseded in
 the developing TeX-family members [XeTeX](./FAQ-xetex.html) and
 [LuaTeX](./FAQ-luatex.html), which use Unicode as their base encoding,
 and use Unicode-encoded fonts (typically in `ttf` or
-`otf` formats).  The [`cm-unicode`](http://ctan.org/pkg/cm-unicode) fonts carry the
+`otf` formats).  The [`cm-unicode`](https://ctan.org/pkg/cm-unicode) fonts carry the
 flag in this arena, along with the Latin Modern set.
 
 

@@ -22,9 +22,9 @@ terse entry in the running head.
 One of the problems is the tendency of page headings to be set in
 capitals (which take up more space); so why not set headings as written
 for ''ordinary'' reading?  It's not possible to do so with unmodified
-LaTeX, but the [`fancyhdr`](http://ctan.org/pkg/fancyhdr) package provides a command
+LaTeX, but the [`fancyhdr`](https://ctan.org/pkg/fancyhdr) package provides a command
 `\nouppercase` for use in its header (and footer) lines to suppress
-LaTeX's uppercasing tendencies.  Classes in the [`KOMA-script`](http://ctan.org/pkg/KOMA-script)
+LaTeX's uppercasing tendencies.  Classes in the [`KOMA-script`](https://ctan.org/pkg/KOMA-script)
 bundle don't uppercase in the first place.
 
 In fact, the sectioning commands use ''mark'' commands to pass
@@ -60,7 +60,7 @@ A similar arrangement is necessary even for chapters if the class
 you're using is odd enough that it puts a page header on a chapter's
 opening page.
 
-Note that the [`titlesec`](http://ctan.org/pkg/titlesec) package manages the running heads in
+Note that the [`titlesec`](https://ctan.org/pkg/titlesec) package manages the running heads in
 a completely different fashion; for example, you can use the optional
 argument of sectioning commands for page headers, only, by loading the
 package as:
@@ -69,13 +69,13 @@ package as:
 ```
 The package documentation offers other useful techniques in this area.
 
-The [`memoir`](http://ctan.org/pkg/memoir) class avoids all the silliness by providing an
+The [`memoir`](https://ctan.org/pkg/memoir) class avoids all the silliness by providing an
 extra optional argument for chapter and sectioning commands, for
 example:
 ```latex
 \section[middling version][terse version]{verbose version}
 ```
-As a result, it is always possible for users of [`memoir`](http://ctan.org/pkg/memoir) to
+As a result, it is always possible for users of [`memoir`](https://ctan.org/pkg/memoir) to
 tailor the header text to fit, with very little trouble.
 
 

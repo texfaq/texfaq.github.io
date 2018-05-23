@@ -1,4 +1,4 @@
-# Why bother with [`inputenc`](http://ctan.org/pkg/inputenc) and [`fontenc`](http://ctan.org/pkg/fontenc)?
+# Why bother with [`inputenc`](https://ctan.org/pkg/inputenc) and [`fontenc`](https://ctan.org/pkg/fontenc)?
 
 
 
@@ -9,9 +9,9 @@ subtitle 'Latin-1').  Latin-1 is remarkably close, in the codepoints
 it covers, to the (La)TeX T1 encoding.
 
 
-In this circumstance, why should one bother with [`inputenc`](http://ctan.org/pkg/inputenc)
-and [`fontenc`](http://ctan.org/pkg/fontenc)?  Since they're pretty exactly mirroring each
-other, one could do away with both, and use just [`t1enc`](http://ctan.org/pkg/t1enc),
+In this circumstance, why should one bother with [`inputenc`](https://ctan.org/pkg/inputenc)
+and [`fontenc`](https://ctan.org/pkg/fontenc)?  Since they're pretty exactly mirroring each
+other, one could do away with both, and use just [`t1enc`](https://ctan.org/pkg/t1enc),
 despite its [shortcomings](./FAQ-t1enc.html).
 
 
@@ -26,13 +26,13 @@ One doesn't do this for a variety of small reasons:
   colleague in Eastern Europe: their keyboard is likely to be set to
   produce Latin-2, so that the simple mapping doesn't work.
 - Traditional LaTeX You lapse and write something like
-  `\'{e}` rather than typing `&eacute;`; only [`fontenc`](http://ctan.org/pkg/fontenc)
+  `\'{e}` rather than typing `&eacute;`; only [`fontenc`](https://ctan.org/pkg/fontenc)
   has the means to convert this LaTeX sequence into the T1
   character, so an `\accent` primitive slips through into the
   output, and hyphenation is in danger.
 
 
-The [`inputenc`](http://ctan.org/pkg/inputenc)&ndash;[`fontenc`](http://ctan.org/pkg/fontenc) combination seems slow and
+The [`inputenc`](https://ctan.org/pkg/inputenc)&ndash;[`fontenc`](https://ctan.org/pkg/fontenc) combination seems slow and
 cumbersome, but it's safe.
 
 

@@ -13,7 +13,7 @@ write:
 ```latex
 \write18{epstopdf \epsfilename}
 ```
-When using something like the [`epstopdf`](http://ctan.org/pkg/epstopdf) package, the ''stream''
+When using something like the [`epstopdf`](https://ctan.org/pkg/epstopdf) package, the ''stream''
 write operation is hidden away and you don't need to worry about the
 exact way it's done.
 
@@ -42,7 +42,7 @@ and so on).  Those on the list are regarded as safe enough to allow,
 whereas anything else (for example deleting files) still needs to be
 authorised by the user. This seems to be a good balance: most people
 most of the time will not need to worry about `\write18` at all,
-but it will be available for things like [`epstopdf`](http://ctan.org/pkg/epstopdf).
+but it will be available for things like [`epstopdf`](https://ctan.org/pkg/epstopdf).
 
 Note that the TeX system may tell you that the mechanism is in use:
 ```latex

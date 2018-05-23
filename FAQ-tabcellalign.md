@@ -26,9 +26,9 @@ can in principle use it explicitly:
 ```
 (but that's a rather verbose way of doing things).
 
-The [`array`](http://ctan.org/pkg/array) package provides a command `\arraybackslash`
+The [`array`](https://ctan.org/pkg/array) package provides a command `\arraybackslash`
 which restores ` ` to its correct (within table) meaning;
-the command may be used in [`array`](http://ctan.org/pkg/array)'s ''field format'' preamble
+the command may be used in [`array`](https://ctan.org/pkg/array)'s ''field format'' preamble
 specifications:
 ```latex
 \begin{tabular}{... >{\centering\arraybackslash}p{50mm}}
@@ -36,7 +36,7 @@ specifications:
 ```
 
 The `\tabularnewline` and `\arraybackslash` commands are
-(somewhat) modern additions to LaTeX and the [`array`](http://ctan.org/pkg/array)
+(somewhat) modern additions to LaTeX and the [`array`](https://ctan.org/pkg/array)
 package, respectively.  In the unlikely event that neither is
 available, the user may try the (old) solution which preserves the
 meaning of ` `:

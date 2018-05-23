@@ -1,6 +1,6 @@
 # Letters and the like
 
-LaTeX itself provides a [`letter`](http://ctan.org/pkg/letter) document class, which is
+LaTeX itself provides a [`letter`](https://ctan.org/pkg/letter) document class, which is
 widely disliked; the present author long since gave up trying with
 it.  If you nevertheless want to try it, but are irritated by its way
 of vertically-shifting a single-page letter, try the following hack:
@@ -21,20 +21,20 @@ Nevertheless, there _are_ contributed alternatives&nbsp;&mdash; in fact
 there are an awfully large number of them: the following list, of
 necessity, makes but a small selection.
 
-The largest, most comprehensive, class is [`newlfm`](http://ctan.org/pkg/newlfm); the `lfm`
+The largest, most comprehensive, class is [`newlfm`](https://ctan.org/pkg/newlfm); the `lfm`
 part of the name implies that the class can create letters, faxes and
 memoranda.  The documentation is voluminous, and the package seems
 very flexible.
 
 Other classes recommended for inclusion in this FAQ are
-[`akletter`](http://ctan.org/pkg/akletter) and [`isodoc`](http://ctan.org/pkg/isodoc).
+[`akletter`](https://ctan.org/pkg/akletter) and [`isodoc`](https://ctan.org/pkg/isodoc).
 
-The [`dinbrief`](http://ctan.org/pkg/dinbrief) class, while recommended, is only documented in
+The [`dinbrief`](https://ctan.org/pkg/dinbrief) class, while recommended, is only documented in
 German.
 
 There are letter classes in each of the excellent
-[`KOMA-script`](http://ctan.org/pkg/KOMA-script) ([`scrlttr2`](http://ctan.org/pkg/scrlttr2): documentation is available in
-English) and [`ntgclass`](http://ctan.org/pkg/ntgclass) ([`brief`](http://ctan.org/pkg/brief): documentation in Dutch
+[`KOMA-script`](https://ctan.org/pkg/KOMA-script) ([`scrlttr2`](https://ctan.org/pkg/scrlttr2): documentation is available in
+English) and [`ntgclass`](https://ctan.org/pkg/ntgclass) ([`brief`](https://ctan.org/pkg/brief): documentation in Dutch
 only) bundles.  While these are probably good (since the bundles
 themselves inspire trust) they've not been specifically recommended by
 any users.

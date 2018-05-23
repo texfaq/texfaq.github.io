@@ -45,7 +45,7 @@ list-based encapsulations.
 
 This alternative code will work with any LaTeX package.  It will
 not work with obsolete (pre-LaTeX 2e) packages such as
-[`psfig`](http://ctan.org/pkg/psfig) or [`epsf`](http://ctan.org/pkg/epsf)&nbsp;&mdash; see 
+[`psfig`](https://ctan.org/pkg/psfig) or [`epsf`](https://ctan.org/pkg/epsf)&nbsp;&mdash; see 
 [graphics inclusion](./FAQ-impgraph.html) for discussion of the
 genesis of `\includegraphics`.
 
