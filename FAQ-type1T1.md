@@ -78,7 +78,7 @@ fonts&nbsp;&mdash; the [`ae`](https://ctan.org/pkg/ae) (''almost EC'') and
 (though the [`ae`](https://ctan.org/pkg/ae) set may be extended to offer guillemets by
 use of the [`aeguill`](https://ctan.org/pkg/aeguill) package).  Neither offers characters such
 as `eth` and `thorn` (used in, for example, in
-Icelandic), but the [`aecompl`](https://ctan.org/pkg/aecompl) package works with the
+Icelandic), but the [`aecompl`](https://ctan.org/pkg/ae) package works with the
 [`ae`](https://ctan.org/pkg/ae) fonts to provide the missing characters from the
 EC fonts (i.e., as bitmaps).
 

@@ -10,7 +10,7 @@ LaTeX 2.09 is still available.
 
 Thorsten Ohl's [`feynmf`](https://ctan.org/pkg/feynmf) is designed for use with current
 LaTeX, and works in
-combination with MetaFont (or, in its [`feynmp`](https://ctan.org/pkg/feynmp) incarnation, with
+combination with MetaFont (or, in its [`feynmp`](https://ctan.org/pkg/feynmf) incarnation, with
 MetaPost).  The `feynmf` or
 `feynmp` package reads a description of the diagram written
 in TeX, and writes out code.  MetaFont (or MetaPost) can then produce a

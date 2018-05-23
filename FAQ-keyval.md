@@ -68,7 +68,7 @@ or may be ''cancelled'' to avoid confusion.  If you have loaded
 `\DeclareOption*` becomes `\DeclareDefaultOption`.
 
 Heiko also provides [`kvsetkeys`](https://ctan.org/pkg/kvsetkeys) which is a more robust version
-of [`setkeys`](https://ctan.org/pkg/setkeys), with some of the rough edges made smoother.
+of [`setkeys`](https://ctan.org/pkg/latex-tools), with some of the rough edges made smoother.
 
 Hendri Adriaens' [`xkeyval`](https://ctan.org/pkg/xkeyval) offers more flexibility than
 the original [`keyval`](https://ctan.org/pkg/keyval) and is more robust than the original,

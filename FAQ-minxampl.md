@@ -39,7 +39,7 @@ If this file you've built up shows the problem already, then you're done.
 Otherwise, try adding packages; the optimum is a file with only one
 package in it, but you may find that the guilty package won't even load
 properly unless another package has been loaded.  (Another common case
-is that package [`A`](https://ctan.org/pkg/A) only fails when package [`B`](https://ctan.org/pkg/B) has been
+is that package `A` only fails when package `B` has been
 loaded.)
 
 _Hacking down_ starts

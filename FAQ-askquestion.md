@@ -48,7 +48,7 @@ application of your own common sense.
     operating system''.
 -  If you need to know how to do something, make clear what your
     environment is: ''I want to do _x_ in Plain TeX'', or ''I
-    want to do _y_ in LaTeX running the [`boggle`](https://ctan.org/pkg/boggle)
+    want to do _y_ in LaTeX running the `boggle`
     class''.  If you thought you knew how, but your attempts are
     failing, tell us what you've tried: ''I've already tried installing
     the [`elephant`](https://ctan.org/pkg/elephant) in the [`minicar`](https://ctan.org/pkg/minicar) directory, and it

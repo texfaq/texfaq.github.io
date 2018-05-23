@@ -16,14 +16,14 @@ The [`titleref`](https://ctan.org/pkg/titleref) package is a simple extension wh
 the command `\titleref`; it is a stand-alone package&nbsp;&mdash; don't use it
 in a document in which you also need to use [`hyperref`](https://ctan.org/pkg/hyperref).
 
-The [`byname`](https://ctan.org/pkg/byname) package is part of the [`smartref`](https://ctan.org/pkg/smartref) bundle
+The [`byname`](https://ctan.org/pkg/smartref) package is part of the [`smartref`](https://ctan.org/pkg/smartref) bundle
 and works well with [`smartref`](https://ctan.org/pkg/smartref), and works (to an extent) with
 [`hyperref`](https://ctan.org/pkg/hyperref), but the links it defines are not hyperlinks.
 
 The [`memoir`](https://ctan.org/pkg/memoir) class incorporates the functionality of
-[`titleref`](https://ctan.org/pkg/titleref), but doesn't work with [`byname`](https://ctan.org/pkg/byname) (though a
+[`titleref`](https://ctan.org/pkg/titleref), but doesn't work with [`byname`](https://ctan.org/pkg/smartref) (though a
 search of `comp.text.tex` on [groups.google.com] will
-find a patch to [`byname`](https://ctan.org/pkg/byname) to remedy the problem).
+find a patch to [`byname`](https://ctan.org/pkg/smartref) to remedy the problem).
 
 The [`hyperref`](https://ctan.org/pkg/hyperref) bundle includes a package [`nameref`](https://ctan.org/pkg/nameref),
 which will work standing alone (i.e., without [`hyperref`](https://ctan.org/pkg/hyperref): of
@@ -52,7 +52,7 @@ The section name is: \ztitleref{sec:one}.
 future'', but things move slowly in the LaTeX world: don't hold
 your breath.) 
 
-Each of [`titleref`](https://ctan.org/pkg/titleref), [`byname`](https://ctan.org/pkg/byname) and [`nameref`](https://ctan.org/pkg/nameref)
+Each of [`titleref`](https://ctan.org/pkg/titleref), [`byname`](https://ctan.org/pkg/smartref) and [`nameref`](https://ctan.org/pkg/nameref)
 defines a reference command with the same name as the package:
 `\titleref`, `\byname` and `\nameref`. The [`nameref`](https://ctan.org/pkg/nameref)
 package also defines a command `\byshortnameref`, which uses the

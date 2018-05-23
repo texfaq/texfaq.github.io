@@ -56,7 +56,7 @@ modern TeX distributions.
   appearance) provides for its use as a calligraphic font.
 
   The TeX Gyre font family also includes a Chancery replacement,
-  `Chorus`; use it with [`tgchorus`](https://ctan.org/pkg/tgchorus) (and ignore the
+  `Chorus`; use it with [`tgchorus`](https://ctan.org/pkg/tex-gyre) (and ignore the
   complaints about needing to change font shape).
 
 Examples of the available styles are linked from the packages'

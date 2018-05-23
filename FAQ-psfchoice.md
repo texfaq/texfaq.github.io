@@ -426,7 +426,7 @@ working on them, and several problems have been identified:
   The `txfontsb` bundles `txfonts`, extended to
   provide a Small Caps set, Old-Style numbers and Greek text (from the
   GNU Freefont set).
-  [Documentation](http://mirrors.ctan.org/fonts/txfontsb/doc/txfontsb.pdf)
+  [Documentation](https://mirrors.ctan.org/fonts/txfontsb/doc/txfontsb.pdf)
   is available for this variant, too.
 
 - Newtxby Michael Sharpe from Young Ryu's `txfonts`
@@ -434,8 +434,8 @@ working on them, and several problems have been identified:
   This collection is derived from `txfonts`; the maths fonts
   metrics have been adjusted so that the output is less cramped than
   when `txfonts` is used; the appearance of the output is
-  much improved.  Two packages are provided, [`newtxtext`](https://ctan.org/pkg/newtxtext) for
-  using the associated text fonts, and [`newtxmath`](https://ctan.org/pkg/newtxmath) for
+  much improved.  Two packages are provided, [`newtxtext`](https://ctan.org/pkg/newtx) for
+  using the associated text fonts, and [`newtxmath`](https://ctan.org/pkg/newtx) for
   mathematics.  Options are provided to substitute
   letters and symbols from the `Libertine` set, and from the
   Garamond extension font `garamondx` (but note that
