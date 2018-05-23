@@ -42,3 +42,9 @@ the FAQ useful. There are a few things to watch out for
 - Only use block quotes for real quotations: use code markup for terminal
   output and similar
 
+- We use the following HTML elements for special characters:
+  - `&hellip;` Ellipsis
+  - `&mdash;` Em-dash
+  - `&nbsp;` Non-breaking space
+
+- Please wrap source lines to keep them below 80 characters long
