@@ -52,6 +52,6 @@ LaTeX 2.09; for [`article`](https://ctan.org/pkg/article), the list includes `10
 Your document may well ''just work'' after changes like those above;
 if not, you should think through what you're trying to do, and consult
 documentation on how to do it&nbsp;&mdash; there are lots of 
-[free tutorials](./FAQ-tutorials*.html) to help you on your way, if you
+[free tutorials](FAQ-tutorialsstar) to help you on your way, if you
 don't have access to a LaTeX manual of any sort.
 

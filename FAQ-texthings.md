@@ -59,7 +59,7 @@ that you are likely to encounter:
   - LaTeX (executable: `latex`)
   See
   [Books on TeX and its relations](FAQ-latex-books.md),
-  [(La)TeX Tutorials, etc.](./FAQ-tutorials*.html),
+  [(La)TeX Tutorials, etc.](FAQ-tutorialsstar),
   [Online introductions: LaTeX](FAQ-man-latex.md) and
   [Specialized (La)TeX tutorials](FAQ-tutbitslatex.md).
   Note that there have been two major versions of LaTeX: LaTeX 2e

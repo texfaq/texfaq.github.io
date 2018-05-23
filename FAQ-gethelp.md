@@ -7,7 +7,7 @@ date: 2014-06-10
 We assume, here, that you have looked at all relevant
 [FAQ answers](FAQ-whereFAQ.md) you can find, you've looked in
 any [books](FAQ-book-lists.md) you have, and scanned relevant
-[tutorials](./FAQ-tutorials*.html)&hellip; and still you don't know what
+[tutorials](FAQ-tutorialsstar)&hellip; and still you don't know what
 to do.
 
 There are two more steps you can take before formulating a question to

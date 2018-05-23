@@ -20,7 +20,7 @@ however. He only looks at bugs infrequently, and even then
 only after they are agreed as bugs by a small vetting team. In the
 first instance, contact Barbara Beeton at the AMS
 (<a href="mailto:bnb@ams.org">bnb@ams.org</a>), or contact
-[TUG](./FAQ-TUG*.html).
+[TUG](FAQ-TUGstar).
 
 If you've found a bug in LaTeX 2e, [report it](FAQ-latexbug.md)
 using mechanisms supplied by the LaTeX team.  (Please be

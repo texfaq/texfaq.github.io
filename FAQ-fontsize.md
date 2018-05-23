@@ -7,7 +7,7 @@ date: 2014-06-10
 
 Almost all fonts, nowadays, are provided with LaTeX control
 (`fd`) files, so the temptation to risk the
-[problems of `\newfont`](./FAQ-newfont*.html) is usually easy to
+[problems of `\newfont`](FAQ-newfontstar) is usually easy to
 resist.
 
 However, one temptation remains, arising from the way that LaTeX
