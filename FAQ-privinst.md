@@ -73,7 +73,7 @@ everything searches; the simplest form of the line is:
 TEXMF = !!$TEXMFMAIN
 ```
 but, there are likely to be several alternative settings behind
-comment markers ('''`%`''), and the person who
+comment markers (' `%` ), and the person who
 installed your system may have left them there.  Whatever, you need to
 modify the line that's in effect: change the above to three lines:
 ```
