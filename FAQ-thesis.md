@@ -1,5 +1,7 @@
 ---
 ID: Q-thesis
+section: Adjusting the typesetting
+subsection: Alternative document classes
 revised: 2014-06-10
 ---
 # Formatting a thesis in LaTeX

@@ -1,5 +1,7 @@
 ---
 ID: Q-latexwords
+section: Macro programming
+subsection: LaTeX macro programming
 revised: 2014-06-10
 ---
 # Changing the words [`babel`](https://ctan.org/pkg/babel) uses

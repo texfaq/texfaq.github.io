@@ -1,5 +1,6 @@
 ---
 ID: Q-mfptutorials
+section: Documentation and Help
 revised: 2014-06-10
 ---
 # MetaFont and MetaPost Tutorials

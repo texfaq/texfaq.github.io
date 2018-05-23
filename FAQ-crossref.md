@@ -1,5 +1,7 @@
 ---
 ID: Q-crossref
+section: Why does it _do_ that?
+subsection: Common errors
 revised: 2014-06-10
 ---
 # LaTeX gets cross-references wrong

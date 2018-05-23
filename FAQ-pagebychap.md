@@ -1,5 +1,7 @@
 ---
 ID: Q-pagebychap
+section: Adjusting the typesetting
+subsection: Document structure
 revised: 2014-06-10
 ---
 # Page numbering by chapter

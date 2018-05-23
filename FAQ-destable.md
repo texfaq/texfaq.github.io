@@ -1,5 +1,7 @@
 ---
 ID: Q-destable
+section: How do I do&hellip;?
+subsection: Tables, figures and diagrams
 revised: 2014-06-10
 ---
 # The design of tables

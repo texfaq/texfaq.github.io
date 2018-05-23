@@ -1,5 +1,7 @@
 ---
 ID: Q-bibtocorder
+section: Bibliographies and citations
+subsection: Creating citations
 revised: 2014-06-10
 ---
 # Table of contents rearranges ''[`unsrt`](https://ctan.org/pkg/unsrt)'' ordering

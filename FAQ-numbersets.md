@@ -1,5 +1,6 @@
 ---
 ID: Q-numbersets
+section: Symbols, etc.
 revised: 2014-06-10
 ---
 # Symbols for the number sets

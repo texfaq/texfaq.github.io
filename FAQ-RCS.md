@@ -1,5 +1,7 @@
 ---
 ID: Q-RCS
+section: How do I do&hellip;?
+subsection: Document management
 revised: 2014-06-10
 ---
 # Version control using RCS, CVS or the like

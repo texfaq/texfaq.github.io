@@ -1,5 +1,7 @@
 ---
 ID: Q-newfunction
+section: How do I do&hellip;?
+subsection: Mathematics
 revised: 2014-06-10
 ---
 # Defining a new log-like function in LaTeX

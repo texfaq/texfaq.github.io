@@ -1,5 +1,6 @@
 ---
 ID: Q-paraparam
+section: Common misunderstandings
 revised: 2014-06-10
 ---
 # Why does it ignore paragraph parameters?

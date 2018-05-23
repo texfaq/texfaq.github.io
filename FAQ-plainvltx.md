@@ -1,5 +1,6 @@
 ---
 ID: Q-plainvltx
+section: The Background
 revised: 2014-06-10
 ---
 # Should I use Plain TeX or LaTeX?

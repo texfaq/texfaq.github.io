@@ -1,5 +1,6 @@
 ---
 ID: Q-docpictex
+section: Documentation and Help
 revised: 2014-06-10
 ---
 # The PicTeX manual

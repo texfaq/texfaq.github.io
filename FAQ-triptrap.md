@@ -1,5 +1,6 @@
 ---
 ID: Q-triptrap
+section: The Background
 revised: 2014-06-10
 ---
 # How can I be sure it's really TeX?

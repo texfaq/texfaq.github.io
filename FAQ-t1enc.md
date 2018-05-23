@@ -1,5 +1,7 @@
 ---
 ID: Q-t1enc
+section: Common misunderstandings
+subsection: Why shouldn't I?
 revised: 2014-06-10
 ---
 # Why use [`fontenc`](https://ctan.org/pkg/fontenc) rather than [`t1enc`](https://ctan.org/pkg/t1enc)?

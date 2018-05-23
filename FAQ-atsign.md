@@ -1,5 +1,6 @@
 ---
 ID: Q-atsign
+section: Symbols, etc.
 revised: 2014-06-10
 ---
 # How to type an ''@'' sign?

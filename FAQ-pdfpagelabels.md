@@ -1,5 +1,6 @@
 ---
 ID: Q-pdfpagelabels
+section: Hypertext and PDF
 revised: 2014-06-10
 ---
 # [`Hyperref`](https://ctan.org/pkg/Hyperref) and repeated page numbers

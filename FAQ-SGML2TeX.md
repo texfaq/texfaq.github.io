@@ -1,5 +1,6 @@
 ---
 ID: Q-SGML2TeX
+section: Format conversions
 revised: 2014-06-10
 ---
 # Conversion from SGML or HTML to TeX

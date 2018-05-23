@@ -1,5 +1,6 @@
 ---
 ID: Q-textrace
+section: Current TeX-related projects
 revised: 2014-06-10
 ---
 # Making outline fonts from MetaFont

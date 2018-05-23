@@ -1,5 +1,6 @@
 ---
 ID: Q-installthings
+section: Installing (La)TeX files
 revised: 2014-06-10
 ---
 # Installing things on a (La)TeX system

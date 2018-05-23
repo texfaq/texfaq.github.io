@@ -1,5 +1,7 @@
 ---
 ID: Q-whatbst
+section: Bibliographies and citations
+subsection: Creating citations
 revised: 2014-06-10
 ---
 # Choosing a bibliography style

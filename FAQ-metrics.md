@@ -1,5 +1,7 @@
 ---
 ID: Q-metrics
+section: Fonts
+subsection: Adobe Type&nbsp;1 (''PostScript'') fonts
 revised: 2014-06-10
 ---
 # TeX font metric files for Type 1 fonts

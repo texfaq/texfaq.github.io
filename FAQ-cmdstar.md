@@ -1,5 +1,7 @@
 ---
 ID: Q-cmdstar
+section: Macro programming
+subsection: LaTeX macro tools and techniques
 revised: 2014-06-10
 ---
 # Commands defined with * options

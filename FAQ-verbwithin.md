@@ -1,5 +1,7 @@
 ---
 ID: Q-verbwithin
+section: Why does it _do_ that?
+subsection: Common errors
 revised: 2014-06-10
 ---
 # Why doesn't verbatim work within &hellip;?

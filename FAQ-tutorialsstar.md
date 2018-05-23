@@ -1,5 +1,6 @@
 ---
 ID: Q-tutorialsstar
+section: Documentation and Help
 revised: 2014-06-10
 ---
 # Tutorials, etc., for TeX-based systems

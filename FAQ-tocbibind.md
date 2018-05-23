@@ -1,5 +1,7 @@
 ---
 ID: Q-tocbibind
+section: Adjusting the typesetting
+subsection: Tables of contents and indexes
 revised: 2014-06-10
 ---
 # Bibliography, index, etc., in TOC

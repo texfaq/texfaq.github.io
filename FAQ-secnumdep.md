@@ -1,5 +1,7 @@
 ---
 ID: Q-secnumdep
+section: Adjusting the typesetting
+subsection: Tables of contents and indexes
 revised: 2014-06-10
 ---
 # Unnumbered sections in the Table of Contents

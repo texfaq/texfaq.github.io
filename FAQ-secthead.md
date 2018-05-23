@@ -1,5 +1,7 @@
 ---
 ID: Q-secthead
+section: Adjusting the typesetting
+subsection: Document structure
 revised: 2014-06-10
 ---
 # The style of section headings

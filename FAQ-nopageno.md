@@ -1,5 +1,7 @@
 ---
 ID: Q-nopageno
+section: Adjusting the typesetting
+subsection: Page layout
 revised: 2014-06-10
 ---
 # How to get rid of page numbers

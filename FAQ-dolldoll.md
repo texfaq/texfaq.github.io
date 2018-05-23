@@ -1,5 +1,7 @@
 ---
 ID: Q-dolldoll
+section: Common misunderstandings
+subsection: Why shouldn't I?
 revised: 2014-06-10
 ---
 # Why use `\[` &hellip;`\]` in place of `$$` &hellip; `$$`?

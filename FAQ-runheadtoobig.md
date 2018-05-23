@@ -1,5 +1,7 @@
 ---
 ID: Q-runheadtoobig
+section: Adjusting the typesetting
+subsection: Document structure
 revised: 2014-06-10
 ---
 # My section title is too wide for the page header

@@ -1,5 +1,7 @@
 ---
 ID: Q-wdnohyph
+section: How do I do&hellip;?
+subsection: Hyphenation
 revised: 2014-06-10
 ---
 # Preventing hyphenation of a particular word

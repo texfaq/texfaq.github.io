@@ -1,5 +1,7 @@
 ---
 ID: Q-codelist
+section: Adjusting the typesetting
+subsection: Typesetting specialities
 revised: 2014-06-10
 ---
 # Code listings in LaTeX

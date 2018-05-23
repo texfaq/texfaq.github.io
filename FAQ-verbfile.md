@@ -1,5 +1,7 @@
 ---
 ID: Q-verbfile
+section: Adjusting the typesetting
+subsection: Typesetting specialities
 revised: 2014-06-10
 ---
 # Including a file verbatim in LaTeX

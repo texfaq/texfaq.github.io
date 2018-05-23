@@ -1,5 +1,6 @@
 ---
 ID: Q-instt1font
+section: Installing (La)TeX files
 revised: 2014-06-10
 ---
 # Installing a Type&nbsp;1 font

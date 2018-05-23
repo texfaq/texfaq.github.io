@@ -1,5 +1,7 @@
 ---
 ID: Q-psfchoice
+section: Fonts
+subsection: Adobe Type&nbsp;1 (''PostScript'') fonts
 revised: 2014-06-10
 ---
 # Choice of Type&nbsp;1 fonts for typesetting Maths

@@ -1,5 +1,7 @@
 ---
 ID: Q-multfoot
+section: How do I do&hellip;?
+subsection: Footnotes
 revised: 2014-06-10
 ---
 # More than one sequence of footnotes

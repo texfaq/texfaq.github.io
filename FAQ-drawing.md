@@ -1,5 +1,6 @@
 ---
 ID: Q-drawing
+section: Graphics
 revised: 2014-06-10
 ---
 # Drawing with TeX

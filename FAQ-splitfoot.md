@@ -1,5 +1,6 @@
 ---
 ID: Q-splitfoot
+section: Common misunderstandings
 revised: 2014-06-10
 ---
 # Why does LaTeX split footnotes across pages?

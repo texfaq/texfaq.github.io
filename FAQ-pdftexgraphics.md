@@ -1,5 +1,6 @@
 ---
 ID: Q-pdftexgraphics
+section: Graphics
 revised: 2014-06-10
 ---
 # Imported graphics in pdfLaTeX

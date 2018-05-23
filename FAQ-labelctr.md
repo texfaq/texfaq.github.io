@@ -1,5 +1,7 @@
 ---
 ID: Q-labelctr
+section: Macro programming
+subsection: LaTeX macro programming
 revised: 2014-06-10
 ---
 # Making labels from a counter

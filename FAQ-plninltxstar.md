@@ -1,5 +1,7 @@
 ---
 ID: Q-plninltxstar
+section: Macro programming
+subsection: LaTeX macro tools and techniques
 revised: 2014-06-10
 ---
 # Using Plain or primitive commands in LaTeX

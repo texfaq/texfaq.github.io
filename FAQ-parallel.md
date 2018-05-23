@@ -1,5 +1,7 @@
 ---
 ID: Q-parallel
+section: Adjusting the typesetting
+subsection: Page layout
 revised: 2014-06-10
 ---
 # Parallel setting of text

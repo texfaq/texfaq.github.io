@@ -1,5 +1,6 @@
 ---
 ID: Q-minxampl
+section: Documentation and Help
 revised: 2014-06-10
 ---
 # How to make a ''minimum example''

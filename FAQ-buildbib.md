@@ -1,5 +1,7 @@
 ---
 ID: Q-buildbib
+section: Bibliographies and citations
+subsection: Creating bibliographies
 revised: 2014-06-10
 ---
 # Creating a BibTeX bibliography file

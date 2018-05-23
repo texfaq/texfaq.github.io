@@ -1,5 +1,6 @@
 ---
 ID: Q-tmupfl
+section: The joy of TeX errors
 revised: 2014-06-10
 ---
 # ''Too many unprocessed floats''

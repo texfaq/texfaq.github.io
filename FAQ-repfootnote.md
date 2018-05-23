@@ -1,5 +1,7 @@
 ---
 ID: Q-repfootnote
+section: How do I do&hellip;?
+subsection: Footnotes
 revised: 2014-06-10
 ---
 # Footnotes whose texts are identical

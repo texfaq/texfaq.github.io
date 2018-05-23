@@ -1,5 +1,7 @@
 ---
 ID: Q-onecolabs
+section: Adjusting the typesetting
+subsection: Document structure
 revised: 2014-06-10
 ---
 # 1-column abstract in 2-column document

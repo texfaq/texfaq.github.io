@@ -1,5 +1,6 @@
 ---
 ID: Q-notWYSIWYG
+section: The Background
 revised: 2014-06-10
 ---
 # Why is TeX not a WYSIWYG system?

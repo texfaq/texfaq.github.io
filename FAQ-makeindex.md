@@ -1,5 +1,7 @@
 ---
 ID: Q-makeindex
+section: Adjusting the typesetting
+subsection: Typesetting specialities
 revised: 2014-06-10
 ---
 # Generating an index in (La)TeX

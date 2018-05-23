@@ -1,5 +1,6 @@
 ---
 ID: Q-LaTeXandPlain
+section: The Background
 revised: 2014-06-10
 ---
 # How does LaTeX relate to Plain TeX?

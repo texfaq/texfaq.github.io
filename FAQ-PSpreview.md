@@ -1,5 +1,7 @@
 ---
 ID: Q-PSpreview
+section: Fonts
+subsection: Adobe Type&nbsp;1 (''PostScript'') fonts
 revised: 2014-06-10
 ---
 # Previewing files using Type 1 fonts

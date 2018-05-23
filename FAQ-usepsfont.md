@@ -1,5 +1,7 @@
 ---
 ID: Q-usepsfont
+section: Fonts
+subsection: Adobe Type&nbsp;1 (''PostScript'') fonts
 revised: 2014-06-10
 ---
 # Using Adobe Type 1 fonts with TeX

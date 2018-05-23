@@ -1,5 +1,6 @@
 ---
 ID: Q-latexpronounce
+section: The Background
 revised: 2014-06-10
 ---
 # How should I pronounce ''LaTeX(2<sub>&epsilon;</sub>)''?

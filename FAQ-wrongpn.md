@@ -1,5 +1,7 @@
 ---
 ID: Q-wrongpn
+section: Why does it _do_ that?
+subsection: Common errors
 revised: 2014-06-10
 ---
 # Page number is wrong at start of page

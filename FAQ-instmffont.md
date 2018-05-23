@@ -1,5 +1,6 @@
 ---
 ID: Q-instmffont
+section: Installing (La)TeX files
 revised: 2014-06-10
 ---
 # Installing a font provided as MetaFont source

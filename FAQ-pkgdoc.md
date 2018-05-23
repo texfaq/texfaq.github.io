@@ -1,5 +1,6 @@
 ---
 ID: Q-pkgdoc
+section: Documentation and Help
 revised: 2014-06-10
 ---
 # Documentation of packages

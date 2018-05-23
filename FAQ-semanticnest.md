@@ -1,5 +1,6 @@
 ---
 ID: Q-semanticnest
+section: The joy of TeX errors
 revised: 2014-06-10
 ---
 # Capacity exceeded [semantic nest &hellip;]

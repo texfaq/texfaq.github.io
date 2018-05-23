@@ -1,5 +1,6 @@
 ---
 ID: Q-checksum
+section: The joy of TeX errors
 revised: 2014-06-10
 ---
 # Checksum mismatch in font

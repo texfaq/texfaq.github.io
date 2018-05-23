@@ -1,5 +1,7 @@
 ---
 ID: Q-extref
+section: Adjusting the typesetting
+subsection: Labels and references
 revised: 2014-06-10
 ---
 # Referring to labels in other documents

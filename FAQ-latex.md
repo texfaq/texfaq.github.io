@@ -1,5 +1,6 @@
 ---
 ID: Q-latex
+section: The Background
 revised: 2014-06-10
 ---
 # What is LaTeX?

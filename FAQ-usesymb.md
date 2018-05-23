@@ -1,5 +1,6 @@
 ---
 ID: Q-usesymb
+section: Symbols, etc.
 revised: 2014-06-10
 ---
 # Using symbols

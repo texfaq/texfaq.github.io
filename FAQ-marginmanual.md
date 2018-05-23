@@ -1,5 +1,7 @@
 ---
 ID: Q-marginmanual
+section: Adjusting the typesetting
+subsection: Page layout
 revised: 2014-06-10
 ---
 # How to set up page layout ''by hand''

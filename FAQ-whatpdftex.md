@@ -1,5 +1,6 @@
 ---
 ID: Q-whatpdftex
+section: The Background
 revised: 2014-06-10
 ---
 # What is pdfTeX?

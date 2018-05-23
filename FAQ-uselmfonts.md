@@ -1,5 +1,7 @@
 ---
 ID: Q-uselmfonts
+section: Fonts
+subsection: Particular font families
 revised: 2014-06-10
 ---
 # Using the Latin Modern fonts

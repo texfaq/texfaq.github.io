@@ -1,5 +1,7 @@
 ---
 ID: Q-widefigs
+section: Adjusting the typesetting
+subsection: Document structure
 revised: 2014-06-10
 ---
 # Wide figures in two-column documents

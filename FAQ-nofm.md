@@ -1,5 +1,7 @@
 ---
 ID: Q-nofm
+section: Adjusting the typesetting
+subsection: Document structure
 revised: 2014-06-10
 ---
 # Page numbering ''&lsaquo;_n_&rsaquo; of &lsaquo;_m_&rsaquo;''

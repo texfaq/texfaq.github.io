@@ -1,5 +1,7 @@
 ---
 ID: Q-balance
+section: Adjusting the typesetting
+subsection: Document structure
 revised: 2014-06-10
 ---
 # Balancing columns at the end of a document

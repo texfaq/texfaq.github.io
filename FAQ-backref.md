@@ -1,5 +1,7 @@
 ---
 ID: Q-backref
+section: Bibliographies and citations
+subsection: Creating citations
 revised: 2014-06-10
 ---
 # References from the bibliography to the citation

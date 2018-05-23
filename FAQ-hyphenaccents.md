@@ -1,5 +1,7 @@
 ---
 ID: Q-hyphenaccents
+section: How do I do&hellip;?
+subsection: Hyphenation
 revised: 2014-06-10
 ---
 # Accented words aren't hyphenated

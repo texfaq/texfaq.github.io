@@ -1,5 +1,6 @@
 ---
 ID: Q-include
+section: Common misunderstandings
 revised: 2014-06-10
 ---
 # What's going on in my `\include` commands?

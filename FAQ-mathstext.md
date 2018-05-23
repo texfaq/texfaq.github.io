@@ -1,5 +1,7 @@
 ---
 ID: Q-mathstext
+section: How do I do&hellip;?
+subsection: Mathematics
 revised: 2014-06-10
 ---
 # Text inside maths

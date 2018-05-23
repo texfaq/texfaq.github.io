@@ -1,5 +1,6 @@
 ---
 ID: Q-clsvpkg
+section: Bits and pieces of (La)TeX
 revised: 2014-06-10
 ---
 # What are LaTeX classes and packages?

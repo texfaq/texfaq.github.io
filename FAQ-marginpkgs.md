@@ -1,5 +1,7 @@
 ---
 ID: Q-marginpkgs
+section: Adjusting the typesetting
+subsection: Page layout
 revised: 2014-06-10
 ---
 # Packages to set up page designs

@@ -1,5 +1,7 @@
 ---
 ID: Q-ftnsect
+section: How do I do&hellip;?
+subsection: Footnotes
 revised: 2014-06-10
 ---
 # Footnotes in LaTeX section headings

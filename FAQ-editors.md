@@ -1,5 +1,6 @@
 ---
 ID: Q-editors
+section: TeX Systems
 revised: 2014-06-10
 ---
 # TeX-friendly editors and shells

@@ -1,5 +1,7 @@
 ---
 ID: Q-extsizes
+section: Adjusting the typesetting
+subsection: Alternative document classes
 revised: 2014-06-10
 ---
 # Other ''document font'' sizes?

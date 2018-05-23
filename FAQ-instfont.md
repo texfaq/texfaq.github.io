@@ -1,5 +1,6 @@
 ---
 ID: Q-instfont
+section: Installing (La)TeX files
 revised: 2014-06-10
 ---
 # Installing a new font

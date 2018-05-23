@@ -1,5 +1,7 @@
 ---
 ID: Q-chapbib
+section: Bibliographies and citations
+subsection: Creating citations
 revised: 2014-06-10
 ---
 # Separate bibliographies per chapter?

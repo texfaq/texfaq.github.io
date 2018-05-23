@@ -1,5 +1,7 @@
 ---
 ID: Q-subverttoks
+section: Macro programming
+subsection: ''Generic'' macros and techniques
 revised: 2014-06-10
 ---
 # Subverting a token register

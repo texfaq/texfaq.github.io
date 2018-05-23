@@ -1,5 +1,7 @@
 ---
 ID: Q-multidoc
+section: Adjusting the typesetting
+subsection: Alternative document classes
 revised: 2014-06-10
 ---
 # A ''report'' from lots of 'article's

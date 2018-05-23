@@ -1,5 +1,7 @@
 ---
 ID: Q-nocitestar
+section: Bibliographies and citations
+subsection: Manipulating whole bibliographies
 revised: 2014-06-10
 ---
 # Listing all your BibTeX entries

@@ -1,5 +1,7 @@
 ---
 ID: Q-linmacnames
+section: Macro programming
+subsection: ''Generic'' macros and techniques
 revised: 2014-06-10
 ---
 # Non-letters in macro names

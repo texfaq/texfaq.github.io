@@ -1,5 +1,7 @@
 ---
 ID: Q-papersize
+section: Adjusting the typesetting
+subsection: Page layout
 revised: 2014-06-10
 ---
 # The size of printed output

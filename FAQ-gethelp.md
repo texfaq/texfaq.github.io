@@ -1,5 +1,6 @@
 ---
 ID: Q-gethelp
+section: Documentation and Help
 revised: 2014-06-10
 ---
 # Getting help online

@@ -1,5 +1,7 @@
 ---
 ID: Q-tabacc
+section: Why does it _do_ that?
+subsection: Common errors
 revised: 2014-06-10
 ---
 # Accents misbehave in `tabbing`

@@ -1,5 +1,6 @@
 ---
 ID: Q-marginparside
+section: Common misunderstandings
 revised: 2014-06-10
 ---
 # Getting `\marginpar` on the right side

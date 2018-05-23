@@ -1,5 +1,6 @@
 ---
 ID: Q-plaintex
+section: The Background
 revised: 2014-06-10
 ---
 # What's ''writing in TeX''?

@@ -1,5 +1,6 @@
 ---
 ID: Q-xspace
+section: Common misunderstandings
 revised: 2014-06-10
 ---
 # Commands gobble following space

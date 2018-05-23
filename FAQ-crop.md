@@ -1,5 +1,7 @@
 ---
 ID: Q-crop
+section: Adjusting the typesetting
+subsection: Page layout
 revised: 2014-06-10
 ---
 # How to create crop marks

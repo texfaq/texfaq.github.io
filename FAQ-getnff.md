@@ -1,5 +1,7 @@
 ---
 ID: Q-getnff
+section: Fonts
+subsection: Particular font families
 revised: 2014-06-10
 ---
 # Getting ''free'' fonts not in your distribution

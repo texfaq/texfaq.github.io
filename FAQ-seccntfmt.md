@@ -1,5 +1,7 @@
 ---
 ID: Q-seccntfmt
+section: Macro programming
+subsection: LaTeX macro programming
 revised: 2014-06-10
 ---
 # Adjusting the presentation of section numbers

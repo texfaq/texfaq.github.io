@@ -1,5 +1,7 @@
 ---
 ID: Q-printvar
+section: Macro programming
+subsection: LaTeX macro tools and techniques
 revised: 2014-06-10
 ---
 # How to print contents of variables?

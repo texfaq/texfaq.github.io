@@ -1,5 +1,7 @@
 ---
 ID: Q-nopagebrk
+section: Adjusting the typesetting
+subsection: Page layout
 revised: 2014-06-10
 ---
 # Preventing page breaks between lines

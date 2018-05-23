@@ -1,5 +1,6 @@
 ---
 ID: Q-biblatex
+section: Current TeX-related projects
 revised: 2014-06-10
 ---
 # Replacing the BibTeX&ndash;LaTeX mechanism

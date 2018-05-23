@@ -1,5 +1,6 @@
 ---
 ID: Q-inlgrphapp
+section: Graphics
 revised: 2014-06-10
 ---
 # In-line source for graphics applications

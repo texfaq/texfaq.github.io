@@ -1,5 +1,7 @@
 ---
 ID: Q-floatpages
+section: How do I do&hellip;?
+subsection: Floating tables, figures, etc.
 revised: 2014-06-10
 ---
 # Floats on their own on float pages

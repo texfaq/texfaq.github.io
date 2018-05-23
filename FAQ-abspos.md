@@ -1,5 +1,7 @@
 ---
 ID: Q-abspos
+section: Adjusting the typesetting
+subsection: Page layout
 revised: 2014-06-10
 ---
 # Putting things at fixed positions on the page

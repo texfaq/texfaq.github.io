@@ -1,5 +1,6 @@
 ---
 ID: Q-TeXpronounce
+section: The Background
 revised: 2014-06-10
 ---
 # How should I pronounce ''TeX''?

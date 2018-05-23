@@ -1,5 +1,6 @@
 ---
 ID: Q-underscore
+section: Symbols, etc.
 revised: 2014-06-10
 ---
 # How to typeset an underscore character

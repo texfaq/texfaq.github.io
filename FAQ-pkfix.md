@@ -1,5 +1,6 @@
 ---
 ID: Q-pkfix
+section: Hypertext and PDF
 revised: 2014-06-10
 ---
 # Replacing Type 3 fonts in PostScript

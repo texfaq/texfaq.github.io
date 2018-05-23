@@ -1,5 +1,7 @@
 ---
 ID: Q-enlarge
+section: Things are Going Wrong&hellip;
+subsection: Getting things to fit
 revised: 2014-06-10
 ---
 # Enlarging TeX

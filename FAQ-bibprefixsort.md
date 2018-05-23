@@ -1,5 +1,7 @@
 ---
 ID: Q-bibprefixsort
+section: Bibliographies and citations
+subsection: Creating bibliographies
 revised: 2014-06-10
 ---
 # BibTeX sorting and name prefixes

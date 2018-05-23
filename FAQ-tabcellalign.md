@@ -1,5 +1,7 @@
 ---
 ID: Q-tabcellalign
+section: How do I do&hellip;?
+subsection: Tables, figures and diagrams
 revised: 2014-06-10
 ---
 # How to alter the alignment of tabular cells

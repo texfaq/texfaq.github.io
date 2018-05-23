@@ -1,5 +1,6 @@
 ---
 ID: Q-ouparmd
+section: The joy of TeX errors
 revised: 2014-06-10
 ---
 # Not in outer par mode

@@ -1,5 +1,7 @@
 ---
 ID: Q-nohyph
+section: How do I do&hellip;?
+subsection: Hyphenation
 revised: 2014-06-10
 ---
 # My words aren't being hyphenated

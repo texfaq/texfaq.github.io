@@ -1,5 +1,7 @@
 ---
 ID: Q-underline
+section: Things are Going Wrong&hellip;
+subsection: Making things stay where you want them
 revised: 2014-06-10
 ---
 # Underlined text won't break

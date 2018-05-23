@@ -1,5 +1,7 @@
 ---
 ID: Q-papergeom
+section: Adjusting the typesetting
+subsection: Page layout
 revised: 2014-06-10
 ---
 # Getting the right paper geometry from (La)TeX

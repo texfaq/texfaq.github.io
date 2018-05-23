@@ -1,5 +1,7 @@
 ---
 ID: Q-psfontprob
+section: Fonts
+subsection: Adobe Type&nbsp;1 (''PostScript'') fonts
 revised: 2014-06-10
 ---
 # Deploying Type 1 fonts

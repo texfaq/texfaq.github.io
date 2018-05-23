@@ -1,5 +1,6 @@
 ---
 ID: Q-prept1font
+section: Installing (La)TeX files
 revised: 2014-06-10
 ---
 # Preparing a Type&nbsp;1 font

@@ -1,5 +1,6 @@
 ---
 ID: Q-impgraph
+section: Graphics
 revised: 2014-06-10
 ---
 # Importing graphics into (La)TeX documents

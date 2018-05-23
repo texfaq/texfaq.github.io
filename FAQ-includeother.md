@@ -1,5 +1,6 @@
 ---
 ID: Q-includeother
+section: The joy of TeX errors
 revised: 2014-06-10
 ---
 # LaTeX won't include from other directories

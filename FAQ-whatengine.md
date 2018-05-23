@@ -1,5 +1,7 @@
 ---
 ID: Q-whatengine
+section: Macro programming
+subsection: ''Generic'' macros and techniques
 revised: 2014-06-10
 ---
 # Am I using pdfTeX, XeTeX or LuaTeX?

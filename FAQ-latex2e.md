@@ -1,5 +1,6 @@
 ---
 ID: Q-latex2e
+section: The Background
 revised: 2014-06-10
 ---
 # What is LaTeX 2e?

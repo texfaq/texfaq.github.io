@@ -1,5 +1,6 @@
 ---
 ID: Q-drawFeyn
+section: Graphics
 revised: 2014-06-10
 ---
 # Drawing Feynman diagrams in LaTeX

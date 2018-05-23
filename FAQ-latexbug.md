@@ -1,5 +1,6 @@
 ---
 ID: Q-latexbug
+section: You're still stuck?
 revised: 2018-05-23
 ---
 # Reporting a LaTeX bug

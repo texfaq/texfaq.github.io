@@ -1,5 +1,7 @@
 ---
 ID: Q-time
+section: Adjusting the typesetting
+subsection: Typesetting specialities
 revised: 2014-06-10
 ---
 # Printing the time

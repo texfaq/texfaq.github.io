@@ -1,5 +1,7 @@
 ---
 ID: Q-landscape
+section: Adjusting the typesetting
+subsection: Page layout
 revised: 2014-06-10
 ---
 # Typesetting things in landscape orientation

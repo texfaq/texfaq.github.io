@@ -1,5 +1,6 @@
 ---
 ID: Q-fmtconv
+section: Format conversions
 revised: 2014-06-10
 ---
 # Other conversions to and from (La)TeX

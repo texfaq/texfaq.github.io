@@ -1,5 +1,6 @@
 ---
 ID: Q-tocloftwrong
+section: Common misunderstandings
 revised: 2014-06-10
 ---
 # Numbers too large in table of contents, etc.

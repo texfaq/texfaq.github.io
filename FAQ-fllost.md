@@ -1,5 +1,6 @@
 ---
 ID: Q-fllost
+section: The joy of TeX errors
 revised: 2014-06-10
 ---
 # Float(s) lost

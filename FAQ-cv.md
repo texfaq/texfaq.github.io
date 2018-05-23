@@ -1,5 +1,7 @@
 ---
 ID: Q-cv
+section: Adjusting the typesetting
+subsection: Alternative document classes
 revised: 2014-06-10
 ---
 # _Curriculum Vitae_ (R&eacute;sum&eacute;)

@@ -1,5 +1,7 @@
 ---
 ID: Q-emptynum
+section: Why does it _do_ that?
+subsection: Common errors
 revised: 2014-06-10
 ---
 # I asked for ''empty'', but the page is numbered

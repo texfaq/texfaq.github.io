@@ -1,5 +1,7 @@
 ---
 ID: Q-dropping
+section: Adjusting the typesetting
+subsection: Typesetting specialities
 revised: 2014-06-10
 ---
 # Big letters at the start of a paragraph

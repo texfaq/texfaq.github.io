@@ -1,5 +1,6 @@
 ---
 ID: Q-findfont
+section: Acquiring the Software
 revised: 2014-06-10
 ---
 # Finding new fonts

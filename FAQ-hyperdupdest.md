@@ -1,5 +1,6 @@
 ---
 ID: Q-hyperdupdest
+section: The joy of TeX errors
 revised: 2014-06-10
 ---
 # pdfTeX destination &hellip; ignored

@@ -1,5 +1,7 @@
 ---
 ID: Q-reallyblank
+section: Adjusting the typesetting
+subsection: Document structure
 revised: 2014-06-10
 ---
 # Really blank pages between chapters

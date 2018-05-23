@@ -1,5 +1,7 @@
 ---
 ID: Q-tocloft
+section: Adjusting the typesetting
+subsection: Tables of contents and indexes
 revised: 2014-06-10
 ---
 # The format of the Table of Contents, etc.

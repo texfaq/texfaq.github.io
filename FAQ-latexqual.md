@@ -1,5 +1,7 @@
 ---
 ID: Q-latexqual
+section: Macro programming
+subsection: LaTeX macro programming
 revised: 2014-06-10
 ---
 # The quality of your LaTeX

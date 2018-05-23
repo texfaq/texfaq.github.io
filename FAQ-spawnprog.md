@@ -1,5 +1,6 @@
 ---
 ID: Q-spawnprog
+section: Bits and pieces of (La)TeX
 revised: 2014-06-10
 ---
 # Spawning programs from (La)TeX: `\write18`

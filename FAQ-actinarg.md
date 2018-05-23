@@ -1,5 +1,7 @@
 ---
 ID: Q-actinarg
+section: Macro programming
+subsection: ''Generic'' macros and techniques
 revised: 2014-06-10
 ---
 # Active characters in command arguments

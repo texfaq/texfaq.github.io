@@ -1,5 +1,6 @@
 ---
 ID: Q-xfigetc
+section: Support Packages for TeX
 revised: 2014-06-10
 ---
 # (La)TeX-friendly drawing packages

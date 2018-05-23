@@ -1,5 +1,6 @@
 ---
 ID: Q-LaTeX3
+section: Current TeX-related projects
 revised: 2014-06-10
 ---
 # The LaTeX project

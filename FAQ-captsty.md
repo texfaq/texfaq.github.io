@@ -1,5 +1,7 @@
 ---
 ID: Q-captsty
+section: Adjusting the typesetting
+subsection: Document structure
 revised: 2014-06-10
 ---
 # The style of captions

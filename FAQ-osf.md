@@ -1,5 +1,6 @@
 ---
 ID: Q-osf
+section: Symbols, etc.
 revised: 2014-06-10
 ---
 # Using ''old-style'' figures

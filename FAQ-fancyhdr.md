@@ -1,5 +1,7 @@
 ---
 ID: Q-fancyhdr
+section: Adjusting the typesetting
+subsection: Document structure
 revised: 2014-06-10
 ---
 # Alternative head- and footlines in LaTeX

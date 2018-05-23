@@ -1,5 +1,6 @@
 ---
 ID: Q-noroom
+section: The joy of TeX errors
 revised: 2014-06-10
 ---
 # No room for a new ''_thing_''

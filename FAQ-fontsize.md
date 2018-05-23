@@ -1,5 +1,7 @@
 ---
 ID: Q-fontsize
+section: Macro programming
+subsection: LaTeX macro programming
 revised: 2014-06-10
 ---
 # Fonts at arbitrary sizes

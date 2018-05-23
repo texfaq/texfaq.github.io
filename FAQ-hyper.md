@@ -1,5 +1,6 @@
 ---
 ID: Q-hyper
+section: Hypertext and PDF
 revised: 2014-06-10
 ---
 # Making hypertext documents from TeX

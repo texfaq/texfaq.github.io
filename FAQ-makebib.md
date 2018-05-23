@@ -1,5 +1,7 @@
 ---
 ID: Q-makebib
+section: Bibliographies and citations
+subsection: Creating bibliographies
 revised: 2014-06-10
 ---
 # Reconstructing `bib` files

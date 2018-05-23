@@ -1,5 +1,7 @@
 ---
 ID: Q-chngmargonfly
+section: Adjusting the typesetting
+subsection: Page layout
 revised: 2014-06-10
 ---
 # Changing margins ''on the fly''

@@ -1,5 +1,7 @@
 ---
 ID: Q-breakbox
+section: Adjusting the typesetting
+subsection: Typesetting specialities
 revised: 2014-06-10
 ---
 # Breaking boxes of text

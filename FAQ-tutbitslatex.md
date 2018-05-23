@@ -1,5 +1,6 @@
 ---
 ID: Q-tutbitslatex
+section: Documentation and Help
 revised: 2014-06-10
 ---
 # (La)TeX tutorials

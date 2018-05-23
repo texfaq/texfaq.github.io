@@ -1,5 +1,7 @@
 ---
 ID: Q-interruptlist
+section: How do I do&hellip;?
+subsection: Lists
 revised: 2014-06-10
 ---
 # Interrupting enumerated lists

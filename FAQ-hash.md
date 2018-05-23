@@ -1,5 +1,7 @@
 ---
 ID: Q-hash
+section: Macro programming
+subsection: ''Generic'' macros and techniques
 revised: 2014-06-10
 ---
 # Defining macros within macros

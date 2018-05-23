@@ -1,5 +1,7 @@
 ---
 ID: Q-csname
+section: Macro programming
+subsection: ''Generic'' macros and techniques
 revised: 2014-06-10
 ---
 # Defining a macro from an argument

@@ -1,5 +1,6 @@
 ---
 ID: Q-scriptfonts
+section: Symbols, etc.
 revised: 2014-06-10
 ---
 # Better script fonts for maths

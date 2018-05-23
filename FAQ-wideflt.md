@@ -1,5 +1,7 @@
 ---
 ID: Q-wideflt
+section: How do I do&hellip;?
+subsection: Floating tables, figures, etc.
 revised: 2014-06-10
 ---
 # Centring a very wide figure or table

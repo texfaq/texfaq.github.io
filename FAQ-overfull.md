@@ -1,5 +1,6 @@
 ---
 ID: Q-overfull
+section: Common misunderstandings
 revised: 2014-06-10
 ---
 # (La)TeX makes overfull lines

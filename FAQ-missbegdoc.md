@@ -1,5 +1,6 @@
 ---
 ID: Q-missbegdoc
+section: The joy of TeX errors
 revised: 2014-06-10
 ---
 # Missing `\begin`{document}

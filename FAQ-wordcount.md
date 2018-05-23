@@ -1,5 +1,6 @@
 ---
 ID: Q-wordcount
+section: Support Packages for TeX
 revised: 2014-06-10
 ---
 # How many words have you written?

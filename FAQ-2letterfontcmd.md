@@ -1,5 +1,7 @@
 ---
 ID: Q-2letterfontcmd
+section: Common misunderstandings
+subsection: Why shouldn't I?
 revised: 2014-06-10
 ---
 # What's wrong with `\bf`, `\it`, etc.?

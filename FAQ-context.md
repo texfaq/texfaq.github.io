@@ -1,5 +1,6 @@
 ---
 ID: Q-context
+section: The Background
 revised: 2014-06-10
 ---
 # What is ConTeXt?

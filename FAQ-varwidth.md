@@ -1,5 +1,7 @@
 ---
 ID: Q-varwidth
+section: How do I do&hellip;?
+subsection: Odds and ends
 revised: 2014-06-10
 ---
 # Automatic sizing of `minipage`

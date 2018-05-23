@@ -1,5 +1,6 @@
 ---
 ID: Q-LaTeXtoPlain
+section: Format conversions
 revised: 2014-06-10
 ---
 # Translating LaTeX to Plain TeX

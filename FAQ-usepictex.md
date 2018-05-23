@@ -1,5 +1,7 @@
 ---
 ID: Q-usepictex
+section: Things are Going Wrong&hellip;
+subsection: Getting things to fit
 revised: 2014-06-10
 ---
 # Why can't I load PicTeX?

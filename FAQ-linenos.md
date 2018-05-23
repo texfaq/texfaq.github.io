@@ -1,5 +1,7 @@
 ---
 ID: Q-linenos
+section: Adjusting the typesetting
+subsection: Typesetting specialities
 revised: 2014-06-10
 ---
 # Including line numbers in typeset output

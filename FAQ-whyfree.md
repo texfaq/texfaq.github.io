@@ -1,5 +1,6 @@
 ---
 ID: Q-whyfree
+section: The Background
 revised: 2014-06-10
 ---
 # If TeX is so good, how come it's free?
