@@ -26,7 +26,7 @@ careful to ensure you've got a LaTeX bug, or a bug in one of the
 If you've found a bug in a contributed LaTeX package, the best
 starting place is usually to ask in the ''usual places for 
 [help on-line](./FAQ-gethelp.html), or just possibly one of the 
-[specialised mailing lists](./FAQ-maillists*.html).
+[specialised mailing lists](./FAQ-maillistsstar.html).
 The author of the package may well answer on-line, but if no-one
 offers any help, you may stand a chance if you mail the author
 (presuming that you can find an address&hellip;).
@@ -43,4 +43,4 @@ pressing  enough need&nbsp;&mdash; to hire someone.)
 
 ----
 
-Content last updated: 2014-06-10
+Content last updated: 2018-05-23
