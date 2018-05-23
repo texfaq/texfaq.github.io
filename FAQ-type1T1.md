@@ -1,5 +1,4 @@
 ---
-ID: Q-type1T1
 section: Hypertext and PDF
 revised: 2014-06-10
 ---

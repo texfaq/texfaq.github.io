@@ -1,5 +1,4 @@
 ---
-ID: Q-pk
 section: Bits and pieces of (La)TeX
 revised: 2014-06-10
 ---

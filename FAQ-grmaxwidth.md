@@ -1,5 +1,4 @@
 ---
-ID: Q-grmaxwidth
 section: Graphics
 revised: 2014-06-10
 ---

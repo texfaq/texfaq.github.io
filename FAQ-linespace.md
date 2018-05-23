@@ -1,5 +1,4 @@
 ---
-ID: Q-linespace
 section: Adjusting the typesetting
 subsection: Spacing of characters and lines
 revised: 2014-06-10

@@ -1,5 +1,4 @@
 ---
-ID: Q-texcad
 section: Support Packages for TeX
 revised: 2014-06-10
 ---

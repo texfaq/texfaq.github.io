@@ -1,5 +1,4 @@
 ---
-ID: Q-catalogue
 section: The Background
 revised: 2014-06-10
 ---

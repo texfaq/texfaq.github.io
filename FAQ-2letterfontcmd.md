@@ -1,5 +1,4 @@
 ---
-ID: Q-2letterfontcmd
 section: Common misunderstandings
 subsection: Why shouldn't I?
 revised: 2014-06-10

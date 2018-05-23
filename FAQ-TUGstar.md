@@ -1,5 +1,4 @@
 ---
-ID: Q-TUGstar
 section: The Background
 revised: 2014-06-10
 ---

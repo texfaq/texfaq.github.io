@@ -1,5 +1,4 @@
 ---
-ID: Q-floats
 section: Things are Going Wrong&hellip;
 subsection: Making things stay where you want them
 revised: 2014-06-10

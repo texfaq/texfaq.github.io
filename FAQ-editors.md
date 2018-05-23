@@ -1,5 +1,4 @@
 ---
-ID: Q-editors
 section: TeX Systems
 revised: 2014-06-10
 ---

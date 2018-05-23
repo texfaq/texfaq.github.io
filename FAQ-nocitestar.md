@@ -1,5 +1,4 @@
 ---
-ID: Q-nocitestar
 section: Bibliographies and citations
 subsection: Manipulating whole bibliographies
 revised: 2014-06-10

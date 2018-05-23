@@ -1,5 +1,4 @@
 ---
-ID: Q-nameref
 section: Adjusting the typesetting
 subsection: Labels and references
 revised: 2014-06-10

@@ -1,5 +1,4 @@
 ---
-ID: Q-reuseq
 section: How do I do&hellip;?
 subsection: Mathematics
 revised: 2014-06-10

@@ -1,5 +1,4 @@
 ---
-ID: Q-getbitmap
 section: Fonts
 subsection: MetaFont fonts
 revised: 2014-06-10

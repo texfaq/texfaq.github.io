@@ -1,5 +1,4 @@
 ---
-ID: Q-instprinterfont
 section: Installing (La)TeX files
 revised: 2014-06-10
 ---

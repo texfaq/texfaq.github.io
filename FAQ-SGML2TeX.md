@@ -1,5 +1,4 @@
 ---
-ID: Q-SGML2TeX
 section: Format conversions
 revised: 2014-06-10
 ---

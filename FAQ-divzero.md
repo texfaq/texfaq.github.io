@@ -1,5 +1,4 @@
 ---
-ID: Q-divzero
 section: The joy of TeX errors
 revised: 2014-06-10
 ---

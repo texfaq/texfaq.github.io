@@ -1,5 +1,4 @@
 ---
-ID: Q-tradesyms
 section: Symbols, etc.
 revised: 2014-06-10
 ---

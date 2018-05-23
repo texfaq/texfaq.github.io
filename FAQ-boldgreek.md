@@ -1,5 +1,4 @@
 ---
-ID: Q-boldgreek
 section: Symbols, etc.
 revised: 2014-06-10
 ---

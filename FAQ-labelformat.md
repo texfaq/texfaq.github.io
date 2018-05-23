@@ -1,5 +1,4 @@
 ---
-ID: Q-labelformat
 section: Macro programming
 subsection: LaTeX macro programming
 revised: 2014-06-10

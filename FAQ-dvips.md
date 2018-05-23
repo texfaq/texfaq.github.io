@@ -1,5 +1,4 @@
 ---
-ID: Q-dvips
 section: DVI Drivers and Previewers
 revised: 2014-06-10
 ---

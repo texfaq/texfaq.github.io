@@ -1,5 +1,4 @@
 ---
-ID: Q-plaintex
 section: The Background
 revised: 2014-06-10
 ---

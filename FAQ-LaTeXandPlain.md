@@ -1,5 +1,4 @@
 ---
-ID: Q-LaTeXandPlain
 section: The Background
 revised: 2014-06-10
 ---

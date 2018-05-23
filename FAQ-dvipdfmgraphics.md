@@ -1,5 +1,4 @@
 ---
-ID: Q-dvipdfmgraphics
 section: Graphics
 revised: 2014-06-10
 ---

@@ -1,5 +1,4 @@
 ---
-ID: Q-initex
 section: Things are Going Wrong&hellip;
 subsection: Things have ''gone away''
 revised: 2014-06-10

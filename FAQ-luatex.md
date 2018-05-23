@@ -1,5 +1,4 @@
 ---
-ID: Q-luatex
 section: Current TeX-related projects
 revised: 2014-06-10
 ---

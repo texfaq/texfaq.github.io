@@ -1,5 +1,4 @@
 ---
-ID: Q-subsubsub
 section: Adjusting the typesetting
 subsection: Document structure
 revised: 2014-06-10

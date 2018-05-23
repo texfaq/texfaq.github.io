@@ -1,5 +1,4 @@
 ---
-ID: Q-LaTeX2HTML
 section: Format conversions
 revised: 2014-06-10
 ---

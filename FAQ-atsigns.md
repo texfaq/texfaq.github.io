@@ -1,5 +1,4 @@
 ---
-ID: Q-atsigns
 section: Macro programming
 subsection: LaTeX macro tools and techniques
 revised: 2014-06-10

@@ -1,5 +1,4 @@
 ---
-ID: Q-omegaleph
 section: Current TeX-related projects
 revised: 2014-06-10
 ---

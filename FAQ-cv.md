@@ -1,5 +1,4 @@
 ---
-ID: Q-cv
 section: Adjusting the typesetting
 subsection: Alternative document classes
 revised: 2014-06-10

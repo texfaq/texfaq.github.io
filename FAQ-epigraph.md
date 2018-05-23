@@ -1,5 +1,4 @@
 ---
-ID: Q-epigraph
 section: Adjusting the typesetting
 subsection: Page layout
 revised: 2014-06-10

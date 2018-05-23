@@ -1,5 +1,4 @@
 ---
-ID: Q-eplain
 section: The Background
 revised: 2014-06-10
 ---

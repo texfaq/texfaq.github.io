@@ -1,5 +1,4 @@
 ---
-ID: Q-csname
 section: Macro programming
 subsection: ''Generic'' macros and techniques
 revised: 2014-06-10

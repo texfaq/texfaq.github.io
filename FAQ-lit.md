@@ -1,5 +1,4 @@
 ---
-ID: Q-lit
 section: Literate programming
 revised: 2014-06-10
 ---

@@ -1,5 +1,4 @@
 ---
-ID: Q-marginpkgs
 section: Adjusting the typesetting
 subsection: Page layout
 revised: 2014-06-10

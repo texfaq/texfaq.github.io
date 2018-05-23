@@ -1,5 +1,4 @@
 ---
-ID: Q-oddhyphen
 section: How do I do&hellip;?
 subsection: Hyphenation
 revised: 2014-06-10

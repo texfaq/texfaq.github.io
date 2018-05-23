@@ -1,5 +1,4 @@
 ---
-ID: Q-algorithms
 section: Adjusting the typesetting
 subsection: Typesetting specialities
 revised: 2014-06-10

@@ -1,5 +1,4 @@
 ---
-ID: Q-htmlbib
 section: Bibliographies and citations
 subsection: Manipulating whole bibliographies
 revised: 2014-06-10

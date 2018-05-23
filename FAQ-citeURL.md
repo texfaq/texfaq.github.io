@@ -1,5 +1,4 @@
 ---
-ID: Q-citeURL
 section: Bibliographies and citations
 subsection: Creating bibliographies
 revised: 2014-06-10
