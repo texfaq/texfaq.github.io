@@ -48,3 +48,9 @@ the FAQ useful. There are a few things to watch out for
   - `&nbsp;` Non-breaking space
 
 - Please wrap source lines to keep them below 80 characters long
+
+## New questions
+
+- File names should be of the form `FAQ-<name>.md`, where the `<name> is made
+  up of characters ASCII letters, numbers and "-" only.
+- Remember to add new questions to the appropriate place in `index.md`
