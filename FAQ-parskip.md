@@ -34,7 +34,7 @@ patches things up to look reasonable; it's not perfect, but it deals
 with most problems.
 
 The Netherlands Users' Group's set of classes includes an
-[`article`](https://ctan.org/pkg/article) equivalent ([`artikel3`](https://ctan.org/pkg/artikel3)) and a [`report`](https://ctan.org/pkg/report)
-equivalent ([`rapport3`](https://ctan.org/pkg/rapport3)) whose design incorporates zero paragraph
+[`article`](https://ctan.org/pkg/article) equivalent ([`artikel3`](https://ctan.org/pkg/ntgclass)) and a [`report`](https://ctan.org/pkg/report)
+equivalent ([`rapport3`](https://ctan.org/pkg/ntgclass)) whose design incorporates zero paragraph
 indent and non-zero paragraph skip.
 

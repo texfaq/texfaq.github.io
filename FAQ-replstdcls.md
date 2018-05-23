@@ -25,8 +25,8 @@ The [`KOMA-script`](https://ctan.org/pkg/KOMA-script) bundle (classes named [`sc
 strong current contender.  They are actively supported and are subject
 to sensitive development; they are comprehensive in their coverage of
 significant typesetting issues; they produce good-looking output and
-they are well documented in both English ([`scrguien`](https://ctan.org/pkg/scrguien) in the
-distribution) and German ([`scrguide`](https://ctan.org/pkg/scrguide) in the distribution).
+they are well documented in both English ([`scrguien`](https://ctan.org/pkg/koma-script) in the
+distribution) and German ([`scrguide`](https://ctan.org/pkg/koma-script) in the distribution).
 
 The other comparable class is [`memoir`](https://ctan.org/pkg/memoir).  This aims to replace
 [`book`](https://ctan.org/pkg/book) and [`report`](https://ctan.org/pkg/report) classes directly, and (like

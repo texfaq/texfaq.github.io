@@ -45,7 +45,7 @@ commands for other languages.  [`Babelbib`](https://ctan.org/pkg/Babelbib) comes
 set of bibliography styles, which could be a restriction if there
 wasn't also a link from [`custom-bib`](https://ctan.org/pkg/custom-bib).
 
-The [`makebst`](https://ctan.org/pkg/makebst) menu of [`custom-bib`](https://ctan.org/pkg/custom-bib) allows you to
+The [`makebst`](https://ctan.org/pkg/custom-bib) menu of [`custom-bib`](https://ctan.org/pkg/custom-bib) allows you to
 choose a language for the BibTeX style you're generating (there are
 14 languages to choose; it looks as if [`spain.bst`](https://ctan.org/pkg/spain.bst), mentioned
 above, was generated this way).  If, however, you opt not to specify a

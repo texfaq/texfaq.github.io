@@ -17,7 +17,7 @@ information, but no pdfTeX-based changebar package has been
 published, that takes advantage of that.
 
 The simplest package that offers change bars is Peter Schmitt's
-[`backgrnd.tex`](https://ctan.org/pkg/backgrnd.tex); this was written as a Plain TeX application
+[`backgrnd.tex`](https://ctan.org/pkg/backgrnd); this was written as a Plain TeX application
 that patches the output routine, but it appears to work at least on
 simple LaTeX documents.  Wise LaTeX users will be alerted by the
 information that [`backgrnd`](https://ctan.org/pkg/backgrnd) patches their output routine, and
