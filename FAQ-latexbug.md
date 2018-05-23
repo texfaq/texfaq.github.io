@@ -10,7 +10,7 @@ careful to produce a bug report that is usable by the team.  The steps
 are:
 
 1. Are you still using current LaTeX?  Maintenance is only
-   available for sufficiently up-to-date versions of LaTeX&nbsp;&mdash;
+   available for sufficiently up-to-date versions of LaTeX
 
 2. Has your bug already been reported?  Browse the current [LaTeX issues
    database](https://github.com/latex3/latex2e/issues) and the older
