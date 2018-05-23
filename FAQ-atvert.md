@@ -1,3 +1,7 @@
+---
+ID: Q-atvert
+revised: 2014-06-10
+---
 # `\spacefactor` complaints
 
 The errors
@@ -28,7 +32,3 @@ The problem is discussed in detail in
 ''[`@` in macro names](./FAQ-atsigns.html)'',
 together with solutions.
 
-
-----
-
-Content last updated: 2014-06-10

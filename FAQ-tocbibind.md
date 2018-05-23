@@ -1,3 +1,7 @@
+---
+ID: Q-tocbibind
+revised: 2014-06-10
+---
 # Bibliography, index, etc., in TOC
 
 The standard LaTeX classes (and many others) use `\section*` or
@@ -49,7 +53,3 @@ as a set of class options (e.g., `bibtotoc` to add the
 bibliography to the table of contents); the [`memoir`](https://ctan.org/pkg/memoir) class includes
 [`tocbibind`](https://ctan.org/pkg/tocbibind) itself.
 
-
-----
-
-Content last updated: 2014-06-10

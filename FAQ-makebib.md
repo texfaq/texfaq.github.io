@@ -1,3 +1,7 @@
+---
+ID: Q-makebib
+revised: 2014-06-10
+---
 # Reconstructing `bib` files
 
 Perhaps you've lost the `bib` file you generated your document from,
@@ -16,7 +20,3 @@ not usually destroy information, it can quite reasonably mislabel it.
 
 Documentation of the script is to be found in the file `tex2bib.readme`
 
-
-----
-
-Content last updated: 2014-06-10

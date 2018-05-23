@@ -1,3 +1,7 @@
+---
+ID: Q-instt1font
+revised: 2014-06-10
+---
 # Installing a Type&nbsp;1 font
 
 Once you have a prepared Type&nbsp;1 font, either direct from CTAN
@@ -61,7 +65,3 @@ Both processes (preparing and installing a font) are very well (and
 thoroughly) described in Philipp Lehman's guide to font installation,
 which may be found on CTAN.
 
-
-----
-
-Content last updated: 2014-06-10

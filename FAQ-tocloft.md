@@ -1,3 +1,7 @@
+---
+ID: Q-tocloft
+revised: 2014-06-10
+---
 # The format of the Table of Contents, etc.
 
 The formats of entries in the table of contents (TOC) are
@@ -27,7 +31,3 @@ for the table of contents, and calculates the space needed for the
 numbers automatically.  The [`memoir`](https://ctan.org/pkg/memoir) class includes the functionality
 of [`tocloft`](https://ctan.org/pkg/tocloft).
 
-
-----
-
-Content last updated: 2014-06-10

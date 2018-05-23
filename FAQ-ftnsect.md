@@ -1,3 +1,7 @@
+---
+ID: Q-ftnsect
+revised: 2014-06-10
+---
 # Footnotes in LaTeX section headings
 
 The `\footnote` command is fragile, so that simply placing the
@@ -32,7 +36,3 @@ To suppress the footnote in headings and table of contents:
     \section{title\footnote{title ftnt}}
     ```
 
-
-----
-
-Content last updated: 2014-06-10

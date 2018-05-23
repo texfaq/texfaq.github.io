@@ -1,3 +1,7 @@
+---
+ID: Q-newans
+revised: 2018-05-23
+---
 # Submitting new material for the FAQ
 
 The FAQ will never be complete, and we always expect that
@@ -15,7 +19,3 @@ content: see [CONTRIBUTING.md] for more details of specific local
 considerations. You can include your suggested text in an issue report, or
 [submit a pull request](https://github.com/tex-faq/tex-faq.github.io/pulls).
 (If you don't understand what that means, don't worry!)
-
-----
-
-Content last updated: 2018-05-23

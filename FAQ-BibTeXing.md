@@ -1,3 +1,7 @@
+---
+ID: Q-BibTeXing
+revised: 2014-06-10
+---
 # BibTeX Documentation
 
 BibTeX, a program originally designed to produce bibliographies in
@@ -27,7 +31,3 @@ Markey's ''_Tame the BeaST (The B to X of BibTeX)_'', which
 may also be found on CTAN.  A summary and FAQ by Michael
 Shell and David Hoadley, is also to be recommended.
 
-
-----
-
-Content last updated: 2014-06-10

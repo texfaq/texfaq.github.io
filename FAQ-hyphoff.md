@@ -1,3 +1,7 @@
+---
+ID: Q-hyphoff
+revised: 2014-06-10
+---
 # Stopping all hyphenation
 
 It may seem an odd thing to want to do (after all, one of TeX's
@@ -78,7 +82,3 @@ appeal to the specifiers of eccentric document layouts (such as those
 for dissertations), but for once their sense conforms with typographic
 style.  (Or at least, style constrained in this curious way.)
 
-
-----
-
-Content last updated: 2014-06-10

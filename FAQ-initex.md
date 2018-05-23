@@ -1,3 +1,7 @@
+---
+ID: Q-initex
+revised: 2014-06-10
+---
 # What's happened to `initex`?
 
 In the beginning, (La)TeX was stretching the capacity of every
@@ -25,7 +29,3 @@ It would appear that the equation is somewhat different for the
 MiKTeX developers, since that system continues to offer an
 `initex` executable.
 
-
-----
-
-Content last updated: 2014-06-10

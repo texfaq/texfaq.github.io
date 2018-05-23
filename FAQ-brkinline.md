@@ -1,3 +1,7 @@
+---
+ID: Q-brkinline
+revised: 2014-06-10
+---
 # Line-breaking in in-line maths
 
 TeX, by default, allows you to split a mathematical expression at
@@ -45,7 +49,3 @@ ${a+b+c+d} = z+y+x+w$
 The braces say ''treat this subformula as one atom'' and (in TeX at
 least) atoms don't get split: not a `\binoppenalty` change in sight.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-splitfoot
+revised: 2014-06-10
+---
 # Why does LaTeX split footnotes across pages?
 
 LaTeX splits footnotes when it can think of nothing better to do.
@@ -39,7 +43,3 @@ one page.
 The [`fnbreak`](https://ctan.org/pkg/fnbreak) package detects (and generates warnings about)
 split footnotes.
 
-
-----
-
-Content last updated: 2014-06-10

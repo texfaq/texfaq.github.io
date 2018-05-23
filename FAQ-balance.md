@@ -1,3 +1,7 @@
+---
+ID: Q-balance
+revised: 2014-06-10
+---
 # Balancing columns at the end of a document
 
 The [`twocolumn`](https://ctan.org/pkg/twocolumn) option of the standard classes causes
@@ -42,7 +46,3 @@ It is this difficulty (what's required in any instance can't really be
 expressed in current LaTeX) that led the author of
 [`multicol`](https://ctan.org/pkg/multicol) to suppress single-column-wide floats.
 
-
-----
-
-Content last updated: 2014-06-10

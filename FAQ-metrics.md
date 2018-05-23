@@ -1,3 +1,7 @@
+---
+ID: Q-metrics
+revised: 2014-06-10
+---
 # TeX font metric files for Type 1 fonts
 
 Reputable font vendors such as Adobe supply metric files for each
@@ -46,7 +50,3 @@ For the Macintosh (classic), there is a program called
 [Textures](./FAQ-commercial.html) distribution, but is itself free
 software, and is available on CTAN.
 
-
-----
-
-Content last updated: 2014-06-10

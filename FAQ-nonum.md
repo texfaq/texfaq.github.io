@@ -1,3 +1,7 @@
+---
+ID: Q-nonum
+revised: 2014-06-10
+---
 # ''Missing number, treated as zero''
 
 In general, this means you've tried to assign something to a count,
@@ -41,7 +45,3 @@ incorporates `Times`-like mathematics, and a sans-serif face
 based on `Helvetica`, but scaled to match `Times`
 text rather better.
 
-
-----
-
-Content last updated: 2014-06-10

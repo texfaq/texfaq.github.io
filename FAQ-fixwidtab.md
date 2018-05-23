@@ -1,3 +1,7 @@
+---
+ID: Q-fixwidtab
+revised: 2014-06-10
+---
 # Fixed-width tables
 
 There are two basic techniques for making fixed-width tables in
@@ -46,7 +50,3 @@ should process using LaTeX.  Processing will give you a `.sty`
 file as well as the `.dvi` or `.pdf` output containing the
 documentation.
 
-
-----
-
-Content last updated: 2014-06-10

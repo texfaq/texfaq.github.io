@@ -1,3 +1,7 @@
+---
+ID: Q-breaklinks
+revised: 2014-06-10
+---
 # Link text doesn't break at end line
 
 When using the [`hyperref`](https://ctan.org/pkg/hyperref) package, you make a block of text
@@ -42,7 +46,3 @@ Otherwise, if you have a lengthy piece of text that you want active,
 you have at present no simple solution: you have to rewrite your text,
 or to use a different PDF generation mechanism.
 
-
-----
-
-Content last updated: 2014-06-10

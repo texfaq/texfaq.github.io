@@ -1,3 +1,7 @@
+---
+ID: Q-noans
+revised: 2018-05-22
+---
 # You don't understand the answer
 
 While the FAQ maintainers don't offer a ''help'' service, they're
@@ -13,7 +17,3 @@ what we need to clarify.  Time permitting (the team is small and all
 its members are busy), we'll try and clarify the answer.  This way,
 with a bit of luck, we can together improve the value of this resource
 to the whole community.
-
-----
-
-Content last updated: 2018-05-22

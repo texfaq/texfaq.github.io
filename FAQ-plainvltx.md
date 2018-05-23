@@ -1,3 +1,7 @@
+---
+ID: Q-plainvltx
+revised: 2014-06-10
+---
 # Should I use Plain TeX or LaTeX?
 
 There's no straightforward answer to this question.  Many people swear
@@ -19,7 +23,3 @@ develop your own; many big publishers have developed their own
 (La)TeX styles for journals and books, and insist that authors stick
 closely to their markup.
 
-
-----
-
-Content last updated: 2014-06-10

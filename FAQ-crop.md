@@ -1,3 +1,7 @@
+---
+ID: Q-crop
+revised: 2014-06-10
+---
 # How to create crop marks
 
 If you're printing something that's eventually to be reproduced in
@@ -12,7 +16,3 @@ facilities to satisfy any conceivable production house.  Users of the
 [`memoir`](https://ctan.org/pkg/memoir) class don't need the package, since [`memoir`](https://ctan.org/pkg/memoir) has
 its own facilities for programming crop marks.
 
-
-----
-
-Content last updated: 2014-06-10

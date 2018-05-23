@@ -1,3 +1,7 @@
+---
+ID: Q-papersize
+revised: 2014-06-10
+---
 # The size of printed output
 
 The final product of a (La)TeX run is something for a person to
@@ -30,7 +34,3 @@ An alternative approach is to use the (excellent) [`testflow`](https://ctan.org/
 suite, that provides a detailed outline of the potential problems
 together with a sample document and prototype outputs.
 
-
-----
-
-Content last updated: 2014-06-10

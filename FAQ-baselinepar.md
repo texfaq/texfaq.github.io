@@ -1,3 +1,7 @@
+---
+ID: Q-baselinepar
+revised: 2014-06-10
+---
 # Only one `\baselineskip` per paragraph
 
 The `\baselineskip`, which determines the space between lines, is
@@ -94,7 +98,3 @@ as the text with a different size:
 Main body of text...
 ```
 
-
-----
-
-Content last updated: 2014-06-10

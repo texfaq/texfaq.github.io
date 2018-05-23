@@ -1,3 +1,7 @@
+---
+ID: Q-docpictex
+revised: 2014-06-10
+---
 # The PicTeX manual
 
 PicTeX is a set of macros by Michael Wichura for drawing diagrams
@@ -13,7 +17,3 @@ However, there _is_ a summary of PicTeX commands available on
 CTAN, which is a great aide-memoire for those who basically
 know the package to start with.
 
-
-----
-
-Content last updated: 2014-06-10

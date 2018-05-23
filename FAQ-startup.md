@@ -1,3 +1,7 @@
+---
+ID: Q-startup
+revised: 2014-06-10
+---
 # Getting started
 
 (La)TeX offers a very large number of choices, and the beginner has
@@ -34,7 +38,3 @@ Context, the place to start is the
 [ConTeXt garden wiki](http://wiki.contextgarden.net/Main_Page)
 (which is so good the present FAQs don't even try to compete).
 
-
-----
-
-Content last updated: 2014-06-10

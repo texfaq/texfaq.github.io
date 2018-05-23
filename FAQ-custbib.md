@@ -1,3 +1,7 @@
+---
+ID: Q-custbib
+revised: 2014-06-10
+---
 # Creating a bibliography style
 
 It _is_ possible to write your own: the standard bibliography
@@ -28,7 +32,3 @@ beginners' r&ouml;le models are hard to come by.  As a result, beginners
 should probably resist the temptation to write their own contributed
 [`biblatex`](https://ctan.org/pkg/biblatex) style.
 
-
-----
-
-Content last updated: 2014-06-10

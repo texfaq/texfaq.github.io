@@ -1,3 +1,7 @@
+---
+ID: Q-papergeom
+revised: 2014-06-10
+---
 # Getting the right paper geometry from (La)TeX
 
 If your output is the wrong size, and you've checked that it's not due
@@ -101,7 +105,3 @@ length registers `\stockheight` and `\stockwidth`.  The commands
 (for pdfLaTeX processing) then instruct the processor to produce
 output that specifies the necessary paper size.
 
-
-----
-
-Content last updated: 2014-06-10

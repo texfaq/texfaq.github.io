@@ -1,3 +1,7 @@
+---
+ID: Q-resolns
+revised: 2014-06-10
+---
 # What are ''resolutions''?
 
 ''Resolution'' is a word that is used with little concern for its
@@ -53,7 +57,3 @@ One commonly-used approach is to declare a resolution of 8000 (''better
 than any device''), and this is reasonably successful though it does
 have its [problems](./FAQ-8000.html).
 
-
-----
-
-Content last updated: 2014-06-10

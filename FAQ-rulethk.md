@@ -1,3 +1,7 @@
+---
+ID: Q-rulethk
+revised: 2014-06-10
+---
 # The thickness of rules in LaTeX tables
 
 The rules in a LaTeX table are by default `0.4pt` thick;
@@ -47,7 +51,3 @@ horizontal rules, and if their lack of configurability makes them
 still less attractive, so much the better for the design of your
 document.
 
-
-----
-
-Content last updated: 2014-06-10

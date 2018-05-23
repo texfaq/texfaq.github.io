@@ -1,3 +1,7 @@
+---
+ID: Q-wdnohyph
+revised: 2014-06-10
+---
 # Preventing hyphenation of a particular word
 
 It's quite possible for (_any_) hyphenation of a particular word
@@ -45,7 +49,3 @@ will stop hyphenation of upper-case words.  (Note that Plain TeX
 syntax is needed here: there's no LaTeX alternative for setting
 this value.)
 
-
-----
-
-Content last updated: 2014-06-10

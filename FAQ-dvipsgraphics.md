@@ -1,3 +1,7 @@
+---
+ID: Q-dvipsgraphics
+revised: 2014-06-10
+---
 # Imported graphics in `dvips`
 
 `Dvips`, as originally conceived, can only import a single
@@ -34,7 +38,3 @@ assuming that capability destroys portability, and is only
 recommendable if you are sure you will never want to share your
 document.
 
-
-----
-
-Content last updated: 2014-06-10

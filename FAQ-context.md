@@ -1,3 +1,7 @@
+---
+ID: Q-context
+revised: 2014-06-10
+---
 # What is ConTeXt?
 
 [ConTeXt](http://www.pragma-ade.com/) is a macro package
@@ -53,7 +57,3 @@ makes no claim about its ''up-to-date''ness.  Likewise, CTAN
 holds a few contributed ConTeXt packages, but many more are to be
 found via the [ConTeXt garden](http://ConTeXtgarden.net).
 
-
-----
-
-Content last updated: 2014-06-10

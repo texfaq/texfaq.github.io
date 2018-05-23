@@ -1,3 +1,7 @@
+---
+ID: Q-driver
+revised: 2014-06-10
+---
 # What is a DVI driver?
 
 A DVI driver is a program that takes as input a
@@ -21,7 +25,3 @@ For more information on the forms of font information, see
 [virtual fonts](./FAQ-virtualfonts.html)
 and [Using PostScript fonts with TeX](./FAQ-usepsfont.html).
 
-
-----
-
-Content last updated: 2014-06-10

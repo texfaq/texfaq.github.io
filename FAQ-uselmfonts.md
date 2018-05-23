@@ -1,3 +1,7 @@
+---
+ID: Q-uselmfonts
+revised: 2014-06-10
+---
 # Using the Latin Modern fonts
 
 The [`lm`](https://ctan.org/pkg/lm) fonts are an exciting addition to
@@ -56,7 +60,3 @@ for text, and
 if you want to use any of the TS1-encoding symbols.  There is
 no support for using fonts according to the OT1 encoding.
 
-
-----
-
-Content last updated: 2014-06-10

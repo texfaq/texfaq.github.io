@@ -1,3 +1,7 @@
+---
+ID: Q-exscale
+revised: 2014-06-10
+---
 # Maths symbols don't scale up
 
 By default, the ''large'' maths symbols stay at the same size
@@ -11,7 +15,3 @@ slightly odd-looking documents.  If you want the fonts to scale,
 despite the warning above, use the [`exscale`](https://ctan.org/pkg/exscale) package&nbsp;&mdash; just
 loading it is enough.
 
-
-----
-
-Content last updated: 2014-06-10

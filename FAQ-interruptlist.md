@@ -1,3 +1,7 @@
+---
+ID: Q-interruptlist
+revised: 2014-06-10
+---
 # Interrupting enumerated lists
 
 It's often convenient to have commentary text, ''outside'' the list,
@@ -125,7 +129,3 @@ However, the ''nested comment'' interpolated in the nested enumeration
 appears as if it were a second paragraph to ''outer item 2'', which is
 hardly satisfactory.
 
-
-----
-
-Content last updated: 2014-06-10

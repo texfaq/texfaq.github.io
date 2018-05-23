@@ -1,3 +1,7 @@
+---
+ID: Q-biblatex
+revised: 2014-06-10
+---
 # Replacing the BibTeX&ndash;LaTeX mechanism
 
 Producing a successor to BibTeX has long been a favoured activity
@@ -86,7 +90,3 @@ produce a usable [`amsrefs`](https://ctan.org/pkg/amsrefs) bibliography database
 [`Amsrefs`](https://ctan.org/pkg/Amsrefs) is maintained by the AMS as part of its author
 support programme,
 
-
-----
-
-Content last updated: 2014-06-10

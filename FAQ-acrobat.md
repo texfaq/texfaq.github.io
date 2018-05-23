@@ -1,3 +1,7 @@
+---
+ID: Q-acrobat
+revised: 2014-06-10
+---
 # Making PDF documents from (La)TeX
 
 There are three general routes to PDF output: Adobe's original
@@ -67,7 +71,3 @@ cycle of ''Edit&rarr;Process&rarr;Preview'' become
 rather clumsy&nbsp;&mdash; [`gsview`](http://www.ghostgum.com.au/)
 doesn't make the same mistake.
 
-
-----
-
-Content last updated: 2014-06-10

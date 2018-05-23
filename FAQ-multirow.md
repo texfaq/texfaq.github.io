@@ -1,3 +1,7 @@
+---
+ID: Q-multirow
+revised: 2014-06-10
+---
 # Merging cells in a column of a table
 
 It's easy to come up with a table design that requires a cell that
@@ -85,7 +89,3 @@ rows in the multi-row have been opened up with `\bigstrut`.
 The documentation of both [`multirow`](https://ctan.org/pkg/multirow) and [`bigstrut`](https://ctan.org/pkg/bigstrut) is
 to be found, as comments, in the package files themselves.
 
-
-----
-
-Content last updated: 2014-06-10

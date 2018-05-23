@@ -1,3 +1,7 @@
+---
+ID: Q-marginmanual
+revised: 2014-06-10
+---
 # How to set up page layout ''by hand''
 
 So you're eager to do it yourself, notwithstanding the cautions
@@ -45,7 +49,3 @@ be set to be 1&nbsp;inch less than the true margin; for margins closer to
 the left and top edges of the page than 1&nbsp;inch, the margin parameters
 must be set to negative values.
 
-
-----
-
-Content last updated: 2014-06-10

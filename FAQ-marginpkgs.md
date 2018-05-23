@@ -1,3 +1,7 @@
+---
+ID: Q-marginpkgs
+revised: 2014-06-10
+---
 # Packages to set up page designs
 
 There are two trustworthy tools for adjusting the dimensions and position of the
@@ -22,7 +26,3 @@ canned set of paper sizes (a superset of that provided in LaTeX 2e),
 provision for custom paper, margin adjustments and provision for
 two-sided printing.
 
-
-----
-
-Content last updated: 2014-06-10

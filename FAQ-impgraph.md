@@ -1,3 +1,7 @@
+---
+ID: Q-impgraph
+revised: 2014-06-10
+---
 # Importing graphics into (La)TeX documents
 
 Knuth, when designing the current version of TeX back in the early
@@ -90,7 +94,3 @@ has been written by Ian Hutchinson; the document isn't on CTAN,
 but may also be
 [browsed on the Web](http://silas.psfc.mit.edu/elec_fig/).
 
-
-----
-
-Content last updated: 2014-06-10

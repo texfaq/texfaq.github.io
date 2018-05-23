@@ -1,3 +1,7 @@
+---
+ID: Q-empty
+revised: 2014-06-10
+---
 # Detecting that something is empty
 
 Suppose you need to know that the argument of your command is empty:
@@ -28,7 +32,3 @@ third argument.  The package's code also appears in the LaTeX
 issue in number two of the ''around the bend'' articles by the late
 lamented Mike Downes.
 
-
-----
-
-Content last updated: 2014-06-10

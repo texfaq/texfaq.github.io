@@ -1,3 +1,7 @@
+---
+ID: Q-symbols
+revised: 2014-06-10
+---
 # Where can I find the symbol for &hellip;
 
 There is a wide range of symbols available for use with TeX, most
@@ -36,7 +40,3 @@ symbols:
 
   are processed versions PDF form for both A4 and letter paper.
 
-
-----
-
-Content last updated: 2014-06-10

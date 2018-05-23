@@ -1,3 +1,7 @@
+---
+ID: Q-xspace
+revised: 2014-06-10
+---
 # Commands gobble following space
 
 People are forever surprised that simple commands gobble the space
@@ -55,7 +59,3 @@ which can be confusing, notably to a collaborating author
 don't).  No command built into LaTeX or into any
 ''standard'' class or package will use `\xspace`.
 
-
-----
-
-Content last updated: 2014-06-10

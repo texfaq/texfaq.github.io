@@ -1,3 +1,7 @@
+---
+ID: Q-newfunction
+revised: 2014-06-10
+---
 # Defining a new log-like function in LaTeX
 
 Use the `\mathop` command, as in:
@@ -40,7 +44,3 @@ As with `\DeclareMathOperator` there's a starred version
 (It should be noted that ''log-like'' was reportedly a _joke_ on
 Lamport's part; it is of course clear what was meant.)
 
-
-----
-
-Content last updated: 2014-06-10

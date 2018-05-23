@@ -1,3 +1,7 @@
+---
+ID: Q-manymathalph
+revised: 2014-06-10
+---
 # Too many math alphabets
 
 TeX mathematics is one of its most impressive features, yet the
@@ -44,7 +48,3 @@ similarly setting
 ```
 Before loading the package.
 
-
-----
-
-Content last updated: 2014-06-10

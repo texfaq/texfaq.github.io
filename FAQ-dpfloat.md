@@ -1,3 +1,7 @@
+---
+ID: Q-dpfloat
+revised: 2014-06-10
+---
 # Facing floats on 2-page spread
 
 If a pair of floats need to be forced to form a 2-page spread (in a
@@ -65,7 +69,3 @@ which would produce:
   &hellip;
   Table 3: A table (cont.)
 
-
-----
-
-Content last updated: 2014-06-10

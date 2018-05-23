@@ -1,3 +1,7 @@
+---
+ID: Q-epigraph
+revised: 2014-06-10
+---
 # Typesetting epigraphs
 
 Epigraphs are those neat quotations that authors put at the start of
@@ -62,7 +66,3 @@ The [`memoir`](https://ctan.org/pkg/memoir) class offers all the facilities of t
 commands `\setchapterpreamble` and `\dictum` to provide these
 facilities.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-casechange
+revised: 2014-06-10
+---
 # Case-changing oddities
 
 TeX provides two primitive commands `\uppercase` and
@@ -56,7 +60,3 @@ commands (_not_ the TeX primitive commands `\uppercase` and
 `\lowercase`), so that section headings and the like don't produce
 broken page headings.
 
-
-----
-
-Content last updated: 2014-06-10

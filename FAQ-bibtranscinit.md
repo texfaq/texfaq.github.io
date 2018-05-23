@@ -1,3 +1,7 @@
+---
+ID: Q-bibtranscinit
+revised: 2014-06-10
+---
 # ''Multi-letter'' initials in BibTeX
 
 If your bibliographic style uses initials&nbsp;+ surname, you may encounter
@@ -72,7 +76,3 @@ with given names first, the trick:
 doesn't work&nbsp;&mdash; ''de F. Forster'' is treated as a compound family
 names.
 
-
-----
-
-Content last updated: 2014-06-10

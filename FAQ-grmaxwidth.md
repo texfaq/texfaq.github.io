@@ -1,3 +1,7 @@
+---
+ID: Q-grmaxwidth
+revised: 2014-06-10
+---
 # Limit the width of imported graphics
 
 Suppose you have graphics which may or may not be able to fit within
@@ -29,7 +33,3 @@ Use the command as follows:
 \includegraphics[width=\maxwidth]{figure}
 ```
 
-
-----
-
-Content last updated: 2014-06-10

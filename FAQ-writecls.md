@@ -1,3 +1,7 @@
+---
+ID: Q-writecls
+revised: 2014-06-10
+---
 # Learning to write LaTeX classes and packages
 
 There's nothing particularly magic about the commands you use when
@@ -37,7 +41,3 @@ as it appears in `classes.dtx`, was published in
 TUGboat 28(1).  The article, by Peter Flynn, is a good guide to
 understanding `classes.dtx`
 
-
-----
-
-Content last updated: 2014-06-10

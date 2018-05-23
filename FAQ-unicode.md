@@ -1,3 +1,7 @@
+---
+ID: Q-unicode
+revised: 2014-06-10
+---
 # Unicode and TeX
 
 Unicode is a character code scheme that has the capacity to express
@@ -28,7 +32,3 @@ application which part(s) of the Unicode space it covers; the tables
 enable the engines to decide which font to use for which character
 (assuming there is any choice at all).
 
-
-----
-
-Content last updated: 2014-06-10

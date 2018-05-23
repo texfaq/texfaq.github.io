@@ -1,3 +1,7 @@
+---
+ID: Q-spell
+revised: 2014-06-10
+---
 # Spelling checkers for work with TeX
 
 ''Traditional'' approaches to the problem (of checking your spelling) were
@@ -52,7 +56,3 @@ shows the end result; it includes words such as ''spellling'', which are
 duly highlighted.)
   dictionaries (under subdirectory `dict/`) that you need.
 
-
-----
-
-Content last updated: 2014-06-10

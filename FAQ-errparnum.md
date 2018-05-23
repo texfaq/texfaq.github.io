@@ -1,3 +1,7 @@
+---
+ID: Q-errparnum
+revised: 2014-06-10
+---
 # Illegal parameter number in definition
 
 The error message means what it says.  In the simple case, you've
@@ -35,7 +39,3 @@ the code of another macro.  This is explained elsewhere, separately
 for [LaTeX definitions](./FAQ-ltxhash.html) and for
 [TeX primitive definitions](./FAQ-hash.html)
 
-
-----
-
-Content last updated: 2014-06-10

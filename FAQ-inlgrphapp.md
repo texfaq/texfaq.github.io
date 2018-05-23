@@ -1,3 +1,7 @@
+---
+ID: Q-inlgrphapp
+revised: 2014-06-10
+---
 # In-line source for graphics applications
 
 Some of the free-standing graphics applications may also be used
@@ -41,7 +45,3 @@ In all cases (other than [`asymptote`](https://ctan.org/pkg/asymptote)), these p
 that you can 
 [run external programs from within your document](./FAQ-spawnprog.html).
 
-
-----
-
-Content last updated: 2014-06-10

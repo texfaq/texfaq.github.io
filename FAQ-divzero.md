@@ -1,3 +1,7 @@
+---
+ID: Q-divzero
+revised: 2014-06-10
+---
 # Graphics division by zero
 
 While the error
@@ -42,7 +46,3 @@ If you're using the simpler [`graphics`](https://ctan.org/pkg/graphics) package,
 ```
 <!-- {% endraw %} -->
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-usesymb
+revised: 2014-06-10
+---
 # Using symbols
 
 Most symbol font sets come with a package that defines commands for
@@ -33,7 +37,3 @@ font family and color specified in the arguments of
 clear; it is probably the best tool to use for picking and choosing
 symbols from a variety of font families.
 
-
-----
-
-Content last updated: 2014-06-10

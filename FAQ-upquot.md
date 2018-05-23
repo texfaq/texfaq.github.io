@@ -1,3 +1,7 @@
+---
+ID: Q-upquot
+revised: 2014-06-10
+---
 # Realistic quotes for verbatim listings
 
 The `cmtt` font has ''curly'' quotes,
@@ -11,7 +15,3 @@ particularly in those of Unix-like shell scripts.  The
 `verbatim` environment so that the output is a clearer
 representation of what the user must type.
 
-
-----
-
-Content last updated: 2014-06-10

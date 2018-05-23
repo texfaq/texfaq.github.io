@@ -1,3 +1,7 @@
+---
+ID: Q-replstdcls
+revised: 2014-06-10
+---
 # Replacing the standard classes
 
 People are forever concocting classes that replace the standard ones:
@@ -29,7 +33,3 @@ The other comparable class is [`memoir`](https://ctan.org/pkg/memoir).  This aim
 spoken of, and its lengthy introductory section is regularly
 recommended as a tutorial on typesetting.
 
-
-----
-
-Content last updated: 2014-06-10

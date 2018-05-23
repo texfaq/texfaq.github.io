@@ -1,3 +1,7 @@
+---
+ID: Q-subsubsub
+revised: 2014-06-10
+---
 # How to create a `\subsubsubsection`
 
 LaTeX's set of ''sections'' stops at the level of
@@ -35,7 +39,3 @@ rigorous stickler for symmetry&nbsp;&mdash; it would surely challenge pretty
 much anyone's reading of the source of a document, if there was a need
 to distinguish `\subsubsubsection` and `\subsubsubsubsection`
 
-
-----
-
-Content last updated: 2014-06-10

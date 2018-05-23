@@ -1,3 +1,7 @@
+---
+ID: Q-newlineargs
+revised: 2014-06-10
+---
 # Start of line goes awry
 
 This answer concerns two sorts of problems: errors of the form
@@ -54,7 +58,3 @@ Note that the [`amsmath`](https://ctan.org/pkg/amsmath) package modifies the beh
 `eqnarray` example doesn't need any special action
 (`\relax` or braces).
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-struttab
+revised: 2014-06-10
+---
 # Spacing lines in tables
 
 (La)TeX mechanisms for maintaining the space between lines (the
@@ -81,7 +85,3 @@ author's scheme, but deals with inter-row spacing too.  The most
 recent release of [`booktabs`](https://ctan.org/pkg/booktabs) sports compatibility with
 packages such as [`longtable`](https://ctan.org/pkg/longtable).
 
-
-----
-
-Content last updated: 2014-06-10

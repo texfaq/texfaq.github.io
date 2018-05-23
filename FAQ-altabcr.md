@@ -1,3 +1,7 @@
+---
+ID: Q-altabcr
+revised: 2014-06-10
+---
 # Alignment tab changed to `\cr`
 
 This is an error you may encounter in LaTeX when a tabular
@@ -70,7 +74,3 @@ changed (in the same way as any counter):
 \setcounter{MaxMatrixCols}{20}
 ```
 
-
-----
-
-Content last updated: 2014-06-10

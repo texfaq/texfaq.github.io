@@ -1,3 +1,7 @@
+---
+ID: Q-fontname
+revised: 2014-06-10
+---
 # What is the ''Berry naming scheme''?
 
 In the olden days, (La)TeX distributions were limited by the
@@ -42,7 +46,3 @@ The whole scheme is outlined in the [`fontname`](https://ctan.org/pkg/fontname) 
 which includes extensive documentation and a set of tables of fonts
 whose names have been systematised.
 
-
-----
-
-Content last updated: 2014-06-10

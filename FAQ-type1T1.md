@@ -1,3 +1,7 @@
+---
+ID: Q-type1T1
+revised: 2014-06-10
+---
 # Finding ''8-bit'' Type&nbsp;1 fonts
 
 Elsewhere, answers to these FAQs recommend that you use an
@@ -99,7 +103,3 @@ mathematical fonts, which is a non-trivial undertaking&nbsp;&mdash;
 see [''choice of scalable fonts''](./FAQ-psfchoice.html).
   very large download)
 
-
-----
-
-Content last updated: 2014-06-10

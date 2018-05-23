@@ -1,3 +1,7 @@
+---
+ID: Q-recovertex
+revised: 2014-06-10
+---
 # Retrieving (La)TeX from DVI, etc.
 
 The job just can't be done automatically: DVI, PostScript and
@@ -46,7 +50,3 @@ also arise from the oddity of typical TeX font encodings (notably
 those of the maths fonts), which `Acrobat` doesn't know how
 to map to its standard Unicode representation.
 
-
-----
-
-Content last updated: 2014-06-10

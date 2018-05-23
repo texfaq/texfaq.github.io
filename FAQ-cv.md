@@ -1,3 +1,7 @@
+---
+ID: Q-cv
+revised: 2014-06-10
+---
 # _Curriculum Vitae_ (R&eacute;sum&eacute;)
 
 Andrej Brodnik's class, [`vita`](https://ctan.org/pkg/vita), offers a framework for producing
@@ -34,7 +38,3 @@ FAQ team.  Its output certainly looks good.
 There is also a LaTeX 2.09 package [`resume`](https://ctan.org/pkg/resume), which comes with
 little but advice _against_ trying to use it.
 
-
-----
-
-Content last updated: 2014-06-10

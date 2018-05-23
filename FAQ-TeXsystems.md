@@ -1,3 +1,7 @@
+---
+ID: Q-TeXsystems
+revised: 2014-06-10
+---
 # (La)TeX for different machines
 
 We list here the free or shareware packages;
@@ -16,7 +20,3 @@ The list is provided in four answers:
 -  TeX systems for 
     [Other sorts of systems](./FAQ-sysother.html)
 
-
-----
-
-Content last updated: 2014-06-10

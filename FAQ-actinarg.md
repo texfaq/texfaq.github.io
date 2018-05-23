@@ -1,3 +1,7 @@
+---
+ID: Q-actinarg
+revised: 2014-06-10
+---
 # Active characters in command arguments
 
 Occasionally, it's nice to make one or two characters active in the
@@ -74,7 +78,3 @@ same way as `\verb` (see
 `\chord` won't work inside the argument of another command (the
 error messages, if they appear at all, will probably be rather odd).
 
-
-----
-
-Content last updated: 2014-06-10

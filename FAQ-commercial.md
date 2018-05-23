@@ -1,3 +1,7 @@
+---
+ID: Q-commercial
+revised: 2014-06-10
+---
 # Commercial TeX implementations
 
 There are many commercial implementations of TeX. The first
@@ -114,7 +118,3 @@ that was established in 2003; the remaining usable content of
 Y&Y's web site is available at
 [http://www.tug.org/yandy/](http://www.tug.org/yandy/)
 
-
-----
-
-Content last updated: 2014-06-10

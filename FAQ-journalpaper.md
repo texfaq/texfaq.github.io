@@ -1,3 +1,7 @@
+---
+ID: Q-journalpaper
+revised: 2014-06-10
+---
 # Setting papers for journals
 
 Publishers of journals have a wide range of requirements for the
@@ -24,7 +28,3 @@ really matter what macros you use.  Others merely encourage you to use
 as few extensions of a standard package as possible, so that they will
 find it easy to transform your paper to their own internal form.
 
-
-----
-
-Content last updated: 2014-06-10

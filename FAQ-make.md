@@ -1,3 +1,7 @@
+---
+ID: Q-make
+revised: 2014-06-10
+---
 # Makefiles for LaTeX documents
 
 LaTeX documents are tricky beasts for building using
@@ -65,7 +69,3 @@ The curious may examine the rules employed to run the present
 FAQ through LaTeX: we don't present them as a complete
 solution, but some of the tricks employed are surely re-usable.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-alreadydef
+revised: 2014-06-10
+---
 # Package reports ''command already defined''
 
 You load a pair of packages, and the second reports that one of the
@@ -47,7 +51,3 @@ and making the [`txfonts`](https://ctan.org/pkg/txfonts) version of the command 
 Documentation of [`savesym`](https://ctan.org/pkg/savesym) doesn't amount to much: the only
 commands are `\savesymbol` and `\restoresymbol`, as noted above.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-toascii
+revised: 2014-06-10
+---
 # Conversion from (La)TeX to plain text
 
 The aim here is to emulate the Unix `nroff`, which formats
@@ -50,7 +54,3 @@ Another significant possibility is to use one of the
 and then to use a browser such as `lynx` to dump the resulting
 HTML as plain text.
 
-
-----
-
-Content last updated: 2014-06-10

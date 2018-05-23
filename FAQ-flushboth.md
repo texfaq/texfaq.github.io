@@ -1,3 +1,7 @@
+---
+ID: Q-flushboth
+revised: 2014-06-10
+---
 # Cancelling `\ragged` commands
 
 LaTeX provides commands `\raggedright` and `\raggedleft`, but
@@ -30,7 +34,3 @@ package has a `\justifying` command to match its
 package also provides a `justify` environment, which
 permits areas of justified text in a larger area which is ragged.
 
-
-----
-
-Content last updated: 2014-06-10

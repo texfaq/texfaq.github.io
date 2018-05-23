@@ -1,3 +1,7 @@
+---
+ID: Q-slashbox
+revised: 2014-06-10
+---
 # Diagonal separation in corner cells of tables
 
 You want to label both the top or bottom row and the left- or
@@ -32,7 +36,3 @@ The [`diagbox`](https://ctan.org/pkg/diagbox) package supersedes [`slashbox`](ht
 package's commands `\slashbox` and `\backslashbox` are provided
 in a compatible way in the newer package, to ease transition.
 
-
-----
-
-Content last updated: 2014-06-10

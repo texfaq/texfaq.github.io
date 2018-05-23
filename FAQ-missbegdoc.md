@@ -1,3 +1,7 @@
+---
+ID: Q-missbegdoc
+revised: 2014-06-10
+---
 # Missing `\begin`{document}
 
 The _preamble_ of your document is the stuff before
@@ -69,7 +73,3 @@ afflicted GNU Emacs users.)
 Fortunately XeTeX and LuaTeX know about BOMs and what to
 do with them, so LaTeX using them is ''safe''.
 
-
-----
-
-Content last updated: 2014-06-10

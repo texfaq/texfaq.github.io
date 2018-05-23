@@ -1,3 +1,7 @@
+---
+ID: Q-t1enc
+revised: 2014-06-10
+---
 # Why use [`fontenc`](https://ctan.org/pkg/fontenc) rather than [`t1enc`](https://ctan.org/pkg/t1enc)?
 
 In the very earliest days of LaTeX 2e, the only way to use the
@@ -25,7 +29,3 @@ So, unless you have program-generated T1 input (which is almost
 inconceivable), use `\usepackage[T1]{fontenc}` rather than
 `\usepackage{t1enc}`.
 
-
-----
-
-Content last updated: 2014-06-10

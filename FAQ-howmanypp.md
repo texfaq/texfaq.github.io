@@ -1,3 +1,7 @@
+---
+ID: Q-howmanypp
+revised: 2014-06-10
+---
 # How many pages are there in my document?
 
 Simple documents (those that start at page 1, and don't have any
@@ -28,7 +32,3 @@ to the equivalent of the `LastPage` label and the
 Both [`count1to`](https://ctan.org/pkg/count1to) and [`totpages`](https://ctan.org/pkg/totpages) need the support of
 the [`everyshi`](https://ctan.org/pkg/everyshi) package.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-pagebychap
+revised: 2014-06-10
+---
 # Page numbering by chapter
 
 When I was a young man, a common arrangement for loose bound technical
@@ -19,7 +23,3 @@ Users have been known to ask for running page numbers within a
 section, but this really doesn't make sense: you need to run page
 numbers within document objects that always start on a fresh page.
 
-
-----
-
-Content last updated: 2014-06-10

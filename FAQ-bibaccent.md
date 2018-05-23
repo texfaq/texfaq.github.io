@@ -1,3 +1,7 @@
+---
+ID: Q-bibaccent
+revised: 2014-06-10
+---
 # Accents in bibliographies
 
 BibTeX not only has a tendency (by default) to mess about with the
@@ -7,7 +11,3 @@ also makes a hash of accent commands:
 enclose the troublesome sequence in braces, as
 `{\~n}`, in this example.
 
-
-----
-
-Content last updated: 2014-06-10

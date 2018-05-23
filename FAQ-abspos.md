@@ -1,3 +1,7 @@
+---
+ID: Q-abspos
+revised: 2014-06-10
+---
 # Putting things at fixed positions on the page
 
 TeX's model of the world is (broadly speaking) that the author
@@ -21,7 +25,3 @@ other rather stilted commands of `picture`-mode.
 ([`Eso-pic`](https://ctan.org/pkg/Eso-pic) requires the services of [`everyshi`](https://ctan.org/pkg/everyshi), which
 must therefore also be available.)
 
-
-----
-
-Content last updated: 2014-06-10

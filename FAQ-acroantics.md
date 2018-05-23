@@ -1,3 +1,7 @@
+---
+ID: Q-acroantics
+revised: 2014-06-10
+---
 # Adobe `Reader` messing with print size
 
 Printing from Adobe `Reader` shrinks the page ''to fit''
@@ -28,7 +32,3 @@ to the next:
     checkbox is unchecked.  It may also be useful to uncheck the
     ''Expand small pages to fit paper size'' checkbox as well.
 
-
-----
-
-Content last updated: 2014-06-10

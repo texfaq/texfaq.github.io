@@ -1,3 +1,7 @@
+---
+ID: Q-spawnprog
+revised: 2014-06-10
+---
 # Spawning programs from (La)TeX: `\write18`
 
 The TeX [`\write` primitive instruction](./FAQ-write.html) is used
@@ -51,7 +55,3 @@ This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010)
 ```
 when it starts.
 
-
-----
-
-Content last updated: 2014-06-10

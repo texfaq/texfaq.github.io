@@ -1,3 +1,7 @@
+---
+ID: Q-nofm
+revised: 2014-06-10
+---
 # Page numbering ''&lsaquo;_n_&rsaquo; of &lsaquo;_m_&rsaquo;''
 
 Finding the page number of the last page of a document, from within
@@ -11,7 +15,3 @@ The documentation of the [`fancyhdr`](https://ctan.org/pkg/fancyhdr) package spe
 how one might actually use this information to produce page numbering
 as suggested in the question.
 
-
-----
-
-Content last updated: 2014-06-10

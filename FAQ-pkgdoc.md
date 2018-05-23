@@ -1,3 +1,7 @@
+---
+ID: Q-pkgdoc
+revised: 2014-06-10
+---
 # Documentation of packages
 
 These FAQs regularly suggest packages that will ''solve''
@@ -84,7 +88,3 @@ mortals will seek support from some more experienced user at this
 stage, though it _is_ possible to proceed in the way that the original
 author apparently expected&hellip;by reading his code.
 
-
-----
-
-Content last updated: 2014-06-10

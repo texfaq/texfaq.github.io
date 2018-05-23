@@ -1,3 +1,7 @@
+---
+ID: Q-bibstrtl
+revised: 2014-06-10
+---
 # ''String too long'' in BibTeX
 
 The BibTeX diagnostic ''Warning&ndash;you've exceeded 1000, the
@@ -47,7 +51,3 @@ In this way, you arrange that all BibTeX has to deal with is the
 file name, though it will tell TeX (when appropriate) to include
 all the long text.
 
-
-----
-
-Content last updated: 2014-06-10

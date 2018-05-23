@@ -1,3 +1,7 @@
+---
+ID: Q-isitanum
+revised: 2014-06-10
+---
 # Is the argument a number?
 
 TeX's own lexical analysis doesn't offer the macro programmer
@@ -127,7 +131,3 @@ thus using TeX's own integer-parsing code to do the check.  It's a
 pity that such a mechanism was never defined (it could be that it's
 impossible to program within TeX!).
 
-
-----
-
-Content last updated: 2014-06-10

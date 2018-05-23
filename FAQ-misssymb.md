@@ -1,3 +1,7 @@
+---
+ID: Q-misssymb
+revised: 2014-06-10
+---
 # Missing symbol commands
 
 You're processing an old document, and some symbol commands such as
@@ -8,7 +12,3 @@ the LaTeX distribution), and in the [`amsfonts`](https://ctan.org/pkg/amsfonts) 
 (which is part of the AMS distribution, and requires AMS
 symbol fonts).
 
-
-----
-
-Content last updated: 2014-06-10

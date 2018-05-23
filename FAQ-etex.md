@@ -1,3 +1,7 @@
+---
+ID: Q-etex
+revised: 2014-06-10
+---
 # What is &epsilon;-TeX?
 
 While Knuth has declared that TeX will never 
@@ -36,7 +40,3 @@ work, but not as well as on an &epsilon;-TeX system.  The
 packages (specifically those from the team, as opposed to those
 individually contributed) may require &epsilon;-TeX for optimum performance.
 
-
-----
-
-Content last updated: 2014-06-10

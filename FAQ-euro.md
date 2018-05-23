@@ -1,3 +1,7 @@
+---
+ID: Q-euro
+revised: 2014-06-10
+---
 # Typesetting the Euro sign
 
 The European currency ''Euro'' (&#x20ac;) is represented by a symbol
@@ -88,7 +92,3 @@ Other MetaFont-based bundles containing Euro symbols are to be found in
 [`china2e`](https://ctan.org/pkg/china2e) (whose primary aim is Chinese dates and suchlike
 matters) and the [`eurosym`](https://ctan.org/pkg/eurosym) fonts.
 
-
-----
-
-Content last updated: 2014-06-10

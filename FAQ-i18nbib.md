@@ -1,3 +1,7 @@
+---
+ID: Q-i18nbib
+revised: 2014-06-10
+---
 # Non-english bibliographies
 
 Like so much of early (La)TeX software, BibTeX's assumptions were
@@ -48,7 +52,3 @@ language, you are asked whether you want the style to interact with
 worlds&nbsp;&mdash; formatting freedom from [`custom-bib`](https://ctan.org/pkg/custom-bib) and linguistic
 freedom via the extensibility of [`babelbib`](https://ctan.org/pkg/babelbib)
 
-
-----
-
-Content last updated: 2014-06-10

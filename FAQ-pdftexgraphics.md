@@ -1,3 +1,7 @@
+---
+ID: Q-pdftexgraphics
+revised: 2014-06-10
+---
 # Imported graphics in pdfLaTeX
 
 pdfTeX itself has a rather wide range of formats that it can
@@ -64,7 +68,3 @@ pdfLaTeX, and also covers the [`pstricks`](https://ctan.org/pkg/pstricks)-specif
 Herbert Vo&szlig;'s page) is [`pdftricks2`](https://ctan.org/pkg/pdftricks2), which offers similar
 facilities to [`pdftricks`](https://ctan.org/pkg/pdftricks), but with some useful variations.
 
-
-----
-
-Content last updated: 2014-06-10

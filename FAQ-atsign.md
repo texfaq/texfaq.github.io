@@ -1,3 +1,7 @@
+---
+ID: Q-atsign
+revised: 2014-06-10
+---
 # How to type an ''@'' sign?
 
 Long ago, some packages used to use the ''@'' sign as a special
@@ -9,7 +13,3 @@ documentation.
 Ordinary people (such as the author of this FAQ) need only type
 ''@''.
 
-
-----
-
-Content last updated: 2014-06-10

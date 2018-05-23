@@ -1,3 +1,7 @@
+---
+ID: Q-scriptfonts
+revised: 2014-06-10
+---
 # Better script fonts for maths
 
 The font selected by `\mathcal` is the only script font ''built
@@ -57,7 +61,3 @@ modern TeX distributions.
 Examples of the available styles are linked from the packages'
 catalogue entries.
 
-
-----
-
-Content last updated: 2014-06-10

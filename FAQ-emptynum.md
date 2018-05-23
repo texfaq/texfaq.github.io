@@ -1,3 +1,7 @@
+---
+ID: Q-emptynum
+revised: 2014-06-10
+---
 # I asked for ''empty'', but the page is numbered
 
 If you use `\pagestyle{empty}` and you find some pages are
@@ -25,7 +29,3 @@ A similar technique doesn't work for a [`book`](https://ctan.org/pkg/book) or [`
 `\part` command pages.  For that, and for other detail, take look
 at ''[getting rid of page numbers](./FAQ-nopageno.html)''.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-extrabrace
+revised: 2014-06-10
+---
 # An extra ``}'??
 
 You've looked at your LaTeX source and there's no sign of a misplaced
@@ -62,7 +66,3 @@ Footnotes can be even more complex;
 ''[footnotes in LaTeX section headings](./FAQ-ftnsect.html)''
 deals specifically with that issue.
 
-
-----
-
-Content last updated: 2014-06-10

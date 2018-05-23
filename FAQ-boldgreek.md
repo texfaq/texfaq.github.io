@@ -1,3 +1,7 @@
+---
+ID: Q-boldgreek
+revised: 2014-06-10
+---
 # Setting bold Greek letters in LaTeX maths
 
 The issue here is complicated by the fact that `\mathbf` (the
@@ -41,7 +45,3 @@ These problems may be addressed by using a bold mathematics package.
 All these solutions apply to all mathematical symbols, not merely
 Greek letters.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-verbfile
+revised: 2014-06-10
+---
 # Including a file verbatim in LaTeX
 
 A good way is to use Rainer Sch&ouml;pf's [`verbatim`](https://ctan.org/pkg/verbatim) package,
@@ -47,7 +51,3 @@ advised.
 The [`memoir`](https://ctan.org/pkg/memoir) class includes the relevant functionality of the
 [`verbatim`](https://ctan.org/pkg/verbatim) and [`moreverb`](https://ctan.org/pkg/moreverb) packages.
 
-
-----
-
-Content last updated: 2014-06-10

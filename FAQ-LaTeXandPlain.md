@@ -1,3 +1,7 @@
+---
+ID: Q-LaTeXandPlain
+revised: 2014-06-10
+---
 # How does LaTeX relate to Plain TeX?
 
 TeX provides a programming language (of sorts), and any document
@@ -28,7 +32,3 @@ So, Plain TeX and LaTeX are related through a common parent, and
 are designed for use in similar jobs; programming for one will often
 not work correctly in the other.
 
-
-----
-
-Content last updated: 2014-06-10

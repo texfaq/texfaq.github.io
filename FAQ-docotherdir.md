@@ -1,3 +1,7 @@
+---
+ID: Q-docotherdir
+revised: 2014-06-10
+---
 # Bits of document from other directories
 
 A common way of constructing a large document is to break it into a
@@ -57,7 +61,3 @@ provide a path to the file.  (There are also
 Documentation of [`chapterfolder`](https://ctan.org/pkg/chapterfolder) is in French, but the
 `README` in the directory is in English.
 
-
-----
-
-Content last updated: 2014-06-10

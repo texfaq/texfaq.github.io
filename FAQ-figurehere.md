@@ -1,3 +1,7 @@
+---
+ID: Q-figurehere
+revised: 2014-06-10
+---
 # Figure (or table) _exactly_ where I want it
 
 This is of course a contradiction: `figure` and
@@ -63,7 +67,3 @@ command:
 ```
 and the sequence of float numbers is all correct.
 
-
-----
-
-Content last updated: 2014-06-10

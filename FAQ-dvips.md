@@ -1,3 +1,7 @@
+---
+ID: Q-dvips
+revised: 2014-06-10
+---
 # DVI to PostScript conversion programs
 
 The best public domain DVI to PostScript conversion program, which
@@ -13,7 +17,3 @@ distribution of TeX for VMS.
 
 A precompiled version to work with emTeX is available on CTAN.
 
-
-----
-
-Content last updated: 2014-06-10

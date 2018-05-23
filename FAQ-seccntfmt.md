@@ -1,3 +1,7 @@
+---
+ID: Q-seccntfmt
+revised: 2014-06-10
+---
 # Adjusting the presentation of section numbers
 
 The general issues of adjusting the appearance of section headings are
@@ -62,7 +66,3 @@ changes to section number presentation: `\partformat`,
 `\chapterformat` and `\othersectionlevelsformat`, but otherwise
 their facilities are similar to those of ''raw'' LaTeX.
 
-
-----
-
-Content last updated: 2014-06-10

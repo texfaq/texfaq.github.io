@@ -1,3 +1,7 @@
+---
+ID: Q-triptrap
+revised: 2014-06-10
+---
 # How can I be sure it's really TeX?
 
 TeX (and MetaFont and MetaPost) are written in a
@@ -25,7 +29,3 @@ fonts, too; while [`trip`](https://ctan.org/pkg/trip) and [`trap`](https://ctan.
 pathways within the program, they don't actually test for any real
 world problem.)
 
-
-----
-
-Content last updated: 2014-06-10

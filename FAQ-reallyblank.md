@@ -1,3 +1,7 @@
+---
+ID: Q-reallyblank
+revised: 2014-06-10
+---
 # Really blank pages between chapters
 
 If you're using the standard classes, you need to take special action;
@@ -57,7 +61,3 @@ being an equivalent of `\cleardoublepage`).  One can achieve
 commands will also serve if you want the surreal effect of ''This page
 intentionally left blank'' in the center of an otherwise empty page.
 
-
-----
-
-Content last updated: 2014-06-10

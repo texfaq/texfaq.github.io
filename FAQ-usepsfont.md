@@ -1,3 +1,7 @@
+---
+ID: Q-usepsfont
+revised: 2014-06-10
+---
 # Using Adobe Type 1 fonts with TeX
 
 In order to use any font, TeX needs a
@@ -42,7 +46,3 @@ re-encoding mechanisms available in many drivers and in
 Some common problems encountered are discussed elsewhere
 (see [problems with PS fonts](./FAQ-psfontprob.html)).
 
-
-----
-
-Content last updated: 2014-06-10

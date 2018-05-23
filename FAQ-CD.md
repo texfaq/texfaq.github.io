@@ -1,3 +1,7 @@
+---
+ID: Q-CD
+revised: 2014-06-10
+---
 # The TeX collection
 
 If you don't have access to the Internet, there are obvious
@@ -36,7 +40,3 @@ More details of the collection are available from
   [its own web page](http://www.tug.org/texcollection/)
   on the TUG site.
 
-
-----
-
-Content last updated: 2014-06-10

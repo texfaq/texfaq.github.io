@@ -1,3 +1,7 @@
+---
+ID: Q-maillistsstar
+revised: 2016-08-18
+---
 # Specialist mailing lists
 
 The previous question, ''[getting help](./FAQ-gethelp.html)'', talked of
@@ -27,7 +31,3 @@ web-site](https://lists.dante.de/mailman/listinfo/ctan-ann); list archives
 are available at the same address.  An RSS feed is available at
 [https://ctan.org/ctan-ann](https://ctan.org/ctan-ann).
 
-
-----
-
-Content last updated: 2016-08-18

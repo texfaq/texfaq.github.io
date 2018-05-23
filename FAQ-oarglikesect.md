@@ -1,3 +1,7 @@
+---
+ID: Q-oarglikesect
+revised: 2014-06-10
+---
 # Optional arguments like `\section`
 
 Optional arguments, in macros defined using `\newcommand`, don't
@@ -36,7 +40,3 @@ In that code, `thing` is only ever called with an optional and a
 mandatory argument; if the default from the `\newcommand` is
 invoked, a bug in user code has bitten&hellip;
 
-
-----
-
-Content last updated: 2014-06-10

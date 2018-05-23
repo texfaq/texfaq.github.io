@@ -1,3 +1,7 @@
+---
+ID: Q-clsvpkg
+revised: 2014-06-10
+---
 # What are LaTeX classes and packages?
 
 LaTeX aims to be a general-purpose document processor.  Such an aim
@@ -50,7 +54,3 @@ option'').  It doesn't really matter that the nomenclature has
 changed: the important requirement is to understand what other people
 are talking about.
 
-
-----
-
-Content last updated: 2014-06-10

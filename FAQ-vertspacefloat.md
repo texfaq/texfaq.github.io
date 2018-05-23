@@ -1,3 +1,7 @@
+---
+ID: Q-vertspacefloat
+revised: 2014-06-10
+---
 # Extra vertical space in floats
 
 A common complaint is that extra vertical space has crept into
@@ -49,7 +53,3 @@ not work with obsolete (pre-LaTeX 2e) packages such as
 [graphics inclusion](./FAQ-impgraph.html) for discussion of the
 genesis of `\includegraphics`.
 
-
-----
-
-Content last updated: 2014-06-10

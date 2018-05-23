@@ -1,3 +1,7 @@
+---
+ID: Q-manyauthor
+revised: 2014-06-10
+---
 # BibTeX doesn't understand lists of names
 
 BibTeX has a strict syntax for lists of authors' (or editors')
@@ -44,7 +48,3 @@ distract attention from his co-authors, he would write:
 AUTHOR = {Fred Q. Bloggs and others}
 ```
 
-
-----
-
-Content last updated: 2014-06-10

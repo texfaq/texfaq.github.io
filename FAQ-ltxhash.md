@@ -1,3 +1,7 @@
+---
+ID: Q-ltxhash
+revised: 2014-06-10
+---
 # Defining LaTeX commands within other commands
 
 LaTeX command definition is significantly different from the TeX
@@ -53,7 +57,3 @@ argument, so:
 <!-- {% endraw %} -->
 is needed to produce a replica of the `\ghi` we defined earlier.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-semanticnest
+revised: 2014-06-10
+---
 # Capacity exceeded [semantic nest &hellip;]
 
 ```latex
@@ -43,7 +47,3 @@ _semantic nest_ or your permitted _grouping levels_ first is
 controlled entirely by the relative size of the two different sets of
 buffers in your (La)TeX executable.
 
-
-----
-
-Content last updated: 2014-06-10

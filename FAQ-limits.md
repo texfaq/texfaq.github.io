@@ -1,3 +1,7 @@
+---
+ID: Q-limits
+revised: 2014-06-10
+---
 # Sub- and superscript positioning for operators
 
 The commonest hand-written style for expressions is to place the limit
@@ -53,7 +57,3 @@ how limits are displayed, at definition time.
 its definition.  There is an example in the TeXbook to show how odd
 `\int``\limits` looks when typeset.)
 
-
-----
-
-Content last updated: 2014-06-10

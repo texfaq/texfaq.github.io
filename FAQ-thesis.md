@@ -1,3 +1,7 @@
+---
+ID: Q-thesis
+revised: 2014-06-10
+---
 # Formatting a thesis in LaTeX
 
 Thesis styles are usually very specific to your University, so it's
@@ -11,7 +15,3 @@ start is the University of California style, but remember that it's
 often difficult to produce a thesis that both looks good and conforms
 with the style that your Univeristy demands.
 
-
-----
-
-Content last updated: 2014-06-10

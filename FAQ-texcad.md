@@ -1,3 +1,7 @@
+---
+ID: Q-texcad
+revised: 2014-06-10
+---
 # TeXCAD, a drawing package for LaTeX
 
 TeXCAD is a program for the PC which enables the user to draw diagrams
@@ -11,7 +15,3 @@ TeXCAD is part of the emTeX distribution.
 
 A Unix port of the program (`xtexcad`) has been made.
 
-
-----
-
-Content last updated: 2014-06-10

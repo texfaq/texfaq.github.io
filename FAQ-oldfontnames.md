@@ -1,3 +1,7 @@
+---
+ID: Q-oldfontnames
+revised: 2014-06-10
+---
 # Old LaTeX font references such as `\tenrm`
 
 LaTeX 2.09 defined a large set of commands for access to the fonts
@@ -14,7 +18,3 @@ to use the unconverted LaTeX 2.09 packages under LaTeX 2e, you need
 also to include the [`rawfonts`](https://ctan.org/pkg/rawfonts) package (which is part of the
 LaTeX 2e distribution).
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-reuseq
+revised: 2014-06-10
+---
 # Re-using an equation
 
 To repeat an existing equation, one wants not only to have the same
@@ -21,7 +25,3 @@ Here, the second instance of a=b will be
 typeset with a copy, made by the `\tag` command, of the label of the
 first instance.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-htmlbib
+revised: 2014-06-10
+---
 # Making HTML of your Bibliography
 
 A neat solution is offered by the [`noTeX`](https://ctan.org/pkg/noTeX) bibliography style.
@@ -18,7 +22,3 @@ A more conventional translator is the `awk` script
 a sample of the script's output may be viewed on the web, at
 [http://rikblok.cjb.net/lib/refs.html]
 
-
-----
-
-Content last updated: 2014-06-10

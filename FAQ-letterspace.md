@@ -1,3 +1,7 @@
+---
+ID: Q-letterspace
+revised: 2014-06-10
+---
 # Changing the space between letters
 
 A common technique in advertising copy (and other text whose actual
@@ -37,7 +41,3 @@ for some font styles (for example, `fraktur`), and the
 package provides a means of protecting the ligatures in a
 letter-spaced text.
 
-
-----
-
-Content last updated: 2014-06-10

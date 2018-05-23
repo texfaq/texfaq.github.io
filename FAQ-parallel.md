@@ -1,3 +1,7 @@
+---
+ID: Q-parallel
+revised: 2014-06-10
+---
 # Parallel setting of text
 
 It's commonly necessary to present text in two languages ''together'' on a
@@ -49,7 +53,3 @@ setting carefully integrated with the needs of a scholarly text,
 permitting translation, or notes, or both, to be set in parallel with
 the ''base'' text of the document.
 
-
-----
-
-Content last updated: 2014-06-10

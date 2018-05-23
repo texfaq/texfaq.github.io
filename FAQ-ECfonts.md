@@ -1,3 +1,7 @@
+---
+ID: Q-ECfonts
+revised: 2014-06-10
+---
 # What are the EC fonts?
 
 A font provides a number of _glyphs_. In order that the glyphs
@@ -67,7 +71,3 @@ and use Unicode-encoded fonts (typically in `ttf` or
 `otf` formats).  The [`cm-unicode`](https://ctan.org/pkg/cm-unicode) fonts carry the
 flag in this arena, along with the Latin Modern set.
 
-
-----
-
-Content last updated: 2014-06-10

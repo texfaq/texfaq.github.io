@@ -1,3 +1,7 @@
+---
+ID: Q-getbitmap
+revised: 2014-06-10
+---
 # Acquiring bitmap fonts
 
 When CTAN was young, most people would start using TeX
@@ -48,7 +52,3 @@ More modern fonts may be used in place of the Computer Modern set.  The
 [Latin Modern fonts](./FAQ-uselmfonts.html) are both close relatives with
 wider ranges of glyphs to offer.
 
-
-----
-
-Content last updated: 2014-06-10

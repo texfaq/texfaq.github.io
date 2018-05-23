@@ -1,3 +1,7 @@
+---
+ID: Q-labelfig
+revised: 2014-06-10
+---
 # Labelling graphics
 
 ''Technical'' graphics (such as graphs and diagrams) are often
@@ -106,7 +110,3 @@ environment which itself includes the graphic.  I would recommend
 are plainly little more than a convenience over what is achievable
 with the do-it-yourself approach.
 
-
-----
-
-Content last updated: 2014-06-10

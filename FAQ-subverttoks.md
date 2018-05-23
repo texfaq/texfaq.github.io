@@ -1,3 +1,7 @@
+---
+ID: Q-subverttoks
+revised: 2014-06-10
+---
 # Subverting a token register
 
 A common requirement is to ''subvert'' a token register that other
@@ -39,7 +43,3 @@ and away we go.
 The form `\mypkg@...` is (sort of) blessed for LaTeX package
 internal names, which is why this example uses macros of that form.
 
-
-----
-
-Content last updated: 2014-06-10

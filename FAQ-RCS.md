@@ -1,3 +1,7 @@
+---
+ID: Q-RCS
+revised: 2014-06-10
+---
 # Version control using RCS, CVS or the like
 
 If you use RCS, CVS, `Subversion`,
@@ -72,7 +76,3 @@ currently claims to support `Bazaar`-controlled repositories.
 Finally, for now, the [`gitinfo`](https://ctan.org/pkg/gitinfo) package supports
 `Git`-controlled documents.
 
-
-----
-
-Content last updated: 2014-06-10

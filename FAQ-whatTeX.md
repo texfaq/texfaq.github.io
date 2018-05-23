@@ -1,3 +1,7 @@
+---
+ID: Q-whatTeX
+revised: 2014-06-10
+---
 # What is TeX?
 
 TeX is a typesetting system written by
@@ -38,7 +42,3 @@ practice aims for.  The processed ''readable'' source of TeX the
 program may be found in the 
   [TDS structured](./FAQ-tds.html) version of the distribution.
 
-
-----
-
-Content last updated: 2014-06-10

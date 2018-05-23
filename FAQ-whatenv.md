@@ -1,3 +1,7 @@
+---
+ID: Q-whatenv
+revised: 2014-06-10
+---
 # What are LaTeX ''environments''
 
 While TeX makes direct provision for commands, LaTeX adds a
@@ -94,7 +98,3 @@ have to wrap it in a macro of its own:
   {\typeout{what was \foo{}, again?}
 ```
 <!-- {% endraw %} -->
-
-----
-
-Content last updated: 2014-06-10

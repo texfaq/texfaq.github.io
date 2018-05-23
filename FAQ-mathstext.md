@@ -1,3 +1,7 @@
+---
+ID: Q-mathstext
+revised: 2014-06-10
+---
 # Text inside maths
 
 When we type maths in (La)TeX, the letters from which we make up
@@ -96,7 +100,3 @@ signs):
 \end{flalign}
 ```
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-LaTeXtoPlain
+revised: 2014-06-10
+---
 # Translating LaTeX to Plain TeX
 
 Unfortunately, no ''general'', simple, automatic process is likely to
@@ -25,7 +29,3 @@ an alternative target of translation, though it undoubtedly gives the
 user more than the ''bare minimum'' that Plain TeX is designed to
 offer.)
 
-
-----
-
-Content last updated: 2014-06-10

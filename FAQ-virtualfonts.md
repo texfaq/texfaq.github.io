@@ -1,3 +1,7 @@
+---
+ID: Q-virtualfonts
+revised: 2014-06-10
+---
 # What are virtual fonts?
 
 Virtual fonts provide a means of collecting bits and pieces together
@@ -54,7 +58,3 @@ together with the discussion of
 fonts (it uses TeX to parse a description of the virtual font, and
 `qdtexvpl` itself processes the resulting DVI file).
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-chapbib
+revised: 2014-06-10
+---
 # Separate bibliographies per chapter?
 
 A separate bibliography for each ''chapter'' of a document can be provided
@@ -33,7 +37,3 @@ Then process with LaTeX (of whatever flavour) and use
 `heading=bib title` to provide the bibliography with a
 (sub)section title.
 
-
-----
-
-Content last updated: 2014-06-10

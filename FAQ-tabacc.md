@@ -1,3 +1,7 @@
+---
+ID: Q-tabacc
+revised: 2014-06-10
+---
 # Accents misbehave in `tabbing`
 
 So you are constructing a `tabbing` environment, and you
@@ -47,7 +51,3 @@ example would therefore become:
   ...  ... \TAB> voil\`a \TAB> ...
 ```
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-widows
+revised: 2014-06-10
+---
 # Controlling widows and orphans
 
 Widows (the last line of a paragraph at the start of a page) and
@@ -53,7 +57,3 @@ length by one) seldom has the right effect&nbsp;&mdash; the looser paragraph
 typically has a one-word final line, which doesn't look much better
 than the original widow.
 
-
-----
-
-Content last updated: 2014-06-10

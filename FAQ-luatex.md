@@ -1,3 +1,7 @@
+---
+ID: Q-luatex
+revised: 2014-06-10
+---
 # pdfTeX and LuaTeX
 
 Elsewhere in these FAQs, we learn that development of
@@ -54,7 +58,3 @@ an ''official'' entity (yet), but useful packages are
 appearing (i.e., the CTAN path `macros/luatex/latex` holds
 several items).
 
-
-----
-
-Content last updated: 2014-06-10

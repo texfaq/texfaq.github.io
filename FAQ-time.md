@@ -1,3 +1,7 @@
+---
+ID: Q-time
+revised: 2014-06-10
+---
 # Printing the time
 
 TeX has a primitive register that contains ''the number of minutes
@@ -26,7 +30,3 @@ _am_ or _pm_ in `12h` mode).  The `\thistime`
 command also takes an optional argument, the character to separate the
 hours and minutes: the default is of course `:`.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-usebibtex
+revised: 2014-06-10
+---
 # ''Normal'' use of BibTeX from LaTeX
 
 To create a bibliography for your document, you need to perform a
@@ -77,7 +81,3 @@ resolve labels.
 To summarise: processing to resolve citations requires: LaTeX;
 BibTeX; LaTeX; LaTeX.
 
-
-----
-
-Content last updated: 2014-06-10

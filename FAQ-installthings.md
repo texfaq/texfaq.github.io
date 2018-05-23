@@ -1,3 +1,7 @@
+---
+ID: Q-installthings
+revised: 2014-06-10
+---
 # Installing things on a (La)TeX system
 
 Installing (or replacing) things on your (La)TeX system has the
@@ -17,7 +21,3 @@ decided what it is that you want to install:
     finally
 -  You may need to [tidy up](./FAQ-inst-tidy.html) after the installation.
 
-
-----
-
-Content last updated: 2014-06-10

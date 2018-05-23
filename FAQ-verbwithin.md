@@ -1,3 +1,7 @@
+---
+ID: Q-verbwithin
+revised: 2014-06-10
+---
 # Why doesn't verbatim work within &hellip;?
 
 The LaTeX verbatim commands work by changing category codes.  Knuth
@@ -207,7 +211,3 @@ solutions to the problem:
     facilities of the package, but the user has to write a mini-package
     actually to use them.
 
-
-----
-
-Content last updated: 2014-06-10

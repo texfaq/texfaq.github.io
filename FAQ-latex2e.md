@@ -1,3 +1,7 @@
+---
+ID: Q-latex2e
+revised: 2014-06-10
+---
 # What is LaTeX 2e?
 
 Lamport's last version of LaTeX (LaTeX 2.09, last updated in 1992)
@@ -27,7 +31,3 @@ changes come from bug reports); this, too, is in pursuit of stability,
 and is a driving force for many of the efforts to contribute LaTeX
 packages.
 
-
-----
-
-Content last updated: 2014-06-10

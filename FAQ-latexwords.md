@@ -1,3 +1,7 @@
+---
+ID: Q-latexwords
+revised: 2014-06-10
+---
 # Changing the words [`babel`](https://ctan.org/pkg/babel) uses
 
 LaTeX uses symbolic names for many of the automatically-generated
@@ -46,7 +50,3 @@ definitions of the symbolic names, on a per-language basis:
 ```
 <!-- {% endraw %} -->
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-braket
+revised: 2014-06-10
+---
 # Set specifications and Dirac brackets
 
 One of the few glaring omissions from TeX's mathematical
@@ -21,7 +25,3 @@ for set specifications (as above) and for Dirac brackets (and bras and
 kets).  The package uses the &epsilon;-TeX built-in command if it finds
 itself running under &epsilon;-TeX.
 
-
-----
-
-Content last updated: 2014-06-10

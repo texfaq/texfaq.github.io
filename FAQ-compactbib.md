@@ -1,3 +1,7 @@
+---
+ID: Q-compactbib
+revised: 2014-06-10
+---
 # Reducing spacing in the bibliography
 
 Bibliographies are, in fact, implemented as lists, so all the
@@ -38,7 +42,3 @@ plethora of space-saving measures: you can, in principle, suppress all
 its other actions, and have it provide you a compressed bibliography
 _only_.
 
-
-----
-
-Content last updated: 2014-06-10

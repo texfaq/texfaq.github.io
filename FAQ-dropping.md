@@ -1,3 +1,7 @@
+---
+ID: Q-dropping
+revised: 2014-06-10
+---
 # Big letters at the start of a paragraph
 
 A common style of typesetting, now seldom seen except in newspapers,
@@ -24,7 +28,3 @@ The more recent [`lettrine`](https://ctan.org/pkg/lettrine) package is generally
 It has a well-constructed array of options, and an impressive set of
 examples adds to the package's document.
 
-
-----
-
-Content last updated: 2014-06-10

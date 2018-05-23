@@ -1,3 +1,7 @@
+---
+ID: Q-fancyhdr
+revised: 2014-06-10
+---
 # Alternative head- and footlines in LaTeX
 
 The standard LaTeX document classes define a small set of ''page
@@ -32,7 +36,3 @@ in a separate file; documentation of [`scrpage2`](https://ctan.org/pkg/scrpage2)
 with the `scrgui*` documentation files that are distributed with
 the [`KOMA-script`](https://ctan.org/pkg/KOMA-script) classes.
 
-
-----
-
-Content last updated: 2014-06-10

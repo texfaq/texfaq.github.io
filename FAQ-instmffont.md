@@ -1,3 +1,7 @@
+---
+ID: Q-instmffont
+revised: 2014-06-10
+---
 # Installing a font provided as MetaFont source
 
 Installing Metafont fonts is (by comparison with other sorts of font) rather
@@ -20,7 +24,3 @@ particular sizes; the installation has to know about the rules, as
 otherwise it cannot generate font files.  No general advice is
 available, but most such font families are now obsolescent.
 
-
-----
-
-Content last updated: 2014-06-10

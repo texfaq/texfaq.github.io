@@ -1,3 +1,7 @@
+---
+ID: Q-notWYSIWYG
+revised: 2014-06-10
+---
 # Why is TeX not a WYSIWYG system?
 
 WYSIWYG is a marketing term (''What you see is what you get'') for
@@ -75,7 +79,3 @@ preparation support schemes, so we are
 observing a degree of confluence of the needs of the two communities:
 interesting times may be ahead of us.
 
-
-----
-
-Content last updated: 2014-06-10

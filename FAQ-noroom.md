@@ -1,3 +1,7 @@
+---
+ID: Q-noroom
+revised: 2014-06-10
+---
 # No room for a new ''_thing_''
 
 The technology available to Knuth at the time TeX was written is
@@ -77,7 +81,3 @@ objects (and neither will the [`etex`](https://ctan.org/pkg/etex) package), but 
 [`morewrites`](https://ctan.org/pkg/morewrites) package can provide the _illusion_ of large
 numbers of `\write` objects.
 
-
-----
-
-Content last updated: 2014-06-10

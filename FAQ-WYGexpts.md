@@ -1,3 +1,7 @@
+---
+ID: Q-WYGexpts
+revised: 2014-06-10
+---
 # The TeX document preparation environment
 
 ''[Why TeX is not WYSIWYG](./FAQ-notWYSIWYG.html)''
@@ -91,7 +95,3 @@ separate window), degree of correspondence of the display to the final
 output, and the balance they strike between visual aid and visual
 distraction.
 
-
-----
-
-Content last updated: 2014-06-10

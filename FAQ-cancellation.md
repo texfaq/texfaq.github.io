@@ -1,3 +1,7 @@
+---
+ID: Q-cancellation
+revised: 2014-06-10
+---
 # Cancelling terms in maths expressions
 
 A technique used when explaining the behaviour of expressions or
@@ -8,7 +12,3 @@ a means of cancelling ''to'' a particular value.
 
 Documentation of [`cancel`](https://ctan.org/pkg/cancel) is in the package file.
 
-
-----
-
-Content last updated: 2014-06-10

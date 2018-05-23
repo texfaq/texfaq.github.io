@@ -1,3 +1,7 @@
+---
+ID: Q-codelist
+revised: 2014-06-10
+---
 # Code listings in LaTeX
 
 ''Pretty'' code listings are sometimes considered worthwhile by the
@@ -102,7 +106,3 @@ Longer-established, and variously less ''powerful'' systems include:
     processing.  The program (implicitly) claims to be
     ''self-documenting''.
 
-
-----
-
-Content last updated: 2014-06-10

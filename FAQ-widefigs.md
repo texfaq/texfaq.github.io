@@ -1,3 +1,7 @@
+---
+ID: Q-widefigs
+revised: 2014-06-10
+---
 # Wide figures in two-column documents
 
 Floating figures and tables ordinarily come out the same width as the
@@ -16,7 +20,3 @@ float environments.  You should include them in `figure` environments,
 or use the [`float`](https://ctan.org/pkg/float) or [`ccaption`](https://ctan.org/pkg/ccaption)package to define a
 new float type. 
 
-
-----
-
-Content last updated: 2014-06-10

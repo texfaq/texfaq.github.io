@@ -1,3 +1,7 @@
+---
+ID: Q-backref
+revised: 2014-06-10
+---
 # References from the bibliography to the citation
 
 A link (or at least a page reference), from the bibliography to the
@@ -22,7 +26,3 @@ forgiveable in the case of the [`hyperref`](https://ctan.org/pkg/hyperref)-relat
 [`backref`](https://ctan.org/pkg/backref), since the concept of multiple hyperlinks from the
 same anchor is less than appealing.)
 
-
-----
-
-Content last updated: 2014-06-10

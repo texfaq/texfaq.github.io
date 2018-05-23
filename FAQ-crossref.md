@@ -1,3 +1,7 @@
+---
+ID: Q-crossref
+revised: 2014-06-10
+---
 # LaTeX gets cross-references wrong
 
 Sometimes, however many times you run LaTeX, the cross-references
@@ -51,7 +55,3 @@ In summary, the `\label` must be _after_ the command that
 defines it (e.g., `\caption`), and if the `\caption` is inside
 an environment, the `\label` must be in there too.
 
-
-----
-
-Content last updated: 2014-06-10

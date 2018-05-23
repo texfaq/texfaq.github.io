@@ -1,3 +1,7 @@
+---
+ID: Q-breakbox
+revised: 2014-06-10
+---
 # Breaking boxes of text
 
 (La)TeX boxes may not be broken, in ordinary usage: once you've
@@ -43,7 +47,3 @@ device-independent MetaFont for the shading).  The author of
 there are reasons to suspect that it may be unstable working with
 current LaTeX.
 
-
-----
-
-Content last updated: 2014-06-10

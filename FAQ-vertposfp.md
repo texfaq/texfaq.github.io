@@ -1,3 +1,7 @@
+---
+ID: Q-vertposfp
+revised: 2014-06-10
+---
 # Vertical layout of float pages
 
 By default, LaTeX vertically centers the floats on a float page;
@@ -47,7 +51,3 @@ Note that this is a ''global'' setting (best established in a class
 file, or at worst in the document preamble); making the change for a
 single float page is likely (at the least) to be rather tricky.
 
-
-----
-
-Content last updated: 2014-06-10

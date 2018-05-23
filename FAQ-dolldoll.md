@@ -1,3 +1,7 @@
+---
+ID: Q-dolldoll
+revised: 2014-06-10
+---
 # Why use `\[` &hellip;`\]` in place of `$$` &hellip; `$$`?
 
 LaTeX defines inline- and display-maths commands, apparently
@@ -37,7 +41,3 @@ needed in LaTeX''.
 the `displaymath` environment, which can be said to ''look
 nicer'', and actually _describes_ what's being done.)
 
-
-----
-
-Content last updated: 2014-06-10

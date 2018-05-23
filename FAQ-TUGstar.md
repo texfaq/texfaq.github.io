@@ -1,3 +1,7 @@
+---
+ID: Q-TUGstar
+revised: 2014-06-10
+---
 # TeX User Groups
 
 There has been a TeX User Group since very near the time TeX
@@ -26,7 +30,3 @@ too; TUG's web site maintains a list of
 
 Contact TUG itself via http://tug.org/contact
 
-
-----
-
-Content last updated: 2014-06-10

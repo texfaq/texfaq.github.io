@@ -1,3 +1,7 @@
+---
+ID: Q-eqnarray
+revised: 2014-06-10
+---
 # Why not use `eqnarray`?
 
 The environment `eqnarray` is attractive for the
@@ -34,7 +38,3 @@ by Lars Madsen; Stefan Kottwitz offers a
 which includes screen shots of the output, convincingly demonstrating
 the problem.
 
-
-----
-
-Content last updated: 2014-06-10

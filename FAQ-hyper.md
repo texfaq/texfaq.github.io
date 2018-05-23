@@ -1,3 +1,7 @@
+---
+ID: Q-hyper
+revised: 2014-06-10
+---
 # Making hypertext documents from TeX
 
 If you want on-line hypertext with a (La)TeX source, probably on the
@@ -16,7 +20,3 @@ World Wide Web, there are four technologies to consider:
 -  Start from (unconventional) (La)TeX which use the 
     [hyperTeX conventions](./FAQ-hypertex.html).
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-texorpdf
+revised: 2014-06-10
+---
 # Token not allowed in PDFDocEncoded string
 
 The package [`hyperref`](https://ctan.org/pkg/hyperref) produces this error when it doesn't
@@ -39,7 +43,3 @@ example above would become:
 and with that definition, the example will compile succesfully
 ([`hyperref`](https://ctan.org/pkg/hyperref) knows about the macro `\space`).
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-repeatgrf
+revised: 2014-06-10
+---
 # Repeated graphics in a document
 
 A logo or ''watermark'' image, or any other image that is repeated in
@@ -59,7 +63,3 @@ objects whether or not the PostScript has them amalgamated.  pdfTeX does
 the same job with graphics, automatically converting multiple uses
 into references to graphics objects.
 
-
-----
-
-Content last updated: 2014-06-10

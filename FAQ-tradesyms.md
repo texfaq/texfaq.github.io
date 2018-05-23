@@ -1,3 +1,7 @@
+---
+ID: Q-tradesyms
+revised: 2014-06-10
+---
 # How to get copyright, trademark, etc.
 
 The ''
@@ -25,7 +29,3 @@ errors: you _must_ use
 \textsuperscript{\textregistered}
 ```
 
-
-----
-
-Content last updated: 2014-06-10

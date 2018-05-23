@@ -1,3 +1,7 @@
+---
+ID: Q-typend
+revised: 2014-06-10
+---
 # ''Please type a command or say `\end`
 
 Sometimes, when you are running (La)TeX, it will abruptly stop and
@@ -42,7 +46,3 @@ illegal character: what it is will depend on what macros you are
 running.  If you can't make that work, try a silly command name or
 two.
 
-
-----
-
-Content last updated: 2014-06-10

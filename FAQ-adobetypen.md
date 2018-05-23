@@ -1,3 +1,7 @@
+---
+ID: Q-adobetypen
+revised: 2014-06-10
+---
 # Adobe font formats
 
 Adobe has specified a number of formats for files to represent fonts
@@ -48,7 +52,3 @@ change color within a Type&nbsp;1 font glyph, but there's no such
 restriction on a Type&nbsp;3 font, which opens opportunities for some
 startling effects.
 
-
-----
-
-Content last updated: 2014-06-10

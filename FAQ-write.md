@@ -1,3 +1,7 @@
+---
+ID: Q-write
+revised: 2014-06-10
+---
 # Writing (text) files from TeX
 
 TeX allows you to write to output files from within your document.
@@ -37,7 +41,3 @@ packages): it is never attached to a file, and if TeX is asked to
 write to _any_ stream that isn't attached to a file it will send
 the output to the terminal (and the log).
 
-
-----
-
-Content last updated: 2014-06-10

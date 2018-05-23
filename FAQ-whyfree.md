@@ -1,3 +1,7 @@
+---
+ID: Q-whyfree
+revised: 2014-06-10
+---
 # If TeX is so good, how come it's free?
 
 It's free because Knuth chose to make it so (he makes money from
@@ -20,7 +24,3 @@ not available commercially.)
 This FAQ concentrates on ''free'' distributions of TeX, but we
 do at least list the [major vendors](./FAQ-commercial.html).
 
-
-----
-
-Content last updated: 2014-06-10

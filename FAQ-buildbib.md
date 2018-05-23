@@ -1,3 +1,7 @@
+---
+ID: Q-buildbib
+revised: 2014-06-10
+---
 # Creating a BibTeX bibliography file
 
 A BibTeX bibliography file may reasonably be compared to a small
@@ -72,7 +76,3 @@ in this endeavour:
     that tab gives you a page containing a BibTeX entry for the
     reference.
 
-
-----
-
-Content last updated: 2014-06-10

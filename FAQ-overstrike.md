@@ -1,3 +1,7 @@
+---
+ID: Q-overstrike
+revised: 2014-06-10
+---
 # Overstriking characters
 
 This may be used, for example, to indicate text deleted in the course
@@ -18,7 +22,3 @@ by a different mechanism.
 
 Documentation of [`ulem`](https://ctan.org/pkg/ulem) is in the package file.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-prinvalint
+revised: 2014-06-10
+---
 # The Principal Value Integral symbol
 
 This symbol (an integral sign, ''crossed'') does not appear in any of
@@ -20,7 +24,3 @@ created by use of the following macros:
 `\dashint` gives a single-dashed integral sign, `\ddashint` a
 double-dashed one.
 
-
-----
-
-Content last updated: 2014-06-10

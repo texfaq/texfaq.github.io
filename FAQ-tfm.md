@@ -1,3 +1,7 @@
+---
+ID: Q-tfm
+revised: 2014-06-10
+---
 # What are TFM files?
 
 TFM is an acronym for ''TeX Font Metrics''; TFM files hold
@@ -19,7 +23,3 @@ so that [XeTeX](./FAQ-xetex.html) and [LuaTeX](./FAQ-luatex.html), using
 such fonts, have no need of TFM files.  A corollary of this is
 that setting up fonts for use by these engines is far _easier_.
 
-
-----
-
-Content last updated: 2014-06-10

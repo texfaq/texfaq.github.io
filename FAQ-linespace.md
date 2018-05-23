@@ -1,3 +1,7 @@
+---
+ID: Q-linespace
+revised: 2014-06-10
+---
 # Double-spaced documents in LaTeX
 
 A quick and easy way of getting inter-line space for copy-editing is
@@ -38,7 +42,3 @@ becoming less common.
 Documentation of [`setspace`](https://ctan.org/pkg/setspace) appears as TeX comments in the
 package file itself.
 
-
-----
-
-Content last updated: 2014-06-10

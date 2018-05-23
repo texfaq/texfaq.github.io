@@ -1,3 +1,7 @@
+---
+ID: Q-subheight
+revised: 2014-06-10
+---
 # Even subscript height
 
 Other things being equal, TeX will aim to position subscripts and
@@ -25,7 +29,3 @@ in a document, the LaTeX user is advised to use the
 [`subdepth`](https://ctan.org/pkg/subdepth) package, which forces the lower position for all
 subscripts.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-hyphenaccents
+revised: 2014-06-10
+---
 # Accented words aren't hyphenated
 
 TeX's algorithm for hyphenation gives up when it encounters an
@@ -24,7 +28,3 @@ generated for use with various LaTeX font encodings.  Original sets
 of patterns remain on CTAN, for use when an older environment
 is needed.
 
-
-----
-
-Content last updated: 2014-06-10

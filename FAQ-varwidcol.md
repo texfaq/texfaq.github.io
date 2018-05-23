@@ -1,3 +1,7 @@
+---
+ID: Q-varwidcol
+revised: 2014-06-10
+---
 # Variable-width columns in tables
 
 This is a slightly different take on the problem addressed in
@@ -49,7 +53,3 @@ or you can use it as follows:
 where the second column will end up noticeably wider, and will wrap to
 a second line in the third row.
 
-
-----
-
-Content last updated: 2014-06-10

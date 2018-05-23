@@ -1,3 +1,7 @@
+---
+ID: Q-keyval
+revised: 2014-06-10
+---
 # Key-value input for macros and package options
 
 When we discussed 
@@ -163,7 +167,3 @@ There are (we know) people who would swear that such syntax is
 wonderful (the present author wouldn't), but the package earns its
 place as the only stand-alone key-value macros that will work in Plain TeX.
 
-
-----
-
-Content last updated: 2014-06-10

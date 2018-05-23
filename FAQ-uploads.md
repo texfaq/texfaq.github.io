@@ -1,3 +1,7 @@
+---
+ID: Q-uploads
+revised: 2014-06-10
+---
 # Contributing a file to the archives
 
 You have something to submit to the archive&nbsp;&mdash; good news!
@@ -59,7 +63,3 @@ Mirroring is only practical using `ftp` or `rsync`, so
 this facility is limited to packages offered by a server that uses one
 of those protocols.
 
-
-----
-
-Content last updated: 2014-06-10

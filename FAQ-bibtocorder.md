@@ -1,3 +1,7 @@
+---
+ID: Q-bibtocorder
+revised: 2014-06-10
+---
 # Table of contents rearranges ''[`unsrt`](https://ctan.org/pkg/unsrt)'' ordering
 
 If you're using the [`unsrt`](https://ctan.org/pkg/unsrt) bibliography style, you're
@@ -28,7 +32,3 @@ The package [`notoccite`](https://ctan.org/pkg/notoccite) avoids the kerfuffle, 
 citations while in the table of contents, or lists of figures, tables
 (or other floating things: the code is quite general).
 
-
-----
-
-Content last updated: 2014-06-10

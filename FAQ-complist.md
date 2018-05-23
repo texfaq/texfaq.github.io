@@ -1,3 +1,7 @@
+---
+ID: Q-complist
+revised: 2014-06-10
+---
 # How to adjust list spacing
 
 [Lamport's book](./FAQ-latex-books.html) lists various
@@ -99,7 +103,3 @@ The ultimate in compaction (of every sort) is offered by the
 package's prime purpose is to save space at every touch and turn:
 don't use it if you're under any design constraint whatever!
 
-
-----
-
-Content last updated: 2014-06-10

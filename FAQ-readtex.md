@@ -1,3 +1,7 @@
+---
+ID: Q-readtex
+revised: 2014-06-10
+---
 # Reading (La)TeX files
 
 So you've been sent an (La)TeX file: what are you going to do with
@@ -55,7 +59,3 @@ Are you ''put off'' by all this?&nbsp;&mdash; remember that TeX is good at
 producing PDF: why not ask the person who sent the TeX file
 to send an PDF copy?
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-wholerow
+revised: 2014-06-10
+---
 # How to change a whole row of a table
 
 Each cell of a table is set in a box, so that a change of font style
@@ -38,7 +42,3 @@ The [`array`](https://ctan.org/pkg/array) package works with several other
 example `longtable`), but unfortunately this trick won't
 always work.
 
-
-----
-
-Content last updated: 2014-06-10

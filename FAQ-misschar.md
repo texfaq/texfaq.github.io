@@ -1,3 +1,7 @@
+---
+ID: Q-misschar
+revised: 2014-06-10
+---
 # Where have my characters gone?
 
 You've typed some apparently reasonable text and processed it, but the
@@ -35,7 +39,3 @@ fonts.  In these cases, there _is_ a typeset sign of the
 character: `dvips` produces a black rectangle of whatever
 size the concocted font file has specified.
 
-
-----
-
-Content last updated: 2014-06-10

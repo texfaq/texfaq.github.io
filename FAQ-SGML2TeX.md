@@ -1,3 +1,7 @@
+---
+ID: Q-SGML2TeX
+revised: 2014-06-10
+---
 # Conversion from SGML or HTML to TeX
 
 SGML is a very important system for document storage and interchange,
@@ -60,7 +64,3 @@ Michel Goossens and Janne Saarela published a very useful summary of
 SGML, and of public domain tools for writing and manipulating it, in
 TUGboat 16(2).
 
-
-----
-
-Content last updated: 2014-06-10

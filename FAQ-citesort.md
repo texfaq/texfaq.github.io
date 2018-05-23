@@ -1,3 +1,7 @@
+---
+ID: Q-citesort
+revised: 2014-06-10
+---
 # Sorting and compressing citations
 
 If you give LaTeX
@@ -16,7 +20,3 @@ do the same when working with its own numeric bibliography styles
 The package [`biblatex`](https://ctan.org/pkg/biblatex) has a built-in style
 [`numeric-comp`](https://ctan.org/pkg/biblatex) for its bibliographies.
 
-
-----
-
-Content last updated: 2014-06-10

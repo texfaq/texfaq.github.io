@@ -1,3 +1,7 @@
+---
+ID: Q-watermark
+revised: 2014-06-10
+---
 # ''Watermarks'' on every page
 
 It's often useful to place some text (such as ''DRAFT'') in the
@@ -61,7 +65,3 @@ files, `pdftk` might well be attractive.
 in most linux distritbutions, but may be downloaded from its
 [home site](http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/)
 
-
-----
-
-Content last updated: 2014-06-10

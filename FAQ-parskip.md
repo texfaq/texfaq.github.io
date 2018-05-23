@@ -1,3 +1,7 @@
+---
+ID: Q-parskip
+revised: 2014-06-10
+---
 # Zero paragraph indent
 
 The conventional way of typesetting running text has no separation
@@ -32,7 +36,3 @@ The Netherlands Users' Group's set of classes includes an
 equivalent ([`rapport3`](https://ctan.org/pkg/rapport3)) whose design incorporates zero paragraph
 indent and non-zero paragraph skip.
 
-
-----
-
-Content last updated: 2014-06-10

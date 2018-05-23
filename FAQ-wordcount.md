@@ -1,3 +1,7 @@
+---
+ID: Q-wordcount
+revised: 2014-06-10
+---
 # How many words have you written?
 
 One often has to submit a document (e.g., a paper or a dissertation)
@@ -44,7 +48,3 @@ LaTeX file with a special piece of supporting TeX code, and then
 counting word indications in the log file.  This is probably as
 accurate automatic counting as you can get, if it works for you.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-linespread
+revised: 2014-06-10
+---
 # Why doesn't `\linespread` work?
 
 The command `\linespread{factor}` is supposed to multiply
@@ -28,7 +32,3 @@ you want to avoid [`setspace`](https://ctan.org/pkg/setspace), beware the behavi
 linespread changes within a paragraph: read 
 ''[`\baselineskip` is a paragraph parameter](./FAQ-baselinepar.html)''.
 
-
-----
-
-Content last updated: 2014-06-10

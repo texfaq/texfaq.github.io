@@ -1,3 +1,7 @@
+---
+ID: Q-footintab
+revised: 2014-06-10
+---
 # Footnotes in tables
 
 The standard LaTeX `\footnote` command doesn't work in tables;
@@ -60,7 +64,3 @@ All the techniques listed will work, to some extent, whether in a float or
 in ordinary text.  The author of this FAQ answer doesn't actually
 recommend any of them, believing that table notes are the way to go&hellip;
 
-
-----
-
-Content last updated: 2014-06-10

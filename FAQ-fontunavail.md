@@ -1,3 +1,7 @@
+---
+ID: Q-fontunavail
+revised: 2014-06-10
+---
 # Warning: ''Font shape &hellip; not available''
 
 LaTeX's font selection scheme maintains tables of the font families
@@ -59,7 +63,3 @@ information messages, that tell you what LaTeX has made of your
 text.  You should check what the messages say, but you will ordinarily
 not be surprised at their content.
 
-
-----
-
-Content last updated: 2014-06-10

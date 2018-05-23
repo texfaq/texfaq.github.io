@@ -1,3 +1,7 @@
+---
+ID: Q-hyphen
+revised: 2014-06-10
+---
 # How does hyphenation work in TeX?
 
 Everyone knows what hyphenation is: we see it in most books we read,
@@ -50,7 +54,3 @@ it is very thoroughly managed by the [`babel`](https://ctan.org/pkg/babel) packa
   the context of
 [hyphenation failure](./FAQ-nohyph.html).
 
-
-----
-
-Content last updated: 2014-06-10

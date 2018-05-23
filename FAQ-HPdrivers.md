@@ -1,3 +1,7 @@
+---
+ID: Q-HPdrivers
+revised: 2014-06-10
+---
 # DVI drivers for HP LaserJet
 
 The emTeX distribution (see [TeX systems](./FAQ-TeXsystems.html))
@@ -10,7 +14,3 @@ DEC-20s.
 For Unix systems, Karl Berry's `dviljk` uses the same
 path-searching library as `web2c`.
 
-
-----
-
-Content last updated: 2014-06-10

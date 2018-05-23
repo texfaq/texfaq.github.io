@@ -1,3 +1,7 @@
+---
+ID: Q-matchbrak
+revised: 2014-06-10
+---
 # My brackets don't match
 
 (La)TeX has a low-level mechanism for matching braces in document
@@ -46,7 +50,3 @@ parentheses, but the issue seldom arises since such arguments rarely
 contain text.  If it were to arise, the same solution (enclosing the
 confused characters in braces) would solve the problem.
 
-
-----
-
-Content last updated: 2014-06-10

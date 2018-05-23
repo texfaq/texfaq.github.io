@@ -1,3 +1,7 @@
+---
+ID: Q-poster
+revised: 2014-06-10
+---
 # Creating posters with LaTeX
 
 There is no complete ''canned solution'' to creating a poster (as, for
@@ -59,7 +63,3 @@ route):
     Florida styled poster (offering supporting material as necessary),
     but has hints which are generally useful.
 
-
-----
-
-Content last updated: 2014-06-10

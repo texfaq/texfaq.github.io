@@ -1,3 +1,7 @@
+---
+ID: Q-letterclass
+revised: 2014-06-10
+---
 # Letters and the like
 
 LaTeX itself provides a [`letter`](https://ctan.org/pkg/letter) document class, which is
@@ -39,7 +43,3 @@ only) bundles.  While these are probably good (since the bundles
 themselves inspire trust) they've not been specifically recommended by
 any users.
 
-
-----
-
-Content last updated: 2014-06-10

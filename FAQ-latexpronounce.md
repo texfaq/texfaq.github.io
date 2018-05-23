@@ -1,3 +1,7 @@
+---
+ID: Q-latexpronounce
+revised: 2014-06-10
+---
 # How should I pronounce ''LaTeX(2<sub>&epsilon;</sub>)''?
 
 Lamport never recommended how one should pronounce LaTeX, but a lot
@@ -11,7 +15,3 @@ The LaTeX 2e logo is supposed to end with an
 &epsilon;; nevertheless, most
 people pronounce the name as ''LaTeX-two-ee''.
 
-
-----
-
-Content last updated: 2014-06-10

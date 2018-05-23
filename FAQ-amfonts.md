@@ -1,3 +1,7 @@
+---
+ID: Q-amfonts
+revised: 2014-06-10
+---
 # Where are the `am` fonts?
 
 One _still_ occasionally comes across a request for the `am`
@@ -55,7 +59,3 @@ Both routes seem acceptable ways forward; it is a matter of taste
 which any particular user may choose (it's not likely that it will be
 necessary very often...).
 
-
-----
-
-Content last updated: 2014-06-10

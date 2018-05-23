@@ -1,3 +1,7 @@
+---
+ID: Q-optionclash
+revised: 2014-06-10
+---
 # Option clash for package
 
 So you've innocently added:
@@ -90,7 +94,3 @@ In such a case, you have to modify the package or class itself
 (subject to the terms of its licence).  It may prove useful to contact
 the author: she may have a useful alternative to suggest.
 
-
-----
-
-Content last updated: 2014-06-10

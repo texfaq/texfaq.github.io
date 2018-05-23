@@ -1,3 +1,7 @@
+---
+ID: Q-instprinterfont
+revised: 2014-06-10
+---
 # ''Installing'' a PostScript printer built-in font
 
 There is a ''standard'' set of fonts that has appeared in every PostScript
@@ -35,7 +39,3 @@ TDS, so in principle, installation consists simply of
 Documentation of the [`psnfss`](https://ctan.org/pkg/psnfss) bundle is provided in
 `psnfss2e.pdf` in the distribution.
 
-
-----
-
-Content last updated: 2014-06-10

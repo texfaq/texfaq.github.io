@@ -1,3 +1,7 @@
+---
+ID: Q-formatstymy
+revised: 2014-06-10
+---
 # ''Fatal format file error; I'm stymied''
 
 (La)TeX applications often fail with this error when you've been
@@ -40,7 +44,3 @@ depends on which system you are using.
   `MiKTeX Options`, and in the options window, click
     `Update now`.
 
-
-----
-
-Content last updated: 2014-06-10

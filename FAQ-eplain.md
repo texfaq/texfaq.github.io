@@ -1,3 +1,7 @@
+---
+ID: Q-eplain
+revised: 2014-06-10
+---
 # What is Eplain?
 
 The [Eplain](http://tug.org/eplain)
@@ -49,7 +53,3 @@ package as well), and there's also a mailing list&nbsp;&mdash; sign up, or
 browse the list archives, via
 [http://tug.org/mailman/listinfo/tex-eplain]
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-enumerate
+revised: 2014-06-10
+---
 # Fancy enumeration lists
 
 The [`enumerate`](https://ctan.org/pkg/enumerate) package allows you to control the display of
@@ -60,7 +64,3 @@ The [`memoir`](https://ctan.org/pkg/memoir) class includes functions that match 
 %%    \renewcommand{\labelenumi}{\theenumi/}
 %% ```
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-ftncapt
+revised: 2014-06-10
+---
 # Footnotes in captions
 
 Footnotes in captions are especially tricky: they present problems of
@@ -55,7 +59,3 @@ with such a short caption as that in the example above.)
 The documentation of the [`ccaption`](https://ctan.org/pkg/ccaption) package describes a really
 rather awful work-around for this problem.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-destable
+revised: 2014-06-10
+---
 # The design of tables
 
 In recent years, several authors have argued that the examples, set
@@ -77,7 +81,3 @@ value `10pt`) and `\belowcaptionskip` (default value
 does the job (if the length values are right; the package and classes
 are more careful!).
 
-
-----
-
-Content last updated: 2014-06-10

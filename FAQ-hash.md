@@ -1,3 +1,7 @@
+---
+ID: Q-hash
+revised: 2014-06-10
+---
 # Defining macros within macros
 
 The way to think of this is that `##` gets replaced by `#` in just the
@@ -48,7 +52,3 @@ To nest a definition inside a definition inside a definition then you
 need `####1`, doubling the number of `#` signs; and at the next level
 you need 8&nbsp;`#`s each time, and so on.
 
-
-----
-
-Content last updated: 2014-06-10

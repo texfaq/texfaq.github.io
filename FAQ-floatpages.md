@@ -1,3 +1,7 @@
+---
+ID: Q-floatpages
+revised: 2014-06-10
+---
 # Floats on their own on float pages
 
 It's sometimes necessary to force a float to live on a page by itself.
@@ -25,7 +29,3 @@ the separation between floats really big:
 \makeatother
 ```
 
-
-----
-
-Content last updated: 2014-06-10

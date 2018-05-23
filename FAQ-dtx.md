@@ -1,3 +1,7 @@
+---
+ID: Q-dtx
+revised: 2014-06-10
+---
 # Documented LaTeX sources (`dtx` files)
 
 LaTeX 2e, and many contributed LaTeX macro packages, are written
@@ -78,7 +82,3 @@ package to
 thus permitting documented distribution of bundles containing code for
 MetaFont and MetaPost together with related LaTeX code.
 
-
-----
-
-Content last updated: 2014-06-10

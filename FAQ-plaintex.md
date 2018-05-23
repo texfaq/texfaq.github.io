@@ -1,3 +1,7 @@
+---
+ID: Q-plaintex
+revised: 2014-06-10
+---
 # What's ''writing in TeX''?
 
 TeX is a macro processor, and offers its users a powerful
@@ -15,7 +19,3 @@ versions of higher-level commands.  When people say they're ''writing
 (or programming) in TeX'', they usually mean they're programming in
 Plain TeX.
 
-
-----
-
-Content last updated: 2014-06-10

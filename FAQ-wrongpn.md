@@ -1,3 +1,7 @@
+---
+ID: Q-wrongpn
+revised: 2014-06-10
+---
 # Page number is wrong at start of page
 
 This is a long story, whose sources are deep inside the workings of
@@ -33,7 +37,3 @@ Here is page \pageref{here}\label{here}.
 that could potentially end up as a page-break space itself, which
 rather defeats the purpose of the exercise!).
 
-
-----
-
-Content last updated: 2014-06-10

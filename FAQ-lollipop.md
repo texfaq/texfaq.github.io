@@ -1,3 +1,7 @@
+---
+ID: Q-lollipop
+revised: 2014-06-10
+---
 # Lollipop
 
 A long time ago (in the early 1990s), the Lollipop TeX format was
@@ -13,7 +17,3 @@ as his own&nbsp;&mdash; Persian.)
 
 We can only hope that, this time, Lollipop will ''catch on''!
 
-
-----
-
-Content last updated: 2014-06-10

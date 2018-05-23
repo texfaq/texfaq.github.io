@@ -1,3 +1,7 @@
+---
+ID: Q-drawFeyn
+revised: 2014-06-10
+---
 # Drawing Feynman diagrams in LaTeX
 
 Michael Levine's [`feynman`](https://ctan.org/pkg/feynman) bundle for drawing the diagrams in
@@ -25,7 +29,3 @@ fragments, which you can compose to produce complete diagrams.  It
 offers fairly simple diagrams which look good in equations, rather
 than complicated ones more suitable for display in figures.
 
-
-----
-
-Content last updated: 2014-06-10

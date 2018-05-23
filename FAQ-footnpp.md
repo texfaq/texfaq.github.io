@@ -1,3 +1,7 @@
+---
+ID: Q-footnpp
+revised: 2014-06-10
+---
 # Footnotes numbered ''per page''
 
 The obvious solution is to make the footnote number reset whenever the
@@ -40,7 +44,3 @@ The [`footnpag`](https://ctan.org/pkg/footnpag) package also does per-page footn
 nothing else).  With the competition from [`perpage`](https://ctan.org/pkg/perpage), it's
 probably not particularly useful any more.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-sysother
+revised: 2014-06-10
+---
 # Other systems' TeX availability
 
 For PCs, running MS-DOS or OS/2, EmTeX (by Eberhard
@@ -39,7 +43,3 @@ under WAITS, the TOPS-20 port is another near approach
 to Knuth's original environment. Sources are available by anonymous
 `ftp` from [ftp://ftp.math.utah.edu/pub/tex/pub/web]
 
-
-----
-
-Content last updated: 2014-06-10

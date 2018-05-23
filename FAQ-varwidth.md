@@ -1,3 +1,7 @@
+---
+ID: Q-varwidth
+revised: 2014-06-10
+---
 # Automatic sizing of `minipage`
 
 The `minipage` environment requires you to specify the
@@ -60,7 +64,3 @@ The documentation (in the package file) lists various restrictions and
 things still to be done, but the package is already proving useful for
 a variety of jobs.
 
-
-----
-
-Content last updated: 2014-06-10

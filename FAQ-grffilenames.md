@@ -1,3 +1,7 @@
+---
+ID: Q-grffilenames
+revised: 2014-06-10
+---
 # ''Modern'' graphics file names
 
 TeX was designed in a world where file names were very simple
@@ -38,7 +42,3 @@ sufficiently recent version of pdfTeX, in PDF mode&nbsp;&mdash; and
 even then it won't work for MetaPost files, which are read as TeX
 input, and therefore use the standard input mechanism).
 
-
-----
-
-Content last updated: 2014-06-10

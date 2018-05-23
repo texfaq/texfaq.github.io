@@ -1,3 +1,7 @@
+---
+ID: Q-inst1cm
+revised: 2014-06-10
+---
 # Installing the Type&nbsp;1 versions of the CM&nbsp;fonts
 
 This is a specialised case of [installing a font](./FAQ-instfont.html),
@@ -25,7 +29,3 @@ produced themselves) is now described as [`amsfonts`](https://ctan.org/pkg/amsfo
 bundle contains metric and map files&nbsp;&mdash; all you need to
 [install the fonts](./FAQ-instt1font.html).
 
-
-----
-
-Content last updated: 2014-06-10

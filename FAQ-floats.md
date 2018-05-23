@@ -1,3 +1,7 @@
+---
+ID: Q-floats
+revised: 2014-06-10
+---
 # Moving tables and figures in LaTeX
 
 Tables and figures have a tendency to surprise, by _floating_
@@ -92,7 +96,3 @@ equally well to tables, or to ''non-standard'' floats defined by the
     rely on LaTeX's mechanism: get the [`endfloat`](https://ctan.org/pkg/endfloat) package to do
     the job for you.
 
-
-----
-
-Content last updated: 2014-06-10

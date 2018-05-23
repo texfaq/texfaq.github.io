@@ -1,3 +1,7 @@
+---
+ID: Q-askquestion
+revised: 2014-06-10
+---
 # How to ask a question
 
 You want help from the community at large; you've decided where you're
@@ -65,7 +69,3 @@ application of your own common sense.
     know _why_ you're doing something, just _what_ you're
     doing and where the problem is.
 
-
-----
-
-Content last updated: 2014-06-10

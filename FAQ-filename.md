@@ -1,3 +1,7 @@
+---
+ID: Q-filename
+revised: 2014-06-10
+---
 # What's the name of this file
 
 One might want this so as to automatically generate a page header or
@@ -44,7 +48,3 @@ for use in old documents.
 The [`FiNK`](https://ctan.org/pkg/FiNK) bundle includes a `fink.el` that provides
 support under `emacs` with AUC-TeX.
 
-
-----
-
-Content last updated: 2014-06-10

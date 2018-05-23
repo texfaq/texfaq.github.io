@@ -1,3 +1,7 @@
+---
+ID: Q-linmacnames
+revised: 2014-06-10
+---
 # Non-letters in macro names
 
 New LaTeX users are often suprised that macro definitions
@@ -133,7 +137,3 @@ roman numerals in place of arabic ones:
 which rather spoils the intent of the joke implicit in the example
 `\cul8r`!
 
-
-----
-
-Content last updated: 2014-06-10

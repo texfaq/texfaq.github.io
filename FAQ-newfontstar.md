@@ -1,3 +1,7 @@
+---
+ID: Q-newfontstar
+revised: 2014-06-10
+---
 # What's wrong with `\newfont`?
 
 If all else fails, you _can_ specify a font using the LaTeX
@@ -43,7 +47,3 @@ the Knuth standard set of sizes: LaTeX (by default) won't allow you
 to use such a size.  Don't despair: see the answer 
 ''[arbitrary font sizes](./FAQ-fontsize.html)''.
 
-
-----
-
-Content last updated: 2014-06-10

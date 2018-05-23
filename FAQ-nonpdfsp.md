@@ -1,3 +1,7 @@
+---
+ID: Q-nonpdfsp
+revised: 2014-06-10
+---
 # Non-PDF special ignored!
 
 This is a pdfTeX error: pdfTeX is running in PDF output
@@ -29,7 +33,3 @@ decide to try pdfLaTeX, you _must_ remove the `dvips` or
 `dvipdfm` driver specification from the package options, and let the
 system recognise which driver is needed.
 
-
-----
-
-Content last updated: 2014-06-10

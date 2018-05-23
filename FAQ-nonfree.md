@@ -1,3 +1,7 @@
+---
+ID: Q-nonfree
+revised: 2014-06-10
+---
 # What was the CTAN `nonfree` tree?
 
 When CTAN was founded, in the 1990s, it was unusual to publish
@@ -49,7 +53,3 @@ CTAN tree.  So the answer to the question is, now, ''the
 nonfree tree was a part of CTAN, whose contents are now in
 the main tree''.
 
-
-----
-
-Content last updated: 2014-06-10

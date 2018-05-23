@@ -1,3 +1,7 @@
+---
+ID: Q-csname
+revised: 2014-06-10
+---
 # Defining a macro from an argument
 
 It's common to want a command to create another command: often one
@@ -50,7 +54,3 @@ With commands
 ```
 these ''races'' could behave a bit like LaTeX environments.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-unkgrfextn
+revised: 2014-06-10
+---
 # ''Unknown graphics extension''
 
 The LaTeX graphics package deals with several different types of
@@ -55,7 +59,3 @@ unsatisfactory alternatives:
     \includegraphics[type=eps,ext=.eps,read=.eps]{home.bedroom}
     ```
 
-
-----
-
-Content last updated: 2014-06-10

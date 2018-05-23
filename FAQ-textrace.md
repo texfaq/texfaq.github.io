@@ -1,3 +1,7 @@
+---
+ID: Q-textrace
+revised: 2014-06-10
+---
 # Making outline fonts from MetaFont
 
 `TeXtrace`, originally developed by  P&eacute;ter Szab&oacute;, is a
@@ -42,7 +46,3 @@ available, [`mf2pt1`](https://ctan.org/pkg/mf2pt1) will use
 available) to auto-hint the result of its conversion.
 ([`Mf2pt1`](https://ctan.org/pkg/Mf2pt1) is also written in `perl`.)
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-dvipdfmgraphics
+revised: 2014-06-10
+---
 # Imported graphics in `dvipdfm`
 
 `Dvipdfm` (and `dvipdfmx`) translates direct from
@@ -55,7 +59,3 @@ don't ordinarily need to specify the fact, since the default graphics
 configuration file (of most distributions) ''guesses'' the
 `dvips` option if you're using TeX.
 
-
-----
-
-Content last updated: 2014-06-10

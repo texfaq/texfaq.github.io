@@ -1,3 +1,7 @@
+---
+ID: Q-logos
+revised: 2014-06-10
+---
 # Typesetting all those TeX-related logos
 
 Knuth was making a particular point about the capabilities of TeX
@@ -44,7 +48,3 @@ for AMSTeX, `Pic``\TeX{}`
 for PicTeX, `Bib``\TeX{}`
 for BibTeX, and so on.
 
-
-----
-
-Content last updated: 2014-06-10

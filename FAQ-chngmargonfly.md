@@ -1,3 +1,7 @@
+---
+ID: Q-chngmargonfly
+revised: 2014-06-10
+---
 # Changing margins ''on the fly''
 
 One of the surprises characteristic of TeX use is that you cannot
@@ -67,7 +71,3 @@ page (rather than a length): the package documentation also provides a
 useful analysis of when the command may (or may not) be expected to
 work.
 
-
-----
-
-Content last updated: 2014-06-10

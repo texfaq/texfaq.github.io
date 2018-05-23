@@ -1,3 +1,7 @@
+---
+ID: Q-bug
+revised: 2018-05-23
+---
 # What to do if you find a bug
 
 For a start, make entirely sure you _have_ found a bug.
@@ -40,7 +44,3 @@ help&nbsp;&mdash; TUG maintains a
 (This of course requires that you have the resources&nbsp;&mdash; and a
 pressing  enough need&nbsp;&mdash; to hire someone.)
 
-
-----
-
-Content last updated: 2018-05-23

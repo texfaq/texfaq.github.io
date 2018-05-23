@@ -1,3 +1,7 @@
+---
+ID: Q-LaTeX3
+revised: 2014-06-10
+---
 # The LaTeX project
 
 The LaTeX project team (see [http://www.latex-project.org/latex3.html])
@@ -49,7 +53,3 @@ through the mailing list `latex-l`; some development work
 by sending a message `subscribe latex-l <_your name_>`
 to  <a href="mailto:listserv@urz.Uni-Heidelberg.de">listserv@urz.Uni-Heidelberg.de</a>
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-secnumdep
+revised: 2014-06-10
+---
 # Unnumbered sections in the Table of Contents
 
 The way the relevant parts of sectioning commands work is exemplified
@@ -51,7 +55,3 @@ aren't numbered.  The [`memoir`](https://ctan.org/pkg/memoir) class incorporates
 of all three of the [`abstract`](https://ctan.org/pkg/abstract), [`tocbibind`](https://ctan.org/pkg/tocbibind) and
 [`tocvsec2`](https://ctan.org/pkg/tocvsec2) packages.
 
-
-----
-
-Content last updated: 2014-06-10

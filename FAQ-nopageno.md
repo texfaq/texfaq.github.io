@@ -1,3 +1,7 @@
+---
+ID: Q-nopageno
+revised: 2014-06-10
+---
 # How to get rid of page numbers
 
 Very occasionally, one wants a document with no page numbers.  For
@@ -65,7 +69,3 @@ Neither of these ''suppress the page number'' techniques touches the
 page style in use; in practice this means they don't make sense unless
 you are using `\pagestyle{plain}`
 
-
-----
-
-Content last updated: 2014-06-10

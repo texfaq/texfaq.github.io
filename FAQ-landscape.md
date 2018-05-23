@@ -1,3 +1,7 @@
+---
+ID: Q-landscape
+revised: 2014-06-10
+---
 # Typesetting things in landscape orientation
 
 It's often necessary to typeset part of a document in landscape
@@ -58,7 +62,3 @@ rotation requests in DVI files.
 Your best bet is to convert your output to PostScript or to PDF, and
 to view these ''final'' forms with an appropriate viewer.
 
-
-----
-
-Content last updated: 2014-06-10

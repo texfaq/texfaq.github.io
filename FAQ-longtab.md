@@ -1,3 +1,7 @@
+---
+ID: Q-longtab
+revised: 2014-06-10
+---
 # Tables longer than a single page
 
 Tables are, by default, set entirely in boxes of their own: as a
@@ -61,7 +65,3 @@ the head- and footline capabilities of the major packages.
 
 Documentation of [`ltablex`](https://ctan.org/pkg/ltablex) is to be found in the package file.
 
-
-----
-
-Content last updated: 2014-06-10

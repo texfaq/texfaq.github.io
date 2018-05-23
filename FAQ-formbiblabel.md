@@ -1,3 +1,7 @@
+---
+ID: Q-formbiblabel
+revised: 2014-06-10
+---
 # Format of numbers in the bibliography
 
 By default, LaTeX makes entries in the bibliography look like:
@@ -22,7 +26,3 @@ LaTeX commands, in the preamble of your document, will do the job:
 \makeatother
 ```
 
-
-----
-
-Content last updated: 2014-06-10

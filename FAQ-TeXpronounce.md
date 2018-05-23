@@ -1,3 +1,7 @@
+---
+ID: Q-TeXpronounce
+revised: 2014-06-10
+---
 # How should I pronounce ''TeX''?
 
 The ''X'' is ''really'' the Greek letter 
@@ -16,7 +20,3 @@ word, jiggled about a bit; we don't use that logo (and logos like it)
 in this FAQ (see 
 [Typesetting TeX-related logos](./FAQ-logos.html)).
 
-
-----
-
-Content last updated: 2014-06-10

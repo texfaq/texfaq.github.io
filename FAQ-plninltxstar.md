@@ -1,3 +1,7 @@
+---
+ID: Q-plninltxstar
+revised: 2014-06-10
+---
 # Using Plain or primitive commands in LaTeX
 
 It's well-known that LaTeX commands tend to be more complex, and to
@@ -43,7 +47,3 @@ safe in the most trivial contexts, and are potential sources of great
 confusion in many circumstances.   Further discussion of this issue
 may be found in ''[What's wrong with `\newfont`?](./FAQ-newfont*.html)''.
 
-
-----
-
-Content last updated: 2014-06-10

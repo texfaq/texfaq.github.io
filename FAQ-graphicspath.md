@@ -1,3 +1,7 @@
+---
+ID: Q-graphicspath
+revised: 2014-06-10
+---
 # Importing graphics from ''somewhere else''
 
 By default, graphics commands like `\includegraphics` look
@@ -66,7 +70,3 @@ in the question ''
 [bits of document in other directories](./FAQ-docotherdir.html)
 ''.
 
-
-----
-
-Content last updated: 2014-06-10

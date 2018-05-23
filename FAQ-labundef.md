@@ -1,3 +1,7 @@
+---
+ID: Q-labundef
+revised: 2014-06-10
+---
 # Finding if a label is undefined
 
 People seem to want to know (at run time) if a label is undefined (I
@@ -34,7 +38,3 @@ of a single label, or the states of a list of labels.  The package's
 definition is a bit complicated, but the package itself is pretty
 powerful.
 
-
-----
-
-Content last updated: 2014-06-10

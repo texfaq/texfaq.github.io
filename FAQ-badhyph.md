@@ -1,3 +1,7 @@
+---
+ID: Q-badhyph
+revised: 2014-06-10
+---
 # Improper `\hyphenation` will be flushed
 
 For example
@@ -37,7 +41,3 @@ accented-letter commands such as the `\``e` in
 single accented character by the time the hyphenation gets to look at
 it.
 
-
-----
-
-Content last updated: 2014-06-10

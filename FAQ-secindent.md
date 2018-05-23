@@ -1,3 +1,7 @@
+---
+ID: Q-secindent
+revised: 2014-06-10
+---
 # Indent after section headings
 
 LaTeX implements a style that doesn't indent the first paragraph
@@ -7,7 +11,3 @@ The [`indentfirst`](https://ctan.org/pkg/indentfirst) package
 suppresses the mechanism, so that the first paragraph is
 indented.
 
-
-----
-
-Content last updated: 2014-06-10

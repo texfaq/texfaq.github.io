@@ -1,3 +1,7 @@
+---
+ID: Q-hypertex
+revised: 2014-06-10
+---
 # The _hyperTeX_ project
 
 The _hyperTeX_ project extended the functionality of all the
@@ -27,7 +31,3 @@ modified `xdvi` and (recent releases of)
 releases of [`ghostscript`](http://www.ghostscript.com/)
 or Acrobat Distiller.
 
-
-----
-
-Content last updated: 2014-06-10

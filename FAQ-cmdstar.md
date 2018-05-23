@@ -1,3 +1,7 @@
+---
+ID: Q-cmdstar
+revised: 2014-06-10
+---
 # Commands defined with * options
 
 LaTeX commands commonly have ''versions'' defined with an asterisk
@@ -86,7 +90,3 @@ Simply loading the package to provide `\DeclareDocumentCommand`
 ''pulls in'' all of the LaTeX3 kernel (a large bunch of packages)
 via the [`expl3`](https://ctan.org/pkg/expl3) package.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-gethelp
+revised: 2014-06-10
+---
 # Getting help online
 
 We assume, here, that you have looked at all relevant
@@ -87,7 +91,3 @@ experienced (La)TeX users, no small group can possibly have
 expertise in every area of usage so that the ''big'' lists and forums
 are a far better bet.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-include
+revised: 2014-06-10
+---
 # What's going on in my `\include` commands?
 
 The original LaTeX provided the `\include` command to address the
@@ -41,7 +45,3 @@ So, we can now answer the two commonest questions about `\include`:
     under LaTeX 2.09, replace the `\include` commands with `\input`
     commands (with `\clearpage` as appropriate).
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-toodeep
+revised: 2014-06-10
+---
 # ''Too deeply nested''
 
 This error appears when you start a LaTeX list.
@@ -56,7 +60,3 @@ What can be done about the problem?  Not much, short of rewriting
 LaTeX&nbsp;&mdash; you really need to rewrite your document in a slightly
 less labyrinthine way.
 
-
-----
-
-Content last updated: 2014-06-10

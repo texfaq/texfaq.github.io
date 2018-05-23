@@ -1,3 +1,7 @@
+---
+ID: Q-texthings
+revised: 2014-06-10
+---
 # Things with ''TeX'' in the name
 
 New TeX users are often baffled by the myriad terms with ''TeX''
@@ -183,7 +187,3 @@ The subject matter covered by this answer is also addressed in a page
 on the TUG site, 
 ''[the Levels of TeX](http://tug.org/levels.html)''.
 
-
-----
-
-Content last updated: 2014-06-10

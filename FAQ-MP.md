@@ -1,3 +1,7 @@
+---
+ID: Q-MP
+revised: 2014-06-10
+---
 # What is MetaPost?
 
 The MetaPost system (by John Hobby) implements a picture-drawing language
@@ -32,7 +36,3 @@ The TUG website also hosts a
 [`tex-overview`](https://ctan.org/pkg/tex-overview) document gives you a lot more detail (and some
 explanatory background material).
 
-
-----
-
-Content last updated: 2014-06-10

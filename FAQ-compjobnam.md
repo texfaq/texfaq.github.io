@@ -1,3 +1,7 @@
+---
+ID: Q-compjobnam
+revised: 2014-06-10
+---
 # Comparing the ''job name''
 
 The token `\jobname` amusingly produces a sequence of characters
@@ -33,7 +37,3 @@ using LaTeX&nbsp;&mdash; there's already an
 [internal command](./FAQ-atsigns.html) `\strip@prefix` that you can
 use.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-extsizes
+revised: 2014-06-10
+---
 # Other ''document font'' sizes?
 
 The LaTeX standard classes have a concept of a (base) ''document
@@ -47,7 +51,3 @@ ranges of sizes.  This is true, for example, of
 [presentation and lecturing classes](./FAQ-slidecls.html) (such as
 [`beamer`](https://ctan.org/pkg/beamer).
 
-
-----
-
-Content last updated: 2014-06-10

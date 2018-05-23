@@ -1,3 +1,7 @@
+---
+ID: Q-psfchoice
+revised: 2014-06-10
+---
 # Choice of Type&nbsp;1 fonts for typesetting Maths
 
 If you are interested in text alone, you can in principle use any of
@@ -480,7 +484,3 @@ are based on the early popularity of that format in the publishing industry.
 Many service bureaus don't care as long as you present them with a finished
 print file (PostScript or PDF) for their output device.
 
-
-----
-
-Content last updated: 2014-06-10

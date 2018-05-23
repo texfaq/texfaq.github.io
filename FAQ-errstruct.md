@@ -1,3 +1,7 @@
+---
+ID: Q-errstruct
+revised: 2014-06-10
+---
 # The structure of TeX error messages
 
 TeX's error messages are reminiscent of the time when TeX itself
@@ -74,7 +78,3 @@ work round the problem in the short term.  If you simply type ''return''
 prompt, TeX will attempt to carry on (often with rather little
 success).
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-twooptarg
+revised: 2014-06-10
+---
 # More than one optional argument
 
 If you've already read 
@@ -74,7 +78,3 @@ readily-understood language), and emits (La)TeX macros which enable
 the command to be defined.  The command requires that a
 `Python` interpreter (etc.) be installed on your computer.
 
-
-----
-
-Content last updated: 2014-06-10

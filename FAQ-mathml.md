@@ -1,3 +1,7 @@
+---
+ID: Q-mathml
+revised: 2014-06-10
+---
 # Future WWW technologies and (La)TeX
 
 An earlier answer 
@@ -118,7 +122,3 @@ support for new Web standards.
 ```
 ([`Mathtex`](https://ctan.org/pkg/Mathtex) supersedes the author's earlier [`mimetex`](https://ctan.org/pkg/mimetex).)
 
-
-----
-
-Content last updated: 2014-06-10

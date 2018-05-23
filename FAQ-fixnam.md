@@ -1,3 +1,7 @@
+---
+ID: Q-fixnam
+revised: 2014-06-10
+---
 # How to change LaTeX's ''fixed names''
 
 LaTeX document classes define several typographic operations that
@@ -49,7 +53,3 @@ the list shows the specialisation of each name, where appropriate.
 `\tablename` </td><td> Table (for caption)
 </tbody></table>
 
-
-----
-
-Content last updated: 2014-06-10

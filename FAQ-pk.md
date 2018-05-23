@@ -1,3 +1,7 @@
+---
+ID: Q-pk
+revised: 2014-06-10
+---
 # What are PK files?
 
 PK files (packed raster) are the canonical form of TeX font
@@ -19,7 +23,3 @@ the collection (and the resulting difficulty of maintaining it) has
 been a potent driver to the move towards outline fonts such as
 [Adobe Type 1 fonts](./FAQ-adobetypen.html).
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-LaTeX2HTML
+revised: 2014-06-10
+---
 # Conversion from (La)TeX to HTML
 
 TeX and LaTeX are well suited to producing electronically publishable
@@ -75,7 +79,3 @@ The World Wide Web Consortium maintains a list of ''filters'' to
 HTML, with sections on (La)TeX and BibTeX&nbsp;&mdash; see
 [http://www.w3.org/Tools/Word_proc_filters.html](http://www.w3.org/Tools/Word_proc_filters.html)
 
-
-----
-
-Content last updated: 2014-06-10

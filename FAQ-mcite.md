@@ -1,3 +1,7 @@
+---
+ID: Q-mcite
+revised: 2014-06-10
+---
 # Multiple citations
 
 A convention sometimes used in physics journals is to ''collapse'' a group of
@@ -48,7 +52,3 @@ sees a sequence
 ```
 it will collect `paper1` and `paper2` as a multiple reference.
 
-
-----
-
-Content last updated: 2014-06-10

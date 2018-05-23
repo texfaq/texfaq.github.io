@@ -1,3 +1,7 @@
+---
+ID: Q-whatmacros
+revised: 2014-06-10
+---
 # What are (TeX) macros
 
 TeX is a _macro processor_: this is a computer-science-y term
@@ -68,7 +72,3 @@ way, [TeX by Topic](./FAQ-ol-books.html) is possibly a more satisfactory
 choice.  Rather a lot of the answers in these FAQs tell you
 about various issues of how to write macros.
 
-
-----
-
-Content last updated: 2014-06-10

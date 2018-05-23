@@ -1,3 +1,7 @@
+---
+ID: Q-topgraph
+revised: 2014-06-10
+---
 # Top-aligning imported graphics
 
 When TeX sets a line of anything, it ensures that the base-line of
@@ -48,7 +52,3 @@ the [`calc`](https://ctan.org/pkg/calc) package:
 The fact is, _you_ may choose where the base-line ends up.  This
 answer merely shows you sensible choices you might make.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-pdfpagelabels
+revised: 2014-06-10
+---
 # [`Hyperref`](https://ctan.org/pkg/Hyperref) and repeated page numbers
 
 The [`book`](https://ctan.org/pkg/book) class (and its friends and relations) automatically
@@ -33,7 +37,3 @@ an unnumbered title page, after which page numbers are reset: the
 pdfTeX warning of ''[duplicate destinations](./FAQ-hyperdupdest.html)''
 will happen in this case, regardless of the options.
 
-
-----
-
-Content last updated: 2014-06-10

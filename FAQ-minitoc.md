@@ -1,3 +1,7 @@
+---
+ID: Q-minitoc
+revised: 2014-06-10
+---
 # Table of contents, etc., per chapter
 
 The common style, of a ''small'' table of contents for each part,
@@ -32,7 +36,3 @@ version of the [`hyperref`](https://ctan.org/pkg/hyperref) package does know abo
 [`minitoc`](https://ctan.org/pkg/minitoc) and treats `\minitoc` tables in the
 same way as ''real'' tables of contents.
 
-
-----
-
-Content last updated: 2014-06-10

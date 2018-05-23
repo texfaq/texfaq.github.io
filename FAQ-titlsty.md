@@ -1,3 +1,7 @@
+---
+ID: Q-titlsty
+revised: 2014-06-10
+---
 # The style of document titles
 
 The [`titling`](https://ctan.org/pkg/titling) package provides a number of facilities that
@@ -17,7 +21,3 @@ to program alternative
 The web page is not useful to users unless they are willing to do
 their own LaTeX programming.
 
-
-----
-
-Content last updated: 2014-06-10

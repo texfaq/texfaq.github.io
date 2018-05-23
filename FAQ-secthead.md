@@ -1,3 +1,7 @@
+---
+ID: Q-secthead
+revised: 2014-06-10
+---
 # The style of section headings
 
 Suppose that the editor of your favourite journal has specified that section
@@ -55,7 +59,3 @@ and
 The web pages provide programming examples, and expect users to adapt
 them to their own LaTeX use.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-whatbst
+revised: 2014-06-10
+---
 # Choosing a bibliography style
 
 A large proportion of people are satisfied with one of Patashnik's
@@ -44,7 +48,3 @@ produce.  (Because [`xampl.bib`](https://ctan.org/pkg/xampl.bib) is so extreme i
 ''examples'', the BibTeX run will also give you an interesting
 selection of BibTeX's error messages&hellip;)
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-nohyph
+revised: 2014-06-10
+---
 # My words aren't being hyphenated
 
 Let's assume you've selected the right TeX ''language''&nbsp;&mdash; as
@@ -55,7 +59,3 @@ choice of hyphenation (ana-lysis is the British etymological
 hyphenation; some feel the American hyphenation feels
 ''unfortunate''&hellip;).
 
-
-----
-
-Content last updated: 2014-06-10

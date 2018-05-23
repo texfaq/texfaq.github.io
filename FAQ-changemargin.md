@@ -1,3 +1,7 @@
+---
+ID: Q-changemargin
+revised: 2014-06-10
+---
 # Changing the margins in LaTeX
 
 Changing the layout of a document's text on the page involves several
@@ -39,7 +43,3 @@ temporarily&nbsp;&mdash; and there's an answer that covers that, too:
 
 -  [Change the margins on the fly](./FAQ-chngmargonfly.html).
 
-
-----
-
-Content last updated: 2014-06-10

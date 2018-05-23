@@ -1,3 +1,7 @@
+---
+ID: Q-instfont
+revised: 2014-06-10
+---
 # Installing a new font
 
 Fonts are really ''just another package'', and so should be installed
@@ -17,7 +21,3 @@ this answer to view them all.
 Other answers discuss specific font families&nbsp;&mdash; for example,
 ''[using the concrete fonts](./FAQ-concrete.html)''.
 
-
-----
-
-Content last updated: 2014-06-10

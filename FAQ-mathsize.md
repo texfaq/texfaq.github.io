@@ -1,3 +1,7 @@
+---
+ID: Q-mathsize
+revised: 2014-06-10
+---
 # Adjusting maths font sizes
 
 In Plain TeX, when you introduce a new font size you must also
@@ -51,7 +55,3 @@ Beware simply copying (parts of) the LaTeX definitions&nbsp;&mdash; since
 they contain those internal abbreviations, they need to be treated as
 [internal commands](./FAQ-atsigns.html).
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-privinst
+revised: 2014-06-10
+---
 # ''Private'' installations of files
 
 It sometimes happens that you need a new version of some macro package
@@ -109,7 +113,3 @@ your new tree, in preference to anything in the main tree&nbsp;&mdash; you can
 use it for updates to packages in the main tree, as well as for
 installing new versions of things.
 
-
-----
-
-Content last updated: 2014-06-10

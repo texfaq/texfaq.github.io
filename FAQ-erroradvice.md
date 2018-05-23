@@ -1,3 +1,7 @@
+---
+ID: Q-erroradvice
+revised: 2014-06-10
+---
 # How to approach errors
 
 Since TeX is a macroprocessor, its error messages are often
@@ -65,7 +69,3 @@ appeal to the [wider public](./FAQ-gethelp.html)
 for assistance, but if you do, be sure to
 report full backtraces (see `errorcontextlines` above) and so on.
 
-
-----
-
-Content last updated: 2014-06-10

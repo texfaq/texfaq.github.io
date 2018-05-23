@@ -1,3 +1,7 @@
+---
+ID: Q-checksum
+revised: 2014-06-10
+---
 # Checksum mismatch in font
 
 When MetaFont generates a font it includes a checksum in the font bitmap
@@ -28,7 +32,3 @@ If the output _does_ look bad, your only chance is to regenerate
 things from scratch.  Options include: flushing your bitmap cache,
 rebuild the TFM file locally, and so on.
 
-
-----
-
-Content last updated: 2014-06-10

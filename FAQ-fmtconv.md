@@ -1,3 +1,7 @@
+---
+ID: Q-fmtconv
+revised: 2014-06-10
+---
 # Other conversions to and from (La)TeX
 
 - troff`Tr2latex`, assists in the translation of a
@@ -88,7 +92,3 @@ translated to or from this one.  `FrameMaker` provides
 ''import filters'' to aid translation from alien formats
 (presumably including TeX) to `FrameMaker`s own.
 
-
-----
-
-Content last updated: 2014-06-10

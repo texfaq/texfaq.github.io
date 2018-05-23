@@ -1,3 +1,7 @@
+---
+ID: Q-drawing
+revised: 2014-06-10
+---
 # Drawing with TeX
 
 There are many packages to do pictures in (La)TeX itself (rather than
@@ -101,7 +105,3 @@ MetaPost, at least) in-line in your document, and then have them
 processed in a command spawned from your (La)TeX run.  For details,
 see [question](./FAQ-inlgrphapp.html).
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-proof
+revised: 2014-06-10
+---
 # Proof environment
 
 It was long thought impossible to make a `proof`
@@ -30,7 +34,3 @@ equation:
 The `\tag*{`\qedhere`}` construction may be used in any of
 AMSLaTeX's numbering environments.
 
-
-----
-
-Content last updated: 2014-06-10

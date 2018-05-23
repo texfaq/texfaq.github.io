@@ -1,3 +1,7 @@
+---
+ID: Q-labelformat
+revised: 2014-06-10
+---
 # How to change the format of labels
 
 By default, when a label is created, it takes on the appearance of the
@@ -59,7 +63,3 @@ has been rendered obsolete by the appearance of the [`enumitem`](https://ctan.or
 package, which is discussed in the answer about 
 [decorating enumeration lists](./FAQ-enumerate.html).
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-tmupfl
+revised: 2014-06-10
+---
 # ''Too many unprocessed floats''
 
 If LaTeX responds to a `\begin{figure}` or
@@ -56,7 +60,3 @@ Techniques for resolution may involve redefining the floats using the
 [`float`](https://ctan.org/pkg/float) package's `[H]` float qualifier, but you are unlikely
 to get away without using `\clearpage` from time to time.
 
-
-----
-
-Content last updated: 2014-06-10

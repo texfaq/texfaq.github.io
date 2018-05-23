@@ -1,3 +1,7 @@
+---
+ID: Q-citeURL
+revised: 2014-06-10
+---
 # URLs in BibTeX bibliographies
 
 There is no citation type for URLs, _per se_, in the
@@ -73,7 +77,3 @@ either of the [`url`](https://ctan.org/pkg/url) or [`hyperref`](https://ctan.org
 ''`%`--end-of-line'' structure in its argument, and
 removes it.
 
-
-----
-
-Content last updated: 2014-06-10

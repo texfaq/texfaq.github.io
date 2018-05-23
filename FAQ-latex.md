@@ -1,3 +1,7 @@
+---
+ID: Q-latex
+revised: 2014-06-10
+---
 # What is LaTeX?
 
 LaTeX is a TeX macro package, originally written by Leslie Lamport, that
@@ -14,7 +18,3 @@ the need for such things as FAQs: LaTeX _can_
 meet most user requirements, but finding out _how_ is often
 tricky.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-oddpage
+revised: 2014-06-10
+---
 # Finding if you're on an odd or an even page
 
 [Another question](./FAQ-marginparside.html) discusses the issue
@@ -72,7 +76,3 @@ whole work will be done inside a box (as, for example, in the case of
 a float), so the elaborate work proposed by the author is not
 necessary.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-appendix
+revised: 2014-06-10
+---
 # Appendixes
 
 LaTeX provides an exceedingly simple mechanism for appendixes: the
@@ -103,7 +107,3 @@ The [`memoir`](https://ctan.org/pkg/memoir) class includes the facilities of the
 [`appendix`](https://ctan.org/pkg/appendix) package.  The [`KOMA-script`](https://ctan.org/pkg/KOMA-script) classes offer a
 `\appendixprefix` command for manipulating the appearance of appendixes.
 
-
-----
-
-Content last updated: 2014-06-10

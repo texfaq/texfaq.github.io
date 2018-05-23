@@ -1,3 +1,7 @@
+---
+ID: Q-latexbug
+revised: 2018-05-23
+---
 # Reporting a LaTeX bug
 
 The LaTeX team supports LaTeX, and will deal with
@@ -34,7 +38,3 @@ are:
 
 5. [Log an issue](https://github.com/latex3/latex2e/issues/new) in the GitHub
    tracker
-
-----
-
-Content last updated: 2018-05-23

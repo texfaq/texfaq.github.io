@@ -1,3 +1,7 @@
+---
+ID: Q-makeindex
+revised: 2014-06-10
+---
 # Generating an index in (La)TeX
 
 Making an index is not trivial; what to index, and how to index it, is
@@ -43,7 +47,3 @@ The following programs are available:
   with ''standard'' LaTeX source, processes it and passes
   ''sanitised'' text to `Xindy`.
 
-
-----
-
-Content last updated: 2014-06-10

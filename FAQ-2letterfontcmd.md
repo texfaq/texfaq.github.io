@@ -1,3 +1,7 @@
+---
+ID: Q-2letterfontcmd
+revised: 2014-06-10
+---
 # What's wrong with `\bf`, `\it`, etc.?
 
 The font-selection commands of LaTeX 2.09 were `\rm`, `\sf`,
@@ -95,7 +99,3 @@ needs LaTeX's simplest font selection commands:
 {\fontshape{ui}\selectfont Tra la la, di dee}
 ```
 
-
-----
-
-Content last updated: 2014-06-10

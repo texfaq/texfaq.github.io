@@ -1,3 +1,7 @@
+---
+ID: Q-conditional
+revised: 2014-06-10
+---
 # Conditional compilation and ''comments''
 
 While LaTeX (or any other TeX-derived package) isn't really like a
@@ -195,7 +199,3 @@ including (numeric or labelled) ranges of environments to extract, and
 an `extract` environment which you can use to create complete
 ready-to-run LaTeX documents with stuff you've extracted.
 
-
-----
-
-Content last updated: 2014-06-10

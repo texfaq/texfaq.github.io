@@ -1,3 +1,7 @@
+---
+ID: Q-textflow
+revised: 2014-06-10
+---
 # Flowing text around figures
 
 There are several LaTeX packages that purport to do this, but they
@@ -78,7 +82,3 @@ functional. Syntax is
 (the user is responsible for having the dimensions correct, and for
 ensuring the figure fits on the page).
 
-
-----
-
-Content last updated: 2014-06-10

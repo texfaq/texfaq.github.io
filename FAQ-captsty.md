@@ -1,3 +1,7 @@
+---
+ID: Q-captsty
+revised: 2014-06-10
+---
 # The style of captions
 
 Changes to the style of captions may be made by redefining the commands
@@ -40,7 +44,3 @@ Note that the previously-recommended package [`caption2`](https://ctan.org/pkg/c
 now been overtaken again by [`caption`](https://ctan.org/pkg/caption); however,
 [`caption2`](https://ctan.org/pkg/caption2) remains available for use in older documents.
 
-
-----
-
-Content last updated: 2014-06-10

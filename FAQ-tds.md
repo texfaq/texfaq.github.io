@@ -1,3 +1,7 @@
+---
+ID: Q-tds
+revised: 2014-06-10
+---
 # What is the TDS?
 
 TDS is an acronym for ''TeX Directory Structure''; it
@@ -27,7 +31,3 @@ The TDS itself is published as the output of a TUG
 copies in several other formats (including source) are available on
 CTAN.
 
-
-----
-
-Content last updated: 2014-06-10

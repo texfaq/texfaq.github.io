@@ -1,3 +1,7 @@
+---
+ID: Q-setURL
+revised: 2014-06-10
+---
 # Typesetting URLs
 
 URLs tend to be very long, and contain characters that would
@@ -73,7 +77,3 @@ after which, `\faqhome` is robust.
 Documentation of both package [`path`](https://ctan.org/pkg/path) and package [`url`](https://ctan.org/pkg/url)
 is in the package files.
 
-
-----
-
-Content last updated: 2014-06-10

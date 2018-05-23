@@ -1,3 +1,7 @@
+---
+ID: Q-onecolabs
+revised: 2014-06-10
+---
 # 1-column abstract in 2-column document
 
 One often requires that the abstract of a paper should appear across
@@ -49,7 +53,3 @@ footnoting. They can be used like this:
 ```
 The [`memoir`](https://ctan.org/pkg/memoir) class offers all the facilities of [`abstract`](https://ctan.org/pkg/abstract).
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-moren9
+revised: 2014-06-10
+---
 # How to break the 9-argument limit
 
 If you think about it, you will realise that Knuth's command
@@ -58,7 +62,3 @@ accurately.
 
         * faq-mac-prog.tex (q-keyval): tweak words about getoptk
 
-
-----
-
-Content last updated: 2014-06-10

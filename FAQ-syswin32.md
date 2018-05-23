@@ -1,3 +1,7 @@
+---
+ID: Q-syswin32
+revised: 2014-06-10
+---
 # (Modern) Windows systems
 
 Windows users nowadays have a real choice, between two excellent
@@ -62,7 +66,3 @@ TeX, which further the focus.
   web site), and read installation instructions from 
   [the MiKTeX installation page](http://www.miktex.org/2.9/setup)
 
-
-----
-
-Content last updated: 2014-06-10

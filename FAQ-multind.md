@@ -1,3 +1,7 @@
+---
+ID: Q-multind
+revised: 2014-06-10
+---
 # Multiple indexes
 
 LaTeX's standard indexing capabilities (those provided by the
@@ -123,7 +127,3 @@ The [`memoir`](https://ctan.org/pkg/memoir) class has its own multiple-index fun
 well as its own index layout options, which other packages delegate to
 the index style used by `makeindex`).
 
-
-----
-
-Content last updated: 2014-06-10

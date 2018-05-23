@@ -1,3 +1,7 @@
+---
+ID: Q-runheadtoobig
+revised: 2014-06-10
+---
 # My section title is too wide for the page header
 
 By default, LaTeX sectioning commands make the chapter or section
@@ -78,7 +82,3 @@ example:
 As a result, it is always possible for users of [`memoir`](https://ctan.org/pkg/memoir) to
 tailor the header text to fit, with very little trouble.
 
-
-----
-
-Content last updated: 2014-06-10

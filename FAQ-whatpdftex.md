@@ -1,3 +1,7 @@
+---
+ID: Q-whatpdftex
+revised: 2014-06-10
+---
 # What is pdfTeX?
 
 One can reasonably say that pdfTeX is (today) the main stream of
@@ -32,7 +36,3 @@ Development of pdfTeX has mostly stopped (only bug fixes, and
 occasional small development items are processed): future development
 is focused on [LuaTeX](./FAQ-luatex.html).
 
-
-----
-
-Content last updated: 2014-06-10

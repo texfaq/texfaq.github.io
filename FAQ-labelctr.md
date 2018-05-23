@@ -1,3 +1,7 @@
+---
+ID: Q-labelctr
+revised: 2014-06-10
+---
 # Making labels from a counter
 
 Suppose we have a LaTeX counter, which we've defined with
@@ -17,7 +21,3 @@ of either of the stepping methods above, you say
 new value, and (until something else comes along), `\label` will
 refer to the counter.
 
-
-----
-
-Content last updated: 2014-06-10

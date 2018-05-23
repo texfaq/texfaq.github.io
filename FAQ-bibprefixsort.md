@@ -1,3 +1,7 @@
+---
+ID: Q-bibprefixsort
+revised: 2014-06-10
+---
 # BibTeX sorting and name prefixes
 
 BibTeX recognises a bewildering array of name prefixes (mostly
@@ -44,7 +48,3 @@ though that author seems well-acquainted with Western confusion about
 the significance of the parts of his name (even to the extent of
 missing out the accentuation, as above&hellip;).
 
-
-----
-
-Content last updated: 2014-06-10

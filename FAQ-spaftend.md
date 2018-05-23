@@ -1,3 +1,7 @@
+---
+ID: Q-spaftend
+revised: 2014-06-10
+---
 # There's a space added after my environment
 
 You've written your own environment `env`, and it works
@@ -14,7 +18,3 @@ the unwanted spaces to be ignored.  Fortunately, you don't have to use
 the internal form: since 1996, LaTeX has had a user command
 `\ignorespacesafterend`, which sets the internal flag.
 
-
-----
-
-Content last updated: 2014-06-10

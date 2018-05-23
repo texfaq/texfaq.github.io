@@ -1,3 +1,7 @@
+---
+ID: Q-nocitestar
+revised: 2014-06-10
+---
 # Listing all your BibTeX entries
 
 LaTeX and BibTeX co-operate to offer special treatment of this
@@ -23,7 +27,3 @@ was written for use under LaTeX 2.09, but seems to work well enough;
 in the old days of LaTeX systems with very little free memory; this
 problem is less significant now than it once was.)
 
-
-----
-
-Content last updated: 2014-06-10

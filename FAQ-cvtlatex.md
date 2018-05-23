@@ -1,3 +1,7 @@
+---
+ID: Q-cvtlatex
+revised: 2014-06-10
+---
 # Transcribing LaTeX command definitions
 
 At several places in this FAQ, questions are answered in terms
@@ -72,7 +76,3 @@ coding of the last `\foo` above:
 ```
 <!-- {% endraw %} -->
 
-
-----
-
-Content last updated: 2014-06-10

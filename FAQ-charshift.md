@@ -1,3 +1,7 @@
+---
+ID: Q-charshift
+revised: 2014-06-10
+---
 # Weird characters in `dvips` output
 
 You've innocently generated output, using `dvips`, and there
@@ -16,7 +20,3 @@ suppress the implicit switch in the pseudo-printer file.
 The problem has been corrected in `dvips` v&nbsp;5.90 (and later
 versions); it is unlikely ever to recur&hellip;
 
-
-----
-
-Content last updated: 2014-06-10

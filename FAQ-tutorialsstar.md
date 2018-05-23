@@ -1,3 +1,7 @@
+---
+ID: Q-tutorialsstar
+revised: 2014-06-10
+---
 # Tutorials, etc., for TeX-based systems
 
 From a situation where every (La)TeX user _had_ to buy a book
@@ -21,7 +25,3 @@ Next comes the (somewhat newer) field of
 A rather short list gives us a 
 [Typography style tutorial](./FAQ-typo-style.html).
 
-
-----
-
-Content last updated: 2014-06-10

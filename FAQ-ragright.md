@@ -1,3 +1,7 @@
+---
+ID: Q-ragright
+revised: 2014-06-10
+---
 # Setting text ragged right
 
 The trick with typesetting ragged right is to be sure you've told the
@@ -21,7 +25,3 @@ transformations of the LaTeX kernel originals.  The documentation
 discusses the issues and explains the significance of the various
 parameters of [`ragged2e`](https://ctan.org/pkg/ragged2e)'s operation.
 
-
-----
-
-Content last updated: 2014-06-10

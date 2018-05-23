@@ -1,3 +1,7 @@
+---
+ID: Q-nopagebrk
+revised: 2014-06-10
+---
 # Preventing page breaks between lines
 
 One commonly requires that a block of typeset material be kept on the
@@ -113,7 +117,3 @@ page break.  Similarly `\nopagebreak[0]` makes a suggestion,
 while `\nopagebreak[4]` is a demand.  In both commands, the
 default value of the optional argument is 4.
 
-
-----
-
-Content last updated: 2014-06-10

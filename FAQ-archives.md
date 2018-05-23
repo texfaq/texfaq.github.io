@@ -1,3 +1,7 @@
+---
+ID: Q-archives
+revised: 2014-06-10
+---
 # Repositories of TeX material
 
 To aid the archiving and retrieval of of TeX-related files, a
@@ -31,7 +35,3 @@ network may buy a copy of the archive as part of the
 of date, but it is likely to be better than what (if anything) came
 with your operating system.
 
-
-----
-
-Content last updated: 2014-06-10

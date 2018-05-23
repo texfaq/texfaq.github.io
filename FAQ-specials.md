@@ -1,3 +1,7 @@
+---
+ID: Q-specials
+revised: 2014-06-10
+---
 # `\special` commands
 
 TeX provides the means to express things that device drivers can
@@ -33,7 +37,3 @@ there is no device driver around.  There _is_ a concept of
 PDF specials, but in most cases `\special` will provoke a
 warning when used in pdfTeX.
 
-
-----
-
-Content last updated: 2014-06-10

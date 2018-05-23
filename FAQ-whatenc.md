@@ -1,3 +1,7 @@
+---
+ID: Q-whatenc
+revised: 2014-06-10
+---
 # What are encodings?
 
 Let's start by defining two concepts, the _character_ and the
@@ -76,7 +80,3 @@ most font encodings can't match the corresponding input encoding
 nearly so well, and the two packages provide the sort of symmetry the
 LaTeX system needs.
 
-
-----
-
-Content last updated: 2014-06-10

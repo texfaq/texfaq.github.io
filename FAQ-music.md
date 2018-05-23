@@ -1,3 +1,7 @@
+---
+ID: Q-music
+revised: 2014-06-10
+---
 # Typesetting music in TeX
 
 The current best bet for music typesetting is to use
@@ -63,7 +67,3 @@ Once Andreas Egler had withdrawn (his last version of
 [`musixtex`](https://ctan.org/pkg/musixtex) is preserved on the archive), Daniel Taupin took up
 the development, leading to the [`musixtex`](https://ctan.org/pkg/musixtex) used today.
 
-
-----
-
-Content last updated: 2014-06-10

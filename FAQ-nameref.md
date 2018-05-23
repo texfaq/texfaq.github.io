@@ -1,3 +1,7 @@
+---
+ID: Q-nameref
+revised: 2014-06-10
+---
 # Referring to things by their name
 
 LaTeX's labelling mechanism is designed for the impersonal world of
@@ -54,7 +58,3 @@ optional ''short'' title argument to the chapter and section commands.
 (Although it comes from the same author, [`zref`](https://ctan.org/pkg/zref) _doesn't_
 define a short-name variant.)
 
-
-----
-
-Content last updated: 2014-06-10

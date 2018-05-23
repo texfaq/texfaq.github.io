@@ -1,3 +1,7 @@
+---
+ID: Q-marginparside
+revised: 2014-06-10
+---
 # Getting `\marginpar` on the right side
 
 In an ideal world, marginal notes would be in ''analogous'' places on
@@ -22,7 +26,3 @@ of the page each `\marginpar` _should_ be on.  The
 [`mparhack`](https://ctan.org/pkg/mparhack) package does this, using label-like marks stored in
 the `aux` file; the [`memoir`](https://ctan.org/pkg/memoir) class does likewise.
 
-
-----
-
-Content last updated: 2014-06-10

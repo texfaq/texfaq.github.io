@@ -1,3 +1,7 @@
+---
+ID: Q-includeother
+revised: 2014-06-10
+---
 # LaTeX won't include from other directories
 
 You wanted to `\include{../bar/xyz.tex}`, but LaTeX says:
@@ -53,7 +57,3 @@ Solutions to the problem tend to be drastic:
     hint; this action is definitely not recommended, and is left to
     those who can ''help themselves'' in this respect.
 
-
-----
-
-Content last updated: 2014-06-10

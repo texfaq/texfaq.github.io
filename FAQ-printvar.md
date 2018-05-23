@@ -1,3 +1,7 @@
+---
+ID: Q-printvar
+revised: 2014-06-10
+---
 # How to print contents of variables?
 
 It is often useful to print out the values of variables in the log
@@ -42,7 +46,3 @@ while, if we say:
 we get:
 `\foo` is 4.21747mm
 
-
-----
-
-Content last updated: 2014-06-10

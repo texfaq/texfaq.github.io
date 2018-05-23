@@ -1,3 +1,7 @@
+---
+ID: Q-useMF
+revised: 2014-06-10
+---
 # Getting MetaFont to do what you want
 
 MetaFont allows you to create your own fonts, and most TeX users
@@ -111,7 +115,3 @@ parameters, you should use them to rebuild the base file that you use.
 Other sources of help are discussed in our list of 
 [MetaFont and MetaPost Tutorials](./FAQ-mfptutorials.html).
 
-
-----
-
-Content last updated: 2014-06-10

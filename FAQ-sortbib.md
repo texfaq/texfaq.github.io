@@ -1,3 +1,7 @@
+---
+ID: Q-sortbib
+revised: 2014-06-10
+---
 # Sorting lists of citations
 
 BibTeX has a sorting function, and most BibTeX styles sort the
@@ -17,7 +21,3 @@ you get to sort its contents.  BibTeX will only sort the contents
 of a `thebibliography` environment when it creates it, to
 be inserted from a `bbl` file by a `\bibliography` command.
 
-
-----
-
-Content last updated: 2014-06-10

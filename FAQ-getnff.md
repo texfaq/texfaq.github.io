@@ -1,3 +1,7 @@
+---
+ID: Q-getnff
+revised: 2014-06-10
+---
 # Getting ''free'' fonts not in your distribution
 
 Some fonts are free to use, but may not be sold.  This creates a
@@ -36,7 +40,3 @@ extract them from their `zip` file, install them and update
 the font maps.  It even goes so far as to apologise for how long it's
 taking!
 
-
-----
-
-Content last updated: 2014-06-10

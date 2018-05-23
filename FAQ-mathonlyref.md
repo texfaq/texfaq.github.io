@@ -1,3 +1,7 @@
+---
+ID: Q-mathonlyref
+revised: 2014-06-10
+---
 # Numbers for referenced equations only
 
 There are those who consider that papers look untidy with numbers on
@@ -19,7 +23,3 @@ operation, only those equations to which you make reference will be
 numbered in the final output.  See the package's documentation for
 details of how to make references when the switch is in effect.
 
-
-----
-
-Content last updated: 2014-06-10

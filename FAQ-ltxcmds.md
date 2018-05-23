@@ -1,3 +1,7 @@
+---
+ID: Q-ltxcmds
+revised: 2014-06-10
+---
 # The definitions of LaTeX commands
 
 There are several reasons to want to know the definitions of LaTeX
@@ -159,7 +163,3 @@ context.
 All these .dtx files are on CTAN as part of the main LaTeX
 distribution.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-wideflt
+revised: 2014-06-10
+---
 # Centring a very wide figure or table
 
 The normal means of centring a figure or table object is to include
@@ -24,7 +28,3 @@ make it pretend to be the right size by:
 Note the `\noindent`: the `\makebox` starts a paragraph, and you
 really don't want that indented by `\parindent`.
 
-
-----
-
-Content last updated: 2014-06-10

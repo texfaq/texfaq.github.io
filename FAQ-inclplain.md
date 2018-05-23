@@ -1,3 +1,7 @@
+---
+ID: Q-inclplain
+revised: 2014-06-10
+---
 # Including Plain TeX files in LaTeX
 
 LaTeX, though originally [based on Plain TeX](./FAQ-LaTeXandPlain.html), does not
@@ -22,7 +26,3 @@ AMSTeX; no doubt it would also fail if asked to load Eplain.
 All these things can be overcome (although it's not often easy), but
 the environment saves a lot of work on many occasions.
 
-
-----
-
-Content last updated: 2014-06-10

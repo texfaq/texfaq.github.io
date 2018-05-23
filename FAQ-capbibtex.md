@@ -1,3 +1,7 @@
+---
+ID: Q-capbibtex
+revised: 2014-06-10
+---
 # Capitalisation in BibTeX
 
 The standard BibTeX bibliography styles impose fixed ideas about
@@ -35,7 +39,3 @@ style with different capitalisation rules.
 There's more on the subject in the
 [BibTeX documentation](./FAQ-BibTeXing.html).
 
-
-----
-
-Content last updated: 2014-06-10

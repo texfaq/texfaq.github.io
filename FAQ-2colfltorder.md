@@ -1,3 +1,7 @@
+---
+ID: Q-2colfltorder
+revised: 2014-06-10
+---
 # Two-column float numbers out of order
 
 When LaTeX can't place a float immediately, it places it on one of
@@ -26,7 +30,3 @@ Once you have loaded the package, no more remains to be done: the
 whole requirement is to patch the output routine; no extra commands
 are needed.
 
-
-----
-
-Content last updated: 2014-06-10

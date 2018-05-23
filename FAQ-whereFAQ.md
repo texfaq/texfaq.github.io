@@ -1,3 +1,7 @@
+---
+ID: Q-whereFAQ
+revised: 2014-06-10
+---
 # Where to find FAQs
 
 Bobby Bodenheimer's article, from which this FAQ was developed, used
@@ -44,7 +48,3 @@ Other non-English FAQs are available (off-CTAN):
 - CzechSee [http://www.fi.muni.cz/cstug/csfaq/](http://www.fi.muni.cz/cstug/csfaq/)
 
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-extref
+revised: 2014-06-10
+---
 # Referring to labels in other documents
 
 When producing a set of inter-related documents, you'll often want to
@@ -66,7 +70,3 @@ The module provides all the facilities of the older packages, and can
 deal both with ''traditional'' LaTeX labels and with
 [`zref`](https://ctan.org/pkg/zref)'s style of labels.
 
-
-----
-
-Content last updated: 2014-06-10

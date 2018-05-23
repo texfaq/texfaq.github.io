@@ -1,3 +1,7 @@
+---
+ID: Q-latexqual
+revised: 2014-06-10
+---
 # The quality of your LaTeX
 
 The [`l2tabu`](https://ctan.org/pkg/l2tabu) tutorial (mentioned in 
@@ -36,7 +40,3 @@ download its script, which you can then juggle with to make it more
 draconian.
   language that is convenient for you
 
-
-----
-
-Content last updated: 2014-06-10

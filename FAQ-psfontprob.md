@@ -1,3 +1,7 @@
+---
+ID: Q-psfontprob
+revised: 2014-06-10
+---
 # Deploying Type 1 fonts
 
 For the LaTeX user trying to use the
@@ -23,7 +27,3 @@ want to override them. Even the casual user may find  more
 hyphenation or overfull boxes than Computer Modern produces; but CM
 is extremely generous. 
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-2colfloat
+revised: 2018-05-18
+---
 # Placing two-column floats at bottom of page
 
 You specified placement `[htbp]` for your full-width figure or
@@ -34,7 +38,3 @@ LaTeX honour ''[h]'' placement of double-column floats, but the
 [`midfloat`](https://ctan.org/pkg/midfloat) package can be pressed into service to provide
 something approximating the effect it would have.)
 
-
-----
-
-Content last updated: 2018-05-18

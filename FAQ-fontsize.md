@@ -1,3 +1,7 @@
+---
+ID: Q-fontsize
+revised: 2014-06-10
+---
 # Fonts at arbitrary sizes
 
 Almost all fonts, nowadays, are provided with LaTeX control
@@ -51,7 +55,3 @@ provide a close simulacrum of the `Computer`
 distribution, and don't therefore need any such trick as the above.
   the absence of the scaled fonts)
 
-
-----
-
-Content last updated: 2014-06-10

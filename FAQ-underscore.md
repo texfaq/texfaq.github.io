@@ -1,3 +1,7 @@
+---
+ID: Q-underscore
+revised: 2014-06-10
+---
 # How to typeset an underscore character
 
 The underscore character `_` is ordinarily used in TeX to
@@ -47,7 +51,3 @@ which will provide a command `\textunderscore` which robustly
 selects the right character.  The [`underscore`](https://ctan.org/pkg/underscore) package,
 mentioned above, will use this command.
 
-
-----
-
-Content last updated: 2014-06-10

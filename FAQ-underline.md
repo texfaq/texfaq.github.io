@@ -1,3 +1,7 @@
+---
+ID: Q-underline
+revised: 2014-06-10
+---
 # Underlined text won't break
 
 Knuth made no provision for underlining text: he took the view that
@@ -32,7 +36,3 @@ loading the package with:
 \usepackage[normalem]{ulem}
 ```
 
-
-----
-
-Content last updated: 2014-06-10

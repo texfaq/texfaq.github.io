@@ -1,3 +1,7 @@
+---
+ID: Q-paraparam
+revised: 2014-06-10
+---
 # Why does it ignore paragraph parameters?
 
 When TeX is laying out text, it doesn't work from word to word, or
@@ -56,7 +60,3 @@ case/lower case translations, which (oddly enough) constrains
 hyphenation of mutilingual texts.  Another that regularly creates
 confusion is [`\baselineskip`](./FAQ-baselinepar.html).
 
-
-----
-
-Content last updated: 2014-06-10

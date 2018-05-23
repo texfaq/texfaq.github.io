@@ -1,3 +1,7 @@
+---
+ID: Q-numbersets
+revised: 2014-06-10
+---
 # Symbols for the number sets
 
 Mathematicians commonly use special lettering for the real numbers and
@@ -87,7 +91,3 @@ do better than the macros, or anything similar using capital ''I''
 (which looks even worse!).  Voluntary  (La)TeX effort has redefined
 the meaning of laziness (in this respect!).
 
-
-----
-
-Content last updated: 2014-06-10

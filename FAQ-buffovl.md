@@ -1,3 +1,7 @@
+---
+ID: Q-buffovl
+revised: 2014-06-10
+---
 # Unable to read an entire line
 
 TeX belongs to the generation of applications written for
@@ -53,7 +57,3 @@ if necessary.)  Users of the shareware program
 will find buttons to perform the required transformation of the file
 being displayed.
 
-
-----
-
-Content last updated: 2014-06-10

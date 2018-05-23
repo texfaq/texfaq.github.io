@@ -1,3 +1,7 @@
+---
+ID: Q-whatengine
+revised: 2014-06-10
+---
 # Am I using pdfTeX, XeTeX or LuaTeX?
 
 You often need to know what ''engine'' your macros are running on (the
@@ -93,7 +97,3 @@ output, you also need to know about the value of `\pdfoutput`:
 \fi
 ```
 
-
-----
-
-Content last updated: 2014-06-10

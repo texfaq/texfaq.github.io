@@ -1,3 +1,7 @@
+---
+ID: Q-changebars
+revised: 2014-06-10
+---
 # Marking changed parts of your document
 
 One often needs clear indications of how a document has changed, but
@@ -76,7 +80,3 @@ A rudimentary revision facility is provided by another
 all changes.  Manual editing of the difference file can be used to 
 accept or reject selected changes only.
 
-
-----
-
-Content last updated: 2014-06-10

@@ -1,3 +1,7 @@
+---
+ID: Q-theoremfmt
+revised: 2014-06-10
+---
 # Theorem bodies printed in a roman font
 
 If you want to take advantage of the powerful `\newtheorem` command
@@ -16,7 +20,3 @@ Alternatively, the following sets up an environment
 The [`ntheorem`](https://ctan.org/pkg/ntheorem) package provides control of the fonts used by
 theorems, directly.
 
-
-----
-
-Content last updated: 2014-06-10
