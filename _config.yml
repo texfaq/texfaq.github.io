@@ -1,1 +1,1 @@
-exlcude: ['CONTRIBUTING.md', 'LICENSE.md', 'README.md']
+exclude: ['CONTRIBUTING.md', 'LICENSE.md', 'README.md']
