@@ -23,10 +23,10 @@ The [`yagusylo`](http://ctan.org/pkg/yagusylo) describes itself as ''an extended
 [`pifont`](http://ctan.org/pkg/pifont), gone technicolor''.  It provides all the facilities
 of [`pifont`](http://ctan.org/pkg/pifont), but allows you to create your own mnemonic names
 for symbols.  Thus, while you can say 
-`\yagding[family]{symbol number}`[colour], you can also
+`\yagding[family]{symbol number}`[color], you can also
 define symbol names with `\defdingname`, and then use them
 with `\yagding*{symbol name}` (the defined name carries the
-font family and colour specified in the arguments of
+font family and color specified in the arguments of
 `\defdingname`).
 
 [`Yagusylo`](http://ctan.org/pkg/Yagusylo) is somewhat complicated, but its documentation is

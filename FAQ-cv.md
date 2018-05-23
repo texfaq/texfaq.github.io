@@ -17,7 +17,7 @@ of example files, and an emacs mode is provided.
 Xavier Danaux offers a class [`moderncv`](http://ctan.org/pkg/moderncv) which supports
 typesetting modern _curricula vitarum_, both in a classic and in a
 casual style. It is fairly customizable, allowing you to define your
-own style by changing the colours, the fonts, etc.
+own style by changing the colors, the fonts, etc.
 
 The European Commission has recommended a format for 
 _curricula vitarum_ within Europe, and Nicola Vitacolonna has

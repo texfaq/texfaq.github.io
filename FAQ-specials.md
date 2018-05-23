@@ -3,7 +3,7 @@
 TeX provides the means to express things that device drivers can
 do, but about which TeX itself knows nothing.  For example, TeX
 itself knows nothing about how to include PostScript figures into
-documents, or how to set the colour of printed text; but some device
+documents, or how to set the color of printed text; but some device
 drivers do.
 
 Instructions for such things are introduced to your document by means
@@ -13,10 +13,10 @@ arguments and then pass the command to the DVI file.  In most
 cases, there are macro packages provided (often with the driver) that
 provide a human-friendly interface to the `\special`; for example,
 there's little point including a figure if you leave no gap for it in
-your text, and changing colour proves to be a particularly fraught
+your text, and changing color proves to be a particularly fraught
 operation that requires real wizardry.  LaTeX 2e
-has standard graphics and colour packages that make figure inclusion,
-rotation and scaling, and colour typesetting relatively
+has standard graphics and color packages that make figure inclusion,
+rotation and scaling, and color typesetting relatively
 straightforward, despite the rather daunting `\special` commands
 involved.  (ConTeXt provides similar support, though not by way of
 packages.)

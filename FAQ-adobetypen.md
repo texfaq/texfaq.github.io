@@ -44,7 +44,7 @@ Reader's failure with them is entirely derived from its failure to use
 the anti-aliasing techniques common in TeX-ware.  Choose a
 different set of PostScript graphical operators, and you can make pleasing
 Type&nbsp;3 fonts that don't ''annoy'' Reader.  For example, you may not
-change colour within a Type&nbsp;1 font glyph, but there's no such
+change color within a Type&nbsp;1 font glyph, but there's no such
 restriction on a Type&nbsp;3 font, which opens opportunities for some
 startling effects.
 

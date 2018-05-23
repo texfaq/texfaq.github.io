@@ -18,10 +18,10 @@ as simple as
   ...
 \end{Parallel}
 ```
-[`Parallel`](http://ctan.org/pkg/Parallel) can get terribly confused with colour changes, in
+[`Parallel`](http://ctan.org/pkg/Parallel) can get terribly confused with color changes, in
 pdfTeX; the indefatigable Heiko Oberdiek has a patch for this
 issue&nbsp;&mdash; the [`pdfcolparallel`](http://ctan.org/pkg/pdfcolparallel) package, which maintains
-separate colour stacks for the columns.
+separate color stacks for the columns.
 
 The [`parcolumns`](http://ctan.org/pkg/parcolumns) package can (in principle) deal with any
 number of columns: the documentation shows its use with three
@@ -40,7 +40,7 @@ though there is of course a ''number of columns to specify'':
 ```
 The &lsaquo;_options_&rsaquo; can specify the widths of the columns, whether to
 place rules between the columns, whether to set the columns sloppy,
-etc.  Again, there are issues with colours, which are addressed by the
+etc.  Again, there are issues with colors, which are addressed by the
 [`pdfcolparcolumns`](http://ctan.org/pkg/pdfcolparcolumns) package.
 
 The [`ledpar`](http://ctan.org/pkg/ledpar) package is distributed with (and integrated with)

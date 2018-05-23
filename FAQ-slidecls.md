@@ -1,8 +1,8 @@
 # Producing presentations (including slides)
 
 Lamport's original LaTeX had a separate program (SliTeX) for
-producing slides; it dates from the age when colour effects were
-produced by printing separate slides in different-coloured inks, and
+producing slides; it dates from the age when color effects were
+produced by printing separate slides in different-colored inks, and
 overlaying them, and was just about acceptable back then.  When
 LaTeX 2e came along, the reason SliTeX had to be a separate
 program went away, and its functionality was supplied by the

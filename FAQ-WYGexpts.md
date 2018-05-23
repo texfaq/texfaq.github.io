@@ -27,7 +27,7 @@ actually is good at editing (as well as catering for TeX), it is
 perhaps no accident that several approaches have been implemented
 using the extensible `emacs` editor.  The low end of the
 prettifying range is occupied by syntax highlighting: marking TeX
-tokens, comments and other stuff with special colours.
+tokens, comments and other stuff with special colors.
 Many free editors (including `emacs`) can cater for TeX in
 this way.  Under Windows, one of the more popular editors with such
 support is the

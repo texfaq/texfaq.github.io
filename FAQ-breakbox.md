@@ -6,12 +6,12 @@ out beyond the side or the bottom of the page if it doesn't fit in the
 typeset area.
 
 If you want a substantial portion of your text to be framed (or
-coloured), the restriction imposes a serious restriction.
+colored), the restriction imposes a serious restriction.
 Fortunately, there are ways around the problem.
 
 The [`framed`](http://ctan.org/pkg/framed) package provides `framed` and
 `shaded` environments; both put their content into
-something which looks like a framed (or coloured) box, but which
+something which looks like a framed (or colored) box, but which
 breaks as necessary at page end.  The environments ''lose'' footnotes,
 marginpars and head-line entries, and will not work with
 [`multicol`](http://ctan.org/pkg/multicol) or other column-balancing macros.  The
@@ -36,7 +36,7 @@ marginpars will be lost.
 For Plain TeX users, the facilities of the [`backgrnd`](http://ctan.org/pkg/backgrnd)
 package may be useful; this package subverts the output routine to
 provide vertical bars to mark text, and the macros are clearly marked
-to show where coloured backgrounds may be introduced (this requires
+to show where colored backgrounds may be introduced (this requires
 [`shade`](http://ctan.org/pkg/shade), which is distributed as tex macros and
 device-independent MetaFont for the shading).  The author of
 [`backgrnd`](http://ctan.org/pkg/backgrnd) claims that the package works with LaTeX 2.09, but

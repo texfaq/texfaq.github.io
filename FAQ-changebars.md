@@ -58,9 +58,9 @@ some word-processors&nbsp;&mdash; to produce a document that embodies both
 
 To this end, the package [`changes`](http://ctan.org/pkg/changes) allows the user to manually
 markup changes of text, such as additions, deletions, or replacements.
-Changed text is shown in a different colour; deleted text is crossed
+Changed text is shown in a different color; deleted text is crossed
 out.  The package allows you to define additional authors and their
-associated colour; it also allows you to define a markup for authors
+associated color; it also allows you to define a markup for authors
 or annotations.  The documentation (very clearly) demonstrates how the
 various functions work.
 

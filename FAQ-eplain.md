@@ -31,7 +31,7 @@ current document) and external (pointing to another local document or
 a URL).
 
 Several LaTeX packages provide capabilities which Plain TeX
-users are lacking, most notably text colouring and rotation provided by
+users are lacking, most notably text coloring and rotation provided by
 the [`graphics`](http://ctan.org/pkg/graphics) bundle (packages [`color`](http://ctan.org/pkg/color) and
 [`graphics`](http://ctan.org/pkg/graphics)).  Although the [`graphics`](http://ctan.org/pkg/graphics) bundle provides
 a Plain TeX ''loader'' for some of the packages, it is not a
