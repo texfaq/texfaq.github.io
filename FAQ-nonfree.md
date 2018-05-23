@@ -1,6 +1,6 @@
 ---
 section: Acquiring the Software
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # What was the CTAN `nonfree` tree?
 

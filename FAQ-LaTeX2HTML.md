@@ -1,6 +1,6 @@
 ---
 section: Format conversions
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Conversion from (La)TeX to HTML
 

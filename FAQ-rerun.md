@@ -1,6 +1,6 @@
 ---
 section: Common misunderstandings
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # ''Rerun'' messages won't go away
 

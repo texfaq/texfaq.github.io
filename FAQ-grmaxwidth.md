@@ -1,6 +1,6 @@
 ---
 section: Graphics
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Limit the width of imported graphics
 

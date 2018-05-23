@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: LaTeX macro programming
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Finding if a label is undefined
 

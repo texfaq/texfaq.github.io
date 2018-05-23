@@ -1,7 +1,7 @@
 ---
 section: Fonts
 subsection: Adobe Type&nbsp;1 (''PostScript'') fonts
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Choice of Type&nbsp;1 fonts for typesetting Maths
 

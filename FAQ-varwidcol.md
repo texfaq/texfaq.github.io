@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Tables, figures and diagrams
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Variable-width columns in tables
 

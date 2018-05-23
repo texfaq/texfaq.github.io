@@ -1,6 +1,6 @@
 ---
 section: Format conversions
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Other conversions to and from (La)TeX
 

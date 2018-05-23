@@ -1,6 +1,6 @@
 ---
 section: You're still stuck?
-revised: 2018-05-23
+date: 2018-05-23
 ---
 # What to do if you find a bug
 

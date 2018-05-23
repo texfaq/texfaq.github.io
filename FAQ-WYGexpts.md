@@ -1,6 +1,6 @@
 ---
 section: Current TeX-related projects
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # The TeX document preparation environment
 

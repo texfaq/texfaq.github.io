@@ -1,6 +1,6 @@
 ---
 section: Bits and pieces of (La)TeX
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # What is ''Encapsulated PostScript'' (''EPS'')?
 

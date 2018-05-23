@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Creating bibliographies
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # BibTeX doesn't understand lists of names
 

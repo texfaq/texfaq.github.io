@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Document management
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Conditional compilation and ''comments''
 

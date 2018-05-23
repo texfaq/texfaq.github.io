@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Manipulating whole bibliographies
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Making HTML of your Bibliography
 

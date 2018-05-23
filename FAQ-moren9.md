@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: ''Generic'' macros and techniques
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # How to break the 9-argument limit
 

@@ -1,7 +1,7 @@
 ---
 section: Fonts
 subsection: MetaFont fonts
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Getting MetaFont to do what you want
 

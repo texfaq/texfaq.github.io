@@ -1,6 +1,6 @@
 ---
 section: The Background
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # What are the AMS packages (AMSTeX, etc.)?
 

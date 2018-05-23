@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Page layout
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Packages to set up page designs
 

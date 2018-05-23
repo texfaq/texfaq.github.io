@@ -1,6 +1,6 @@
 ---
 section: You're still stuck?
-revised: 2018-05-22
+date: 2018-05-22
 ---
 # You don't understand the answer
 

@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Odds and ends
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Typesetting all those TeX-related logos
 

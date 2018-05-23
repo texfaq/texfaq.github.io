@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Floating tables, figures, etc.
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Figure (or table) _exactly_ where I want it
 

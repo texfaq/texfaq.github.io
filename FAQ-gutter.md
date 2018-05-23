@@ -1,6 +1,6 @@
 ---
 section: Common misunderstandings
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Why is the inside margin so narrow?
 

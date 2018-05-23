@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Token not allowed in PDFDocEncoded string
 

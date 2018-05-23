@@ -1,7 +1,7 @@
 ---
 section: Why does it _do_ that?
 subsection: Common errors
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Link text doesn't break at end line
 

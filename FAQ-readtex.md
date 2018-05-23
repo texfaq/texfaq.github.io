@@ -1,6 +1,6 @@
 ---
 section: The Background
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Reading (La)TeX files
 

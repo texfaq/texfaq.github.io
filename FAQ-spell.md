@@ -1,6 +1,6 @@
 ---
 section: Support Packages for TeX
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Spelling checkers for work with TeX
 

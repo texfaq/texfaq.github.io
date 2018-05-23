@@ -1,6 +1,6 @@
 ---
 section: Symbols, etc.
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Setting bold Greek letters in LaTeX maths
 

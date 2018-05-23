@@ -1,6 +1,6 @@
 ---
 section: Installing (La)TeX files
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Installing the Type&nbsp;1 versions of the CM&nbsp;fonts
 

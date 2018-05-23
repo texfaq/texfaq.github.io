@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Spacing of characters and lines
-revised: 2014-06-10
+date: 2014-06-10
 ---
 # Changing the space between letters
 
