@@ -9,7 +9,7 @@ date: 2014-06-10
 There are three general routes to PDF output: Adobe's original
 ''distillation'' route (via PostScript output), direct conversion of a
 DVI file, and the use of a direct TeX-like PDF
-generator such as [pdfTeX](FAQ-whatpdftex.md).
+generator such as [pdfTeX](FAQ-pdftex.md).
 
 For simple documents (with no hyper-references), you can either
   

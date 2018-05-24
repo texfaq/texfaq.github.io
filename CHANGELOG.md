@@ -15,6 +15,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Changed
 - Q-bug: Karl Berry now collects TeX bugs
 - Q-LaTeX3: Revised to reflect new GitHub-based workflow and website changes
+- Q-whatpdftex: Renamed to Q-pdftex
 
 ### Removed
 - Q-ant: Incorporated into Q-alternatives

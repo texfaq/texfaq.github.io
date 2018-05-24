@@ -105,7 +105,7 @@ the TeX engine with some additional useful features:
   PDF features such as hyperlinks, bookmarks, and annotations,
   pdfTeX additionally supports two sophisticated micro-typographic
   features: character protrusion and font expansion.  See
-  [What is pdfTeX?](FAQ-whatpdftex.md).
+  [What is pdfTeX?](FAQ-pdftex.md).
 
   - XeTeX (executable: `xetex`)
   XeTeX reads UTF-8 encoded Unicode input, and extends

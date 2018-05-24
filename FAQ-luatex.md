@@ -7,7 +7,7 @@ date: 2014-06-10
 # pdfTeX and LuaTeX
 
 Elsewhere in these FAQs, we learn that development of
-[pdfTeX](FAQ-whatpdftex.md) is ''in essence'' complete&nbsp;&mdash; no new
+[pdfTeX](FAQ-pdftex.md) is ''in essence'' complete&nbsp;&mdash; no new
 facilities are being developed at the time of writing.  The pdfTeX
 team has announced that they have frozen pdfTeX's specification in
 its current state (version 1.40.11), and that nothing but bug

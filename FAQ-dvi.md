@@ -13,7 +13,7 @@ device or display.
 
 A DVI file (that is, a file with the type or extension
 `dvi`) is the main output file of ''original'' TeX (later
-TeX-like systems, such as [pdfTeX](FAQ-whatpdftex.md) may use
+TeX-like systems, such as [pdfTeX](FAQ-pdftex.md) may use
 other formats).
 
 A DVI file contains all the information that is needed for

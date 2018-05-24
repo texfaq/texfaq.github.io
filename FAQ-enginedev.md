@@ -15,14 +15,14 @@ of engine developments, some of which have somewhat complex histories.
 
 The first set of major additions to Knuth's TeX were provided by the NTS
 project in [&epsilon;-TeX](FAQ-etex.md): these additions are available in all
-current engines. [pdfTeX](FAQ-whatpdftex.md) added a range of new primitives, and
+current engines. [pdfTeX](FAQ-pdftex.md) added a range of new primitives, and
 many these have also been taken up by other engine developers.
 
 ## Active projects
 
 ### pdfTeX
 
-[pdfTeX](FAQ-whatpdftex.md) was developed by H&agrave;n Th&#x1ebf; Th&agrave;nh,
+[pdfTeX](FAQ-pdftex.md) was developed by H&agrave;n Th&#x1ebf; Th&agrave;nh,
 incorporating the ability to create PDF output directly into the TeX engine.
 Although originally developed in parallel, pdfTeX today includes the
 [&epsilon;-TeX](#&epsilon;-tex) extensions as-standard.
@@ -99,7 +99,7 @@ TeX-like system. The system was developed in Java.
 ExTeX was designed to accept Unicode input, and to implement all of TeX's
 primitives, but with some marked as obsolete, and ''modern'' alternatives
 provided. Desirable extensions from [&epsilon;-TeX](FAQ-etex.md),
-[pdfTeX](FAQ-whatpdftex.md) and [&Omega;](#omega-and-aleph) were identified for
+[pdfTeX](FAQ-pdftex.md) and [&Omega;](#omega-and-aleph) were identified for
 incorporation.
 
 ### Omega and Aleph

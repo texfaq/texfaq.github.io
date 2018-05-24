@@ -12,7 +12,7 @@
 - [The (CTAN) catalogue](FAQ-catalogue.md)
 - [How can I be sure it's really TeX?](FAQ-triptrap.md)
 - [What is &epsilon;-TeX?](FAQ-etex.md)
-- [What is pdfTeX?](FAQ-whatpdftex.md)
+- [What is pdfTeX?](FAQ-pdftex.md)
 - [What is LaTeX?](FAQ-latex.md)
 - [What is LaTeX2e?](FAQ-latex2e.md)
 - [How should I pronounce ''LaTeX(2<sub>&epsilon;</sub>)''?](FAQ-latexpronounce.md)

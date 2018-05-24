@@ -1,7 +1,8 @@
 ---
 section: The Background
-permalink: /FAQ-whatpdftex.html
+permalink: /FAQ-pdftex.html
 date: 2014-06-10
+redirect_from: FAQ-whatpdftex
 ---
 
 # What is pdfTeX?
