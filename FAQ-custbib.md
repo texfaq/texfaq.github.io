@@ -3,6 +3,7 @@ section: Bibliographies and citations
 subsection: Creating bibliographies
 date: 2014-06-10
 ---
+
 # Creating a bibliography style
 
 It _is_ possible to write your own: the standard bibliography

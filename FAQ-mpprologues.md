@@ -2,6 +2,7 @@
 section: Graphics
 date: 2014-06-10
 ---
+
 # Displaying MetaPost output in `ghostscript`
 
 MetaPost ordinarily expects its output to be included in some context

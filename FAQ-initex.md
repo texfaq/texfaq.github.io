@@ -3,6 +3,7 @@ section: Things are Going Wrong&hellip;
 subsection: Things have ''gone away''
 date: 2014-06-10
 ---
+
 # What's happened to `initex`?
 
 In the beginning, (La)TeX was stretching the capacity of every

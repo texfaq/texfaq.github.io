@@ -3,6 +3,7 @@ section: Why does it _do_ that?
 subsection: Common errors
 date: 2014-06-10
 ---
+
 # My brackets don't match
 
 (La)TeX has a low-level mechanism for matching braces in document

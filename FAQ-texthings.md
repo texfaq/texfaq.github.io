@@ -2,6 +2,7 @@
 section: The Background
 date: 2014-06-10
 ---
+
 # Things with ''TeX'' in the name
 
 New TeX users are often baffled by the myriad terms with ''TeX''

@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Document structure
 date: 2014-06-10
 ---
+
 # My section title is too wide for the page header
 
 By default, LaTeX sectioning commands make the chapter or section

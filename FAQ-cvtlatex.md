@@ -3,6 +3,7 @@ section: Macro programming
 subsection: ''Generic'' macros and techniques
 date: 2014-06-10
 ---
+
 # Transcribing LaTeX command definitions
 
 At several places in this FAQ, questions are answered in terms

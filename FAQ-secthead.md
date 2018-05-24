@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Document structure
 date: 2014-06-10
 ---
+
 # The style of section headings
 
 Suppose that the editor of your favourite journal has specified that section

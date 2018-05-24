@@ -2,6 +2,7 @@
 section: Symbols, etc.
 date: 2014-06-10
 ---
+
 # How to typeset an underscore character
 
 The underscore character `_` is ordinarily used in TeX to

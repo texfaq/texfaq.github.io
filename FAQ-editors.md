@@ -2,6 +2,7 @@
 section: TeX Systems
 date: 2014-06-10
 ---
+
 # TeX-friendly editors and shells
 
 There are good TeX-writing environments and editors for most

@@ -2,6 +2,7 @@
 section: The joy of TeX errors
 date: 2014-06-10
 ---
+
 # Checksum mismatch in font
 
 When MetaFont generates a font it includes a checksum in the font bitmap

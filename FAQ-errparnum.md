@@ -2,6 +2,7 @@
 section: The joy of TeX errors
 date: 2014-06-10
 ---
+
 # Illegal parameter number in definition
 
 The error message means what it says.  In the simple case, you've

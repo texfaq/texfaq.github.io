@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Hyphenation
 date: 2014-06-10
 ---
+
 # Accented words aren't hyphenated
 
 TeX's algorithm for hyphenation gives up when it encounters an

@@ -3,6 +3,7 @@ section: Macro programming
 subsection: LaTeX macro tools and techniques
 date: 2014-06-10
 ---
+
 # Optional arguments like `\section`
 
 Optional arguments, in macros defined using `\newcommand`, don't

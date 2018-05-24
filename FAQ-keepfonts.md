@@ -3,6 +3,7 @@ section: Fonts
 subsection: MetaFont fonts
 date: 2014-06-10
 ---
+
 # Which font files should be kept
 
 MetaFont produces from its run three files, a metrics (TFM) file, a

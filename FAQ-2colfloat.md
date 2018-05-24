@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Floating tables, figures, etc.
 date: 2018-05-18
 ---
+
 # Placing two-column floats at bottom of page
 
 You specified placement `[htbp]` for your full-width figure or

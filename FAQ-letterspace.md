@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Spacing of characters and lines
 date: 2014-06-10
 ---
+
 # Changing the space between letters
 
 A common technique in advertising copy (and other text whose actual

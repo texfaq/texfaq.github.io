@@ -2,6 +2,7 @@
 section: Common misunderstandings
 date: 2014-06-10
 ---
+
 # Why does LaTeX split footnotes across pages?
 
 LaTeX splits footnotes when it can think of nothing better to do.

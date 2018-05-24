@@ -2,6 +2,7 @@
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
+
 # Unicode and TeX
 
 Unicode is a character code scheme that has the capacity to express

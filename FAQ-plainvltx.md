@@ -2,6 +2,7 @@
 section: The Background
 date: 2014-06-10
 ---
+
 # Should I use Plain TeX or LaTeX?
 
 There's no straightforward answer to this question.  Many people swear

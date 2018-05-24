@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Footnotes
 date: 2014-06-10
 ---
+
 # Footnotes in LaTeX section headings
 
 The `\footnote` command is fragile, so that simply placing the

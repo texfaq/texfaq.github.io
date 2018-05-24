@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Alternative document classes
 date: 2014-06-10
 ---
+
 # Other ''document font'' sizes?
 
 The LaTeX standard classes have a concept of a (base) ''document

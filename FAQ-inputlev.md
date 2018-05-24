@@ -2,6 +2,7 @@
 section: The joy of TeX errors
 date: 2014-06-10
 ---
+
 # Capacity exceeded&nbsp;&mdash; input levels
 
 The error

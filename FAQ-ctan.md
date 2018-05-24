@@ -2,6 +2,7 @@
 section: The Background
 date: 2014-06-10
 ---
+
 # What is CTAN?
 
 The acronym stands for ''Comprehensive TeX Archive Network'', which

@@ -3,6 +3,7 @@ section: Bibliographies and citations
 subsection: Creating bibliographies
 date: 2014-06-10
 ---
+
 # Creating a BibTeX bibliography file
 
 A BibTeX bibliography file may reasonably be compared to a small

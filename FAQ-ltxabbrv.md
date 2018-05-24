@@ -3,6 +3,7 @@ section: Macro programming
 subsection: LaTeX macro tools and techniques
 date: 2014-06-10
 ---
+
 # LaTeX internal ''abbreviations'', etc.
 
 In the deeps of time, when TeX first happened, computers had

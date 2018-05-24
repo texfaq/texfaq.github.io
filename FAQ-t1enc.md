@@ -3,6 +3,7 @@ section: Common misunderstandings
 subsection: Why shouldn't I?
 date: 2014-06-10
 ---
+
 # Why use [`fontenc`](https://ctan.org/pkg/fontenc) rather than [`t1enc`](https://ctan.org/pkg/t1enc)?
 
 In the very earliest days of LaTeX 2e, the only way to use the

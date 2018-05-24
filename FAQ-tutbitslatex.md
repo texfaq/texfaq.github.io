@@ -2,6 +2,7 @@
 section: Documentation and Help
 date: 2014-06-10
 ---
+
 # (La)TeX tutorials
 
 The AMS publishes a ''Short Math Guide for LaTeX'', which is

@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Tables, figures and diagrams
 date: 2014-06-10
 ---
+
 # Tables longer than a single page
 
 Tables are, by default, set entirely in boxes of their own: as a

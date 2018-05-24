@@ -2,6 +2,7 @@
 section: Common misunderstandings
 date: 2014-06-10
 ---
+
 # Case-changing oddities
 
 TeX provides two primitive commands `\uppercase` and

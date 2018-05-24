@@ -3,6 +3,7 @@ section: Bibliographies and citations
 subsection: Creating bibliographies
 date: 2014-06-10
 ---
+
 # BibTeX doesn't understand lists of names
 
 BibTeX has a strict syntax for lists of authors' (or editors')

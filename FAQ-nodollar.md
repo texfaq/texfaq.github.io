@@ -2,6 +2,7 @@
 section: The joy of TeX errors
 date: 2014-06-10
 ---
+
 # ''Missing `$` inserted''
 
 There are certain things that _only_ work in maths mode.  If your

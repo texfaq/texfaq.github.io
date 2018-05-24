@@ -3,6 +3,7 @@ section: Macro programming
 subsection: ''Generic'' macros and techniques
 date: 2014-06-10
 ---
+
 # Is this command defined?
 
 Macro sets from the earliest days of TeX programming may be

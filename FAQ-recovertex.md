@@ -2,6 +2,7 @@
 section: Format conversions
 date: 2014-06-10
 ---
+
 # Retrieving (La)TeX from DVI, etc.
 
 The job just can't be done automatically: DVI, PostScript and

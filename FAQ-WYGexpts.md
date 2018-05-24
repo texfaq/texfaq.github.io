@@ -2,6 +2,7 @@
 section: Current TeX-related projects
 date: 2014-06-10
 ---
+
 # The TeX document preparation environment
 
 ''[Why TeX is not WYSIWYG](FAQ-notWYSIWYG.md)''

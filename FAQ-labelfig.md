@@ -2,6 +2,7 @@
 section: Graphics
 date: 2014-06-10
 ---
+
 # Labelling graphics
 
 ''Technical'' graphics (such as graphs and diagrams) are often

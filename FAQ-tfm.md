@@ -2,6 +2,7 @@
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
+
 # What are TFM files?
 
 TFM is an acronym for ''TeX Font Metrics''; TFM files hold

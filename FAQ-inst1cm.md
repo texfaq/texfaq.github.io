@@ -2,6 +2,7 @@
 section: Installing (La)TeX files
 date: 2014-06-10
 ---
+
 # Installing the Type&nbsp;1 versions of the CM&nbsp;fonts
 
 This is a specialised case of [installing a font](FAQ-instfont.md),

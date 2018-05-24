@@ -3,6 +3,7 @@ section: Bibliographies and citations
 subsection: Manipulating whole bibliographies
 date: 2014-06-10
 ---
+
 # Making HTML of your Bibliography
 
 A neat solution is offered by the [`noTeX`](https://ctan.org/pkg/noTeX) bibliography style.

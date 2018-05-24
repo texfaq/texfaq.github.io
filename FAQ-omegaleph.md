@@ -2,6 +2,7 @@
 section: Current TeX-related projects
 date: 2014-06-10
 ---
+
 # Omega and Aleph
 
 Omega was developed as an extension of

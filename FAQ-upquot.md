@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Typesetting specialities
 date: 2014-06-10
 ---
+
 # Realistic quotes for verbatim listings
 
 The `cmtt` font has ''curly'' quotes,

@@ -2,6 +2,7 @@
 section: The Background
 date: 2014-06-10
 ---
+
 # What's ''writing in TeX''?
 
 TeX is a macro processor, and offers its users a powerful

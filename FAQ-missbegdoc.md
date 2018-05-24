@@ -2,6 +2,7 @@
 section: The joy of TeX errors
 date: 2014-06-10
 ---
+
 # Missing `\begin`{document}
 
 The _preamble_ of your document is the stuff before

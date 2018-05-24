@@ -2,6 +2,7 @@
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
+
 # What is the ''Berry naming scheme''?
 
 In the olden days, (La)TeX distributions were limited by the

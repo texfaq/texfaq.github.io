@@ -2,6 +2,7 @@
 section: The joy of TeX errors
 date: 2014-06-10
 ---
+
 # The structure of TeX error messages
 
 TeX's error messages are reminiscent of the time when TeX itself

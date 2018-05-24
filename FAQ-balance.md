@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Document structure
 date: 2014-06-10
 ---
+
 # Balancing columns at the end of a document
 
 The [`twocolumn`](https://ctan.org/pkg/twocolumn) option of the standard classes causes

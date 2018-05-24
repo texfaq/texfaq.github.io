@@ -2,6 +2,7 @@
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
+
 # Documented LaTeX sources (`dtx` files)
 
 LaTeX 2e, and many contributed LaTeX macro packages, are written

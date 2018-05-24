@@ -3,6 +3,7 @@ section: Macro programming
 subsection: ''Generic'' macros and techniques
 date: 2014-06-10
 ---
+
 # Defining macros within macros
 
 The way to think of this is that `##` gets replaced by `#` in just the

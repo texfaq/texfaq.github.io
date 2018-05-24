@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Tables, figures and diagrams
 date: 2014-06-10
 ---
+
 # Merging cells in a column of a table
 
 It's easy to come up with a table design that requires a cell that

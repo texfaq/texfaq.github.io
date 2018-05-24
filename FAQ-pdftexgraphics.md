@@ -2,6 +2,7 @@
 section: Graphics
 date: 2014-06-10
 ---
+
 # Imported graphics in pdfLaTeX
 
 pdfTeX itself has a rather wide range of formats that it can

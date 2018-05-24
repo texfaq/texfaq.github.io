@@ -2,6 +2,7 @@
 section: The joy of TeX errors
 date: 2014-06-10
 ---
+
 # Entering compatibility mode
 
 You run your LaTeX job, and it starts by saying

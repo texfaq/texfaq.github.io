@@ -3,6 +3,7 @@ section: Macro programming
 subsection: LaTeX macro programming
 date: 2014-06-10
 ---
+
 # How to change LaTeX's ''fixed names''
 
 LaTeX document classes define several typographic operations that

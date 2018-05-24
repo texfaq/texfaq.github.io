@@ -3,6 +3,7 @@ section: Fonts
 subsection: Adobe Type&nbsp;1 (''PostScript'') fonts
 date: 2014-06-10
 ---
+
 # Weird characters in `dvips` output
 
 You've innocently generated output, using `dvips`, and there

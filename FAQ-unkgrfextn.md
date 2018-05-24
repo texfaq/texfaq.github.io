@@ -2,6 +2,7 @@
 section: The joy of TeX errors
 date: 2014-06-10
 ---
+
 # ''Unknown graphics extension''
 
 The LaTeX graphics package deals with several different types of

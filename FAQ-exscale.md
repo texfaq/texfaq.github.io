@@ -2,6 +2,7 @@
 section: Common misunderstandings
 date: 2014-06-10
 ---
+
 # Maths symbols don't scale up
 
 By default, the ''large'' maths symbols stay at the same size

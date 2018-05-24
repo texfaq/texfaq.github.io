@@ -2,6 +2,7 @@
 section: Symbols, etc.
 date: 2014-06-10
 ---
+
 # The Principal Value Integral symbol
 
 This symbol (an integral sign, ''crossed'') does not appear in any of

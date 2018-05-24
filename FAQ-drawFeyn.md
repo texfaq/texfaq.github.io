@@ -2,6 +2,7 @@
 section: Graphics
 date: 2014-06-10
 ---
+
 # Drawing Feynman diagrams in LaTeX
 
 Michael Levine's [`feynman`](https://ctan.org/pkg/feynman) bundle for drawing the diagrams in

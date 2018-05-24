@@ -2,6 +2,7 @@
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
+
 # Writing (text) files from TeX
 
 TeX allows you to write to output files from within your document.

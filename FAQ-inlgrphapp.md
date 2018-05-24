@@ -2,6 +2,7 @@
 section: Graphics
 date: 2014-06-10
 ---
+
 # In-line source for graphics applications
 
 Some of the free-standing graphics applications may also be used

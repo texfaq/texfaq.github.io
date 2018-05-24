@@ -2,6 +2,7 @@
 section: Symbols, etc.
 date: 2014-06-10
 ---
+
 # Using ''old-style'' figures
 
 These numbers are also called medieval or lowercase figures and their

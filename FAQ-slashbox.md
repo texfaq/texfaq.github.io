@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Tables, figures and diagrams
 date: 2014-06-10
 ---
+
 # Diagonal separation in corner cells of tables
 
 You want to label both the top or bottom row and the left- or

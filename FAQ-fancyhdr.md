@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Document structure
 date: 2014-06-10
 ---
+
 # Alternative head- and footlines in LaTeX
 
 The standard LaTeX document classes define a small set of ''page

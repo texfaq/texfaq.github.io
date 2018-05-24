@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Odds and ends
 date: 2014-06-10
 ---
+
 # Typesetting all those TeX-related logos
 
 Knuth was making a particular point about the capabilities of TeX

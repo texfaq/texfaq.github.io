@@ -3,6 +3,7 @@ section: Bibliographies and citations
 subsection: Creating citations
 date: 2014-06-10
 ---
+
 # References from the bibliography to the citation
 
 A link (or at least a page reference), from the bibliography to the

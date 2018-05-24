@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Floating tables, figures, etc.
 date: 2014-06-10
 ---
+
 # Figure (or table) _exactly_ where I want it
 
 This is of course a contradiction: `figure` and

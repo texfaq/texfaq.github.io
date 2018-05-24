@@ -3,6 +3,7 @@ section: Macro programming
 subsection: ''Generic'' macros and techniques
 date: 2014-06-10
 ---
+
 # Detecting that something is empty
 
 Suppose you need to know that the argument of your command is empty:

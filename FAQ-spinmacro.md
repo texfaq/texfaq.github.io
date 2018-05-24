@@ -3,6 +3,7 @@ section: Macro programming
 subsection: ''Generic'' macros and techniques
 date: 2014-06-10
 ---
+
 # Spaces in macros
 
 It's very easy to write macros that produce space in the typeset

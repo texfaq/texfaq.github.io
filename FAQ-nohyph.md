@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Hyphenation
 date: 2014-06-10
 ---
+
 # My words aren't being hyphenated
 
 Let's assume you've selected the right TeX ''language''&nbsp;&mdash; as

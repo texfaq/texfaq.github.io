@@ -2,6 +2,7 @@
 section: Documentation and Help
 date: 2014-06-10
 ---
+
 # BibTeX Documentation
 
 BibTeX, a program originally designed to produce bibliographies in

@@ -2,6 +2,7 @@
 section: The Background
 date: 2014-06-10
 ---
+
 # What is the future of TeX?
 
 Knuth has declared that he will do no further development of TeX;

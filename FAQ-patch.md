@@ -3,6 +3,7 @@ section: Macro programming
 subsection: ''Generic'' macros and techniques
 date: 2014-06-10
 ---
+
 # Patching existing commands
 
 In the general case (possibly sticking something in the middle of an

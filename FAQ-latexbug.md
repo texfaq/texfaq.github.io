@@ -2,6 +2,7 @@
 section: You're still stuck?
 date: 2018-05-23
 ---
+
 # Reporting a LaTeX bug
 
 The LaTeX team supports LaTeX, and will deal with

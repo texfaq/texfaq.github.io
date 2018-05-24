@@ -2,6 +2,7 @@
 section: The joy of TeX errors
 date: 2014-06-10
 ---
+
 # Perhaps a missing `\item`?
 Sometimes, the error
 ```latex

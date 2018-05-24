@@ -2,6 +2,7 @@
 section: The Background
 date: 2014-06-10
 ---
+
 # What is ConTeXt?
 
 [ConTeXt](http://www.pragma-ade.com/) is a macro package

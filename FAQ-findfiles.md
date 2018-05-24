@@ -2,6 +2,7 @@
 section: Acquiring the Software
 date: 2014-06-10
 ---
+
 # Finding (La)TeX files
 
 Modern TeX distributions contain a huge array of various sorts of

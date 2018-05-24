@@ -3,6 +3,7 @@ section: Macro programming
 subsection: LaTeX macro tools and techniques
 date: 2014-06-10
 ---
+
 # Using Plain or primitive commands in LaTeX
 
 It's well-known that LaTeX commands tend to be more complex, and to

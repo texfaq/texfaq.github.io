@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Footnotes
 date: 2014-06-10
 ---
+
 # More than one sequence of footnotes
 
 The need for more than one series of footnotes is common in critical

@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Tables, figures and diagrams
 date: 2014-06-10
 ---
+
 # Flowing text around figures
 
 There are several LaTeX packages that purport to do this, but they

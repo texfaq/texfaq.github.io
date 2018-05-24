@@ -3,6 +3,7 @@ section: Macro programming
 subsection: LaTeX macro programming
 date: 2014-06-10
 ---
+
 # How to change the format of labels
 
 By default, when a label is created, it takes on the appearance of the

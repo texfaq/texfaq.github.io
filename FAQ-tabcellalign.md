@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Tables, figures and diagrams
 date: 2014-06-10
 ---
+
 # How to alter the alignment of tabular cells
 
 One often needs to alter the alignment of a tabular `p` (''paragraph'')

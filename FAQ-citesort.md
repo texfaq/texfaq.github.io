@@ -3,6 +3,7 @@ section: Bibliographies and citations
 subsection: Creating citations
 date: 2014-06-10
 ---
+
 # Sorting and compressing citations
 
 If you give LaTeX

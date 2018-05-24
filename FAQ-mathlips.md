@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Mathematics
 date: 2014-06-10
 ---
+
 # Ellipses
 
 Ellipses are commonly required, and LaTeX natively supplies a fair

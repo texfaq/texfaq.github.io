@@ -2,6 +2,7 @@
 section: Hypertext and PDF
 date: 2014-06-10
 ---
+
 # Finding ''8-bit'' Type&nbsp;1 fonts
 
 Elsewhere, answers to these FAQs recommend that you use an

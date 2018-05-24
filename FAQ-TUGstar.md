@@ -2,6 +2,7 @@
 section: The Background
 date: 2014-06-10
 ---
+
 # TeX User Groups
 
 There has been a TeX User Group since very near the time TeX

@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Mathematics
 date: 2014-06-10
 ---
+
 # Text inside maths
 
 When we type maths in (La)TeX, the letters from which we make up

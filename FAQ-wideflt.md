@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Floating tables, figures, etc.
 date: 2014-06-10
 ---
+
 # Centring a very wide figure or table
 
 The normal means of centring a figure or table object is to include

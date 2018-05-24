@@ -2,6 +2,7 @@
 section: The joy of TeX errors
 date: 2014-06-10
 ---
+
 # LaTeX won't include from other directories
 
 You wanted to `\include{../bar/xyz.tex}`, but LaTeX says:

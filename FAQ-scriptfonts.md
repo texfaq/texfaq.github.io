@@ -2,6 +2,7 @@
 section: Symbols, etc.
 date: 2014-06-10
 ---
+
 # Better script fonts for maths
 
 The font selected by `\mathcal` is the only script font ''built

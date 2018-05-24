@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Document structure
 date: 2014-06-10
 ---
+
 # Really blank pages between chapters
 
 If you're using the standard classes, you need to take special action;

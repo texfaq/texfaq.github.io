@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Typesetting specialities
 date: 2014-06-10
 ---
+
 # Big letters at the start of a paragraph
 
 A common style of typesetting, now seldom seen except in newspapers,

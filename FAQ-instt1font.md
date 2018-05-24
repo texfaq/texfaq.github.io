@@ -2,6 +2,7 @@
 section: Installing (La)TeX files
 date: 2014-06-10
 ---
+
 # Installing a Type&nbsp;1 font
 
 Once you have a prepared Type&nbsp;1 font, either direct from CTAN

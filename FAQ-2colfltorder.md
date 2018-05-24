@@ -3,6 +3,7 @@ section: Why does it _do_ that?
 subsection: Common errors
 date: 2014-06-10
 ---
+
 # Two-column float numbers out of order
 
 When LaTeX can't place a float immediately, it places it on one of

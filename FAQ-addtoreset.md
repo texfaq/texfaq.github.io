@@ -3,6 +3,7 @@ section: Macro programming
 subsection: LaTeX macro programming
 date: 2014-06-10
 ---
+
 # Master and slave counters
 
 It's common to have things numbered ''per chapter'' (for example, in

@@ -3,6 +3,7 @@ section: Common misunderstandings
 subsection: Why shouldn't I?
 date: 2014-06-10
 ---
+
 # Why use `\[` &hellip;`\]` in place of `$$` &hellip; `$$`?
 
 LaTeX defines inline- and display-maths commands, apparently

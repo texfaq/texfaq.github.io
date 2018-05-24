@@ -2,6 +2,7 @@
 section: You're still stuck?
 date: 2018-05-23
 ---
+
 # What to do if you find a bug
 
 For a start, make entirely sure you _have_ found a bug.

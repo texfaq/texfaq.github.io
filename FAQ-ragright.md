@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Spacing of characters and lines
 date: 2014-06-10
 ---
+
 # Setting text ragged right
 
 The trick with typesetting ragged right is to be sure you've told the

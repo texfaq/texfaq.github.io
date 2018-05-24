@@ -3,6 +3,7 @@ section: Fonts
 subsection: MetaFont fonts
 date: 2014-06-10
 ---
+
 # Acquiring bitmap fonts
 
 When CTAN was young, most people would start using TeX

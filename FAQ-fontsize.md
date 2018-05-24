@@ -3,6 +3,7 @@ section: Macro programming
 subsection: LaTeX macro programming
 date: 2014-06-10
 ---
+
 # Fonts at arbitrary sizes
 
 Almost all fonts, nowadays, are provided with LaTeX control

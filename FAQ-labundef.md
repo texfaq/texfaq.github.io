@@ -3,6 +3,7 @@ section: Macro programming
 subsection: LaTeX macro programming
 date: 2014-06-10
 ---
+
 # Finding if a label is undefined
 
 People seem to want to know (at run time) if a label is undefined (I

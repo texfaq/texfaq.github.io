@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Document management
 date: 2014-06-10
 ---
+
 # Bits of document from other directories
 
 A common way of constructing a large document is to break it into a

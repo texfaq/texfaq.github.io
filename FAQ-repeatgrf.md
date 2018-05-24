@@ -2,6 +2,7 @@
 section: Graphics
 date: 2014-06-10
 ---
+
 # Repeated graphics in a document
 
 A logo or ''watermark'' image, or any other image that is repeated in

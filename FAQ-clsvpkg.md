@@ -2,6 +2,7 @@
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
+
 # What are LaTeX classes and packages?
 
 LaTeX aims to be a general-purpose document processor.  Such an aim

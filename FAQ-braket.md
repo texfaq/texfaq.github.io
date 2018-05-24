@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Mathematics
 date: 2014-06-10
 ---
+
 # Set specifications and Dirac brackets
 
 One of the few glaring omissions from TeX's mathematical

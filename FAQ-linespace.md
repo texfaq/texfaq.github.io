@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Spacing of characters and lines
 date: 2014-06-10
 ---
+
 # Double-spaced documents in LaTeX
 
 A quick and easy way of getting inter-line space for copy-editing is

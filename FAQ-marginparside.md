@@ -2,6 +2,7 @@
 section: Common misunderstandings
 date: 2014-06-10
 ---
+
 # Getting `\marginpar` on the right side
 
 In an ideal world, marginal notes would be in ''analogous'' places on

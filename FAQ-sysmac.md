@@ -2,6 +2,7 @@
 section: TeX Systems
 date: 2014-06-10
 ---
+
 # Macintosh systems
 
 The [TeX collection](FAQ-CD.md) DVD includes MacTeX,

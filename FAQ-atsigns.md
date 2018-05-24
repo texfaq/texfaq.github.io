@@ -3,6 +3,7 @@ section: Macro programming
 subsection: LaTeX macro tools and techniques
 date: 2014-06-10
 ---
+
 # `\@` and `@` in macro names
 
 Macro names containing `@` are _internal_ to LaTeX, and

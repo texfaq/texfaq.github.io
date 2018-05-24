@@ -3,6 +3,7 @@ section: Macro programming
 subsection: ''Generic'' macros and techniques
 date: 2014-06-10
 ---
+
 # Is the argument a number?
 
 TeX's own lexical analysis doesn't offer the macro programmer

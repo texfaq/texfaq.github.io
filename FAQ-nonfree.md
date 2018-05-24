@@ -2,6 +2,7 @@
 section: Acquiring the Software
 date: 2014-06-10
 ---
+
 # What was the CTAN `nonfree` tree?
 
 When CTAN was founded, in the 1990s, it was unusual to publish

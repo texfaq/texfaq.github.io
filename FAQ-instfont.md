@@ -2,6 +2,7 @@
 section: Installing (La)TeX files
 date: 2014-06-10
 ---
+
 # Installing a new font
 
 Fonts are really ''just another package'', and so should be installed

@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Footnotes
 date: 2014-06-10
 ---
+
 # Footnotes in tables
 
 The standard LaTeX `\footnote` command doesn't work in tables;

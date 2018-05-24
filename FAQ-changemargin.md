@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Page layout
 date: 2014-06-10
 ---
+
 # Changing the margins in LaTeX
 
 Changing the layout of a document's text on the page involves several

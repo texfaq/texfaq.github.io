@@ -3,6 +3,7 @@ section: Bibliographies and citations
 subsection: Creating citations
 date: 2014-06-10
 ---
+
 # Putting bibliography entries in text
 
 This is a common requirement for journals and other publications in

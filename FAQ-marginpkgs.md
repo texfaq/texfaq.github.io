@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Page layout
 date: 2014-06-10
 ---
+
 # Packages to set up page designs
 
 There are two trustworthy tools for adjusting the dimensions and position of the

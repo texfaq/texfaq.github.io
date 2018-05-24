@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Tables of contents and indexes
 date: 2014-06-10
 ---
+
 # Multiple indexes
 
 LaTeX's standard indexing capabilities (those provided by the

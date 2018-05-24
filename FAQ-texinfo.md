@@ -2,6 +2,7 @@
 section: The Background
 date: 2014-06-10
 ---
+
 # What is Texinfo?
 
 Texinfo is a documentation system that uses one source file to produce

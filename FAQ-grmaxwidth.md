@@ -2,6 +2,7 @@
 section: Graphics
 date: 2014-06-10
 ---
+
 # Limit the width of imported graphics
 
 Suppose you have graphics which may or may not be able to fit within

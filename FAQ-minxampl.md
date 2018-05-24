@@ -2,6 +2,7 @@
 section: Documentation and Help
 date: 2014-06-10
 ---
+
 # How to make a ''minimum example''
 
 [Our advice on asking questions](FAQ-askquestion.md)

@@ -2,6 +2,7 @@
 section: Symbols, etc.
 date: 2014-06-10
 ---
+
 # Symbols for the number sets
 
 Mathematicians commonly use special lettering for the real numbers and

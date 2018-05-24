@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Tables of contents and indexes
 date: 2014-06-10
 ---
+
 # The format of the Table of Contents, etc.
 
 The formats of entries in the table of contents (TOC) are

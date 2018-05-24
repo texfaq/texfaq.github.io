@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Alternative document classes
 date: 2014-06-10
 ---
+
 # Formatting a thesis in LaTeX
 
 Thesis styles are usually very specific to your University, so it's

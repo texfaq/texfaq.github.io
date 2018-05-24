@@ -3,6 +3,7 @@ section: Macro programming
 subsection: LaTeX macro tools and techniques
 date: 2014-06-10
 ---
+
 # Commands defined with * options
 
 LaTeX commands commonly have ''versions'' defined with an asterisk

@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Page layout
 date: 2014-06-10
 ---
+
 # Changing margins ''on the fly''
 
 One of the surprises characteristic of TeX use is that you cannot

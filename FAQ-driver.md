@@ -2,6 +2,7 @@
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
+
 # What is a DVI driver?
 
 A DVI driver is a program that takes as input a

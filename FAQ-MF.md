@@ -2,6 +2,7 @@
 section: The Background
 date: 2014-06-10
 ---
+
 # What is MetaFont?
 
 MetaFont was written by Knuth as a companion to TeX; whereas TeX

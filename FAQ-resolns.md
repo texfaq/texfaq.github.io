@@ -2,6 +2,7 @@
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
+
 # What are ''resolutions''?
 
 ''Resolution'' is a word that is used with little concern for its

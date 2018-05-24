@@ -2,6 +2,7 @@
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
+
 # What is ''Encapsulated PostScript'' (''EPS'')?
 
 PostScript has been for many years a _lingua franca_ of powerful

@@ -2,6 +2,7 @@
 section: Acquiring the Software
 date: 2014-06-10
 ---
+
 # The TeX collection
 
 If you don't have access to the Internet, there are obvious

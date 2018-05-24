@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Alternative document classes
 date: 2014-06-10
 ---
+
 # Replacing the standard classes
 
 People are forever concocting classes that replace the standard ones:

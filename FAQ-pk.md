@@ -2,6 +2,7 @@
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
+
 # What are PK files?
 
 PK files (packed raster) are the canonical form of TeX font

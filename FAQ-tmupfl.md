@@ -2,6 +2,7 @@
 section: The joy of TeX errors
 date: 2014-06-10
 ---
+
 # ''Too many unprocessed floats''
 
 If LaTeX responds to a `\begin{figure}` or

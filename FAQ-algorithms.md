@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Typesetting specialities
 date: 2014-06-10
 ---
+
 # Typesetting pseudocode in LaTeX
 
 There is no consensus on the ''right'' way to typeset pseudocode.

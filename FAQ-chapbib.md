@@ -3,6 +3,7 @@ section: Bibliographies and citations
 subsection: Creating citations
 date: 2014-06-10
 ---
+
 # Separate bibliographies per chapter?
 
 A separate bibliography for each ''chapter'' of a document can be provided

@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Tables of contents and indexes
 date: 2014-06-10
 ---
+
 # Table of contents, etc., per chapter
 
 The common style, of a ''small'' table of contents for each part,

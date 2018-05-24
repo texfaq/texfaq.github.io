@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Document management
 date: 2014-06-10
 ---
+
 # All the files used by this document
 
 When you're sharing a document with someone else (perhaps as part of a

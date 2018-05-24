@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Document structure
 date: 2014-06-10
 ---
+
 # Page numbering by chapter
 
 When I was a young man, a common arrangement for loose bound technical

@@ -2,6 +2,7 @@
 section: The joy of TeX errors
 date: 2014-06-10
 ---
+
 # How to approach errors
 
 Since TeX is a macroprocessor, its error messages are often

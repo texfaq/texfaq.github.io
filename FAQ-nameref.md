@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Labels and references
 date: 2014-06-10
 ---
+
 # Referring to things by their name
 
 LaTeX's labelling mechanism is designed for the impersonal world of

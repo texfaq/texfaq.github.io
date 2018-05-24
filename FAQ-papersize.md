@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Page layout
 date: 2014-06-10
 ---
+
 # The size of printed output
 
 The final product of a (La)TeX run is something for a person to

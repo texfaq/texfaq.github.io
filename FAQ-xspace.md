@@ -2,6 +2,7 @@
 section: Common misunderstandings
 date: 2014-06-10
 ---
+
 # Commands gobble following space
 
 People are forever surprised that simple commands gobble the space

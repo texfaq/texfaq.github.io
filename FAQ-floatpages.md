@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Floating tables, figures, etc.
 date: 2014-06-10
 ---
+
 # Floats on their own on float pages
 
 It's sometimes necessary to force a float to live on a page by itself.

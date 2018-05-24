@@ -2,6 +2,7 @@
 section: The joy of TeX errors
 date: 2014-06-10
 ---
+
 # Improper `\hyphenation` will be flushed
 
 For example

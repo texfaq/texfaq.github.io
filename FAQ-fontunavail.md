@@ -2,6 +2,7 @@
 section: The joy of TeX errors
 date: 2014-06-10
 ---
+
 # Warning: ''Font shape &hellip; not available''
 
 LaTeX's font selection scheme maintains tables of the font families

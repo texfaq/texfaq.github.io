@@ -3,6 +3,7 @@ section: Why does it _do_ that?
 subsection: Common errors
 date: 2014-06-10
 ---
+
 # Why are my sections numbered 0.1 &hellip;?
 
 This happens when your document is using the standard [`book`](https://ctan.org/pkg/book) or

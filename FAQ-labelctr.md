@@ -3,6 +3,7 @@ section: Macro programming
 subsection: LaTeX macro programming
 date: 2014-06-10
 ---
+
 # Making labels from a counter
 
 Suppose we have a LaTeX counter, which we've defined with

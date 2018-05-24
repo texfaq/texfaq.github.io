@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Footnotes
 date: 2014-06-10
 ---
+
 # Footnotes numbered ''per page''
 
 The obvious solution is to make the footnote number reset whenever the

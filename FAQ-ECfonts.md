@@ -2,6 +2,7 @@
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
+
 # What are the EC fonts?
 
 A font provides a number of _glyphs_. In order that the glyphs

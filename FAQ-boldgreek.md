@@ -2,6 +2,7 @@
 section: Symbols, etc.
 date: 2014-06-10
 ---
+
 # Setting bold Greek letters in LaTeX maths
 
 The issue here is complicated by the fact that `\mathbf` (the

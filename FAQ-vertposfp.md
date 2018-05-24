@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Floating tables, figures, etc.
 date: 2014-06-10
 ---
+
 # Vertical layout of float pages
 
 By default, LaTeX vertically centers the floats on a float page;

@@ -2,6 +2,7 @@
 section: Symbols, etc.
 date: 2014-06-10
 ---
+
 # Typesetting the Euro sign
 
 The European currency ''Euro'' (&#x20ac;) is represented by a symbol

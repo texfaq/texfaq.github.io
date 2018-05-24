@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Typesetting specialities
 date: 2014-06-10
 ---
+
 # Code listings in LaTeX
 
 ''Pretty'' code listings are sometimes considered worthwhile by the

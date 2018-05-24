@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Page layout
 date: 2014-06-10
 ---
+
 # Parallel setting of text
 
 It's commonly necessary to present text in two languages ''together'' on a

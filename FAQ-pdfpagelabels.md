@@ -2,6 +2,7 @@
 section: Hypertext and PDF
 date: 2014-06-10
 ---
+
 # [`Hyperref`](https://ctan.org/pkg/Hyperref) and repeated page numbers
 
 The [`book`](https://ctan.org/pkg/book) class (and its friends and relations) automatically

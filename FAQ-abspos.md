@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Page layout
 date: 2014-06-10
 ---
+
 # Putting things at fixed positions on the page
 
 TeX's model of the world is (broadly speaking) that the author

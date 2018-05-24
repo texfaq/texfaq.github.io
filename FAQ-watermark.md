@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Page layout
 date: 2014-06-10
 ---
+
 # ''Watermarks'' on every page
 
 It's often useful to place some text (such as ''DRAFT'') in the

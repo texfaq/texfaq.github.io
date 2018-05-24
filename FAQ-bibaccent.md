@@ -3,6 +3,7 @@ section: Bibliographies and citations
 subsection: Creating bibliographies
 date: 2014-06-10
 ---
+
 # Accents in bibliographies
 
 BibTeX not only has a tendency (by default) to mess about with the

@@ -3,6 +3,7 @@ section: Bibliographies and citations
 subsection: Creating citations
 date: 2014-06-10
 ---
+
 # Multiple citations
 
 A convention sometimes used in physics journals is to ''collapse'' a group of

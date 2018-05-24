@@ -3,6 +3,7 @@ section: Macro programming
 subsection: ''Generic'' macros and techniques
 date: 2014-06-10
 ---
+
 # Finding the width of a letter, word, or phrase
 
 Put the word in a box, and measure the width of the box. For example,

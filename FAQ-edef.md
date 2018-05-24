@@ -3,6 +3,7 @@ section: Macro programming
 subsection: LaTeX macro tools and techniques
 date: 2014-06-10
 ---
+
 # `\edef` does not work with `\protect`
 
 Robust LaTeX commands are either ''naturally robust''&nbsp;&mdash; meaning that

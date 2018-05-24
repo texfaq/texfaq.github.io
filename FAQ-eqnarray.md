@@ -3,6 +3,7 @@ section: Common misunderstandings
 subsection: Why shouldn't I?
 date: 2014-06-10
 ---
+
 # Why not use `eqnarray`?
 
 The environment `eqnarray` is attractive for the

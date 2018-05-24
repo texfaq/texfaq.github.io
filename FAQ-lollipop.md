@@ -2,6 +2,7 @@
 section: The Background
 date: 2014-06-10
 ---
+
 # Lollipop
 
 A long time ago (in the early 1990s), the Lollipop TeX format was

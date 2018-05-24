@@ -2,6 +2,7 @@
 section: Current TeX-related projects
 date: 2014-06-10
 ---
+
 # Replacing the BibTeX&ndash;LaTeX mechanism
 
 Producing a successor to BibTeX has long been a favoured activity

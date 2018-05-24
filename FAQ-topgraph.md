@@ -2,6 +2,7 @@
 section: Graphics
 date: 2014-06-10
 ---
+
 # Top-aligning imported graphics
 
 When TeX sets a line of anything, it ensures that the base-line of

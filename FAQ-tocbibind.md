@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Tables of contents and indexes
 date: 2014-06-10
 ---
+
 # Bibliography, index, etc., in TOC
 
 The standard LaTeX classes (and many others) use `\section*` or

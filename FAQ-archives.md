@@ -2,6 +2,7 @@
 section: Acquiring the Software
 date: 2014-06-10
 ---
+
 # Repositories of TeX material
 
 To aid the archiving and retrieval of of TeX-related files, a

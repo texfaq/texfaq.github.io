@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Page layout
 date: 2014-06-10
 ---
+
 # Typesetting things in landscape orientation
 
 It's often necessary to typeset part of a document in landscape

@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Typesetting specialities
 date: 2014-06-10
 ---
+
 # Including a file verbatim in LaTeX
 
 A good way is to use Rainer Sch&ouml;pf's [`verbatim`](https://ctan.org/pkg/verbatim) package,

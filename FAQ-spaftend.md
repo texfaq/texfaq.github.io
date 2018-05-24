@@ -3,6 +3,7 @@ section: Macro programming
 subsection: LaTeX macro programming
 date: 2014-06-10
 ---
+
 # There's a space added after my environment
 
 You've written your own environment `env`, and it works

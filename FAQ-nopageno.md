@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Page layout
 date: 2014-06-10
 ---
+
 # How to get rid of page numbers
 
 Very occasionally, one wants a document with no page numbers.  For

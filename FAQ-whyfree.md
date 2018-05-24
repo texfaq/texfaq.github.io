@@ -2,6 +2,7 @@
 section: The Background
 date: 2014-06-10
 ---
+
 # If TeX is so good, how come it's free?
 
 It's free because Knuth chose to make it so (he makes money from

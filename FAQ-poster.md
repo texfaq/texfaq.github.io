@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Alternative document classes
 date: 2014-06-10
 ---
+
 # Creating posters with LaTeX
 
 There is no complete ''canned solution'' to creating a poster (as, for

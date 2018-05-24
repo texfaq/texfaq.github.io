@@ -2,6 +2,7 @@
 section: Graphics
 date: 2014-06-10
 ---
+
 # Imported graphics in `dvips`
 
 `Dvips`, as originally conceived, can only import a single

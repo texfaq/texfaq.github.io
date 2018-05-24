@@ -3,6 +3,7 @@ section: Macro programming
 subsection: LaTeX macro tools and techniques
 date: 2014-06-10
 ---
+
 # Defining LaTeX commands within other commands
 
 LaTeX command definition is significantly different from the TeX

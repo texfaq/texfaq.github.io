@@ -3,6 +3,7 @@ section: Bibliographies and citations
 subsection: Creating citations
 date: 2014-06-10
 ---
+
 # Non-english bibliographies
 
 Like so much of early (La)TeX software, BibTeX's assumptions were

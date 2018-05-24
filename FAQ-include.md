@@ -2,6 +2,7 @@
 section: Common misunderstandings
 date: 2014-06-10
 ---
+
 # What's going on in my `\include` commands?
 
 The original LaTeX provided the `\include` command to address the

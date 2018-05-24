@@ -3,6 +3,7 @@ section: Macro programming
 subsection: ''Generic'' macros and techniques
 date: 2014-06-10
 ---
+
 # Defining characters as macros
 
 Single characters can act as macros (defined commands), and both

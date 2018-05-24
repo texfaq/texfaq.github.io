@@ -2,6 +2,7 @@
 section: The Background
 date: 2014-06-10
 ---
+
 # What are the AMS packages (AMSTeX, etc.)?
 
 AMSTeX is a TeX macro package, originally written by Michael Spivak for

@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Document structure
 date: 2014-06-10
 ---
+
 # Appendixes
 
 LaTeX provides an exceedingly simple mechanism for appendixes: the

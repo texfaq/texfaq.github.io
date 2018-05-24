@@ -3,6 +3,7 @@ section: Bibliographies and citations
 subsection: Creating bibliographies
 date: 2014-06-10
 ---
+
 # Reconstructing `bib` files
 
 Perhaps you've lost the `bib` file you generated your document from,

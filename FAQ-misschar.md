@@ -2,6 +2,7 @@
 section: Common misunderstandings
 date: 2014-06-10
 ---
+
 # Where have my characters gone?
 
 You've typed some apparently reasonable text and processed it, but the

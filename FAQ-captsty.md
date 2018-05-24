@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Document structure
 date: 2014-06-10
 ---
+
 # The style of captions
 
 Changes to the style of captions may be made by redefining the commands

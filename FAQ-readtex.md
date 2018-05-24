@@ -2,6 +2,7 @@
 section: The Background
 date: 2014-06-10
 ---
+
 # Reading (La)TeX files
 
 So you've been sent an (La)TeX file: what are you going to do with

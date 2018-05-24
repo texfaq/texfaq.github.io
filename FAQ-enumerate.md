@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Lists
 date: 2014-06-10
 ---
+
 # Fancy enumeration lists
 
 The [`enumerate`](https://ctan.org/pkg/enumerate) package allows you to control the display of

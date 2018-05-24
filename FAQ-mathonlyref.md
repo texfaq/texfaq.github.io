@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Mathematics
 date: 2014-06-10
 ---
+
 # Numbers for referenced equations only
 
 There are those who consider that papers look untidy with numbers on

@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Hyphenation
 date: 2014-06-10
 ---
+
 # Stopping all hyphenation
 
 It may seem an odd thing to want to do (after all, one of TeX's

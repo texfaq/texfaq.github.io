@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Hyphenation
 date: 2014-06-10
 ---
+
 # (Merely) peculiar hyphenation
 
 You may have found that TeX's famed automatic word-division does

@@ -3,6 +3,7 @@ section: How do I do&hellip;?
 subsection: Document management
 date: 2014-06-10
 ---
+
 # Marking changed parts of your document
 
 One often needs clear indications of how a document has changed, but

@@ -2,6 +2,7 @@
 section: Installing (La)TeX files
 date: 2014-06-10
 ---
+
 # Installing things on a (La)TeX system
 
 Installing (or replacing) things on your (La)TeX system has the

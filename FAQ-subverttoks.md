@@ -3,6 +3,7 @@ section: Macro programming
 subsection: ''Generic'' macros and techniques
 date: 2014-06-10
 ---
+
 # Subverting a token register
 
 A common requirement is to ''subvert'' a token register that other

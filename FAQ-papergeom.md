@@ -3,6 +3,7 @@ section: Adjusting the typesetting
 subsection: Page layout
 date: 2014-06-10
 ---
+
 # Getting the right paper geometry from (La)TeX
 
 If your output is the wrong size, and you've checked that it's not due
