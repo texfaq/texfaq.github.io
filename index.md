@@ -568,7 +568,6 @@
 - [Omega and Aleph](FAQ-omegaleph.md)
 - [XeTeX](FAQ-xetex.md)
 - [pdfTeX and LuaTeX](FAQ-luatex.md)
-- [The ANT typesetting system](FAQ-ant.md)
 - [The ExTeX project](FAQ-extex.md)
 - [Replacing the BibTeX&ndash;LaTeX mechanism](FAQ-biblatex.md)
 - [Alternatives to TeX](FAQ-alternatives.md)
