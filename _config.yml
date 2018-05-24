@@ -1,1 +1,4 @@
 exclude: ['CONTRIBUTING.md', 'LICENSE.md', 'README.md']
+
+plugins:
+  - jekyll-redirect-from
