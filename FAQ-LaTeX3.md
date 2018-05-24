@@ -42,5 +42,5 @@ Release code from the team is also available on CTAN, most notably
 Anyone may participate in discussions of the future of LaTeX through the
 mailing list `LaTeX-L`; some development work (outside the project) is
 discussed on the list. Subscribe to the list by sending a message `subscribe
-latex-l <your name>` to <listserv@urz.Uni-Heidelberg.de">
+latex-l <your name>` to <listserv@urz.Uni-Heidelberg.de>
 
