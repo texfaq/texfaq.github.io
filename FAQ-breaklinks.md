@@ -1,6 +1,7 @@
 ---
 section: Why does it _do_ that?
 subsection: Common errors
+permalink: /FAQ-breaklinks
 date: 2014-06-10
 ---
 

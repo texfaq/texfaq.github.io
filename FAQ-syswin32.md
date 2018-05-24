@@ -1,5 +1,6 @@
 ---
 section: TeX Systems
+permalink: /FAQ-syswin32
 date: 2014-06-10
 ---
 

@@ -1,5 +1,6 @@
 ---
 section: Format conversions
+permalink: /FAQ-LaTeX2HTML
 date: 2014-06-10
 ---
 

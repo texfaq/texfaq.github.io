@@ -1,5 +1,6 @@
 ---
 section: Documentation and Help
+permalink: /FAQ-whereFAQ
 date: 2014-06-10
 ---
 

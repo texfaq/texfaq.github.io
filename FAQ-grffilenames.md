@@ -1,5 +1,6 @@
 ---
 section: Graphics
+permalink: /FAQ-grffilenames
 date: 2014-06-10
 ---
 

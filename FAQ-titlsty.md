@@ -1,6 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Document structure
+permalink: /FAQ-titlsty
 date: 2014-06-10
 ---
 

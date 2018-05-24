@@ -1,6 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Spacing of characters and lines
+permalink: /FAQ-flushboth
 date: 2014-06-10
 ---
 

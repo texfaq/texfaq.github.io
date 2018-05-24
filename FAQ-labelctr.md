@@ -1,6 +1,7 @@
 ---
 section: Macro programming
 subsection: LaTeX macro programming
+permalink: /FAQ-labelctr
 date: 2014-06-10
 ---
 

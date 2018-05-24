@@ -1,5 +1,6 @@
 ---
 section: Bits and pieces of (La)TeX
+permalink: /FAQ-clsvpkg
 date: 2014-06-10
 ---
 

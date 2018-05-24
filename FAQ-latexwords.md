@@ -1,6 +1,7 @@
 ---
 section: Macro programming
 subsection: LaTeX macro programming
+permalink: /FAQ-latexwords
 date: 2014-06-10
 ---
 

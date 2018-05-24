@@ -1,6 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Footnotes
+permalink: /FAQ-footnpp
 date: 2014-06-10
 ---
 

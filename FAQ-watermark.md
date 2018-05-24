@@ -1,6 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Page layout
+permalink: /FAQ-watermark
 date: 2014-06-10
 ---
 

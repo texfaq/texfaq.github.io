@@ -1,6 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Mathematics
+permalink: /FAQ-mathsize
 date: 2014-06-10
 ---
 

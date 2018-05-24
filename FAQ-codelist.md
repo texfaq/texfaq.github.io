@@ -1,6 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Typesetting specialities
+permalink: /FAQ-codelist
 date: 2014-06-10
 ---
 

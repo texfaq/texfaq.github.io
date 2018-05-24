@@ -1,5 +1,6 @@
 ---
 section: Common misunderstandings
+permalink: /FAQ-tocloftwrong
 date: 2014-06-10
 ---
 

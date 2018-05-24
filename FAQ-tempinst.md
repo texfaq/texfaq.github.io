@@ -1,5 +1,6 @@
 ---
 section: Installing (La)TeX files
+permalink: /FAQ-tempinst
 date: 2014-06-10
 ---
 

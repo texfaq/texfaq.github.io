@@ -1,5 +1,6 @@
 ---
 section: The joy of TeX errors
+permalink: /FAQ-badhyph
 date: 2014-06-10
 ---
 

@@ -1,6 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Creating bibliographies
+permalink: /FAQ-citeURL
 date: 2014-06-10
 ---
 

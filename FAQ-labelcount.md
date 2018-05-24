@@ -1,6 +1,7 @@
 ---
 section: Macro programming
 subsection: LaTeX macro tools and techniques
+permalink: /FAQ-labelcount
 date: 2014-06-10
 ---
 

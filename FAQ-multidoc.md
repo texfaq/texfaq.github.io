@@ -1,6 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Alternative document classes
+permalink: /FAQ-multidoc
 date: 2014-06-10
 ---
 

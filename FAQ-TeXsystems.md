@@ -1,5 +1,6 @@
 ---
 section: TeX Systems
+permalink: /FAQ-TeXsystems
 date: 2014-06-10
 ---
 

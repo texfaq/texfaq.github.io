@@ -1,5 +1,6 @@
 ---
 section: Symbols, etc.
+permalink: /FAQ-underscore
 date: 2014-06-10
 ---
 

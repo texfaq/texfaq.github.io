@@ -1,5 +1,6 @@
 ---
 section: The Background
+permalink: /FAQ-latex2e
 date: 2014-06-10
 ---
 

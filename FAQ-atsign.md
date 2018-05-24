@@ -1,5 +1,6 @@
 ---
 section: Symbols, etc.
+permalink: /FAQ-atsign
 date: 2014-06-10
 ---
 

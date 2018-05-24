@@ -1,6 +1,7 @@
 ---
 section: Fonts
 subsection: Adobe Type&nbsp;1 (''PostScript'') fonts
+permalink: /FAQ-metrics
 date: 2014-06-10
 ---
 

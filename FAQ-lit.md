@@ -1,5 +1,6 @@
 ---
 section: Literate programming
+permalink: /FAQ-lit
 date: 2014-06-10
 ---
 

@@ -1,5 +1,6 @@
 ---
 section: The Background
+permalink: /FAQ-MP
 date: 2014-06-10
 ---
 

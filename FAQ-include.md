@@ -1,5 +1,6 @@
 ---
 section: Common misunderstandings
+permalink: /FAQ-include
 date: 2014-06-10
 ---
 

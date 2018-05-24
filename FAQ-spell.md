@@ -1,5 +1,6 @@
 ---
 section: Support Packages for TeX
+permalink: /FAQ-spell
 date: 2014-06-10
 ---
 

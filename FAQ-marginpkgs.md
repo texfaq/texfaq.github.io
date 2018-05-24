@@ -1,6 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Page layout
+permalink: /FAQ-marginpkgs
 date: 2014-06-10
 ---
 

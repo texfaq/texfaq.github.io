@@ -1,6 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Floating tables, figures, etc.
+permalink: /FAQ-mcfloat
 date: 2014-06-10
 ---
 

@@ -1,5 +1,6 @@
 ---
 section: TeX Systems
+permalink: /FAQ-sysmac
 date: 2014-06-10
 ---
 

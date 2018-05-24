@@ -1,5 +1,6 @@
 ---
 section: Symbols, etc.
+permalink: /FAQ-scriptfonts
 date: 2014-06-10
 ---
 
