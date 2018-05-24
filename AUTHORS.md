@@ -2,6 +2,7 @@
  
 The following people are _known_ to have contributed to the FAQ:
 
+- Robin Fairbairns
 - William Adams
 - Donald Arseneau
 - Rosemary Bailey
@@ -75,7 +76,7 @@ The following people are _known_ to have contributed to the FAQ:
 - Sebastian Rahtz
 - Philip Ratcliffe
 - Chris Rowley
-- Jos\'e Carlos Santos
+- José Carlos Santos
 - Walter Schmidt
 - Hans-Peter Schröcker
 - Joachim Schrod
@@ -95,3 +96,4 @@ The following people are _known_ to have contributed to the FAQ:
 - Rick Zaccone
 - Gregor Zattler
 - Reinhard Zierke
+- David Carlisle
