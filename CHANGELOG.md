@@ -13,6 +13,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 - Q-enginedev: Summarise key engine developments, both current and historical
 
 ### Changed
+- Q-biblatex: Revise to reflect current status
 - Q-bug: Karl Berry now collects TeX bugs
 - Q-etex: Detail moved to Q-enginedev
 - Q-LaTeX3: Revised to reflect new GitHub-based workflow and website changes

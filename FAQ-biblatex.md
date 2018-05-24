@@ -1,41 +1,25 @@
 ---
 section: Current TeX-related projects
 permalink: /FAQ-biblatex.html
-date: 2014-06-10
+date: 2018-05-24
 ---
 
 # Replacing the BibTeX&ndash;LaTeX mechanism
 
-Producing a successor to BibTeX has long been a favoured activity
-among a certain class of TeX-users; the author has seen reports of
-progress (on several projects), over the years, but few that claim to
-be ready for ''real-world'' use.
+## Background
 
-Few would deny that BibTeX is ripe for renewal: as originally
-conceived, it was a program for creating bibliographies for technical
-documents, in English.  People have contributed mechanisms for a
-degree of multilingual use (whose techniques are arcane, and quite
-likely inextensible), while an extension (`bibtex8`) allows
-use with 8-bit character codes, thus providing some multilingual
-capabilities.  In addition, specialist BibTeX style files are
-available for use in non-technical papers.
+As originally conceived, BibTeX was a program for creating bibliographies for
+technical documents, in English. People have contributed mechanisms for a
+degree of multilingual use, while an extension (`bibtex8`) allows use with
+8-bit character codes, thus providing some multilingual capabilities. In
+addition, specialist BibTeX style files are available for use in non-technical
+papers.
 
 BibTeX uses a style language whose mechanisms are unfamiliar to
 most current programmers: it's difficult to learn, but since there are
 few opportunities to write the language, it's also difficult to become
 fluent (in the way that so many people fluently write the equally
-arcane TeX macro language).
-
-Oren Patashnik (the author of BibTeX) summarises the issues as he
-sees them, in a 
-[TUG conference paper from 2003](http://tug.org/TUGboat/Articles/tb24-1/patashnik.pdf)
-that seems to suggest that we might expect a
-BibTeX&nbsp;1.0 &hellip; which hasn't (yet) appeared.
-
-In the absence of BibTeX&nbsp;1.0, what do we need from the bibliography
-system of the future?&nbsp;&mdash; simple: a superset of what BibTeX does
-(or can be made to do), preferably implementing a simpler style
-language, and with coherent multilingual capabilities.
+arcane TeX macro language). 
 
 There are two parts to a bibliography system; processing the database
 of citations, and typesetting the results.  The existing BibTeX
@@ -43,52 +27,34 @@ system provides a means of processing the database, and there are
 macros built into LaTeX, as well as many LaTeX packages, that
 process the results.
 
-Of the direct BibTeX replacements, only two have been submitted to
-CTAN: CrossTeX and `biber`.
+Whilst a number of approaches have been suggested to go beyond the
+BibTeX&ndash;LaTeX, two stand out for their availability and usage:
+`biblatex` and `amsref`.
 
-CrossTeX's language feels familiar to the existing user of
-BibTeX, but it's redesigned in an object-oriented style, and looks
-(to a non-user) as if it may well be adequately flexible.  It is said
-to operate as a BibTeX replacement.
+## `biblatex`/Biber
 
-CrossTeX's team respond to queries, and seem well aware of the
-need for multilingual support, though it isn't currently offered.
+The [`biblatex`](https://ctan.org/pkg/Biblatex) package provides a programmable
+approach to creating bibliographies in which control takes place in the (La)TeX
+code, rather than a BibTeX style file. This means that output can be modified
+on a per-document basis. Moreover, with full availablity of the data in the
+LaTeX run, a much wider range of bibliographic outcomes are possible. This is
+particularly important in supporting citation styles in the humanities. The
+`biblatex` package also integrates many ideas from existing BibTeX-focussed
+systems, meaning that all interfaces are consistent (and compatible).
 
-`Biber` is intimately associated with the LaTeX package
-[`biblatex`](https://ctan.org/pkg/biblatex); it is logically a BibTeX replacement, but is also
-capable of using bibliography databases in its own
-`biblatexml` (XML-based) format.  [`Biblatex`](https://ctan.org/pkg/Biblatex)
-can also use BibTeX, but `biber` opens up a far wider
-range of possibilities, including full Unicode support.
+Extracting data from `.bib` files for use with `biblatex` _can_ be achieved
+using ''classical'' BibTeX: however, this is limited. The `biblatex` package
+is co-developed with the Biber program. This is a Unicode-aware system which
+can extract data from `.bib` files, sort according to a range of language
+criteria, and more. It is tied to `biblatex` (the output format is targeted
+at the requirements of `biblatex`).
 
-[`Biblatex`](https://ctan.org/pkg/Biblatex) is a processor for the output of an application
-such as `biber` or BibTeX; the style of citations and of
-the bibliography itself (in your document) is determined by the way
-your [`biblatex`](https://ctan.org/pkg/biblatex) style has been set up, not on some
-BibTeX-LaTeX package combination.  [`Biblatex`](https://ctan.org/pkg/Biblatex)'s
-structure thus eliminates the collections of BibTeX styles, at a
-stroke; it comes with a basic set of styles, and details are
-determined by options, set at package loading time.  The author,
-Philipp Lehman, evaluated the whole field of bibliography software
-before starting, and as a result the package provides answers to
-many of the questions asked in the bibliography sections of these
-FAQs.
+### `amsrefs`
 
-[`Biblatex`](https://ctan.org/pkg/Biblatex) was released as experimental software, but it's
-clear that many users are already using it happily; Lehman is
-responsive to problem reports, at the moment, but a _de facto_
-set of expert users is already establishing itself.  A set of
-contributed styles has appeared, which cover some of the trickier
-bibliography styles.  The road map of the project shows that we are
-now working on the final _beta_ releases before the ''stable''
-[`biblatex`](https://ctan.org/pkg/biblatex)&nbsp;1.0.
-
-Finally, [`Amsrefs`](https://ctan.org/pkg/Amsrefs) uses a transformed `bib` file,
+The [`amsrefs`](https://ctan.org/pkg/amsrefs) uses a transformed `.bib` file
 which is expressed as LaTeX macros.  (The package provides a
 BibTeX style that performs the transformation, so that a LaTeX
 source containing a `\nocite{*}` command enables BibTeX to
-produce a usable [`amsrefs`](https://ctan.org/pkg/amsrefs) bibliography database.)
+produce a usable `amsrefs` bibliography database.)
 
-[`Amsrefs`](https://ctan.org/pkg/Amsrefs) is maintained by the AMS as part of its author
-support programme,
 
