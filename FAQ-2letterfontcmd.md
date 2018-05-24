@@ -17,7 +17,7 @@ with the font change enclosed in a group, so as to limit its effect;
 note the italic correction command `\/` that was necessary at the
 end of a section in italics.
 
-At the release of LaTeX 2e in summer 1994, these simple commands were
+At the release of LaTeX2e in summer 1994, these simple commands were
 deprecated, but recognising that their use is deeply embedded in the
 brains of LaTeX users, the commands themselves remain in LaTeX,
 _with their LaTeX 2.09 semantics_.  Those semantics were part of
@@ -33,7 +33,7 @@ italic correction has a real effect), whereas
 ```
 ignores `\it` and produces upright text at bold weight (and the
 italic correction has nothing to do).  The same holds if you mix
-LaTeX 2e font selections with the old style commands:
+LaTeX2e font selections with the old style commands:
 ```latex
 \textbf{\tt all good friends}
 ```
@@ -41,10 +41,10 @@ ignores the `\textbf` that encloses the text, and produces
 typewriter text at medium weight.
 
 So why are these commands deprecated?&nbsp;&mdash; it is because of confusions
-such as that in the last example.  The alternative (LaTeX 2e)
+such as that in the last example.  The alternative (LaTeX2e)
 commands are discussed in the rest of this answer.
 
-LaTeX 2e's font commands come in two forms: modal commands and
+LaTeX2e's font commands come in two forms: modal commands and
 text-block commands.  The default set of modal commands offers weights
 `\mdseries` and `\bfseries`, shapes `\upshape`,
 `\itshape`, `\scshape` and `\slshape`, and families
@@ -62,7 +62,7 @@ in the default Computer Modern fonts), or
 ```
 (note the italic correction needed on slanted fonts, too).
 
-LaTeX 2e's text block commands take the first two letters of the
+LaTeX2e's text block commands take the first two letters of the
 modal commands, and form a `\text`_`xx`_ command from
 them.  Thus `\bfseries` becomes `\textbf{text}`,
 `\itshape` becomes `\textit{text}`, and `\ttfamily`
@@ -72,7 +72,7 @@ becomes `\texttt{text}`.  Block commands may be nested, as:
 ```
 to produce bold italic text (note that the block commands supply
 italic corrections where necessary), and they be nested with the
-LaTeX 2e modal commands, too:
+LaTeX2e modal commands, too:
 ```latex
 \texttt{\bfseries So long as we're together}
 ```

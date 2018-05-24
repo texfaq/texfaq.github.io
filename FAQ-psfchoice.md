@@ -63,7 +63,7 @@ Users should also consider the possibilities of typesetting
   alphabets, in upright and italic shapes, medium and bold weights;
   the fifth font contains a small selection of ''blackboard bold''
   characters (chosen for their mathematical significance).  Support
-  under LaTeX 2e is available in 
+  under LaTeX2e is available in 
   [PSNFSS](FAQ-usepsfont.md); the fonts are
   licensed under the GPL, with legalese permitting the use of
   the fonts in published documents.
@@ -145,7 +145,7 @@ Users should also consider the possibilities of typesetting
   Computer Modern fonts.  The resulting mixture is not  entirely
   acceptable, but can pass in many circumstances.  The real advantage
   is that the mathptm fonts are (effectively) free, and the resulting
-  PostScript files can be freely exchanged.  Support under LaTeX 2e
+  PostScript files can be freely exchanged.  Support under LaTeX2e
   is available in [PSNFSS](FAQ-usepsfont.md).
 
   For a sample, see [http://www.tug.dk/FontCatalogue/times/](http://www.tug.dk/FontCatalogue/times/)
@@ -298,7 +298,7 @@ commercially, include:
   (medium, bold and heavy) and symbols of previous versions of
   MathTime.  In addition it has a much extended range of symbols, and
   many typographic improvements that make for high-quality documents.
-  The fonts are supported under both Plain TeX and LaTeX 2e, and
+  The fonts are supported under both Plain TeX and LaTeX2e, and
   are exclusively available for purchase from
   [Personal TeX Inc](FAQ-commercial.md).
   

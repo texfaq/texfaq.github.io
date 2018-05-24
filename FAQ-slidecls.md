@@ -11,7 +11,7 @@ Lamport's original LaTeX had a separate program (SliTeX) for
 producing slides; it dates from the age when color effects were
 produced by printing separate slides in different-colored inks, and
 overlaying them, and was just about acceptable back then.  When
-LaTeX 2e came along, the reason SliTeX had to be a separate
+LaTeX2e came along, the reason SliTeX had to be a separate
 program went away, and its functionality was supplied by the
 [`slides`](https://ctan.org/pkg/slides) class.  While this makes life a little easier for
 system administrators, it does nothing for the inferior functionality

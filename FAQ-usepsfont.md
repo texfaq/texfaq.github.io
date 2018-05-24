@@ -17,7 +17,7 @@ fonts built in, but to extend your repertoire you usually
 need to buy from one of the many commercial font vendors (see, for
 example, [''choice of fonts''](FAQ-psfchoice.md)).
 
-If you use LaTeX 2e, access to your printer's fonts is offered by the
+If you use LaTeX2e, access to your printer's fonts is offered by the
 PSNFSS package; the LaTeX3 project team declare that
 PSNFSS is a ''required'' part of a LaTeX distribution, and
 bug reports may be submitted via the 

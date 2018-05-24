@@ -64,10 +64,10 @@ that you are likely to encounter:
   [(La)TeX Tutorials, etc.](FAQ-tutorialsstar),
   [Online introductions: LaTeX](FAQ-man-latex.md) and
   [Specialized (La)TeX tutorials](FAQ-tutbitslatex.md).
-  Note that there have been two major versions of LaTeX: LaTeX 2e
+  Note that there have been two major versions of LaTeX: LaTeX2e
   refers to the current version of LaTeX while LaTeX 2.09 is the
   long-since-obsolete (since 1994) version (cf.&nbsp;
-  [What is LaTeX 2e?](FAQ-latex2e.md) for more information).
+  [What is LaTeX2e?](FAQ-latex2e.md) for more information).
 
   - ConTeXt (executable: `texmfstart`)
   See

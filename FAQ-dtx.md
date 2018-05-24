@@ -6,7 +6,7 @@ date: 2014-06-10
 
 # Documented LaTeX sources (`dtx` files)
 
-LaTeX 2e, and many contributed LaTeX macro packages, are written
+LaTeX2e, and many contributed LaTeX macro packages, are written
 in a [literate programming style](FAQ-lit.md), with source and
 documentation in the
 same file.  This format in fact originated before the

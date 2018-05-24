@@ -25,7 +25,7 @@ The documentation both of [`geometry`](https://ctan.org/pkg/geometry) and of
 learning all of of either package's capabilities is likely to be more
 than you ever need.
 The [`vmargin`](https://ctan.org/pkg/vmargin) package is somewhat simpler to use: it has a
-canned set of paper sizes (a superset of that provided in LaTeX 2e),
+canned set of paper sizes (a superset of that provided in LaTeX2e),
 provision for custom paper, margin adjustments and provision for
 two-sided printing.
 

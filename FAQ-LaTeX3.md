@@ -14,10 +14,10 @@ new system is (provisionally) called LaTeX3; it
 will remain freely available and it will be fully documented at
 all levels.
 
-The LaTeX team's first product (LaTeX 2e) was delivered in 1994
+The LaTeX team's first product (LaTeX2e) was delivered in 1994
 (it's now properly called ''LaTeX'', since no other version is current).
 
-LaTeX 2e was intended as a consolidation exercise, unifying several
+LaTeX2e was intended as a consolidation exercise, unifying several
 sub-variants of LaTeX while changing nothing whose change wasn't
 absolutely necessary.  This has permitted the team to support a single
 version of LaTeX, in parallel with development of LaTeX3.
@@ -29,7 +29,7 @@ on the [project web site](https://www.latex-project.org/publications/).
 The projects code is all available on the [project's GitHub
 site](https://github.com/latex3/):
 
-- [The LaTeX 2e kernel](https://github.com/latex3/latex2e)
+- [The LaTeX2e kernel](https://github.com/latex3/latex2e)
 - [The LaTeX3 development repository](https://github.com/latex3/latex3)
 
 Release code from the team is also available on CTAN, most notably

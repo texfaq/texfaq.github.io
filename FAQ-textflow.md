@@ -13,7 +13,7 @@ designed to solve this sort of problem.  Piet van Oostrum has
 conducted a survey of the available packages; he recommends:
 
 - `floatflt` [`floatflt`](https://ctan.org/pkg/floatflt) is an improved version
-  (for LaTeX 2e) of `floatfig.sty`, and its syntax is:
+  (for LaTeX2e) of `floatfig.sty`, and its syntax is:
 ```latex
 \begin{floatingfigure}[options]{width of figure}
   figure contents

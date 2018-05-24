@@ -72,7 +72,7 @@ equally well to tables, or to ''non-standard'' floats defined by the
     (before they are specified in your text), try the [`flafter`](https://ctan.org/pkg/latex-base)
     package, which avoids this problem by insisting that floats should
     always appear after their definition.
--  Have a look at the LaTeX 2e [`afterpage`](https://ctan.org/pkg/afterpage) package.
+-  Have a look at the LaTeX2e [`afterpage`](https://ctan.org/pkg/afterpage) package.
     Its documentation gives as an example the idea
     of putting `\clearpage` _after_ the current page (where it
     will clear the backlog, but not cause an ugly gap in your text), but
@@ -83,7 +83,7 @@ equally well to tables, or to ''non-standard'' floats defined by the
     or in older LaTeX releases, the [`morefloats`](https://ctan.org/pkg/morefloats) package;
     this allows you to increase the number of floating inserts that LaTeX
     can handle at one time (from its original value of 18 or, now, 52, in
-    LaTeX 2e).
+    LaTeX2e).
   
 
     Caveat: if you are using [`etex`](https://ctan.org/pkg/etex) package to increase the number of

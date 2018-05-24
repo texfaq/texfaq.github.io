@@ -16,14 +16,14 @@ and baselines&nbsp;&mdash; indeed, everything one might hope to cause them to
 obstruct the reading process.  In particular, Lamport invented
 LaTeX (silly enough in itself, with a raised small ''A'' and a
 lowered ''E'') and marketing input from Addison-Wesley led to the even
-stranger current logo for LaTeX 2e, which appends a lowered 
+stranger current logo for LaTeX2e, which appends a lowered 
 single-stroke Greek letter &epsilon;.
 
 Sensible users don't have to follow this stuff wherever it goes,
 but, for those who insist, a large collection of logos is defined in
 the [`texnames`](https://ctan.org/tex-archive/obsolete/macros/latex209/contrib/misc) package (but note that this set of macros isn't
-entirely reliable in LaTeX 2e).
-The MetaFont and MetaPost logos can be set in fonts that LaTeX 2e
+entirely reliable in LaTeX2e).
+The MetaFont and MetaPost logos can be set in fonts that LaTeX2e
 knows about (so that they scale with the surrounding text) using the
 [`mflogo`](https://ctan.org/pkg/mflogo) package; but be aware that booby-traps surround the
 use of the Knuthian font for MetaPost (you might get

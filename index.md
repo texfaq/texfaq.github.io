@@ -14,7 +14,7 @@
 - [What is &epsilon;-TeX?](FAQ-etex.md)
 - [What is pdfTeX?](FAQ-whatpdftex.md)
 - [What is LaTeX?](FAQ-latex.md)
-- [What is LaTeX 2e?](FAQ-latex2e.md)
+- [What is LaTeX2e?](FAQ-latex2e.md)
 - [How should I pronounce ''LaTeX(2<sub>&epsilon;</sub>)''?](FAQ-latexpronounce.md)
 - [Should I use Plain TeX or LaTeX?](FAQ-plainvltx.md)
 - [How does LaTeX relate to Plain TeX?](FAQ-LaTeXandPlain.md)

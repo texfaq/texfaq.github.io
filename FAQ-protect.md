@@ -35,7 +35,7 @@ Lamport's book says in its description of every LaTeX command whether
 it is ''robust'' or ''fragile''; it also says that every command with an
 optional argument is fragile.  The list isn't reliable, and neither
 is the assertion about optional arguments; the statements may have
-been true in early versions of LaTeX 2e but are not any longer
+been true in early versions of LaTeX2e but are not any longer
 necessarily so:
   
 

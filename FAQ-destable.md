@@ -68,7 +68,7 @@ or the effect may be established after the package has been  loaded:
 ''above'' and ''top'' in these contexts mean the same thing.)
 
 Doing the job yourself is pretty easy: [`topcapt`](https://ctan.org/pkg/topcapt) switches the
-values of the LaTeX 2e parameters `\abovecaptionskip` (default
+values of the LaTeX2e parameters `\abovecaptionskip` (default
 value `10pt`) and `\belowcaptionskip` (default value
 `0pt`), so:
 ```latex

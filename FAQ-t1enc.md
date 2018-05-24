@@ -7,7 +7,7 @@ date: 2014-06-10
 
 # Why use [`fontenc`](https://ctan.org/pkg/fontenc) rather than [`t1enc`](https://ctan.org/pkg/t1enc)?
 
-In the very earliest days of LaTeX 2e, the only way to use the
+In the very earliest days of LaTeX2e, the only way to use the
 T1 encoding was [`t1enc`](https://ctan.org/pkg/t1enc); with the summer 1994
 ''production'' release, the [`fontenc`](https://ctan.org/pkg/fontenc) package appeared, and
 provided comprehensive support for use of the encoding.

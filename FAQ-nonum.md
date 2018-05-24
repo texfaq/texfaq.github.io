@@ -37,9 +37,9 @@ the document uses the [`times`](https://ctan.org/pkg/times) package, and the err
 at `\begin{document}`.  The file search paths are wrongly set
 up, and your `\usepackage{times}` has picked up a LaTeX 2.09
 version of the package, which in its turn has invoked another which
-has no equivalent in LaTeX 2e.  The obvious solution is to rewrite
+has no equivalent in LaTeX2e.  The obvious solution is to rewrite
 the paths so that LaTeX 2.09 packages are chosen only as a last resort
-so that the startlingly simple LaTeX 2e [`times`](https://ctan.org/pkg/times) package will
+so that the startlingly simple LaTeX2e [`times`](https://ctan.org/pkg/times) package will
 be picked up.  Better still is to replace the whole thing with
 something more modern still; current [`psnfss`](https://ctan.org/pkg/psnfss) doesn't provide
 a [`times`](https://ctan.org/pkg/times) package&nbsp;&mdash; the alternative [`mathptmx`](https://ctan.org/pkg/mathptmx)

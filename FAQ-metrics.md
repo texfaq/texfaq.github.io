@@ -22,7 +22,7 @@ TeX macros which reference the characters (not much fun, and
 error-prone); or you change the encoding of the font (easier than you
 might think); or you use [virtual fonts](FAQ-virtualfonts.md) to
 _pretend_ to TeX that the encoding is the same as it is used to.
-LaTeX 2e has facilities for dealing with fonts in different
+LaTeX2e has facilities for dealing with fonts in different
 encodings; read the [_LaTeX Companion_](FAQ-latex-books.md) for
 more details.  In practice, if you do much non-English (but Latin
 script) typesetting, you are strongly recommended to use the
@@ -37,7 +37,7 @@ needs no virtual fonts.
 
 Alan Jeffrey's `fontinst` package is an AFM to
 TFM converter written in TeX; it is used to generate the
-files used by LaTeX 2e's PSNFSS package to support use of
+files used by LaTeX2e's PSNFSS package to support use of
 PostScript fonts. It is a sophisticated package, not for the faint-hearted,
 but is powerful enough to cope with most needs.  Much of its power
 relies on the use of [virtual fonts](FAQ-virtualfonts.md).
@@ -45,7 +45,7 @@ relies on the use of [virtual fonts](FAQ-virtualfonts.md).
 For slightly simpler problems, Rokicki's `afm2tfm`,
 distributed with `dvips`, is fast and
 efficient; note that the metrics and styles that come with
-`dvips` are _not_ currently LaTeX 2e compatible.
+`dvips` are _not_ currently LaTeX2e compatible.
 
 For the Macintosh (classic), there is a program called
 `EdMetrics` which does the job (and more).

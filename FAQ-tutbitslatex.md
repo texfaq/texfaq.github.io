@@ -36,7 +36,7 @@ page covers a rather smaller subject area, but is similarly comprehensive
 (mostly by links to documents on relevant topics, rather than as a
 monolithic document).
 
-Keith Reckdahl's ''Using Imported Graphics in LaTeX 2e''
+Keith Reckdahl's ''Using Imported Graphics in LaTeX2e''
 ([`epslatex`](https://ctan.org/pkg/epslatex)) is an
 excellent introduction to graphics use.  It's available on
 CTAN, but not in the TeX&nbsp;Live or MiKTeX distributions, for

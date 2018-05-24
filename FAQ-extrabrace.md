@@ -58,7 +58,7 @@ example as:
 \caption[Energy: (Einstein's equation)]{Energy: \(E=mc^2\)}
 ```
 In practice, inserting mathematics in a moving argument has already
-been addressed in LaTeX 2e by the robust command `\ensuremath`:
+been addressed in LaTeX2e by the robust command `\ensuremath`:
 ```latex
 \caption{Energy: \ensuremath{E=mc^2}}
 ```

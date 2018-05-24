@@ -23,7 +23,7 @@ only after they are agreed as bugs by a small vetting team. In the
 first instance, contact [Karl Berry](karl@freefriends.org)
 [TUG](FAQ-TUGstar).
 
-If you've found a bug in LaTeX 2e, [report it](FAQ-latexbug.md)
+If you've found a bug in LaTeX2e, [report it](FAQ-latexbug.md)
 using mechanisms supplied by the LaTeX team.  (Please be
 careful to ensure you've got a LaTeX bug, or a bug in one of the
 ''required''  packages distributed by the LaTeX team.)

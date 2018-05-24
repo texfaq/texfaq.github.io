@@ -20,7 +20,7 @@ cases, there are macro packages provided (often with the driver) that
 provide a human-friendly interface to the `\special`; for example,
 there's little point including a figure if you leave no gap for it in
 your text, and changing color proves to be a particularly fraught
-operation that requires real wizardry.  LaTeX 2e
+operation that requires real wizardry.  LaTeX2e
 has standard graphics and color packages that make figure inclusion,
 rotation and scaling, and color typesetting relatively
 straightforward, despite the rather daunting `\special` commands

@@ -13,7 +13,7 @@ TeX pronounced as the program itself; see
 _not_ to be pronounced in the same way as the rubber-tree gum
 (which would be ''lay teks'').
 
-The LaTeX 2e logo is supposed to end with an
+The LaTeX2e logo is supposed to end with an
 &epsilon;; nevertheless, most
 people pronounce the name as ''LaTeX-two-ee''.
 

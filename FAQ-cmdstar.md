@@ -68,10 +68,10 @@ For those of an adventurous disposition, a further option is to use
 the [`xparse`](https://ctan.org/pkg/xparse) package from the [`l3packages`](https://ctan.org/pkg/l3packages)
 distribution.  The package defines a bunch of commands (such as
 `\NewDocumentCommand`) which are somewhat analagous to
-`\newcommand` and the like, in LaTeX 2e.  The big difference is
+`\newcommand` and the like, in LaTeX2e.  The big difference is
 the specification of command arguments; for each argument, you have a
 set of choices in the command specification.  So, to create a
-*-command (in LaTeX 2e style), one might write:
+*-command (in LaTeX2e style), one might write:
 <!-- {% raw %} -->
 ```latex
 \NewDocumentCommand \foo { s m } {%
