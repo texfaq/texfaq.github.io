@@ -7,7 +7,7 @@ date: 2014-06-10
 
 Finding the page number of the last page of a document, from within
 the document, is somewhat tricky.  The [`lastpage`](https://ctan.org/pkg/lastpage) and
-[`zref-lastpage`](https://ctan.org/pkg/zref-lastpage) packages define a label
+[`zref-lastpage`](https://ctan.org/pkg/zref) packages define a label
 `LastPage` whose number is _right_ (after sufficiently many
 passes through LaTeX, of course).  The [`memoir`](https://ctan.org/pkg/memoir) class also
 defines a ''last page'' label.

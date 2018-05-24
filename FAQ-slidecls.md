@@ -15,7 +15,7 @@ program went away, and its functionality was supplied by the
 system administrators, it does nothing for the inferior functionality
 of the class: no-one who ''knows'' uses [`slides`](https://ctan.org/pkg/slides) nowadays.
 
-The ''classic'' alternatives have been [`seminar`](https://ctan.org/pkg/seminar) and [`foils`](https://ctan.org/pkg/foils)
+The ''classic'' alternatives have been [`seminar`](https://ctan.org/pkg/seminar) and [`foils`](https://ctan.org/pkg/foiltex)
 (originally known as FoilTeX).  Both were originally designed to
 produce output on acetate foils, though subsequent work has provided
 environments in which they can be used with screen projectors (see

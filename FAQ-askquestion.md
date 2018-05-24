@@ -42,7 +42,7 @@ application of your own common sense.
     operating system'' gives all the context a potential respondent
     might need.  Another common situation where this information is
     important is when you're having trouble installing something new in
-    your system: ''I want to add the [`glugtheory`](https://ctan.org/pkg/glugtheory) package to my
+    your system: ''I want to add the `glugtheory` package to my
     `mumbleTeX v12.0` distribution on the `Grobble 2024`
     operating system''.
 -  If you need to know how to do something, make clear what your
@@ -50,13 +50,13 @@ application of your own common sense.
     want to do _y_ in LaTeX running the `boggle`
     class''.  If you thought you knew how, but your attempts are
     failing, tell us what you've tried: ''I've already tried installing
-    the [`elephant`](https://ctan.org/pkg/elephant) in the [`minicar`](https://ctan.org/pkg/minicar) directory, and it
+    the `elephant in the `minicar directory, and it
     didn't work, even after refreshing the filename database''.
 -  If something's going wrong within (La)TeX, pretend you're
     [submitting a LaTeX bug report](FAQ-latexbug.md),
     and try to generate a [minimum failing example](FAQ-minxampl.md).
     If your example 
-    needs your local [`xyzthesis`](https://ctan.org/pkg/xyzthesis) class, or some other resource
+    needs your local `xyzthesis` class, or some other resource
     not generally available, be sure to include a pointer to how the
     resource can be obtained.
 -  Figures are special, of course.  Sometimes the figure itself is

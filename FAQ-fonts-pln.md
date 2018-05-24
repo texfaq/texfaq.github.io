@@ -89,7 +89,7 @@ allowing you the dubious pleasure of using fonts such as the
 
 The [`pdcmac`](https://ctan.org/pkg/pdcmac) Plain TeX macro package aims to be a complete
 document preparation environment, like [Eplain](./FAQ-eplain.html).  One
-of its components is a font selection scheme, [`pdcfsel`](https://ctan.org/pkg/pdcfsel), which
+of its components is a font selection scheme, [`pdcfsel`](https://ctan.org/pkg/pdcmac), which
 is rather simple but adequately powerful for many uses.  The package
 doesn't preload fonts: the user is required to declare the fonts the
 document is going to use, and the package provides commands to select

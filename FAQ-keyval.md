@@ -134,16 +134,16 @@ code can be used within existing LaTeX2e documents, so
 Another key-value system that's part of larger set of macros is
 [`scrbase`](https://ctan.org/pkg/scrbase), which uses the facilities of [`keyval`](https://ctan.org/pkg/keyval) to
 build a larger set of facilities, originally for use within the
-[`KOMA-script`](https://ctan.org/pkg/KOMA-script) bundle.  For English-speaking authors, there are
+[`KOMA-script`](https://ctan.org/pkg/koma-script) bundle.  For English-speaking authors, there are
 difficulties from the German-only documentation; however, from a
 partial translation available to the author of this answer, a summary
 is possible.  The package may build on the facilities either of
-[`kyeval`](https://ctan.org/pkg/kyeval) or of [`xkeyval`](https://ctan.org/pkg/xkeyval), and builds its functionality
+[`keyval`](https://ctan.org/pkg/keyval) or of [`xkeyval`](https://ctan.org/pkg/xkeyval), and builds its functionality
 on the structure of the ''key family''.  The user may define family
 ''members'' and keys are defined relative to the members.  (For example,
-the package [`scrbase`](https://ctan.org/pkg/scrbase) is part of the [`KOMA-script`](https://ctan.org/pkg/KOMA-script)
-bundle; so its keys are all members of the [`scrbase.sty`](https://ctan.org/pkg/scrbase.sty)
-family within the [`KOMA`](https://ctan.org/pkg/KOMA) family.  The function
+the package [`scrbase`](https://ctan.org/pkg/scrbase) is part of the [`KOMA-script`](https://ctan.org/pkg/koma-script)
+bundle; so its keys are all members of the [`scrbase.sty`](https://ctan.org/pkg/scrbase)
+family within the [`KOMA`](https://ctan.org/pkg/koma-script) family.  The function
 `\FamilyProcessOptions` allows the programmer to decode the options
 of the package in terms of the package's key family.  Note that there
 is no special provision made for ''traditional'' package options, as

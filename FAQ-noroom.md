@@ -50,7 +50,7 @@ In such cases, it is usually possible to use the
 them).  The LaTeX package [`etex`](https://ctan.org/pkg/etex) modifies the register allocation
 mechanism to make use of &epsilon;-TeX's extended register sets.
 [`Etex`](https://ctan.org/pkg/Etex) is a
-derivative of the Plain TeX macro file [`etex.src`](https://ctan.org/pkg/etex.src), which is
+derivative of the Plain TeX macro file [`etex.src`](https://ctan.org/pkg/etex-pkg), which is
 used in building the &epsilon;-TeX Plain format; both files are part of the
 &epsilon;-TeX distribution and are available in current distributions.
 

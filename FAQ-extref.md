@@ -58,7 +58,7 @@ have the .aux file, write:
 ... the \nameref{V1-introduction})...
 ```
 Heiko Oberdiek's experimental [`zref`](https://ctan.org/pkg/zref) bundle includes a
-hyper-crossreferencing mechanism using its [`zref-xr`](https://ctan.org/pkg/zref-xr) module.
+hyper-crossreferencing mechanism using its [`zref-xr`](https://ctan.org/pkg/zref) module.
 Usage is closely modelled on [`xr`](https://ctan.org/pkg/xr) and [`xr-hyper`](https://ctan.org/pkg/xr-hyper); a
 trivial example (from a `comp.text.tex` posting) is
 ```latex

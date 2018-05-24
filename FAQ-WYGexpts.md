@@ -38,7 +38,7 @@ support is the
 Shareware product [`winedt`](http://www.winedt.com/).
 Continuing the range of
 tools prettifying your input, we have the `emacs` package
-[[`x-symbol`](https://ctan.org/pkg/x-symbol)](http://x-symbol.sourceforge.net), which does
+[`x-symbol`](http://x-symbol.sourceforge.net), which does
 the WYSIWYG part of its work by replacing single TeX tokens and
 accented letter sequences with appropriate-looking characters on the
 screen.
