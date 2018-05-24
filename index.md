@@ -562,6 +562,7 @@
 
 ## Current TeX-related projects
 - [The LaTeX project](FAQ-LaTeX3.md)
+- [TeX Engine development](FAQ-enginedev.md)
 - [Future WWW technologies and (La)TeX](FAQ-mathml.md)
 - [Making outline fonts from MetaFont](FAQ-textrace.md)
 - [The TeX document preparation environment](FAQ-WYGexpts.md)

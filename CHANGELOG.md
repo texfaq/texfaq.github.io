@@ -10,6 +10,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Added
 - Q-alternatives: New description of some non-TeX systems
+- Q-enginedev: Summarise key engine developments, both current and historical
 
 ### Changed
 - Q-bug: Karl Berry now collects TeX bugs
