@@ -8,11 +8,11 @@ date: 2014-06-10
 
   Note that Mac OS/X, though it is also a Unix-based system, has
   different options; users should refer to the information in
-  [Mac systems]({% post_url FAQ-sysmac %}).
+  [Mac systems](FAQ-sysmac.md).
 
 The TeX distribution of choice, for Unix systems (including
 GNU/Linux and most other free Unix-like systems) is TeX&nbsp;Live,
-which is distributed as part of the [TeX collection]({% post_url FAQ-CD %}).
+which is distributed as part of the [TeX collection](FAQ-CD.md).
 
 TeX&nbsp;Live may also be installed ''over the network''; a network
 installer is provided, and once you have a system (whether installed

@@ -39,7 +39,7 @@ allows you to construct the outline of frames for use with
 [`flowfram`](https://ctan.org/pkg/flowfram).
 
 The [`beamerposter`](https://ctan.org/pkg/beamerposter) package is added to a 
-[[`beamer`](https://ctan.org/pkg/beamer) document]({% post_url FAQ-slidecls %}) to enable the user to work
+[[`beamer`](https://ctan.org/pkg/beamer) document](FAQ-slidecls.md) to enable the user to work
 as if in a [`a0poster`](https://ctan.org/pkg/a0poster) class.  Thus [`beamer`](https://ctan.org/pkg/beamer)'s neat
 provisions for layout may be used when creating the poster.
 Documentation of [`beamerposter`](https://ctan.org/pkg/beamerposter) is sparse, but an example file

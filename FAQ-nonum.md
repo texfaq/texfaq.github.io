@@ -9,12 +9,12 @@ date: 2014-06-10
 In general, this means you've tried to assign something to a count,
 dimension or skip register that isn't (in TeX's view of things) a
 number.  Usually the problem will become clear using the
-[ordinary techniques of examining errors]({% post_url FAQ-erroradvice %}).
+[ordinary techniques of examining errors](FAQ-erroradvice.md).
 
 Two LaTeX-specific errors are commonly aired on the newsgroups.
 
 The commonest arises from attempting to use an example from the
-[_The LaTeX Companion_ (first edition)]({% post_url FAQ-latex-books %}), and is
+[_The LaTeX Companion_ (first edition)](FAQ-latex-books.md), and is
 exemplified by the following error text:
 ```latex
 ! Missing number, treated as zero.

@@ -31,10 +31,10 @@ in `pfgguide` in the distribution.
 
 Since [`psfrag`](https://ctan.org/pkg/psfrag) works in terms of (encapsulated) PostScript files,
 it needs extra work for use with PDFLaTeX.  Two techniques are
-available, using [`pst-pdf` package]({% post_url FAQ-pdftexgraphics %})
+available, using [`pst-pdf` package](FAQ-pdftexgraphics.md)
 in a mode designed to do this work; and using [`pdfrack`](https://ctan.org/pkg/pdfrack).
 
-The [`Pst-pdf` package]({% post_url FAQ-pdftexgraphics %}) can support
+The [`Pst-pdf` package](FAQ-pdftexgraphics.md) can support
 this ''extra work'' usage.  In fact, the [`pst-pdf`](https://ctan.org/pkg/pst-pdf) support
 package [`auto-pst-pdf`](https://ctan.org/pkg/auto-pst-pdf) offers a configuration setting
 precisely for use with [`psfrag`](https://ctan.org/pkg/psfrag).
@@ -104,7 +104,7 @@ explicit package has been released.
 The [`pstricks`](https://ctan.org/pkg/pstricks) web site has a page with several 
 [examples of labelling](http://pstricks.tug.org/main.cgi?file=Examples/overlay)
 which will get you started; if [`pstricks`](https://ctan.org/pkg/pstricks) is 
-[an option for you]({% post_url FAQ-drawing %}), this route is worth a try.
+[an option for you](FAQ-drawing.md), this route is worth a try.
 
 The confident user may, of course, do the whole job in a picture
 environment which itself includes the graphic.  I would recommend

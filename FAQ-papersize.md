@@ -29,9 +29,9 @@ The check-list for such problems has two entries:
     possibly `Acrobat Reader`&nbsp;&mdash; older versions of the
     program had the qualified name).  In this case, it may be that
     `Reader` is willfully changing the size of your output:
-    read [`Reader` antics]({% post_url FAQ-acroantics %}).
+    read [`Reader` antics](FAQ-acroantics.md).
 -  Something in your TeX system is producing the wrong size (or
-    shape) of output: read [paper geometry]({% post_url FAQ-papergeom %}).
+    shape) of output: read [paper geometry](FAQ-papergeom.md).
 
 An alternative approach is to use the (excellent) [`testflow`](https://ctan.org/pkg/testflow)
 suite, that provides a detailed outline of the potential problems

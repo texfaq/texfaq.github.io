@@ -8,7 +8,7 @@ date: 2018-05-24
 
 The &epsilon;-TeX extensions to TeX are a range of new functionalities
 added by the NTS to Knuth's original TeX program: see [details of
-engine developments]({% post_url FAQ-enginedev %}) for more.
+engine developments](FAQ-enginedev.md) for more.
 
 In a modern TeX distribution, the extensions are enabled for almost all formats
 except Knuth's TeX (`tex`) itself. As such, most users will never use a

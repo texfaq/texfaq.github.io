@@ -35,7 +35,7 @@ Before we even start, here's a check-list of things to sort out:
     installation while they check that you're doing the right thing:
     they may nag you to change the name, or to negotiate a take-over
     with the author of the original package. 
-    [Browse the archive]({% post_url FAQ-findfiles %}) to ensure uniqueness.
+    [Browse the archive](FAQ-findfiles.md) to ensure uniqueness.
   
 
     The name you choose should also (as far as possible) be somewhat

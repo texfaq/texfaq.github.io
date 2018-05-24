@@ -6,7 +6,7 @@ date: 2014-06-10
 
 # Installing the Type&nbsp;1 versions of the CM&nbsp;fonts
 
-This is a specialised case of [installing a font]({% post_url FAQ-instfont %}),
+This is a specialised case of [installing a font](FAQ-instfont.md),
 but it is almost never necessary&nbsp;&mdash; it's inconceivable that any (even
 remotely) recent system will _not_ have the fonts already
 installed.  You can confirm this (near-inevitable) fact by trying the
@@ -29,5 +29,5 @@ If the test has failed, you need to install your own set of the fonts;
 the distribution (including all the fonts the AMS designed and
 produced themselves) is now described as [`amsfonts`](https://ctan.org/pkg/amsfonts).  The
 bundle contains metric and map files&nbsp;&mdash; all you need to
-[install the fonts]({% post_url FAQ-instt1font %}).
+[install the fonts](FAQ-instt1font.md).
 

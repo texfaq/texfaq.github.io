@@ -15,7 +15,7 @@ etc.; namely, data that are written to an auxiliary file and
 read in later.  Other places are those data that might appear in head-
 or footlines.  Section headings and figure captions are the most
 prominent examples; there's a complete list in Lamport's book
-(see [TeX-related books]({% post_url FAQ-latex-books %})).
+(see [TeX-related books](FAQ-latex-books.md)).
 
 What's going on really, behind the scenes? The commands in moving
 arguments are normally expanded to their internal structure during the

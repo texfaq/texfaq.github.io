@@ -36,9 +36,9 @@ Other questions in this FAQ offer specific help on kinds of
 symbols:
   
 
--  [Script fonts for mathematics]({% post_url FAQ-scriptfonts %})
--  [Fonts for the number sets]({% post_url FAQ-numbersets %})
--  [Typesetting the principal value integral]({% post_url FAQ-prinvalint %})
+-  [Script fonts for mathematics](FAQ-scriptfonts.md)
+-  [Fonts for the number sets](FAQ-numbersets.md)
+-  [Typesetting the principal value integral](FAQ-prinvalint.md)
 
   are processed versions PDF form for both A4 and letter paper.
 

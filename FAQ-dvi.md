@@ -13,27 +13,27 @@ device or display.
 
 A DVI file (that is, a file with the type or extension
 `dvi`) is the main output file of ''original'' TeX (later
-TeX-like systems, such as [pdfTeX]({% post_url FAQ-pdftex %}) may use
+TeX-like systems, such as [pdfTeX](FAQ-pdftex.md) may use
 other formats).
 
 A DVI file contains all the information that is needed for
 printing or previewing, except for the actual bitmaps or outlines of
 fonts, and any material to be introduced by means of 
-[`\special` commands]({% post_url FAQ-specials %}).  Characters in the
+[`\special` commands](FAQ-specials.md).  Characters in the
 DVI file (representing glyphs for printing or display) appear
 in an encoding determined in the document.
 
 Any TeX input file should produce the same DVI file
 regardless of which implementation of TeX is used to produce it.
 
-An DVI file may be processed by a [DVI driver]({% post_url FAQ-driver %})
+An DVI file may be processed by a [DVI driver](FAQ-driver.md)
 to produce further output designed specifically for a particular
 printer, or for output in another format (for distribution), or it may
 be used by a previewer for display on a computer screen.
 
-Note that [XeTeX]({% post_url FAQ-xetex %}) (released some time after
+Note that [XeTeX](FAQ-xetex.md) (released some time after
 pdfTeX) uses an ''extended DVI format'' (XDV) to send
-its output to a close-coupled [DVI driver]({% post_url FAQ-driver %}),
+its output to a close-coupled [DVI driver](FAQ-driver.md),
 `xdvipdfmx`.
 
 The canonical reference for the structure of a DVI file is the

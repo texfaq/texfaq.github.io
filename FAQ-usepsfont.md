@@ -11,17 +11,17 @@ In order to use any font, TeX needs a
 _metric_ file (TFM file).  Several sets of metrics for
 common Adobe Type 1 fonts are
 available from the archives; for mechanisms for generating new ones,
-see [metrics for PostScript fonts]({% post_url FAQ-metrics %}).  You
+see [metrics for PostScript fonts](FAQ-metrics.md).  You
 also need the fonts themselves; PostScript printers come with a set of
 fonts built in, but to extend your repertoire you usually
 need to buy from one of the many commercial font vendors (see, for
-example, [''choice of fonts'']({% post_url FAQ-psfchoice %})).
+example, [''choice of fonts''](FAQ-psfchoice.md)).
 
 If you use LaTeX2e, access to your printer's fonts is offered by the
 PSNFSS package; the LaTeX3 project team declare that
 PSNFSS is a ''required'' part of a LaTeX distribution, and
 bug reports may be submitted via the 
-[LaTeX bugs system]({% post_url FAQ-latexbug %}). 
+[LaTeX bugs system](FAQ-latexbug.md). 
 PSNFSS gives you a set of packages for changing the default
 roman, sans-serif and typewriter fonts; _e.g_., the
 [`mathptmx`](https://ctan.org/pkg/mathptmx) package will set up `Times`
@@ -47,5 +47,5 @@ re-encoding mechanisms available in many drivers and in
 `ps2pk` and `afm2tfm`.
 
 Some common problems encountered are discussed elsewhere
-(see [problems with PS fonts]({% post_url FAQ-psfontprob %})).
+(see [problems with PS fonts](FAQ-psfontprob.md)).
 

@@ -16,7 +16,7 @@ lines, for some minor benefit later in the paragraph.  The
 Plain TeX version of the command doesn't suffer this failing, but
 is rather conservative: it is loath to create too large a gap at the
 end of the line, but in some circumstances&nbsp;&mdash; such as where
-[hyphenation is suppressed]({% post_url FAQ-hyphoff %})&nbsp;&mdash; painfully large gaps
+[hyphenation is suppressed](FAQ-hyphoff.md)&nbsp;&mdash; painfully large gaps
 may sometimes be required.
 
 Martin Schr&ouml;der's [`ragged2e`](https://ctan.org/pkg/ragged2e) package offers the best of both

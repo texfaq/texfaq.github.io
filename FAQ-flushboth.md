@@ -13,7 +13,7 @@ implemented in the same way as the `\ragged*` commands, and suffers
 in the same way.
 
 The following code (to be inserted in a package of your own, or as
-[internal LaTeX code]({% post_url FAQ-atsigns %})) defines a command that
+[internal LaTeX code](FAQ-atsigns.md)) defines a command that
 restores flush justification at both margins:
 <!-- {% raw %} -->
 ```latex
@@ -33,7 +33,7 @@ other class) will have done.
 
 Any but a really old copy of Martin Schr&ouml;der's [`ragged2e`](https://ctan.org/pkg/ragged2e)
 package has a `\justifying` command to match its 
-[versions of the LaTeX ''ragged'' commands]({% post_url FAQ-ragright %}).  The
+[versions of the LaTeX ''ragged'' commands](FAQ-ragright.md).  The
 package also provides a `justify` environment, which
 permits areas of justified text in a larger area which is ragged.
 

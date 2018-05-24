@@ -26,7 +26,7 @@ file name.  This is particularly difficult in the case of Plain TeX,
 since the syntax of the `\input` command is so peculiar.
 
 In the case of LaTeX, the input commands have pretty regular
-syntax, and the simplest [patching techniques]({% post_url FAQ-patch %}) can be
+syntax, and the simplest [patching techniques](FAQ-patch.md) can be
 used on them.  (Note that LaTeX's `\input` command is itself a
 patch on top of the Plain TeX command.  Our patches apply to the
 LaTeX version of the command, which is used as `\input{file}`)

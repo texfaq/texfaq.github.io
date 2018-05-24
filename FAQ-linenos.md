@@ -18,7 +18,7 @@ routine, which can cause problems: the user should beware&hellip;
 
 If the requirement is for numbering verbatim text, [`moreverb`](https://ctan.org/pkg/moreverb),
 or [`fancyvrb`](https://ctan.org/pkg/fancyvrb) (see 
-[including files verbatim]({% post_url FAQ-verbfile %})) may be used.
+[including files verbatim](FAQ-verbfile.md)) may be used.
 Class [`memoir`](https://ctan.org/pkg/memoir) also provides the necessary facilities.
 
 One common use of line numbers is in critical editions of texts, and

@@ -13,9 +13,9 @@ the typesetting of dissertations by computer science and other
 students who are expected to write programs.  Simple verbatim listings
 of programs are commonly useful, as well.
 
-  [Verbatim listings]({% post_url FAQ-verbfile %}) are dealt with elsewhere,
+  [Verbatim listings](FAQ-verbfile.md) are dealt with elsewhere,
 as is the problem of 
-[typesetting algorithm specifications]({% post_url FAQ-algorithms %}).
+[typesetting algorithm specifications](FAQ-algorithms.md).
 
 The [`listings`](https://ctan.org/pkg/listings) package is widely regarded as the best bet for
 formatted output (it is capable of parsing program source, within the
@@ -80,7 +80,7 @@ Usage of [`minted`](https://ctan.org/pkg/minted) can be as simple as
   `\end{minted}`
 which processes the program code dynamically, at typesetting time&nbsp;&mdash;
 though such usage is likely to require that 
-[separate processing be enabled]({% post_url FAQ-spawnprog %}).
+[separate processing be enabled](FAQ-spawnprog.md).
 
 On a rather different path, the package [`showexpl`](https://ctan.org/pkg/showexpl) supports
 typesetting (La)TeX code and its typeset output, in parallel

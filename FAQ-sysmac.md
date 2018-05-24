@@ -6,7 +6,7 @@ date: 2014-06-10
 
 # Macintosh systems
 
-The [TeX collection]({% post_url FAQ-CD %}) DVD includes MacTeX,
+The [TeX collection](FAQ-CD.md) DVD includes MacTeX,
 which is a Mac-tailored version of TeX&nbsp;Live; details may be found on
 the [TUG web site](http://tug.org/mactex).  If you don't
 have the disc, you can download the distribution from CTAN (but
@@ -34,7 +34,7 @@ Another partly shareware program is
 Tom Kiffe.  CMacTeX is much closer than OzTeX to the Unix TeX
 model of things (it uses `dvips`, for instance).  CMacTeX
 runs natively under Mac OS/X; it includes a port of a version of
-[Omega]({% post_url FAQ-omegaleph %}).
+[Omega](FAQ-omegaleph.md).
 
  Further information may be available in the 
  [MacTeX Help page](http://www.tug.org/mactex/gettinghelp.html).

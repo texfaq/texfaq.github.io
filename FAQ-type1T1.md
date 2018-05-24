@@ -8,9 +8,9 @@ date: 2014-06-10
 
 Elsewhere, answers to these FAQs recommend that you use an
 ''8-bit'' font to permit 
-[accentuation of inflected languages]({% post_url FAQ-hyphenaccents %}),
+[accentuation of inflected languages](FAQ-hyphenaccents.md),
 and also recommend the use of Type&nbsp;1 fonts to ensure that
-you get [good quality PDF]({% post_url FAQ-fuzzy-type3 %}).  These
+you get [good quality PDF](FAQ-fuzzy-type3.md).  These
 recommendations used to be contradictory: one could not just
 ''switch'' from the free CM fonts to free Cork- (or similarly)
 encoded Type&nbsp;1 fonts.  The first approach that started to alleviate
@@ -45,7 +45,7 @@ fonts, and has some virtues&nbsp;&mdash; it's noticeably smaller than
 [`CM-super`](https://ctan.org/pkg/CM-super) while being less stark than [`CM-LGC`](https://ctan.org/pkg/CM-LGC).
 
 [`Latin Modern`](https://ctan.org/pkg/lm) is produced using the
-program [`MetaType1`]({% post_url FAQ-textrace %}).  The
+program [`MetaType1`](FAQ-textrace.md).  The
 [`Latin Modern`](https://ctan.org/pkg/lm) set comes with T1, TS1
 LY1 encoded variants (as well as a variant using the Polish
 QX encoding); for the glyph set it covers, its outlines seem
@@ -59,7 +59,7 @@ original [`CM`](https://ctan.org/pkg/CM) fonts.  It's hard to argue with the cho
 Knuth's range of sizes has stood the test of time, and is one of the
 bases on which the excellence of the TeX system rests.
 
-[Virtual fonts]({% post_url FAQ-virtualfonts %}) help us deal with the problem,
+[Virtual fonts](FAQ-virtualfonts.md) help us deal with the problem,
 since they allow us to map ''bits of DVI file'' to single
 characters in the virtual font; so we can create an ''&eacute;'' character
 by recreating the DVI commands that would result from the code
@@ -87,10 +87,10 @@ The sole remaining commercial CM-like 8-bit font comes from
 Micropress, who offer the complete EC set
 in Type&nbsp;1 format, as part of their range of outline versions of fonts
 that were originally distributed in MetaFont format.  See
-[''commercial distributions'']({% post_url FAQ-commercial %}).
+[''commercial distributions''](FAQ-commercial.md).
 
 The shareware 
-[BaKoMa TeX distribution]({% post_url FAQ-TeXsystems %}) offers a
+[BaKoMa TeX distribution](FAQ-TeXsystems.md) offers a
 set of Type&nbsp;1 EC fonts, as an extra shareware option.  (As far
 as the present author can tell, these fonts are _only_ available
 to users of BaKoMa TeX: they are stored in an archive format that
@@ -102,6 +102,6 @@ or metrics for some other 8-bit encoding such as LY1).  However,
 if you use someone else's text font (even something as simple as
 Adobe's Times family) you have to find a matching family of
 mathematical fonts, which is a non-trivial undertaking&nbsp;&mdash;
-see [''choice of scalable fonts'']({% post_url FAQ-psfchoice %}).
+see [''choice of scalable fonts''](FAQ-psfchoice.md).
   very large download)
 

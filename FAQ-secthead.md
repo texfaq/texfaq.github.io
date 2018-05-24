@@ -11,8 +11,8 @@ Suppose that the editor of your favourite journal has specified that section
 headings must be centerd, in small capitals, and subsection headings ragged 
 right in italic, but that you don't want to get involved in the sort of
 programming described in section 2.2 of _The LaTeX Companion_
-  (see [LaTeX books]({% post_url FAQ-latex-books %}); the
-  [programming]({% post_url FAQ-atsigns %}) itself is discussed elsewhere in this
+  (see [LaTeX books](FAQ-latex-books.md); the
+  [programming](FAQ-atsigns.md) itself is discussed elsewhere in this
   FAQ).
 The following hack will 
 probably satisfy your editor. Define yourself new commands

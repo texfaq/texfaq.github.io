@@ -20,7 +20,7 @@ experimentation shows that it is indeed pretty difficult to prevent
 a change ''bleeding'' out to affect other rules in the same table.
 
 If you look at what we have to say on the 
-[design of tables]({% post_url FAQ-destable %}), elsewhere
+[design of tables](FAQ-destable.md), elsewhere
 among these FAQs, and you may sense that the design of LaTeX
 simply skipped the issues surrounding table design: _that's_
 presumably why there's no facilities to help you.

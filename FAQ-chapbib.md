@@ -20,7 +20,7 @@ within the document: the package will deal with chapters and sections
 (as defined by LaTeX itself) and also defines a `bibunit`
 environment so that users can select their own structuring.
 
-[The [`biblatex`](https://ctan.org/pkg/biblatex) package]({% post_url FAQ-biblatex %}), with
+[The [`biblatex`](https://ctan.org/pkg/biblatex) package](FAQ-biblatex.md), with
 `biber`, provides a similar facility; enclose the text for
 which you want a local bibliography in a `refsection`
 environment, and place a `\printbibliography` command as the last

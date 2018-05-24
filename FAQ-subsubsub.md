@@ -32,7 +32,7 @@ takes 6&nbsp;arguments.  Before attempting this sort of work, you are well
 advised to read the LaTeX sources (`ltsect.dtx` in the
 LaTeX distribution) and the source of the standard packages
 (`classes.dtx`), or to make use of the 
-[LaTeX Companion]({% post_url FAQ-latex-books %}), which
+[LaTeX Companion](FAQ-latex-books.md), which
 discusses the use of `startsection` for this sort of thing.
 
 You will note that Lamport didn't go on adding `sub` to the

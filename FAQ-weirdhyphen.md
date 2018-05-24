@@ -25,7 +25,7 @@ If you're using LaTeX2e, the problem probably arises from your
 multi-lingual version.
 
 A further source of oddity can derive from the 1995 release of
-[Cork-encoded fonts]({% post_url FAQ-ECfonts %}),
+[Cork-encoded fonts](FAQ-ECfonts.md),
 which introduced an alternative hyphen character.  The LaTeX2e
 configuration files in the font release specified use of the
 alternative hyphen, and this could produce odd effects with words

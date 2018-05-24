@@ -9,7 +9,7 @@ date: 2014-06-10
 There are three general routes to PDF output: Adobe's original
 ''distillation'' route (via PostScript output), direct conversion of a
 DVI file, and the use of a direct TeX-like PDF
-generator such as [pdfTeX]({% post_url FAQ-pdftex %}).
+generator such as [pdfTeX](FAQ-pdftex.md).
 
 For simple documents (with no hyper-references), you can either
   
@@ -23,13 +23,13 @@ For simple documents (with no hyper-references), you can either
 -  process the document with ''vanilla'' LaTeX and generate PDF
     direct from the DVI using `dvipdfm`/`dvipdfmx`; or 
 -  process the document direct to PDF with pdfTeX,
-    [LuaTeX]({% post_url FAQ-luatex %}), or [XeTeX]({% post_url FAQ-xetex %}).
+    [LuaTeX](FAQ-luatex.md), or [XeTeX](FAQ-xetex.md).
 
 To translate all the LaTeX cross-referencing into Acrobat
 links, you need a LaTeX package to redefine
 the internal commands.  There are two of these for LaTeX, both
 capable of conforming to the
-[HyperTeX specification]({% post_url FAQ-hyper %}):
+[HyperTeX specification](FAQ-hyper.md):
 Heiko Oberdiek's [`hyperref`](https://ctan.org/pkg/hyperref), and Michael Mehlich's
 [`hyper`](https://ctan.org/pkg/hyper).  (In practice, almost everyone uses
 [`hyperref`](https://ctan.org/pkg/hyperref); [`hyper`](https://ctan.org/pkg/hyper) hasn't been updated since 2000.)
@@ -44,7 +44,7 @@ PostScript acceptable to Distiller, and
 `dvipdfm` and `dvipdfmx` have `\special` commands of
 their own.
 
-If you use Plain TeX, the [Eplain macros]({% post_url FAQ-eplain %}) can
+If you use Plain TeX, the [Eplain macros](FAQ-eplain.md) can
 help you create PDF documents with hyper-references.
 It can operate using pdfTeX primitives, or `\special` commands
 for the `dvipdfm`/`dvipdfmx` DVI drivers.
@@ -54,7 +54,7 @@ While there is no free implementation of all of `Adobe`
 functionality, any but the implausibly old versions of
 [`ghostscript`](http://www.ghostscript.com/)
 provide pretty reliable distillation (but beware of the problems with
-[`dvips` output for distillation]({% post_url FAQ-dvips-pdf %})).
+[`dvips` output for distillation](FAQ-dvips-pdf.md)).
 
 For viewing (and printing) the resulting files, Adobe's
 `Acrobat` `Reader` is available for a fair range of

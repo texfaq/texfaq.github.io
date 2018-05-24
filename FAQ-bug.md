@@ -23,21 +23,21 @@ only after they are agreed as bugs by a small vetting team. In the
 first instance, contact [Karl Berry](karl@freefriends.org)
 [TUG](FAQ-TUGstar).
 
-If you've found a bug in LaTeX2e, [report it]({% post_url FAQ-latexbug %})
+If you've found a bug in LaTeX2e, [report it](FAQ-latexbug.md)
 using mechanisms supplied by the LaTeX team.  (Please be
 careful to ensure you've got a LaTeX bug, or a bug in one of the
 ''required''  packages distributed by the LaTeX team.)
 
 If you've found a bug in a contributed LaTeX package, the best
 starting place is usually to ask in the ''usual places for 
-[help on-line]({% post_url FAQ-gethelp %}), or just possibly one of the 
-[specialised mailing lists]({% post_url FAQ-maillistsstar %}).
+[help on-line](FAQ-gethelp.md), or just possibly one of the 
+[specialised mailing lists](FAQ-maillistsstar.md).
 The author of the package may well answer on-line, but if no-one
 offers any help, you may stand a chance if you mail the author
 (presuming that you can find an address&hellip;).
 
 If you've found a bug in LaTeX 2.09, or some other such unsupported
-software, your only real hope is [help on-line]({% post_url FAQ-gethelp %}).
+software, your only real hope is [help on-line](FAQ-gethelp.md).
 
 Failing all else, you may need to pay for
 help&nbsp;&mdash; TUG maintains a 

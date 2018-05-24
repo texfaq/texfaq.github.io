@@ -24,7 +24,7 @@ message:
 There is nothing that can directly be done about this error: you
 can't extend the number of available `\dimen` registers without
 extending TeX itself.
-  [Omega]({% post_url FAQ-omegaleph %}) and [&epsilon;-TeX]({% post_url FAQ-etex %}) both do this.
+  [Omega](FAQ-omegaleph.md) and [&epsilon;-TeX](FAQ-etex.md) both do this.
 
 It's actually quite practical (with most modern distributions) to use
 &epsilon;-TeX's extended register set:  Current LaTeX distributions
@@ -48,7 +48,7 @@ packages replace PicTeX with a version that uses 33 fewer
 into Plain TeX).
 
 And how does one use PicTeX anyway, given that the
-manual is so [hard to come by]({% post_url FAQ-docpictex %})?
+manual is so [hard to come by](FAQ-docpictex.md)?
 Fortunately for us all, the `MathsPic`
 system may be used to translate a somewhat different language into
 PicTeX commands; and the `MathsPic` manual is free (and

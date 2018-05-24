@@ -14,7 +14,7 @@ allowed the import of graphical image definitions.  He therefore
 deferred the specification of the use of graphics to the writers of
 DVI drivers; TeX documents would control the drivers by
 means of 
-[`\special` commands]({% post_url FAQ-specials %}).
+[`\special` commands](FAQ-specials.md).
 
 There is therefore a straightforward way for anyone to import graphics
 into their document: read the specification of the `\special`
@@ -23,7 +23,7 @@ hair-shirt approach: it definitely works, but it's not for everyone.
 
 Over the years, therefore, ''graphics inclusion'' packages have sprung
 up; most were designed for inclusion of
-[Encapsulated PostScript graphics]({% post_url FAQ-eps %})&nbsp;&mdash;
+[Encapsulated PostScript graphics](FAQ-eps.md)&nbsp;&mdash;
 which has become the _lingua franca_ of graphics inclusion over
 the last decade or so.
 
@@ -41,7 +41,7 @@ made this step: it is strongly preferred for all current work.
 Users of Plain TeX have two options allowing them to use
 [`graphicx`](https://ctan.org/pkg/graphicx): the [`miniltx`](https://ctan.org/pkg/miniltx) ''LaTeX emulator'' and
 the [`graphicx.tex`](https://ctan.org/pkg/graphics-pln) front-end allow you to load
-[`graphicx`](https://ctan.org/pkg/graphicx), and [Eplain]({% post_url FAQ-eplain %}) allows you to load
+[`graphicx`](https://ctan.org/pkg/graphicx), and [Eplain](FAQ-eplain.md) allows you to load
 it (using the full LaTeX syntax) direct.
 
 The [`graphics`](https://ctan.org/pkg/graphics) package takes a variety of ''driver

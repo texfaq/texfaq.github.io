@@ -9,20 +9,20 @@ redirect_from: FAQ-omegaleph
 # TeX Engine development
 
 While Knuth has declared that TeX will never [change in any substantial
-way]({% post_url FAQ-TeXfuture %}), there remain things that one might wish had been done
+way](FAQ-TeXfuture.md), there remain things that one might wish had been done
 differently, or indeed implemented at all. These have been explored in a number
 of engine developments, some of which have somewhat complex histories.
 
 The first set of major additions to Knuth's TeX were provided by the NTS
-project in [&epsilon;-TeX]({% post_url FAQ-etex %}): these additions are available in all
-current engines. [pdfTeX]({% post_url FAQ-pdftex %}) added a range of new primitives, and
+project in [&epsilon;-TeX](FAQ-etex.md): these additions are available in all
+current engines. [pdfTeX](FAQ-pdftex.md) added a range of new primitives, and
 many these have also been taken up by other engine developers.
 
 ## Active projects
 
 ### pdfTeX
 
-[pdfTeX]({% post_url FAQ-pdftex %}) was developed by H&agrave;n Th&#x1ebf; Th&agrave;nh,
+[pdfTeX](FAQ-pdftex.md) was developed by H&agrave;n Th&#x1ebf; Th&agrave;nh,
 incorporating the ability to create PDF output directly into the TeX engine.
 Although originally developed in parallel, pdfTeX today includes the
 [&epsilon;-TeX](#&epsilon;-tex) extensions as-standard.
@@ -44,7 +44,7 @@ general use.
 
 ### XeTeX
 
-[XeTeX]({% post_url FAQ-xetex %}), originally developed by Jonathan Kew, a Unicode TeX
+[XeTeX](FAQ-xetex.md), originally developed by Jonathan Kew, a Unicode TeX
 engine which is able to load system fonts using the [HarfBuzz]() library, which
 is accomplished by an extended syntax to the `\font` primitive. It builds on
 [&epsilon;-TeX](#&epsilon;-tex) and also adds a range of new primitives useful
@@ -98,8 +98,8 @@ TeX-like system. The system was developed in Java.
 
 ExTeX was designed to accept Unicode input, and to implement all of TeX's
 primitives, but with some marked as obsolete, and ''modern'' alternatives
-provided. Desirable extensions from [&epsilon;-TeX]({% post_url FAQ-etex %}),
-[pdfTeX]({% post_url FAQ-pdftex %}) and [&Omega;](#omega-and-aleph) were identified for
+provided. Desirable extensions from [&epsilon;-TeX](FAQ-etex.md),
+[pdfTeX](FAQ-pdftex.md) and [&Omega;](#omega-and-aleph) were identified for
 incorporation.
 
 ### Omega and Aleph
@@ -118,7 +118,7 @@ developers withdrew (taking with him a bunch of research students).
 Before that distressing event, a separate thread of development had
 started, to produce a program 
 called Aleph, which merged the facilities of
-[&epsilon;-TeX]({% post_url FAQ-etex %}) into a stable Omega codebase and added other
+[&epsilon;-TeX](FAQ-etex.md) into a stable Omega codebase and added other
 extensions.  Aleph also proved an attractive platform for many people;
 but its development, too, has dried up.
 

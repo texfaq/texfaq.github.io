@@ -17,7 +17,7 @@ nesting or very large page numbers: the numbers in question just don't
 fit in the space allowed for them in the class.
 
 A separate answer discusses 
-[re-designing the tables]({% post_url FAQ-tocloft %})
+[re-designing the tables](FAQ-tocloft.md)
 and techniques from that answer may be employed to make the numbers
 fit:
 ```latex

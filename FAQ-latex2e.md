@@ -8,11 +8,11 @@ date: 2014-06-10
 
 Lamport's last version of LaTeX (LaTeX 2.09, last updated in 1992)
 was superseded in 1994 by a new version (LaTeX2e) provided by
-[the LaTeX team]({% post_url FAQ-LaTeX3 %}).
+[the LaTeX team](FAQ-LaTeX3.md).
 LaTeX2e is now the only readily-available version of
 LaTeX, and draws together several threads of LaTeX development
 from the later days of LaTeX 2.09.  The ''e'' of the name is (in the
-[official logo]({% post_url FAQ-logos %}))
+[official logo](FAQ-logos.md))
 a single-stroke epsilon
 (&epsilon;, supposedly
 indicative of no more than a small change).

@@ -27,7 +27,7 @@ a list item to be on a line of its own, and written (for example):
 
 The proper solution to the problem is to write a new sort of
 `description` environment, that does just what you're after.  (The
-[_LaTeX Companion_]({% post_url FAQ-latex-books %})
+[_LaTeX Companion_](FAQ-latex-books.md)
 offers a rather wide selection of variants of these things.)
 
 A straightforward solution, which avoids the warning, is to write:

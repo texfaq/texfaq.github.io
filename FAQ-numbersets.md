@@ -61,7 +61,7 @@ An alternative source of Type&nbsp;1 fonts with blackboard bold characters
 may be found in the steadily increasing set of complete families, both
 commercial and free, that have been prepared for use with (La)TeX
 (see 
-''[choice of outline fonts]({% post_url FAQ-psfchoice %})'').
+''[choice of outline fonts](FAQ-psfchoice.md)'').
 Of the free sets, the `txfonts` and `pxfonts` families
 both come with replicas of `msam` and `msbm`, but
 (as noted elsewhere, there are other reasons not to use these fonts);

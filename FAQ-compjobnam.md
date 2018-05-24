@@ -37,6 +37,6 @@ And it's used as:
 ```
 Note that the command `\StripPrefix` need not be defined if you're
 using LaTeX&nbsp;&mdash; there's already an 
-[internal command]({% post_url FAQ-atsigns %}) `\strip@prefix` that you can
+[internal command](FAQ-atsigns.md) `\strip@prefix` that you can
 use.
 

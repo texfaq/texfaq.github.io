@@ -16,7 +16,7 @@ from upright to italic text (or vice-versa): the LaTeX command
 
 Nevertheless, typographically illiterate people (such as those that
 specify double-spaced
-[thesis styles]({% post_url FAQ-linespace %}))
+[thesis styles](FAQ-linespace.md))
 continue to require underlining of us, so LaTeX as distributed
 defines an `\underline` command that applies the mathematical
 ''underbar'' operation to text.  This technique is not entirely

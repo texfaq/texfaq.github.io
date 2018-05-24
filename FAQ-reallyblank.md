@@ -40,7 +40,7 @@ often used elsewhere):
 ```
 Note: this command works because `\clearemptydoublepage` uses a copy
 of `\cleardoublepage`: instructions on macro programming
-[patching techniques]({% post_url FAQ-patch %}) explain the problem and
+[patching techniques](FAQ-patch.md) explain the problem and
 why this is a solution.
 
 The [`emptypage`](https://ctan.org/pkg/emptypage) package does this sort of thing for you; all

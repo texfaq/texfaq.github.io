@@ -8,7 +8,7 @@ date: 2014-06-10
 # Getting the right paper geometry from (La)TeX
 
 If your output is the wrong size, and you've checked that it's not due
-to the [ministrations of Adobe `Reader`]({% post_url FAQ-acroantics %}),
+to the [ministrations of Adobe `Reader`](FAQ-acroantics.md),
 the problem is probably that your (La)TeX system is producing output
 that specifies the wrong paper size.  Paper sizes can be a pain:
 they're a forgotten backwater&nbsp;&mdash; Knuth seems not to have considered

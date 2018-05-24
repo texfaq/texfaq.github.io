@@ -11,7 +11,7 @@ You've innocently generated output, using `dvips`, and there
 are weird transpositions in it: for example, the `fi` ligature has
 appeared as a &#xa3; symbol.
 This is an unwanted side-effect of the precautions
-outlined in [generating PostScript for PDF]({% post_url FAQ-dvips-pdf %}).
+outlined in [generating PostScript for PDF](FAQ-dvips-pdf.md).
 The `-G1` switch discussed in that question is appropriate for
 Knuth's text fonts, but doesn't work with text fonts that don't follow
 Knuth's patterns (such as fonts supplied by Adobe).

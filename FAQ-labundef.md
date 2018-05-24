@@ -33,7 +33,7 @@ if you are, include the command `\G@refundefinedtrue` in
 &lsaquo;_`undef-cmds`_&rsaquo;.
 
 And of course, remember you're dealing in internal commands, and pay
-attention to the [at-signs]({% post_url FAQ-atsigns %}).
+attention to the [at-signs](FAQ-atsigns.md).
 
 All the above can be avoided by using the [`labelcas`](https://ctan.org/pkg/labelcas) package:
 it provides commands that enable you to switch according to the state

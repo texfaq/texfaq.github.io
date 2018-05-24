@@ -51,7 +51,7 @@ etc.  Again, there are issues with colors, which are addressed by the
 [`pdfcolparcolumns`](https://ctan.org/pkg/pdfcolparcolumns) package.
 
 The [`ledpar`](https://ctan.org/pkg/ledpar) package is distributed with (and integrated with)
-the [[`ledmac`](https://ctan.org/pkg/ledmac) package]({% post_url FAQ-linenos %}).  It provides parallel
+the [[`ledmac`](https://ctan.org/pkg/ledmac) package](FAQ-linenos.md).  It provides parallel
 setting carefully integrated with the needs of a scholarly text,
 permitting translation, or notes, or both, to be set in parallel with
 the ''base'' text of the document.

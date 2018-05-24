@@ -40,7 +40,7 @@ Functions that distinguish core archives are:
   
 
 -  Uploads: users may submit new (or updated) material via the
-    [upload redirector]({% post_url FAQ-uploads %}). Significant changes to the
+    [upload redirector](FAQ-uploads.md). Significant changes to the
     archive are reported via the mailing list <a href="mailto:ctan-ann@dante.de">ctan-ann@dante.de</a>
 -  Weak consistency: changes to the content of the archives are
     rapidly distributed to all core archives.  (Consistency is ''weak''

@@ -31,6 +31,6 @@ real, to set up end-of-sentence space in some circumstances; it uses
 `\spacefactor` to do that.)
 
 The problem is discussed in detail in
-''[`@` in macro names]({% post_url FAQ-atsigns %})'',
+''[`@` in macro names](FAQ-atsigns.md)'',
 together with solutions.
 

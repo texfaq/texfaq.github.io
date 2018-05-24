@@ -44,7 +44,7 @@ you are using; roughly speaking:
     well-advised to use a package such as [`fontspec`](https://ctan.org/pkg/fontspec) to gain
     access to the full range of a font's capabilities.
 
-The answer ''[choice of scalable fonts]({% post_url FAQ-psfchoice %})'' discusses
+The answer ''[choice of scalable fonts](FAQ-psfchoice.md)'' discusses
 fonts that are configured for general (both textual and mathematical)
 use with (La)TeX.  The list of such fonts is sufficiently short that
 they _can_ all be discussed in one answer.
