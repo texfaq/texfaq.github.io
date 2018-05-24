@@ -18,6 +18,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Removed
 - Q-ant: Text used as part of new Q-alternatives, with a redirect in place
+- Q-omegaleph: Incorporated into Q-enginedev
 
 ## 2018-05-23
 

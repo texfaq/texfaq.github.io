@@ -2,6 +2,7 @@
 section: Current TeX-related projects
 permalink: /FAQ-enginedev.html
 date: 2018-05-24
+redirect_from: FAQ-omegaleph
 ---
 
 # TeX Engine development

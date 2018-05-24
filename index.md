@@ -566,7 +566,6 @@
 - [Future WWW technologies and (La)TeX](FAQ-mathml.md)
 - [Making outline fonts from MetaFont](FAQ-textrace.md)
 - [The TeX document preparation environment](FAQ-WYGexpts.md)
-- [Omega and Aleph](FAQ-omegaleph.md)
 - [XeTeX](FAQ-xetex.md)
 - [pdfTeX and LuaTeX](FAQ-luatex.md)
 - [The ExTeX project](FAQ-extex.md)
