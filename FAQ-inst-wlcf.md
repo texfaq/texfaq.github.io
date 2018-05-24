@@ -17,8 +17,8 @@ tree?''.
 We therefore answer the question by considering:
   
 
--  [what tree to use](./FAQ-what-TDS.html), and
--  [where in the tree to put the files](./FAQ-install-where.html).
+-  [what tree to use](FAQ-what-TDS.md), and
+-  [where in the tree to put the files](FAQ-install-where.md).
 
 
 

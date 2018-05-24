@@ -23,7 +23,7 @@ case.
     `pdf`).
 -  For every `eps` file you will be including, produce a
     `pdf` version, as described in 
-    [Graphics in pdfLaTeX](./FAQ-pdftexgraphics.html).  Having
+    [Graphics in pdfLaTeX](FAQ-pdftexgraphics.md).  Having
     done this, you will have two copies of each graphic (a `eps`
     and a `pdf` file) in your directory.
 -  Use pdfLaTeX (rather than

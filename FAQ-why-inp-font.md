@@ -12,7 +12,7 @@ it covers, to the (La)TeX T1 encoding.
 In this circumstance, why should one bother with [`inputenc`](https://ctan.org/pkg/inputenc)
 and [`fontenc`](https://ctan.org/pkg/fontenc)?  Since they're pretty exactly mirroring each
 other, one could do away with both, and use just [`t1enc`](https://ctan.org/pkg/t1enc),
-despite its [shortcomings](./FAQ-t1enc.html).
+despite its [shortcomings](FAQ-t1enc.md).
 
 
 One doesn't do this for a variety of small reasons:

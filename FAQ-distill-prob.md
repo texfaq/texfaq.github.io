@@ -27,13 +27,13 @@ to deal with their fonts.  `Dvips` comes to our aid: the
 switch `-G1` (''remap characters''), which moves the offending
 characters out of the way.  The PDF configuration file
 (`-Ppdf`), recommended 
-in ''[the wrong type of fonts](./FAQ-fuzzy-type3.html)'',
+in ''[the wrong type of fonts](FAQ-fuzzy-type3.md)'',
 includes the switch.
 
 
 The switch is not without its problems; pre-2003 versions of
 `dvips` will apply it to Adobe fonts as well, causing
-[havoc](./FAQ-charshift.html), but fortunately
+[havoc](FAQ-charshift.md), but fortunately
 that problem is usually soluble.  However, a document using both
 CM and Adobe-specified fonts is stuck.  The only real solution
 is either to upgrade `dvips`, or to spend money to upgrade

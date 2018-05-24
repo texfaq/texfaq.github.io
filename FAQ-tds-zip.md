@@ -3,7 +3,7 @@
 
 
 
-The [TDS](./FAQ-tds.html) is a simple structure, and almost all
+The [TDS](FAQ-tds.md) is a simple structure, and almost all
 files can be installed simply by putting them in the ''right'' place,
 and updating a single index.  (Note, this simple idea typically
 doesn't work for fonts, unless they're distributed as MetaFont source.)
@@ -26,7 +26,7 @@ is covered.
 
 
 Use of the files is discussed in 
-''[installing using ready-built ZIP files](./FAQ-inst-tds-zip.html)''.
+''[installing using ready-built ZIP files](FAQ-inst-tds-zip.md)''.
 
 
 

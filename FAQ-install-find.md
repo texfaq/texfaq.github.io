@@ -24,7 +24,7 @@ of the names of files on the archive.
 Packages come in a variety of different styles of distribution; the
 very simplest will actually offer just `package.sty`&nbsp;&mdash; in this
 case, just download the file and 
-[get on with installation](./FAQ-inst-wlcf.html).
+[get on with installation](FAQ-inst-wlcf.md).
 
 
 You will regularly find that the file you want (e.g., `foo.sty`)
@@ -42,7 +42,7 @@ really _need_ the other ones.
 
 
 Having acquired the package distribution, 
-''[unpacking LaTeX packages](./FAQ-install-unpack.html)'' outlines
+''[unpacking LaTeX packages](FAQ-install-unpack.md)'' outlines
 your next step.
 
 

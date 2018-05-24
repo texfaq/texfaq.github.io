@@ -55,7 +55,7 @@ academic) environments assume the user is going to provide a memory
 stick, and will assign it a defined drive letter&nbsp;&mdash; another good
 candidate location.  Note that the semantics of such a tree are
 indistinguishable from those of a 
-[''home'' TEXMF tree](./FAQ-privinst.html).
+[''home'' TEXMF tree](FAQ-privinst.md).
 
 
 You might not wish to use the 'local' tree:
@@ -64,7 +64,7 @@ You might not wish to use the 'local' tree:
 -  if the package, or whatever, is ''personal'' (for example,
     something commercial that has been licensed to you alone, or
     something you're developing yourself), it should go in your
-    [''home'' TEXMF tree](./FAQ-privinst.html);
+    [''home'' TEXMF tree](FAQ-privinst.md);
 -  if you _know_ that the package you are installing is a
     replacement for the copy on the TEXMF tree of your (La)TeX
     distribution; in this case it is reasonable to replace the existing

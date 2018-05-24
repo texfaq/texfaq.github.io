@@ -22,7 +22,7 @@ Plain TeX, there are many books covering these topics:
   Krantz (CRC Press, 1994, ISBN-10 0-849-37159-7)
 - TeX by Topicby Victor Eijkhout (Addison-Wesley, 1992,
   ISBN-10 0-201-56882-9&nbsp;&mdash; now out of print, but see
-  [online books](./FAQ-ol-books.html); you can also now buy a copy
+  [online books](FAQ-ol-books.md); you can also now buy a copy
   printed, on demand, by Lulu&nbsp;&mdash; see
   [http://www.lulu.com/content/2555607])
 - TeX for the Beginnerby Wynter Snow (Addison-Wesley, 1992,
@@ -30,7 +30,7 @@ Plain TeX, there are many books covering these topics:
 - TeX for the Impatientby Paul W.&nbsp;Abrahams, Karl Berry and
   Kathryn A.&nbsp;Hargreaves (Addison-Wesley, 1990,
   ISBN-10 0-201-51375-7&nbsp;&mdash; now out of print, but see
-  [online books](./FAQ-ol-books.html))
+  [online books](FAQ-ol-books.md))
 - TeX in Practiceby Stephan von Bechtolsheim (Springer
   Verlag, 1993, 4 volumes, ISBN-10 3-540-97296-X for the set, or
   Vol.&nbsp;1: ISBN-10 0-387-97595-0, 

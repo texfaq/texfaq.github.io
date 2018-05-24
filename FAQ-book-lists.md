@@ -8,10 +8,10 @@ the following answers aim to cover ''related'' books, with subject
 matter as follows:
   
 
--  [TeX itself and Plain TeX](./FAQ-tex-books.html)
--  [LaTeX](./FAQ-latex-books.html)
--  [Books on other TeX-related matters](./FAQ-other-books.html)
--  [Books on Type](./FAQ-type-books.html)
+-  [TeX itself and Plain TeX](FAQ-tex-books.md)
+-  [LaTeX](FAQ-latex-books.md)
+-  [Books on other TeX-related matters](FAQ-other-books.md)
+-  [Books on Type](FAQ-type-books.md)
 
 
 

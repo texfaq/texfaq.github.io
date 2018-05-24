@@ -14,7 +14,7 @@ obscure macro TeXniques.
 
 This answer deals with repeating an operation a given number of times;
 repeating operations once for each of a set of objects is dealt with
-in the answer [repeating ''over a set''](./FAQ-repeat-set.html).
+in the answer [repeating ''over a set''](FAQ-repeat-set.md).
 
 
 Plain TeX itself provides a `\loop` &hellip; `\repeat`
@@ -107,7 +107,7 @@ which case its graphical capabilities have no effect.
 
 
 The [`pgffor`](https://ctan.org/pkg/pgffor) package, which is part of the 
-[[`pgf`](https://ctan.org/pkg/pgf) distribution](./FAQ-drawing.html), also
+[[`pgf`](https://ctan.org/pkg/pgf) distribution](FAQ-drawing.md), also
 provides iterations to support the needs of graphics.  Its syntax is
 in the style of common programming languages:
 ```latex

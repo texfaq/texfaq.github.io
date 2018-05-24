@@ -21,7 +21,7 @@ assume the text is presented in Unicode.
 For PDF generated from LaTeX (the DVI being
 converted, by whatever means), or from pdfLaTeX, the character
 codes used in the PDF file are in fact those of the document's
-[font encoding](./FAQ-whatenc.html); if you're using OT1 or
+[font encoding](FAQ-whatenc.md); if you're using OT1 or
 T1, your document will be OK for almost all ASCII
 characters, but it's likely that anything ''out of the ordinary'' will
 not be represented properly.  (Of course, PDF generated from

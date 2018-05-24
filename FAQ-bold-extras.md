@@ -15,17 +15,17 @@ There's a set of ''extra'' MetaFont files on CTAN that provide bold
 versions of both `cmtt` and `cmcsc` (the small caps font).  With
 modern TeX distributions, one may bring these fonts into use simply
 by placing them in an 
-[appropriate place in the _texmf_ tree](./FAQ-install-where.html)
+[appropriate place in the _texmf_ tree](FAQ-install-where.md)
 (these are (La)TeX-specific files, so the ''_public_'' supplier
 would be an appropriate place).  Once you've 
-[rebuilt the file indexes as necessary](./FAQ-inst-wlcf.html),
+[rebuilt the file indexes as necessary](FAQ-inst-wlcf.md),
 TeX (and friends) will automatically build whatever font files they
 need when you first make reference to them.  There's a jiffy package
 [`bold-extra`](https://ctan.org/pkg/bold-extra) that builds the necessary font data structures
 so that you can use the fonts within LaTeX.
 
 
-Another alternative is to use the [EC fonts](./FAQ-ECfonts.html),
+Another alternative is to use the [EC fonts](FAQ-ECfonts.md),
 which come with bold variants of the small-caps fonts.
 
 
@@ -33,12 +33,12 @@ If you need to use Type&nbsp;1 fonts, you can't proceed with Knuth-style
 fonts, since there are no Type&nbsp;1 versions of the [`mf-extra`](https://ctan.org/pkg/cm-mf-extra-bold)
 set.  There are, however, Type&nbsp;1 distributions of the EC&nbsp;fonts, so you
 can switch to EC and use them; alternatives are discussed in
-[8-bit Type&nbsp;1 fonts](./FAQ-type1T1.html).
+[8-bit Type&nbsp;1 fonts](FAQ-type1T1.md).
 
 
 Of course, commercial fixed-width fonts (even the default
 `Courier`) almost always come with a bold variant, so that's
-not a problem.  Furthermore [PSNFSS](./FAQ-usepsfont.html)
+not a problem.  Furthermore [PSNFSS](FAQ-usepsfont.md)
 will usually provide ''faked'' small caps fonts, and has no
 compunctions about providing them in a bold form.  `Courier`
 is (as we all know, to our cost) freely available; a far more

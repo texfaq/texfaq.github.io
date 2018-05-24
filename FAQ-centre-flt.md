@@ -18,11 +18,11 @@ and will typeset it at some location it fancies (it does the same with
 location is that it _won't_ be inside that `center`
 environment.  As a result, the `center` environment is
 left with nothing to do&nbsp;&hellip; except to 
-[make a mess of your vertical spacing](./FAQ-vertspacefloat.html).
+[make a mess of your vertical spacing](FAQ-vertspacefloat.md).
 
 
 The solution is the same as that outlined in 
-[the same answer](./FAQ-vertspacefloat.html), noting that all control of
+[the same answer](FAQ-vertspacefloat.md), noting that all control of
 an `figure` or `table` needs to be
 inside the environment.  So the example's code should be converted to
 ```latex

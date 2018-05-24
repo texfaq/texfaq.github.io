@@ -18,11 +18,11 @@ last being easy (unless it is forgotten!).
 
 
 Ready-built ZIP files&nbsp;&mdash; also known as 
-[TDS-ZIP files](./FAQ-tds-zip.html)&nbsp;&mdash; are designed to lighten
+[TDS-ZIP files](FAQ-tds-zip.md)&nbsp;&mdash; are designed to lighten
 the load of performing the first two steps of installation: they
 contain all the files that are to be installed for a given
 package, in their ''correct'' locations in a 
-[TDS tree](./FAQ-tds.html).
+[TDS tree](FAQ-tds.md).
 
 
 To install such a file on a Unix system (we assume that you'll install
@@ -42,10 +42,10 @@ versions of Windows will already have experience of using
 
 Having unpacked the `zip` archive, in most cases the only
 remaining chore is to update the file indexes&nbsp;&mdash; as in 
-[normal installation instructions](./FAQ-inst-wlcf.html).  However, if
+[normal installation instructions](FAQ-inst-wlcf.md).  However, if
 the package provides a font, you also need to enable the font's map,
 which is discussed in 
-''[Installing a Type&nbsp;1 font](./FAQ-instt1font.html)''
+''[Installing a Type&nbsp;1 font](FAQ-instt1font.md)''
 
 
 

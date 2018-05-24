@@ -4,7 +4,7 @@
 
 
 As another question 
-([repeating something a given number of times](./FAQ-repeat-num.html))
+([repeating something a given number of times](FAQ-repeat-num.md))
 explains, TeX is not explicitly designed for 'regular' programming
 operations. As a result, we must resort to arcane tricks to do the
 seemingly simple task of repeating an operation.  This answer deals

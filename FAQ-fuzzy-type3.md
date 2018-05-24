@@ -20,13 +20,13 @@ up in `Reader`s display as blurred blobs which are often not
 even recognisable as the original letter, and are often not properly placed
 on the line.  Nevertheless, even now, most TeX systems have
 `dvips` configured to use
-[`pk` files](./FAQ-pk.html) in its output.  Even
+[`pk` files](FAQ-pk.md) in its output.  Even
 pdfTeX will use `pk` files if it can see no alternative for
 a font in the document it is processing.
 
 
 Our remedy is to use
-''[Adobe Type&nbsp;1](./FAQ-adobetypen.html)''
+''[Adobe Type&nbsp;1](FAQ-adobetypen.md)''
 versions of the fonts we need.  Since Adobe are in the
 business of selling Type&nbsp;1 fonts, `Reader` was of course made
 to deal with them really rather well, from the very beginning.
@@ -44,7 +44,7 @@ exotic as `Sabon` often find themselves using odd characters
 from CM without really intending to do so.  Fortunately, rather
 good versions of the CM fonts are available from the AMS
 (who have them courtesy of 
-[Blue Sky Research](./FAQ-commercial.html) and Y&Y).
+[Blue Sky Research](FAQ-commercial.md) and Y&Y).
 
 
 Most modern systems have the fonts installed ready to use; and any
@@ -79,7 +79,7 @@ You may encounter the same warning messages as listed above.
 If your system does not have the fonts, it won't have the
 configuration file either; however, it might have the configuration
 file without the fonts.  In either case, you need to
-[install the fonts](./FAQ-inst1cm.html).
+[install the fonts](FAQ-inst1cm.md).
 
 
 
