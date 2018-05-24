@@ -58,11 +58,6 @@ route):
     [Advanced LaTeX Posters](http://homepages.inf.ed.ac.uk/robert/posters/advanced.html) 
     (which has links to code samples);
 -  from Brian Wolven, 
-    [LaTeX Poster Macros, Examples, and Accessories](http://fuse.pha.jhu.edu/~wolven/posters.html) 
-    (this page also provides macros and other support suggestions); and
--  from ''_pjh_'' 
-    [Making and printing a poster with LaTeX](http://www.phys.ufl.edu/~pjh/posters/poster_howto_UF.html), 
-    which covers the specific issue of dealing with University of
-    Florida styled poster (offering supporting material as necessary),
-    but has hints which are generally useful.
+    [LaTeX Poster Macros, Examples, and Accessories (Internet Archive)](https://web.archive.org/web/20040204003003/http://fuse.pha.jhu.edu/~wolven/posters.html) 
+    (this page also provides macros and other support suggestions).
 

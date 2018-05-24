@@ -27,7 +27,7 @@ fit'', it strains aged eyes&hellip;)
 
 For command organised references to LaTeX,  Karl Berry (et
 al)'s 
-[LaTeX reference manual](http://home.gna.org/latexrefman) is (to
+[LaTeX reference manual](https://puszcza.gnu.org.ua/software/latexrefman/) is (to
 an extent) work in progress, but is generally reliable (source is
 available on the.archive as well).
 

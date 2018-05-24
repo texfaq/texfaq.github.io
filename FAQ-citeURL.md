@@ -15,7 +15,7 @@ with the long-awaited BibTeX version&nbsp;1.0.
 The actual information that need be available in a citation of an
 URL is discussed at some length in the publicly available
 on-line 
-[extracts of ISO&nbsp;690&ndash;2](http://www.nlc-bnc.ca/iso/tc46sc9/standard/690-2e.htm);
+[extracts of ISO&nbsp;690&ndash;2](http://www.collectionscanada.gc.ca/iso/tc46sc9/docs/sc9n473.pdf);
 the techniques below do _not_ satisfy all the requirements of
 ISO&nbsp;690&ndash;2, but they offer a solution that is at least
 available to users of today's tools.

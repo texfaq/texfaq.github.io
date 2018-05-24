@@ -34,12 +34,5 @@ The `lacheck` program analyses your source and comments on
 it; its view of what is ''bad'' is _very_ subjective (the
 documentation says), but it can be useful.
 
-There's also a web site
-[TeXidate](http://www.kohm.name/markus/texidate.html)
-which will do a static analysis of your document (unfortunately, you
-have to paste your document source into a text window).  The site
-doesn't seem as comprehensive as [`nag`](https://ctan.org/pkg/nag), but it allows you to
-download its script, which you can then juggle with to make it more
-draconian.
-  language that is convenient for you
+
 

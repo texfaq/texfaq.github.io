@@ -18,7 +18,7 @@ labels, etc., in the figures.
 There's no explicit port of `xfig` to windows (although it is
 believed to work under `cygwin` with its X-windows system).
 However, the program 
-[`jfig`](http://tams-www.informatik.uni-hamburg.de/applets/jfig/)
+[`jfig`](https://tams-www.informatik.uni-hamburg.de/applets/hades/classdoc/overview-summary.html)
 is thought by many to be an acceptable substitute, written in Java.
 
 `Asymptote` is a widely-praised development of the MetaPost

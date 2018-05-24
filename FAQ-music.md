@@ -59,14 +59,11 @@ Daniel Taupin took up the baton, and developed MusicTeX, which
 allows the typesetting of polyphonic and other multiple-stave music;
 MusicTeX remains available, but is no longer recommended.
 
-The first version of MusixTeX was developed by Andreas Egler, but
-he withdrew from the project to work on another package, OpusTeX.
-That never reached the mainstream, and is no longer maintained.  The
-current recommended way of doing OpusTeX's job is
-[`gregorio`](http://home.gna.org/gregorio/), which can
-in principle feed into a TeX-based document.
 
 Once Andreas Egler had withdrawn (his last version of
 [`musixtex`](https://ctan.org/pkg/musixtex) is preserved on the archive), Daniel Taupin took up
 the development, leading to the [`musixtex`](https://ctan.org/pkg/musixtex) used today.
 
+
+For Gregorion chant there is [gregoriotex](https://ctan.org/pkg)
+is a software application for engraving Gregorian chant scores. 

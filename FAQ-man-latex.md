@@ -55,11 +55,6 @@ also looks good (it appears shorter&nbsp;&mdash; more of a primer&nbsp;&mdash; t
 of the other offerings).
 
 
-Chris Harrison's 
-[LaTeX tutorial](http://xoph.co/20111024/latex-tutorial/)
-presents basic LaTeX in a rather pleasing and straightforward way.
-
-
 Nicola Talbot's 
 [LaTeX for complete novices](http://www.dickimaw-books.com/latex/novices/)
 does what it claims: the author teaches LaTeX at the University of
