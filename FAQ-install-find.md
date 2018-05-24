@@ -15,7 +15,8 @@ each answer).
 
 If you heard about the file somewhere else, it's possible that the
 source told you where to look; if not, try the CTAN searching
-facilities, such as [http://www.tex.ac.uk/search/](http://www.tex.ac.uk/search/).  That (rather
+facilities, such as [https://ctan.org/search](https://ctan.org/search).
+That (rather
 simple) search engine can return data from a search of the CTAN
 catalogue (which covers most useful packages), or data from a search
 of the names of files on the archive.

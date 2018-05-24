@@ -54,7 +54,7 @@ date: 2014-06-10
 
   `Word2`_TeX_ and _TeX_`2Word` are 
   shareware translators from 
-  [Chikrii Softlab](http://www.chikrii.com/); positive users'
+  [Chikrii Softlab](https://www.chikrii.com/); positive users'
   reports have been noted (but not recently).
 
   If cost is a constraint, the best bet is probably to use an

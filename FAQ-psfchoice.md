@@ -30,7 +30,7 @@ Users should also consider the possibilities of typesetting
 
 ''Free'' font families that will support TeX mathematics include:
 
-- Computer Modern(75 fonts&nbsp;&mdash; optical scaling) Donald E. Knuth
+- Computer Modern (75 fonts&nbsp;&mdash; optical scaling) Donald E. Knuth
 
   The CM fonts were originally designed in MetaFont, but are also
   now available in scalable outline form.  There are commercial as
@@ -42,7 +42,7 @@ Users should also consider the possibilities of typesetting
   such that they have become the _de facto_ standard for Type&nbsp;1
   versions of the fonts.
 
-- AMS fonts(52 fonts, optical scaling) The AMS
+- AMS fonts (52 fonts, optical scaling) The AMS
 
   This set of fonts offers adjuncts to the CM set, including
   two sets of symbol fonts (`msam` and `msbm`) and
@@ -55,7 +55,7 @@ Users should also consider the possibilities of typesetting
   not provide maths alphabets of their own (for instance, Adobe
   Palatino or Minion).
 
-- Mathpazo version 1.003(5 fonts) Diego Puga
+- Mathpazo version 1.003 (5 fonts) Diego Puga
 
   The Pazo Math fonts are a family of type&nbsp;1 fonts suitable for
   typesetting maths in combination with the Palatino family of text
@@ -68,7 +68,7 @@ Users should also consider the possibilities of typesetting
   licensed under the GPL, with legalese permitting the use of
   the fonts in published documents.
 
-- Fourier/Utopia(15 fonts) Michel Bovani
+- Fourier/Utopia (15 fonts) Michel Bovani
 
   `Fourier` is a family built on Adobe `Utopia`
   (which has been released for usage free of charge by Adobe).  The
@@ -80,14 +80,12 @@ Users should also consider the possibilities of typesetting
   text support of OT1 encoding is not provided&nbsp;&mdash; you are
   expected to use T1.
 
-  For a sample, see [http://www.tug.dk/FontCatalogue/utopia/](http://www.tug.dk/FontCatalogue/utopia/)
 
 - Fourier/New Century SchoolbookMichael Zedler
 
   `Fouriernc` is a configuration using the Fourier fonts in
   the ConTeXt of New Century Schoolbook text fonts.
 
-  For a sample, see [http://www.tug.dk/FontCatalogue/newcent/](http://www.tug.dk/FontCatalogue/newcent/)
 
 - KP-fontsThe Johannes Kepler project
 
@@ -99,7 +97,7 @@ Users should also consider the possibilities of typesetting
 
   For an example, see [http://www.tug.dk/FontCatalogue/kpserif/](http://www.tug.dk/FontCatalogue/kpserif/)
 
-- MathDesign(3 free families, 3 commercial-based
+- MathDesign (3 free families, 3 commercial-based
   families&hellip;so far) Paul Pichaureau
 
   This set so far offers mathematics fonts to match the free fonts
@@ -114,11 +112,9 @@ Users should also consider the possibilities of typesetting
   want: there is a wealth of documentation and examples.
 
   For samples of the free variants, see
-  [http://www.tug.dk/FontCatalogue/charter/](http://www.tug.dk/FontCatalogue/charter/) for URW Charter,
-  [http://www.tug.dk/FontCatalogue/garamond/](http://www.tug.dk/FontCatalogue/garamond/) for URW Garamond and
-  [http://www.tug.dk/FontCatalogue/utopia-md/](http://www.tug.dk/FontCatalogue/utopia-md/) for Adobe Utopia.
+  [http://www.tug.dk/FontCatalogue/garamond/](http://www.tug.dk/FontCatalogue/garamond/) for URW Garamond 
 
-- Belleek(3 fonts) Richard Kinch
+- Belleek (3 fonts) Richard Kinch
 
   Belleek is the upshot of Kinch's thoughts on how MetaFont might be used
   in the future: they were published simultaneously as MetaFont source,
@@ -131,14 +127,14 @@ Users should also consider the possibilities of typesetting
   adoption is so limited and what might be done about the problem, is
   to be found at [http://truetex.com/belleek.pdf]
 
-- MTPro2 LitePubish or Perish (Michael Spivak)
+- MTPro2 Lite Pubish or Perish (Michael Spivak)
 
   A (functional) subset of the MathTime Pro 2 font set, that is made
   available, free, for general use.  While it does not offer the full
   power of the commercial product (see below), it is nevertheless a
   desirable font set.
 
-- MathptmxAlan Jeffrey, Walter Schmidt and others.
+- Mathptmx Alan Jeffrey, Walter Schmidt and others.
 
   This set contains maths italic, symbol, extension, and roman virtual
   fonts, built from Adobe Times, Symbol, Zapf Chancery, and the
@@ -148,13 +144,12 @@ Users should also consider the possibilities of typesetting
   PostScript files can be freely exchanged.  Support under LaTeX2e
   is available in [PSNFSS]({% post_url FAQ-usepsfont %}).
 
-  For a sample, see [http://www.tug.dk/FontCatalogue/times/](http://www.tug.dk/FontCatalogue/times/)
 
-- Computer Modern BrightFree scalable outline versions of these
+- Computer Modern Bright Free scalable outline versions of these
   fonts do exist; they are covered below together with their
   commercial parallels.
 
-- URW Classico(4 fonts)  LaTeX support by Bob Tennent
+- URW Classico (4 fonts)  LaTeX support by Bob Tennent
 
   These are clones of Zapf's Optima available from CTAN (for
   non-commercial use only).  Mathematics support can be provided by
@@ -177,7 +172,7 @@ that the catalogue omits.
 Fonts capable of setting TeX mathematics, that are available
 commercially, include:
 
-- BA Math(13 fonts) MicroPress Inc.
+- BA Math (13 fonts) MicroPress Inc.
 
   BA Math is a family of serif fonts, inspired by the elegant
   and graphically perfect font design of John Baskerville.  BA
@@ -192,7 +187,7 @@ commercially, include:
   For further details (including samples) see
 
   [http://www.micropress-inc.com/fonts/bamath/bamain.htm]
-- CH Math(15 fonts) MicroPress Inc.
+- CH Math (15 fonts) MicroPress Inc.
 
   CH Math is a family of slab serif fonts, designed as a maths
   companion for Bitstream Charter.  (The distribution includes
@@ -201,7 +196,7 @@ commercially, include:
   For further details (including samples) see
   [http://www.micropress-inc.com/fonts/chmath/chmain.htm](http://www.micropress-inc.com/fonts/chmath/chmain.htm)
 
-- Computer Modern Bright(62 fonts&nbsp;&mdash; optical scaling) Walter
+- Computer Modern Bright (62 fonts&nbsp;&mdash; optical scaling) Walter
   Schmidt
 
   CM Bright is a family of sans serif fonts, based on Knuth's
@@ -218,7 +213,7 @@ commercially, include:
   For further details of Micropress' offering (including samples) see
   [http://www.micropress-inc.com/fonts/brmath/brmain.htm](http://www.micropress-inc.com/fonts/brmath/brmain.htm)
 
-- Concrete Math(25 fonts&nbsp;&mdash; optical scaling) Ulrik Vieth
+- Concrete Math (25 fonts&nbsp;&mdash; optical scaling) Ulrik Vieth
 
   The Concrete Math font set was derived from the Concrete Roman
   typefaces designed by Knuth.  The set provides a collection of math
@@ -234,7 +229,7 @@ commercially, include:
   For further information (including samples) see
   [http://www.micropress-inc.com/fonts/ccmath/ccmain.htm](http://www.micropress-inc.com/fonts/ccmath/ccmain.htm)
 
-- HV Math(14 fonts) MicroPress Inc.
+- HV Math (14 fonts) MicroPress Inc.
 
   HV Math is a family of sans serif fonts, inspired by the
   Helvetica (TM) typeface.  HV Math comprises the fonts
@@ -249,7 +244,7 @@ commercially, include:
   For further details (and samples) see
   [http://www.micropress-inc.com/fonts/hvmath/hvmain.htm](http://www.micropress-inc.com/fonts/hvmath/hvmain.htm)
 
-- Informal Math(7 outline fonts) MicroPress Inc.
+- Informal Math (7 outline fonts) MicroPress Inc.
 
   Informal Math is a family of fanciful fonts loosely based on the
   Adobe''s Tekton (TM) family, fonts which imitate handwritten
@@ -262,7 +257,7 @@ commercially, include:
   For further details (including samples) see
   [http://www.micropress-inc.com/fonts/ifmath/ifmain.htm](http://www.micropress-inc.com/fonts/ifmath/ifmain.htm)
 
-- Lucida Bright _with_ Lucida New Math(25 fonts) Chuck Bigelow and
+- Lucida Bright _with_ Lucida New Math (25 fonts) Chuck Bigelow and
   Kris Holmes
 
   Lucida is a family of related fonts including seriffed, sans serif,
@@ -282,7 +277,7 @@ commercially, include:
     ''[Lucida and TUG](http://tug.org/lucida/)''
   has details.
 
-- Adobe Lucida, LucidaSans _and_ LucidaMath(12 fonts)
+- Adobe Lucida, LucidaSans _and_ LucidaMath (12 fonts)
 
   Lucida and LucidaMath are generally considered to be a bit heavy.
   The three maths fonts contain only the glyphs in the CM maths
@@ -329,7 +324,7 @@ commercially, include:
   For further details (and samples) see
   [http://www.micropress-inc.com/fonts/pamath/pamain.htm](http://www.micropress-inc.com/fonts/pamath/pamain.htm)
 
-- TM Math(14 fonts) MicroPress Inc.
+- TM Math (14 fonts) MicroPress Inc.
 
   TM Math is a family of serif fonts, inspired by the Times
   (TM) typeface.  TM Math comprises the fonts necessary for
@@ -348,7 +343,7 @@ Two other font sets should be mentioned, even though they don't
 currently produce satisfactory output&nbsp;&mdash; their author is no longer
 working on them, and several problems have been identified:
 
-- Pxfonts set version 1.0(26 fonts) by Young Ryu
+- Pxfonts set version 1.0 (26 fonts) by Young Ryu
 
   The `pxfonts` set consists of
   
@@ -390,7 +385,7 @@ working on them, and several problems have been identified:
   using the associated text fonts, and [`newpxmath`](https://ctan.org/pkg/newpx) for
   mathematics.
 
-- Txfonts set version 3.1(42 fonts) by Young Ryu
+- Txfonts set version 3.1 (42 fonts) by Young Ryu
 
   The `txfonts` set consists of
   

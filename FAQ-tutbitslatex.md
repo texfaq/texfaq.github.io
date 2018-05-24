@@ -79,11 +79,6 @@ author's macros for papers submitted for IEEE publications).
 The issues are also covered in a later 
 [FAQ answer]({% post_url FAQ-dvips-pdf %}).
 
-Documentation of Japanese &Omega; use appears in
-Haruhiko Okumura's page
-[typesetting Japanese with Omega](http://oku.edu.mie-u.ac.jp/~okumura/texfaq/japanese/)
-(the parent page is in Japanese, so out of the scope of this
-FAQ list).
 
 Some university departments make their local documentation available
 on the web.  Most straightforwardly, there's the simple translation of

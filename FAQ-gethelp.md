@@ -20,8 +20,8 @@ looking on your own system: you might already have what you seek&nbsp;&mdash;
 the better TeX distributions provide a wide range of supporting
 material.  The [CTAN Catalogue]({% post_url FAQ-catalogue %}) can also
 identify packages that might help: you can 
-[search it](http://www.tex.ac.uk/search), or you can browse it
-''[by topic](http://mirrors.ctan.org/help/Catalogue/bytopic.html)''.
+[search it](https://ctan.org/search/), or you can browse it
+''[by topic](https://ctan.org/topics/cloud)''.
 Each catalogue entry has a brief description of the package, and links to
 known documentation on the net.  In fact, a large proportion of
 CTAN package directories now include documentation, so it's
