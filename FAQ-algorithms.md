@@ -25,29 +25,29 @@ prove boring.  So it's worth trying the following packages, all
 designed specifically for typesetting pseudocode.
 
 The [`algorithms`](https://ctan.org/pkg/algorithms) bundle (which contains packages
-[`algorithm`](https://ctan.org/pkg/algorithm) and [`algorithmic`](https://ctan.org/pkg/algorithmic), both of which are
+[`algorithm`](https://ctan.org/pkg/algorithms) and [`algorithmic`](https://ctan.org/pkg/algorithms), both of which are
 needed for ordinary use) has a simple interface and produces fairly
 nice output.  It provides primitives for statements, which can contain
 arbitrary LaTeX commands, comments, and a set of iterative and
 conditional constructs.  These primitives can easily be redefined to
 produce different text in the output.  However, there is no support
 for adding new primitives.  Typesetting the pseudocode itself is
-performed in [`algorithmic`](https://ctan.org/pkg/algorithmic); the [`algorithms`](https://ctan.org/pkg/algorithms) package
+performed in [`algorithmic`](https://ctan.org/pkg/algorithms); the [`algorithms`](https://ctan.org/pkg/algorithms) package
 uses the facilities of the [`float`](https://ctan.org/pkg/float) package to number
 algorithms sequentially, enable algorithms to float like figures or
 tables, and support including a List of Algorithms in a document's
 front matter.
 
 Packages in the [`algorithmicx`](https://ctan.org/pkg/algorithmicx) bundle are similar both in
-concept and output form to [`algorithmic`](https://ctan.org/pkg/algorithmic) but additionally
+concept and output form to [`algorithmic`](https://ctan.org/pkg/algorithms) but additionally
 provide support for adding new keywords and altering the formatting.
 It provides the [`algpseudocode`](https://ctan.org/pkg/algpseudocode) package which is (almost) a
-drop-in replacement for [`algorithmic`](https://ctan.org/pkg/algorithmic).  Another package in the
+drop-in replacement for [`algorithmic`](https://ctan.org/pkg/algorithms).  Another package in the
 bundle, [`algpascal`](https://ctan.org/pkg/algpascal), uses Pascal-like keywords, indents
 differently from [`algpseudocode`](https://ctan.org/pkg/algpseudocode), and puts command arguments
 in maths mode instead of text mode.  There is no floating environment
-but [`algorithmicx`](https://ctan.org/pkg/algorithmicx), like [`algorithmic`](https://ctan.org/pkg/algorithmic), is compatible
-with the [`algorithm`](https://ctan.org/pkg/algorithm) package.  (There have been reports of
+but [`algorithmicx`](https://ctan.org/pkg/algorithmicx), like [`algorithmic`](https://ctan.org/pkg/algorithms), is compatible
+with the [`algorithm`](https://ctan.org/pkg/algorithms) package.  (There have been reports of
 difficulty defining new commands to fit with the package;
 unfortunately, the author is not available to comment.)
 

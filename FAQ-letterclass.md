@@ -40,7 +40,7 @@ German.
 
 There are letter classes in each of the excellent
 [`KOMA-script`](https://ctan.org/pkg/KOMA-script) ([`scrlttr2`](https://ctan.org/pkg/scrlttr2): documentation is available in
-English) and [`ntgclass`](https://ctan.org/pkg/ntgclass) ([`brief`](https://ctan.org/pkg/brief): documentation in Dutch
+English) and [`ntgclass`](https://ctan.org/pkg/ntgclass) ([`brief`](https://ctan.org/pkg/ntgclass): documentation in Dutch
 only) bundles.  While these are probably good (since the bundles
 themselves inspire trust) they've not been specifically recommended by
 any users.

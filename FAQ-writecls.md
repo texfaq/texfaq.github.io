@@ -30,11 +30,11 @@ well-constructed [`dtx` file](FAQ-dtx.md).
 
 Writing good classes is not easy; it's a good idea to read some
 established ones (`classes.dtx`, for example, is the documented
-source of the standard classes other than [`Letter`](https://ctan.org/pkg/Letter), and may
+source of the standard classes other than [`letter`](https://ctan.org/pkg/letter), and may
 itself be formatted with LaTeX).  Classes that are not part of the
 distribution are commonly based on ones that are, and start by loading
 the standard class with `\LoadClass`&nbsp;&mdash; an example of this
-technique may be seen in [`ltxguide.cls`](https://ctan.org/pkg/ltxguide.cls)
+technique may be seen in [`ltxguide.cls`](https://ctan.org/pkg/latex-base)
 
 An 
 [annotated version of `article`](http://tug.org/TUGboat/Articles/tb28-1/tb88flynn.pdf),
