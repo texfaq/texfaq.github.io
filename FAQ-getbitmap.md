@@ -35,13 +35,13 @@ If your output is to a PostScript-capable device, or if your output is
 destined to be converted to PDF, you should switch to
 using Type&nbsp;1 versions of the CM fonts.  Two free
 sets are available; the older ([`bakoma`](https://ctan.org/pkg/bakoma)) is
-somewhat less well produced than the [`bluesky`](https://ctan.org/pkg/bluesky) fonts, which were
+somewhat less well produced than the `bluesky` fonts, which were
 originally professionally produced and sold, but were then released
 for general public use by their originators Y&Y and Bluesky Research,
 in association with the AMS and other scientific publishers
 (they are nowadays available under the SIL's Open Fonts Licence).  The
 two sets contain slightly different ranges of fonts, but you are
-advised to use the [`bluesky`](https://ctan.org/pkg/bluesky) set except when [`bakoma`](https://ctan.org/pkg/bakoma)
+advised to use the `bluesky` set except when [`bakoma`](https://ctan.org/pkg/bakoma)
 is for some reason absolutely unavoidable.  In recent years, several
 other ''MetaFont'' fonts have been converted to Type&nbsp;1 format; it's
 uncommon ever to need to generate bitmap fonts for any purpose other

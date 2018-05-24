@@ -7,14 +7,14 @@ date: 2014-06-10
 # Choosing a bibliography style
 
 A large proportion of people are satisfied with one of Patashnik's
-original ''standard'' styles, [`plain`](https://ctan.org/pkg/plain), [`unsrt`](https://ctan.org/pkg/unsrt),
-[`abbrv`](https://ctan.org/pkg/abbrv) and [`alpha`](https://ctan.org/pkg/alpha).  However, no style in that set
+original ''standard'' styles, [`plain`](https://ctan.org/pkg/bibtex), [`unsrt`](https://ctan.org/pkg/bibtex),
+[`abbrv`](https://ctan.org/pkg/bibtex) and [`alpha`](https://ctan.org/pkg/bibtex).  However, no style in that set
 supports the ''author-date'' citation style that is popular in many
 fields; but there are a very large number of contributed styles
 available, that _do_ support the format.
 
 (Note that author-date styles arose because the simple and clear
-citation style that [`plain`](https://ctan.org/pkg/plain) produces is so awkward in a
+citation style that [`plain`](https://ctan.org/pkg/bibtex) produces is so awkward in a
 traditional manuscript preparation scenario.  However, TeX-based
 document production does away with all those difficulties, leaving us
 free once again to use the simple option.)
@@ -36,7 +36,7 @@ styles actually do.  This is best achieved (if the links above don't
 help) by using [`xampl.bib`](https://ctan.org/pkg/bibtex) from the BibTeX documentation
 distribution: one can get a pretty good feel for any style one has to
 hand using this ''standard'' bibliography.  For style
-[`my-style.bst`](https://ctan.org/pkg/my-style.bst), the simple LaTeX document:
+`my-style.bst`, the simple LaTeX document:
 ```latex
 \documentclass{article}
 \begin{document}
@@ -46,7 +46,7 @@ hand using this ''standard'' bibliography.  For style
 \end{document}
 ```
 will produce a representative sample of the citations the style will
-produce.  (Because [`xampl.bib`](https://ctan.org/pkg/xampl.bib) is so extreme in some of its
+produce.  (Because [`xampl.bib`](https://ctan.org/pkg/bibtex) is so extreme in some of its
 ''examples'', the BibTeX run will also give you an interesting
 selection of BibTeX's error messages&hellip;)
 

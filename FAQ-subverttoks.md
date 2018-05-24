@@ -27,7 +27,7 @@ allows an independent package to play the exact same game:
 \let\everypar\mypkg@everypar
 ```
 <!-- {% endraw %} -->
-As you can see, the package ([`mypkg`](https://ctan.org/pkg/mypkg))
+As you can see, the package (`mypkg`)
   
 
 -  creates an alias for the existing ''system'' `\everypar`

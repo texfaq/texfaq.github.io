@@ -43,7 +43,7 @@ concept and output form to [`algorithmic`](https://ctan.org/pkg/algorithms) but 
 provide support for adding new keywords and altering the formatting.
 It provides the [`algpseudocode`](https://ctan.org/pkg/algpseudocode) package which is (almost) a
 drop-in replacement for [`algorithmic`](https://ctan.org/pkg/algorithms).  Another package in the
-bundle, [`algpascal`](https://ctan.org/pkg/algpascal), uses Pascal-like keywords, indents
+bundle, [`algpascal`](https://ctan.org/pkg/algorithms), uses Pascal-like keywords, indents
 differently from [`algpseudocode`](https://ctan.org/pkg/algpseudocode), and puts command arguments
 in maths mode instead of text mode.  There is no floating environment
 but [`algorithmicx`](https://ctan.org/pkg/algorithmicx), like [`algorithmic`](https://ctan.org/pkg/algorithms), is compatible

@@ -25,7 +25,7 @@ The two options in question are:
   formatted form that gets printed; this is not usually appropriate.
 - `pdfpagelabels` Set PDF page labels; i.e.,
   write the value of `\thepage` to the PDF file so that
-  [`Acrobat Reader`](https://ctan.org/pkg/Acrobat Reader) can display the page number as (say) ''ii (4
+  Acrobat Reader can display the page number as (say) ''ii (4
   of 40)'' rather than simply ''4 of 40''.
 
 The two should be used whenever page numbering is not just

@@ -37,6 +37,6 @@ one of the standard classes.  An example,
 Axel Reichert's [`currvita`](https://ctan.org/pkg/currvita) package, has been recommended to the
 FAQ team.  Its output certainly looks good.
 
-There is also a LaTeX 2.09 package [`resume`](https://ctan.org/pkg/resume), which comes with
+There is also a LaTeX 2.09 package [`resume`](https://ctan.org/tex-archive/obsolete/macros/latex209/contrib/resume), which comes with
 little but advice _against_ trying to use it.
 

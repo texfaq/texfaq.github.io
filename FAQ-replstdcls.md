@@ -7,7 +7,7 @@ date: 2014-06-10
 # Replacing the standard classes
 
 People are forever concocting classes that replace the standard ones:
-the present author produced an [`ukart`](https://ctan.org/pkg/ukart) class that used the
+the present author produced an `ukart` class that used the
 [`sober`](https://ctan.org/pkg/sober) package, and a few British-specific things (such as
 appear in the [`babel`](https://ctan.org/pkg/babel) package's British-english
 specialisation) in the 1980s, which is still occasionally used.

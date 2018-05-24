@@ -123,14 +123,14 @@ be no mechanism for using [`pgfkeys`](https://ctan.org/pkg/pgfkeys) keys as part
 options of another package, in the way that [`kvoptions`](https://ctan.org/pkg/kvoptions) does.
 
 The [`l3kernel`](https://ctan.org/pkg/l3kernel) programming layer for [LaTeX3](FAQ-LaTeX3.md)
-includes the [`l3keys`](https://ctan.org/pkg/l3keys) module.  Inspired by [`pgfkeys`](https://ctan.org/pkg/pgfkeys),
+includes the [`l3keys`](https://ctan.org/pkg/l3kernel) module.  Inspired by [`pgfkeys`](https://ctan.org/pkg/pgfkeys),
 it provides a keyval-based method for the programmer to create keys.
-As with keyval and derivatives, [`l3keys`](https://ctan.org/pkg/l3keys) uses separate macros
+As with keyval and derivatives, [`l3keys`](https://ctan.org/pkg/l3kernel) uses separate macros
 for defining and setting keys.  The package [`l3keys2e`](https://ctan.org/pkg/l3keys2e) makes
 it possible for LaTeX 2e class and package
-options to be processed using [`l3keys`](https://ctan.org/pkg/l3keys). [`L3kernel`](https://ctan.org/pkg/L3kernel)
+options to be processed using [`l3keys`](https://ctan.org/pkg/l3kernel). [`L3kernel`](https://ctan.org/pkg/l3kernel)
 code can be used within existing LaTeX2e documents, so
-[`l3keys`](https://ctan.org/pkg/l3keys) is also available to the LaTeX 2e programmer ''direct''.
+[`l3keys`](https://ctan.org/pkg/l3kernel) is also available to the LaTeX 2e programmer ''direct''.
 
 Another key-value system that's part of larger set of macros is
 [`scrbase`](https://ctan.org/pkg/scrbase), which uses the facilities of [`keyval`](https://ctan.org/pkg/keyval) to
