@@ -131,13 +131,13 @@ inaccessible with [`etoolbox`](https://ctan.org/pkg/etoolbox); it uses the regul
 (pattern-matching) package [`l3regex`](https://ctan.org/pkg/l3regex) from the LaTeX3
 distribution to find the code you need to patch.  The package also
 ''knows about'' robust commands and about
-[[`biblatex`](https://ctan.org/pkg/biblatex)](FAQ-biblatex.md).
+[[`biblatex`](https://ctan.org/pkg/biblatex)]({% post_url FAQ-biblatex %}).
 
 Finally, we'll briefly consider a package that is (just about)
 usable, but not really recommendable.  [`Patch`](https://ctan.org/pkg/Patch) gives you an
 ingenious (and difficult to understand) mechanism, and comes as an
 old-style LaTeX documented macro file, which can no longer be
-processed to [produce formatted documentation, etc.](FAQ-install-doc.md).
+processed to [produce formatted documentation, etc.]({% post_url FAQ-install-doc %}).
 Fortunately, the file (`patch.doc`) may be input directly, and
 ''documentation'' may found by reading the source of the package.
 Roughly speaking, one gives the command a set of instructions

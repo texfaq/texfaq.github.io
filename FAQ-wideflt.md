@@ -18,7 +18,7 @@ You can avoid the problem by rescaling the figure or table to fit, but
 this is often not satisfactory, for several reasons.
 
 Otherwise, if the object is wider than the printable area of the page,
-you've no choice other than to [rotate it](FAQ-landscape.md).  If,
+you've no choice other than to [rotate it]({% post_url FAQ-landscape %}).  If,
 however, the object is _just_ wider than the text block, you can
 make it pretend to be the right size by:
 ```latex

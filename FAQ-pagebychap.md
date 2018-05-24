@@ -14,7 +14,7 @@ chapter, the most you have to redistribute is that chapter.)
 
 The problem, at first sight, seems pretty much the same as that in
 another answer on
-[running numbers within a chapter](FAQ-running-nos.md),
+[running numbers within a chapter]({% post_url FAQ-running-nos %}),
 and the basic technique is indeed pretty similar.
 
 However, tidying-up loose ends, making sure the page number gets reset

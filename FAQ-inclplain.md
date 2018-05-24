@@ -7,7 +7,7 @@ date: 2014-06-10
 
 # Including Plain TeX files in LaTeX
 
-LaTeX, though originally [based on Plain TeX](FAQ-LaTeXandPlain.md), does not
+LaTeX, though originally [based on Plain TeX]({% post_url FAQ-LaTeXandPlain %}), does not
 contain all of Plain TeX's commands.  Worse, some Plain TeX
 command names appear in LaTeX, with different semantics.  As a
 result, special measures need to be taken to allow general Plain TeX

@@ -6,7 +6,7 @@ date: 2014-06-10
 
 # DVI drivers for HP LaserJet
 
-The emTeX distribution (see [TeX systems](FAQ-TeXsystems.md))
+The emTeX distribution (see [TeX systems]({% post_url FAQ-TeXsystems %}))
 contains a driver for the LaserJet, `dvihplj`.
 
 Version 2.10 of the Beebe drivers supports the LaserJet. These drivers

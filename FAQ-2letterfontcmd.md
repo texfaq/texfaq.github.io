@@ -55,7 +55,7 @@ course).  A few examples
 {\bfseries\ttfamily and jolly good company!}
 ```
 produces bold typewriter text (but note the lack of a 
-  [bold typewriter font](FAQ-bold-extras.md)
+  [bold typewriter font]({% post_url FAQ-bold-extras %})
 in the default Computer Modern fonts), or
 ```latex
 {\slshape\sffamily Never mind the weather\/}
@@ -90,7 +90,7 @@ couple of immediate oddities, though.  The first is the conflict
 between `\itshape` (or `\slshape`) and `\scshape`: while many
 claim that an italic small-caps font is typographically unsound, such
 fonts do exist.  Daniel Taupin's [`smallcap`](https://ctan.org/pkg/smallcap) package enables
-use of the instances in the [EC fonts](FAQ-ECfonts.md), and
+use of the instances in the [EC fonts]({% post_url FAQ-ECfonts %}), and
 similar techniques could be brought to bear on many other font sets.
 The second is the conflict between `\upshape` and `\itshape`:
 Knuth actually offers an upright-italic font which LaTeX uses for

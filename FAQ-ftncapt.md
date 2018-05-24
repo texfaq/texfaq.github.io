@@ -9,11 +9,11 @@ date: 2014-06-10
 
 Footnotes in captions are especially tricky: they present problems of
 their own, on top of the problems one experiences with
-[footnotes in section titles](FAQ-ftnsect.md) (footnotes migrating to
+[footnotes in section titles]({% post_url FAQ-ftnsect %}) (footnotes migrating to
 to the list of figures or tables, or 
-[apparently random errors](FAQ-extrabrace.md) because
+[apparently random errors]({% post_url FAQ-extrabrace %}) because
 `\footnote` is a fragile command), and with 
-[footnotes in tables](FAQ-footintab.md) (typically, the footnote
+[footnotes in tables]({% post_url FAQ-footintab %}) (typically, the footnote
 simply disappears).  Fortunately, the requirement for footnotes in
 captions is extremely rare: if you are experiencing problems, it is
 worth reviewing what you are trying to say by placing this footnote:
@@ -21,7 +21,7 @@ other options are to place text at the bottom of the float, or to
 place a footnote at the point where you refer to the float.
 
 Note that the [`threeparttable`](https://ctan.org/pkg/threeparttable) scheme (see, again, 
-[footnotes in tables](FAQ-footintab.md)) also applies
+[footnotes in tables]({% post_url FAQ-footintab %})) also applies
 to notes in captions, and may very well be preferable to whatever you
 were thinking of.
 

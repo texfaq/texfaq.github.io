@@ -8,7 +8,7 @@ date: 2014-06-10
 
 A long time ago (in the early 1990s), the Lollipop TeX format was
 developed (originally to typeset the excellent book 
-[TeX by topic](FAQ-tex-books.md)).  Several people admired the
+[TeX by topic]({% post_url FAQ-tex-books %})).  Several people admired the
 format, but no ''critical mass'' of users appeared, that could have
 prompted maintenance of the format.
 

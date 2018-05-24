@@ -49,6 +49,16 @@ the FAQ useful. There are a few things to watch out for
 
 - Please wrap source lines to keep them below 80 characters long
 
+- Internal links (to other questions) should be created using Liquid
+  templating:
+  ```
+  ({% post_url <FAQ-name> %})
+  ```
+  for example
+  ```
+  ({% post_url FAQ-ECfonts %})
+  ```
+
 ## New questions
 
 - File names should be of the form `FAQ-<name>.md`, where the `<name> is made

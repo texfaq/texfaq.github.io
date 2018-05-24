@@ -21,7 +21,7 @@ There are three packages that help solve this problem:
     `\discretionary`, and offers the user the opportunity of
     specifying a personal list of potential break characters.  Its chief
     disadvantage is fragility in LaTeX moving arguments.  The
-    [Eplain macros](FAQ-eplain.md)&nbsp;&mdash; define a similar `\path` command.
+    [Eplain macros]({% post_url FAQ-eplain %})&nbsp;&mdash; define a similar `\path` command.
   
 
     [`Path`](https://ctan.org/pkg/Path), though it works in simple situations, makes no
@@ -33,7 +33,7 @@ There are three packages that help solve this problem:
     gives each potential break character a maths-mode ''personality'', and
     then sets the URL itself (in the user's choice of font) in
     maths mode.  It can produce (LaTeX-style) ''robust'' commands
-    (see [use of `\protect`](FAQ-protect.md)) for use
+    (see [use of `\protect`]({% post_url FAQ-protect %})) for use
     within moving arguments.
   
 

@@ -7,7 +7,7 @@ date: 2014-06-10
 # Installing a Type&nbsp;1 font
 
 Once you have a prepared Type&nbsp;1 font, either direct from CTAN
-or the like, or having [''prepared'' it yourself](FAQ-prept1font.md),
+or the like, or having [''prepared'' it yourself]({% post_url FAQ-prept1font %}),
 you can get on with installation.
 
 The procedure is merely an extension of that for packages, etc., so
@@ -32,7 +32,7 @@ much of what follows will be familiar:
     using this TDS-file saves the bother of deciding where to put
     your files in the TDS tree.
 -  Regenerate the file indexes (as described in
-    [package installation](FAQ-inst-wlcf.md)).
+    [package installation]({% post_url FAQ-inst-wlcf %})).
 -  Update the `dvips`, pdfTeX and other maps:
   
 

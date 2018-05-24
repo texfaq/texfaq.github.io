@@ -24,7 +24,7 @@ of type `InBook` or  `InProceedings`)
 through dissertation styles like  `PhdThesis` to
 otherwise-uncategorisable things such as `Misc`.  The
 unique key is something you choose yourself: it's what you use when
-you want to [cite an entry in the file](FAQ-usebibtex.md).  People
+you want to [cite an entry in the file]({% post_url FAQ-usebibtex %}).  People
 commonly create a key that combines the (primary) author's name and
 the year of publication, possibly with a marker to distinguish
 publications in the same year.  So, for example, the Dyson, Eddington,
@@ -36,7 +36,7 @@ bibliography database.  Fortunately, there are several tools to help
 in this endeavour:
   
 
--  Most of the better [(La)TeX-oriented editors](FAQ-editors.md)
+-  Most of the better [(La)TeX-oriented editors]({% post_url FAQ-editors %})
     have ''BibTeX modes''.
 -  If you have an existing `thebibliography`
     environment, the `Perl` script `tex2bib` will

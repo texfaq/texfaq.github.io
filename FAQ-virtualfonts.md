@@ -35,11 +35,11 @@ The virtual font may contain commands:
 -  to build up a more complicated effect (using DVI commands).
 
 In practice, the most common use of virtual fonts is to remap
-Adobe Type 1 fonts (see [font metrics](FAQ-metrics.md)),
+Adobe Type 1 fonts (see [font metrics]({% post_url FAQ-metrics %})),
 though there has also been useful useful work building ''fake'' maths
 fonts (by bundling glyphs from several fonts into a single virtual
 font).  Virtual Computer Modern fonts, making a 
-[Cork encoded](FAQ-ECfonts.md) font from Knuth's originals by using
+[Cork encoded]({% post_url FAQ-ECfonts %}) font from Knuth's originals by using
 remapping and fragments of DVI for single-glyph ''accented
 characters'', were the first ''Type&nbsp;1 format'' Cork-encoded Computer
 Modern fonts available.
@@ -55,7 +55,7 @@ hand.  Despite the pleasures to be had, the commonest way (nowadays)
 of generating an VPL file is to use the 
 `fontinst` package, which is described in more detail
 together with the discussion of
-[PostScript font metrics](FAQ-metrics.md).
+[PostScript font metrics]({% post_url FAQ-metrics %}).
 [`Qdtexvpl`](https://ctan.org/pkg/Qdtexvpl) is another utility for creating ad-hoc virtual
 fonts (it uses TeX to parse a description of the virtual font, and
 `qdtexvpl` itself processes the resulting DVI file).

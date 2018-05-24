@@ -7,8 +7,8 @@ date: 2014-06-10
 # Getting help online
 
 We assume, here, that you have looked at all relevant
-[FAQ answers](FAQ-whereFAQ.md) you can find, you've looked in
-any [books](FAQ-book-lists.md) you have, and scanned relevant
+[FAQ answers]({% post_url FAQ-whereFAQ %}) you can find, you've looked in
+any [books]({% post_url FAQ-book-lists %}) you have, and scanned relevant
 [tutorials](FAQ-tutorialsstar)&hellip; and still you don't know what
 to do.
 
@@ -18,7 +18,7 @@ the TeX world at large.
 First, (if you are seeking a particular package or program), start by
 looking on your own system: you might already have what you seek&nbsp;&mdash;
 the better TeX distributions provide a wide range of supporting
-material.  The [CTAN Catalogue](FAQ-catalogue.md) can also
+material.  The [CTAN Catalogue]({% post_url FAQ-catalogue %}) can also
 identify packages that might help: you can 
 [search it](http://www.tex.ac.uk/search), or you can browse it
 ''[by topic](http://mirrors.ctan.org/help/Catalogue/bytopic.html)''.
@@ -81,7 +81,7 @@ mechanisms are:
     which any user should at least scan before asking for help there.
     (The hints' principal aim is to maximise the chance that you get useful
     advice from the first answer; for example, it suggests that you supply a
-    [minimal example of your problem](FAQ-askquestion.md), just as
+    [minimal example of your problem]({% post_url FAQ-askquestion %}), just as
     these FAQs do.  There are people on the site who can be abrasive
     to those asking questions, who seem not to be following the
     guidelines for good behaviour)

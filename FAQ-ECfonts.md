@@ -7,7 +7,7 @@ date: 2014-06-10
 # What are the EC fonts?
 
 A font provides a number of _glyphs_. In order that the glyphs
-may be printed, they are [_encoded_](FAQ-whatenc.md), and the
+may be printed, they are [_encoded_]({% post_url FAQ-whatenc %}), and the
 encoding is used as an index into tables within the font.  For various
 reasons, Knuth chose deeply eccentric encodings for his Computer
 Modern family of fonts; in particular, he chose different encodings
@@ -26,7 +26,7 @@ do have, though even Cork encoding's coverage isn't complete.)
 LaTeX refers to the Cork encoding as T1, and provides the
 means to use fonts thus encoded to avoid problems with the interaction
 of accents and hyphenation 
-(see [hyphenation of accented words](FAQ-hyphenaccents.md)).
+(see [hyphenation of accented words]({% post_url FAQ-hyphenaccents %})).
 
 The first MetaFont-fonts to conform to the Cork encoding were the EC
 fonts. They look CM-like, though their metrics differ from CM-font
@@ -37,8 +37,8 @@ size of the corresponding CM font, and there are far more of them than
 there are CM fonts.  The simple number of fonts proved problematic in
 the production of Type&nbsp;1 versions of the fonts, but EC or
 EC-equivalent fonts in Type&nbsp;1 or TrueType form (the latter only from
-  [commercial suppliers](FAQ-commercial.md)).
-Free [auto-traced versions](FAQ-textrace.md)&nbsp;&mdash; the CM-super and
+  [commercial suppliers]({% post_url FAQ-commercial %})).
+Free [auto-traced versions]({% post_url FAQ-textrace %})&nbsp;&mdash; the CM-super and
 the LGC fonts, and the Latin Modern series (rather directly generated
 from Metafont sources), are available.
 
@@ -50,7 +50,7 @@ those distributed with the Latin Modern set), which cover ''basic'' TeX
 mathematics; more advanced mathematics are likely to need separate
 fonts anyway.  Suitable mathematics fonts for use with other font
 families are discussed in 
-''[choice of scalable fonts](FAQ-psfchoice.md)''.
+''[choice of scalable fonts]({% post_url FAQ-psfchoice %})''.
 
 The EC fonts are distributed with a set of ''Text Companion'' (TC) fonts
 that provide glyphs for symbols commonly used in text. The TC fonts
@@ -67,8 +67,8 @@ fonts that have been developed (or otherwise made available) for use
 with (La)TeX. 
 
 Note that T1 (and other eight-bit font encodings) are superseded in
-the developing TeX-family members [XeTeX](FAQ-xetex.md) and
-[LuaTeX](FAQ-luatex.md), which use Unicode as their base encoding,
+the developing TeX-family members [XeTeX]({% post_url FAQ-xetex %}) and
+[LuaTeX]({% post_url FAQ-luatex %}), which use Unicode as their base encoding,
 and use Unicode-encoded fonts (typically in `ttf` or
 `otf` formats).  The [`cm-unicode`](https://ctan.org/pkg/cm-unicode) fonts carry the
 flag in this arena, along with the Latin Modern set.

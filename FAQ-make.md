@@ -59,7 +59,7 @@ it makes no claim to deal with other things (such as multiple
 bibliographies or indexes, or lists of terminology, etc.), which
 AutoLaTeX can be configured to process.
 
-The [[`texinfo`](https://ctan.org/pkg/texinfo) system](FAQ-texinfo.md) comes with a similar
+The [[`texinfo`](https://ctan.org/pkg/texinfo) system]({% post_url FAQ-texinfo %}) comes with a similar
 utility called `texi2dvi`, which is capable of ''converting''
 either LaTeX or [`texinfo`](https://ctan.org/pkg/texinfo) files into DVI (or into
 PDF, using pdfTeX).

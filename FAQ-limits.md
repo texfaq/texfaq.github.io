@@ -52,7 +52,7 @@ operator you're considering, but there are still those who prefer this
 formulation.
 
 Remember, if you're 
-[declaring a special operator of your own](FAQ-newfunction.md), the
+[declaring a special operator of your own]({% post_url FAQ-newfunction %}), the
 AMSLaTeX functions (that you ought to be using) allow you to choose
 how limits are displayed, at definition time.
 

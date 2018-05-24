@@ -8,7 +8,7 @@ date: 2014-06-10
 # Deploying Type 1 fonts
 
 For the LaTeX user trying to use the
-[PSNFSS](FAQ-usepsfont.md) package, three questions may arise.
+[PSNFSS]({% post_url FAQ-usepsfont %}) package, three questions may arise.
 
 First, you have to declare to the DVI driver that you are using
 PostScript fonts; in the case of `dvips`, this means adding
@@ -18,7 +18,7 @@ files.  If the font isn't built into the printer, you have to acquire
 it (which may mean that you need to purchase the font files).
 
 Second, your previewer must know what to do with the fonts: see
-[previewing type 1 fonts](FAQ-PSpreview.md).
+[previewing type 1 fonts]({% post_url FAQ-PSpreview %}).
 
 Third, the stretch and shrink between words is a function of the
 font metric; it is not specified in AFM files, so different converters

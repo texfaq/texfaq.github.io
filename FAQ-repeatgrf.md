@@ -16,7 +16,7 @@ such point.
 Huge PostScript files are embarrassing; explaining _why_ such a file
 is huge, is more embarrassing still.
 
-The [`epslatex` graphics tutorial](FAQ-tutbitslatex.md)
+The [`epslatex` graphics tutorial]({% post_url FAQ-tutbitslatex %})
 describes a technique for avoiding the problem: basically, one
 converts the image that's to be repeated into a PostScript subroutine, and
 load that as a `dvips` prologue file.  In place of the image,

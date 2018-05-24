@@ -7,7 +7,7 @@ date: 2014-06-10
 # Documented LaTeX sources (`dtx` files)
 
 LaTeX2e, and many contributed LaTeX macro packages, are written
-in a [literate programming style](FAQ-lit.md), with source and
+in a [literate programming style]({% post_url FAQ-lit %}), with source and
 documentation in the
 same file.  This format in fact originated before the
 days of the LaTeX project as one of the ''Mainz'' series of
@@ -46,12 +46,12 @@ etc.  All of this m&eacute;lange is sorted out by directives in the
 for ''full'' output.
 
 Anyone may write `dtx` files; the format is explained in
-[The LaTeX Companion](FAQ-latex-books.md), and a tutorial is available
+[The LaTeX Companion]({% post_url FAQ-latex-books %}), and a tutorial is available
 from CTAN (which comes with skeleton `dtx` and
 `ins` files).
 
 Composition of `dtx` files is supported in `emacs` by
-[AUC-TeX](FAQ-editors.md).
+[AUC-TeX]({% post_url FAQ-editors %}).
 
 The (unix-based) script `dtxgen` generates a proforma basic
 `dtx` file, which could be useful when starting a new
@@ -62,7 +62,7 @@ documentation and the code separately, and then to combine them using
 the `makedtx` system.  This technique has particular value in
 that the documentation file can be used separately to generate
 HTML output; it is often quite difficult to make 
-[LaTeX to HTML conversion](FAQ-LaTeX2HTML.md) tools deal
+[LaTeX to HTML conversion]({% post_url FAQ-LaTeX2HTML %}) tools deal
 with `dtx` files, since they use an unusual class file.
 
 The `sty2dtx` system goes one step further: it attempts to
@@ -80,7 +80,7 @@ documentation, so you may want to keep `dtx` files elsewhere.
 An interesting sideline to the story of `dtx` files is the
 [`docmfp`](https://ctan.org/pkg/docmfp) package, which extends the model of the [`doc`](https://ctan.org/pkg/doc)
 package to
-  [MetaFont](FAQ-MF.md) and [MetaPost](FAQ-MP.md),
+  [MetaFont]({% post_url FAQ-MF %}) and [MetaPost]({% post_url FAQ-MP %}),
 thus permitting documented distribution of bundles containing code for
 MetaFont and MetaPost together with related LaTeX code.
 

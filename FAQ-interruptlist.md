@@ -57,7 +57,7 @@ The package allows an optional name (as in
 particular suspension, and hence provide a handle for manipulating
 nested suspensions.
 
-If you're suspending a [fancy-enumeration list](FAQ-enumerate.md),
+If you're suspending a [fancy-enumeration list]({% post_url FAQ-enumerate %}),
 you need to 
 re-supply the optional ''item label layout'' parameters required by
 the [`enumerate`](https://ctan.org/pkg/enumerate) package when resuming the list, whether by the

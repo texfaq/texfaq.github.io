@@ -7,7 +7,7 @@ date: 2014-06-10
 
 # Finding if you're on an odd or an even page
 
-[Another question](FAQ-marginparside.md) discusses the issue
+[Another question]({% post_url FAQ-marginparside %}) discusses the issue
 of getting `\marginpar` commands to put their output in the correct
 margin of two-sided documents.  This is an example of the general
 problem of knowing where a particular bit of text lies: the output

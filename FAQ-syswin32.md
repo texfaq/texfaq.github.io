@@ -46,9 +46,9 @@ A ready-to-run copy of the MiKTeX distribution,
 on DVD may be bought via the 
 [MiKTeX web site](http://www.miktex.org/cd/).  MiKTeX may
 also be installed using ProTeXt, on the 
-[TeX Collection DVD](FAQ-CD.md).
+[TeX Collection DVD]({% post_url FAQ-CD %}).
 
-The [TeX Collection DVD](FAQ-CD.md) also provides an
+The [TeX Collection DVD]({% post_url FAQ-CD %}) also provides an
 offline installer for TeX&nbsp;Live.
 
 A further (free) option is available thanks to the

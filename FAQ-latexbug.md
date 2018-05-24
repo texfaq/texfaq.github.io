@@ -25,7 +25,7 @@ are:
    to find any earlier instance of your bug.  In many cases, the database
    will list a work-around.
 
-3. Prepare a [''minimum'' file](FAQ-minxampl.md) that exhibits the problem.
+3. Prepare a [''minimum'' file]({% post_url FAQ-minxampl %}) that exhibits the problem.
    Ideally, such a file should contain no contributed packages&nbsp;&mdash; the
    LaTeX team as a whole takes no responsibility for such packages (if
    they're supported at all, they're supported by their authors).  The

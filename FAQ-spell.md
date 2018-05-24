@@ -14,7 +14,7 @@ hence fallible) analysis of (La)TeX macros and so on.  The
 alternative, of viewing the text _after_ (La)TeX has processed
 the results, is covered below.
 
-The user of an [shell/editor](FAQ-editors.md) will usually find it
+The user of an [shell/editor]({% post_url FAQ-editors %}) will usually find it
 embeds a spelling checker.  For command-line use, there are several
 choices, depending on the system you're using.
 

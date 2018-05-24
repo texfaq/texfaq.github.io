@@ -28,7 +28,7 @@ dependent on `emacs`.  The distribution includes a
 `Perl` script, `texi2html`, that will convert
 Texinfo sources into HTML: the language is a far better fit to
 HTML than is LaTeX, so that the breast-beating agonies of
-[converting LaTeX to HTML](FAQ-LaTeX2HTML.md) are largely
+[converting LaTeX to HTML]({% post_url FAQ-LaTeX2HTML %}) are largely
 avoided.
 
 Finally, of course, you can also print the files, or convert them to

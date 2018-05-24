@@ -10,7 +10,7 @@ You've looked at your LaTeX source and there's no sign of a misplaced
 ``} on the line in question.
 
 Well, no: this is TeX's cryptic way of hinting that you've put a
-[fragile command](FAQ-protect.md) in a moving argument.
+[fragile command]({% post_url FAQ-protect %}) in a moving argument.
 
 For example, `\footnote` is fragile, and if we put that in the
 moving argument of a `\section` command, as
@@ -65,6 +65,6 @@ been addressed in LaTeX2e by the robust command `\ensuremath`:
 So: always look for alternatives to the `\protect` route.
 
 Footnotes can be even more complex; 
-''[footnotes in LaTeX section headings](FAQ-ftnsect.md)''
+''[footnotes in LaTeX section headings]({% post_url FAQ-ftnsect %})''
 deals specifically with that issue.
 

@@ -25,7 +25,7 @@ The [`stfloats`](https://ctan.org/pkg/stfloats) package also ameliorates the sit
 makes LaTeX honour ''[b]'' placement as well; the
 [`dblfloatfix`](https://ctan.org/pkg/dblfloatfix) package combines a tidied version of the changes
 made in [`stfloats`](https://ctan.org/pkg/stfloats) with the
-  [float ordering corrections](FAQ-2colfltorder.md) defined in
+  [float ordering corrections]({% post_url FAQ-2colfltorder %}) defined in
   [`fixltx2e`](https://ctan.org/pkg/fixltx2e).
 
 A particular problem with [`stfloats`](https://ctan.org/pkg/stfloats) and [`dblfloatfix`](https://ctan.org/pkg/dblfloatfix)

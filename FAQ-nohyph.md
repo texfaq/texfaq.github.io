@@ -8,12 +8,12 @@ date: 2014-06-10
 # My words aren't being hyphenated
 
 Let's assume you've selected the right TeX ''language''&nbsp;&mdash; as
-explained in [''how hyphenation works''](FAQ-hyphen.md),
+explained in [''how hyphenation works'']({% post_url FAQ-hyphen %}),
 you're not likely to get the correct results typesetting one language
 using the hyphenation rules of another.  (Select the proper language,
 using [`babel`](https://ctan.org/pkg/babel) if you're a LaTeX user.  This may reveal that
 you need another set of hyphenation patterns; see
-[''using a new language''](FAQ-newlang.md) for advice on how
+[''using a new language'']({% post_url FAQ-newlang %}) for advice on how
 to install it.)
 
 So what else can go wrong?
@@ -21,7 +21,7 @@ So what else can go wrong?
 
 -  Since TeX version&nbsp;3.0, the limits on how near to either end
     of a word hyphenation may take place have been programmable (see
-    [''weird hyphenation''](FAQ-weirdhyphen.md)), and for some
+    [''weird hyphenation'']({% post_url FAQ-weirdhyphen %})), and for some
     reason the values in question may have been corrupted in some macros
     you are using.  TeX won't hyphenate less than `\lefthyphenmin`
     characters after the start of a word, nor less than
@@ -45,7 +45,7 @@ So what else can go wrong?
     various punctuation characters).
 -  There may be accent commands in the word.  The causes of and
     remedies for this effect are discussed in 
-    [accents and hyphens](FAQ-hyphenaccents.md).
+    [accents and hyphens]({% post_url FAQ-hyphenaccents %}).
 -  The hyphenation may simply not have been spotted; while TeX's
     algorithm is good, it's not infallible, and it does miss perfectly
     good hyphenations in some languages.  When this happens, you need to

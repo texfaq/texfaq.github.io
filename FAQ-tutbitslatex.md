@@ -14,7 +14,7 @@ Documentation'' about half-way down the page.
 
 Herbert Vo&szlig; has written an extensive guide to mathematics in
 LaTeX, and a development of it has been 
-[published as a book](FAQ-latex-books.md).
+[published as a book]({% post_url FAQ-latex-books %}).
 
 Two documents written more than ten years apart about font usage in
 TeX are worth reading: 
@@ -44,7 +44,7 @@ lack of sources.
 
 Stefan Kottwitz manages a web site devoted to the use of the drawing
 packages 
-[PGF and TikZ](FAQ-drawing.md), 
+[PGF and TikZ]({% post_url FAQ-drawing %}), 
 (TeXample.net)[http://www.texample.net/]
 
 Included is 
@@ -77,7 +77,7 @@ PDF, for each of A4 and ''letter'' paper sizes.  The
 complete kit is available on CTAN (distributed with the
 author's macros for papers submitted for IEEE publications).
 The issues are also covered in a later 
-[FAQ answer](FAQ-dvips-pdf.md).
+[FAQ answer]({% post_url FAQ-dvips-pdf %}).
 
 Documentation of Japanese &Omega; use appears in
 Haruhiko Okumura's page

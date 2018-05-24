@@ -22,5 +22,5 @@ This problem is resolved by a LaTeX internal command
 `\protected@xdef` which does the job of `\xdef`.
 
 Of course, these commands need to be tended carefully, since they're
-internal: see [''@'' in control sequence names](FAQ-atsigns.md).
+internal: see [''@'' in control sequence names]({% post_url FAQ-atsigns %}).
 

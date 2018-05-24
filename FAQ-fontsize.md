@@ -52,7 +52,7 @@ available in 8-point design size) are certainly missing.  If
 packages, or the [`anyfontsize`](https://ctan.org/pkg/anyfontsize) package.
 
 A further alternative might be to switch to the
-[`Latin` `Modern` fonts](FAQ-uselmfonts.md) (which
+[`Latin` `Modern` fonts]({% post_url FAQ-uselmfonts %}) (which
 provide a close simulacrum of the `Computer`
 `Modern` set); these fonts were scaleable from their first
 distribution, and don't therefore need any such trick as the above.

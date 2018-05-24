@@ -9,7 +9,7 @@ date: 2014-06-10
 
 If you're thinking of multiple bibliographies tied to some part of
 your document (such as the chapters within the document), please see
-[bibliographies per chapter](FAQ-chapbib.md).
+[bibliographies per chapter]({% post_url FAQ-chapbib %}).
 
 For more than one bibliography, there are three options.
 
@@ -20,7 +20,7 @@ of them, you give it the tag for the bibliography where you want the
 citations to appear.  The `\bibliography` command itself also takes
 a further extra argument that says what title to use for the resulting
 section or chapter (i.e., it patches
-[`\refname` and `\bibname`](FAQ-fixnam.md) in a
+[`\refname` and `\bibname`]({% post_url FAQ-fixnam %}) in a
 [`babel`](https://ctan.org/pkg/babel)-safe way).  So one might write:
 ```latex
 \usepackage{multibbl}

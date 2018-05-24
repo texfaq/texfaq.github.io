@@ -47,7 +47,7 @@ The TeX output stream is in a somewhat different situation:
 characters in it are to be used to select glyphs from the fonts to be
 used.  Thus the encoding of the output stream is notionally a font
 encoding (though the font in question may be a
-[virtual font](FAQ-virtualfonts.md)).  In principle, a
+[virtual font]({% post_url FAQ-virtualfonts %})).  In principle, a
 fair bit of what appears in the output stream could be direct
 transcription of what arrived in the input, but the output stream
 also contains the product of commands in the input, and translations
@@ -55,12 +55,12 @@ of the input such as ligatures like
 `fi`.
 
 Font encodings became a hot topic when the
-[Cork encoding](FAQ-ECfonts.md)
+[Cork encoding]({% post_url FAQ-ECfonts %})
 appeared, because of the possibility of suppressing
 `\accent` commands in the output stream (and hence improving the
 quality of the hyphenation of text in inflected languages, which is
 interrupted by the `\accent` commands&nbsp;&mdash; see
-[''how does hyphenation work''](FAQ-hyphen.md)).
+[''how does hyphenation work'']({% post_url FAQ-hyphen %})).
 To take advantage of the diacriticised characters represented in the
 fonts, it is necessary to arrange that whenever the
 command sequence ``\`e`` has been input

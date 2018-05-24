@@ -46,7 +46,7 @@ are independent&nbsp;&mdash; either can have their own arguments, unconstrained
 by the technique we're using, unlike the trick described above.)
 The `ifstar` trick is all very well, is fast and efficient, but
 it requires that the definition be 
-[`\makeatletter` protected](FAQ-atsigns.md).
+[`\makeatletter` protected]({% post_url FAQ-atsigns %}).
 
 A pleasing alternative is the [`suffix`](https://ctan.org/pkg/suffix) package.  This elegant
 piece of code allows you to define variants of your commands:
@@ -54,7 +54,7 @@ piece of code allows you to define variants of your commands:
 \newcommand\mycommand{normal version}
 \WithSuffix\newcommand\mycommand*{starred version}
 ```
-The package needs [e-LaTeX](FAQ-etex.md), but any new enough
+The package needs [e-LaTeX]({% post_url FAQ-etex %}), but any new enough
 distribution defines LaTeX as e-LaTeX by default.  Command
 arguments may be specified in the normal way, in both command
 definitions (after the `*` in the `\WithSuffix`
@@ -88,7 +88,7 @@ normal TeX-style mandatory argument, and appears as `#2`.
 
 While [`xparse`](https://ctan.org/pkg/xparse) provides pleasing command argument
 specifications, it _is_ part of the 
-[LaTeX&nbsp;3 experimental harness](FAQ-LaTeX3.md).
+[LaTeX&nbsp;3 experimental harness]({% post_url FAQ-LaTeX3 %}).
 Simply loading the package to provide `\DeclareDocumentCommand`
 ''pulls in'' all of the LaTeX3 kernel (a large bunch of packages)
 via the [`expl3`](https://ctan.org/pkg/expl3) package.

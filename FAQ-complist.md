@@ -7,7 +7,7 @@ date: 2014-06-10
 
 # How to adjust list spacing
 
-[Lamport's book](FAQ-latex-books.md) lists various
+[Lamport's book]({% post_url FAQ-latex-books %}) lists various
 parameters for the layout of list (things like `\topsep`,
 `\itemsep` and `\parsep`), but fails to mention that they're set
 automatically within the standard (LaTeX-defined) lists.  This
@@ -55,7 +55,7 @@ compaction:
     great space-saver if the list item texts are short.
 
 The package will manipulate its `enumerate` environment
-labels just like the [[`enumerate`](https://ctan.org/pkg/enumerate) package](FAQ-enumerate.md)
+labels just like the [[`enumerate`](https://ctan.org/pkg/enumerate) package]({% post_url FAQ-enumerate %})
 does.
 
 [`Paralist`](https://ctan.org/pkg/Paralist) also provides `itemize` equivalents
@@ -99,7 +99,7 @@ to suppress all spacing above and below your list, or
 to set spacing between items and between paragraphs within items.
 [`Enumitem`](https://ctan.org/pkg/Enumitem) also permits manipulation of the label format in a
 more ''basic'' (and therefore more flexible) manner than the 
-[[`enumerate`](https://ctan.org/pkg/enumerate) package](FAQ-enumerate.md) does.
+[[`enumerate`](https://ctan.org/pkg/enumerate) package]({% post_url FAQ-enumerate %}) does.
 
 The ultimate in compaction (of every sort) is offered by the
 [`savetrees`](https://ctan.org/pkg/savetrees) package; compaction of lists is included.  The

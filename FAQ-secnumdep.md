@@ -46,7 +46,7 @@ the _name_ of the sectional unit (`chapter`,
 `section`, etc.).
 
 The package [`abstract`](https://ctan.org/pkg/abstract) (see 
-[one-column abstracts](FAQ-onecolabs.md)) includes an option
+[one-column abstracts]({% post_url FAQ-onecolabs %})) includes an option
 to add the `abstract` to the table of contents, while the
 package [`tocbibind`](https://ctan.org/pkg/tocbibind) has options to include the table of
 contents itself, the `bibliography`, `index`, etc., to

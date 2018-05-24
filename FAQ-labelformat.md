@@ -14,7 +14,7 @@ asked to typeset the counter in your text.  This isn't always what you
 need: for example, if you have nested enumerated lists with the outer
 numbered and the inner labelled with letters, one might expect to want
 to refer to items in the inner list as ''2(c)''.   (Remember, you can
-[change the structure of list items](FAQ-enumerate.md).)
+[change the structure of list items]({% post_url FAQ-enumerate %}).)
 The change is of course
 possible by explicit labelling of the parent and using that label to
 construct the typeset result&nbsp;&mdash; something like
@@ -64,5 +64,5 @@ the patch to LaTeX itself).  With the package, the code above is
 In fact, the above example, which we can do in several different ways,
 has been rendered obsolete by the appearance of the [`enumitem`](https://ctan.org/pkg/enumitem)
 package, which is discussed in the answer about 
-[decorating enumeration lists](FAQ-enumerate.md).
+[decorating enumeration lists]({% post_url FAQ-enumerate %}).
 

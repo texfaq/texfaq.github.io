@@ -20,14 +20,14 @@ floating accents and special characters such as the ''pounds sterling''
 sign. There are three ways of dealing with this: either you change the
 TeX macros which reference the characters (not much fun, and
 error-prone); or you change the encoding of the font (easier than you
-might think); or you use [virtual fonts](FAQ-virtualfonts.md) to
+might think); or you use [virtual fonts]({% post_url FAQ-virtualfonts %}) to
 _pretend_ to TeX that the encoding is the same as it is used to.
 LaTeX2e has facilities for dealing with fonts in different
-encodings; read the [_LaTeX Companion_](FAQ-latex-books.md) for
+encodings; read the [_LaTeX Companion_]({% post_url FAQ-latex-books %}) for
 more details.  In practice, if you do much non-English (but Latin
 script) typesetting, you are strongly recommended to use the
 [`fontenc`](https://ctan.org/pkg/fontenc) package with option `T1` to select
-[''Cork''](FAQ-ECfonts.md) encoding.
+[''Cork'']({% post_url FAQ-ECfonts %}) encoding.
 
 An alternative favoured by some is Y&Y's ''private'' LY1 encoding,
 which is designed to sit well with ''Adobe standard'' encoded fonts.
@@ -40,7 +40,7 @@ TFM converter written in TeX; it is used to generate the
 files used by LaTeX2e's PSNFSS package to support use of
 PostScript fonts. It is a sophisticated package, not for the faint-hearted,
 but is powerful enough to cope with most needs.  Much of its power
-relies on the use of [virtual fonts](FAQ-virtualfonts.md).
+relies on the use of [virtual fonts]({% post_url FAQ-virtualfonts %}).
 
 For slightly simpler problems, Rokicki's `afm2tfm`,
 distributed with `dvips`, is fast and
@@ -50,6 +50,6 @@ efficient; note that the metrics and styles that come with
 For the Macintosh (classic), there is a program called
 `EdMetrics` which does the job (and more).
 `EdMetrics` comes with the (commercial)
-[Textures](FAQ-commercial.md) distribution, but is itself free
+[Textures]({% post_url FAQ-commercial %}) distribution, but is itself free
 software, and is available on CTAN.
 

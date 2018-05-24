@@ -30,7 +30,7 @@ First, if you have an URL which is active (so that clicking on
 it will activate your web browser to ''go to'' the URL).  In
 this case [`hyperref`](https://ctan.org/pkg/hyperref) employs the [`url`](https://ctan.org/pkg/url) package to
 split up the URL (as described in 
-[typesetting URLs](FAQ-setURL.md)), but the
+[typesetting URLs]({% post_url FAQ-setURL %})), but the
 `dvips` driver then suppresses the breaks.  The way out is
 the [`breakurl`](https://ctan.org/pkg/breakurl) package, which modifies the `\url` command
 to produce several smaller pieces, between each of which a line break
