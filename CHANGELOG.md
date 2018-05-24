@@ -19,6 +19,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 - Q-luatex: Detail moved to Q-enginedev, user text rewritten
 - Q-pdftex: Detail moved to Q-enginedev
 - Q-whatpdftex: Renamed to Q-pdftex
+- Q-WYGexpts: Revised to be less Emacs-specific
 - Q-xetex: Detail moved to Q-enginedev, user text rewritten
 
 ### Removed

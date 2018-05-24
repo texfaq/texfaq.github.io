@@ -1,7 +1,7 @@
 ---
 section: Current TeX-related projects
 permalink: /FAQ-WYGexpts.html
-date: 2014-06-10
+date: 2018-05-24
 ---
 
 # The TeX document preparation environment
@@ -13,11 +13,14 @@ processors.
 
 Nowadays, at last, there is a range of tools available that try either
 to bridge or to close the gap.  One range modestly focuses on
-providing the user with a legible source document.  At the other
-extreme we have [`TeXmacs`](http://www.texmacs.org),
+providing the user with a legible source document. The low end of the
+prettifying range is occupied by syntax highlighting: marking TeX
+tokens, comments and other stuff with special colors.
+Many free editors can cater for TeX in this way. At the other
+extreme we have [TeXmacs](http://www.texmacs.org),
 a&nbsp;document processor using
 TeX's algorithms and fonts for both editor display and printing.
-`TeXmacs` does not use the TeX
+TeXmacs does not use the TeX
 language itself (though among other formats, LaTeX may be exported
 and imported).  A bit closer to LaTeX is
 [LyX](http://www.lyx.org/), which has its own
@@ -28,68 +31,18 @@ LaTeX code.  If you use constructs that LyX does not
 understand, it will just display them as source text marked red, but
 will properly export them.
 
-Since a lot of work is needed to create an editor from scratch that
-actually is good at editing (as well as catering for TeX), it is
-perhaps no accident that several approaches have been implemented
-using the extensible `emacs` editor.  The low end of the
-prettifying range is occupied by syntax highlighting: marking TeX
-tokens, comments and other stuff with special colors.
-Many free editors (including `emacs`) can cater for TeX in
-this way.  Under Windows, one of the more popular editors with such
-support is the
-Shareware product [`winedt`](http://www.winedt.com/).
-Continuing the range of
-tools prettifying your input, we have the `emacs` package
-[`x-symbol`](http://x-symbol.sourceforge.net), which does
-the WYSIWYG part of its work by replacing single TeX tokens and
-accented letter sequences with appropriate-looking characters on the
-screen.
+Since a lot of work is needed to create an editor from scratch that actually is
+good at editing (as well as catering for TeX), it is perhaps no accident that
+several approaches have been implemented using the extensible Emacs editor.
+There are though a very large number of (La)TeX-specific editors: see
+<https://tex.stackexchange.com/q/339/> for a (non-comprehensive) list.
 
-A different type of tool focuses on making update and access to
-previews of the typeset document more immediate.  A recent addition
-in several viewers, editors and TeX executables are so-called
-''source specials'' for cross-navigation.  When TeX compiles a
-document, it will upon request insert special markers for every input
-line into the typeset output.  The markers are interpreted by the DVI
-previewer which can be made to let its display track the page
-corresponding to the editor input position, or to let the editor jump
-to a source line corresponding to a click in the preview window.
-
-An `emacs` package that combines this sort of editor movement
-tracking with automatic fast recompilations (through the use of dumped
-formats) is
-[`WhizzyTeX`](http://pauillac.inria.fr/whizzytex/)
- which is best used with a previewer by the
-same author.
-
-Another `emacs` package called
-[[`preview-latex`](https://ctan.org/pkg/preview-latex)](http://preview-latex.sourceforge.net)
-tries to solve
-the problem of visual correlation between source and previews in a
-more direct way: it uses a LaTeX package to chop the document source
-into interesting fragments (like figures, text or display math) which
-it runs through LaTeX and replaces the source text of those
-fragments with the corresponding rendered output images.  Since it
-does not know about the structure of the images, at the actual cursor
-position the source text is displayed while editing rather than the
-preview.  This approach is more or less a hybrid of the source
-prettifying and fast preview approaches since it works in the source
-buffer but uses actual previews rendered by LaTeX.
-
-A more ambitious contender is called TeXlite.  This
-system is only available on request from its author;
-it continuously updates its screen with the help of a special version
-of TeX dumping its state in a compressed format at each page and
-using hooks into TeX's line breaking mechanism for reformatting
-paragraphs on the fly.  That way, it can render the output from the
-edited TeX code with interactive speed on-screen, and it offers the
-possibility of editing directly in the preview window.
-
-That many of these systems occupy slightly different niches can be
-seen by comparing the range of the
-`emacs`-based solutions ranging from syntax highlighting to instant
-previewing: all of them can be activated at the same time without
-actually interfering in their respective tasks.
+A different type of tool focuses on making update and access to previews of the
+typeset document more immediate. This is typically handled using a system
+called SyncTeX, which allows the relationship between lines in input and
+position in PDF output to be tracked. Thus it is possible to switch directly
+from a (potentially long) source to the resulting output, or _vice versa_. A
+very large number of the editors mentioned above support this technology.
 
 The different approaches offer various choices differing in the
 immediacy of their response, the screen area they work on (source or
