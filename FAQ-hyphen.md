@@ -1,9 +1,8 @@
 ---
+title:  How does hyphenation work in TeX?
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
-
-# How does hyphenation work in TeX?
 
 Everyone knows what hyphenation is: we see it in most books we read,
 and (if we're alert) will spot occasional ridiculous mis-hyphenation

@@ -1,9 +1,8 @@
 ---
+title:  Missing `\begin`{document}
 section: The joy of TeX errors
 date: 2014-06-10
 ---
-
-# Missing `\begin`{document}
 
 The _preamble_ of your document is the stuff before
 `\begin{document}`; you put `\usepackage` commands and

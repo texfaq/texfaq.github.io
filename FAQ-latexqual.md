@@ -1,10 +1,9 @@
 ---
+title:  The quality of your LaTeX
 section: Macro programming
 subsection: LaTeX macro programming
 date: 2014-06-10
 ---
-
-# The quality of your LaTeX
 
 The [`l2tabu`](https://ctan.org/pkg/l2tabu) tutorial (mentioned in 
 [online introductions](FAQ-man-latex.md)) is undoubtedly a

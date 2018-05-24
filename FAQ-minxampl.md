@@ -1,9 +1,8 @@
 ---
+title:  How to make a ''minimum example''
 section: Documentation and Help
 date: 2014-06-10
 ---
-
-# How to make a ''minimum example''
 
 [Our advice on asking questions](FAQ-askquestion.md)
 suggests that you prepare a ''minimum example'' (also commonly known

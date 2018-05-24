@@ -1,10 +1,9 @@
 ---
+title:  Appendixes
 section: Adjusting the typesetting
 subsection: Document structure
 date: 2014-06-10
 ---
-
-# Appendixes
 
 LaTeX provides an exceedingly simple mechanism for appendixes: the
 command `\appendix` switches the document from generating sections

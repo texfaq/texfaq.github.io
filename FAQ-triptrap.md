@@ -1,9 +1,8 @@
 ---
+title:  How can I be sure it's really TeX?
 section: The Background
 date: 2014-06-10
 ---
-
-# How can I be sure it's really TeX?
 
 TeX (and MetaFont and MetaPost) are written in a
   [''literate'' programming](FAQ-lit.md) language called `Web`

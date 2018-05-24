@@ -1,10 +1,9 @@
 ---
+title:  How to break the 9-argument limit
 section: Macro programming
 subsection: ''Generic'' macros and techniques
 date: 2014-06-10
 ---
-
-# How to break the 9-argument limit
 
 If you think about it, you will realise that Knuth's command
 definition syntax:

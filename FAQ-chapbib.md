@@ -1,10 +1,9 @@
 ---
+title:  Separate bibliographies per chapter?
 section: Bibliographies and citations
 subsection: Creating citations
 date: 2014-06-10
 ---
-
-# Separate bibliographies per chapter?
 
 A separate bibliography for each ''chapter'' of a document can be provided
 with the package [`chapterbib`](https://ctan.org/pkg/chapterbib) (which comes with a bunch of

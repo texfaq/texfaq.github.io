@@ -1,10 +1,9 @@
 ---
+title:  Printing the time
 section: Adjusting the typesetting
 subsection: Typesetting specialities
 date: 2014-06-10
 ---
-
-# Printing the time
 
 TeX has a primitive register that contains ''the number of minutes
 since midnight''; with this knowledge it's a moderately simple

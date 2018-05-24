@@ -1,9 +1,8 @@
 ---
+title:  What is &epsilon;-TeX?
 section: The Background
 date: 2014-06-10
 ---
-
-# What is &epsilon;-TeX?
 
 While Knuth has declared that TeX will never 
 [change in any substantial way](FAQ-TeXfuture.md), there remain

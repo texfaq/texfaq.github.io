@@ -1,10 +1,9 @@
 ---
+title:  Using labels as counter values
 section: Macro programming
 subsection: LaTeX macro tools and techniques
 date: 2014-06-10
 ---
-
-# Using labels as counter values
 
 Labels are tempting sources of ''numbers''&nbsp;&mdash; their most common use,
 after all, is simply to typeset a number.  However, their seeming

@@ -1,10 +1,9 @@
 ---
+title:  Extra vertical space in floats
 section: Why does it _do_ that?
 subsection: Common errors
 date: 2014-06-10
 ---
-
-# Extra vertical space in floats
 
 A common complaint is that extra vertical space has crept into
 `figure` or `table` floating environments.

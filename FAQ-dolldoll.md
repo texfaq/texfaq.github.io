@@ -1,10 +1,9 @@
 ---
+title:  Why use `\[` &hellip;`\]` in place of `$$` &hellip; `$$`?
 section: Common misunderstandings
 subsection: Why shouldn't I?
 date: 2014-06-10
 ---
-
-# Why use `\[` &hellip;`\]` in place of `$$` &hellip; `$$`?
 
 LaTeX defines inline- and display-maths commands, apparently
 duplicating the TeX primitive maths sequences which surround maths

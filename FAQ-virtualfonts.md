@@ -1,9 +1,8 @@
 ---
+title:  What are virtual fonts?
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
-
-# What are virtual fonts?
 
 Virtual fonts provide a means of collecting bits and pieces together
 to make the glyphs of a font: the bits and pieces may be glyphs from

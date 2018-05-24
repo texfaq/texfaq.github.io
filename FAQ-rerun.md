@@ -1,9 +1,8 @@
 ---
+title:  ''Rerun'' messages won't go away
 section: Common misunderstandings
 date: 2014-06-10
 ---
-
-# ''Rerun'' messages won't go away
 
 The LaTeX message ''Rerun to get crossreferences right'' is
 supposed to warn the user that the job needs to be processed again,

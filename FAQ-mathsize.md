@@ -1,10 +1,9 @@
 ---
+title:  Adjusting maths font sizes
 section: How do I do&hellip;?
 subsection: Mathematics
 date: 2014-06-10
 ---
-
-# Adjusting maths font sizes
 
 In Plain TeX, when you introduce a new font size you must also
 declare what size fonts are to be used in mathematics with it.  This

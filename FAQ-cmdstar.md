@@ -1,10 +1,9 @@
 ---
+title:  Commands defined with * options
 section: Macro programming
 subsection: LaTeX macro tools and techniques
 date: 2014-06-10
 ---
-
-# Commands defined with * options
 
 LaTeX commands commonly have ''versions'' defined with an asterisk
 tagged onto their name: for example `\newcommand` and
@@ -83,9 +82,7 @@ set of choices in the command specification.  So, to create a
 The ''star indicator'' (`s`) argument appears as `#1`
 and will take values `\BooleanTrue` (if there was a star) or
 `\BooleanFalse` (otherwise); the other (`m`) argument  is a
-normal TeX-style mandatory argument, and appears as `#2`.
-
-While [`xparse`](https://ctan.org/pkg/xparse) provides pleasing command argument
+normal TeX-style mandatory argument, and appears as `While [`xparse`](https://ctan.org/pkg/xparse) provides pleasing command argument
 specifications, it _is_ part of the 
 [LaTeX&nbsp;3 experimental harness](FAQ-LaTeX3.md).
 Simply loading the package to provide `\DeclareDocumentCommand`

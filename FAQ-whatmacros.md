@@ -1,9 +1,8 @@
 ---
+title:  What are (TeX) macros
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
-
-# What are (TeX) macros
 
 TeX is a _macro processor_: this is a computer-science-y term
 meaning ''text expander'' (more or less); TeX typesets text as it

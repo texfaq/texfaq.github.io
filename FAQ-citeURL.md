@@ -1,10 +1,9 @@
 ---
+title:  URLs in BibTeX bibliographies
 section: Bibliographies and citations
 subsection: Creating bibliographies
 date: 2014-06-10
 ---
-
-# URLs in BibTeX bibliographies
 
 There is no citation type for URLs, _per se_, in the
 standard BibTeX styles, though Oren Patashnik (the author of

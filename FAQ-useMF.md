@@ -1,10 +1,9 @@
 ---
+title:  Getting MetaFont to do what you want
 section: Fonts
 subsection: MetaFont fonts
 date: 2014-06-10
 ---
-
-# Getting MetaFont to do what you want
 
 MetaFont allows you to create your own fonts, and most TeX users
 will never need to use it&nbsp;&mdash; modern (La)TeX systems contain

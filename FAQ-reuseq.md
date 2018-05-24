@@ -1,10 +1,9 @@
 ---
+title:  Re-using an equation
 section: How do I do&hellip;?
 subsection: Mathematics
 date: 2014-06-10
 ---
-
-# Re-using an equation
 
 To repeat an existing equation, one wants not only to have the same
 mathematics in it, one also wants to re-use the original label it had.

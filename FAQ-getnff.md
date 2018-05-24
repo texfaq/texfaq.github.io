@@ -1,10 +1,9 @@
 ---
+title:  Getting ''free'' fonts not in your distribution
 section: Fonts
 subsection: Particular font families
 date: 2014-06-10
 ---
-
-# Getting ''free'' fonts not in your distribution
 
 Some fonts are free to use, but may not be sold.  This creates a
 dilemma for distributions: users may want the fonts, but since the

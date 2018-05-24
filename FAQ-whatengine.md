@@ -1,10 +1,9 @@
 ---
+title:  Am I using pdfTeX, XeTeX or LuaTeX?
 section: Macro programming
 subsection: ''Generic'' macros and techniques
 date: 2014-06-10
 ---
-
-# Am I using pdfTeX, XeTeX or LuaTeX?
 
 You often need to know what ''engine'' your macros are running on (the
 engine is the TeX-derivative or TeX-alike processor that

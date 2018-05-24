@@ -1,10 +1,9 @@
 ---
+title:  Missing symbol commands
 section: Things are Going Wrong&hellip;
 subsection: Things have ''gone away''
 date: 2014-06-10
 ---
-
-# Missing symbol commands
 
 You're processing an old document, and some symbol commands such as
 `\Box` and `\lhd` appear no longer to exist.  These commands were

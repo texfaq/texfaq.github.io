@@ -1,10 +1,9 @@
 ---
+title:  Theorem bodies printed in a roman font
 section: How do I do&hellip;?
 subsection: Mathematics
 date: 2014-06-10
 ---
-
-# Theorem bodies printed in a roman font
 
 If you want to take advantage of the powerful `\newtheorem` command
 without the constraint that the contents of the theorem is in a sloped

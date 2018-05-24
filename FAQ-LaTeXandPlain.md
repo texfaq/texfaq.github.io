@@ -1,9 +1,8 @@
 ---
+title:  How does LaTeX relate to Plain TeX?
 section: The Background
 date: 2014-06-10
 ---
-
-# How does LaTeX relate to Plain TeX?
 
 TeX provides a programming language (of sorts), and any document
 more complex than the trivial ''hello world'' will need some

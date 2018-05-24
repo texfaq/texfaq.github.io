@@ -1,9 +1,8 @@
 ---
+title:  Getting started
 section: The Background
 date: 2014-06-10
 ---
-
-# Getting started
 
 (La)TeX offers a very large number of choices, and the beginner has
 to navigate through that set before even taking his first steps.  The

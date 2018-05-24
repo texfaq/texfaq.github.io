@@ -1,9 +1,8 @@
 ---
+title:  Future WWW technologies and (La)TeX
 section: Current TeX-related projects
 date: 2014-06-10
 ---
-
-# Future WWW technologies and (La)TeX
 
 An earlier answer 
 ([''converting to HTML''](FAQ-LaTeX2HTML.md))

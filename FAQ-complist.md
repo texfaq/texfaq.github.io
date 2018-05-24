@@ -1,10 +1,9 @@
 ---
+title:  How to adjust list spacing
 section: How do I do&hellip;?
 subsection: Lists
 date: 2014-06-10
 ---
-
-# How to adjust list spacing
 
 [Lamport's book](FAQ-latex-books.md) lists various
 parameters for the layout of list (things like `\topsep`,

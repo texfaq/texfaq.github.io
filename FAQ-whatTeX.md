@@ -1,9 +1,8 @@
 ---
+title:  What is TeX?
 section: The Background
 date: 2014-06-10
 ---
-
-# What is TeX?
 
 TeX is a typesetting system written by
 [Donald E. Knuth](http://sunburn.stanford.edu/~knuth/), who

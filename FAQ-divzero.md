@@ -1,9 +1,8 @@
 ---
+title:  Graphics division by zero
 section: The joy of TeX errors
 date: 2014-06-10
 ---
-
-# Graphics division by zero
 
 While the error
 ```latex

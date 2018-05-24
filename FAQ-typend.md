@@ -1,9 +1,8 @@
 ---
+title:  ''Please type a command or say `\end`
 section: The joy of TeX errors
 date: 2014-06-10
 ---
-
-# ''Please type a command or say `\end`
 
 Sometimes, when you are running (La)TeX, it will abruptly stop and
 present you with a prompt (by default, just a `*` character).  Many

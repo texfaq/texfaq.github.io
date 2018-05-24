@@ -1,9 +1,8 @@
 ---
+title:  How to ask a question
 section: Documentation and Help
 date: 2014-06-10
 ---
-
-# How to ask a question
 
 You want help from the community at large; you've decided where you're
 going to [ask your question](FAQ-gethelp.md), but how do you

@@ -1,10 +1,9 @@
 ---
+title:  Why can't I load PicTeX?
 section: Things are Going Wrong&hellip;
 subsection: Getting things to fit
 date: 2014-06-10
 ---
-
-# Why can't I load PicTeX?
 
 PicTeX is a resource hog; fortunately, most modern TeX
 implementations offer generous amounts of space, and most modern

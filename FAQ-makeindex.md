@@ -1,10 +1,9 @@
 ---
+title:  Generating an index in (La)TeX
 section: Adjusting the typesetting
 subsection: Typesetting specialities
 date: 2014-06-10
 ---
-
-# Generating an index in (La)TeX
 
 Making an index is not trivial; what to index, and how to index it, is
 difficult to decide, and uniform implementation is difficult to

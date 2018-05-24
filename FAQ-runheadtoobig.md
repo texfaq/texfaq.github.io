@@ -1,10 +1,9 @@
 ---
+title:  My section title is too wide for the page header
 section: Adjusting the typesetting
 subsection: Document structure
 date: 2014-06-10
 ---
-
-# My section title is too wide for the page header
 
 By default, LaTeX sectioning commands make the chapter or section
 title available for use by page headers and the like.  Page headers

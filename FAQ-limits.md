@@ -1,10 +1,9 @@
 ---
+title:  Sub- and superscript positioning for operators
 section: How do I do&hellip;?
 subsection: Mathematics
 date: 2014-06-10
 ---
-
-# Sub- and superscript positioning for operators
 
 The commonest hand-written style for expressions is to place the limit
 expressions on operators such as `\sum` and `\int` physically

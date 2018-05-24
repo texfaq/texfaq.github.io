@@ -1,10 +1,9 @@
 ---
+title:  Variable-width columns in tables
 section: How do I do&hellip;?
 subsection: Tables, figures and diagrams
 date: 2014-06-10
 ---
-
-# Variable-width columns in tables
 
 This is a slightly different take on the problem addressed in
 ''[fixed-width tables](FAQ-fixwidtab.md)''&nbsp;&mdash; here we have

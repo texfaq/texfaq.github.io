@@ -1,10 +1,9 @@
 ---
+title:  How to change a whole row of a table
 section: How do I do&hellip;?
 subsection: Tables, figures and diagrams
 date: 2014-06-10
 ---
-
-# How to change a whole row of a table
 
 Each cell of a table is set in a box, so that a change of font style
 (or whatever) only lasts to the end of the cell.  If one has a

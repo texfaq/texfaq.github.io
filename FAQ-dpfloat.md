@@ -1,10 +1,9 @@
 ---
+title:  Facing floats on 2-page spread
 section: How do I do&hellip;?
 subsection: Floating tables, figures, etc.
 date: 2014-06-10
 ---
-
-# Facing floats on 2-page spread
 
 If a pair of floats need to be forced to form a 2-page spread (in a
 book, or whatever), the first must lie on the left side of the spread,

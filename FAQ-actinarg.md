@@ -1,10 +1,9 @@
 ---
+title:  Active characters in command arguments
 section: Macro programming
 subsection: ''Generic'' macros and techniques
 date: 2014-06-10
 ---
-
-# Active characters in command arguments
 
 Occasionally, it's nice to make one or two characters active in the
 argument of a command, to make it easier for authors to code the

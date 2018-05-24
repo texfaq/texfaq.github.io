@@ -1,9 +1,8 @@
 ---
+title:  Using ''old-style'' figures
 section: Symbols, etc.
 date: 2014-06-10
 ---
-
-# Using ''old-style'' figures
 
 These numbers are also called medieval or lowercase figures and their
 use is mostly font-specific.  Terminology is confusing since the

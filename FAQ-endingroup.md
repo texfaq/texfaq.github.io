@@ -1,9 +1,8 @@
 ---
+title:  `\end` occurred inside a group
 section: The joy of TeX errors
 date: 2014-06-10
 ---
-
-# `\end` occurred inside a group
 
 The actual error we observe is:
 ```latex

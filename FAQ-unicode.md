@@ -1,9 +1,8 @@
 ---
+title:  Unicode and TeX
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
-
-# Unicode and TeX
 
 Unicode is a character code scheme that has the capacity to express
 the text of the languages of the world, as well as important symbols

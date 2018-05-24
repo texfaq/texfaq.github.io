@@ -1,10 +1,9 @@
 ---
+title:  Unnumbered sections in the Table of Contents
 section: Adjusting the typesetting
 subsection: Tables of contents and indexes
 date: 2014-06-10
 ---
-
-# Unnumbered sections in the Table of Contents
 
 The way the relevant parts of sectioning commands work is exemplified
 by the way the `\chapter` command uses the counter `secnumdepth`

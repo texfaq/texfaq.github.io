@@ -1,10 +1,9 @@
 ---
+title:  Listing all your BibTeX entries
 section: Bibliographies and citations
 subsection: Manipulating whole bibliographies
 date: 2014-06-10
 ---
-
-# Listing all your BibTeX entries
 
 LaTeX and BibTeX co-operate to offer special treatment of this
 requirement.  The command `\nocite{*}` is specially treated,

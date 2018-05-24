@@ -1,9 +1,8 @@
 ---
+title:  Macintosh systems
 section: TeX Systems
 date: 2014-06-10
 ---
-
-# Macintosh systems
 
 The [TeX collection](FAQ-CD.md) DVD includes MacTeX,
 which is a Mac-tailored version of TeX&nbsp;Live; details may be found on

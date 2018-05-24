@@ -1,10 +1,9 @@
 ---
+title:  What's the reason for ''protection''?
 section: Macro programming
 subsection: LaTeX macro tools and techniques
 date: 2014-06-10
 ---
-
-# What's the reason for ''protection''?
 
 Sometimes LaTeX saves data it will reread later. These data are
 often the argument of some command; they are the so-called moving

@@ -1,9 +1,8 @@
 ---
+title:  What is ''Encapsulated PostScript'' (''EPS'')?
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
-
-# What is ''Encapsulated PostScript'' (''EPS'')?
 
 PostScript has been for many years a _lingua franca_ of powerful
 printers (though modern high-quality printers now tend to require some

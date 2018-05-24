@@ -1,9 +1,8 @@
 ---
+title:  ''Too deeply nested''
 section: The joy of TeX errors
 date: 2014-06-10
 ---
-
-# ''Too deeply nested''
 
 This error appears when you start a LaTeX list.
 

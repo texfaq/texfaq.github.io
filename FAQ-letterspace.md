@@ -1,10 +1,9 @@
 ---
+title:  Changing the space between letters
 section: Adjusting the typesetting
 subsection: Spacing of characters and lines
 date: 2014-06-10
 ---
-
-# Changing the space between letters
 
 A common technique in advertising copy (and other text whose actual
 content need not actually be _read_) is to alter the space

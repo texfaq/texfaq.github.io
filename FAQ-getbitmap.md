@@ -1,10 +1,9 @@
 ---
+title:  Acquiring bitmap fonts
 section: Fonts
 subsection: MetaFont fonts
 date: 2014-06-10
 ---
-
-# Acquiring bitmap fonts
 
 When CTAN was young, most people would start using TeX
 with a 300 dots-per-inch (dpi) laser printer, and sets of Computer

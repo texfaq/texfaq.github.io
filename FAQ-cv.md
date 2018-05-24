@@ -1,10 +1,9 @@
 ---
+title:  _Curriculum Vitae_ (R&eacute;sum&eacute;)
 section: Adjusting the typesetting
 subsection: Alternative document classes
 date: 2014-06-10
 ---
-
-# _Curriculum Vitae_ (R&eacute;sum&eacute;)
 
 Andrej Brodnik's class, [`vita`](https://ctan.org/pkg/vita), offers a framework for producing
 a _curriculum vitae_.  The class may be customised both for

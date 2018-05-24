@@ -1,9 +1,8 @@
 ---
+title:  Top-aligning imported graphics
 section: Graphics
 date: 2014-06-10
 ---
-
-# Top-aligning imported graphics
 
 When TeX sets a line of anything, it ensures that the base-line of
 each object in the line is at the same level as the base-line of the

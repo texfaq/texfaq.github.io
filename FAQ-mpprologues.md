@@ -1,9 +1,8 @@
 ---
+title:  Displaying MetaPost output in `ghostscript`
 section: Graphics
 date: 2014-06-10
 ---
-
-# Displaying MetaPost output in `ghostscript`
 
 MetaPost ordinarily expects its output to be included in some context
 where the ''standard'' MetaFont fonts (that you've specified) are already

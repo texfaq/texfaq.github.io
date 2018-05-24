@@ -1,9 +1,8 @@
 ---
+title:  (Modern) Windows systems
 section: TeX Systems
 date: 2014-06-10
 ---
-
-# (Modern) Windows systems
 
 Windows users nowadays have a real choice, between two excellent
 distributions, MiKTeX and TeX&nbsp;Live.  TeX&nbsp;Live on windows has

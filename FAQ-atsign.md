@@ -1,9 +1,8 @@
 ---
+title:  How to type an ''@'' sign?
 section: Symbols, etc.
 date: 2014-06-10
 ---
-
-# How to type an ''@'' sign?
 
 Long ago, some packages used to use the ''@'' sign as a special
 character, so that special measures were needed to type it.  While

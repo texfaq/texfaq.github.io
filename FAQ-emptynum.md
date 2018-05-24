@@ -1,10 +1,9 @@
 ---
+title:  I asked for ''empty'', but the page is numbered
 section: Why does it _do_ that?
 subsection: Common errors
 date: 2014-06-10
 ---
-
-# I asked for ''empty'', but the page is numbered
 
 If you use `\pagestyle{empty}` and you find some pages are
 numbered anyway, you are probably encountering one of the style

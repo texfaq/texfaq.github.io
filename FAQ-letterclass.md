@@ -1,10 +1,9 @@
 ---
+title:  Letters and the like
 section: Adjusting the typesetting
 subsection: Alternative document classes
 date: 2014-06-10
 ---
-
-# Letters and the like
 
 LaTeX itself provides a [`letter`](https://ctan.org/pkg/letter) document class, which is
 widely disliked; the present author long since gave up trying with

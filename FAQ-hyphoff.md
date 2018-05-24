@@ -1,10 +1,9 @@
 ---
+title:  Stopping all hyphenation
 section: How do I do&hellip;?
 subsection: Hyphenation
 date: 2014-06-10
 ---
-
-# Stopping all hyphenation
 
 It may seem an odd thing to want to do (after all, one of TeX's
 great advertised virtues is the quality of its hyphenation) but it's

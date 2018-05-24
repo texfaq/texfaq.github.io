@@ -1,4 +1,5 @@
 ---
+title:  Perhaps a missing `\item`?
 section: The joy of TeX errors
 date: 2014-06-10
 ---

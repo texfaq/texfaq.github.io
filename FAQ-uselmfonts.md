@@ -1,10 +1,9 @@
 ---
+title:  Using the Latin Modern fonts
 section: Fonts
 subsection: Particular font families
 date: 2014-06-10
 ---
-
-# Using the Latin Modern fonts
 
 The [`lm`](https://ctan.org/pkg/lm) fonts are an exciting addition to
 the armoury of the (La)TeX user: high quality outlines of fonts that

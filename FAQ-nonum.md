@@ -1,9 +1,8 @@
 ---
+title:  ''Missing number, treated as zero''
 section: The joy of TeX errors
 date: 2014-06-10
 ---
-
-# ''Missing number, treated as zero''
 
 In general, this means you've tried to assign something to a count,
 dimension or skip register that isn't (in TeX's view of things) a

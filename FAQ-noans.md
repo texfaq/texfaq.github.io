@@ -1,9 +1,8 @@
 ---
+title:  You don't understand the answer
 section: You're still stuck?
 date: 2018-05-22
 ---
-
-# You don't understand the answer
 
 While the FAQ maintainers don't offer a ''help'' service, they're
 very keen that you understand the answers they've already written.

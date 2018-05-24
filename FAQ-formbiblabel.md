@@ -1,10 +1,9 @@
 ---
+title:  Format of numbers in the bibliography
 section: Bibliographies and citations
 subsection: Creating citations
 date: 2014-06-10
 ---
-
-# Format of numbers in the bibliography
 
 By default, LaTeX makes entries in the bibliography look like:
   [1] Doe, Joe et al.  Some journal.  2004.

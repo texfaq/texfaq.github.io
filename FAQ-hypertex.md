@@ -1,9 +1,8 @@
 ---
+title:  The _hyperTeX_ project
 section: Hypertext and PDF
 date: 2014-06-10
 ---
-
-# The _hyperTeX_ project
 
 The _hyperTeX_ project extended the functionality of all the
 LaTeX cross-referencing commands (including the table of contents)

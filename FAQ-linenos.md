@@ -1,10 +1,9 @@
 ---
+title:  Including line numbers in typeset output
 section: Adjusting the typesetting
 subsection: Typesetting specialities
 date: 2014-06-10
 ---
-
-# Including line numbers in typeset output
 
 For general numbering of lines, there are two packages for use with
 LaTeX, [`lineno`](https://ctan.org/pkg/lineno) (which permits labels attached to

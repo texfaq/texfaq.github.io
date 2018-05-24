@@ -1,10 +1,9 @@
 ---
+title:  Adjusting the presentation of section numbers
 section: Macro programming
 subsection: LaTeX macro programming
 date: 2014-06-10
 ---
-
-# Adjusting the presentation of section numbers
 
 The general issues of adjusting the appearance of section headings are
 pretty complex, and are covered in 

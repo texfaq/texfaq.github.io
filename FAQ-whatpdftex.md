@@ -1,9 +1,8 @@
 ---
+title:  What is pdfTeX?
 section: The Background
 date: 2014-06-10
 ---
-
-# What is pdfTeX?
 
 One can reasonably say that pdfTeX is (today) the main stream of
 TeX distributions: most LaTeX and many ConTeXt users nowadays use

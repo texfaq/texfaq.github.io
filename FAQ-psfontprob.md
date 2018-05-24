@@ -1,10 +1,9 @@
 ---
+title:  Deploying Type 1 fonts
 section: Fonts
 subsection: Adobe Type&nbsp;1 (''PostScript'') fonts
 date: 2014-06-10
 ---
-
-# Deploying Type 1 fonts
 
 For the LaTeX user trying to use the
 [PSNFSS](FAQ-usepsfont.md) package, three questions may arise.

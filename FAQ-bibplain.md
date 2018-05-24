@@ -1,10 +1,9 @@
 ---
+title:  Using BibTeX with Plain TeX
 section: Bibliographies and citations
 subsection: Creating bibliographies
 date: 2014-06-10
 ---
-
-# Using BibTeX with Plain TeX
 
 The file `btxmac.tex` (which is part of the Eplain system)
 contains macros and documentation for using BibTeX with

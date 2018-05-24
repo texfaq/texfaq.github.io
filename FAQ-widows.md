@@ -1,10 +1,9 @@
 ---
+title:  Controlling widows and orphans
 section: Things are Going Wrong&hellip;
 subsection: Making things stay where you want them
 date: 2014-06-10
 ---
-
-# Controlling widows and orphans
 
 Widows (the last line of a paragraph at the start of a page) and
 orphans (the first line of paragraph at the end of a page) interrupt

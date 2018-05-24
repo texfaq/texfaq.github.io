@@ -1,9 +1,8 @@
 ---
+title:  Why is the inside margin so narrow?
 section: Common misunderstandings
 date: 2014-06-10
 ---
-
-# Why is the inside margin so narrow?
 
 If you give the standard classes the `twoside` option, the
 class sets the margins narrow on the left of odd-numbered pages, and

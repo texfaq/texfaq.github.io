@@ -1,15 +1,12 @@
 ---
+title:  Defining macros within macros
 section: Macro programming
 subsection: ''Generic'' macros and techniques
 date: 2014-06-10
 ---
 
-# Defining macros within macros
-
 The way to think of this is that `##` gets replaced by `#` in just the
-same way that `#1` gets replaced by ''whatever is the first argument''.
-
-So if you define a macro:
+same way that `So if you define a macro:
 ```latex
 \newcommand\a[1]{+#1+#1+#1+}
 ```
@@ -48,9 +45,6 @@ or, using the TeX primitive definition:
 and `\a{b}` will expand to 
   +b+<code class="verb">&#x5c;def&#x5c;x #1{xxx#1&#x7d;</code>
 because `#1` gets replaced by ''b''
-and `##` gets replaced by `#`.
-
-To nest a definition inside a definition inside a definition then you
+and `To nest a definition inside a definition inside a definition then you
 need `####1`, doubling the number of `#` signs; and at the next level
-you need 8&nbsp;`#`s each time, and so on.
-
+you need 8&nbsp;`

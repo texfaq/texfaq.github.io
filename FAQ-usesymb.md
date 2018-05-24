@@ -1,9 +1,8 @@
 ---
+title:  Using symbols
 section: Symbols, etc.
 date: 2014-06-10
 ---
-
-# Using symbols
 
 Most symbol font sets come with a package that defines commands for
 every symbol in the font.  While this is convenient, it can lead to

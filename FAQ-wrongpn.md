@@ -1,10 +1,9 @@
 ---
+title:  Page number is wrong at start of page
 section: Why does it _do_ that?
 subsection: Common errors
 date: 2014-06-10
 ---
-
-# Page number is wrong at start of page
 
 This is a long story, whose sources are deep inside the workings of
 TeX itself; it all derives from the TeX's striving to generate

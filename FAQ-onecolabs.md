@@ -1,10 +1,9 @@
 ---
+title:  1-column abstract in 2-column document
 section: Adjusting the typesetting
 subsection: Document structure
 date: 2014-06-10
 ---
-
-# 1-column abstract in 2-column document
 
 One often requires that the abstract of a paper should appear across
 the entire page, even in a two-column paper.  The required trick is:

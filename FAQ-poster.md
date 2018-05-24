@@ -1,10 +1,9 @@
 ---
+title:  Creating posters with LaTeX
 section: Adjusting the typesetting
 subsection: Alternative document classes
 date: 2014-06-10
 ---
-
-# Creating posters with LaTeX
 
 There is no complete ''canned solution'' to creating a poster (as, for
 example, classes like [`seminar`](https://ctan.org/pkg/seminar), [`powerdot`](https://ctan.org/pkg/powerdot) and

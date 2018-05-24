@@ -1,9 +1,8 @@
 ---
+title:  Commands gobble following space
 section: Common misunderstandings
 date: 2014-06-10
 ---
-
-# Commands gobble following space
 
 People are forever surprised that simple commands gobble the space
 after them: this is just the way it is.  The effect arises from the

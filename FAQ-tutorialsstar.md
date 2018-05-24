@@ -1,9 +1,8 @@
 ---
+title:  Tutorials, etc., for TeX-based systems
 section: Documentation and Help
 date: 2014-06-10
 ---
-
-# Tutorials, etc., for TeX-based systems
 
 From a situation where every (La)TeX user _had_ to buy a book
 if she was not to find herself groping blindly along, we now have what

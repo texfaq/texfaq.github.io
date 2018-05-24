@@ -1,9 +1,8 @@
 ---
+title:  Float(s) lost
 section: The joy of TeX errors
 date: 2014-06-10
 ---
-
-# Float(s) lost
 
 The error
 ```latex

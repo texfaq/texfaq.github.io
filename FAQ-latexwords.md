@@ -1,10 +1,9 @@
 ---
+title:  Changing the words [`babel`](https://ctan.org/pkg/babel) uses
 section: Macro programming
 subsection: LaTeX macro programming
 date: 2014-06-10
 ---
-
-# Changing the words [`babel`](https://ctan.org/pkg/babel) uses
 
 LaTeX uses symbolic names for many of the automatically-generated
 text it produces (special-purpose section headings, captions, etc.).

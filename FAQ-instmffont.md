@@ -1,9 +1,8 @@
 ---
+title:  Installing a font provided as MetaFont source
 section: Installing (La)TeX files
 date: 2014-06-10
 ---
-
-# Installing a font provided as MetaFont source
 
 Installing Metafont fonts is (by comparison with other sorts of font) rather
 pleasingly simple.  Nowadays, they are mostly distributed just as the

@@ -1,10 +1,9 @@
 ---
+title:  Preventing hyphenation of a particular word
 section: How do I do&hellip;?
 subsection: Hyphenation
 date: 2014-06-10
 ---
-
-# Preventing hyphenation of a particular word
 
 It's quite possible for (_any_) hyphenation of a particular word
 to seem ''completely wrong'', so that you want to prevent it being

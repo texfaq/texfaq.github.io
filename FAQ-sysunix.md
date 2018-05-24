@@ -1,9 +1,8 @@
 ---
+title:  Unix and GNU Linux systems
 section: TeX Systems
 date: 2014-06-10
 ---
-
-# Unix and GNU Linux systems
 
   Note that Mac OS/X, though it is also a Unix-based system, has
   different options; users should refer to the information in

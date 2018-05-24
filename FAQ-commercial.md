@@ -1,9 +1,8 @@
 ---
+title:  Commercial TeX implementations
 section: TeX Systems
 date: 2014-06-10
 ---
-
-# Commercial TeX implementations
 
 There are many commercial implementations of TeX. The first
 appeared not long after TeX itself appeared.

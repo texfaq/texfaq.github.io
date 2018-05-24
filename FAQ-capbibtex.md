@@ -1,10 +1,9 @@
 ---
+title:  Capitalisation in BibTeX
 section: Bibliographies and citations
 subsection: Creating bibliographies
 date: 2014-06-10
 ---
-
-# Capitalisation in BibTeX
 
 The standard BibTeX bibliography styles impose fixed ideas about
 the capitalisation of titles of things in the bibliography.  While

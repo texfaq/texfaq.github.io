@@ -1,10 +1,9 @@
 ---
+title:  Fixed-width tables
 section: How do I do&hellip;?
 subsection: Tables, figures and diagrams
 date: 2014-06-10
 ---
-
-# Fixed-width tables
 
 There are two basic techniques for making fixed-width tables in
 LaTeX: you can make the gaps between the columns stretch, or you

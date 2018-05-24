@@ -1,10 +1,9 @@
 ---
+title:  What's wrong with `\newfont`?
 section: Common misunderstandings
 subsection: Why shouldn't I?
 date: 2014-06-10
 ---
-
-# What's wrong with `\newfont`?
 
 If all else fails, you _can_ specify a font using the LaTeX
 `\newfont` command.  The font so specified doesn't fit into the

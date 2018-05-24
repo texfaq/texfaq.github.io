@@ -1,9 +1,8 @@
 ---
+title:  `epsf` gives up after a bit
 section: The joy of TeX errors
 date: 2014-06-10
 ---
-
-# `epsf` gives up after a bit
 
 Some copies of the documentation of `epsf.tex` seemed once to
 suggest that the command

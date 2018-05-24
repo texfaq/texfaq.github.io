@@ -1,9 +1,8 @@
 ---
+title:  Spawning programs from (La)TeX: `\write18`
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
-
-# Spawning programs from (La)TeX: `\write18`
 
 The TeX [`\write` primitive instruction](FAQ-write.md) is used
 to write to different file ''streams''; TeX refers to each open file by

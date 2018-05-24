@@ -1,9 +1,8 @@
 ---
+title:  How to get copyright, trademark, etc.
 section: Symbols, etc.
 date: 2014-06-10
 ---
-
-# How to get copyright, trademark, etc.
 
 The ''
 [Comprehensive symbol list](FAQ-symbols.md)'', lists

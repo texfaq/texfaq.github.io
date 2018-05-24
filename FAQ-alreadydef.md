@@ -1,10 +1,9 @@
 ---
+title:  Package reports ''command already defined''
 section: Why does it _do_ that?
 subsection: Common errors
 date: 2014-06-10
 ---
-
-# Package reports ''command already defined''
 
 You load a pair of packages, and the second reports that one of the
 commands it defines is already present.  For example, both the

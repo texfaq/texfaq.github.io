@@ -1,9 +1,8 @@
 ---
+title:  Getting `\marginpar` on the right side
 section: Common misunderstandings
 date: 2014-06-10
 ---
-
-# Getting `\marginpar` on the right side
 
 In an ideal world, marginal notes would be in ''analogous'' places on
 every page: notes on an even-side page would be in the left margin,
