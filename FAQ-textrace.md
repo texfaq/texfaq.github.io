@@ -37,7 +37,7 @@ are increasingly being used to provide Type&nbsp;1 fonts to the public domain.
 The `MetaType1` system aims to use MetaFont font sources, by way
 of MetaPost and a bunch of scripts and so on, to produce high-quality
 Type&nbsp;1 fonts.  The first results, the 
-[[`Latin Modern`](https://ctan.org/pkg/lm) fonts](FAQ-type1T1.md), are now
+[Latin Modern fonts](https://ctan.org/pkg/lm), are now
 well-established, and a bunch of existing designs have been reworked
 in MetaType1 format.
 
