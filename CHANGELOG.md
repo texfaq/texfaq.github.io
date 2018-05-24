@@ -9,6 +9,9 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 ## 2018-05-23
 
 ### Changed
+- Q-LaTeX3: Revised to reflect new GitHub-based workflow and website changes
+
+### Changed
 - Q-latexbug: Updated to reflect new GitHub issuer tracker
 - Q-newans: Updated to point to GitHub for contributions
 

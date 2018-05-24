@@ -1,10 +1,10 @@
 ---
 section: Current TeX-related projects
-date: 2014-06-10
+date: 2018-05-24
 ---
 # The LaTeX project
 
-The LaTeX project team (see [http://www.latex-project.org/latex3.html])
+The [LaTeX project](https://www.latex-project.org/latex3/)
 is a small group of volunteers whose aim is
 to produce a major new document processing system based on the
 principles pioneered by Leslie Lamport in the current LaTeX.  The
@@ -22,34 +22,25 @@ version of LaTeX, in parallel with development of LaTeX3.
 
 Some of the older discussion papers about directions for LaTeX3 are
 to be found on CTAN; other (published) articles are to be found
-on the project web site ([http://www.latex-project.org/papers/]).
+on the [project web site](https://www.latex-project.org/publications/).
 
-Some of the project's experimental code is visible on the net:
-  
+The projects code is all available on the [project's GitHub
+site](https://github.com/latex3/):
 
--  via [http://www.latex-project.org/code.html], which points
-    to the project's SVN repository;
--  via the project's
-    [_GitHub_ mirror](https://github.com/latex3/svn-mirror);
--  from CTAN: snapshots of two major collections from the
-    code, [`l3kernel`](https://ctan.org/pkg/l3kernel) (supporting LaTeX3 coding conventions in
-    a LaTeX 2e environment), [`l3packages`](https://ctan.org/pkg/l3packages) (a first cut of a
-    ''document designer's interface'') as well as
-    [`l3experimental`](https://ctan.org/pkg/l3experimental) (new stuff that's still under
-    development).
+- [The LaTeX 2e kernel](https://github.com/latex3/latex2e)
+- [The LaTeX3 development repository](https://github.com/latex3/latex3)
 
-The packages [`l3kernel`](https://ctan.org/pkg/l3kernel) and [`l3packages`](https://ctan.org/pkg/l3packages) provide an
-''experimental harness'' that may be used as a testbed for LaTeX3
-work.
+Release code from the team is also available on CTAN, most notably
 
-Note that [`l3kernel`](https://ctan.org/pkg/l3kernel) introduces a coding structure quite
-different from earlier LaTeX code; a few hardy authors, who are not
-members of the project, are nevertheless using it in their development
-work.
+- [`l3kernel`](https://ctan.org/pkg/l3kernel): Core programming support for
+  LaTeX3 work (the `expl3` language)
+- [`l3packages`](https://ctan.org/pkg/l3packages): Stable packages using
+  LaTeX3 ideas
+- [`l3experimental`](https://ctan.org/pkg/l3experimental): More experimental
+  code
 
-Anyone may participate in discussions of the future of LaTeX
-through the mailing list `latex-l`; some development work
-(outside the project) is discussed on the list.  Subscribe to the list
-by sending a message `subscribe latex-l <_your name_>`
-to  <a href="mailto:listserv@urz.Uni-Heidelberg.de">listserv@urz.Uni-Heidelberg.de</a>
+Anyone may participate in discussions of the future of LaTeX through the
+mailing list `LaTeX-L`; some development work (outside the project) is
+discussed on the list. Subscribe to the list by sending a message `subscribe
+latex-l <your name>` to <listserv@urz.Uni-Heidelberg.de">
 
