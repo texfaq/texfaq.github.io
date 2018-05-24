@@ -1,6 +1,6 @@
 ---
 section: You're still stuck?
-date: 2018-05-23
+date: 2018-05-24
 ---
 
 # What to do if you find a bug
@@ -19,8 +19,7 @@ think you have found a genuine fault in TeX itself (or MetaFont, or the
 CM fonts, or the TeXbook), don't immediately write to Knuth,
 however. He only looks at bugs infrequently, and even then
 only after they are agreed as bugs by a small vetting team. In the
-first instance, contact Barbara Beeton at the AMS
-(<a href="mailto:bnb@ams.org">bnb@ams.org</a>), or contact
+first instance, contact [Karl Berry](karl@freefriends.org)
 [TUG](FAQ-TUGstar).
 
 If you've found a bug in LaTeX 2e, [report it](FAQ-latexbug.md)

@@ -9,6 +9,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 ## 2018-05-23
 
 ### Changed
+- Q-bug: Karl Berry now collects TeX bugs
 - Q-LaTeX3: Revised to reflect new GitHub-based workflow and website changes
 
 ### Changed
