@@ -18,6 +18,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 - Q-LaTeX3: Revised to reflect new GitHub-based workflow and website changes
 - Q-pdftex: Detail moved to Q-enginedev
 - Q-whatpdftex: Renamed to Q-pdftex
+- Q-xetex: Detail moved to Q-enginedev, user text rewritten
 
 ### Removed
 - Q-ant: Incorporated into Q-alternatives

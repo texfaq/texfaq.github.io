@@ -1,48 +1,21 @@
 ---
 section: The Background
 permalink: /FAQ-xetex.html
-date: 2014-06-10
+date: 2018-05-24
 ---
 
-# XeTeX
+# What is XeTeX?
 
-[XeTeX](http://scripts.sil.org/xetex), by Jonathan Kew, is a
-successor to the shareware TeX/GX program for Macintoshes.  It was
-developed as a WEB ''change file'' applied to the original source
-of TeX; the main changes include:
+[XeTeX](http://scripts.sil.org/xetex) is a Unicode TeX engine which can load
+system fonts directly. The latter is exposed by extending the `\font`
+primitive. In order to support these major concepts, a range of TeX primitives
+are extended. For most LaTeX end users, these subtleties are transparent, with
+the LaTeX kernel and [`fontspec`](https://ctan.org/pkg/fontspec) package
+providing interfaces.
 
-- The input stage XeTeX by default reads Unicode (UTF-8, for
-  instance), although it's also capable of interpreting differently
-  encoded files (for backwards compatibility).  Multibyte characters
-  are reduced to a single internal character upon reading, so they are
-  considered as a unique entity when tokenization is performed.  (So,
-  for example, you can have command names in cyrillic, if you must,
-  but such a practice is not recommended.)
-- The font management a substantial revision has added support
-  for OpenType and TrueType fonts, delegating some parts to
-  third-party libraries.
-- The maths font set up XeTeX introduces new primitives for
-  extending the `\mathcode` and `\mathchardef` commands in TeX,
-  allowing the user to specify characters in the whole Unicode set and
-  in 256 ''math families'' (TeX only has 16, which limits some maths
-  coding techniques).
-- ''Post-processing'' features (A) XeTeX links to the
-  `teckit` library so it can apply a `map` file
-  that allows transformation of characters in already formed token
-  lists, before they are processed in the ''stomach'' for typesetting.
-  In this way, a declaration `Ligatures=TeX` is provided,
-  which attaches a map directive to the font that transforms the
-  character combinations (familiar to TeX users) into a single
-  character; for instance `---` is transformed into
-  ''&mdash;''.
-- ''Post-processing'' features (B) Characters can be assigned to
-  an ''interchar token class'' and it is possible to specify tokens to
-  be added when there is a transition from one class to another.  The
-  packages [`polyglossia`](https://ctan.org/pkg/polyglossia), [`xeCJK`](https://ctan.org/pkg/xeCJK) and
-  [`ucharclasses`](https://ctan.org/pkg/ucharclasses) exploit this feature.
-
-Otherwise, the process of typesetting is essentially the same as
-TeX's.  (However some changes have also been made in the
-hyphenation stage that may give slightly different results if the same
-document is compiled with pdfTeX or XeTeX.)
+Like Knuth's TeX, it does not directly produce PDF output but rather works
+_via_ an intermediate format, XDV (eXtended DVI). Unlike the classical
+[DVI](FAQ-dvi) format produced by TeX, XDV files cannot be viewed directly, and
+are normally converted directly to PDF as part of the `xetex` run. (The
+conversion itself is carried out by `xdvpdfmx`.)
 
