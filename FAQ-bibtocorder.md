@@ -5,9 +5,9 @@ permalink: /FAQ-bibtocorder.html
 date: 2014-06-10
 ---
 
-# Table of contents rearranges ''[`unsrt`](https://ctan.org/pkg/unsrt)'' ordering
+# Table of contents rearranges ''[`unsrt`](https://ctan.org/pkg/bibtex)'' ordering
 
-If you're using the [`unsrt`](https://ctan.org/pkg/unsrt) bibliography style, you're
+If you're using the [`unsrt`](https://ctan.org/pkg/bibtex) bibliography style, you're
 expecting that your bibliography will _not_ be sorted, but that
 the entries will appear in the order that they first appeared in your
 document.
@@ -15,7 +15,7 @@ document.
 However, if you're unfortunate enough to need a citation in a section
 title, and you also have a table of contents, the citations that now
 appear in the table of contents will upset the ''natural'' ordering
-produced by the [`unsrt`](https://ctan.org/pkg/unsrt) style.  Similarly, if you have
+produced by the [`unsrt`](https://ctan.org/pkg/bibtex) style.  Similarly, if you have
 citations in captions, and have a list of figures (or tables).
 
 There's a pretty simple ''manual'' method for dealing with the

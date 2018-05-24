@@ -76,7 +76,7 @@ generate such markup for LaTeX documents; you feed it the two
 documents, and it produces a new LaTeX document in which the
 changes are very visible.  An example of the output is embedded in the
 documentation,
-  [latexdiff-man.pdf](https://ctan.org/pkg/latexdifff)
+  [latexdiff-man.pdf](https://ctan.org/pkg/latexdiff)
   (part of the distribution).
 A rudimentary revision facility is provided by another
 `Perl` script, `latexrevise`, which accepts or rejects

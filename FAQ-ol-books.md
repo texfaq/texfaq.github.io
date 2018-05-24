@@ -12,7 +12,7 @@ Topic'' in 2001 (it had been published by Addison-Wesley, but was long
 out of print).  The book is now available on CTAN; it's not a
 beginner's tutorial but it's a fine reference.  It's also available,
 as a printed copy, via the on-line publishers
-[Lulu](http://www.lulu.com/content/2555607/) (not quite free, of
+[Lulu](https://www.lulu.com/shop/victor-eijkhout/tex-by-topic/paperback/product-23132527.html) (not quite free, of
 course, but not a _bad_ deal&hellip;).
 
 
