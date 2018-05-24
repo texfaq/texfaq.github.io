@@ -571,6 +571,7 @@
 - [The ANT typesetting system](FAQ-ant.md)
 - [The ExTeX project](FAQ-extex.md)
 - [Replacing the BibTeX&ndash;LaTeX mechanism](FAQ-biblatex.md)
+- [Alternatives to TeX](FAQ-alternatives.md)
 
 ## You're still stuck?
 - [You don't understand the answer](FAQ-noans.md)
