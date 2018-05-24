@@ -22,7 +22,7 @@ pleasingly typeset), so its adoption takes time.
 
 Otherwise, the simplest procedure is to provide translations of
 BibTeX styles into the
-required language: the solitary [`finplain.bst`](https://ctan.org/pkg/finplain.bst) does that for
+required language: the solitary [`finplain.bst`](https://ctan.org/pkg/finplain) does that for
 Finnish; others one can find are for Danish ([`dk-bib`](https://ctan.org/pkg/dk-bib)), French
 ([`bib-fr`](https://ctan.org/pkg/bib-fr)), German ([`germbib`](https://ctan.org/pkg/germbib)), Norwegian
 ([`norbib`](https://ctan.org/pkg/norbib)) and Swedish ([`swebib`](https://ctan.org/pkg/swebib)) bundles (of which
@@ -47,7 +47,7 @@ wasn't also a link from [`custom-bib`](https://ctan.org/pkg/custom-bib).
 
 The [`makebst`](https://ctan.org/pkg/custom-bib) menu of [`custom-bib`](https://ctan.org/pkg/custom-bib) allows you to
 choose a language for the BibTeX style you're generating (there are
-14 languages to choose; it looks as if [`spain.bst`](https://ctan.org/pkg/spain.bst), mentioned
+14 languages to choose; it looks as if [`spain.bst`](https://ctan.org/pkg/spain), mentioned
 above, was generated this way).  If, however, you opt not to specify a
 language, you are asked whether you want the style to interact with
 [`babelbib`](https://ctan.org/pkg/babelbib); if you do so, you're getting the best of both

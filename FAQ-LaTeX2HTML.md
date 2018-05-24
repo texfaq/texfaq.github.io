@@ -72,8 +72,8 @@ For today, possible packages are:
   available via [http://pauillac.inria.fr/~maranget/hevea/]
 
 An interesting set of samples, including conversion of the same text
-by the four free programs listed above, is available at
-[http://www.mayer.dial.pipex.com/samples/example.htm](http://www.mayer.dial.pipex.com/samples/example.htm); a linked
+by the four free programs listed above, was available at
+`http://www.mayer.dial.pipex.com/samples/example.htm`; a linked
 page gives lists of pros and cons, by way of comparison.
 
 The World Wide Web Consortium maintains a list of ''filters'' to

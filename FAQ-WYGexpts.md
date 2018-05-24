@@ -57,7 +57,7 @@ to a source line corresponding to a click in the preview window.
 An `emacs` package that combines this sort of editor movement
 tracking with automatic fast recompilations (through the use of dumped
 formats) is
-[[`WhizzyTeX`](https://ctan.org/pkg/WhizzyTeX)](http://pauillac.inria.fr/whizzytex/)
+[`WhizzyTeX`](http://pauillac.inria.fr/whizzytex/)
  which is best used with a previewer by the
 same author.
 
