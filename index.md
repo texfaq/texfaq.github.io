@@ -568,7 +568,6 @@
 - [The TeX document preparation environment](FAQ-WYGexpts.md)
 - [XeTeX](FAQ-xetex.md)
 - [pdfTeX and LuaTeX](FAQ-luatex.md)
-- [The ExTeX project](FAQ-extex.md)
 - [Replacing the BibTeX&ndash;LaTeX mechanism](FAQ-biblatex.md)
 - [Alternatives to TeX](FAQ-alternatives.md)
 

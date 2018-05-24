@@ -18,6 +18,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Removed
 - Q-ant: Incorporated into Q-alternatives
+- Q-extex: Incorporated into Q-enginedev
 - Q-omegaleph: Incorporated into Q-enginedev
 
 ## 2018-05-23
