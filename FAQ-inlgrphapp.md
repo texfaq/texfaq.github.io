@@ -1,6 +1,6 @@
 ---
 section: Graphics
-permalink: /FAQ-inlgrphapp
+permalink: /FAQ-inlgrphapp.html
 date: 2014-06-10
 ---
 

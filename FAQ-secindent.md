@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Document structure
-permalink: /FAQ-secindent
+permalink: /FAQ-secindent.html
 date: 2014-06-10
 ---
 

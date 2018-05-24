@@ -1,7 +1,7 @@
 ---
 section: Why does it _do_ that?
 subsection: Common errors
-permalink: /FAQ-matchbrak
+permalink: /FAQ-matchbrak.html
 date: 2014-06-10
 ---
 

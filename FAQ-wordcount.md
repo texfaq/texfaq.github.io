@@ -1,6 +1,6 @@
 ---
 section: Support Packages for TeX
-permalink: /FAQ-wordcount
+permalink: /FAQ-wordcount.html
 date: 2014-06-10
 ---
 

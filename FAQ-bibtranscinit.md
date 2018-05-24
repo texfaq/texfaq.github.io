@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Creating bibliographies
-permalink: /FAQ-bibtranscinit
+permalink: /FAQ-bibtranscinit.html
 date: 2014-06-10
 ---
 

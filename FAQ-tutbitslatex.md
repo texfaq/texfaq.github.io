@@ -1,6 +1,6 @@
 ---
 section: Documentation and Help
-permalink: /FAQ-tutbitslatex
+permalink: /FAQ-tutbitslatex.html
 date: 2014-06-10
 ---
 

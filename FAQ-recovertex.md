@@ -1,6 +1,6 @@
 ---
 section: Format conversions
-permalink: /FAQ-recovertex
+permalink: /FAQ-recovertex.html
 date: 2014-06-10
 ---
 

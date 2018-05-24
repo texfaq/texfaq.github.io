@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: ''Generic'' macros and techniques
-permalink: /FAQ-compjobnam
+permalink: /FAQ-compjobnam.html
 date: 2014-06-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Page layout
-permalink: /FAQ-chngmargonfly
+permalink: /FAQ-chngmargonfly.html
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: Installing (La)TeX files
-permalink: /FAQ-installthings
+permalink: /FAQ-installthings.html
 date: 2014-06-10
 ---
 

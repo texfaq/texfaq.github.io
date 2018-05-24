@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: LaTeX macro tools and techniques
-permalink: /FAQ-oarglikesect
+permalink: /FAQ-oarglikesect.html
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-optclash
+permalink: /FAQ-optclash.html
 date: 2014-06-10
 ---
 

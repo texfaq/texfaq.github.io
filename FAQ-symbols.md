@@ -1,6 +1,6 @@
 ---
 section: Documentation and Help
-permalink: /FAQ-symbols
+permalink: /FAQ-symbols.html
 date: 2014-06-10
 ---
 

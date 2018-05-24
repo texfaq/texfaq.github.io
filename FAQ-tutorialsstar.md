@@ -1,6 +1,6 @@
 ---
 section: Documentation and Help
-permalink: /FAQ-tutorialsstar
+permalink: /FAQ-tutorialsstar.html
 date: 2014-06-10
 ---
 

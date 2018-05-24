@@ -1,6 +1,6 @@
 ---
 section: Bits and pieces of (La)TeX
-permalink: /FAQ-unicode
+permalink: /FAQ-unicode.html
 date: 2014-06-10
 ---
 

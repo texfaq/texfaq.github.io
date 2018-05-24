@@ -1,6 +1,6 @@
 ---
 section: Current TeX-related projects
-permalink: /FAQ-textrace
+permalink: /FAQ-textrace.html
 date: 2014-06-10
 ---
 

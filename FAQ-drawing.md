@@ -1,6 +1,6 @@
 ---
 section: Graphics
-permalink: /FAQ-drawing
+permalink: /FAQ-drawing.html
 date: 2014-06-10
 ---
 

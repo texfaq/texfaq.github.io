@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: LaTeX macro programming
-permalink: /FAQ-latexqual
+permalink: /FAQ-latexqual.html
 date: 2014-06-10
 ---
 

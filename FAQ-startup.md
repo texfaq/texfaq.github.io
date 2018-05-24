@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-startup
+permalink: /FAQ-startup.html
 date: 2014-06-10
 ---
 

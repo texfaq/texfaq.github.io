@@ -1,6 +1,6 @@
 ---
 section: Current TeX-related projects
-permalink: /FAQ-luatex
+permalink: /FAQ-luatex.html
 date: 2014-06-10
 ---
 

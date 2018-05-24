@@ -1,7 +1,7 @@
 ---
 section: Why does it _do_ that?
 subsection: Common errors
-permalink: /FAQ-2colfltorder
+permalink: /FAQ-2colfltorder.html
 date: 2014-06-10
 ---
 

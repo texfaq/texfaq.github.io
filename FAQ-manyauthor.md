@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Creating bibliographies
-permalink: /FAQ-manyauthor
+permalink: /FAQ-manyauthor.html
 date: 2014-06-10
 ---
 

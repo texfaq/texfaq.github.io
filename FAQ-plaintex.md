@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-plaintex
+permalink: /FAQ-plaintex.html
 date: 2014-06-10
 ---
 

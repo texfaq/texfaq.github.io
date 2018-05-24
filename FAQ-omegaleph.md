@@ -1,6 +1,6 @@
 ---
 section: Current TeX-related projects
-permalink: /FAQ-omegaleph
+permalink: /FAQ-omegaleph.html
 date: 2014-06-10
 ---
 

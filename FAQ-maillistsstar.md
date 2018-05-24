@@ -1,6 +1,6 @@
 ---
 section: Documentation and Help
-permalink: /FAQ-maillistsstar
+permalink: /FAQ-maillistsstar.html
 date: 2016-08-18
 ---
 

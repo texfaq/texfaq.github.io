@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Document structure
-permalink: /FAQ-reallyblank
+permalink: /FAQ-reallyblank.html
 date: 2014-06-10
 ---
 

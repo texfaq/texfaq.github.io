@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-unkgrfextn
+permalink: /FAQ-unkgrfextn.html
 date: 2014-06-10
 ---
 

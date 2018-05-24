@@ -1,6 +1,6 @@
 ---
 section: DVI Drivers and Previewers
-permalink: /FAQ-previewers
+permalink: /FAQ-previewers.html
 date: 2014-06-10
 ---
 

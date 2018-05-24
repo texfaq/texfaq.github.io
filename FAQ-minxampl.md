@@ -1,6 +1,6 @@
 ---
 section: Documentation and Help
-permalink: /FAQ-minxampl
+permalink: /FAQ-minxampl.html
 date: 2014-06-10
 ---
 

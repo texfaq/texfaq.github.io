@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Document structure
-permalink: /FAQ-secthead
+permalink: /FAQ-secthead.html
 date: 2014-06-10
 ---
 

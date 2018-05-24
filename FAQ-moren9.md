@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: ''Generic'' macros and techniques
-permalink: /FAQ-moren9
+permalink: /FAQ-moren9.html
 date: 2014-06-10
 ---
 

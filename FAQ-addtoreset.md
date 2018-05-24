@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: LaTeX macro programming
-permalink: /FAQ-addtoreset
+permalink: /FAQ-addtoreset.html
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: Current TeX-related projects
-permalink: /FAQ-xetex
+permalink: /FAQ-xetex.html
 date: 2014-06-10
 ---
 

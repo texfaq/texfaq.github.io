@@ -1,6 +1,6 @@
 ---
 section: Literate programming
-permalink: /FAQ-lit
+permalink: /FAQ-lit.html
 date: 2014-06-10
 ---
 

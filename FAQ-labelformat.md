@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: LaTeX macro programming
-permalink: /FAQ-labelformat
+permalink: /FAQ-labelformat.html
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: Current TeX-related projects
-permalink: /FAQ-LaTeX3
+permalink: /FAQ-LaTeX3.html
 date: 2018-05-24
 ---
 

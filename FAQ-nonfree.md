@@ -1,6 +1,6 @@
 ---
 section: Acquiring the Software
-permalink: /FAQ-nonfree
+permalink: /FAQ-nonfree.html
 date: 2014-06-10
 ---
 

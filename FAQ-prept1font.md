@@ -1,6 +1,6 @@
 ---
 section: Installing (La)TeX files
-permalink: /FAQ-prept1font
+permalink: /FAQ-prept1font.html
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: Documentation and Help
-permalink: /FAQ-whereFAQ
+permalink: /FAQ-whereFAQ.html
 date: 2014-06-10
 ---
 

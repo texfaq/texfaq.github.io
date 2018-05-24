@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Tables of contents and indexes
-permalink: /FAQ-multind
+permalink: /FAQ-multind.html
 date: 2014-06-10
 ---
 

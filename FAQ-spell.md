@@ -1,6 +1,6 @@
 ---
 section: Support Packages for TeX
-permalink: /FAQ-spell
+permalink: /FAQ-spell.html
 date: 2014-06-10
 ---
 

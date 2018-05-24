@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-triptrap
+permalink: /FAQ-triptrap.html
 date: 2014-06-10
 ---
 

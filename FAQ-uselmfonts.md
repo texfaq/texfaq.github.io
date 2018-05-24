@@ -1,7 +1,7 @@
 ---
 section: Fonts
 subsection: Particular font families
-permalink: /FAQ-uselmfonts
+permalink: /FAQ-uselmfonts.html
 date: 2014-06-10
 ---
 

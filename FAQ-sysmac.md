@@ -1,6 +1,6 @@
 ---
 section: TeX Systems
-permalink: /FAQ-sysmac
+permalink: /FAQ-sysmac.html
 date: 2014-06-10
 ---
 

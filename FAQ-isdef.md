@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: ''Generic'' macros and techniques
-permalink: /FAQ-isdef
+permalink: /FAQ-isdef.html
 date: 2014-06-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Footnotes
-permalink: /FAQ-ftncapt
+permalink: /FAQ-ftncapt.html
 date: 2014-06-10
 ---
 

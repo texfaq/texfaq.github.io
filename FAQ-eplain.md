@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-eplain
+permalink: /FAQ-eplain.html
 date: 2014-06-10
 ---
 

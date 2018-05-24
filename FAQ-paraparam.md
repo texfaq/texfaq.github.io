@@ -1,6 +1,6 @@
 ---
 section: Common misunderstandings
-permalink: /FAQ-paraparam
+permalink: /FAQ-paraparam.html
 date: 2014-06-10
 ---
 

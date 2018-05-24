@@ -1,6 +1,6 @@
 ---
 section: Symbols, etc.
-permalink: /FAQ-underscore
+permalink: /FAQ-underscore.html
 date: 2014-06-10
 ---
 

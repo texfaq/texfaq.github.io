@@ -1,6 +1,6 @@
 ---
 section: Common misunderstandings
-permalink: /FAQ-splitfoot
+permalink: /FAQ-splitfoot.html
 date: 2014-06-10
 ---
 

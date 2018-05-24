@@ -1,7 +1,7 @@
 ---
 section: Common misunderstandings
 subsection: Why shouldn't I?
-permalink: /FAQ-newfontstar
+permalink: /FAQ-newfontstar.html
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: Graphics
-permalink: /FAQ-pdftexgraphics
+permalink: /FAQ-pdftexgraphics.html
 date: 2014-06-10
 ---
 

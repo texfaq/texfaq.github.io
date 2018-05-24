@@ -1,6 +1,6 @@
 ---
 section: Common misunderstandings
-permalink: /FAQ-marginparside
+permalink: /FAQ-marginparside.html
 date: 2014-06-10
 ---
 

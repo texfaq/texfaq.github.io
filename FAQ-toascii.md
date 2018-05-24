@@ -1,6 +1,6 @@
 ---
 section: Format conversions
-permalink: /FAQ-toascii
+permalink: /FAQ-toascii.html
 date: 2014-06-10
 ---
 

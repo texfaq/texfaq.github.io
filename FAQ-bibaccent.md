@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Creating bibliographies
-permalink: /FAQ-bibaccent
+permalink: /FAQ-bibaccent.html
 date: 2014-06-10
 ---
 

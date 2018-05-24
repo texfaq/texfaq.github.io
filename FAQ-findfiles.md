@@ -1,6 +1,6 @@
 ---
 section: Acquiring the Software
-permalink: /FAQ-findfiles
+permalink: /FAQ-findfiles.html
 date: 2014-06-10
 ---
 

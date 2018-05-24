@@ -1,6 +1,6 @@
 ---
 section: Common misunderstandings
-permalink: /FAQ-misschar
+permalink: /FAQ-misschar.html
 date: 2014-06-10
 ---
 

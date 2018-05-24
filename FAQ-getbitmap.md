@@ -1,7 +1,7 @@
 ---
 section: Fonts
 subsection: MetaFont fonts
-permalink: /FAQ-getbitmap
+permalink: /FAQ-getbitmap.html
 date: 2014-06-10
 ---
 

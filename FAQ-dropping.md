@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Typesetting specialities
-permalink: /FAQ-dropping
+permalink: /FAQ-dropping.html
 date: 2014-06-10
 ---
 

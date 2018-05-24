@@ -1,6 +1,6 @@
 ---
 section: Symbols, etc.
-permalink: /FAQ-atsign
+permalink: /FAQ-atsign.html
 date: 2014-06-10
 ---
 

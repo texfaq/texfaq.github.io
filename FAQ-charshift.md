@@ -1,7 +1,7 @@
 ---
 section: Fonts
 subsection: Adobe Type&nbsp;1 (''PostScript'') fonts
-permalink: /FAQ-charshift
+permalink: /FAQ-charshift.html
 date: 2014-06-10
 ---
 

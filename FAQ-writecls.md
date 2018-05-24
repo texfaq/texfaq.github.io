@@ -1,6 +1,6 @@
 ---
 section: Documentation and Help
-permalink: /FAQ-writecls
+permalink: /FAQ-writecls.html
 date: 2014-06-10
 ---
 

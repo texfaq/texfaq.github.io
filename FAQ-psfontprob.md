@@ -1,7 +1,7 @@
 ---
 section: Fonts
 subsection: Adobe Type&nbsp;1 (''PostScript'') fonts
-permalink: /FAQ-psfontprob
+permalink: /FAQ-psfontprob.html
 date: 2014-06-10
 ---
 

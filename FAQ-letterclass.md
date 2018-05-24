@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Alternative document classes
-permalink: /FAQ-letterclass
+permalink: /FAQ-letterclass.html
 date: 2014-06-10
 ---
 

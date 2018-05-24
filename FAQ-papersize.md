@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Page layout
-permalink: /FAQ-papersize
+permalink: /FAQ-papersize.html
 date: 2014-06-10
 ---
 

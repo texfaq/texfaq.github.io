@@ -1,6 +1,6 @@
 ---
 section: Common misunderstandings
-permalink: /FAQ-casechange
+permalink: /FAQ-casechange.html
 date: 2014-06-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Tables, figures and diagrams
-permalink: /FAQ-multirow
+permalink: /FAQ-multirow.html
 date: 2014-06-10
 ---
 

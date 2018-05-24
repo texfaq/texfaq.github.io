@@ -1,6 +1,6 @@
 ---
 section: Graphics
-permalink: /FAQ-impgraph
+permalink: /FAQ-impgraph.html
 date: 2014-06-10
 ---
 

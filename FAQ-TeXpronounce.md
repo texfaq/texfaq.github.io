@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-TeXpronounce
+permalink: /FAQ-TeXpronounce.html
 date: 2014-06-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Mathematics
-permalink: /FAQ-mathstext
+permalink: /FAQ-mathstext.html
 date: 2014-06-10
 ---
 

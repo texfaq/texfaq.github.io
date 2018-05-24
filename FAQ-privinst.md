@@ -1,6 +1,6 @@
 ---
 section: Installing (La)TeX files
-permalink: /FAQ-privinst
+permalink: /FAQ-privinst.html
 date: 2014-06-10
 ---
 

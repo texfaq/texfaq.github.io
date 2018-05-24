@@ -1,6 +1,6 @@
 ---
 section: Bits and pieces of (La)TeX
-permalink: /FAQ-dvi
+permalink: /FAQ-dvi.html
 date: 2014-06-10
 ---
 

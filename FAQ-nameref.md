@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Labels and references
-permalink: /FAQ-nameref
+permalink: /FAQ-nameref.html
 date: 2014-06-10
 ---
 

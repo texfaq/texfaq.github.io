@@ -1,6 +1,6 @@
 ---
 section: Graphics
-permalink: /FAQ-mpprologues
+permalink: /FAQ-mpprologues.html
 date: 2014-06-10
 ---
 

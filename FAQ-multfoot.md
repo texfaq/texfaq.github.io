@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Footnotes
-permalink: /FAQ-multfoot
+permalink: /FAQ-multfoot.html
 date: 2014-06-10
 ---
 

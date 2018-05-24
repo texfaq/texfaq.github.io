@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-LaTeXandPlain
+permalink: /FAQ-LaTeXandPlain.html
 date: 2014-06-10
 ---
 

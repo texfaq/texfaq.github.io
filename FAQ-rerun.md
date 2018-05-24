@@ -1,6 +1,6 @@
 ---
 section: Common misunderstandings
-permalink: /FAQ-rerun
+permalink: /FAQ-rerun.html
 date: 2014-06-10
 ---
 

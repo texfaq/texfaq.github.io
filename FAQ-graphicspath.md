@@ -1,6 +1,6 @@
 ---
 section: Graphics
-permalink: /FAQ-graphicspath
+permalink: /FAQ-graphicspath.html
 date: 2014-06-10
 ---
 

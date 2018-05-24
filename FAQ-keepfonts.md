@@ -1,7 +1,7 @@
 ---
 section: Fonts
 subsection: MetaFont fonts
-permalink: /FAQ-keepfonts
+permalink: /FAQ-keepfonts.html
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: TeX Systems
-permalink: /FAQ-TeXsystems
+permalink: /FAQ-TeXsystems.html
 date: 2014-06-10
 ---
 

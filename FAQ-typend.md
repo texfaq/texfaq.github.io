@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-typend
+permalink: /FAQ-typend.html
 date: 2014-06-10
 ---
 

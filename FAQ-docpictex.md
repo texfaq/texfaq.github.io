@@ -1,6 +1,6 @@
 ---
 section: Documentation and Help
-permalink: /FAQ-docpictex
+permalink: /FAQ-docpictex.html
 date: 2014-06-10
 ---
 

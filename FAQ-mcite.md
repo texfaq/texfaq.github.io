@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Creating citations
-permalink: /FAQ-mcite
+permalink: /FAQ-mcite.html
 date: 2014-06-10
 ---
 

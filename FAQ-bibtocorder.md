@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Creating citations
-permalink: /FAQ-bibtocorder
+permalink: /FAQ-bibtocorder.html
 date: 2014-06-10
 ---
 

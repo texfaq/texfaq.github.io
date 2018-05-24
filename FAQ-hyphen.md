@@ -1,6 +1,6 @@
 ---
 section: Bits and pieces of (La)TeX
-permalink: /FAQ-hyphen
+permalink: /FAQ-hyphen.html
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: Current TeX-related projects
-permalink: /FAQ-alternatives
+permalink: /FAQ-alternatives.html
 date: 2018-05-24
 redirect_from: /FAQ-ant
 ---

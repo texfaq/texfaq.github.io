@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: ''Generic'' macros and techniques
-permalink: /FAQ-linmacnames
+permalink: /FAQ-linmacnames.html
 date: 2014-06-10
 ---
 

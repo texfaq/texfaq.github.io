@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Manipulating whole bibliographies
-permalink: /FAQ-nocitestar
+permalink: /FAQ-nocitestar.html
 date: 2014-06-10
 ---
 

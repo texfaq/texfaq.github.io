@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Document structure
-permalink: /FAQ-widefigs
+permalink: /FAQ-widefigs.html
 date: 2014-06-10
 ---
 

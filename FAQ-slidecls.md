@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Alternative document classes
-permalink: /FAQ-slidecls
+permalink: /FAQ-slidecls.html
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: Format conversions
-permalink: /FAQ-LaTeXtoPlain
+permalink: /FAQ-LaTeXtoPlain.html
 date: 2014-06-10
 ---
 

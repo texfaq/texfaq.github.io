@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-TUGstar
+permalink: /FAQ-TUGstar.html
 date: 2014-06-10
 ---
 

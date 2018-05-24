@@ -1,6 +1,6 @@
 ---
 section: Current TeX-related projects
-permalink: /FAQ-mathml
+permalink: /FAQ-mathml.html
 date: 2014-06-10
 ---
 

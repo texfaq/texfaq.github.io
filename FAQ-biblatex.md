@@ -1,6 +1,6 @@
 ---
 section: Current TeX-related projects
-permalink: /FAQ-biblatex
+permalink: /FAQ-biblatex.html
 date: 2014-06-10
 ---
 

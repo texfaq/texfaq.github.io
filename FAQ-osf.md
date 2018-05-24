@@ -1,6 +1,6 @@
 ---
 section: Symbols, etc.
-permalink: /FAQ-osf
+permalink: /FAQ-osf.html
 date: 2014-06-10
 ---
 

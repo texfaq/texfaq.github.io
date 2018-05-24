@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Hyphenation
-permalink: /FAQ-hyphexcept
+permalink: /FAQ-hyphexcept.html
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-whyfree
+permalink: /FAQ-whyfree.html
 date: 2014-06-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: ''Generic'' macros and techniques
-permalink: /FAQ-whatengine
+permalink: /FAQ-whatengine.html
 date: 2014-06-10
 ---
 

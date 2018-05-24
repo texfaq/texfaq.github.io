@@ -1,6 +1,6 @@
 ---
 section: Support Packages for TeX
-permalink: /FAQ-texcad
+permalink: /FAQ-texcad.html
 date: 2014-06-10
 ---
 

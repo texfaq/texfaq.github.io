@@ -1,6 +1,6 @@
 ---
 section: Bits and pieces of (La)TeX
-permalink: /FAQ-tds
+permalink: /FAQ-tds.html
 date: 2014-06-10
 ---
 

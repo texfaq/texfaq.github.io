@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Document management
-permalink: /FAQ-filesused
+permalink: /FAQ-filesused.html
 date: 2014-06-10
 ---
 

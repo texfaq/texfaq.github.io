@@ -1,6 +1,6 @@
 ---
 section: Graphics
-permalink: /FAQ-drawFeyn
+permalink: /FAQ-drawFeyn.html
 date: 2014-06-10
 ---
 

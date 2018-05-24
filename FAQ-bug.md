@@ -1,6 +1,6 @@
 ---
 section: You're still stuck?
-permalink: /FAQ-bug
+permalink: /FAQ-bug.html
 date: 2018-05-24
 ---
 

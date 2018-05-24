@@ -1,7 +1,7 @@
 ---
 section: Fonts
 subsection: Particular font families
-permalink: /FAQ-getnff
+permalink: /FAQ-getnff.html
 date: 2014-06-10
 ---
 

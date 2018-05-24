@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-latex
+permalink: /FAQ-latex.html
 date: 2014-06-10
 ---
 

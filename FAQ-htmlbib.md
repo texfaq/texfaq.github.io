@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Manipulating whole bibliographies
-permalink: /FAQ-htmlbib
+permalink: /FAQ-htmlbib.html
 date: 2014-06-10
 ---
 

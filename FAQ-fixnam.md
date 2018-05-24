@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: LaTeX macro programming
-permalink: /FAQ-fixnam
+permalink: /FAQ-fixnam.html
 date: 2014-06-10
 ---
 

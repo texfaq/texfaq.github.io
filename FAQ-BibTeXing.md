@@ -1,6 +1,6 @@
 ---
 section: Documentation and Help
-permalink: /FAQ-BibTeXing
+permalink: /FAQ-BibTeXing.html
 date: 2014-06-10
 ---
 

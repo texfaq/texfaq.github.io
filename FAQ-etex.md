@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-etex
+permalink: /FAQ-etex.html
 date: 2014-06-10
 ---
 

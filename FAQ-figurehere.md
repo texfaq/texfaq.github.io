@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Floating tables, figures, etc.
-permalink: /FAQ-figurehere
+permalink: /FAQ-figurehere.html
 date: 2014-06-10
 ---
 

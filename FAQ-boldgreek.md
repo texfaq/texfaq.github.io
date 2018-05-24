@@ -1,6 +1,6 @@
 ---
 section: Symbols, etc.
-permalink: /FAQ-boldgreek
+permalink: /FAQ-boldgreek.html
 date: 2014-06-10
 ---
 

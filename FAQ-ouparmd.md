@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-ouparmd
+permalink: /FAQ-ouparmd.html
 date: 2014-06-10
 ---
 

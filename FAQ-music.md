@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Typesetting specialities
-permalink: /FAQ-music
+permalink: /FAQ-music.html
 date: 2014-06-10
 ---
 

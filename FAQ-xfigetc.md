@@ -1,6 +1,6 @@
 ---
 section: Support Packages for TeX
-permalink: /FAQ-xfigetc
+permalink: /FAQ-xfigetc.html
 date: 2014-06-10
 ---
 

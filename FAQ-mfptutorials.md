@@ -1,6 +1,6 @@
 ---
 section: Documentation and Help
-permalink: /FAQ-mfptutorials
+permalink: /FAQ-mfptutorials.html
 date: 2014-06-10
 ---
 

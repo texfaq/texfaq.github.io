@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Floating tables, figures, etc.
-permalink: /FAQ-2colfloat
+permalink: /FAQ-2colfloat.html
 date: 2018-05-18
 ---
 

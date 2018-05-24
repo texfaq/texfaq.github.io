@@ -1,6 +1,6 @@
 ---
 section: TeX Systems
-permalink: /FAQ-sysunix
+permalink: /FAQ-sysunix.html
 date: 2014-06-10
 ---
 

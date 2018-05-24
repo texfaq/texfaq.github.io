@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Page layout
-permalink: /FAQ-acroantics
+permalink: /FAQ-acroantics.html
 date: 2014-06-10
 ---
 

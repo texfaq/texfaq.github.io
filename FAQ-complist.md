@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Lists
-permalink: /FAQ-complist
+permalink: /FAQ-complist.html
 date: 2014-06-10
 ---
 

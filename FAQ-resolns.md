@@ -1,6 +1,6 @@
 ---
 section: Bits and pieces of (La)TeX
-permalink: /FAQ-resolns
+permalink: /FAQ-resolns.html
 date: 2014-06-10
 ---
 

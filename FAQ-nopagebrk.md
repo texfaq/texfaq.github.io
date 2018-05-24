@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Page layout
-permalink: /FAQ-nopagebrk
+permalink: /FAQ-nopagebrk.html
 date: 2014-06-10
 ---
 

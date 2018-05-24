@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Mathematics
-permalink: /FAQ-brkinline
+permalink: /FAQ-brkinline.html
 date: 2014-06-10
 ---
 

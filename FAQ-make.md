@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Document management
-permalink: /FAQ-make
+permalink: /FAQ-make.html
 date: 2014-06-10
 ---
 

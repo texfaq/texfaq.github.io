@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Document structure
-permalink: /FAQ-onecolabs
+permalink: /FAQ-onecolabs.html
 date: 2014-06-10
 ---
 

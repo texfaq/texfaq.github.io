@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Creating citations
-permalink: /FAQ-compactbib
+permalink: /FAQ-compactbib.html
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-normalszmiss
+permalink: /FAQ-normalszmiss.html
 date: 2014-06-10
 ---
 

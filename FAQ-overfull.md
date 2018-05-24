@@ -1,6 +1,6 @@
 ---
 section: Common misunderstandings
-permalink: /FAQ-overfull
+permalink: /FAQ-overfull.html
 date: 2014-06-10
 ---
 

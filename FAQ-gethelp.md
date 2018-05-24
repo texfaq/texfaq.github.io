@@ -1,6 +1,6 @@
 ---
 section: Documentation and Help
-permalink: /FAQ-gethelp
+permalink: /FAQ-gethelp.html
 date: 2014-06-10
 ---
 

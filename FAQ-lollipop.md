@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-lollipop
+permalink: /FAQ-lollipop.html
 date: 2014-06-10
 ---
 
