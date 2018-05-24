@@ -16,6 +16,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 - Q-bug: Karl Berry now collects TeX bugs
 - Q-etex: Detail moved to Q-enginedev
 - Q-LaTeX3: Revised to reflect new GitHub-based workflow and website changes
+- Q-luatex: Detail moved to Q-enginedev, user text rewritten
 - Q-pdftex: Detail moved to Q-enginedev
 - Q-whatpdftex: Renamed to Q-pdftex
 - Q-xetex: Detail moved to Q-enginedev, user text rewritten
