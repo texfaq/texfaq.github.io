@@ -26,7 +26,7 @@ and so on.
 The [`yhmath`](https://ctan.org/pkg/yhmath) package defines an `\adots` command, which is
 the analogue of `\ddots`, sloping forwards rather than backwards.
 The [`yhmath`](https://ctan.org/pkg/yhmath) package comes with a rather interesting font that
-extends the standard [`cmex`](https://ctan.org/pkg/cmex); details are in the documentation.
+extends the standard `cmex`; details are in the documentation.
 
 The [`mathdots`](https://ctan.org/pkg/mathdots) package (besides fixing up the behaviour of
 (La)TeX `\ddots` and `\vdots` when the font size changes)

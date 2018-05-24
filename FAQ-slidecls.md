@@ -52,7 +52,7 @@ which claims to differ from the systems mentioned above, such as
 [`beamer`](https://ctan.org/pkg/beamer), in that it doesn't impose a slide style on you.  You
 get to specify a bunch of slide styles, and you can switch from one to
 the other between slides, as you need.  The class itself provides
-just the one style, in the package [`greybars`](https://ctan.org/pkg/greybars): the author's
+just the one style, in the package `greybars`: the author's
 suggestion that users should contribute their own has been
 enthusiastically accepted&nbsp;&mdash; see (for example) the 
 [Beamer Gallery](http://deic.uab.es/~iblanes/beamer_gallery/).

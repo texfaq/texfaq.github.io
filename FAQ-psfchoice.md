@@ -380,13 +380,13 @@ working on them, and several problems have been identified:
   The fonts are licensed under the GPL; use in published
   documents is permitted.
 
-- Newpxby Michael Sharpe from Young Ryu's `pxfonts`
+- Newpx by Michael Sharpe from Young Ryu's `pxfonts`
 
   This collection is derived from `pxfonts`; the maths fonts
   metrics have been adjusted so that the output is less cramped than
   when `pxfonts` is used; the appearance of the output is
-  much improved.  Two packages are provided, [`newpxtext`](https://ctan.org/pkg/newpxtext) for
-  using the associated text fonts, and [`newpxmath`](https://ctan.org/pkg/newpxmath) for
+  much improved.  Two packages are provided, [`newpxtext`](https://ctan.org/pkg/newpx) for
+  using the associated text fonts, and [`newpxmath`](https://ctan.org/pkg/newpx) for
   mathematics.
 
 - Txfonts set version 3.1(42 fonts) by Young Ryu

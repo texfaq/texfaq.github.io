@@ -19,19 +19,19 @@ common requirement for footnotes marked by symbols (with painfully
 small symbol sets).  There are four packages that manage it, one way
 or another.
 
-The [`perpage`](https://ctan.org/pkg/perpage) and [`zref-perpage`](https://ctan.org/pkg/zref-perpage) packages provide a
+The [`perpage`](https://ctan.org/pkg/perpage) and [`zref-perpage`](https://ctan.org/pkg/zref) packages provide a
 general mechanism for resetting counters per page, so can obviously be
 used for this task.  The interface is pretty simple:
 `\MakePerPage{footnote}` (in [`perpage`](https://ctan.org/pkg/perpage)) or
-`\zmakeperpage{footnote}` (in [`zref-perpage`](https://ctan.org/pkg/zref-perpage)).  If
+`\zmakeperpage{footnote}` (in [`zref-perpage`](https://ctan.org/pkg/zref)).  If
 you want to restart the counter at something other than&nbsp;1 (for example
 to avoid something in the LaTeX footnote symbol list), you can use:
 `\MakePerPage[2]{footnote}` (in [`perpage`](https://ctan.org/pkg/perpage)) or
-`\zmakeperpage[2]{footnote}` (in [`zref-perpage`](https://ctan.org/pkg/zref-perpage)).
-Note that you can also load [`zref-perpage`](https://ctan.org/pkg/zref-perpage) 
+`\zmakeperpage[2]{footnote}` (in [`zref-perpage`](https://ctan.org/pkg/zref)).
+Note that you can also load [`zref-perpage`](https://ctan.org/pkg/zref) 
 
 [`Perpage`](https://ctan.org/pkg/Perpage) is a compact and efficient package;
-[`zref-perpage`](https://ctan.org/pkg/zref-perpage), being a [`zref`](https://ctan.org/pkg/zref) ''module'', comes with
+[`zref-perpage`](https://ctan.org/pkg/zref), being a [`zref`](https://ctan.org/pkg/zref) ''module'', comes with
 [`zref`](https://ctan.org/pkg/zref)'s general mechanism for extending the the
 `\label`&mdash;`\[page]ref` of LaTeX, which can offer many other
 useful facilities.

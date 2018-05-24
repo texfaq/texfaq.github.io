@@ -68,7 +68,7 @@ equally well to tables, or to ''non-standard'' floats defined by the
     `\section` command, but you can place `\FloatBarrier`s wherever
     you choose.
 -  If you are bothered by floats appearing at the top of the page
-    (before they are specified in your text), try the [`flafter`](https://ctan.org/pkg/flafter)
+    (before they are specified in your text), try the [`flafter`](https://ctan.org/pkg/latex-base)
     package, which avoids this problem by insisting that floats should
     always appear after their definition.
 -  Have a look at the LaTeX 2e [`afterpage`](https://ctan.org/pkg/afterpage) package.

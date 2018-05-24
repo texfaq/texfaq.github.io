@@ -20,7 +20,7 @@ single-stroke Greek letter &epsilon;.
 
 Sensible users don't have to follow this stuff wherever it goes,
 but, for those who insist, a large collection of logos is defined in
-the [`texnames`](https://ctan.org/pkg/texnames) package (but note that this set of macros isn't
+the [`texnames`](https://ctan.org/tex-archive/obsolete/macros/latex209/contrib/misc) package (but note that this set of macros isn't
 entirely reliable in LaTeX 2e).
 The MetaFont and MetaPost logos can be set in fonts that LaTeX 2e
 knows about (so that they scale with the surrounding text) using the
