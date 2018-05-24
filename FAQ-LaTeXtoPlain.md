@@ -1,8 +1,9 @@
 ---
-title:  Translating LaTeX to Plain TeX
 section: Format conversions
 date: 2014-06-10
 ---
+
+# Translating LaTeX to Plain TeX
 
 Unfortunately, no ''general'', simple, automatic process is likely to
 succeed at this task.  See 

@@ -1,8 +1,9 @@
 ---
-title:  The PicTeX manual
 section: Documentation and Help
 date: 2014-06-10
 ---
+
+# The PicTeX manual
 
 PicTeX is a set of macros by Michael Wichura for drawing diagrams
 and pictures. The

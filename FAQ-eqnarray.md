@@ -1,9 +1,10 @@
 ---
-title:  Why not use `eqnarray`?
 section: Common misunderstandings
 subsection: Why shouldn't I?
 date: 2014-06-10
 ---
+
+# Why not use `eqnarray`?
 
 The environment `eqnarray` is attractive for the
 occasional user of mathematics in LaTeX documents: it seems to

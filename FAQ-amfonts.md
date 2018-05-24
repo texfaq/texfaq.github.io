@@ -1,9 +1,10 @@
 ---
-title:  Where are the `am` fonts?
 section: Things are Going Wrong&hellip;
 subsection: Things have ''gone away''
 date: 2014-06-10
 ---
+
+# Where are the `am` fonts?
 
 One _still_ occasionally comes across a request for the `am`
 series of fonts.  The initials stood for ''Almost [Computer] Modern'',

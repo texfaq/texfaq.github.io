@@ -1,9 +1,10 @@
 ---
-title:  Finding if you're on an odd or an even page
 section: Macro programming
 subsection: LaTeX macro programming
 date: 2014-06-10
 ---
+
+# Finding if you're on an odd or an even page
 
 [Another question](FAQ-marginparside.md) discusses the issue
 of getting `\marginpar` commands to put their output in the correct

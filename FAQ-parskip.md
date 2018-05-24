@@ -1,9 +1,10 @@
 ---
-title:  Zero paragraph indent
 section: Adjusting the typesetting
 subsection: Typesetting specialities
 date: 2014-06-10
 ---
+
+# Zero paragraph indent
 
 The conventional way of typesetting running text has no separation
 between paragraphs, and the first line of each paragraph in a block of

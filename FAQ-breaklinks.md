@@ -1,9 +1,10 @@
 ---
-title:  Link text doesn't break at end line
 section: Why does it _do_ that?
 subsection: Common errors
 date: 2014-06-10
 ---
+
+# Link text doesn't break at end line
 
 When using the [`hyperref`](https://ctan.org/pkg/hyperref) package, you make a block of text
 ''active'' when you define a hyper-link (when the user clicks on

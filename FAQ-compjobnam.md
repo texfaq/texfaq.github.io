@@ -1,9 +1,10 @@
 ---
-title:  Comparing the ''job name''
 section: Macro programming
 subsection: ''Generic'' macros and techniques
 date: 2014-06-10
 ---
+
+# Comparing the ''job name''
 
 The token `\jobname` amusingly produces a sequence of characters
 whose category code is 12 (''other''), regardless of what the characters

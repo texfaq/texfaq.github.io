@@ -1,9 +1,10 @@
 ---
-title:  Defining a new log-like function in LaTeX
 section: How do I do&hellip;?
 subsection: Mathematics
 date: 2014-06-10
 ---
+
+# Defining a new log-like function in LaTeX
 
 Use the `\mathop` command, as in:
 ```latex

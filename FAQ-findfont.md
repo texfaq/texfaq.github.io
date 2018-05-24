@@ -1,8 +1,9 @@
 ---
-title:  Finding new fonts
 section: Acquiring the Software
 date: 2014-06-10
 ---
+
+# Finding new fonts
 
 Nowadays, new fonts are seldom developed by industrious people using
 MetaFont, but if such do appear, they will nowadays be distributed in

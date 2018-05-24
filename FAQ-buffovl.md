@@ -1,8 +1,9 @@
 ---
-title:  Unable to read an entire line
 section: The joy of TeX errors
 date: 2014-06-10
 ---
+
+# Unable to read an entire line
 
 TeX belongs to the generation of applications written for
 environments that didn't offer the sophisticated string and i/o

@@ -1,9 +1,10 @@
 ---
-title:  LaTeX internal ''abbreviations'', etc.
 section: Macro programming
 subsection: LaTeX macro tools and techniques
 date: 2014-06-10
 ---
+
+# LaTeX internal ''abbreviations'', etc.
 
 In the deeps of time, when TeX first happened, computers had
 extremely limited memory, and were (by today's standards) painfully

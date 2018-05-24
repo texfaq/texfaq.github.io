@@ -1,8 +1,9 @@
 ---
-title:  BibTeX Documentation
 section: Documentation and Help
 date: 2014-06-10
 ---
+
+# BibTeX Documentation
 
 BibTeX, a program originally designed to produce bibliographies in
 conjunction with LaTeX, is explained in Section&nbsp;4.3 and Appendix&nbsp;B

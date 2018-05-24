@@ -1,9 +1,10 @@
 ---
-title:  Why doesn't verbatim work within &hellip;?
 section: Why does it _do_ that?
 subsection: Common errors
 date: 2014-06-10
 ---
+
+# Why doesn't verbatim work within &hellip;?
 
 The LaTeX verbatim commands work by changing category codes.  Knuth
 says of this sort of thing ''Some care is needed to get the timing

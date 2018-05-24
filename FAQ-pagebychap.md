@@ -1,9 +1,10 @@
 ---
-title:  Page numbering by chapter
 section: Adjusting the typesetting
 subsection: Document structure
 date: 2014-06-10
 ---
+
+# Page numbering by chapter
 
 When I was a young man, a common arrangement for loose bound technical
 manuals is to number pages by chapter.  (It's quite a good scheme, in

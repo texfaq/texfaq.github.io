@@ -1,9 +1,10 @@
 ---
-title:  Moving tables and figures in LaTeX
 section: Things are Going Wrong&hellip;
 subsection: Making things stay where you want them
 date: 2014-06-10
 ---
+
+# Moving tables and figures in LaTeX
 
 Tables and figures have a tendency to surprise, by _floating_
 away from where they were specified to appear.  This is in fact

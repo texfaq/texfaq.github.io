@@ -1,8 +1,9 @@
 ---
-title:  Writing (text) files from TeX
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
+
+# Writing (text) files from TeX
 
 TeX allows you to write to output files from within your document.
 The facility is handy in many circumstances, but it is vital for

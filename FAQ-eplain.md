@@ -1,8 +1,9 @@
 ---
-title:  What is Eplain?
 section: The Background
 date: 2014-06-10
 ---
+
+# What is Eplain?
 
 The [Eplain](http://tug.org/eplain)
 macro package expands on and extends the definitions in Plain TeX.

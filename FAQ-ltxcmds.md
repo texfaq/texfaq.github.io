@@ -1,9 +1,10 @@
 ---
-title:  The definitions of LaTeX commands
 section: Macro programming
 subsection: LaTeX macro tools and techniques
 date: 2014-06-10
 ---
+
+# The definitions of LaTeX commands
 
 There are several reasons to want to know the definitions of LaTeX
 commands: from the simplest ''idle curiosity'', to the pressing need

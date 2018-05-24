@@ -1,9 +1,10 @@
 ---
-title:  How to create a `\subsubsubsection`
 section: Adjusting the typesetting
 subsection: Document structure
 date: 2014-06-10
 ---
+
+# How to create a `\subsubsubsection`
 
 LaTeX's set of ''sections'' stops at the level of
 `\subsubsection`.  This reflects a design decision by Lamport&nbsp;&mdash;

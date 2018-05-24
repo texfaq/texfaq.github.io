@@ -1,8 +1,9 @@
 ---
-title:  Specialist mailing lists
 section: Documentation and Help
 date: 2016-08-18
 ---
+
+# Specialist mailing lists
 
 The previous question, ''[getting help](FAQ-gethelp.md)'', talked of
 the two major forums in which (La)TeX, MetaFont and MetaPost are

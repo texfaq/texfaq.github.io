@@ -1,9 +1,10 @@
 ---
-title:  Footnotes whose texts are identical
 section: How do I do&hellip;?
 subsection: Footnotes
 date: 2014-06-10
 ---
+
+# Footnotes whose texts are identical
 
 If the _same_ footnote turns up at several places within a
 document, it's often inappropriate to repeat the footnote in its

@@ -1,9 +1,10 @@
 ---
-title:  Reconstructing `bib` files
 section: Bibliographies and citations
 subsection: Creating bibliographies
 date: 2014-06-10
 ---
+
+# Reconstructing `bib` files
 
 Perhaps you've lost the `bib` file you generated your document from,
 or have been sent a document without one.  Or even, you've realised

@@ -1,9 +1,10 @@
 ---
-title:  How to create crop marks
 section: Adjusting the typesetting
 subsection: Page layout
 date: 2014-06-10
 ---
+
+# How to create crop marks
 
 If you're printing something that's eventually to be reproduced in
 significant quantities, and bound, it's conventional to print on paper

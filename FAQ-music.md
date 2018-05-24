@@ -1,9 +1,10 @@
 ---
-title:  Typesetting music in TeX
 section: Adjusting the typesetting
 subsection: Typesetting specialities
 date: 2014-06-10
 ---
+
+# Typesetting music in TeX
 
 The current best bet for music typesetting is to use
 [`musixtex`](https://ctan.org/pkg/musixtex).  [`Musixtex`](https://ctan.org/pkg/Musixtex) is a three-pass system that

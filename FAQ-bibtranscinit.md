@@ -1,9 +1,10 @@
 ---
-title:  ''Multi-letter'' initials in BibTeX
 section: Bibliographies and citations
 subsection: Creating bibliographies
 date: 2014-06-10
 ---
+
+# ''Multi-letter'' initials in BibTeX
 
 If your bibliographic style uses initials&nbsp;+ surname, you may encounter
 a problem with some transcribed names (for example, Russian ones).

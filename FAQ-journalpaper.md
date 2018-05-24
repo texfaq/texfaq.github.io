@@ -1,9 +1,10 @@
 ---
-title:  Setting papers for journals
 section: Adjusting the typesetting
 subsection: Alternative document classes
 date: 2014-06-10
 ---
+
+# Setting papers for journals
 
 Publishers of journals have a wide range of requirements for the
 presentation of papers, and while many publishers do accept electronic

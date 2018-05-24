@@ -1,9 +1,10 @@
 ---
-title:  The thickness of rules in LaTeX tables
 section: How do I do&hellip;?
 subsection: Tables, figures and diagrams
 date: 2014-06-10
 ---
+
+# The thickness of rules in LaTeX tables
 
 The rules in a LaTeX table are by default `0.4pt` thick;
 this is in fact a default built in at the lowest level, and applies to

@@ -1,9 +1,10 @@
 ---
-title:  Table of contents, etc., per chapter
 section: Adjusting the typesetting
 subsection: Tables of contents and indexes
 date: 2014-06-10
 ---
+
+# Table of contents, etc., per chapter
 
 The common style, of a ''small'' table of contents for each part,
 chapter, or even section, is supported by the [`minitoc`](https://ctan.org/pkg/minitoc)

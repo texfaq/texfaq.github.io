@@ -1,9 +1,10 @@
 ---
-title:  Typesetting epigraphs
 section: Adjusting the typesetting
 subsection: Page layout
 date: 2014-06-10
 ---
+
+# Typesetting epigraphs
 
 Epigraphs are those neat quotations that authors put at the start of
 chapters (or even at the end of chapters: Knuth puts things at the

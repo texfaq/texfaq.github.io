@@ -1,9 +1,10 @@
 ---
-title:  Big letters at the start of a paragraph
 section: Adjusting the typesetting
 subsection: Typesetting specialities
 date: 2014-06-10
 ---
+
+# Big letters at the start of a paragraph
 
 A common style of typesetting, now seldom seen except in newspapers,
 is to start a paragraph (in books, usually the first of a chapter)

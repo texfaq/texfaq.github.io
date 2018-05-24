@@ -1,8 +1,9 @@
 ---
-title:  The LaTeX project
 section: Current TeX-related projects
 date: 2018-05-24
 ---
+
+# The LaTeX project
 
 The [LaTeX project](https://www.latex-project.org/latex3/)
 is a small group of volunteers whose aim is

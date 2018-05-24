@@ -1,8 +1,9 @@
 ---
-title:  Importing graphics from ''somewhere else''
 section: Graphics
 date: 2014-06-10
 ---
+
+# Importing graphics from ''somewhere else''
 
 By default, graphics commands like `\includegraphics` look
 ''wherever TeX files are found'' for the graphic file they're being

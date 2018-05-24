@@ -1,8 +1,9 @@
 ---
-title:  What is LaTeX 2e?
 section: The Background
 date: 2014-06-10
 ---
+
+# What is LaTeX 2e?
 
 Lamport's last version of LaTeX (LaTeX 2.09, last updated in 1992)
 was superseded in 1994 by a new version (LaTeX 2e) provided by

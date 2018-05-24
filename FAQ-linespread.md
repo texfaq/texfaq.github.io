@@ -1,8 +1,9 @@
 ---
-title:  Why doesn't `\linespread` work?
 section: Common misunderstandings
 date: 2014-06-10
 ---
+
+# Why doesn't `\linespread` work?
 
 The command `\linespread{factor}` is supposed to multiply
 the current `\baselineskip` by &lsaquo;_factor_&rsaquo;; but, to all

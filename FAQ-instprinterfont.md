@@ -1,8 +1,9 @@
 ---
-title:  ''Installing'' a PostScript printer built-in font
 section: Installing (La)TeX files
 date: 2014-06-10
 ---
+
+# ''Installing'' a PostScript printer built-in font
 
 There is a ''standard'' set of fonts that has appeared in every PostScript
 printer since the second generation of the type.  These fonts

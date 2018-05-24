@@ -1,9 +1,10 @@
 ---
-title:  The style of section headings
 section: Adjusting the typesetting
 subsection: Document structure
 date: 2014-06-10
 ---
+
+# The style of section headings
 
 Suppose that the editor of your favourite journal has specified that section
 headings must be centerd, in small capitals, and subsection headings ragged 

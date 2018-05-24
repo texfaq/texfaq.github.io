@@ -1,9 +1,10 @@
 ---
-title:  Choosing a bibliography style
 section: Bibliographies and citations
 subsection: Creating citations
 date: 2014-06-10
 ---
+
+# Choosing a bibliography style
 
 A large proportion of people are satisfied with one of Patashnik's
 original ''standard'' styles, [`plain`](https://ctan.org/pkg/plain), [`unsrt`](https://ctan.org/pkg/unsrt),

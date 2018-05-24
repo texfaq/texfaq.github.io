@@ -1,9 +1,10 @@
 ---
-title:  Making labels from a counter
 section: Macro programming
 subsection: LaTeX macro programming
 date: 2014-06-10
 ---
+
+# Making labels from a counter
 
 Suppose we have a LaTeX counter, which we've defined with
 `\newcounter{foo}`.  We can increment the value of the counter

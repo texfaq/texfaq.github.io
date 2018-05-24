@@ -1,9 +1,10 @@
 ---
-title:  Cancelling `\ragged` commands
 section: Adjusting the typesetting
 subsection: Spacing of characters and lines
 date: 2014-06-10
 ---
+
+# Cancelling `\ragged` commands
 
 LaTeX provides commands `\raggedright` and `\raggedleft`, but
 none to cancel their effect.  The `\centering` command is

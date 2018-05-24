@@ -1,8 +1,9 @@
 ---
-title:  Conversion from (La)TeX to HTML
 section: Format conversions
 date: 2014-06-10
 ---
+
+# Conversion from (La)TeX to HTML
 
 TeX and LaTeX are well suited to producing electronically publishable
 documents. However, it is important to realize the difference

@@ -1,9 +1,10 @@
 ---
-title:  How to print contents of variables?
 section: Macro programming
 subsection: LaTeX macro tools and techniques
 date: 2014-06-10
 ---
+
+# How to print contents of variables?
 
 It is often useful to print out the values of variables in the log
 file or on the terminal.  Three possible ways to print out the

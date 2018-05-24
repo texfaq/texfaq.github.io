@@ -1,8 +1,9 @@
 ---
-title:  What is a DVI file?
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
+
+# What is a DVI file?
 
 ''DVI'' is supposed to be an acronym for
 DeVice-Independent, meaning that the file may be

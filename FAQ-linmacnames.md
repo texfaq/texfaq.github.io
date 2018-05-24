@@ -1,9 +1,10 @@
 ---
-title:  Non-letters in macro names
 section: Macro programming
 subsection: ''Generic'' macros and techniques
 date: 2014-06-10
 ---
+
+# Non-letters in macro names
 
 New LaTeX users are often suprised that macro definitions
 containing non-letters, such as

@@ -1,8 +1,9 @@
 ---
-title:  Limit the width of imported graphics
 section: Graphics
 date: 2014-06-10
 ---
+
+# Limit the width of imported graphics
 
 Suppose you have graphics which may or may not be able to fit within
 the width of the page; if they will fit, you want to set them at their

@@ -1,9 +1,10 @@
 ---
-title:  Line-breaking in in-line maths
 section: How do I do&hellip;?
 subsection: Mathematics
 date: 2014-06-10
 ---
+
+# Line-breaking in in-line maths
 
 TeX, by default, allows you to split a mathematical expression at
 the end of the line; it allows breaks at relational operators (like

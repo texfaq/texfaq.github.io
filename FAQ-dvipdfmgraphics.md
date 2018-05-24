@@ -1,8 +1,9 @@
 ---
-title:  Imported graphics in `dvipdfm`
 section: Graphics
 date: 2014-06-10
 ---
+
+# Imported graphics in `dvipdfm`
 
 `Dvipdfm` (and `dvipdfmx`) translates direct from
 DVI to PDF (all other available routes produce PostScript

@@ -1,8 +1,9 @@
 ---
-title:  Finding (La)TeX files
 section: Acquiring the Software
 date: 2014-06-10
 ---
+
+# Finding (La)TeX files
 
 Modern TeX distributions contain a huge array of various sorts of
 files, but sooner or later most people need to find something that's

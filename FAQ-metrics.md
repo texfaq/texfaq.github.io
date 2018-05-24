@@ -1,9 +1,10 @@
 ---
-title:  TeX font metric files for Type 1 fonts
 section: Fonts
 subsection: Adobe Type&nbsp;1 (''PostScript'') fonts
 date: 2014-06-10
 ---
+
+# TeX font metric files for Type 1 fonts
 
 Reputable font vendors such as Adobe supply metric files for each
 font, in AFM (Adobe Font Metric) form; these can be converted

@@ -1,8 +1,9 @@
 ---
-title:  Output to ''other'' printers
 section: DVI Drivers and Previewers
 date: 2014-06-10
 ---
+
+# Output to ''other'' printers
 
 In the early years of TeX, there were masses of DVI drivers
 for any (then) imaginable kind of printer, but the steam seems rather

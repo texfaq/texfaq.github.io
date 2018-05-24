@@ -1,8 +1,9 @@
 ---
-title:  No room for a new ''_thing_''
 section: The joy of TeX errors
 date: 2014-06-10
 ---
+
+# No room for a new ''_thing_''
 
 The technology available to Knuth at the time TeX was written is
 said to have been particularly poor at managing dynamic storage; as a

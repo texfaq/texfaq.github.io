@@ -1,8 +1,9 @@
 ---
-title:  How should I pronounce ''TeX''?
 section: The Background
 date: 2014-06-10
 ---
+
+# How should I pronounce ''TeX''?
 
 The ''X'' is ''really'' the Greek letter 
 Chi, and is pronounced by

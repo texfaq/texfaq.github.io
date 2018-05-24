@@ -1,9 +1,10 @@
 ---
-title:  Wide figures in two-column documents
 section: Adjusting the typesetting
 subsection: Document structure
 date: 2014-06-10
 ---
+
+# Wide figures in two-column documents
 
 Floating figures and tables ordinarily come out the same width as the
 page, but in two-column documents they're restricted to the width of

@@ -1,9 +1,10 @@
 ---
-title:  Referring to labels in other documents
 section: Adjusting the typesetting
 subsection: Labels and references
 date: 2014-06-10
 ---
+
+# Referring to labels in other documents
 
 When producing a set of inter-related documents, you'll often want to
 refer to labels in another document of the set; but LaTeX, of its

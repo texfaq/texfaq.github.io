@@ -1,9 +1,10 @@
 ---
-title:  Using Adobe Type 1 fonts with TeX
 section: Fonts
 subsection: Adobe Type&nbsp;1 (''PostScript'') fonts
 date: 2014-06-10
 ---
+
+# Using Adobe Type 1 fonts with TeX
 
 In order to use any font, TeX needs a
 _metric_ file (TFM file).  Several sets of metrics for

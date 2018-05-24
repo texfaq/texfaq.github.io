@@ -1,9 +1,10 @@
 ---
-title:  Producing presentations (including slides)
 section: Adjusting the typesetting
 subsection: Alternative document classes
 date: 2014-06-10
 ---
+
+# Producing presentations (including slides)
 
 Lamport's original LaTeX had a separate program (SliTeX) for
 producing slides; it dates from the age when color effects were

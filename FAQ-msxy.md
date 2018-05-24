@@ -1,9 +1,10 @@
 ---
-title:  Where are the `msx` and `msy` fonts?
 section: Things are Going Wrong&hellip;
 subsection: Things have ''gone away''
 date: 2014-06-10
 ---
+
+# Where are the `msx` and `msy` fonts?
 
 The `msx` and `msy` fonts were designed by the
 American Mathematical Society in the very early days of TeX, for

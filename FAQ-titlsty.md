@@ -1,9 +1,10 @@
 ---
-title:  The style of document titles
 section: Adjusting the typesetting
 subsection: Document structure
 date: 2014-06-10
 ---
+
+# The style of document titles
 
 The [`titling`](https://ctan.org/pkg/titling) package provides a number of facilities that
 permit manipulation of the appearance of a `\maketitle` command, the

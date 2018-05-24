@@ -1,8 +1,9 @@
 ---
-title:  Only one `\baselineskip` per paragraph
 section: Common misunderstandings
 date: 2014-06-10
 ---
+
+# Only one `\baselineskip` per paragraph
 
 The `\baselineskip`, which determines the space between lines, is
 not (as one might hope) a property of a line, but of a paragraph.  As

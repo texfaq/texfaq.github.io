@@ -1,8 +1,9 @@
 ---
-title:  What are encodings?
 section: Bits and pieces of (La)TeX
 date: 2014-06-10
 ---
+
+# What are encodings?
 
 Let's start by defining two concepts, the _character_ and the
 _glyph_.

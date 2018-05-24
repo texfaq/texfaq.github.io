@@ -1,9 +1,10 @@
 ---
-title:  Putting things at fixed positions on the page
 section: Adjusting the typesetting
 subsection: Page layout
 date: 2014-06-10
 ---
+
+# Putting things at fixed positions on the page
 
 TeX's model of the world is (broadly speaking) that the author
 writes text, and TeX and its macros decide how it all fits on the

@@ -1,8 +1,9 @@
 ---
-title:  XeTeX
 section: Current TeX-related projects
 date: 2014-06-10
 ---
+
+# XeTeX
 
 [XeTeX](http://scripts.sil.org/xetex), by Jonathan Kew, is a
 successor to the shareware TeX/GX program for Macintoshes.  It was

@@ -1,8 +1,9 @@
 ---
-title:  The (CTAN) catalogue
 section: The Background
 date: 2014-06-10
 ---
+
+# The (CTAN) catalogue
 
 Finding stuff on networks used always to be difficult, but in recent years,
 search engines have become amazingly good at digging out unconsidered

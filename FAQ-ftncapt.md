@@ -1,9 +1,10 @@
 ---
-title:  Footnotes in captions
 section: How do I do&hellip;?
 subsection: Footnotes
 date: 2014-06-10
 ---
+
+# Footnotes in captions
 
 Footnotes in captions are especially tricky: they present problems of
 their own, on top of the problems one experiences with

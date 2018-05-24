@@ -1,9 +1,10 @@
 ---
-title:  Replacing the standard classes
 section: Adjusting the typesetting
 subsection: Alternative document classes
 date: 2014-06-10
 ---
+
+# Replacing the standard classes
 
 People are forever concocting classes that replace the standard ones:
 the present author produced an [`ukart`](https://ctan.org/pkg/ukart) class that used the

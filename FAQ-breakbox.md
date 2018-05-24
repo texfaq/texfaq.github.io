@@ -1,9 +1,10 @@
 ---
-title:  Breaking boxes of text
 section: Adjusting the typesetting
 subsection: Typesetting specialities
 date: 2014-06-10
 ---
+
+# Breaking boxes of text
 
 (La)TeX boxes may not be broken, in ordinary usage: once you've
 typeset something into a box, it will stay there, and the box will jut

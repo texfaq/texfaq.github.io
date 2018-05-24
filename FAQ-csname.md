@@ -1,9 +1,10 @@
 ---
-title:  Defining a macro from an argument
 section: Macro programming
 subsection: ''Generic'' macros and techniques
 date: 2014-06-10
 ---
+
+# Defining a macro from an argument
 
 It's common to want a command to create another command: often one
 wants the new command's name to derive from an argument.  LaTeX

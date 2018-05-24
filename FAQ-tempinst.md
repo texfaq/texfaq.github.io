@@ -1,8 +1,9 @@
 ---
-title:  ''Temporary'' installation of (La)TeX files
 section: Installing (La)TeX files
 date: 2014-06-10
 ---
+
+# ''Temporary'' installation of (La)TeX files
 
 Operating systems and applications need to know where to find files:
 many files that they need are ''just named''&nbsp;&mdash; the user doesn't

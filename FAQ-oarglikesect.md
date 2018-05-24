@@ -1,9 +1,10 @@
 ---
-title:  Optional arguments like `\section`
 section: Macro programming
 subsection: LaTeX macro tools and techniques
 date: 2014-06-10
 ---
+
+# Optional arguments like `\section`
 
 Optional arguments, in macros defined using `\newcommand`, don't
 quite work like the optional argument to `\section`.  The default
@@ -20,7 +21,9 @@ The requisite trick is to use a macro in the optional argument:
   optional arg: #1,  mandatory arg: #2%
 }
 \begin{document}
-\thing{manda}% \thing[opti]{manda}% #1="opti"
+\thing{manda}% #1=#2
+
+\thing[opti]{manda}% #1="opti"
 \end{document}
 ```
 <!-- {% endraw %} -->

@@ -1,8 +1,9 @@
 ---
-title:  `\normalsize` not defined
 section: The joy of TeX errors
 date: 2014-06-10
 ---
+
+# `\normalsize` not defined
 
 The LaTeX error:
 ```latex

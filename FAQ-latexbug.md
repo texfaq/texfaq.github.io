@@ -1,8 +1,9 @@
 ---
-title:  Reporting a LaTeX bug
 section: You're still stuck?
 date: 2018-05-23
 ---
+
+# Reporting a LaTeX bug
 
 The LaTeX team supports LaTeX, and will deal with
 _bona fide_ bug reports.  Note that the LaTeX team does

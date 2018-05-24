@@ -1,8 +1,9 @@
 ---
-title:  Not in outer par mode
 section: The joy of TeX errors
 date: 2014-06-10
 ---
+
+# Not in outer par mode
 
 For example:
 ```latex

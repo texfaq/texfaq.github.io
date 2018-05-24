@@ -1,8 +1,9 @@
 ---
-title:  Contributing a file to the archives
 section: Acquiring the Software
 date: 2014-06-10
 ---
+
+# Contributing a file to the archives
 
 You have something to submit to the archive&nbsp;&mdash; good news!
 

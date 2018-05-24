@@ -1,8 +1,9 @@
 ---
-title:  Where can I find the symbol for &hellip;
 section: Documentation and Help
 date: 2014-06-10
 ---
+
+# Where can I find the symbol for &hellip;
 
 There is a wide range of symbols available for use with TeX, most
 of which are not shown (or even mentioned) in (La)TeX books.

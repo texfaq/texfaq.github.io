@@ -1,8 +1,9 @@
 ---
-title:  Conversion from (La)TeX to plain text
 section: Format conversions
 date: 2014-06-10
 ---
+
+# Conversion from (La)TeX to plain text
 
 The aim here is to emulate the Unix `nroff`, which formats
 text as best it can for the screen, from the same

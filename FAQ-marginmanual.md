@@ -1,9 +1,10 @@
 ---
-title:  How to set up page layout ''by hand''
 section: Adjusting the typesetting
 subsection: Page layout
 date: 2014-06-10
 ---
+
+# How to set up page layout ''by hand''
 
 So you're eager to do it yourself, notwithstanding the cautions
   outlined in ''[changing margins](FAQ-changemargin.md)''.

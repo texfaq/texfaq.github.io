@@ -1,9 +1,10 @@
 ---
-title:  Including Plain TeX files in LaTeX
 section: How do I do&hellip;?
 subsection: Document management
 date: 2014-06-10
 ---
+
+# Including Plain TeX files in LaTeX
 
 LaTeX, though originally [based on Plain TeX](FAQ-LaTeXandPlain.md), does not
 contain all of Plain TeX's commands.  Worse, some Plain TeX

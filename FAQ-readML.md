@@ -1,8 +1,9 @@
 ---
-title:  Using TeX to read SGML or XML directly
 section: Format conversions
 date: 2014-06-10
 ---
+
+# Using TeX to read SGML or XML directly
 
 [Context (mark IV)](FAQ-context.md) can process some
 *ML, to produce typeset output directly.  Details of what can

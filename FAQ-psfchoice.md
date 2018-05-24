@@ -1,9 +1,10 @@
 ---
-title:  Choice of Type&nbsp;1 fonts for typesetting Maths
 section: Fonts
 subsection: Adobe Type&nbsp;1 (''PostScript'') fonts
 date: 2014-06-10
 ---
+
+# Choice of Type&nbsp;1 fonts for typesetting Maths
 
 If you are interested in text alone, you can in principle use any of
 the huge numbers of text fonts in Adobe Type&nbsp;1, TrueType or OpenType

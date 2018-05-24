@@ -1,9 +1,10 @@
 ---
-title:  Table of contents rearranges ''[`unsrt`](https://ctan.org/pkg/unsrt)'' ordering
 section: Bibliographies and citations
 subsection: Creating citations
 date: 2014-06-10
 ---
+
+# Table of contents rearranges ''[`unsrt`](https://ctan.org/pkg/unsrt)'' ordering
 
 If you're using the [`unsrt`](https://ctan.org/pkg/unsrt) bibliography style, you're
 expecting that your bibliography will _not_ be sorted, but that

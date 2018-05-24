@@ -1,8 +1,9 @@
 ---
-title:  pdfTeX and LuaTeX
 section: Current TeX-related projects
 date: 2014-06-10
 ---
+
+# pdfTeX and LuaTeX
 
 Elsewhere in these FAQs, we learn that development of
 [pdfTeX](FAQ-whatpdftex.md) is ''in essence'' complete&nbsp;&mdash; no new

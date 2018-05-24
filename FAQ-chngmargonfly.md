@@ -1,9 +1,10 @@
 ---
-title:  Changing margins ''on the fly''
 section: Adjusting the typesetting
 subsection: Page layout
 date: 2014-06-10
 ---
+
+# Changing margins ''on the fly''
 
 One of the surprises characteristic of TeX use is that you cannot
 change the width or height of the text within the document, simply by

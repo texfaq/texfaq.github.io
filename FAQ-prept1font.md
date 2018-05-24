@@ -1,8 +1,9 @@
 ---
-title:  Preparing a Type&nbsp;1 font
 section: Installing (La)TeX files
 date: 2014-06-10
 ---
+
+# Preparing a Type&nbsp;1 font
 
 The process of installing a Type&nbsp;1 font set is rather convoluted, and
 we will deal with it in two chunks: first (in the present answer)

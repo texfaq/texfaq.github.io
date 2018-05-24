@@ -1,9 +1,10 @@
 ---
-title:  Adobe `Reader` messing with print size
 section: Adjusting the typesetting
 subsection: Page layout
 date: 2014-06-10
 ---
+
+# Adobe `Reader` messing with print size
 
 Printing from Adobe `Reader` shrinks the page ''to fit''
 (_by default_).  Unfortunately, its calculation doesn't consider

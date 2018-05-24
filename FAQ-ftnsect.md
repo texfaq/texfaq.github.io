@@ -1,9 +1,10 @@
 ---
-title:  Footnotes in LaTeX section headings
 section: How do I do&hellip;?
 subsection: Footnotes
 date: 2014-06-10
 ---
+
+# Footnotes in LaTeX section headings
 
 The `\footnote` command is fragile, so that simply placing the
 command in `\section`s arguments isn't satisfactory.  Using

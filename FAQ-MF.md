@@ -1,8 +1,9 @@
 ---
-title:  What is MetaFont?
 section: The Background
 date: 2014-06-10
 ---
+
+# What is MetaFont?
 
 MetaFont was written by Knuth as a companion to TeX; whereas TeX
 defines the layout of glyphs on a page, MetaFont defines the shapes of
