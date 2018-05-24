@@ -8,9 +8,15 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## 2018-05-24
 
+### Added
+- Q-alternatives: New description of some non-TeX systems
+
 ### Changed
 - Q-bug: Karl Berry now collects TeX bugs
 - Q-LaTeX3: Revised to reflect new GitHub-based workflow and website changes
+
+### Removed
+- Q-ant: Text used as part of new Q-alternatives, with a redirect in place
 
 ## 2018-05-23
 
