@@ -77,8 +77,8 @@ course at his university.
 
 
 Mark van Dongen's 
-['LaTeX and friends'](http://csweb.ucc.ie/~dongen/LaTeX-and-Friends.pdf)
-appeared as he was writing his book on the subject (soon to be published).
+['LaTeX and friends'](http://csweb.ucc.ie/~dongen/LAF/LAF.html)
+appeared as he was writing his book on the subject.
 
 
 An interesting (and practical) tutorial about what _not_ to do is

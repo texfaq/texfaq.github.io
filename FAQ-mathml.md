@@ -98,7 +98,7 @@ support for new Web standards.
 
   Browser plug-ins, that deal with SVG are already available
   (Adobe offer one, for example).  More recently, the open source
-  graphics editor [`Inkscape`](http://www.inkscape.org/)
+  graphics editor [`Inkscape`](https://inkscape.org/en/)
   has appeared, and has been reported to be useful for
   SVG-related work in at least one TeX-related project.  Be
   aware that the developers of `Inkscape` have no illusions
@@ -107,9 +107,9 @@ support for new Web standards.
   Some time back, IBM developed a browser plug-in called
   TechExplorer, which would display (La)TeX documents direct in a
   browser.  Over the years, it developed into a MathML browser
-  plug-in, while still retaining its (La)TeX abilities, but it's now
+  plug-in, while still retaining its (La)TeX abilities, and was
   distributed (free for Linux and Windows platforms) by
-  [Integre Technical Publishing](http://www.integretechpub.com/).
+  Integre Technical Publishing.
 
   The disadvantage of the TechExplorer approach is that it places the
   onus on the browser user; and however technically proficient

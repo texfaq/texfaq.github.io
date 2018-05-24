@@ -11,7 +11,7 @@ macros are freely available; however, the
 PicTeX manual itself is not free.
 Unfortunately, TUG is no longer able to supply copies of the
 manual (as it once did), and it is now available only through [Personal
-TeX Inc](http://www.pctex.com/), the vendors of PCTeX.  The
+TeX Inc](https://pctex.com/), the vendors of PCTeX.  The
 manual is _not_ available electronically.
 
 However, there _is_ a summary of PicTeX commands available on

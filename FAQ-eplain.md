@@ -48,7 +48,7 @@ known to work with Eplain:  [`graphics`](https://ctan.org/pkg/graphics), [`graph
 [`color`](https://ctan.org/pkg/color), [`autopict`](https://ctan.org/pkg/autopict) (LaTeX picture environment),
 [`psfrag`](https://ctan.org/pkg/psfrag), and [`url`](https://ctan.org/pkg/url).
 
-[Eplain documentation](http://tug.org/docs/html/eplain) is
+[Eplain documentation](https://www.tug.org/eplain/doc/eplain.html) is
 available online (there's a PDF copy in the CTAN
 package as well), and there's also a mailing list&nbsp;&mdash; sign up, or
 browse the list archives, via

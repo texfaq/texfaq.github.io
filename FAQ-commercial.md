@@ -54,7 +54,7 @@ also have email, and normal telephone and fax support.
 
     Email: <a href="mailto:sales@pctex.com">sales@pctex.com</a>
 
-    Web: [http://www.pctex.com/](http://www.pctex.com/)
+    Web: [https://pctex.com/](https://pctex.com/)
   Source: Personal TeX Inc web site, December 2004
 - PC; Scientific Word Scientific Word and Scientific Workplace
   offer a mechanism for near-WYSIWYG input of LaTeX documents; they

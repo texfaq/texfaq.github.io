@@ -6,7 +6,7 @@ date: 2014-06-10
 # What is TeX?
 
 TeX is a typesetting system written by
-[Donald E. Knuth](http://sunburn.stanford.edu/~knuth/), who
+[Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/), who
 says in the Preface to his book on TeX
 (see [books about TeX](FAQ-tex-books.md)) that it is
 ''_intended for the creation of beautiful books&nbsp;&mdash;_
