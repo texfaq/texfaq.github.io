@@ -1,5 +1,5 @@
 ---
-section: Current TeX-related projects
+section: The Background
 permalink: /FAQ-xetex.html
 date: 2014-06-10
 ---

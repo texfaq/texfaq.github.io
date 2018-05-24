@@ -13,6 +13,8 @@
 - [How can I be sure it's really TeX?](FAQ-triptrap.md)
 - [What is &epsilon;-TeX?](FAQ-etex.md)
 - [What is pdfTeX?](FAQ-pdftex.md)
+- [What is XeTeX?](FAQ-xetex.md)
+- [What is LuaTeX?](FAQ-luatex.md)
 - [What is LaTeX?](FAQ-latex.md)
 - [What is LaTeX2e?](FAQ-latex2e.md)
 - [How should I pronounce ''LaTeX(2<sub>&epsilon;</sub>)''?](FAQ-latexpronounce.md)
@@ -566,8 +568,6 @@
 - [Future WWW technologies and (La)TeX](FAQ-mathml.md)
 - [Making outline fonts from MetaFont](FAQ-textrace.md)
 - [The TeX document preparation environment](FAQ-WYGexpts.md)
-- [XeTeX](FAQ-xetex.md)
-- [pdfTeX and LuaTeX](FAQ-luatex.md)
 - [Replacing the BibTeX&ndash;LaTeX mechanism](FAQ-biblatex.md)
 - [Alternatives to TeX](FAQ-alternatives.md)
 
