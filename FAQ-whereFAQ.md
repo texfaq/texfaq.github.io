@@ -35,7 +35,7 @@ extensions appropriate to their languages.
 
 The Open Directory Project (ODP) maintains a list of sources of
 (La)TeX help, including FAQs.  View the TeX area at
-[dmoz.org](http://dmoz.org/Computers/Software/Typesetting/TeX/)
+[dmoztools.net](https://www.dmoztools.net/Computers/Software/Typesetting/TeX/)
 
 Other non-English FAQs are available (off-CTAN):
 

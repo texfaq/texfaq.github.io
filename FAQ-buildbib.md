@@ -57,7 +57,7 @@ in this endeavour:
     [`RefDB`](http://refdb.sourceforge.net/),
     [BibORB](http://www.nongnu.org/biborb),
     [`BibDesk`](http://bibdesk.sourceforge.net/),
-    [`pybliographer`](http://pybliographer.org) and the
+    [`pybliographer`](https://pybliographer.org) and the
     `Java`-based
     [`Bibkeeper`](http://freshmeat.net/projects/bibkeeper/)
     and [`JabRef`](http://jabref.sourceforge.net) (which

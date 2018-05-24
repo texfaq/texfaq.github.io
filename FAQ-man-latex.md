@@ -38,12 +38,9 @@ interest to those writing documents containing mathematics.
 
 
 Edith Hodgen's 
-[LaTeX, a Braindump](http://www.mcs.vuw.ac.nz/~david/latex/notes.pdf)
+[LaTeX, a Braindump (Internet Archive)](https://web.archive.org/web/20081014015530/http://homepages.mcs.vuw.ac.nz/~david/latex/notes.pdf)
 starts you from the ground up&nbsp;&mdash; giving a basic tutorial in the use
 of `Linux` to get you going (rather a large file&hellip;).
-Its parent site, David Friggens' 
-[documentation page](http://www.mcs.vuw.ac.nz/~david/latex/) is a
-useful collection of links in itself.
 
 
 [Andy Roberts' introductory material](http://www.andy-roberts.net/misc/latex/)
