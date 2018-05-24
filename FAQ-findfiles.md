@@ -35,11 +35,6 @@ Otherwise, CTAN provides a full-text search, at its
 topic- and author-based indexes and a link to browse the archive
 itself.
 
-An alternative way to scan the catalogue is to use the catalogue's
-[''by topic'' index](http://mirrors.ctan.org/help/Catalogue/bytopic.html);
-this is an older mechanism than the topic-based search (above), but is
-well presented (even though its data has not been updated for some time).  
-
 In fact, `Google`, and other search engines, can be useful
 tools.  Enter your search keywords, and you may pick up a package that
 the author hasn't bothered to submit to CTAN.

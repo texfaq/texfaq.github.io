@@ -12,7 +12,7 @@ have the same set of auxiliary files, as well as the document in
 question.  Your correspondent obviously needs the same set of files
 (if you use the [`url`](https://ctan.org/pkg/url) package, she has to have [`url`](https://ctan.org/pkg/url)
 too, for example).  But suppose you have a bug-free version of the
-[`shinynew`](https://ctan.org/pkg/shinynew) package but her copy is still the unstable
+`shinynew` package but her copy is still the unstable
 original; until you both realise what is happening, such a situation
 can be very confusing.
 

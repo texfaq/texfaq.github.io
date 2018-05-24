@@ -24,7 +24,7 @@ of drawing, and setup, here are a few systems you may consider:
     `picture` environment somewhat less agonising;
     [`eepic`](https://ctan.org/pkg/eepic) extends it, and is capable of using `tpic`
     `\special` commands to improve printing performance.  (If the
-    `\special`s aren't available, the [`eepicemu`](https://ctan.org/pkg/eepicemu) will do the
+    `\special`s aren't available, the [`eepicemu`](https://ctan.org/pkg/eepic) will do the
     business, far less efficiently.
 -  [`pict2e`](https://ctan.org/pkg/pict2e); this was advertised in 
     [the LaTeX manual](FAQ-latex-books.md), but didn't appear for nearly

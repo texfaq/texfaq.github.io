@@ -6,14 +6,14 @@ date: 2014-06-10
 
 # Balancing columns at the end of a document
 
-The [`twocolumn`](https://ctan.org/pkg/twocolumn) option of the standard classes causes
+The `twocolumn` option of the standard classes causes
 LaTeX to set the text of a document in two columns.  However, the last
 page of the document typically ends up with columns of different
 lengths&nbsp;&mdash; such columns are said to be ''unbalanced''.  Many (most?)
 people don't like unbalanced columns.
 
 The simplest solution to the problem is to use the [`multicol`](https://ctan.org/pkg/multicol)
-package in place of the [`twocolumn`](https://ctan.org/pkg/twocolumn) option, as
+package in place of the `twocolumn` option, as
 [`multicol`](https://ctan.org/pkg/multicol) balances the columns on the final page by default.
 However, the use of [`multicol`](https://ctan.org/pkg/multicol) does come at a cost: its
 special output routine disallows the use of in-column floats, though
@@ -21,7 +21,7 @@ it does still permit full-width (e.g., `figure*`
 environment) floats. 
 
 As a result, there is a constant push for a means of balancing columns
-at the end of a [`twocolumn`](https://ctan.org/pkg/twocolumn) document.  Of course, the job can
+at the end of a `twocolumn` document.  Of course, the job can
 be done manually: `\pagebreak` inserted at the appropriate place on
 the last page can often produce the right effect, but this seldom
 appeals, and if the last page is made up of automatically-generated

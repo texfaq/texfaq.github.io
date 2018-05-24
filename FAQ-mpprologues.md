@@ -67,7 +67,7 @@ procedure may be automated using the `Perl` script
 
 The Plain TeX user may use an adaptation, by
 Dan Luecking, of a jiffy of Knuth's.  Dan's version
-[`mpsproof.tex`](https://ctan.org/pkg/mpsproof.tex) will work under
+[`mpsproof.tex`](https://ctan.org/pkg/obsolete) will work under
 TeX to produce a DVI file for use with `dvips`, or
 under pdfTeX to produce a PDF file, direct.  The output is
 set up to look like a proof sheet.

@@ -41,10 +41,10 @@ front matter.
 Packages in the [`algorithmicx`](https://ctan.org/pkg/algorithmicx) bundle are similar both in
 concept and output form to [`algorithmic`](https://ctan.org/pkg/algorithms) but additionally
 provide support for adding new keywords and altering the formatting.
-It provides the [`algpseudocode`](https://ctan.org/pkg/algpseudocode) package which is (almost) a
+It provides the [`algpseudocode`](https://ctan.org/pkg/algorithmicx) package which is (almost) a
 drop-in replacement for [`algorithmic`](https://ctan.org/pkg/algorithms).  Another package in the
 bundle, [`algpascal`](https://ctan.org/pkg/algorithms), uses Pascal-like keywords, indents
-differently from [`algpseudocode`](https://ctan.org/pkg/algpseudocode), and puts command arguments
+differently from [`algpseudocode`](https://ctan.org/pkg/algorithmicx), and puts command arguments
 in maths mode instead of text mode.  There is no floating environment
 but [`algorithmicx`](https://ctan.org/pkg/algorithmicx), like [`algorithmic`](https://ctan.org/pkg/algorithms), is compatible
 with the [`algorithm`](https://ctan.org/pkg/algorithms) package.  (There have been reports of
@@ -70,7 +70,7 @@ this is the package as used in the second edition of the book.
 
 Similarly, the style of 
 ''_Combinatorial Algorithms: Generation, Enumeration and Search_''
-is supported by the [`pseudocode`](https://ctan.org/pkg/pseudocode) package, written by the
+is supported by the [`pseudocode`](https://ctan.org/pkg/algorithmicx) package, written by the
 authors of the book.  It has the common ''Pascal-like'' style, and has
 some interesting constructs for what one thinks of as Pascal blocks.
 

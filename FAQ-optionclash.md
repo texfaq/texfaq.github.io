@@ -36,7 +36,7 @@ error message tells you which options were loaded each time.
 Otherwise, it's down to the log analysis games discussed in 
 ''[How to approach errors](FAQ-erroradvice.md)''; the trick to remember
 is that that the process of loading each file is parenthesised in the
-log; so if package [`foo`](https://ctan.org/pkg/foo) loads [`graphics`](https://ctan.org/pkg/graphics), the log
+log; so if package `foo` loads [`graphics`](https://ctan.org/pkg/graphics), the log
 will contain something like:
 ```latex
 (<path>/foo.sty ...
@@ -47,13 +47,13 @@ will contain something like:
 )
 ```
 (the parentheses for [`graphics`](https://ctan.org/pkg/graphics) are completely enclosed in
-those for [`foo`](https://ctan.org/pkg/foo); the same is of course true if your class
-[`bar`](https://ctan.org/pkg/bar) is the culprit, except that the line will start with the
+those for `foo`; the same is of course true if your class
+`bar` is the culprit, except that the line will start with the
 path to `bar.cls`).
 
 If we're dealing with a package that loads the package you are
 interested in, you need to ask LaTeX to slip in options when
-[`foo`](https://ctan.org/pkg/foo) loads it.  Instead of:
+`foo` loads it.  Instead of:
 `\usepackage{foo}`
 
 `\usepackage[draft]{graphics}`
@@ -79,7 +79,7 @@ you would write:
 with `\PassOptionsToPackage` _before_ the `\documentclass`
 command.
 
-However, if the [`foo`](https://ctan.org/pkg/foo) package or the [`bar`](https://ctan.org/pkg/bar) class loads
+However, if the `foo` package or the `bar` class loads
 [`graphics`](https://ctan.org/pkg/graphics) with an option of its own that clashes with
 what you need in some way, you're stymied.  For example:
 `\PassOptionsToPackage{draft}{graphics}`

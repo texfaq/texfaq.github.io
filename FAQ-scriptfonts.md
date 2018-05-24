@@ -9,7 +9,7 @@ The font selected by `\mathcal` is the only script font ''built
 in''. However, there are other useful calligraphic fonts included with
 modern TeX distributions.
 
-- Euler The [`eucal`](https://ctan.org/pkg/eucal) package (part of most sensible TeX
+- Euler The [`eucal`](https://ctan.org/pkg/amsfonts) package (part of most sensible TeX
   distributions; the fonts are part of the AMS font set) gives
   a slightly curlier font than the default. The package changes the
   font that is selected by `\mathcal`.

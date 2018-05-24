@@ -42,9 +42,9 @@ problem with the following ''grubby little patch'', on
 Fortunately, that patch has now been incorporated in a small package
 [`nonumonpart`](https://ctan.org/pkg/nonumonpart) (a difficult name&hellip;)
 
-Both the [`KOMA-script`](https://ctan.org/pkg/KOMA-script) classes and [`memoir`](https://ctan.org/pkg/memoir) have separate
+Both the [`KOMA-script`](https://ctan.org/pkg/koma-script) classes and [`memoir`](https://ctan.org/pkg/memoir) have separate
 page styles for the styles of various ''special'' pages, so, in a
-[`KOMA`](https://ctan.org/pkg/KOMA) class document one might say:
+[`KOMA`](https://ctan.org/pkg/koma-script) class document one might say:
 ```latex
 \renewcommand*{\titlepagestyle}{empty}
 ```

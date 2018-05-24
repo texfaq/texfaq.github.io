@@ -18,10 +18,10 @@ changed much over all that time, is the [`ntgclass`](https://ctan.org/pkg/ntgcla
 Each of the standard classes is replaced by a selection of classes,
 named in Dutch, sometimes with a single numeric digit attached.  So we
 have classes [`artikel2`](https://ctan.org/pkg/ntgclass), [`rapport1`](https://ctan.org/pkg/ntgclass), [`boek3`](https://ctan.org/pkg/ntgclass) and
-[`brief`](https://ctan.org/pkg/brief).  These classes are moderately well documented in
+[`brief`](https://ctan.org/pkg/ntgclass).  These classes are moderately well documented in
 English.
 
-The [`KOMA-script`](https://ctan.org/pkg/KOMA-script) bundle (classes named [`scr...`](https://ctan.org/pkg/scrartcl)) are a
+The [`KOMA-script`](https://ctan.org/pkg/koma-script) bundle (classes named [`scr...`](https://ctan.org/pkg/scrartcl)) are a
 strong current contender.  They are actively supported and are subject
 to sensitive development; they are comprehensive in their coverage of
 significant typesetting issues; they produce good-looking output and

@@ -26,7 +26,7 @@ The advent of Microsoft `PowerPoint` (feeble though early
 versions of it were) has created a demand for ''dynamic'' slides&nbsp;&mdash;
 images that develop their content in a more elaborate fashion than by
 merely replacing one foil with the next in the way that was the norm
-when [`slides`](https://ctan.org/pkg/slides), [`foils`](https://ctan.org/pkg/foils) and [`seminar`](https://ctan.org/pkg/seminar) were designed.
+when [`slides`](https://ctan.org/pkg/slides), [`foils`](https://ctan.org/pkg/foiltex) and [`seminar`](https://ctan.org/pkg/seminar) were designed.
 
 The [`prosper`](https://ctan.org/pkg/prosper) class builds on [`seminar`](https://ctan.org/pkg/seminar) to provide dynamic
 effects and the like; it retains the ability to provide PDF for

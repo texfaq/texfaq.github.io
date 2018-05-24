@@ -426,7 +426,7 @@ working on them, and several problems have been identified:
   The `txfontsb` bundles `txfonts`, extended to
   provide a Small Caps set, Old-Style numbers and Greek text (from the
   GNU Freefont set).
-  [Documentation](https://mirrors.ctan.org/fonts/txfontsb/doc/txfontsb.pdf)
+  [Documentation](https://ctan.org/pkg/txfontsb)
   is available for this variant, too.
 
 - Newtxby Michael Sharpe from Young Ryu's `txfonts`

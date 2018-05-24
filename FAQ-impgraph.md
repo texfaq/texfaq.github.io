@@ -39,7 +39,7 @@ made this step: it is strongly preferred for all current work.
 
 Users of Plain TeX have two options allowing them to use
 [`graphicx`](https://ctan.org/pkg/graphicx): the [`miniltx`](https://ctan.org/pkg/miniltx) ''LaTeX emulator'' and
-the [`graphicx.tex`](https://ctan.org/pkg/graphicx.tex) front-end allow you to load
+the [`graphicx.tex`](https://ctan.org/pkg/graphics-pln) front-end allow you to load
 [`graphicx`](https://ctan.org/pkg/graphicx), and [Eplain](FAQ-eplain.md) allows you to load
 it (using the full LaTeX syntax) direct.
 

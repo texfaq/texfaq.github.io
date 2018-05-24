@@ -54,7 +54,7 @@ on the first load.
 Fortunately, the error (in that sort of case) is easily curable
 once you've examined the preamble of your document.
 
-Now, suppose package [`foo`](https://ctan.org/pkg/foo) loads [`bar`](https://ctan.org/pkg/bar) with option
+Now, suppose package `foo` loads `bar` with option
 `b`, and your document says:
 ```latex
 \usepackage{foo}
@@ -68,7 +68,7 @@ or
 \usepackage{foo}
 ```
 the error will be detected, even though you have only explicitly
-loaded [`bar`](https://ctan.org/pkg/bar) once.  Debugging such errors is tricky: it may
+loaded `bar` once.  Debugging such errors is tricky: it may
 involve reading the logs (to spot which packages were called), or the
-documentation of package [`foo`](https://ctan.org/pkg/foo).
+documentation of package `foo`.
 

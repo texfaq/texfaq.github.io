@@ -15,7 +15,7 @@ However, there are some 'resources':
     [blog posts](http://www.texdev.net/index.php?s=programming+latex3),
     which may help.
 -  There is also a complete command reference in the
-    [`interface3`](https://ctan.org/pkg/interface3) document.
+    [`interface3`](https://ctan.org/pkg/l3kernel) document.
 
 
 

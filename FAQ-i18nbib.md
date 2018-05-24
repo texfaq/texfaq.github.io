@@ -36,8 +36,8 @@ of the ''general'' problem are available&nbsp;&mdash; that offered by
 [`babelbib`](https://ctan.org/pkg/babelbib), and the 
 [[`custom-bib`](https://ctan.org/pkg/custom-bib) mechanism for generating styles](FAQ-custbib.md).
 
-[`Babelbib`](https://ctan.org/pkg/Babelbib) (which is a development of the ideas of the
-[`bibgerm`](https://ctan.org/pkg/bibgerm) package) co-operates with [`babel`](https://ctan.org/pkg/babel) to control
+[`Babelbib`](https://ctan.org/pkg/babelbib) (which is a development of the ideas of the
+[`bibgerm`](https://ctan.org/pkg/germbib) package) co-operates with [`babel`](https://ctan.org/pkg/babel) to control
 the language of presentation of citations (potentially at the level of
 individual items).  The package has a built-in set of languages it
 ''knows about'', but the documentation includes instructions on defining
