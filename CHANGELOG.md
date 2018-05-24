@@ -17,7 +17,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 - Q-LaTeX3: Revised to reflect new GitHub-based workflow and website changes
 
 ### Removed
-- Q-ant: Text used as part of new Q-alternatives, with a redirect in place
+- Q-ant: Incorporated into Q-alternatives
 - Q-omegaleph: Incorporated into Q-enginedev
 
 ## 2018-05-23
