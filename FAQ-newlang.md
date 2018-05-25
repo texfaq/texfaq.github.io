@@ -49,7 +49,7 @@ of Babel are using it in their LaTeX documents, so regenerating the
 LaTeX-related formats will ordinarily be enough; however, the
 author always generates the lot, regardless).
 
-- teTeXIt's possible to do the whole operation in one go, by
+- teTeX It's possible to do the whole operation in one go, by
   using the `texconfig` command:
 ```latex
 texconfig hyphen latex

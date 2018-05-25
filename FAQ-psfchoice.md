@@ -87,7 +87,7 @@ Users should also consider the possibilities of typesetting
   the ConTeXt of New Century Schoolbook text fonts.
 
 
-- KP-fontsThe Johannes Kepler project
+- KP-fonts The Johannes Kepler project
 
   The `kp-fonts` family provides a comprehensive set of text
   and maths fonts.  The set includes replacement fixed-width and sans
@@ -287,7 +287,7 @@ commercially, include:
   ancestor of the LucidaBright plus LucidaNewMath font set, which are
   not currently available.)
 
-- MathTime Pro2Publish or Perish (Michael Spivak)
+- MathTime Pro2 Publish or Perish (Michael Spivak)
 
   This latest instance of the MathTime family covers all the weights
   (medium, bold and heavy) and symbols of previous versions of
@@ -311,7 +311,7 @@ commercially, include:
   `Minion Pro`, but a separate (free) font set
   `MnSymbol` greatly extends the symbol coverage.
 
-- PA Math PA&nbsp;Math is a family of serif fonts
+- PA Math  is a family of serif fonts
   loosely based on the Palatino (TM) typeface.  PA&nbsp;Math
   comprises the fonts necessary for mathematical typesetting (maths
   italics, maths, calligraphic and oldstyle symbols, and extensions)
@@ -440,7 +440,7 @@ working on them, and several problems have been identified:
 
 Finally, one must not forget:
 
-- Proprietary fontsVarious sources.
+- Proprietary fonts Various sources.
 
   Since having a high quality font set in scalable outline form that
   works with TeX can give a publisher a real competitive advantage,

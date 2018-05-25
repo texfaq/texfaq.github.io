@@ -6,7 +6,7 @@ date: 2014-06-10
 
 # Other conversions to and from (La)TeX
 
-- troff`Tr2latex`, assists in the translation of a
+- troff `Tr2latex`, assists in the translation of a
   `troff` document into LaTeX 2.09 format.  It recognises most
   `-ms` and `-man` macros, plus most `eqn` and some
   `tbl` preprocessor commands.  Anything fancier needs to be
@@ -52,7 +52,7 @@ date: 2014-06-10
   format, which may be used as an intermediate to producing Word
   format files.
 
-  `Word2`_TeX_ and _TeX_`2Word` are 
+  `Word2TeX`  and `TeX2Word` are 
   shareware translators from 
   [Chikrii Softlab](https://www.chikrii.com/); positive users'
   reports have been noted (but not recently).

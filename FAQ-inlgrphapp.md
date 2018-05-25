@@ -28,18 +28,18 @@ Some of the free-standing graphics applications may also be used
    asy document-*.asy
    latex document
     ```
-- egplotAllows you to incorporate `GNUplot`
+- egplot Allows you to incorporate `GNUplot`
   instructions in your document, for processing outside of LaTeX.
   The package provides commands that enable the user to do calculation
   in `GNUplot`, feeding the results into the diagram
   to be drawn.
-- gmpAllows you to include the source of MetaPost diagrams, with
+- gmp Allows you to include the source of MetaPost diagrams, with
   parameters of the diagram passed from the environment call.
-- empAn earlier package providing facilities similar to those of
+- emp An earlier package providing facilities similar to those of
   [`gmp`](https://ctan.org/pkg/gmp) ([`gmp`](https://ctan.org/pkg/gmp)'s author hopes that his package will
   support the facilities [`emp`](https://ctan.org/pkg/emp), which he believes is in need
   of update.)
-- mpgraphicsAgain, allows you to program parameters of MetaPost
+- mpgraphics Again, allows you to program parameters of MetaPost
   diagrams from your LaTeX document, including the preamble details
   of the LaTeX code in any recursive call from MetaPost.
 

@@ -32,7 +32,7 @@ browsing may be brighter&nbsp;&mdash; see
 
 For today, possible packages are:
 
-- `LaTeX2HTML`a `Perl` script package that
+- `LaTeX2HTML` a `Perl` script package that
   supports LaTeX only, and generates mathematics (and other
   ''difficult'' things) using bitmaps.  The original version was
   written by Nikos Drakos for Unix systems, but the package now sports
@@ -43,13 +43,13 @@ For today, possible packages are:
 
   A mailing list for users may be found via
   [https://tug.org/mailman/listinfo/latex2html]
-- `TtH`a compiled program that supports either LaTeX
+- `TtH` a compiled program that supports either LaTeX
   or Plain TeX, and uses the font/table technique for representing
   mathematics.  It is written by Ian Hutchinson, using
   `flex`.  The distribution consists of a single C
   source (or a compiled executable), which is easy to install and very
   fast-running.
-- `TeX4ht`a compiled program that supports either
+- `TeX4ht` a compiled program that supports either
   LaTeX or Plain TeX, by processing a DVI file; it uses
   bitmaps for mathematics, but can also use other technologies where
   appropriate.  Written by Eitan Gurari, it parses the DVI
@@ -57,11 +57,11 @@ For today, possible packages are:
   `tex4ht`s macros included.  As a result, it's pretty
   robust against the macros you include in your document, and it's
   also pretty fast.
-- `plasTeX`a Python-based LaTeX document processing
+- `plasTeX` a Python-based LaTeX document processing
     framework.  It gives DOM-like access to a LaTeX document, as
     well as the ability to generate mulitple output formats
     (e.g. HTML, DocBook, tBook, etc.).
-- `TeXpider`a commercial program from
+- `TeXpider` a commercial program from
   [Micropress](/FAQ-commercial), which is
   described on [http://www.micropress-inc.com/webb/wbstart.htm];
   it uses bitmaps for equations.
