@@ -1,5 +1,5 @@
 ---
-title: Future WWW technologies and (La)TeX
+title: Math on the Web
 category: misc
 permalink: /FAQ-mathml
 date: 2014-06-10
