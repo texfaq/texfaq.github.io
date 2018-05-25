@@ -58,7 +58,7 @@ mechanisms are:
     the place for ''general'' (La)TeX queries is the `texhax`
     mailing list.  Mail to <a href="mailto:texhax@tug.org">texhax@tug.org</a> to ask a question,
     but it's probably better to subscribe to the list
-    (via [http://tug.org/mailman/listinfo/texhax]) 
+    (via [https://tug.org/mailman/listinfo/texhax]) 
     first&nbsp;&mdash; not everyone will answer to you as well as to the list.
 2.  Newsgroup: to ask a question on `comp.text.tex`, you
     can use your own news client (if you have one), or use the ''+ new
@@ -67,7 +67,7 @@ mechanisms are:
 3.  Web forum: alternatives are: the 
     [''LaTeX community'' site](http://www.latex-community.org/),
     which offers a variety of ''categories'' to place your query, and the
-    [TeX, LaTeX and friends&site](http://tex.stackexchange.com/)
+    [TeX, LaTeX and friends&site](https://tex.stackexchange.com/)
     (''StackExchange'').
   
 
@@ -77,7 +77,7 @@ mechanisms are:
   
 
     StackExchange offers
-    [hints about ''good behaviour''](http://meta.tex.stackexchange.com/questions/1436/welcome-to-tex-sx),
+    [hints about ''good behaviour''](https://meta.tex.stackexchange.com/questions/1436/welcome-to-tex-sx),
     which any user should at least scan before asking for help there.
     (The hints' principal aim is to maximise the chance that you get useful
     advice from the first answer; for example, it suggests that you supply a

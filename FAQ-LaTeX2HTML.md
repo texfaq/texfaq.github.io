@@ -42,7 +42,7 @@ For today, possible packages are:
   TUGboat 16(2).
 
   A mailing list for users may be found via
-  [http://tug.org/mailman/listinfo/latex2html]
+  [https://tug.org/mailman/listinfo/latex2html]
 - `TtH`a compiled program that supports either LaTeX
   or Plain TeX, and uses the font/table technique for representing
   mathematics.  It is written by Ian Hutchinson, using

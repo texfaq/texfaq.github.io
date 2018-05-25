@@ -43,7 +43,7 @@ ConTeXt has a large developer community (though possibly not as
 large as that of LaTeX), but those developers who are active seem to have
 prodigious energy.  Support is available via a 
 [WIKI site](http://wiki.ConTeXtgarden.net/Main_Page) and via the
-[mailing list](http://www.ntg.nl/mailman/listinfo/ntg-ConTeXt).
+[mailing list](https://www.ntg.nl/mailman/listinfo/ntg-ConTeXt).
 A ''standalone'' distribution (a TeX distribution with no macros
 other than ConTeXt-based ones) is available from
 [http://minimals.ConTeXtgarden.net/] &mdash; it provides

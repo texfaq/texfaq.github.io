@@ -61,7 +61,7 @@ of drawing, and setup, here are a few systems you may consider:
 
     There is a [`PSTricks`](https://ctan.org/pkg/PSTricks) mailing list
     (<a href="mailto:pstricks@tug.org">pstricks@tug.org</a>) which you may
-    [join](http://tug.org/mailman/listinfo/pstricks), or you may
+    [join](https://tug.org/mailman/listinfo/pstricks), or you may
     just browse the 
     [list archives](http://tug.org/pipermail/pstricks/).
 -  [`pgf`](https://ctan.org/pkg/pgf): while [`pstricks`](https://ctan.org/pkg/pstricks) is very powerful and

@@ -56,14 +56,14 @@ of the other offerings).
 
 
 Nicola Talbot's 
-[LaTeX for complete novices](http://www.dickimaw-books.com/latex/novices/)
+[LaTeX for complete novices](https://www.dickimaw-books.com/latex/novices/)
 does what it claims: the author teaches LaTeX at the University of
 East Anglia.  The ''Novices'' tutorial is one of several 
-[introductory tutorials](http://www.dickimaw-books.com/latex/),
+[introductory tutorials](https://www.dickimaw-books.com/latex/),
 which include exercises (with solutions).  Other tutorials include
 those for 
-[writing theses/dissertations with LaTeX](http://www.dickimaw-books.com/latex/thesis/), and for 
-[using LaTeX in administrative work](http://www.dickimaw-books.com/latex/admin/)
+[writing theses/dissertations with LaTeX](https://www.dickimaw-books.com/latex/thesis/), and for 
+[using LaTeX in administrative work](https://www.dickimaw-books.com/latex/admin/)
 
 
 Engelbert Buxbaum provides the 'slides' for his LaTeX course 'The

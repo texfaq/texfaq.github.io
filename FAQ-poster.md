@@ -34,7 +34,7 @@ in life is flowing text from one box on the page to the next.  One of
 the package's design aims seems to have been the production of
 posters, and a worked example is provided.  The author of
 [`flowfram`](https://ctan.org/pkg/flowfram) has an experimental tool called
-[JpgfDraw](http://www.dickimaw-books.com/software.html#jpgfdraw), which
+[JpgfDraw](https://www.dickimaw-books.com/software.html#jpgfdraw), which
 allows you to construct the outline of frames for use with
 [`flowfram`](https://ctan.org/pkg/flowfram).
 
@@ -53,7 +53,7 @@ route):
 -  from Norman Gray, 
     [Producing posters using LaTeX](http://nxg.me.uk/docs/posters/);
 -  from Nicola Talbot, 
-    [Creating technical posters with LaTeX](http://www.dickimaw-books.com/latex/posters/)
+    [Creating technical posters with LaTeX](https://www.dickimaw-books.com/latex/posters/)
 -  From Rob Clark 
     [Advanced LaTeX Posters](http://homepages.inf.ed.ac.uk/robert/posters/advanced.html) 
     (which has links to code samples);

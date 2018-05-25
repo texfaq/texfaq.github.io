@@ -12,7 +12,7 @@ discussed; however, these aren't the only ones available.
 
 The TUG web site offers many mailing lists other than just
 `texhax` via its 
-[mail list management page](http://tug.org/mailman/listinfo).
+[mail list management page](https://tug.org/mailman/listinfo).
 
 The French national TeX user group, Gutenberg, offers a MetaFont (and,
 de facto, MetaPost) mailing list, <a href="mailto:metafont@ens.fr">metafont@ens.fr</a>: subscribe to

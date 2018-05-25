@@ -62,7 +62,7 @@ support for new Web standards.
   Work to produce XHTML+MathML is well advanced in both the
   TeX4ht and `TtH` projects for (La)TeX conversion.
 
-  The [`MathJax`](http://www.mathjax.org) engine will process the
+  The [`MathJax`](https://www.mathjax.org) engine will process the
   content of LaTeX `\[` &hellip;&nbsp;`\]` and `\(` &hellip;&nbsp;`\)`
   ''environments'' in an HTML document, to produce mathematical
   output that may (for example) be cut-and-pasted into other programs.
@@ -75,7 +75,7 @@ support for new Web standards.
 </script>
 ```
   into the header of your HTML document,
-  though the [MathJax project's site](http://www.mathjax.org/)
+  though the [MathJax project's site](https://www.mathjax.org/)
   also allows you to download your own copy and install it on one of
   _your_ servers.  `MathJax` is open source software, so
   you could, in principle, extend it to do even more eccentric tasks.

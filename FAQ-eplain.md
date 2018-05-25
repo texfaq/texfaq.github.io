@@ -53,5 +53,5 @@ known to work with Eplain:  [`graphics`](https://ctan.org/pkg/graphics), [`graph
 available online (there's a PDF copy in the CTAN
 package as well), and there's also a mailing list&nbsp;&mdash; sign up, or
 browse the list archives, via
-[http://tug.org/mailman/listinfo/tex-eplain]
+[https://tug.org/mailman/listinfo/tex-eplain]
 
