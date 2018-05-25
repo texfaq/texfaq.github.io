@@ -1,12 +1,12 @@
 ---
-title: Table of contents rearranges ''[`unsrt`](https://ctan.org/pkg/bibtex)'' ordering
+title: Table of contents rearranges ''`unsrt`'' ordering
 category: bibliographies
 tags: citations
 permalink: /FAQ-bibtocorder
 date: 2014-06-10
 ---
 
-# Table of contents rearranges ''[`unsrt`](https://ctan.org/pkg/bibtex)'' ordering
+# Table of contents rearranges ''`unsrt`'' ordering
 
 If you're using the [`unsrt`](https://ctan.org/pkg/bibtex) bibliography style, you're
 expecting that your bibliography will _not_ be sorted, but that
