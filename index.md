@@ -1,3 +1,7 @@
+---
+redirect_from: /faq
+---
+
 # The English Language TeX Frequently Asked Questions
 
 ## The Background
