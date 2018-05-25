@@ -57,7 +57,7 @@ Note that the package requires a recent `dvips`, version
 5.95b (this version isn't&nbsp;&mdash; yet&nbsp;&mdash; widely distributed).
 
 If your PostScript is destined for conversion to PDF, either by a
-[`ghostscript`](http://www.ghostscript.com/)-based
+[`ghostscript`](https://www.ghostscript.com/)-based
 mechanism such as `ps2pdf` or by
 (for example) `Acrobat` `Distiller`, the issue isn't
 so pressing, since the distillation mechanism will amalgamate graphics

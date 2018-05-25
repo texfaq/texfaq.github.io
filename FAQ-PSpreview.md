@@ -23,13 +23,13 @@ have a couple options:
 -  Convert the DVI file to PostScript and use a
     PostScript previewer.  Some systems offer this capability as
     standard, but most people will need to use a separate previewer such
-    as [`ghostscript`](http://www.ghostscript.com/) or
+    as [`ghostscript`](https://www.ghostscript.com/) or
     `ghostscript`-based viewers
     such as (free) `gv` or (shareware)
     [`gsview`](http://www.ghostgum.com.au/).
 -  If you have the PostScript fonts in Type&nbsp;1 format, use
     `ps2pk` or `gsftopk` (designed for use with the
-    [`ghostscript`](http://www.ghostscript.com/) fonts) to
+    [`ghostscript`](https://www.ghostscript.com/) fonts) to
     make PK bitmap fonts which
     your previewer will understand (a process similar to the way some
     browsers fo the job ''automatically'') This can produce adequate results,

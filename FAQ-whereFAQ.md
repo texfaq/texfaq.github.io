@@ -47,6 +47,6 @@ Other non-English FAQs are available (off-CTAN):
   A FAQ used to be posted regularly to
   `fr.comp.text.tex`, and is archived on CTAN&nbsp;&mdash;
   sadly, that effort seems to have fallen by the wayside.
-- Czech See [http://www.fi.muni.cz/cstug/csfaq/](http://www.fi.muni.cz/cstug/csfaq/)
+- Czech See [https://www.fi.muni.cz/cstug/csfaq/](https://www.fi.muni.cz/cstug/csfaq/)
 
 

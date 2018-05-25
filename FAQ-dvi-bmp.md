@@ -29,7 +29,7 @@ PowerPoint, or to support the enhanced-`emacs` setup called
 
 In the past, the commonest way of generating bitmaps was to generate a
 PostScript file of the DVI and then use
-[`ghostscript`](http://www.ghostscript.com/) to
+[`ghostscript`](https://www.ghostscript.com/) to
 produce the required bitmap format (possibly by way of PNM
 format or something similar).  This is an undesirable procedure (it is
 tedious, involving requires two or three steps that run slowly) but it

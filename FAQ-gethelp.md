@@ -77,7 +77,7 @@ mechanisms are:
   
 
     StackExchange offers
-    [hints about ''good behaviour''](https://meta.tex.stackexchange.com/questions/1436/welcome-to-tex-sx),
+    [hints about ''good behaviour''](https://tex.meta.stackexchange.com/questions/1436/welcome-to-tex-sx),
     which any user should at least scan before asking for help there.
     (The hints' principal aim is to maximise the chance that you get useful
     advice from the first answer; for example, it suggests that you supply a

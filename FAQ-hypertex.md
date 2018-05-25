@@ -30,6 +30,6 @@ Further details are available on [http://arXiv.org/hypertex/]; there
 are two commonly-used implementations of the specification, a
 modified `xdvi` and (recent releases of)
 `dvips`. Output from the latter may be used in recent
-releases of [`ghostscript`](http://www.ghostscript.com/)
+releases of [`ghostscript`](https://www.ghostscript.com/)
 or Acrobat Distiller.
 

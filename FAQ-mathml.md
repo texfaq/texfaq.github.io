@@ -81,7 +81,7 @@ support for new Web standards.
   you could, in principle, extend it to do even more eccentric tasks.
 
   An approach different from (La)TeX conversion is taken by
-  the [_GELLMU_ Project](http://www.albany.edu/~hammond/gellmu/).
+  the [_GELLMU_ Project](https://www.albany.edu/~hammond/gellmu/).
   Its _article_ XML document type, which has a markup vocabulary
   close to LaTeX that can be edited using LaTeX-like markup
   (even though it is not LaTeX&nbsp;&mdash; so far), comes with translators

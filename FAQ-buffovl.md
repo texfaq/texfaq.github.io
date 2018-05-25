@@ -50,7 +50,7 @@ preserving the ''word'' structure) so that they are nowhere any longer
 than a given length; so the solution is just to edit the file.
 
 If the problem is a ridiculous preview section, try using
-[`ghostscript`](http://www.ghostscript.com/)
+[`ghostscript`](https://www.ghostscript.com/)
 to reprocess the file, outputting a ''plain
 `eps` file.  (`Ghostscript`s distribution
 includes a script `ps2epsi` which will regenerate the preview

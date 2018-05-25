@@ -6,11 +6,11 @@
 So you've done everything the FAQ has told you that you need,
 correct fonts properly installed and appearing in the `dvips`
 output, but _still_ you get fuzzy character output after
-distilling with [`ghostscript`](http://www.ghostscript.com/).
+distilling with [`ghostscript`](https://www.ghostscript.com/).
 
 
 The problem could arise from too old a version of
-[`ghostscript`](http://www.ghostscript.com/), which you
+[`ghostscript`](https://www.ghostscript.com/), which you
 may be using directly, or via a
 script such as `ps2pdf` (distributed with
 `ghostscript` itself), `dvipdf`, or similar.

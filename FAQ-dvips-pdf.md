@@ -5,7 +5,7 @@
 
 Any reasonable PostScript, including any output of `dvips`, may be
 converted to PDF, using (for example) a sufficiently recent
-version of [`ghostscript`](http://www.ghostscript.com/),
+version of [`ghostscript`](https://www.ghostscript.com/),
 Frank Siegert's (shareware)
 [`PStill`](http://www.pstill.com/), or Adobe's (commercial)
 `Distiller`.

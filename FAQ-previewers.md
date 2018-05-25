@@ -29,7 +29,7 @@ Alternatives to previewing include
     conventional text viewer to look at that,
 -  generating a PostScript version of your document and viewing it
     with a
-    [`ghostscript`](http://www.ghostscript.com/)-based
+    [`ghostscript`](https://www.ghostscript.com/)-based
     previewer (see 
     [previewing PostScript files](/FAQ-PSpreview)), and
 -  generating  PDF output, and viewing that with

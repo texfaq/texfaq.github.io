@@ -11,11 +11,11 @@ WIKI under control.
 
 
 Following the encouraging performance of the 
-[ConTeXt WIKI](http://ConTeXtgarden.net/), valiant
+[ConTeXt WIKI](http://wiki.contextgarden.net/Main_Page), valiant
 efforts have been made generating ''WIKI books'' for (La)TeX
 users.  Thus we have 
-[(Plain) TeX WIKI book](http://en.wikibooks.org/wiki/TeX) and 
-[LaTeX WIKI book](http://en.wikibooks.org/wiki/LaTeX)&nbsp;&mdash;
+[(Plain) TeX WIKI book](https://en.wikibooks.org/wiki/TeX) and 
+[LaTeX WIKI book](https://en.wikibooks.org/wiki/LaTeX)&nbsp;&mdash;
 both well established.  Both are highly rated as reference sources,
 and even as introductory texts.
 

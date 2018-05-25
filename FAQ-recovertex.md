@@ -31,10 +31,10 @@ unlikely to convert easily.
 
 To retrieve text from PostScript files, the
 `ps2ascii` tool (part of the
-[`ghostscript`](http://www.ghostscript.com/)
+[`ghostscript`](https://www.ghostscript.com/)
 distribution) is available.  One could try applying this tool to
 PostScript derived from an PDF file using `pdf2ps` (also
-from the [`ghostscript`](http://www.ghostscript.com/)
+from the [`ghostscript`](https://www.ghostscript.com/)
 distribution), or `Acrobat`
 `Reader` itself; an alternative is `pdftotext`,
 which is distributed with `xpdf`.

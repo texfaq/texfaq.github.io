@@ -9,14 +9,14 @@ date: 2014-06-10
 `Dvipdfm` (and `dvipdfmx`) translates direct from
 DVI to PDF (all other available routes produce PostScript
 output using `dvips` and then convert that to PDF with
-[`ghostscript`](http://www.ghostscript.com/)
+[`ghostscript`](https://www.ghostscript.com/)
 or `Acrobat`s `Distiller`).
 
 `Dvipdfm`/`Dvipdfmx` are particularly flexible
 applications.  They permit the inclusion of bitmap and PDF
 graphics (as does [pdfTeX](/FAQ-pdftexgraphics)), but are also
 capable of employing
-[`ghostscript`](http://www.ghostscript.com/) ''on the
+[`ghostscript`](https://www.ghostscript.com/) ''on the
 fly'' to permit the inclusion of encapsulated PostScript (`eps`)
 files by translating them to PDF.  In this way, they combine the good
 qualities of `dvips` and of pdfTeX as a means of

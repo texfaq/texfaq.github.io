@@ -66,7 +66,7 @@ in this endeavour:
     are only available from their development sites.
 -  Some commercial citation-management systems will export in
     BibTeX format; an example is
-    [EndNote](http://www.endnote.com/).
+    [EndNote](https://www.endnote.com/).
 -  Data from on-line citation databases may often be translated to
     BibTeX format by utilities to be found on CTAN.  For
     example, the `Perl` script `isi2bibtex` will
@@ -74,7 +74,7 @@ in this endeavour:
     subscription service, available to UK academics via
     BIDS).  UK academics may translate BIDS downloads
     using `bids.to.bibtex`
--  [Google Scholar](http://scholar.google.com) provides an
+-  [Google Scholar](https://scholar.google.com) provides an
     ''Import into BibTeX'' tab for each reference it finds for you:
     that tab gives you a page containing a BibTeX entry for the
     reference.

@@ -66,5 +66,5 @@ files, `pdftk` might well be attractive.
 
 `Pdftk` is available as a command line tool; it is available
 in most linux distritbutions, but may be downloaded from its
-[home site](http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/)
+[home site](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/)
 

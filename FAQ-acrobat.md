@@ -52,20 +52,20 @@ for the `dvipdfm`/`dvipdfmx` DVI drivers.
 While there is no free implementation of all of `Adobe`
 `Distiller`s
 functionality, any but the implausibly old versions of
-[`ghostscript`](http://www.ghostscript.com/)
+[`ghostscript`](https://www.ghostscript.com/)
 provide pretty reliable distillation (but beware of the problems with
 [`dvips` output for distillation](/FAQ-dvips-pdf)).
 
 For viewing (and printing) the resulting files, Adobe's
 `Acrobat` `Reader` is available for a fair range of
 platforms; for those for which Adobe's reader is unavailable, remotely
-current versions of [`ghostscript`](http://www.ghostscript.com/)
+current versions of [`ghostscript`](https://www.ghostscript.com/)
 combined with `gv` or
 [`gsview`](http://www.ghostgum.com.au/) can display and
 print PDF files, as can `xpdf`.
 
 In some circumstances, a
-[`ghostscript`](http://www.ghostscript.com/)-based viewer
+[`ghostscript`](https://www.ghostscript.com/)-based viewer
 application is actually preferable to Acrobat Reader.  For example, on
 Windows Acrobat Reader locks the `pdf` file it's displaying: this
 makes the traditional (and highly effective) (La)TeX development

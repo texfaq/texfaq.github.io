@@ -10,9 +10,9 @@ MetaPost ordinarily expects its output to be included in some context
 where the ''standard'' MetaFont fonts (that you've specified) are already
 defined&nbsp;&mdash; for example, as a figure in TeX document.  If you're
 debugging your MetaPost code, you may want to view it in a
-[`ghostscript`](http://www.ghostscript.com/)-based (or some
+[`ghostscript`](https://www.ghostscript.com/)-based (or some
 other PostScript) previewer, but note that viewers (even
-[`ghostscript`](http://www.ghostscript.com/))
+[`ghostscript`](https://www.ghostscript.com/))
 _don't_ ordinarily have the fonts loaded, and you'll experience
 an error such as
 ```latex

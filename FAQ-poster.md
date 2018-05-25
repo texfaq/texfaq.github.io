@@ -51,7 +51,7 @@ route):
   
 
 -  from Norman Gray, 
-    [Producing posters using LaTeX](http://nxg.me.uk/docs/posters/);
+    [Producing posters using LaTeX](https://nxg.me.uk/docs/posters/);
 -  from Nicola Talbot, 
     [Creating technical posters with LaTeX](https://www.dickimaw-books.com/latex/posters/)
 -  From Rob Clark 

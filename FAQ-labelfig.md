@@ -86,7 +86,7 @@ sort of way as that of [`overpic`](https://ctan.org/pkg/overpic); the documentat
 in detail how to plan your ''labelling attack''&nbsp;&mdash; in this case by
 loading your figure into a viewer and taking measurements from it.
 (The package discusses direct use of
-[`ghostscript`](http://www.ghostscript.com/) as well as
+[`ghostscript`](https://www.ghostscript.com/) as well as
 customised viewers such as
 [`gsview`](http://www.ghostgum.com.au/) or
 `gv`.)
