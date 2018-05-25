@@ -39,13 +39,13 @@ Based on https://github.com/codinfox/codinfox-lanyon/blob/master/blog/category.h
 <p>
 <ul>
 {% for ct in cats %}
-<li><a href="#{{ ct | slugify }}"> {{ ct }} </a></li>
+<li><a href="#{{ ct | capitalize }}"> {{ ct }} </a></li>
 {% endfor %}
 </ul>
 </p>
 
 {% for ct in cats %}
-<h2 id="{{ ct | slugify }}">{{ ct }}</h2>
+<h2 id="{{ ct | capitalize }}">{{ ct }}</h2>
 <ul class="category-list">
   {% for page in site.page %}
   {% if page.category contains ct %}
