@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Document structure
-permalink: /FAQ-balance.html
+permalink: /FAQ-balance
 date: 2014-06-10
 ---
 

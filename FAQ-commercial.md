@@ -1,6 +1,6 @@
 ---
 section: TeX Systems
-permalink: /FAQ-commercial.html
+permalink: /FAQ-commercial
 date: 2014-06-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: LaTeX macro programming
-permalink: /FAQ-seccntfmt.html
+permalink: /FAQ-seccntfmt
 date: 2014-06-10
 ---
 

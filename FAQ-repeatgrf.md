@@ -1,6 +1,6 @@
 ---
 section: Graphics
-permalink: /FAQ-repeatgrf.html
+permalink: /FAQ-repeatgrf
 date: 2014-06-10
 ---
 

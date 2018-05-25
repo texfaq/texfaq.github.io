@@ -1,7 +1,7 @@
 ---
 section: Why does it _do_ that?
 subsection: Common errors
-permalink: /FAQ-wrongpn.html
+permalink: /FAQ-wrongpn
 date: 2014-06-10
 ---
 

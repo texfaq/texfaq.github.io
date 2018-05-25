@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Creating bibliographies
-permalink: /FAQ-makebib.html
+permalink: /FAQ-makebib
 date: 2014-06-10
 ---
 

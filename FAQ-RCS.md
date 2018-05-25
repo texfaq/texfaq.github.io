@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Document management
-permalink: /FAQ-RCS.html
+permalink: /FAQ-RCS
 date: 2014-06-10
 ---
 

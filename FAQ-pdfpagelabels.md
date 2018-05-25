@@ -1,6 +1,6 @@
 ---
 section: Hypertext and PDF
-permalink: /FAQ-pdfpagelabels.html
+permalink: /FAQ-pdfpagelabels
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-entercompmode.html
+permalink: /FAQ-entercompmode
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: Bits and pieces of (La)TeX
-permalink: /FAQ-ECfonts.html
+permalink: /FAQ-ECfonts
 date: 2014-06-10
 ---
 

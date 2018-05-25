@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-endingroup.html
+permalink: /FAQ-endingroup
 date: 2014-06-10
 ---
 

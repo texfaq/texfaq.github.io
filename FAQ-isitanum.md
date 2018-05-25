@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: ''Generic'' macros and techniques
-permalink: /FAQ-isitanum.html
+permalink: /FAQ-isitanum
 date: 2014-06-10
 ---
 

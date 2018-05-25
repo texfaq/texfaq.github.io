@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: LaTeX macro tools and techniques
-permalink: /FAQ-protect.html
+permalink: /FAQ-protect
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-inputlev.html
+permalink: /FAQ-inputlev
 date: 2014-06-10
 ---
 

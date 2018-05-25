@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Document management
-permalink: /FAQ-docotherdir.html
+permalink: /FAQ-docotherdir
 date: 2014-06-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Alternative document classes
-permalink: /FAQ-extsizes.html
+permalink: /FAQ-extsizes
 date: 2014-06-10
 ---
 

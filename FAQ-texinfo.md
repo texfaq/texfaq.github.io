@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-texinfo.html
+permalink: /FAQ-texinfo
 date: 2014-06-10
 ---
 

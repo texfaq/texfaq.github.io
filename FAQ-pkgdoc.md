@@ -1,6 +1,6 @@
 ---
 section: Documentation and Help
-permalink: /FAQ-pkgdoc.html
+permalink: /FAQ-pkgdoc
 date: 2014-06-10
 ---
 

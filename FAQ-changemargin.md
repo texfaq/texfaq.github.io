@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Page layout
-permalink: /FAQ-changemargin.html
+permalink: /FAQ-changemargin
 date: 2014-06-10
 ---
 

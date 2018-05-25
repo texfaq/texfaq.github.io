@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-fontunavail.html
+permalink: /FAQ-fontunavail
 date: 2014-06-10
 ---
 

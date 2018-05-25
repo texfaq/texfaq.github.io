@@ -1,7 +1,7 @@
 ---
 section: Common misunderstandings
 subsection: Why shouldn't I?
-permalink: /FAQ-eqnarray.html
+permalink: /FAQ-eqnarray
 date: 2014-06-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Lists
-permalink: /FAQ-enumerate.html
+permalink: /FAQ-enumerate
 date: 2014-06-10
 ---
 

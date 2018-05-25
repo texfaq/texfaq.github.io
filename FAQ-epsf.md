@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-epsf.html
+permalink: /FAQ-epsf
 date: 2014-06-10
 ---
 

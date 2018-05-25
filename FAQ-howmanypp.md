@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Document management
-permalink: /FAQ-howmanypp.html
+permalink: /FAQ-howmanypp
 date: 2014-06-10
 ---
 

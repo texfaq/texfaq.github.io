@@ -1,6 +1,6 @@
 ---
 section: Graphics
-permalink: /FAQ-topgraph.html
+permalink: /FAQ-topgraph
 date: 2014-06-10
 ---
 

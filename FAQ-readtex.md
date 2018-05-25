@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-readtex.html
+permalink: /FAQ-readtex
 date: 2014-06-10
 ---
 

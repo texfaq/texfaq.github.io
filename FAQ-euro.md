@@ -1,6 +1,6 @@
 ---
 section: Symbols, etc.
-permalink: /FAQ-euro.html
+permalink: /FAQ-euro
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: TeX Systems
-permalink: /FAQ-editors.html
+permalink: /FAQ-editors
 date: 2014-06-10
 ---
 

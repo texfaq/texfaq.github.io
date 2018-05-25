@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-catalogue.html
+permalink: /FAQ-catalogue
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: Bits and pieces of (La)TeX
-permalink: /FAQ-adobetypen.html
+permalink: /FAQ-adobetypen
 date: 2014-06-10
 ---
 

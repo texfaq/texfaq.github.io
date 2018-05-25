@@ -1,7 +1,7 @@
 ---
 section: Why does it _do_ that?
 subsection: Common errors
-permalink: /FAQ-verbwithin.html
+permalink: /FAQ-verbwithin
 date: 2014-06-10
 ---
 

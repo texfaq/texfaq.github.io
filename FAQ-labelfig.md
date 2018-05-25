@@ -1,6 +1,6 @@
 ---
 section: Graphics
-permalink: /FAQ-labelfig.html
+permalink: /FAQ-labelfig
 date: 2014-06-10
 ---
 

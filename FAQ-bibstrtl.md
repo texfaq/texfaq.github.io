@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Creating bibliographies
-permalink: /FAQ-bibstrtl.html
+permalink: /FAQ-bibstrtl
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: Bits and pieces of (La)TeX
-permalink: /FAQ-fontname.html
+permalink: /FAQ-fontname
 date: 2014-06-10
 ---
 

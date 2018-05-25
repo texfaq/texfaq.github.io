@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Document structure
-permalink: /FAQ-nofm.html
+permalink: /FAQ-nofm
 date: 2014-06-10
 ---
 

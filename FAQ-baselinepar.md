@@ -1,6 +1,6 @@
 ---
 section: Common misunderstandings
-permalink: /FAQ-baselinepar.html
+permalink: /FAQ-baselinepar
 date: 2014-06-10
 ---
 

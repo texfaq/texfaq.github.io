@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Typesetting specialities
-permalink: /FAQ-setURL.html
+permalink: /FAQ-setURL
 date: 2014-06-10
 ---
 

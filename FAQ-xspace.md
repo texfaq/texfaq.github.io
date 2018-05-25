@@ -1,6 +1,6 @@
 ---
 section: Common misunderstandings
-permalink: /FAQ-xspace.html
+permalink: /FAQ-xspace
 date: 2014-06-10
 ---
 

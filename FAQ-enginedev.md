@@ -1,6 +1,6 @@
 ---
 section: Current TeX-related projects
-permalink: /FAQ-enginedev.html
+permalink: /FAQ-enginedev
 date: 2018-05-24
 redirect_from: FAQ-extex
 redirect_from: FAQ-omegaleph

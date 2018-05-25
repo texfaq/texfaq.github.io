@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-missbegdoc.html
+permalink: /FAQ-missbegdoc
 date: 2014-06-10
 ---
 

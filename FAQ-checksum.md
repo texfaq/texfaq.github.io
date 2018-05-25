@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-checksum.html
+permalink: /FAQ-checksum
 date: 2014-06-10
 ---
 

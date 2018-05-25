@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-manymathalph.html
+permalink: /FAQ-manymathalph
 date: 2014-06-10
 ---
 

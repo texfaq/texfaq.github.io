@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: ''Generic'' macros and techniques
-permalink: /FAQ-hash.html
+permalink: /FAQ-hash
 date: 2014-06-10
 ---
 

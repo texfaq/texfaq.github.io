@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-context.html
+permalink: /FAQ-context
 date: 2014-06-10
 ---
 

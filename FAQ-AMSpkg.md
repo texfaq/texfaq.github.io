@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-AMSpkg.html
+permalink: /FAQ-AMSpkg
 date: 2014-06-10
 ---
 

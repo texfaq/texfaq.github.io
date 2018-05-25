@@ -1,6 +1,6 @@
 ---
 section: Installing (La)TeX files
-permalink: /FAQ-inst1cm.html
+permalink: /FAQ-inst1cm
 date: 2014-06-10
 ---
 

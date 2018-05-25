@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Typesetting specialities
-permalink: /FAQ-algorithms.html
+permalink: /FAQ-algorithms
 date: 2014-06-10
 ---
 

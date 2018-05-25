@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Document structure
-permalink: /FAQ-runheadtoobig.html
+permalink: /FAQ-runheadtoobig
 date: 2014-06-10
 ---
 

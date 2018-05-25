@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-nonpdfsp.html
+permalink: /FAQ-nonpdfsp
 date: 2014-06-10
 ---
 

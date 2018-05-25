@@ -1,6 +1,6 @@
 ---
 section: Common misunderstandings
-permalink: /FAQ-exscale.html
+permalink: /FAQ-exscale
 date: 2014-06-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Typesetting specialities
-permalink: /FAQ-upquot.html
+permalink: /FAQ-upquot
 date: 2014-06-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Tables of contents and indexes
-permalink: /FAQ-tocloft.html
+permalink: /FAQ-tocloft
 date: 2014-06-10
 ---
 

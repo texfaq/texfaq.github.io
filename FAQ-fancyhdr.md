@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Document structure
-permalink: /FAQ-fancyhdr.html
+permalink: /FAQ-fancyhdr
 date: 2014-06-10
 ---
 

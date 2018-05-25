@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-whatTeX.html
+permalink: /FAQ-whatTeX
 date: 2014-06-10
 ---
 

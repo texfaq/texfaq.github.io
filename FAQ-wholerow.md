@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Tables, figures and diagrams
-permalink: /FAQ-wholerow.html
+permalink: /FAQ-wholerow
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: Current TeX-related projects
-permalink: /FAQ-WYGexpts.html
+permalink: /FAQ-WYGexpts
 date: 2018-05-24
 ---
 

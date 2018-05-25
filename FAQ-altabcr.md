@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-altabcr.html
+permalink: /FAQ-altabcr
 date: 2014-06-10
 ---
 

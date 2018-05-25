@@ -1,6 +1,6 @@
 ---
 section: Symbols, etc.
-permalink: /FAQ-tradesyms.html
+permalink: /FAQ-tradesyms
 date: 2014-06-10
 ---
 

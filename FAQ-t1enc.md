@@ -1,7 +1,7 @@
 ---
 section: Common misunderstandings
 subsection: Why shouldn't I?
-permalink: /FAQ-t1enc.html
+permalink: /FAQ-t1enc
 date: 2014-06-10
 ---
 

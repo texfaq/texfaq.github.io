@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Typesetting specialities
-permalink: /FAQ-breakbox.html
+permalink: /FAQ-breakbox
 date: 2014-06-10
 ---
 

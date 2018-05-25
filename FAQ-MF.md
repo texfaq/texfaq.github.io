@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-MF.html
+permalink: /FAQ-MF
 date: 2014-06-10
 ---
 

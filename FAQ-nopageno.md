@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Page layout
-permalink: /FAQ-nopageno.html
+permalink: /FAQ-nopageno
 date: 2014-06-10
 ---
 

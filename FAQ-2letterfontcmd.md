@@ -1,7 +1,7 @@
 ---
 section: Common misunderstandings
 subsection: Why shouldn't I?
-permalink: /FAQ-2letterfontcmd.html
+permalink: /FAQ-2letterfontcmd
 date: 2014-06-10
 ---
 

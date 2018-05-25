@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Creating citations
-permalink: /FAQ-i18nbib.html
+permalink: /FAQ-i18nbib
 date: 2014-06-10
 ---
 

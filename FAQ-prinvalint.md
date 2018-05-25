@@ -1,6 +1,6 @@
 ---
 section: Symbols, etc.
-permalink: /FAQ-prinvalint.html
+permalink: /FAQ-prinvalint
 date: 2014-06-10
 ---
 

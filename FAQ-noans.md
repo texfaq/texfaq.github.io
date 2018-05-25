@@ -1,6 +1,6 @@
 ---
 section: You're still stuck?
-permalink: /FAQ-noans.html
+permalink: /FAQ-noans
 date: 2018-05-22
 ---
 

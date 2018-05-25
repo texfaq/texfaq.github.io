@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-texthings.html
+permalink: /FAQ-texthings
 date: 2014-06-10
 ---
 

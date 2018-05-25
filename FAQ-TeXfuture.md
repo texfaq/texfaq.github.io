@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-TeXfuture.html
+permalink: /FAQ-TeXfuture
 date: 2014-06-10
 ---
 

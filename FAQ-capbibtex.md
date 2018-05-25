@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Creating bibliographies
-permalink: /FAQ-capbibtex.html
+permalink: /FAQ-capbibtex
 date: 2014-06-10
 ---
 

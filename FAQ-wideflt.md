@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Floating tables, figures, etc.
-permalink: /FAQ-wideflt.html
+permalink: /FAQ-wideflt
 date: 2014-06-10
 ---
 

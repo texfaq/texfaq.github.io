@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Page layout
-permalink: /FAQ-epigraph.html
+permalink: /FAQ-epigraph
 date: 2014-06-10
 ---
 

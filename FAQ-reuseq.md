@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Mathematics
-permalink: /FAQ-reuseq.html
+permalink: /FAQ-reuseq
 date: 2014-06-10
 ---
 

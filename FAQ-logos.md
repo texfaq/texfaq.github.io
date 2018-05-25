@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Odds and ends
-permalink: /FAQ-logos.html
+permalink: /FAQ-logos
 date: 2014-06-10
 ---
 

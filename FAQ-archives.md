@@ -1,6 +1,6 @@
 ---
 section: Acquiring the Software
-permalink: /FAQ-archives.html
+permalink: /FAQ-archives
 date: 2014-06-10
 ---
 

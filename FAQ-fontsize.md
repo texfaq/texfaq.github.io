@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: LaTeX macro programming
-permalink: /FAQ-fontsize.html
+permalink: /FAQ-fontsize
 date: 2014-06-10
 ---
 

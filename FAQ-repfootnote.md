@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Footnotes
-permalink: /FAQ-repfootnote.html
+permalink: /FAQ-repfootnote
 date: 2014-06-10
 ---
 

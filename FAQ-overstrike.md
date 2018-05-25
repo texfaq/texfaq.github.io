@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Typesetting specialities
-permalink: /FAQ-overstrike.html
+permalink: /FAQ-overstrike
 date: 2014-06-10
 ---
 

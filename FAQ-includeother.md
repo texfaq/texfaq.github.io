@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-includeother.html
+permalink: /FAQ-includeother
 date: 2014-06-10
 ---
 

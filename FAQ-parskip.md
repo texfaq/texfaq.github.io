@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Typesetting specialities
-permalink: /FAQ-parskip.html
+permalink: /FAQ-parskip
 date: 2014-06-10
 ---
 

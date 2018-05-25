@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-formatstymy.html
+permalink: /FAQ-formatstymy
 date: 2014-06-10
 ---
 

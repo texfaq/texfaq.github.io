@@ -1,6 +1,6 @@
 ---
 section: Installing (La)TeX files
-permalink: /FAQ-instprinterfont.html
+permalink: /FAQ-instprinterfont
 date: 2014-06-10
 ---
 

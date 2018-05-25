@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Mathematics
-permalink: /FAQ-proof.html
+permalink: /FAQ-proof
 date: 2014-06-10
 ---
 

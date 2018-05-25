@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Mathematics
-permalink: /FAQ-cancellation.html
+permalink: /FAQ-cancellation
 date: 2014-06-10
 ---
 

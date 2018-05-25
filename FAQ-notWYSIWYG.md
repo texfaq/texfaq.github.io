@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-notWYSIWYG.html
+permalink: /FAQ-notWYSIWYG
 date: 2014-06-10
 ---
 

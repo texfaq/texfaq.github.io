@@ -1,6 +1,6 @@
 ---
 section: You're still stuck?
-permalink: /FAQ-latexbug.html
+permalink: /FAQ-latexbug
 date: 2018-05-23
 ---
 

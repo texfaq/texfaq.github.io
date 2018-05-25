@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-plainvltx.html
+permalink: /FAQ-plainvltx
 date: 2014-06-10
 ---
 

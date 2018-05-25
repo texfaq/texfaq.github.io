@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: LaTeX macro programming
-permalink: /FAQ-spaftend.html
+permalink: /FAQ-spaftend
 date: 2014-06-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Mathematics
-permalink: /FAQ-limits.html
+permalink: /FAQ-limits
 date: 2014-06-10
 ---
 

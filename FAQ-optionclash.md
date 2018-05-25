@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-optionclash.html
+permalink: /FAQ-optionclash
 date: 2014-06-10
 ---
 

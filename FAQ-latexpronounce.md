@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-latexpronounce.html
+permalink: /FAQ-latexpronounce
 date: 2014-06-10
 ---
 

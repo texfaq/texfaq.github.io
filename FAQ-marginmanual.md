@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Page layout
-permalink: /FAQ-marginmanual.html
+permalink: /FAQ-marginmanual
 date: 2014-06-10
 ---
 

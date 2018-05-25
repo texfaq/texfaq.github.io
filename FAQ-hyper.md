@@ -1,6 +1,6 @@
 ---
 section: Hypertext and PDF
-permalink: /FAQ-hyper.html
+permalink: /FAQ-hyper
 date: 2014-06-10
 ---
 

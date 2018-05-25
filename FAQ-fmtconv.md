@@ -1,6 +1,6 @@
 ---
 section: Format conversions
-permalink: /FAQ-fmtconv.html
+permalink: /FAQ-fmtconv
 date: 2014-06-10
 ---
 

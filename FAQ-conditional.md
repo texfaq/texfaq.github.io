@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Document management
-permalink: /FAQ-conditional.html
+permalink: /FAQ-conditional
 date: 2014-06-10
 ---
 

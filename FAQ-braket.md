@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Mathematics
-permalink: /FAQ-braket.html
+permalink: /FAQ-braket
 date: 2014-06-10
 ---
 

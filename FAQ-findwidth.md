@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: ''Generic'' macros and techniques
-permalink: /FAQ-findwidth.html
+permalink: /FAQ-findwidth
 date: 2014-06-10
 ---
 

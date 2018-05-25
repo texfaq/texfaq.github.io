@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-pdftex.html
+permalink: /FAQ-pdftex
 date: 2018-05-24
 redirect_from: FAQ-whatpdftex
 ---

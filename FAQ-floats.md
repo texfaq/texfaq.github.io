@@ -1,7 +1,7 @@
 ---
 section: Things are Going Wrong&hellip;
 subsection: Making things stay where you want them
-permalink: /FAQ-floats.html
+permalink: /FAQ-floats
 date: 2014-06-10
 ---
 

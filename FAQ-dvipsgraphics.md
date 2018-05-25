@@ -1,6 +1,6 @@
 ---
 section: Graphics
-permalink: /FAQ-dvipsgraphics.html
+permalink: /FAQ-dvipsgraphics
 date: 2014-06-10
 ---
 

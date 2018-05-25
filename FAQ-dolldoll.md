@@ -1,7 +1,7 @@
 ---
 section: Common misunderstandings
 subsection: Why shouldn't I?
-permalink: /FAQ-dolldoll.html
+permalink: /FAQ-dolldoll
 date: 2014-06-10
 ---
 

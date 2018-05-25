@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: LaTeX macro tools and techniques
-permalink: /FAQ-ltxcmds.html
+permalink: /FAQ-ltxcmds
 date: 2014-06-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Creating citations
-permalink: /FAQ-formbiblabel.html
+permalink: /FAQ-formbiblabel
 date: 2014-06-10
 ---
 

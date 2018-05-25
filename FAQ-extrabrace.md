@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-extrabrace.html
+permalink: /FAQ-extrabrace
 date: 2014-06-10
 ---
 

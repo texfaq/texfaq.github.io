@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Tables, figures and diagrams
-permalink: /FAQ-fixwidtab.html
+permalink: /FAQ-fixwidtab
 date: 2014-06-10
 ---
 

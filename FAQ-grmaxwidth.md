@@ -1,6 +1,6 @@
 ---
 section: Graphics
-permalink: /FAQ-grmaxwidth.html
+permalink: /FAQ-grmaxwidth
 date: 2014-06-10
 ---
 

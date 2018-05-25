@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Creating bibliographies
-permalink: /FAQ-bibplain.html
+permalink: /FAQ-bibplain
 date: 2014-06-10
 ---
 

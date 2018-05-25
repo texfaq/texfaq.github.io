@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Document management
-permalink: /FAQ-changebars.html
+permalink: /FAQ-changebars
 date: 2014-06-10
 ---
 

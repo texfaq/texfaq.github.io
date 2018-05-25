@@ -1,7 +1,7 @@
 ---
 section: Things are Going Wrong&hellip;
 subsection: Getting things to fit
-permalink: /FAQ-usepictex.html
+permalink: /FAQ-usepictex
 date: 2014-06-10
 ---
 

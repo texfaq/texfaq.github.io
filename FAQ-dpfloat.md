@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Floating tables, figures, etc.
-permalink: /FAQ-dpfloat.html
+permalink: /FAQ-dpfloat
 date: 2014-06-10
 ---
 

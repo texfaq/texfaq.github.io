@@ -1,6 +1,6 @@
 ---
 section: Symbols, etc.
-permalink: /FAQ-numbersets.html
+permalink: /FAQ-numbersets
 date: 2014-06-10
 ---
 

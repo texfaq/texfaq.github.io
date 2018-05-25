@@ -1,6 +1,6 @@
 ---
 section: Format conversions
-permalink: /FAQ-SGML2TeX.html
+permalink: /FAQ-SGML2TeX
 date: 2014-06-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Creating citations
-permalink: /FAQ-sortbib.html
+permalink: /FAQ-sortbib
 date: 2014-06-10
 ---
 

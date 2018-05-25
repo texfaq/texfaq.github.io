@@ -1,6 +1,6 @@
 ---
 section: Format conversions
-permalink: /FAQ-readML.html
+permalink: /FAQ-readML
 date: 2014-06-10
 ---
 

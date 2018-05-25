@@ -1,7 +1,7 @@
 ---
 section: Macro programming
 subsection: LaTeX macro tools and techniques
-permalink: /FAQ-twooptarg.html
+permalink: /FAQ-twooptarg
 date: 2014-06-10
 ---
 

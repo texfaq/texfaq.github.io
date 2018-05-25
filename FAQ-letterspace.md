@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Spacing of characters and lines
-permalink: /FAQ-letterspace.html
+permalink: /FAQ-letterspace
 date: 2014-06-10
 ---
 

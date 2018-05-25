@@ -1,7 +1,7 @@
 ---
 section: Fonts
 subsection: Particular font families
-permalink: /FAQ-concrete.html
+permalink: /FAQ-concrete
 date: 2014-06-10
 ---
 

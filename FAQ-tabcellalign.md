@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Tables, figures and diagrams
-permalink: /FAQ-tabcellalign.html
+permalink: /FAQ-tabcellalign
 date: 2014-06-10
 ---
 

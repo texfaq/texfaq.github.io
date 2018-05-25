@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Creating citations
-permalink: /FAQ-multbib.html
+permalink: /FAQ-multbib
 date: 2014-06-10
 ---
 

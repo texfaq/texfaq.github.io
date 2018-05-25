@@ -1,6 +1,6 @@
 ---
 section: Common misunderstandings
-permalink: /FAQ-gutter.html
+permalink: /FAQ-gutter
 date: 2014-06-10
 ---
 

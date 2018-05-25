@@ -1,6 +1,6 @@
 ---
 section: Bits and pieces of (La)TeX
-permalink: /FAQ-spawnprog.html
+permalink: /FAQ-spawnprog
 date: 2014-06-10
 ---
 

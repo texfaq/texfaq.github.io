@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Typesetting specialities
-permalink: /FAQ-verbfile.html
+permalink: /FAQ-verbfile
 date: 2014-06-10
 ---
 

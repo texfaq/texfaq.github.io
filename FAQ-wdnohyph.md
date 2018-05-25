@@ -1,7 +1,7 @@
 ---
 section: How do I do&hellip;?
 subsection: Hyphenation
-permalink: /FAQ-wdnohyph.html
+permalink: /FAQ-wdnohyph
 date: 2014-06-10
 ---
 

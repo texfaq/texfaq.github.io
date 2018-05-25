@@ -1,7 +1,7 @@
 ---
 section: Things are Going Wrong&hellip;
 subsection: Things have ''gone away''
-permalink: /FAQ-msxy.html
+permalink: /FAQ-msxy
 date: 2014-06-10
 ---
 

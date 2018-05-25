@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-toodeep.html
+permalink: /FAQ-toodeep
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-tmupfl.html
+permalink: /FAQ-tmupfl
 date: 2014-06-10
 ---
 

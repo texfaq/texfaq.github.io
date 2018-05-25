@@ -1,6 +1,6 @@
 ---
 section: TeX Systems
-permalink: /FAQ-sysother.html
+permalink: /FAQ-sysother
 date: 2014-06-10
 ---
 

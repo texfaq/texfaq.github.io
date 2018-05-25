@@ -1,7 +1,7 @@
 ---
 section: Fonts
 subsection: MetaFont fonts
-permalink: /FAQ-useMF.html
+permalink: /FAQ-useMF
 date: 2014-06-10
 ---
 

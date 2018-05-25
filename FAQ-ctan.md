@@ -1,6 +1,6 @@
 ---
 section: The Background
-permalink: /FAQ-ctan.html
+permalink: /FAQ-ctan
 date: 2014-06-10
 ---
 

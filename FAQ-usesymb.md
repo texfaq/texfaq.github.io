@@ -1,6 +1,6 @@
 ---
 section: Symbols, etc.
-permalink: /FAQ-usesymb.html
+permalink: /FAQ-usesymb
 date: 2014-06-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 section: The joy of TeX errors
-permalink: /FAQ-errstruct.html
+permalink: /FAQ-errstruct
 date: 2014-06-10
 ---
 

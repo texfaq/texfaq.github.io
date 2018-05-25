@@ -1,7 +1,7 @@
 ---
 section: Bibliographies and citations
 subsection: Creating citations
-permalink: /FAQ-chapbib.html
+permalink: /FAQ-chapbib
 date: 2014-06-10
 ---
 

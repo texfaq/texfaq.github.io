@@ -1,6 +1,6 @@
 ---
 section: Literate programming
-permalink: /FAQ-webpkgs.html
+permalink: /FAQ-webpkgs
 date: 2014-06-10
 ---
 

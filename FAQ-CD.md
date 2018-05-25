@@ -1,6 +1,6 @@
 ---
 section: Acquiring the Software
-permalink: /FAQ-CD.html
+permalink: /FAQ-CD
 date: 2014-06-10
 ---
 

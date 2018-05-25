@@ -1,6 +1,6 @@
 ---
 section: Acquiring the Software
-permalink: /FAQ-findfont.html
+permalink: /FAQ-findfont
 date: 2014-06-10
 ---
 

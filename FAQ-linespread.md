@@ -1,6 +1,6 @@
 ---
 section: Common misunderstandings
-permalink: /FAQ-linespread.html
+permalink: /FAQ-linespread
 date: 2014-06-10
 ---
 

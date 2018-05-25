@@ -1,6 +1,6 @@
 ---
 section: Hypertext and PDF
-permalink: /FAQ-pkfix.html
+permalink: /FAQ-pkfix
 date: 2014-06-10
 ---
 

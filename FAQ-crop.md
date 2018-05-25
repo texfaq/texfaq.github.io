@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Page layout
-permalink: /FAQ-crop.html
+permalink: /FAQ-crop
 date: 2014-06-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 section: Adjusting the typesetting
 subsection: Labels and references
-permalink: /FAQ-extref.html
+permalink: /FAQ-extref
 date: 2014-06-10
 ---
 
