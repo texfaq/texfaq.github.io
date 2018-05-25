@@ -1,11 +1,11 @@
 ---
-title: Missing `\begin`{document}
+title: Missing `\begin{document}`
 category: errors
 permalink: /FAQ-missbegdoc
 date: 2014-06-10
 ---
 
-# Missing `\begin`{document}
+# Missing `\begin{document}`
 
 The _preamble_ of your document is the stuff before
 `\begin{document}`; you put `\usepackage` commands and
