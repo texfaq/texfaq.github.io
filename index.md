@@ -527,7 +527,7 @@ redirect_from: /faq
 ## The joy of TeX errors
 - [How to approach errors](/FAQ-erroradvice)
 - [The structure of TeX error messages](/FAQ-errstruct)
-- [An extra ``}'??](/FAQ-extrabrace)
+- [An extra `}`?](/FAQ-extrabrace)
 - [Capacity exceeded [semantic nest &hellip;]](/FAQ-semanticnest)
 - [No room for a new '_thing_'](/FAQ-noroom)
 - [`epsf` gives up after a bit](/FAQ-epsf)

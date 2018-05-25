@@ -4,10 +4,10 @@ permalink: /FAQ-extrabrace
 date: 2014-06-10
 ---
 
-# An extra ``}'??
+# An extra `}`?
 
 You've looked at your LaTeX source and there's no sign of a misplaced
-``} on the line in question.
+`}` on the line in question.
 
 Well, no: this is TeX's cryptic way of hinting that you've put a
 [fragile command](/FAQ-protect) in a moving argument.
