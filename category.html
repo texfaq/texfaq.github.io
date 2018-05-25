@@ -47,7 +47,7 @@ Based on https://github.com/codinfox/codinfox-lanyon/blob/master/blog/category.h
 {% for ct in cats %}
 <h2 id="{{ ct | capitalize }}">{{ ct }}</h2>
 <ul class="category-list">
-  {% for page in site.page %}
+  {% for page in site.pages %}
   {% if page.category contains ct %}
   <li>
     <h3>
