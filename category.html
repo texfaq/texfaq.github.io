@@ -48,7 +48,8 @@ Based on https://github.com/codinfox/codinfox-lanyon/blob/master/blog/category.h
 {% for ct in cats %}
 <h2 id="{{ ct }}">{{ ct | capitalize }}</h2>
 <ul class="category-list">
-  {% for page in site.pages %}
+  {% assign sorted = site.pages | sort: 'title' %}
+  {% for page in sorted %}
   {% if page.category contains ct %}
   <li>
     <h3>
