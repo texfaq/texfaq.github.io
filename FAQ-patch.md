@@ -131,7 +131,7 @@ inaccessible with [`etoolbox`](https://ctan.org/pkg/etoolbox); it uses the regul
 (pattern-matching) package [`l3regex`](https://ctan.org/pkg/l3regex) from the LaTeX3
 distribution to find the code you need to patch.  The package also
 ''knows about'' robust commands and about
-[[`biblatex`](https://ctan.org/pkg/biblatex)](/FAQ-biblatex).
+[`biblatex`](https://ctan.org/pkg/biblatex).
 
 Finally, we'll briefly consider a package that is (just about)
 usable, but not really recommendable.  [`Patch`](https://ctan.org/pkg/Patch) gives you an

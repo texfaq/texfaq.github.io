@@ -55,7 +55,7 @@ compaction:
     great space-saver if the list item texts are short.
 
 The package will manipulate its `enumerate` environment
-labels just like the [[`enumerate`](https://ctan.org/pkg/enumerate) package](/FAQ-enumerate)
+labels just like the [`enumerate` package](/FAQ-enumerate)
 does.
 
 [`Paralist`](https://ctan.org/pkg/Paralist) also provides `itemize` equivalents
@@ -99,7 +99,7 @@ to suppress all spacing above and below your list, or
 to set spacing between items and between paragraphs within items.
 [`Enumitem`](https://ctan.org/pkg/Enumitem) also permits manipulation of the label format in a
 more ''basic'' (and therefore more flexible) manner than the 
-[[`enumerate`](https://ctan.org/pkg/enumerate) package](/FAQ-enumerate) does.
+[`enumerate` package](/FAQ-enumerate) does.
 
 The ultimate in compaction (of every sort) is offered by the
 [`savetrees`](https://ctan.org/pkg/savetrees) package; compaction of lists is included.  The

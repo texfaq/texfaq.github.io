@@ -107,7 +107,7 @@ which case its graphical capabilities have no effect.
 
 
 The [`pgffor`](https://ctan.org/pkg/pgf) package, which is part of the 
-[[`pgf`](https://ctan.org/pkg/pgf) distribution](FAQ-drawing.md), also
+[`pgf`](https://ctan.org/pkg/pgf) distribution, also
 provides iterations to support the needs of graphics.  Its syntax is
 in the style of common programming languages:
 ```latex
