@@ -4,17 +4,17 @@ permalink: category
 layout: index
 ---
 
-{% comment%}
+{%- comment -%}
 Based on https://github.com/codinfox/codinfox-lanyon/blob/master/blog/category.html
-{% endcomment%}
+{%- endcomment -%}
 
-{% assign rawcats = "" %}
-{% for page in site.pages %}
-{% assign tcats = page.category | join:'|' | append:'|' %}
-{% assign rawcats = rawcats | append:tcats %}
-{% endfor %}
+{%- assign rawcats = ""- %}
+{%- for page in site.pages -%}
+{%- assign tcats = page.category | join:'|' | append:'|' -%}
+{%- assign rawcats = rawcats | append:tcats -%}
+{%- endfor -%}
 
-{% assign rawcats = rawcats | split:'|' | sort %}
+{%- assign rawcats = rawcats | split:'|' | sort -%}
 
 {%- assign cats = "" -%}
 
