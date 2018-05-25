@@ -56,7 +56,7 @@ unknown character; on the author's system it's a reverse video
 
 You can spot the BOM by examining the bytes; for example, the
 Unix `hexdump` application can help:
-```latex
+```
 $ hexdump -C <file>
 00000000  ef bb bf 5c 64 6f 63 75 ...
 ```
