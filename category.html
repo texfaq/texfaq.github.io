@@ -37,8 +37,8 @@ Based on https://github.com/codinfox/codinfox-lanyon/blob/master/blog/category.h
 
 <ul class="categories">
 {% for ct in cats %}
-<li><a href="#{{ ct }}"> {{ ct | capitalize }} </a></li>
-{% endfor %}
+  <li><a href="#{{ ct }}"> {{ ct | capitalize }} </a></li>
+{%- endfor %}
 </ul>
 
 {%- for ct in cats %}
@@ -48,7 +48,7 @@ Based on https://github.com/codinfox/codinfox-lanyon/blob/master/blog/category.h
   {%- for page in sorted -%}
   {%- if page.category contains ct %}
   <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-  {% endif -%}
+  {%- endif -%}
   {%- endfor -%}
 </ul>
 {% endfor -%}
