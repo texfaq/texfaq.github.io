@@ -18,6 +18,39 @@ answer, please update the date line at the bottom of the page.
 If you are making a significant change to the content, please make sure you
 add yourself to the [contributors list](AUTHORS.md).
 
+## Categories and tags
+
+Every question in the FAQ should belong to exactly one category: this is
+specified in the YAML header of the source, for example
+```yaml
+---
+title: What's wrong with `\bf`, `\it`, etc.?
+category: usage
+permalink: /FAQ-2letterfontcmd
+date: 2014-06-10
+---
+```
+The aim of the categories is to be relative broad-brush such that the total
+number remains manageable. The current set of categories is used to
+auto-generate the [main index](/): this should be consulted when creating new
+questions (or proposing revision of the categories).
+
+Questions _may_ also have one or more tags, again specified in the YAML,
+for example:
+```yaml
+---
+title: Master and slave counters
+category: programming
+tags: latex macros
+permalink: /FAQ-addtoreset
+date: 2014-06-10
+---
+```
+At present, the total number of tags is small, and not all questions are
+tagged. Unlike categories, questions may have no tags or multiple tags, and
+the set of tags is expected to grow over time. The current set of tags are
+listed in the [questions-by-tag page](/tags).
+
 ## Formatting
 
 The online TeX FAQ is written in [GitHub-flavoured
