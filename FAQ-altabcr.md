@@ -33,7 +33,7 @@ is:
   goodbye & now
 \end{tabular}
 ```
-where the ` ` has been missed from the first line of the table.
+where the `\\` has been missed from the first line of the table.
 In this case, if you continue from the error, you will find that
 LaTeX has made a table equivalent to:
 ```latex
@@ -57,7 +57,7 @@ happy & as can be
 the problem here (as explained in 
 [tabular cell alignment](/FAQ-tabcellalign)) is that the
 `\raggedright` command in the column specification has overwritten
-`tabular`s definition of ` `, so that
+`tabular`s definition of `\\`, so that
 `happy` appears in a new line of the second column, and the
 following `\&` appears to LaTeX just like the second
 `\&` in the first example above.
