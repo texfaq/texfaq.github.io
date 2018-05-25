@@ -36,21 +36,21 @@ Based on https://github.com/codinfox/codinfox-lanyon/blob/master/blog/category.h
 </h1>
 
 <ul class="categories">
-{%- for ct in cats -%}
+{% for ct in cats %}
 <li><a href="#{{ ct }}"> {{ ct | capitalize }} </a></li>
-{%- endfor -%}
+{% endfor %}
 </ul>
 
-{%- for ct in cats -%}
+{%- for ct in cats %}
 <h2 id="{{ ct }}">{{ ct | capitalize }}</h2>
 <ul class="category-list">
   {%- assign sorted = site.pages | sort: 'title' -%}
   {%- for page in sorted -%}
-  {%- if page.category contains ct -%}
+  {%- if page.category contains ct %}
   <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-  {%- endif -%}
+  {% endif -%}
   {%- endfor -%}
 </ul>
-{%- endfor -%}
+{% endfor -%}
 
 </div>
