@@ -34,7 +34,7 @@ in life is flowing text from one box on the page to the next.  One of
 the package's design aims seems to have been the production of
 posters, and a worked example is provided.  The author of
 [`flowfram`](https://ctan.org/pkg/flowfram) has an experimental tool called
-[JpgfDraw](https://www.dickimaw-books.com/software.html#jpgfdraw), which
+[FlowframTk (formerly called JpgfDraw)](https://www.dickimaw-books.com/software.html#flowframtk), which
 allows you to construct the outline of frames for use with
 [`flowfram`](https://ctan.org/pkg/flowfram).
 
