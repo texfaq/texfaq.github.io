@@ -1,5 +1,5 @@
 ---
-section: Common misunderstandings
+category: usage
 permalink: /FAQ-include
 date: 2014-06-10
 ---

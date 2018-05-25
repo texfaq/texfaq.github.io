@@ -1,6 +1,6 @@
 ---
-section: Adjusting the typesetting
-subsection: Page layout
+category: formatting
+tags: layout
 permalink: /FAQ-epigraph
 date: 2014-06-10
 ---

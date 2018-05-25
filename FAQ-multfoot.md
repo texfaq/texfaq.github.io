@@ -1,6 +1,6 @@
 ---
-section: How do I do&hellip;?
-subsection: Footnotes
+category: usage
+tags: footnotes
 permalink: /FAQ-multfoot
 date: 2014-06-10
 ---

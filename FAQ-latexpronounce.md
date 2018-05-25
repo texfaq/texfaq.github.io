@@ -1,5 +1,5 @@
 ---
-section: The Background
+category: background
 permalink: /FAQ-latexpronounce
 date: 2014-06-10
 ---

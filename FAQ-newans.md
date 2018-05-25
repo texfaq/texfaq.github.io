@@ -1,5 +1,5 @@
 ---
-section: You're still stuck?
+category: misc
 permalink: /FAQ-newans
 date: 2018-05-23
 ---

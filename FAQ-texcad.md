@@ -1,5 +1,5 @@
 ---
-section: Support Packages for TeX
+category: misc
 permalink: /FAQ-texcad
 date: 2014-06-10
 ---

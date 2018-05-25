@@ -1,5 +1,5 @@
 ---
-section: Symbols, etc.
+category: formatting
 permalink: /FAQ-atsign
 date: 2014-06-10
 ---

@@ -1,5 +1,5 @@
 ---
-section: Documentation and Help
+category: documentation
 permalink: /FAQ-whereFAQ
 date: 2014-06-10
 ---

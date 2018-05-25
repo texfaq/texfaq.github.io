@@ -1,6 +1,6 @@
 ---
-section: Things are Going Wrong&hellip;
-subsection: Things have ''gone away''
+category: errors
+tags: deprecated
 permalink: /FAQ-msxy
 date: 2014-06-10
 ---

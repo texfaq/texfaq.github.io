@@ -1,6 +1,6 @@
 ---
-section: Macro programming
-subsection: LaTeX macro tools and techniques
+category: programming
+tags: macros latex
 permalink: /FAQ-protect
 date: 2014-06-10
 ---

@@ -1,6 +1,6 @@
 ---
-section: Things are Going Wrong&hellip;
-subsection: Getting things to fit
+category: errors
+tags: layout
 permalink: /FAQ-enlarge
 date: 2014-06-10
 ---

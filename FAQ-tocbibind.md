@@ -1,6 +1,6 @@
 ---
-section: Adjusting the typesetting
-subsection: Tables of contents and indexes
+category: formatting
+tags: toc index
 permalink: /FAQ-tocbibind
 date: 2014-06-10
 ---

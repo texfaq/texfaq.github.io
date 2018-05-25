@@ -1,6 +1,6 @@
 ---
-section: How do I do&hellip;?
-subsection: Floating tables, figures, etc.
+category: floats
+tags: tables figures
 permalink: /FAQ-2colfloat
 date: 2018-05-18
 ---

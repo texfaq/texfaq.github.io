@@ -1,5 +1,5 @@
 ---
-section: You're still stuck?
+category: misc
 permalink: /FAQ-bug
 date: 2018-05-24
 ---

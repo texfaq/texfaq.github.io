@@ -1,6 +1,6 @@
 ---
-section: Bibliographies and citations
-subsection: Creating citations
+category: bibliographies
+tags: citations
 permalink: /FAQ-bibtocorder
 date: 2014-06-10
 ---

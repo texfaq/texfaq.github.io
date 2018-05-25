@@ -1,6 +1,5 @@
 ---
-section: How do I do&hellip;?
-subsection: Document management
+category: usage
 permalink: /FAQ-filesused
 date: 2014-06-10
 ---

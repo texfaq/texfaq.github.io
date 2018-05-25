@@ -1,5 +1,5 @@
 ---
-section: TeX Systems
+category: installing
 permalink: /FAQ-sysother
 date: 2014-06-10
 ---

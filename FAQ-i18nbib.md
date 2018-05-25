@@ -1,6 +1,6 @@
 ---
-section: Bibliographies and citations
-subsection: Creating citations
+category: bibliographies
+tags: citations
 permalink: /FAQ-i18nbib
 date: 2014-06-10
 ---

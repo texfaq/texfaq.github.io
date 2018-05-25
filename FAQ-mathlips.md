@@ -1,6 +1,6 @@
 ---
-section: How do I do&hellip;?
-subsection: Mathematics
+category: usage
+tags: math
 permalink: /FAQ-mathlips
 date: 2014-06-10
 ---

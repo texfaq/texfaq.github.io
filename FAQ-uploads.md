@@ -1,5 +1,5 @@
 ---
-section: Acquiring the Software
+category: installing
 permalink: /FAQ-uploads
 date: 2014-06-10
 ---

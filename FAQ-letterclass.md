@@ -1,6 +1,6 @@
 ---
-section: Adjusting the typesetting
-subsection: Alternative document classes
+category: formatting
+tags: classes
 permalink: /FAQ-letterclass
 date: 2014-06-10
 ---

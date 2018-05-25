@@ -1,5 +1,5 @@
 ---
-section: Common misunderstandings
+category: usage
 permalink: /FAQ-xspace
 date: 2014-06-10
 ---

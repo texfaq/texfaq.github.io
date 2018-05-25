@@ -1,5 +1,5 @@
 ---
-section: The joy of TeX errors
+category: errors
 permalink: /FAQ-parmoderr
 date: 2014-06-10
 ---

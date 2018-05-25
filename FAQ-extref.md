@@ -1,6 +1,6 @@
 ---
-section: Adjusting the typesetting
-subsection: Labels and references
+category: formatting
+tags: labels references
 permalink: /FAQ-extref
 date: 2014-06-10
 ---

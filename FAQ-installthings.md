@@ -1,5 +1,5 @@
 ---
-section: Installing (La)TeX files
+category: installing
 permalink: /FAQ-installthings
 date: 2014-06-10
 ---

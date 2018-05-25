@@ -1,6 +1,6 @@
 ---
-section: Adjusting the typesetting
-subsection: Document structure
+category: formatting
+tags: structure
 permalink: /FAQ-appendix
 date: 2014-06-10
 ---

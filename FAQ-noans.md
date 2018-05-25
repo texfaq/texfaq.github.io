@@ -1,5 +1,5 @@
 ---
-section: You're still stuck?
+category: misc
 permalink: /FAQ-noans
 date: 2018-05-22
 ---

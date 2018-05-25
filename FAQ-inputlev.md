@@ -1,5 +1,5 @@
 ---
-section: The joy of TeX errors
+category: errors
 permalink: /FAQ-inputlev
 date: 2014-06-10
 ---

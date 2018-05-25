@@ -1,5 +1,5 @@
 ---
-section: Bits and pieces of (La)TeX
+category: concepts
 permalink: /FAQ-adobetypen
 date: 2014-06-10
 ---

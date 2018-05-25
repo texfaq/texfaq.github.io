@@ -1,6 +1,5 @@
 ---
-section: Why does it _do_ that?
-subsection: Common errors
+category: errors
 permalink: /FAQ-noline
 date: 2014-06-10
 ---

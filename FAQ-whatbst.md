@@ -1,6 +1,6 @@
 ---
-section: Bibliographies and citations
-subsection: Creating citations
+category: bibliographies
+tags: citations
 permalink: /FAQ-whatbst
 date: 2014-06-10
 ---

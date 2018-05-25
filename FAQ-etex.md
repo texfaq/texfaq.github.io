@@ -1,5 +1,5 @@
 ---
-section: The Background
+category: background
 permalink: /FAQ-etex
 date: 2018-05-24
 ---

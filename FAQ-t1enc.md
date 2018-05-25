@@ -1,6 +1,5 @@
 ---
-section: Common misunderstandings
-subsection: Why shouldn't I?
+category: usage
 permalink: /FAQ-t1enc
 date: 2014-06-10
 ---

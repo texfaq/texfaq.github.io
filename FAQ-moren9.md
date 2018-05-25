@@ -1,6 +1,6 @@
 ---
-section: Macro programming
-subsection: ''Generic'' macros and techniques
+category: programming
+tags: macros
 permalink: /FAQ-moren9
 date: 2014-06-10
 ---

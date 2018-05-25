@@ -1,6 +1,5 @@
 ---
-section: Bibliographies and citations
-subsection: Manipulating whole bibliographies
+category: bibliographies
 permalink: /FAQ-nocitestar
 date: 2014-06-10
 ---

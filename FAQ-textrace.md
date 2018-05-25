@@ -1,5 +1,5 @@
 ---
-section: Current TeX-related projects
+category: misc
 permalink: /FAQ-textrace
 date: 2014-06-10
 ---

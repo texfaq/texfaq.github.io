@@ -1,6 +1,5 @@
 ---
-section: Adjusting the typesetting
-subsection: Spacing of characters and lines
+category: formatting
 permalink: /FAQ-ragright
 date: 2014-06-10
 ---

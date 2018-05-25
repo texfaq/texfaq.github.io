@@ -1,6 +1,6 @@
 ---
-section: Fonts
-subsection: MetaFont fonts
+category: fonts
+tags: metafont
 permalink: /FAQ-keepfonts
 date: 2014-06-10
 ---

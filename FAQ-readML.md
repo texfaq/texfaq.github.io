@@ -1,5 +1,5 @@
 ---
-section: Format conversions
+category: misc
 permalink: /FAQ-readML
 date: 2014-06-10
 ---

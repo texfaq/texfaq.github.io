@@ -1,5 +1,5 @@
 ---
-section: Installing (La)TeX files
+category: installing
 permalink: /FAQ-instmffont
 date: 2014-06-10
 ---

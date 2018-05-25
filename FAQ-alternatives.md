@@ -1,5 +1,5 @@
 ---
-section: Current TeX-related projects
+category: misc
 permalink: /FAQ-alternatives
 date: 2018-05-24
 redirect_from: /FAQ-ant

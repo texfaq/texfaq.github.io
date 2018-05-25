@@ -1,6 +1,6 @@
 ---
-section: How do I do&hellip;?
-subsection: Lists
+category: usage
+tags: lists
 permalink: /FAQ-interruptlist
 date: 2014-06-10
 ---

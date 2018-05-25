@@ -1,6 +1,6 @@
 ---
-section: How do I do&hellip;?
-subsection: Tables, figures and diagrams
+category: floats
+tags: tables figures
 permalink: /FAQ-multirow
 date: 2014-06-10
 ---

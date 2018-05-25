@@ -1,6 +1,6 @@
 ---
-section: How do I do&hellip;?
-subsection: Hyphenation
+category: usage
+tags: hyphenation
 permalink: /FAQ-wdnohyph
 date: 2014-06-10
 ---

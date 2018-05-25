@@ -1,5 +1,5 @@
 ---
-section: The Background
+category: background
 permalink: /FAQ-pdftex
 date: 2018-05-24
 redirect_from: FAQ-whatpdftex

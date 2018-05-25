@@ -1,5 +1,5 @@
 ---
-section: Documentation and Help
+category: documentation
 permalink: /FAQ-maillistsstar
 date: 2016-08-18
 ---

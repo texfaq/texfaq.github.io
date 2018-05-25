@@ -1,5 +1,5 @@
 ---
-section: Graphics
+category: graphics
 permalink: /FAQ-drawFeyn
 date: 2014-06-10
 ---

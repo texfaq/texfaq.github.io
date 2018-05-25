@@ -1,6 +1,5 @@
 ---
-section: Bibliographies and citations
-subsection: Creating bibliographies
+category: bibliographies
 permalink: /FAQ-bibplain
 date: 2014-06-10
 ---

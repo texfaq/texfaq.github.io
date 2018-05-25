@@ -1,5 +1,5 @@
 ---
-section: Literate programming
+category: misc
 permalink: /FAQ-lit
 date: 2014-06-10
 ---

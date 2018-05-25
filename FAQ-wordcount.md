@@ -1,5 +1,5 @@
 ---
-section: Support Packages for TeX
+category: misc
 permalink: /FAQ-wordcount
 date: 2014-06-10
 ---

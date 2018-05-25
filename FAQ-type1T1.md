@@ -1,5 +1,5 @@
 ---
-section: Hypertext and PDF
+category: usage
 permalink: /FAQ-type1T1
 date: 2014-06-10
 ---

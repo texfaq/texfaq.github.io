@@ -1,6 +1,5 @@
 ---
-section: How do I do&hellip;?
-subsection: Odds and ends
+category: misc
 permalink: /FAQ-varwidth
 date: 2014-06-10
 ---

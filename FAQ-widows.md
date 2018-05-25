@@ -1,6 +1,6 @@
 ---
-section: Things are Going Wrong&hellip;
-subsection: Making things stay where you want them
+category: errors
+tags: layout
 permalink: /FAQ-widows
 date: 2014-06-10
 ---

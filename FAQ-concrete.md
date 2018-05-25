@@ -1,6 +1,5 @@
 ---
-section: Fonts
-subsection: Particular font families
+category: fonts
 permalink: /FAQ-concrete
 date: 2014-06-10
 ---

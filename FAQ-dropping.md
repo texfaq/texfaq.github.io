@@ -1,6 +1,5 @@
 ---
-section: Adjusting the typesetting
-subsection: Typesetting specialities
+category: formatting
 permalink: /FAQ-dropping
 date: 2014-06-10
 ---

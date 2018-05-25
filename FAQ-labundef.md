@@ -1,6 +1,6 @@
 ---
-section: Macro programming
-subsection: LaTeX macro programming
+category: programming
+tags: latex macros
 permalink: /FAQ-labundef
 date: 2014-06-10
 ---

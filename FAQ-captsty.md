@@ -1,6 +1,6 @@
 ---
-section: Adjusting the typesetting
-subsection: Document structure
+category: formatting
+tags: structure
 permalink: /FAQ-captsty
 date: 2014-06-10
 ---

@@ -1,5 +1,5 @@
 ---
-section: Format conversions
+category: misc
 permalink: /FAQ-SGML2TeX
 date: 2014-06-10
 ---

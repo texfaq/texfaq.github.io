@@ -1,6 +1,6 @@
 ---
-section: How do I do&hellip;?
-subsection: Floating tables, figures, etc.
+category: floats
+tags: tables figures
 permalink: /FAQ-dpfloat
 date: 2014-06-10
 ---

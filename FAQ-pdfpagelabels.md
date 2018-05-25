@@ -1,5 +1,5 @@
 ---
-section: Hypertext and PDF
+category: usage
 permalink: /FAQ-pdfpagelabels
 date: 2014-06-10
 ---
