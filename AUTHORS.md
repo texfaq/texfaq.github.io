@@ -10,6 +10,7 @@ The following people are _known_ to have contributed to the FAQ:
 - Karl Berry
 - Giuseppe Bilotta
 - Charles Cameron
+- David Carlisle
 - François Charette
 - Damian Cugley
 - Martin Garrod
@@ -96,4 +97,4 @@ The following people are _known_ to have contributed to the FAQ:
 - Rick Zaccone
 - Gregor Zattler
 - Reinhard Zierke
-- David Carlisle
+
