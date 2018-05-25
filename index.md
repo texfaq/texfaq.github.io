@@ -2,7 +2,7 @@
 redirect_from: /faq
 ---
 
-# The English Language TeX Frequently Asked Questions
+# The TeX Frequently Asked Question List
 
 ## The Background
 - [Getting started](/FAQ-startup)
