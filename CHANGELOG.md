@@ -6,6 +6,15 @@ https://github.com/uktug/uk-tex-faq/blob/master/ChangeLog
 The format is based on [Keep a
 Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2018-05-25
+
+Added
+- Q-xetex-luatex: New combination question based on Q-xetex and Q-luatex
+
+## Removed
+- Q-luatex: Incorporated into Q-xetex-luatex
+- Q-xetex: Incorporated into Q-xetex-luatex
+
 ## 2018-05-24
 
 ### Added
