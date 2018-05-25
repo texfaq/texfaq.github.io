@@ -27,7 +27,7 @@ keyboards have been (or ever will be) manufactured.
 
 By contrast, the [`fontenc`](https://ctan.org/pkg/fontenc) package generates the T1
 code points from ordinary LaTeX commands (e.g., it generates the
-`&eacute;` character codepoint from the command `\``e`).
+`&eacute;` character codepoint from the command ``\`e``).
 So, unless you have program-generated T1 input (which is almost
 inconceivable), use `\usepackage[T1]{fontenc}` rather than
 `\usepackage{t1enc}`.
