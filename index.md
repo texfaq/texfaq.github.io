@@ -436,7 +436,7 @@ redirect_from: /faq
 
 ### LaTeX macro tools and techniques
 - [Using Plain or primitive commands in LaTeX](/FAQ-plninltxstar)
-- [`` and `@` in macro names](/FAQ-atsigns)
+- [`\@` and `@` in macro names](/FAQ-atsigns)
 - [What's the reason for 'protection'?](/FAQ-protect)
 - [`\edef` does not work with `\protect`](/FAQ-edef)
 - [The definitions of LaTeX commands](/FAQ-ltxcmds)
