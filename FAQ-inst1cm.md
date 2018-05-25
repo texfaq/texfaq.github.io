@@ -1,4 +1,5 @@
 ---
+title: Installing the Type&nbsp;1 versions of the CM&nbsp;fonts
 category: installing
 permalink: /FAQ-inst1cm
 date: 2014-06-10

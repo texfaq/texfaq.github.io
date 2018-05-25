@@ -1,4 +1,5 @@
 ---
+title: What is &epsilon;-TeX?
 category: background
 permalink: /FAQ-etex
 date: 2018-05-24

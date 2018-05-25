@@ -1,4 +1,5 @@
 ---
+title: TeX User Groups
 category: background
 permalink: /FAQ-TUGstar
 date: 2014-06-10

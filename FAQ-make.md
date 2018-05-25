@@ -1,4 +1,5 @@
 ---
+title: Makefiles for LaTeX documents
 category: usage
 permalink: /FAQ-make
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: TeX font metric files for Type 1 fonts
 category: fonts
 permalink: /FAQ-metrics
 date: 2014-06-10

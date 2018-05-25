@@ -1,4 +1,5 @@
 ---
+title: Using BibTeX with Plain TeX
 category: bibliographies
 permalink: /FAQ-bibplain
 date: 2014-06-10

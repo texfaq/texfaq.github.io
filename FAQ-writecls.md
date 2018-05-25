@@ -1,4 +1,5 @@
 ---
+title: Learning to write LaTeX classes and packages
 category: documentation
 permalink: /FAQ-writecls
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: Packages to set up page designs
 category: formatting
 tags: layout
 permalink: /FAQ-marginpkgs

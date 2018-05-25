@@ -1,4 +1,5 @@
 ---
+title: Footnotes in captions
 category: usage
 tags: footnotes
 permalink: /FAQ-ftncapt

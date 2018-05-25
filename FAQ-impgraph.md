@@ -1,4 +1,5 @@
 ---
+title: Importing graphics into (La)TeX documents
 category: graphics
 permalink: /FAQ-impgraph
 date: 2014-06-10

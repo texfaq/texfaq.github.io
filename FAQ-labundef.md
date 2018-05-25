@@ -1,4 +1,5 @@
 ---
+title: Finding if a label is undefined
 category: programming
 tags: latex macros
 permalink: /FAQ-labundef

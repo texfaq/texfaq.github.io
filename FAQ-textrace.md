@@ -1,4 +1,5 @@
 ---
+title: Making outline fonts from MetaFont
 category: misc
 permalink: /FAQ-textrace
 date: 2014-06-10

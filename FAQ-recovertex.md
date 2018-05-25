@@ -1,4 +1,5 @@
 ---
+title: Retrieving (La)TeX from DVI, etc.
 category: misc
 permalink: /FAQ-recovertex
 date: 2014-06-10

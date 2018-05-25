@@ -1,4 +1,5 @@
 ---
+title: Unable to read an entire line
 category: errors
 permalink: /FAQ-buffovl
 date: 2014-06-10

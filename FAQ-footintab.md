@@ -1,4 +1,5 @@
 ---
+title: Footnotes in tables
 category: usage
 tags: footnotes
 permalink: /FAQ-footintab

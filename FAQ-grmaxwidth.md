@@ -1,4 +1,5 @@
 ---
+title: Limit the width of imported graphics
 category: graphics
 permalink: /FAQ-grmaxwidth
 date: 2014-06-10

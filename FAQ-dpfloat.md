@@ -1,4 +1,5 @@
 ---
+title: Facing floats on 2-page spread
 category: floats
 tags: tables figures
 permalink: /FAQ-dpfloat

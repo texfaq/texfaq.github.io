@@ -1,4 +1,5 @@
 ---
+title: How to create crop marks
 category: formatting
 tags: layout
 permalink: /FAQ-crop

@@ -1,4 +1,5 @@
 ---
+title: Typesetting all those TeX-related logos
 category: misc
 permalink: /FAQ-logos
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: Choosing a bibliography style
 category: bibliographies
 tags: citations
 permalink: /FAQ-whatbst

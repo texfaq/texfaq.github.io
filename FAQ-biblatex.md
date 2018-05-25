@@ -1,4 +1,5 @@
 ---
+title: Replacing the BibTeX&ndash;LaTeX mechanism
 category: misc
 permalink: /FAQ-biblatex
 date: 2018-05-24

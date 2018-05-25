@@ -1,4 +1,5 @@
 ---
+title: Fancy enumeration lists
 category: usage
 tags: lists
 permalink: /FAQ-enumerate

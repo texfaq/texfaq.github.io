@@ -1,4 +1,5 @@
 ---
+title: What is LaTeX2e?
 category: background
 permalink: /FAQ-latex2e
 date: 2014-06-10

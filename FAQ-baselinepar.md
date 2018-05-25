@@ -1,4 +1,5 @@
 ---
+title: Only one `\baselineskip` per paragraph
 category: usage
 permalink: /FAQ-baselinepar
 date: 2014-06-10

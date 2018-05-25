@@ -1,4 +1,5 @@
 ---
+title: ''String too long'' in BibTeX
 category: bibliographies
 permalink: /FAQ-bibstrtl
 date: 2014-06-10

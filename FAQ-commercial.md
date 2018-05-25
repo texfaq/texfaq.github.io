@@ -1,4 +1,5 @@
 ---
+title: Commercial TeX implementations
 category: installing
 permalink: /FAQ-commercial
 date: 2014-06-10

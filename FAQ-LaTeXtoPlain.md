@@ -1,4 +1,5 @@
 ---
+title: Translating LaTeX to Plain TeX
 category: misc
 permalink: /FAQ-LaTeXtoPlain
 date: 2014-06-10

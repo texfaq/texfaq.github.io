@@ -1,4 +1,5 @@
 ---
+title: Sorting and compressing citations
 category: bibliographies
 tags: citations
 permalink: /FAQ-citesort

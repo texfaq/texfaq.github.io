@@ -1,4 +1,5 @@
 ---
+title: Controlling widows and orphans
 category: errors
 tags: layout
 permalink: /FAQ-widows

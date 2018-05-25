@@ -1,4 +1,5 @@
 ---
+title: How many words have you written?
 category: misc
 permalink: /FAQ-wordcount
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: The size of printed output
 category: formatting
 tags: layout
 permalink: /FAQ-papersize

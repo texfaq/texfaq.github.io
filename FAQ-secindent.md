@@ -1,4 +1,5 @@
 ---
+title: Indent after section headings
 category: formatting
 tags: structure
 permalink: /FAQ-secindent

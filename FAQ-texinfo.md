@@ -1,4 +1,5 @@
 ---
+title: What is Texinfo?
 category: background
 permalink: /FAQ-texinfo
 date: 2014-06-10

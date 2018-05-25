@@ -1,4 +1,5 @@
 ---
+title: Conversion from SGML or HTML to TeX
 category: misc
 permalink: /FAQ-SGML2TeX
 date: 2014-06-10

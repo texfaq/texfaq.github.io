@@ -1,4 +1,5 @@
 ---
+title: Changing the margins in LaTeX
 category: formatting
 tags: layout
 permalink: /FAQ-changemargin

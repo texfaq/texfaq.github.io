@@ -1,4 +1,5 @@
 ---
+title: What are the AMS packages (AMSTeX, etc.)?
 category: background
 permalink: /FAQ-AMSpkg
 date: 2014-06-10

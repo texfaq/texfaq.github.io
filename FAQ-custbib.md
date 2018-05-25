@@ -1,4 +1,5 @@
 ---
+title: Creating a bibliography style
 category: bibliographies
 permalink: /FAQ-custbib
 date: 2014-06-10

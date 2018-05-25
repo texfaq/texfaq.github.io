@@ -1,4 +1,5 @@
 ---
+title: Other conversions to and from (La)TeX
 category: misc
 permalink: /FAQ-fmtconv
 date: 2014-06-10

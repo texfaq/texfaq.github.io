@@ -1,4 +1,5 @@
 ---
+title: How should I pronounce ''TeX''?
 category: background
 permalink: /FAQ-TeXpronounce
 date: 2014-06-10

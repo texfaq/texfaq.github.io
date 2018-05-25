@@ -1,4 +1,5 @@
 ---
+title: Including Plain TeX files in LaTeX
 category: usage
 permalink: /FAQ-inclplain
 date: 2014-06-10

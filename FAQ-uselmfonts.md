@@ -1,4 +1,5 @@
 ---
+title: Using the Latin Modern fonts
 category: fonts
 permalink: /FAQ-uselmfonts
 date: 2014-06-10

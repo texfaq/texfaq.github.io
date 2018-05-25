@@ -1,4 +1,5 @@
 ---
+title: Replacing the standard classes
 category: formatting
 tags: classes
 permalink: /FAQ-replstdcls

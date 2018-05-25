@@ -1,4 +1,5 @@
 ---
+title: All the files used by this document
 category: usage
 permalink: /FAQ-filesused
 date: 2014-06-10

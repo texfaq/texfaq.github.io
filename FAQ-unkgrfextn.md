@@ -1,4 +1,5 @@
 ---
+title: ''Unknown graphics extension''
 category: errors
 permalink: /FAQ-unkgrfextn
 date: 2014-06-10

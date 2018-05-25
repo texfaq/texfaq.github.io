@@ -1,4 +1,5 @@
 ---
+title: How to typeset an underscore character
 category: formatting
 permalink: /FAQ-underscore
 date: 2014-06-10

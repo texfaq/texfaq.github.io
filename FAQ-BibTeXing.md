@@ -1,4 +1,5 @@
 ---
+title: BibTeX Documentation
 category: documentation
 permalink: /FAQ-BibTeXing
 date: 2014-06-10

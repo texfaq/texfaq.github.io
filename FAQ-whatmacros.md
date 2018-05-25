@@ -1,4 +1,5 @@
 ---
+title: What are (TeX) macros
 category: concepts
 permalink: /FAQ-whatmacros
 date: 2014-06-10

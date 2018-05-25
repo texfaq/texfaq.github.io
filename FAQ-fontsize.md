@@ -1,4 +1,5 @@
 ---
+title: Fonts at arbitrary sizes
 category: programming
 tags: latex macros
 permalink: /FAQ-fontsize

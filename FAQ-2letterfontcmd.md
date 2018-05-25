@@ -1,4 +1,5 @@
 ---
+title: What's wrong with `\bf`, `\it`, etc.?
 category: usage
 permalink: /FAQ-2letterfontcmd
 date: 2014-06-10

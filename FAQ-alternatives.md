@@ -1,4 +1,5 @@
 ---
+title: Alternatives to TeX
 category: misc
 permalink: /FAQ-alternatives
 date: 2018-05-24

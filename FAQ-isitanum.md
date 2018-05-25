@@ -1,4 +1,5 @@
 ---
+title: Is the argument a number?
 category: programming
 tags: macros
 permalink: /FAQ-isitanum

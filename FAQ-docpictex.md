@@ -1,4 +1,5 @@
 ---
+title: The PicTeX manual
 category: documentation
 permalink: /FAQ-docpictex
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: Parallel setting of text
 category: formatting
 tags: layout
 permalink: /FAQ-parallel

@@ -1,4 +1,5 @@
 ---
+title: The style of document titles
 category: formatting
 tags: structure
 permalink: /FAQ-titlsty

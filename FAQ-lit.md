@@ -1,4 +1,5 @@
 ---
+title: What is Literate Programming?
 category: misc
 permalink: /FAQ-lit
 date: 2014-06-10

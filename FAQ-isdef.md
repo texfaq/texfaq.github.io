@@ -1,4 +1,5 @@
 ---
+title: Is this command defined?
 category: programming
 tags: macros
 permalink: /FAQ-isdef

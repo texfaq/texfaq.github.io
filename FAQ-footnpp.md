@@ -1,4 +1,5 @@
 ---
+title: Footnotes numbered ''per page''
 category: usage
 tags: footnotes
 permalink: /FAQ-footnpp

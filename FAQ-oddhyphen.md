@@ -1,4 +1,5 @@
 ---
+title: (Merely) peculiar hyphenation
 category: usage
 tags: hyphenation
 permalink: /FAQ-oddhyphen

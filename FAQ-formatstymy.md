@@ -1,4 +1,5 @@
 ---
+title: ''Fatal format file error; I'm stymied''
 category: errors
 permalink: /FAQ-formatstymy
 date: 2014-06-10

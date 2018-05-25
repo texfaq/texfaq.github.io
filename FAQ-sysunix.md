@@ -1,4 +1,5 @@
 ---
+title: Unix and GNU Linux systems
 category: installing
 permalink: /FAQ-sysunix
 date: 2014-06-10

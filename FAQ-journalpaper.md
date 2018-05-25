@@ -1,4 +1,5 @@
 ---
+title: Setting papers for journals
 category: formatting
 tags: classes
 permalink: /FAQ-journalpaper

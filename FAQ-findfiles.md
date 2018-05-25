@@ -1,4 +1,5 @@
 ---
+title: Finding (La)TeX files
 category: installing
 permalink: /FAQ-findfiles
 date: 2014-06-10

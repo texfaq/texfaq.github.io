@@ -1,4 +1,5 @@
 ---
+title: Specialist mailing lists
 category: documentation
 permalink: /FAQ-maillistsstar
 date: 2016-08-18

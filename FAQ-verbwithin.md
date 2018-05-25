@@ -1,4 +1,5 @@
 ---
+title: Why doesn't verbatim work within &hellip;?
 category: errors
 permalink: /FAQ-verbwithin
 date: 2014-06-10

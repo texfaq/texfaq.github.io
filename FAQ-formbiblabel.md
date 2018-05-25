@@ -1,4 +1,5 @@
 ---
+title: Format of numbers in the bibliography
 category: bibliographies
 tags: citations
 permalink: /FAQ-formbiblabel

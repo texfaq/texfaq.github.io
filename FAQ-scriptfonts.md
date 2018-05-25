@@ -1,4 +1,5 @@
 ---
+title: Better script fonts for maths
 category: formatting
 permalink: /FAQ-scriptfonts
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: Generating an index in (La)TeX
 category: formatting
 permalink: /FAQ-makeindex
 date: 2014-06-10

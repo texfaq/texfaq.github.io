@@ -1,4 +1,5 @@
 ---
+title: Why does it ignore paragraph parameters?
 category: usage
 permalink: /FAQ-paraparam
 date: 2014-06-10

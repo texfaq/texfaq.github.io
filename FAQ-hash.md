@@ -1,4 +1,5 @@
 ---
+title: Defining macros within macros
 category: programming
 tags: macros
 permalink: /FAQ-hash

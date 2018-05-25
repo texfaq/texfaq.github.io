@@ -1,4 +1,5 @@
 ---
+title: Checksum mismatch in font
 category: errors
 permalink: /FAQ-checksum
 date: 2014-06-10

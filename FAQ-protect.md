@@ -1,4 +1,5 @@
 ---
+title: What's the reason for ''protection''?
 category: programming
 tags: macros latex
 permalink: /FAQ-protect

@@ -1,4 +1,5 @@
 ---
+title: Drawing Feynman diagrams in LaTeX
 category: graphics
 permalink: /FAQ-drawFeyn
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: ''Missing `$` inserted''
 category: errors
 permalink: /FAQ-nodollar
 date: 2014-06-10

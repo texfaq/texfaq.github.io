@@ -1,4 +1,5 @@
 ---
+title: How does LaTeX relate to Plain TeX?
 category: background
 permalink: /FAQ-LaTeXandPlain
 date: 2014-06-10

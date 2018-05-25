@@ -1,4 +1,5 @@
 ---
+title: My section title is too wide for the page header
 category: formatting
 tags: structure
 permalink: /FAQ-runheadtoobig

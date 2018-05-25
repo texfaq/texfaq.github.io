@@ -1,4 +1,5 @@
 ---
+title: The _hyperTeX_ project
 category: usage
 permalink: /FAQ-hypertex
 date: 2014-06-10

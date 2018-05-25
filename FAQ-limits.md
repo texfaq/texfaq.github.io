@@ -1,4 +1,5 @@
 ---
+title: Sub- and superscript positioning for operators
 category: usage
 tags: math
 permalink: /FAQ-limits

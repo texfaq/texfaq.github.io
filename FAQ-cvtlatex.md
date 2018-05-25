@@ -1,4 +1,5 @@
 ---
+title: Transcribing LaTeX command definitions
 category: programming
 tags: macros
 permalink: /FAQ-cvtlatex

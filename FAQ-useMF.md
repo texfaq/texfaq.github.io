@@ -1,4 +1,5 @@
 ---
+title: Getting MetaFont to do what you want
 category: fonts
 tags: metafont
 permalink: /FAQ-useMF

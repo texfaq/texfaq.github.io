@@ -1,4 +1,5 @@
 ---
+title: Text inside maths
 category: usage
 tags: math
 permalink: /FAQ-mathstext

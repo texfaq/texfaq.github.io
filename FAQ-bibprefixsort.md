@@ -1,4 +1,5 @@
 ---
+title: BibTeX sorting and name prefixes
 category: bibliographies
 permalink: /FAQ-bibprefixsort
 date: 2014-06-10

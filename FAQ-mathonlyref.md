@@ -1,4 +1,5 @@
 ---
+title: Numbers for referenced equations only
 category: usage
 tags: math
 permalink: /FAQ-mathonlyref

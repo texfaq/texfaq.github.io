@@ -1,4 +1,5 @@
 ---
+title: Acquiring bitmap fonts
 category: fonts
 tags: metafont
 permalink: /FAQ-getbitmap

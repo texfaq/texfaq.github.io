@@ -1,4 +1,5 @@
 ---
+title: What was the CTAN `nonfree` tree?
 category: installing
 permalink: /FAQ-nonfree
 date: 2014-06-10

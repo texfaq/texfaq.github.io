@@ -1,4 +1,5 @@
 ---
+title: Not in outer par mode
 category: errors
 permalink: /FAQ-parmoderr
 date: 2014-06-10

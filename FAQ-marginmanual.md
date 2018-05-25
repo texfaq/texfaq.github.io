@@ -1,4 +1,5 @@
 ---
+title: How to set up page layout ''by hand''
 category: formatting
 tags: layout
 permalink: /FAQ-marginmanual

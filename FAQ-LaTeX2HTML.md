@@ -1,4 +1,5 @@
 ---
+title: Conversion from (La)TeX to HTML
 category: misc
 permalink: /FAQ-LaTeX2HTML
 date: 2014-06-10

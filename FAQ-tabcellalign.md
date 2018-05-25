@@ -1,4 +1,5 @@
 ---
+title: How to alter the alignment of tabular cells
 category: floats
 tags: tables figures
 permalink: /FAQ-tabcellalign

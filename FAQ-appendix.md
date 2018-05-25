@@ -1,4 +1,5 @@
 ---
+title: Appendixes
 category: formatting
 tags: structure
 permalink: /FAQ-appendix

@@ -1,4 +1,5 @@
 ---
+title: `\spacefactor` complaints
 category: errors
 permalink: /FAQ-atvert
 date: 2014-06-10

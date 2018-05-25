@@ -1,4 +1,5 @@
 ---
+title: `\@` and `@` in macro names
 category: programming
 tags: macros latex
 permalink: /FAQ-atsigns

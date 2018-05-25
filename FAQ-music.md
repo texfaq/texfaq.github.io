@@ -1,4 +1,5 @@
 ---
+title: Typesetting music in TeX
 category: formatting
 permalink: /FAQ-music
 date: 2014-06-10

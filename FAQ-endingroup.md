@@ -1,4 +1,5 @@
 ---
+title: `\end` occurred inside a group
 category: errors
 permalink: /FAQ-endingroup
 date: 2014-06-10

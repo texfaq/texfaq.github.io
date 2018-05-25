@@ -1,4 +1,5 @@
 ---
+title: Drawing with TeX
 category: graphics
 permalink: /FAQ-drawing
 date: 2014-06-10

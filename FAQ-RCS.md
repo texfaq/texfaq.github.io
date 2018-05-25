@@ -1,4 +1,5 @@
 ---
+title: Version control using RCS, CVS or the like
 category: usage
 permalink: /FAQ-RCS
 date: 2014-06-10

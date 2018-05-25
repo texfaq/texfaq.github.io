@@ -1,4 +1,5 @@
 ---
+title: DVI drivers for HP LaserJet
 category: misc
 permalink: /FAQ-HPdrivers
 date: 2014-06-10

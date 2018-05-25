@@ -1,4 +1,5 @@
 ---
+title: Sorting lists of citations
 category: bibliographies
 tags: citations
 permalink: /FAQ-sortbib

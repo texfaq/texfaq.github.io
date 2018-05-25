@@ -1,4 +1,5 @@
 ---
+title: `\special` commands
 category: concepts
 permalink: /FAQ-specials
 date: 2014-06-10

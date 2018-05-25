@@ -1,4 +1,5 @@
 ---
+title: Warning: ''Font shape &hellip; not available''
 category: errors
 permalink: /FAQ-fontunavail
 date: 2014-06-10

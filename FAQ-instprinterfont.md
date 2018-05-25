@@ -1,4 +1,5 @@
 ---
+title: ''Installing'' a PostScript printer built-in font
 category: installing
 permalink: /FAQ-instprinterfont
 date: 2014-06-10

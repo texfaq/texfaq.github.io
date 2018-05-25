@@ -1,4 +1,5 @@
 ---
+title: What is ConTeXt?
 category: background
 permalink: /FAQ-context
 date: 2014-06-10

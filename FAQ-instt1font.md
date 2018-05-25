@@ -1,4 +1,5 @@
 ---
+title: Installing a Type&nbsp;1 font
 category: installing
 permalink: /FAQ-instt1font
 date: 2014-06-10

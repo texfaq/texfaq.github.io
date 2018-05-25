@@ -1,4 +1,5 @@
 ---
+title: Page numbering by chapter
 category: formatting
 tags: structure
 permalink: /FAQ-pagebychap

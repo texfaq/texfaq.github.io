@@ -1,4 +1,5 @@
 ---
+title: The quality of your LaTeX
 category: programming
 tags: latex macros
 permalink: /FAQ-latexqual

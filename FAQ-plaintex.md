@@ -1,4 +1,5 @@
 ---
+title: What's ''writing in TeX''?
 category: background
 permalink: /FAQ-plaintex
 date: 2014-06-10

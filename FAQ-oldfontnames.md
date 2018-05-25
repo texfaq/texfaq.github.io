@@ -1,4 +1,5 @@
 ---
+title: Old LaTeX font references such as `\tenrm`
 category: errors
 tags: deprecated
 permalink: /FAQ-oldfontnames

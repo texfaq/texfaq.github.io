@@ -1,4 +1,5 @@
 ---
+title: BibTeX doesn't understand lists of names
 category: bibliographies
 permalink: /FAQ-manyauthor
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: Contributing a file to the archives
 category: installing
 permalink: /FAQ-uploads
 date: 2014-06-10

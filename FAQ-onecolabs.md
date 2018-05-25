@@ -1,4 +1,5 @@
 ---
+title: 1-column abstract in 2-column document
 category: formatting
 tags: structure
 permalink: /FAQ-onecolabs

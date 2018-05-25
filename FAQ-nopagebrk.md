@@ -1,4 +1,5 @@
 ---
+title: Preventing page breaks between lines
 category: formatting
 tags: layout
 permalink: /FAQ-nopagebrk

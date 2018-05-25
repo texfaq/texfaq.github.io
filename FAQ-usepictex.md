@@ -1,4 +1,5 @@
 ---
+title: Why can't I load PicTeX?
 category: errors
 tags: layout
 permalink: /FAQ-usepictex

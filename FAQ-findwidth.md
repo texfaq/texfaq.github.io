@@ -1,4 +1,5 @@
 ---
+title: Finding the width of a letter, word, or phrase
 category: programming
 tags: macros
 permalink: /FAQ-findwidth

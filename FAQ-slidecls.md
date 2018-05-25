@@ -1,4 +1,5 @@
 ---
+title: Producing presentations (including slides)
 category: formatting
 tags: classes
 permalink: /FAQ-slidecls

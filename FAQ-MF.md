@@ -1,4 +1,5 @@
 ---
+title: What is MetaFont?
 category: background
 permalink: /FAQ-MF
 date: 2014-06-10

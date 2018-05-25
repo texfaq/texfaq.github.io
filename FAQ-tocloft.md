@@ -1,4 +1,5 @@
 ---
+title: The format of the Table of Contents, etc.
 category: formatting
 tags: toc index
 permalink: /FAQ-tocloft

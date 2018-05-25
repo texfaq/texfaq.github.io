@@ -1,4 +1,5 @@
 ---
+title: There's a space added after my environment
 category: programming
 tags: latex macros
 permalink: /FAQ-spaftend

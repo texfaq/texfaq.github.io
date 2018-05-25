@@ -1,4 +1,5 @@
 ---
+title: Active characters in command arguments
 category: programming
 tags: macros
 permalink: /FAQ-actinarg

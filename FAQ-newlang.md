@@ -1,4 +1,5 @@
 ---
+title: Using a new language with Babel
 category: usage
 tags: hyphenation
 permalink: /FAQ-newlang

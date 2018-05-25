@@ -1,4 +1,5 @@
 ---
+title: Line-breaking in in-line maths
 category: usage
 tags: math
 permalink: /FAQ-brkinline

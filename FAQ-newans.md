@@ -1,4 +1,5 @@
 ---
+title: Submitting new material for the FAQ
 category: misc
 permalink: /FAQ-newans
 date: 2018-05-23

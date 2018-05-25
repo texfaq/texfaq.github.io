@@ -1,4 +1,5 @@
 ---
+title: Hyphenation exceptions
 category: usage
 tags: hyphenation
 permalink: /FAQ-hyphexcept

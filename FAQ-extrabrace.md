@@ -1,4 +1,5 @@
 ---
+title: An extra `}`?
 category: errors
 permalink: /FAQ-extrabrace
 date: 2014-06-10

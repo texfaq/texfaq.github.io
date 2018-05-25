@@ -1,4 +1,5 @@
 ---
+title: What are LaTeX classes and packages?
 category: concepts
 permalink: /FAQ-clsvpkg
 date: 2014-06-10

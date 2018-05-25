@@ -1,4 +1,5 @@
 ---
+title: Defining a new log-like function in LaTeX
 category: usage
 tags: math
 permalink: /FAQ-newfunction

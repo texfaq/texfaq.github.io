@@ -1,4 +1,5 @@
 ---
+title: Previewing files using Type 1 fonts
 category: fonts
 permalink: /FAQ-PSpreview
 date: 2014-06-10

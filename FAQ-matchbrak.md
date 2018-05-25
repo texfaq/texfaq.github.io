@@ -1,4 +1,5 @@
 ---
+title: My brackets don't match
 category: errors
 permalink: /FAQ-matchbrak
 date: 2014-06-10

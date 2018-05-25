@@ -1,4 +1,5 @@
 ---
+title: Why are my sections numbered 0.1 &hellip;?
 category: errors
 permalink: /FAQ-zerochap
 date: 2014-06-10

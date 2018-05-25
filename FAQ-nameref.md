@@ -1,4 +1,5 @@
 ---
+title: Referring to things by their name
 category: formatting
 tags: labels references
 permalink: /FAQ-nameref

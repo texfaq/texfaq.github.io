@@ -1,4 +1,5 @@
 ---
+title: Macintosh systems
 category: installing
 permalink: /FAQ-sysmac
 date: 2014-06-10

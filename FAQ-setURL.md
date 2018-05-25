@@ -1,4 +1,5 @@
 ---
+title: Typesetting URLs
 category: formatting
 permalink: /FAQ-setURL
 date: 2014-06-10

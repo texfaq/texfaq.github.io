@@ -1,4 +1,5 @@
 ---
+title: Installing a new font
 category: installing
 permalink: /FAQ-instfont
 date: 2014-06-10

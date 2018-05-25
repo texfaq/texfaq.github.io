@@ -1,4 +1,5 @@
 ---
+title: If TeX is so good, how come it's free?
 category: background
 permalink: /FAQ-whyfree
 date: 2014-06-10

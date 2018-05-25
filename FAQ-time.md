@@ -1,4 +1,5 @@
 ---
+title: Printing the time
 category: formatting
 permalink: /FAQ-time
 date: 2014-06-10

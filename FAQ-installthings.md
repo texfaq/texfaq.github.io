@@ -1,4 +1,5 @@
 ---
+title: Installing things on a (La)TeX system
 category: installing
 permalink: /FAQ-installthings
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: Using TeX to read SGML or XML directly
 category: misc
 permalink: /FAQ-readML
 date: 2014-06-10

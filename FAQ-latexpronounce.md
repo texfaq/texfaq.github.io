@@ -1,4 +1,5 @@
 ---
+title: How should I pronounce ''LaTeX(2<sub>&epsilon;</sub>)''?
 category: background
 permalink: /FAQ-latexpronounce
 date: 2014-06-10

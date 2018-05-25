@@ -1,4 +1,5 @@
 ---
+title: Theorem bodies printed in a roman font
 category: usage
 tags: math
 permalink: /FAQ-theoremfmt

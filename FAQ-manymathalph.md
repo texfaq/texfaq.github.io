@@ -1,4 +1,5 @@
 ---
+title: Too many math alphabets
 category: errors
 permalink: /FAQ-manymathalph
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: Things with ''TeX'' in the name
 category: background
 permalink: /FAQ-texthings
 date: 2014-06-10

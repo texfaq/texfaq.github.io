@@ -1,4 +1,5 @@
 ---
+title: Why is TeX not a WYSIWYG system?
 category: background
 permalink: /FAQ-notWYSIWYG
 date: 2014-06-10

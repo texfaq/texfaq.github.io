@@ -1,4 +1,5 @@
 ---
+title: What is a DVI driver?
 category: concepts
 permalink: /FAQ-driver
 date: 2014-06-10

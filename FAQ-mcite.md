@@ -1,4 +1,5 @@
 ---
+title: Multiple citations
 category: bibliographies
 tags: citations
 permalink: /FAQ-mcite

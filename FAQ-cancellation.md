@@ -1,4 +1,5 @@
 ---
+title: Cancelling terms in maths expressions
 category: usage
 tags: math
 permalink: /FAQ-cancellation

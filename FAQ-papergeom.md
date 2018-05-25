@@ -1,4 +1,5 @@
 ---
+title: Getting the right paper geometry from (La)TeX
 category: formatting
 tags: layout
 permalink: /FAQ-papergeom

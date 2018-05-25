@@ -1,4 +1,5 @@
 ---
+title: Separate bibliographies per chapter?
 category: bibliographies
 tags: citations
 permalink: /FAQ-chapbib

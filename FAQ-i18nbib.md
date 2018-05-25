@@ -1,4 +1,5 @@
 ---
+title: Non-english bibliographies
 category: bibliographies
 tags: citations
 permalink: /FAQ-i18nbib

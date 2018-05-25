@@ -1,4 +1,5 @@
 ---
+title: Key-value input for macros and package options
 category: programming
 tags: macros
 permalink: /FAQ-keyval

@@ -1,4 +1,5 @@
 ---
+title: Adjusting the presentation of section numbers
 category: programming
 tags: latex macros
 permalink: /FAQ-seccntfmt

@@ -1,4 +1,5 @@
 ---
+title: What are ''resolutions''?
 category: concepts
 permalink: /FAQ-resolns
 date: 2014-06-10

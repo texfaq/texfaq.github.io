@@ -1,4 +1,5 @@
 ---
+title: Weird hyphenation of words
 category: usage
 tags: hyphenation
 permalink: /FAQ-weirdhyphen

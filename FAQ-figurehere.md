@@ -1,4 +1,5 @@
 ---
+title: Figure (or table) _exactly_ where I want it
 category: floats
 tags: tables figures
 permalink: /FAQ-figurehere

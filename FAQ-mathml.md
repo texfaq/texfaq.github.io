@@ -1,4 +1,5 @@
 ---
+title: Future WWW technologies and (La)TeX
 category: misc
 permalink: /FAQ-mathml
 date: 2014-06-10

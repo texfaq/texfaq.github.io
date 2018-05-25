@@ -1,4 +1,5 @@
 ---
+title: Accented words aren't hyphenated
 category: usage
 tags: hyphenation
 permalink: /FAQ-hyphenaccents

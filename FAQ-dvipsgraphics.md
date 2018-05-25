@@ -1,4 +1,5 @@
 ---
+title: Imported graphics in `dvips`
 category: graphics
 permalink: /FAQ-dvipsgraphics
 date: 2014-06-10

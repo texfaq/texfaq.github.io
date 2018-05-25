@@ -1,4 +1,5 @@
 ---
+title: Breaking boxes of text
 category: formatting
 permalink: /FAQ-breakbox
 date: 2014-06-10

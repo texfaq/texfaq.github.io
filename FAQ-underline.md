@@ -1,4 +1,5 @@
 ---
+title: Underlined text won't break
 category: errors
 tags: layout
 permalink: /FAQ-underline

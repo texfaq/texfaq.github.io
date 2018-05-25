@@ -1,4 +1,5 @@
 ---
+title: Why use [`fontenc`](https://ctan.org/pkg/fontenc) rather than [`t1enc`](https://ctan.org/pkg/t1enc)?
 category: usage
 permalink: /FAQ-t1enc
 date: 2014-06-10

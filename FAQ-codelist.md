@@ -1,4 +1,5 @@
 ---
+title: Code listings in LaTeX
 category: formatting
 permalink: /FAQ-codelist
 date: 2014-06-10

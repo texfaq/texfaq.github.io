@@ -1,4 +1,5 @@
 ---
+title: How to break the 9-argument limit
 category: programming
 tags: macros
 permalink: /FAQ-moren9

@@ -1,4 +1,5 @@
 ---
+title: Capitalisation in BibTeX
 category: bibliographies
 permalink: /FAQ-capbibtex
 date: 2014-06-10

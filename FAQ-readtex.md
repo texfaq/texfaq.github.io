@@ -1,4 +1,5 @@
 ---
+title: Reading (La)TeX files
 category: background
 permalink: /FAQ-readtex
 date: 2014-06-10

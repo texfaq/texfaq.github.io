@@ -1,4 +1,5 @@
 ---
+title: MetaFont and MetaPost Tutorials
 category: documentation
 permalink: /FAQ-mfptutorials
 date: 2014-06-10

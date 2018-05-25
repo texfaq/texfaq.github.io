@@ -1,4 +1,5 @@
 ---
+title: Not in outer par mode
 category: errors
 permalink: /FAQ-ouparmd
 date: 2014-06-10

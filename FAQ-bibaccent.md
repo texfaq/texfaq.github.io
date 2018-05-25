@@ -1,4 +1,5 @@
 ---
+title: Accents in bibliographies
 category: bibliographies
 permalink: /FAQ-bibaccent
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: ''Missing number, treated as zero''
 category: errors
 permalink: /FAQ-nonum
 date: 2014-06-10

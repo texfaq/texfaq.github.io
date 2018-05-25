@@ -1,4 +1,5 @@
 ---
+title: The (CTAN) catalogue
 category: background
 permalink: /FAQ-catalogue
 date: 2014-06-10

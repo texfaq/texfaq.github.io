@@ -1,4 +1,5 @@
 ---
+title: Diagonal separation in corner cells of tables
 category: floats
 tags: tables figures
 permalink: /FAQ-slashbox

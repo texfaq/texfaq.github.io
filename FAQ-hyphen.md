@@ -1,4 +1,5 @@
 ---
+title: How does hyphenation work in TeX?
 category: concepts
 permalink: /FAQ-hyphen
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: References from the bibliography to the citation
 category: bibliographies
 tags: citations
 permalink: /FAQ-backref

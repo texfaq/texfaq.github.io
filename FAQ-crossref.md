@@ -1,4 +1,5 @@
 ---
+title: LaTeX gets cross-references wrong
 category: errors
 permalink: /FAQ-crossref
 date: 2014-06-10

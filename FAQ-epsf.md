@@ -1,4 +1,5 @@
 ---
+title: `epsf` gives up after a bit
 category: errors
 permalink: /FAQ-epsf
 date: 2014-06-10

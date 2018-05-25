@@ -1,4 +1,5 @@
 ---
+title: Balancing columns at the end of a document
 category: formatting
 tags: structure
 permalink: /FAQ-balance

@@ -1,4 +1,5 @@
 ---
+title: Page numbering ''&lsaquo;_n_&rsaquo; of &lsaquo;_m_&rsaquo;''
 category: formatting
 tags: structure
 permalink: /FAQ-nofm

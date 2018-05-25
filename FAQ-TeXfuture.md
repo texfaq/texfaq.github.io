@@ -1,4 +1,5 @@
 ---
+title: What is the future of TeX?
 category: background
 permalink: /FAQ-TeXfuture
 date: 2014-06-10

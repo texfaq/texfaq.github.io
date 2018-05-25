@@ -1,4 +1,5 @@
 ---
+title: ''Please type a command or say `\end`
 category: errors
 permalink: /FAQ-typend
 date: 2014-06-10

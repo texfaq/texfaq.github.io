@@ -1,4 +1,5 @@
 ---
+title: The style of section headings
 category: formatting
 tags: structure
 permalink: /FAQ-secthead

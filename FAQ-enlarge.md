@@ -1,4 +1,5 @@
 ---
+title: Enlarging TeX
 category: errors
 tags: layout
 permalink: /FAQ-enlarge

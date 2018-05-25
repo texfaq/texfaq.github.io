@@ -1,4 +1,5 @@
 ---
+title: The TeX collection
 category: installing
 permalink: /FAQ-CD
 date: 2014-06-10

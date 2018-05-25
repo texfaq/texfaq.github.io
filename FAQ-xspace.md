@@ -1,4 +1,5 @@
 ---
+title: Commands gobble following space
 category: usage
 permalink: /FAQ-xspace
 date: 2014-06-10

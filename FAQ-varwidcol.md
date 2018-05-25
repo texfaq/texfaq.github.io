@@ -1,4 +1,5 @@
 ---
+title: Variable-width columns in tables
 category: floats
 tags: tables figures
 permalink: /FAQ-varwidcol

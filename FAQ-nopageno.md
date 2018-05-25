@@ -1,4 +1,5 @@
 ---
+title: How to get rid of page numbers
 category: formatting
 tags: layout
 permalink: /FAQ-nopageno

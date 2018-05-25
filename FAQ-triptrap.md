@@ -1,4 +1,5 @@
 ---
+title: How can I be sure it's really TeX?
 category: background
 permalink: /FAQ-triptrap
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: Spaces in macros
 category: programming
 tags: macros
 permalink: /FAQ-spinmacro

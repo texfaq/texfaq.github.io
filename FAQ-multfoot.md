@@ -1,4 +1,5 @@
 ---
+title: More than one sequence of footnotes
 category: usage
 tags: footnotes
 permalink: /FAQ-multfoot

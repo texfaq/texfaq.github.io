@@ -1,4 +1,5 @@
 ---
+title: Option clash for package
 category: errors
 permalink: /FAQ-optionclash
 date: 2014-06-10

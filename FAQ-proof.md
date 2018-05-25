@@ -1,4 +1,5 @@
 ---
+title: Proof environment
 category: usage
 tags: math
 permalink: /FAQ-proof

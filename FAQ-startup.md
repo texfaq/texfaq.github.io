@@ -1,4 +1,5 @@
 ---
+title: Getting started
 category: background
 permalink: /FAQ-startup
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: Defining LaTeX commands within other commands
 category: programming
 tags: macros latex
 permalink: /FAQ-ltxhash

@@ -1,4 +1,5 @@
 ---
+title: Perhaps a missing `\item`?
 category: errors
 permalink: /FAQ-errmissitem
 date: 2014-06-10

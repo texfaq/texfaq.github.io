@@ -1,4 +1,5 @@
 ---
+title: Missing `\begin`{document}
 category: errors
 permalink: /FAQ-missbegdoc
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: What's going on in my `\include` commands?
 category: usage
 permalink: /FAQ-include
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: Replacing Type 3 fonts in PostScript
 category: usage
 permalink: /FAQ-pkfix
 date: 2014-06-10

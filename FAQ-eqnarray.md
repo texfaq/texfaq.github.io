@@ -1,4 +1,5 @@
 ---
+title: Why not use `eqnarray`?
 category: usage
 permalink: /FAQ-eqnarray
 date: 2014-06-10

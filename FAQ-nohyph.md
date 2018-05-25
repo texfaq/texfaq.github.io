@@ -1,4 +1,5 @@
 ---
+title: My words aren't being hyphenated
 category: usage
 tags: hyphenation
 permalink: /FAQ-nohyph

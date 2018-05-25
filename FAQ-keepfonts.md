@@ -1,4 +1,5 @@
 ---
+title: Which font files should be kept
 category: fonts
 tags: metafont
 permalink: /FAQ-keepfonts

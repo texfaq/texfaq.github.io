@@ -1,4 +1,5 @@
 ---
+title: Top-aligning imported graphics
 category: graphics
 permalink: /FAQ-topgraph
 date: 2014-06-10

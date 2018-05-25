@@ -1,4 +1,5 @@
 ---
+title: Alternative head- and footlines in LaTeX
 category: formatting
 tags: structure
 permalink: /FAQ-fancyhdr

@@ -1,4 +1,5 @@
 ---
+title: Referring to labels in other documents
 category: formatting
 tags: labels references
 permalink: /FAQ-extref

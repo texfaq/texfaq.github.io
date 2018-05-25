@@ -1,4 +1,5 @@
 ---
+title: How to print contents of variables?
 category: programming
 tags: macros latex
 permalink: /FAQ-printvar

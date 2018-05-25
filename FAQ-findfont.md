@@ -1,4 +1,5 @@
 ---
+title: Finding new fonts
 category: installing
 permalink: /FAQ-findfont
 date: 2014-06-10

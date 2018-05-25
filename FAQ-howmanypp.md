@@ -1,4 +1,5 @@
 ---
+title: How many pages are there in my document?
 category: usage
 permalink: /FAQ-howmanypp
 date: 2014-06-10

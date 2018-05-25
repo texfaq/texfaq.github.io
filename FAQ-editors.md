@@ -1,4 +1,5 @@
 ---
+title: TeX-friendly editors and shells
 category: installing
 permalink: /FAQ-editors
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: _Curriculum Vitae_ (R&eacute;sum&eacute;)
 category: formatting
 tags: classes
 permalink: /FAQ-cv

@@ -1,4 +1,5 @@
 ---
+title: (La)TeX tutorials
 category: documentation
 permalink: /FAQ-tutbitslatex
 date: 2014-06-10

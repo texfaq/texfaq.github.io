@@ -1,4 +1,5 @@
 ---
+title: How to type an ''@'' sign?
 category: formatting
 permalink: /FAQ-atsign
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: Non-PDF special ignored!
 category: errors
 permalink: /FAQ-nonpdfsp
 date: 2014-06-10

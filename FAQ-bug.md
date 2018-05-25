@@ -1,4 +1,5 @@
 ---
+title: What to do if you find a bug
 category: misc
 permalink: /FAQ-bug
 date: 2018-05-24

@@ -1,4 +1,5 @@
 ---
+title: Letters and the like
 category: formatting
 tags: classes
 permalink: /FAQ-letterclass

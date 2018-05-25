@@ -1,4 +1,5 @@
 ---
+title: Changing the words [`babel`](https://ctan.org/pkg/babel) uses
 category: programming
 tags: latex macros
 permalink: /FAQ-latexwords

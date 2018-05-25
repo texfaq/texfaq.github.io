@@ -1,4 +1,5 @@
 ---
+title: `\normalsize` not defined
 category: errors
 permalink: /FAQ-normalszmiss
 date: 2014-06-10

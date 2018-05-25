@@ -1,4 +1,5 @@
 ---
+title: Reporting a LaTeX bug
 category: misc
 permalink: /FAQ-latexbug
 date: 2018-05-23

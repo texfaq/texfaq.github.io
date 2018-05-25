@@ -1,4 +1,5 @@
 ---
+title: Where are the `msx` and `msy` fonts?
 category: errors
 tags: deprecated
 permalink: /FAQ-msxy

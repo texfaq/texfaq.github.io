@@ -1,4 +1,5 @@
 ---
+title: Comparing the ''job name''
 category: programming
 tags: macros
 permalink: /FAQ-compjobnam

@@ -1,4 +1,5 @@
 ---
+title: Using Plain or primitive commands in LaTeX
 category: programming
 tags: macros latex
 permalink: /FAQ-plninltxstar

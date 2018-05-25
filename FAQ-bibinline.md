@@ -1,4 +1,5 @@
 ---
+title: Putting bibliography entries in text
 category: bibliographies
 tags: citations
 permalink: /FAQ-bibinline

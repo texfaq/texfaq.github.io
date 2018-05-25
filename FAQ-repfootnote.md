@@ -1,4 +1,5 @@
 ---
+title: Footnotes whose texts are identical
 category: usage
 tags: footnotes
 permalink: /FAQ-repfootnote

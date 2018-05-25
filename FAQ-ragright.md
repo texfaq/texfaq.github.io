@@ -1,4 +1,5 @@
 ---
+title: Setting text ragged right
 category: formatting
 permalink: /FAQ-ragright
 date: 2014-06-10

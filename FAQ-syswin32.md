@@ -1,4 +1,5 @@
 ---
+title: (Modern) Windows systems
 category: installing
 permalink: /FAQ-syswin32
 date: 2014-06-10

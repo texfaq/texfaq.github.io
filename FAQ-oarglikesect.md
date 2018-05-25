@@ -1,4 +1,5 @@
 ---
+title: Optional arguments like `\section`
 category: programming
 tags: macros latex
 permalink: /FAQ-oarglikesect

@@ -1,4 +1,5 @@
 ---
+title: LaTeX won't include from other directories
 category: errors
 permalink: /FAQ-includeother
 date: 2014-06-10

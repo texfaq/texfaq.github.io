@@ -1,4 +1,5 @@
 ---
+title: More than one optional argument
 category: programming
 tags: macros latex
 permalink: /FAQ-twooptarg

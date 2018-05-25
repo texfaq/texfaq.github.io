@@ -1,4 +1,5 @@
 ---
+title: Reconstructing `bib` files
 category: bibliographies
 permalink: /FAQ-makebib
 date: 2014-06-10

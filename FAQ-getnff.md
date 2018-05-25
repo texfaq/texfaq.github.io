@@ -1,4 +1,5 @@
 ---
+title: Getting ''free'' fonts not in your distribution
 category: fonts
 permalink: /FAQ-getnff
 date: 2014-06-10

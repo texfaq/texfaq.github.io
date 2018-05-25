@@ -1,4 +1,5 @@
 ---
+title: Re-using an equation
 category: usage
 tags: math
 permalink: /FAQ-reuseq

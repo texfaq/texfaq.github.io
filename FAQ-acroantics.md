@@ -1,4 +1,5 @@
 ---
+title: Adobe `Reader` messing with print size
 category: formatting
 tags: layout
 permalink: /FAQ-acroantics

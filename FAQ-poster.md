@@ -1,4 +1,5 @@
 ---
+title: Creating posters with LaTeX
 category: formatting
 tags: classes
 permalink: /FAQ-poster

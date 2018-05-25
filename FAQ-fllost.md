@@ -1,4 +1,5 @@
 ---
+title: Float(s) lost
 category: errors
 permalink: /FAQ-fllost
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: Master and slave counters
 category: programming
 tags: latex macros
 permalink: /FAQ-addtoreset

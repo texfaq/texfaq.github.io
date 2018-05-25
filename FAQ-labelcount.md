@@ -1,4 +1,5 @@
 ---
+title: Using labels as counter values
 category: programming
 tags: macros latex
 permalink: /FAQ-labelcount

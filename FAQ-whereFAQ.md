@@ -1,4 +1,5 @@
 ---
+title: Where to find FAQs
 category: documentation
 permalink: /FAQ-whereFAQ
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: Typesetting the Euro sign
 category: formatting
 permalink: /FAQ-euro
 date: 2014-06-10

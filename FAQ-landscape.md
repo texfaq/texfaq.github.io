@@ -1,4 +1,5 @@
 ---
+title: Typesetting things in landscape orientation
 category: formatting
 tags: layout
 permalink: /FAQ-landscape

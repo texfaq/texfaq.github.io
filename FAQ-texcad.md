@@ -1,4 +1,5 @@
 ---
+title: TeXCAD, a drawing package for LaTeX
 category: misc
 permalink: /FAQ-texcad
 date: 2014-06-10

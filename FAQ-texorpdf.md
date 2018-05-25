@@ -1,4 +1,5 @@
 ---
+title: Token not allowed in PDFDocEncoded string
 category: errors
 permalink: /FAQ-texorpdf
 date: 2014-06-10

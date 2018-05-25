@@ -1,4 +1,5 @@
 ---
+title: Table of contents rearranges ''[`unsrt`](https://ctan.org/pkg/bibtex)'' ordering
 category: bibliographies
 tags: citations
 permalink: /FAQ-bibtocorder

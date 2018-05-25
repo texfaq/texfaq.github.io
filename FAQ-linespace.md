@@ -1,4 +1,5 @@
 ---
+title: Double-spaced documents in LaTeX
 category: formatting
 permalink: /FAQ-linespace
 date: 2014-06-10

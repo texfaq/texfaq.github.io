@@ -1,4 +1,5 @@
 ---
+title: Footnotes in LaTeX section headings
 category: usage
 tags: footnotes
 permalink: /FAQ-ftnsect

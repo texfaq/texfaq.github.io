@@ -1,4 +1,5 @@
 ---
+title: Preventing hyphenation of a particular word
 category: usage
 tags: hyphenation
 permalink: /FAQ-wdnohyph

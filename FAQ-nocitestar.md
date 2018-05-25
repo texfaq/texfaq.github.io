@@ -1,4 +1,5 @@
 ---
+title: Listing all your BibTeX entries
 category: bibliographies
 permalink: /FAQ-nocitestar
 date: 2014-06-10

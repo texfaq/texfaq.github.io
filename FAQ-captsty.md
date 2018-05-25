@@ -1,4 +1,5 @@
 ---
+title: The style of captions
 category: formatting
 tags: structure
 permalink: /FAQ-captsty

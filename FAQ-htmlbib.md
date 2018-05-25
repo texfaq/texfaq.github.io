@@ -1,4 +1,5 @@
 ---
+title: Making HTML of your Bibliography
 category: bibliographies
 permalink: /FAQ-htmlbib
 date: 2014-06-10

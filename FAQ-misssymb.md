@@ -1,4 +1,5 @@
 ---
+title: Missing symbol commands
 category: errors
 tags: deprecated
 permalink: /FAQ-misssymb

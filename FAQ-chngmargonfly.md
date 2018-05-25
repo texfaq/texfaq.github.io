@@ -1,4 +1,5 @@
 ---
+title: Changing margins ''on the fly''
 category: formatting
 tags: layout
 permalink: /FAQ-chngmargonfly

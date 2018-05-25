@@ -1,4 +1,5 @@
 ---
+title: Documentation of packages
 category: documentation
 permalink: /FAQ-pkgdoc
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: Defining characters as macros
 category: programming
 tags: macros
 permalink: /FAQ-activechars

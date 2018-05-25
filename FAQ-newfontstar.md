@@ -1,4 +1,5 @@
 ---
+title: What's wrong with `\newfont`?
 category: usage
 permalink: /FAQ-newfontstar
 date: 2014-06-10

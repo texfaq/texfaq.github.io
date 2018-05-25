@@ -1,4 +1,5 @@
 ---
+title: Including line numbers in typeset output
 category: formatting
 permalink: /FAQ-linenos
 date: 2014-06-10

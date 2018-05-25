@@ -1,4 +1,5 @@
 ---
+title: A ''report'' from lots of 'article's
 category: formatting
 tags: classes
 permalink: /FAQ-multidoc

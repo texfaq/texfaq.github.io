@@ -1,4 +1,5 @@
 ---
+title: Package reports ''command already defined''
 category: errors
 permalink: /FAQ-alreadydef
 date: 2014-06-10

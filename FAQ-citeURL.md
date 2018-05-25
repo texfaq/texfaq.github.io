@@ -1,4 +1,5 @@
 ---
+title: URLs in BibTeX bibliographies
 category: bibliographies
 permalink: /FAQ-citeURL
 date: 2014-06-10

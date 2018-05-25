@@ -1,4 +1,5 @@
 ---
+title: Other ''document font'' sizes?
 category: formatting
 tags: classes
 permalink: /FAQ-extsizes

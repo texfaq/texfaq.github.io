@@ -1,4 +1,5 @@
 ---
+title: Patching existing commands
 category: programming
 tags: macros
 permalink: /FAQ-patch

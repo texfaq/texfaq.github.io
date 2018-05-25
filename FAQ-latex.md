@@ -1,4 +1,5 @@
 ---
+title: What is LaTeX?
 category: background
 permalink: /FAQ-latex
 date: 2014-06-10

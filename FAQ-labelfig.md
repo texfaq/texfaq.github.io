@@ -1,4 +1,5 @@
 ---
+title: Labelling graphics
 category: graphics
 permalink: /FAQ-labelfig
 date: 2014-06-10

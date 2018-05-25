@@ -1,4 +1,5 @@
 ---
+title: Lollipop
 category: background
 permalink: /FAQ-lollipop
 date: 2014-06-10

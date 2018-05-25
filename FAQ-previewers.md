@@ -1,4 +1,5 @@
 ---
+title: DVI previewers
 category: misc
 permalink: /FAQ-previewers
 date: 2014-06-10

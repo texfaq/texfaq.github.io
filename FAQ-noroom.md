@@ -1,4 +1,5 @@
 ---
+title: No room for a new ''_thing_''
 category: errors
 permalink: /FAQ-noroom
 date: 2014-06-10

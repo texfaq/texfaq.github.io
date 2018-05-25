@@ -1,4 +1,5 @@
 ---
+title: Why does LaTeX split footnotes across pages?
 category: usage
 permalink: /FAQ-splitfoot
 date: 2014-06-10

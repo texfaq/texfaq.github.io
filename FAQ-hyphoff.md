@@ -1,4 +1,5 @@
 ---
+title: Stopping all hyphenation
 category: usage
 tags: hyphenation
 permalink: /FAQ-hyphoff

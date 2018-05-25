@@ -1,4 +1,5 @@
 ---
+title: Choice of Type&nbsp;1 fonts for typesetting Maths
 category: fonts
 permalink: /FAQ-psfchoice
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: What is TeX?
 category: background
 permalink: /FAQ-whatTeX
 date: 2014-06-10

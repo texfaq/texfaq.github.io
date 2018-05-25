@@ -1,4 +1,5 @@
 ---
+title: Link text doesn't break at end line
 category: errors
 permalink: /FAQ-breaklinks
 date: 2014-06-10

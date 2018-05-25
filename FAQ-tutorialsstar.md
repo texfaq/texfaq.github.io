@@ -1,4 +1,5 @@
 ---
+title: Tutorials, etc., for TeX-based systems
 category: documentation
 permalink: /FAQ-tutorialsstar
 date: 2014-06-10

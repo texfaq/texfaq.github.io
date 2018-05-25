@@ -1,4 +1,5 @@
 ---
+title: Subverting a token register
 category: programming
 tags: macros
 permalink: /FAQ-subverttoks

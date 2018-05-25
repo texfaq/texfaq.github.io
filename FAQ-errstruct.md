@@ -1,4 +1,5 @@
 ---
+title: The structure of TeX error messages
 category: errors
 permalink: /FAQ-errstruct
 date: 2014-06-10

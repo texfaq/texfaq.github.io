@@ -1,4 +1,5 @@
 ---
+title: Interrupting enumerated lists
 category: usage
 tags: lists
 permalink: /FAQ-interruptlist

@@ -1,4 +1,5 @@
 ---
+title: Repeated graphics in a document
 category: graphics
 permalink: /FAQ-repeatgrf
 date: 2014-06-10

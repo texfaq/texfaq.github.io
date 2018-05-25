@@ -1,4 +1,5 @@
 ---
+title: Set specifications and Dirac brackets
 category: usage
 tags: math
 permalink: /FAQ-braket

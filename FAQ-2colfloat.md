@@ -1,4 +1,5 @@
 ---
+title: Placing two-column floats at bottom of page
 category: floats
 tags: tables figures
 permalink: /FAQ-2colfloat

@@ -1,4 +1,5 @@
 ---
+title: In-line source for graphics applications
 category: graphics
 permalink: /FAQ-inlgrphapp
 date: 2014-06-10

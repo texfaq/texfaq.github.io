@@ -1,4 +1,5 @@
 ---
+title: How to adjust list spacing
 category: usage
 tags: lists
 permalink: /FAQ-complist

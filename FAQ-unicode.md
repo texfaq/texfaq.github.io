@@ -1,4 +1,5 @@
 ---
+title: Unicode and TeX
 category: concepts
 permalink: /FAQ-unicode
 date: 2014-06-10

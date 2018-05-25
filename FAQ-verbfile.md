@@ -1,4 +1,5 @@
 ---
+title: Including a file verbatim in LaTeX
 category: formatting
 permalink: /FAQ-verbfile
 date: 2014-06-10

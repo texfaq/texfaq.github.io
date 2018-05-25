@@ -1,4 +1,5 @@
 ---
+title: Making PDF documents from (La)TeX
 category: usage
 permalink: /FAQ-acrobat
 date: 2014-06-10

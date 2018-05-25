@@ -1,4 +1,5 @@
 ---
+title: Typesetting pseudocode in LaTeX
 category: formatting
 permalink: /FAQ-algorithms
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: Where can I find the symbol for &hellip;
 category: documentation
 permalink: /FAQ-symbols
 date: 2014-06-10

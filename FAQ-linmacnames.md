@@ -1,4 +1,5 @@
 ---
+title: Non-letters in macro names
 category: programming
 tags: macros
 permalink: /FAQ-linmacnames

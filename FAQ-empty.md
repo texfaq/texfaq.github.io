@@ -1,4 +1,5 @@
 ---
+title: Detecting that something is empty
 category: programming
 tags: macros
 permalink: /FAQ-empty

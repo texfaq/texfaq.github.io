@@ -1,4 +1,5 @@
 ---
+title: Fixed-width tables
 category: floats
 tags: tables figures
 permalink: /FAQ-fixwidtab

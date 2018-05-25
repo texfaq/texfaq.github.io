@@ -1,4 +1,5 @@
 ---
+title: Where have my characters gone?
 category: usage
 permalink: /FAQ-misschar
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: Getting `\marginpar` on the right side
 category: usage
 permalink: /FAQ-marginparside
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: Putting things at fixed positions on the page
 category: formatting
 tags: layout
 permalink: /FAQ-abspos

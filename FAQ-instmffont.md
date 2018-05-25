@@ -1,4 +1,5 @@
 ---
+title: Installing a font provided as MetaFont source
 category: installing
 permalink: /FAQ-instmffont
 date: 2014-06-10

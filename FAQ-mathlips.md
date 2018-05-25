@@ -1,4 +1,5 @@
 ---
+title: Ellipses
 category: usage
 tags: math
 permalink: /FAQ-mathlips

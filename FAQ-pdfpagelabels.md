@@ -1,4 +1,5 @@
 ---
+title: [`Hyperref`](https://ctan.org/pkg/Hyperref) and repeated page numbers
 category: usage
 permalink: /FAQ-pdfpagelabels
 date: 2014-06-10

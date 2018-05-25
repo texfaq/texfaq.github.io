@@ -1,4 +1,5 @@
 ---
+title: Floats on their own on float pages
 category: floats
 tags: tables figures
 permalink: /FAQ-floatpages

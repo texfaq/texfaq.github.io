@@ -1,4 +1,5 @@
 ---
+title: Output to ''other'' printers
 category: misc
 permalink: /FAQ-otherprinters
 date: 2014-06-10

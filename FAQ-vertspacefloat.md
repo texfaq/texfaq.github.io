@@ -1,4 +1,5 @@
 ---
+title: Extra vertical space in floats
 category: errors
 permalink: /FAQ-vertspacefloat
 date: 2014-06-10

@@ -1,4 +1,5 @@
 ---
+title: Spelling checkers for work with TeX
 category: misc
 permalink: /FAQ-spell
 date: 2014-06-10

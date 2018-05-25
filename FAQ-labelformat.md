@@ -1,4 +1,5 @@
 ---
+title: How to change the format of labels
 category: programming
 tags: latex macros
 permalink: /FAQ-labelformat

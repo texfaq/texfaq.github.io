@@ -1,4 +1,5 @@
 ---
+title: Wide figures in two-column documents
 category: formatting
 tags: structure
 permalink: /FAQ-widefigs

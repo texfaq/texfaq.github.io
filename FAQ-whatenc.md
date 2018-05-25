@@ -1,4 +1,5 @@
 ---
+title: What are encodings?
 category: concepts
 permalink: /FAQ-whatenc
 date: 2014-06-10

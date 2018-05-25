@@ -1,4 +1,5 @@
 ---
+title: Am I using pdfTeX, XeTeX or LuaTeX?
 category: programming
 tags: macros
 permalink: /FAQ-whatengine

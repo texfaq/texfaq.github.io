@@ -1,4 +1,5 @@
 ---
+title: Moving tables and figures in LaTeX
 category: errors
 tags: layout
 permalink: /FAQ-floats

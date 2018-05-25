@@ -1,4 +1,5 @@
 ---
+title: Bits of document from other directories
 category: usage
 permalink: /FAQ-docotherdir
 date: 2014-06-10

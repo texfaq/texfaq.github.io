@@ -1,4 +1,5 @@
 ---
+title: Reducing spacing in the bibliography
 category: bibliographies
 tags: citations
 permalink: /FAQ-compactbib

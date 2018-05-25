@@ -1,4 +1,5 @@
 ---
+title: Other systems' TeX availability
 category: installing
 permalink: /FAQ-sysother
 date: 2014-06-10

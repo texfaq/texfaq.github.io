@@ -1,4 +1,5 @@
 ---
+title: Multiple bibliographies?
 category: bibliographies
 tags: citations
 permalink: /FAQ-multbib

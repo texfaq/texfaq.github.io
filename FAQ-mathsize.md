@@ -1,4 +1,5 @@
 ---
+title: Adjusting maths font sizes
 category: usage
 tags: math
 permalink: /FAQ-mathsize

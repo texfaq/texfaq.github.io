@@ -1,4 +1,5 @@
 ---
+title: Defining a macro from an argument
 category: programming
 tags: macros
 permalink: /FAQ-csname

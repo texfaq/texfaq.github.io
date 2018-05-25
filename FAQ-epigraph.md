@@ -1,4 +1,5 @@
 ---
+title: Typesetting epigraphs
 category: formatting
 tags: layout
 permalink: /FAQ-epigraph

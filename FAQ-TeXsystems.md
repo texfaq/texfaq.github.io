@@ -1,4 +1,5 @@
 ---
+title: (La)TeX for different machines
 category: installing
 permalink: /FAQ-TeXsystems
 date: 2014-06-10

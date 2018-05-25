@@ -1,4 +1,5 @@
 ---
+title: What is ''Encapsulated PostScript'' (''EPS'')?
 category: concepts
 permalink: /FAQ-eps
 date: 2014-06-10

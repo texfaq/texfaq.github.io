@@ -1,4 +1,5 @@
 ---
+title: Formatting a thesis in LaTeX
 category: formatting
 tags: classes
 permalink: /FAQ-thesis

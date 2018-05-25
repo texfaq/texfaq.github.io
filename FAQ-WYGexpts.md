@@ -1,4 +1,5 @@
 ---
+title: The TeX document preparation environment
 category: misc
 permalink: /FAQ-WYGexpts
 date: 2018-05-24

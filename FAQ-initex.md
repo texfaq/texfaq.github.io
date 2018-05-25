@@ -1,4 +1,5 @@
 ---
+title: What's happened to `initex`?
 category: errors
 tags: deprecated
 permalink: /FAQ-initex
