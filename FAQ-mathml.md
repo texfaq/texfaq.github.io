@@ -2,7 +2,7 @@
 title: Math on the Web
 category: misc
 permalink: /FAQ-mathml
-date: 2014-06-10
+date: 2018-05-25
 ---
 
 # Math on the Web
