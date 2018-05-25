@@ -568,7 +568,7 @@ redirect_from: /faq
 ## Current TeX-related projects
 - [The LaTeX project](/FAQ-LaTeX3)
 - [TeX Engine development](/FAQ-enginedev)
-- [Future WWW technologies and (La)TeX](/FAQ-mathml)
+- [Math on the Web](/FAQ-mathml)
 - [Making outline fonts from MetaFont](/FAQ-textrace)
 - [The TeX document preparation environment](/FAQ-WYGexpts)
 - [Replacing the BibTeX&ndash;LaTeX mechanism](/FAQ-biblatex)

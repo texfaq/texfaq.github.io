@@ -2,7 +2,7 @@
 title: Conversion from (La)TeX to HTML
 category: misc
 permalink: /FAQ-LaTeX2HTML
-date: 2014-06-10
+date: 2018-5-25
 ---
 
 # Conversion from (La)TeX to HTML
@@ -20,18 +20,46 @@ publishing format such as PDF. That is true for any HTML
 authoring tool.
 
 TeX's excellent mathematical capabilities remain a challenge in the
-business of conversion to HTML.  There are only two generally
+business of conversion to HTML.  Originally there were only two generally
 reliable techniques for generating mathematics on the web: creating
 bitmaps of bits of typesetting that can't be translated, and using
 symbols and table constructs.  Neither technique is entirely
 satisfactory.  Bitmaps lead to a profusion of tiny files, are slow to
 load, and are inaccessible to those with visual disabilities.  The
 symbol fonts offer poor coverage of mathematics, and their use
-requires configuration of the browser.  The future of mathematical
-browsing may be brighter&nbsp;&mdash; see
-[future Web technologies](/FAQ-mathml).
+requires configuration of the browser.
+
+Today, with native MathML rendering in some browsers
+and high quality math rendering available via JavaScript and CSS
+in all modern graphical browsers there are several possibilities.
+
+The LaTeX to HTML convertors listed below  all handle mathematics
+to some extent, and further math-specific details are discussed
+in [Math on the Web](/FAQ-mathml).
 
 For today, possible packages are:
+
+- `TeX4ht` a compiled program that supports either
+  LaTeX or Plain TeX, by processing a DVI file; it uses
+  bitmaps for mathematics, but can also use other technologies where
+  appropriate.  Written by Eitan Gurari, it parses the DVI
+  file generated when you run (La)TeX over your file with
+  `tex4ht`s macros included.  As a result, it's pretty
+  robust against the macros you include in your document, and it's
+  also pretty fast.
+
+  Configuring and calling `TeX4ht` can be quite complicated,
+  Michal Hoftich's `make4ht` system provides an alternative
+  easier calling convention, using the `tex4ht` convertor internally.
+
+- `LaTeXML` From [NIST](https://www.nist.gov/) is a perl program
+  that can parse most TeX code, including complicated macro definitions.
+  It was used for generating the web version of [DLMF](https://dlmf.nist.gov/)
+  from LaTeX sources. Currently it is distributed from the NIST site, and is not
+  in standard TeX distributions.
+
+- `lwarp` by Brian Dunn is a recent TeX to HTNL convertor that uses
+   pdftex to parse the input document.
 
 - `LaTeX2HTML` a `Perl` script package that
   supports LaTeX only, and generates mathematics (and other
@@ -44,21 +72,20 @@ For today, possible packages are:
 
   A mailing list for users may be found via
   [https://tug.org/mailman/listinfo/latex2html]
+- `Hevea` a compiled program that supports LaTeX
+  only, and uses the font/table technique for equations (indeed its
+  entire approach is very similar to `TtH`).  It is written
+  in Objective CAML by Luc Maranget.  `Hevea` isn't
+  archived on CTAN; details (including download points) are
+  available via [http://pauillac.inria.fr/~maranget/hevea/]
 - `TtH` a compiled program that supports either LaTeX
   or Plain TeX, and uses the font/table technique for representing
   mathematics.  It is written by Ian Hutchinson, using
   `flex`.  The distribution consists of a single C
   source (or a compiled executable), which is easy to install and very
-  fast-running.
-- `TeX4ht` a compiled program that supports either
-  LaTeX or Plain TeX, by processing a DVI file; it uses
-  bitmaps for mathematics, but can also use other technologies where
-  appropriate.  Written by Eitan Gurari, it parses the DVI
-  file generated when you run (La)TeX over your file with
-  `tex4ht`s macros included.  As a result, it's pretty
-  robust against the macros you include in your document, and it's
-  also pretty fast.
-- `plasTeX` a Python-based LaTeX document processing
+  fast-running. However te resulting HTML does not really reach
+  modern standards, and only very simple mathematics can be converted.
+  - `plasTeX` a Python-based LaTeX document processing
     framework.  It gives DOM-like access to a LaTeX document, as
     well as the ability to generate mulitple output formats
     (e.g. HTML, DocBook, tBook, etc.).
@@ -66,19 +93,5 @@ For today, possible packages are:
   [Micropress](/FAQ-commercial), which is
   described on [http://www.micropress-inc.com/webb/wbstart.htm];
   it uses bitmaps for equations.
-- `Hevea` a compiled program that supports LaTeX
-  only, and uses the font/table technique for equations (indeed its
-  entire approach is very similar to `TtH`).  It is written
-  in Objective CAML by Luc Maranget.  `Hevea` isn't
-  archived on CTAN; details (including download points) are
-  available via [http://pauillac.inria.fr/~maranget/hevea/]
 
-An interesting set of samples, including conversion of the same text
-by the four free programs listed above, was available at
-`http://www.mayer.dial.pipex.com/samples/example.htm`; a linked
-page gives lists of pros and cons, by way of comparison.
-
-The World Wide Web Consortium maintains a list of ''filters'' to
-HTML, with sections on (La)TeX and BibTeX&nbsp;&mdash; see
-[http://www.w3.org/Tools/Word_proc_filters.html](http://www.w3.org/Tools/Word_proc_filters.html)
 
