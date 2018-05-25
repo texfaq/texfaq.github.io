@@ -26,17 +26,17 @@ and reprinted in the
 
 There are projects (some of them long-term
 projects: see, for example,
-[the LaTeX3 project](FAQ-LaTeX3.md))
+[the LaTeX3 project](/FAQ-LaTeX3))
 to build substantial new macro packages based on TeX.  There are
 also various projects to build a _successor_ to TeX.  The
-[&epsilon;-TeX](FAQ-etex.md) extension to TeX itself arose from such a
+[&epsilon;-TeX](/FAQ-etex) extension to TeX itself arose from such a
 project (NTS).  Another pair of projects, which have delivered
 all the results they are likely to deliver, is the
 related 
-[Omega and Aleph](FAQ-omegaleph.md).  The 
-[XeTeX system](FAQ-xetex.md) is in principle still under
+[Omega and Aleph](/FAQ-omegaleph).  The 
+[XeTeX system](/FAQ-xetex) is in principle still under
 development, but is widely used, and the 
-[LuaTeX project](FAQ-luatex.md) (though not scheduled to produce
+[LuaTeX project](/FAQ-luatex) (though not scheduled to produce
 for some time) has already delivered a system that increasingly
 accessible to ''ordinary users''.
 

@@ -36,7 +36,7 @@ If your requirement is for a document from which whole chapters (or
 the like) are missing, consider the LaTeX
 `\include`/`\includeonly` system.  If you `\include` your
 files (rather than `\input` them&nbsp;&mdash; see 
-[What's going on in my `\include` commands?](FAQ-include.md)),
+[What's going on in my `\include` commands?](/FAQ-include)),
 LaTeX writes macro traces of what's going on at the end of each
 chapter to the `aux` file; by using `\includeonly`, you can give
 LaTeX an exhaustive list of the files that are needed.  Files that

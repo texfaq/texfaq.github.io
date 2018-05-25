@@ -49,7 +49,7 @@ which ''creates'' the `\relax`-command inside the group of the first
 `\expandafter`, therefore forgets it again once the test is done.
 The test is about as good as you can do with macros.
 
-The [&epsilon;-TeX system](FAQ-etex.md) system comes to our help here: it
+The [&epsilon;-TeX system](/FAQ-etex) system comes to our help here: it
 defines two new primitives:
   
 

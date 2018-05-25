@@ -8,7 +8,7 @@ date: 2014-06-10
 # The quality of your LaTeX
 
 The [`l2tabu`](https://ctan.org/pkg/l2tabu) tutorial (mentioned in 
-[online introductions](FAQ-man-latex.md)) is undoubtedly a
+[online introductions](/FAQ-man-latex)) is undoubtedly a
 good read.
 
 However, it's always difficult to remember the things you should

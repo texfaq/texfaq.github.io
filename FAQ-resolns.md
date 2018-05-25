@@ -49,7 +49,7 @@ Resolution-independence of fonts was for a  long time forced upon the
 world by the feebleness of Adobe's `Acrobat`
 `Reader` at dealing with bitmap files: a sequence of answers
 starting with one aiming at the 
-[quality of PDF from PostScript](FAQ-dvips-pdf.md) addresses
+[quality of PDF from PostScript](/FAQ-dvips-pdf) addresses
 the problems that arise.
 
 Resolution-independence of positioning is more troublesome:
@@ -57,5 +57,5 @@ Resolution-independence of positioning is more troublesome:
 the accuracy of the declared resolution of the printer.
 One commonly-used approach is to declare a resolution of 8000 (''better
 than any device''), and this is reasonably successful though it does
-have its [problems](FAQ-8000.md).
+have its [problems](/FAQ-8000).
 

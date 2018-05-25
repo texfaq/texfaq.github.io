@@ -31,7 +31,7 @@ is distributed on DVD, and contains:
 A fair number of national TeX User Groups, as well as TUG,
 distribute copies to their members at no extra charge.  Some user
 groups are also able to sell additional copies:
-contact your local user group or [TUG](FAQ-TUGstar).
+contact your local user group or [TUG](/FAQ-TUGstar).
 
 You may also download disc images from CTAN; the installation
 disc, ProTeXt and MacTeX are all separately available.  Beware:

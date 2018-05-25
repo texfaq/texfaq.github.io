@@ -26,7 +26,7 @@ of landscape typesetting:
     Note that [`rotating`](https://ctan.org/pkg/rotating) has problems in a document that also
     loads the [`float`](https://ctan.org/pkg/float) package, which recommended in other
     answers in these FAQs, for example that on
-    [float placement](FAQ-floats.md).  The [`rotfloat`](https://ctan.org/pkg/rotfloat) package
+    [float placement](/FAQ-floats).  The [`rotfloat`](https://ctan.org/pkg/rotfloat) package
     loads [`rotating`](https://ctan.org/pkg/rotating) for you, and smooths the interaction with
     [`float`](https://ctan.org/pkg/float).
 -  If you have a long sequence of things that need to be typeset in
@@ -45,7 +45,7 @@ in both portrait and landscape orientation on the same page (it's not
 the sort of thing that TeX is well set-up to do).  If such
 behaviour was an absolute necessity, one might use the techniques
 described in
-["flowing text around figures"](FAQ-textflow.md), and would
+["flowing text around figures"](/FAQ-textflow), and would
 rotate the landscape portion using the rotation facilities of the
 [`graphics`](https://ctan.org/pkg/graphics) package.  (Returning from landscape to portrait
 orientation would be somewhat easier: the portrait part of the page

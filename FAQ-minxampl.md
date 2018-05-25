@@ -6,7 +6,7 @@ date: 2014-06-10
 
 # How to make a ''minimum example''
 
-[Our advice on asking questions](FAQ-askquestion.md)
+[Our advice on asking questions](/FAQ-askquestion)
 suggests that you prepare a ''minimum example'' (also commonly known
 as a ''_minimal_ example'') of failing behaviour,
 as a sample to post with your question.  If you have a problem in a
@@ -24,7 +24,7 @@ things.  First to add is a paragraph or so around the actual point
 where the problem occurs.  (It may prove difficult to find the actual
 line that's provoking the problem.  If the original problem is an
 error, reviewing 
-[''the structure of TeX errors''](FAQ-errstruct.md)
+[''the structure of TeX errors''](/FAQ-errstruct)
 may help.)
 
 Note that there are things that can go wrong in one part of the

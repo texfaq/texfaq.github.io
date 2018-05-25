@@ -9,7 +9,7 @@ date: 2014-06-10
 It sometimes happens that you need a new version of some macro package
 or font, but that the machine you use is maintained by someone who's
 unwilling to update and won't give you privileges to do the job
-yourself.  A [''temporary'' installation](FAQ-tempinst.md) is
+yourself.  A [''temporary'' installation](/FAQ-tempinst) is
 sometimes the correct approach, but if there's the slightest chance
 that the installation will be needed on more than one project,
 temporary installations aren't right.
@@ -35,7 +35,7 @@ exception is Macintoshes, using MacTeX, where the diretory is
 conventionally `Library/texmf` in your home directory.
 
 If you can confirm that the technique does indeed work, install your
-new package (or whatever) in the [correct place](FAQ-install-where.md)
+new package (or whatever) in the [correct place](/FAQ-install-where)
 in a tree based on `$HOME/texmf`, 
 and generate an index of that tree
 ```

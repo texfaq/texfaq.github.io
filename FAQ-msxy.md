@@ -33,5 +33,5 @@ Type&nbsp;1 format; if your mathematical needs only extend that far, the
 font could be a good choice.
 
 If you have a DVI file that requests the fonts, there is a package
-of [virtual fonts](FAQ-virtualfonts.md) to map the old to the new series.
+of [virtual fonts](/FAQ-virtualfonts) to map the old to the new series.
 

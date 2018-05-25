@@ -52,7 +52,7 @@ multiple lines if necessary. The result is more readable to human
 beings than the flat-style TeX code.
 
 Another significant possibility is to use one of the
-[HTML-generation solutions](FAQ-LaTeX2HTML.md),
+[HTML-generation solutions](/FAQ-LaTeX2HTML),
 and then to use a browser such as `lynx` to dump the resulting
 HTML as plain text.
 

@@ -23,7 +23,7 @@ command inside another float or marginpar, or inside a
 `minipage` environment, a `\parbox` or `\footnote`.
 Note that the error may be detected a long way from the problematic
 command(s), so the techniques of 
-[tracking down elusive errors](FAQ-erroradvice.md) all need to be
+[tracking down elusive errors](/FAQ-erroradvice) all need to be
 called into play.
 
 This author has also encountered the error when developing macros that

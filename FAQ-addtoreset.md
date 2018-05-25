@@ -50,7 +50,7 @@ many ''corollary&nbsp;1'' in any document, so it's as well to tie its number
 to the counter of the theorem it belongs to.  This is true of pretty
 much any such counter-within-another; if you're not using the
 [`chngcntr`](https://ctan.org/pkg/chngcntr), refer to the answer to 
-[redefining counters' `\the-`commands](FAQ-the-commands.md) for
+[redefining counters' `\the-`commands](/FAQ-the-commands) for
 the necessary techniques.
 
 Note that the technique doesn't work if the master counter is `page`,
@@ -58,7 +58,7 @@ the number of the current page.  The `page` counter is stepped deep
 inside the output routine, which usually gets called some time after
 the text for the new page has started to appear: so special
 techniques are required to deal with that.  One special case is dealt
-with elsewhere: [footnotes numbered per page](FAQ-footnpp.md).  One
+with elsewhere: [footnotes numbered per page](/FAQ-footnpp).  One
 of the techniques described there, using package [`perpage`](https://ctan.org/pkg/perpage),
 may be applied to any counter.  The command:
 `\MakePerPage{counter}`

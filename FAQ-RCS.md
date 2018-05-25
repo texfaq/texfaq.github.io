@@ -64,7 +64,7 @@ Another alternative for `Subversion` users is the
 [`svn`](https://ctan.org/pkg/svn) but with a rather different focus.  [`Svninfo`](https://ctan.org/pkg/Svninfo)
 does the date trick that [`svn`](https://ctan.org/pkg/svn) performs (controlled by a
 package option), and can set up page foot-lines using 
-[package [`fancyhdr`](https://ctan.org/pkg/fancyhdr)](FAQ-fancyhdr.md).  There isn''t much to
+[package [`fancyhdr`](https://ctan.org/pkg/fancyhdr)](/FAQ-fancyhdr).  There isn''t much to
 choose between the two packages: you should read the packages''
 documentation to see which suits you best.
 

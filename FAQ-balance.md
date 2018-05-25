@@ -32,7 +32,7 @@ be difficult.
 The [`flushend`](https://ctan.org/pkg/flushend) package offers a solution to this problem.  It's a
 somewhat dangerous piece of macro code, which patches one of the most
 intricate parts of the LaTeX kernel without deploying any of the
-safeguards discussed in [patching commands](FAQ-patch.md).
+safeguards discussed in [patching commands](/FAQ-patch).
 The package only changes the behaviour at end document (its
 `\flushend` command is enabled by default), and one other command
 permits adjustment of the final balance; other packages in the bundle

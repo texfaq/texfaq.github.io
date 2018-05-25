@@ -69,6 +69,6 @@ If your document is split into a variety of directories, and each
 directory has its associated graphics, the [`import`](https://ctan.org/pkg/import) package
 may well be the thing for you; see the discussion 
 in the question ''
-[bits of document in other directories](FAQ-docotherdir.md)
+[bits of document in other directories](/FAQ-docotherdir)
 ''.
 

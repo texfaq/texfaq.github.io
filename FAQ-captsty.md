@@ -11,13 +11,13 @@ Changes to the style of captions may be made by redefining the commands
 that produce the caption.  So, for example, `\fnum@figure` (which
 produces the float number for figure floats) may be redefined, in a
 package of your own, or between
-[`\makeatletter`&ndash;`\makeatother`](FAQ-atsigns.md):
+[`\makeatletter`&ndash;`\makeatother`](/FAQ-atsigns):
 ```latex
 \renewcommand{\fnum@figure}{\textbf{Fig.~\thefigure}}
 ```
 which will cause the number to be typeset in bold face.  (Note that
 the original definition used 
-[`\figurename`](FAQ-fixnam.md).)  More elaborate changes can be
+[`\figurename`](/FAQ-fixnam).)  More elaborate changes can be
 made by patching the `\caption` command, but since there are
 packages to do the job, such changes (which can get rather tricky)
 aren't recommended for ordinary users.

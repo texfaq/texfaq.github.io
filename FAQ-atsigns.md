@@ -10,7 +10,7 @@ date: 2014-06-10
 Macro names containing `@` are _internal_ to LaTeX, and
 without special treatment just don't work in ordinary use.  A nice
 example of the problems caused is discussed in 
-[`\@` in vertical mode](FAQ-atvert.md)''.
+[`\@` in vertical mode](/FAQ-atvert)''.
 
 The problems users see are caused by copying bits of a class
 (`cls` file) or 
@@ -29,7 +29,7 @@ command.
 
 If you're using a fragment of a package or class, you may well feel
 confused: books such as the first edition of the 
-[The LaTeX Companion](FAQ-latex-books.md) 
+[The LaTeX Companion](/FAQ-latex-books) 
 are full of fragments of packages as examples for you to employ.
 The second edition of the _Companion_ makes clearer how you
 should use these fragments, and in addition, the code of

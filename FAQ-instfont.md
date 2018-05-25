@@ -21,5 +21,5 @@ installation of fonts:
 follow the list through the ''next question'' links at the bottom of
 this answer to view them all.
 Other answers discuss specific font families&nbsp;&mdash; for example,
-''[using the concrete fonts](FAQ-concrete.md)''.
+''[using the concrete fonts](/FAQ-concrete)''.
 

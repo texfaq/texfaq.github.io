@@ -26,13 +26,13 @@ The following programs are available:
   information on how to create your own index. [`Makeindex`](https://ctan.org/pkg/Makeindex) can
   be used with some TeX
   macro packages other than LaTeX, such as 
-  [Eplain](FAQ-eplain.md), and TeX (whose macros can
+  [Eplain](/FAQ-eplain), and TeX (whose macros can
   be used independently with Plain TeX).
 - idxtex for LaTeX under VMS; `idxtex` comes
   with a glossary-maker `glotex`.
 - texindex(1) A witty little shell-script using `sed`
   and `awk`; designed for LaTeX under Unix.
-- texindex(2) The [Texinfo](FAQ-texinfo.md) system also offers a program
+- texindex(2) The [Texinfo](/FAQ-texinfo) system also offers a program
   `texindex`, whose source is to be found in the
   `texinfo` distribution.  The [`ltxindex`](https://ctan.org/pkg/ltxindex) package
   provides macros that enable LaTeX users to use this

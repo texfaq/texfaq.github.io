@@ -11,7 +11,7 @@ every symbol in the font.  While this is convenient, it can lead to
 difficulties, particularly with name clashes when you load packages
 that cover fonts which duplicate symbols&nbsp;&mdash; an issue which is
 discussed in
-  ''[symbol already defined](FAQ-alreadydef.md)''.
+  ''[symbol already defined](/FAQ-alreadydef)''.
 Some font sets (for example the related set: `FdSymbol`,
 `MdSymbol` and `MnSymbol`) are huge, and the
 accompanying macros cover so many symbols that name clashes are surely

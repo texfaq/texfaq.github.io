@@ -48,5 +48,5 @@ LaTeX.  Plain TeX's font loading command
 (`\newfont`) should be avoided wherever possible.  They are only
 safe in the most trivial contexts, and are potential sources of great
 confusion in many circumstances.   Further discussion of this issue
-may be found in ''[What's wrong with `\newfont`?](FAQ-newfontstar)''.
+may be found in ''[What's wrong with `\newfont`?](/FAQ-newfontstar)''.
 

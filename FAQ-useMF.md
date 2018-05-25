@@ -18,7 +18,7 @@ unlike TeX, requires customisation for each output device: such
 customisation is conventionally held in a ''mode'' associated with the
 device.  Modes are commonly defined using the `mode_def`
 convention described on page&nbsp;94 of _The MetaFontbook_ 
-(see [TeX-related books](FAQ-other-books.md)).  Your
+(see [TeX-related books](/FAQ-other-books)).  Your
 distribution should provide
 a file, conventionally called `local.mf`, containing all the
 `mode_def`s you will be using. In the unlikely event that
@@ -116,5 +116,5 @@ parameters you're using.  Once you've settled on an appropriate set of
 parameters, you should use them to rebuild the base file that you use.
 
 Other sources of help are discussed in our list of 
-[MetaFont and MetaPost Tutorials](FAQ-mfptutorials.md).
+[MetaFont and MetaPost Tutorials](/FAQ-mfptutorials).
 

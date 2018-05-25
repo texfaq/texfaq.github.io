@@ -33,20 +33,20 @@ pretty complete TeX system even to read a single file, and complete
 TeX systems are pretty large.
 
 TeX is a typesetting system that arose from a publishing project (see
-''[what is TeX](FAQ-whatTeX.md)''),
+''[what is TeX](/FAQ-whatTeX)''),
 and its basic source is available free from its author.  However, at
 its root, it is _just_ a typesetting engine: even to view or to
 print the typeset output, you will need ancillary programs.  In short,
 you need a TeX _distribution_&nbsp;&mdash; a collection of
 TeX-related programs tailored to your operating system: for details
 of the sorts of things that are available, see
-''[TeX distributions](FAQ-TeXsystems.md)''
+''[TeX distributions](/FAQ-TeXsystems)''
 or
-''[commercial TeX distributions](FAQ-commercial.md)''.
+''[commercial TeX distributions](/FAQ-commercial)''.
 
 But beware&nbsp;&mdash; TeX makes no attempt to look like the sort of
 WYSIWYG system you're probably used to (see
-''[why is TeX not WYSIWYG](FAQ-notWYSIWYG.md)''):
+''[why is TeX not WYSIWYG](/FAQ-notWYSIWYG)''):
 while many modern versions of TeX have a compile&ndash;view cycle that
 rivals the best commercial word processors in its responsiveness, what
 you type is usually _markup_, which typically defines a logical

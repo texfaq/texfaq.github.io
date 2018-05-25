@@ -8,7 +8,7 @@ date: 2014-06-10
 
 AMSTeX is a TeX macro package, originally written by Michael Spivak for
 the American Mathematical Society (AMS) during 1983&ndash;1985 and
-is described in the book ''[The Joy of TeX](FAQ-tex-books.md)''.
+is described in the book ''[The Joy of TeX](/FAQ-tex-books)''.
 It is based on Plain TeX, and provides many
 features for producing more professional-looking maths formulas with
 less burden on authors.  It pays attention to the finer details of

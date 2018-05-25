@@ -6,7 +6,7 @@ date: 2018-05-24
 
 # The TeX document preparation environment
 
-''[Why TeX is not WYSIWYG](FAQ-notWYSIWYG.md)''
+''[Why TeX is not WYSIWYG](/FAQ-notWYSIWYG)''
 outlines the reasons (or excuses) for the huge disparity of user
 interface between ''typical'' TeX environments and commercial word
 processors.

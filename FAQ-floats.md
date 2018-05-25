@@ -18,7 +18,7 @@ printed ''here'' if doing so would break the rules; the rules themselves
 are pretty simple, and are given on page&nbsp;198, section&nbsp;C.9 of the
 LaTeX manual.  In the worst case, LaTeX's rules can cause the
 floating items to pile up to the extent that you get an error message
-saying ''[Too many unprocessed floats](FAQ-tmupfl.md)''.
+saying ''[Too many unprocessed floats](/FAQ-tmupfl)''.
 What follows is a simple checklist of things to do to solve these
 problems (the checklist talks throughout about figures, but applies
 equally well to tables, or to ''non-standard'' floats defined by the
@@ -26,7 +26,7 @@ equally well to tables, or to ''non-standard'' floats defined by the
   
 
 -  Do your figures need to float at all?  If not, look at the
-    recommendations for ''[non-floating floats](FAQ-figurehere.md)''
+    recommendations for ''[non-floating floats](/FAQ-figurehere)''
 -  Are the placement parameters on your figures right?  The
     default (`tbp`) is usually satisfactory, but you can
     reasonably change it (for example, to add an `h`).

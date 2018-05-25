@@ -6,7 +6,7 @@ date: 2014-06-10
 
 # Spawning programs from (La)TeX: `\write18`
 
-The TeX [`\write` primitive instruction](FAQ-write.md) is used
+The TeX [`\write` primitive instruction](/FAQ-write) is used
 to write to different file ''streams''; TeX refers to each open file by
 a number, not by a file name (although most of the time we hide this).
 Originally, TeX would write to a file connected to a stream

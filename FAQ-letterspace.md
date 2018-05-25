@@ -31,7 +31,7 @@ package (which is optimised for use with LaTeX, but also works with
 Plain TeX).  Soul also permits hyphenation of letterspaced text;
 Gill's view of such an activity is not (even apocryphally) recorded.
 (Spacing-out forms part of the name of [`soul`](https://ctan.org/pkg/soul); the other half
-is described in [another question](FAQ-underline.md).)
+is described in [another question](/FAQ-underline).)
 
 Possibly the ''ultimate'' in this field is the [`microtype`](https://ctan.org/pkg/microtype),
 which uses the micro-typography capabilities of current pdfTeX to

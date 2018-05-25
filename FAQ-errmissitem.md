@@ -101,12 +101,12 @@ modification of the above _does_ work:
 <!-- {% endraw %} -->
 The code above produces a box that's far too wide for the text.  One
 may want to use something that allows 
-[variable size boxes](FAQ-varwidth.md) in place of the
+[variable size boxes](/FAQ-varwidth) in place of the
 `minipage` environment.
 
 Oddly, although the `verbatim` environment wouldn't work
 inside a `\fbox` command argument (see 
-[verbatim in command arguments](FAQ-verbwithin.md)), you
+[verbatim in command arguments](/FAQ-verbwithin)), you
 get an error that complains about `\item`: the environment's
 internal list bites you before `verbatim` has even had a
 chance to create its own sort of chaos.
@@ -120,5 +120,5 @@ This is a case where you've simply got to be more subtle; you should
 either write your own macros to replace the insides of LaTeX's
 sectioning macros, or  look for some alternative in the packages
 discussed in 
-''[The style of section headings](FAQ-secthead.md)''.
+''[The style of section headings](/FAQ-secthead)''.
 

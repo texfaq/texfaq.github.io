@@ -8,7 +8,7 @@ date: 2014-06-10
 # Key-value input for macros and package options
 
 When we discussed 
-[extending the number of arguments to a macro](FAQ-moren9.md), we
+[extending the number of arguments to a macro](/FAQ-moren9), we
 suggested that large numbers of arguments, distinguished only by their
 position, aren't very kind to the user, and that a package such as
 [`keyval`](https://ctan.org/pkg/keyval) offers a more attractive user interface.  We now
@@ -46,7 +46,7 @@ command name, with family name (`my`, here) after the first
 
 These simple commands are enough, in fact, to process the botanical
 example offered as replacement for multi-argument commands in 
-[the question mentioned above](FAQ-moren9.md), or the
+[the question mentioned above](/FAQ-moren9), or the
 optional arguments of the `\includegraphics` command of the
 [`graphicx`](https://ctan.org/pkg/graphicx) package.  (The last is, in fact, what
 [`keyval`](https://ctan.org/pkg/keyval) was designed to do.)
@@ -123,7 +123,7 @@ isn't available with the other keys packages.  However, there seems to
 be no mechanism for using [`pgfkeys`](https://ctan.org/pkg/pgfkeys) keys as part of the
 options of another package, in the way that [`kvoptions`](https://ctan.org/pkg/kvoptions) does.
 
-The [`l3kernel`](https://ctan.org/pkg/l3kernel) programming layer for [LaTeX3](FAQ-LaTeX3.md)
+The [`l3kernel`](https://ctan.org/pkg/l3kernel) programming layer for [LaTeX3](/FAQ-LaTeX3)
 includes the [`l3keys`](https://ctan.org/pkg/l3kernel) module.  Inspired by [`pgfkeys`](https://ctan.org/pkg/pgfkeys),
 it provides a keyval-based method for the programmer to create keys.
 As with keyval and derivatives, [`l3keys`](https://ctan.org/pkg/l3kernel) uses separate macros

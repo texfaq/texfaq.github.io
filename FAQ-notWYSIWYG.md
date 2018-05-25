@@ -48,13 +48,13 @@ TeX version 3).
 Lightning Textures (an extension of Blue Sky's original TeX system
 for the Macintosh), is sadly no longer available.
 
-Thus''[Scientific Word](FAQ-commercial.md)'' (which can also interact
+Thus''[Scientific Word](/FAQ-commercial)'' (which can also interact
 with a computer algebra system), is the only remaining TeX system
 that even approximates to WYSIWYG operation.
 
 The issue has of recent years started to attract attention
 from TeX developers, and several interesting projects that address
-the ''[TeX document preparation environment](FAQ-WYGexpts.md)''
+the ''[TeX document preparation environment](/FAQ-WYGexpts)''
 are in progress.
 
 All the same, it's clear that the TeX world has taken a long time

@@ -35,7 +35,7 @@ been covered by them.  Unfortunately, with such an approach, a lot of
 work is needed for every language involved.  Two routes to a solution
 of the ''general'' problem are available&nbsp;&mdash; that offered by
 [`babelbib`](https://ctan.org/pkg/babelbib), and the 
-[[`custom-bib`](https://ctan.org/pkg/custom-bib) mechanism for generating styles](FAQ-custbib.md).
+[[`custom-bib`](https://ctan.org/pkg/custom-bib) mechanism for generating styles](/FAQ-custbib).
 
 [`Babelbib`](https://ctan.org/pkg/babelbib) (which is a development of the ideas of the
 [`bibgerm`](https://ctan.org/pkg/germbib) package) co-operates with [`babel`](https://ctan.org/pkg/babel) to control

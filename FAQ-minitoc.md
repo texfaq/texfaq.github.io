@@ -12,7 +12,7 @@ chapter, or even section, is supported by the [`minitoc`](https://ctan.org/pkg/m
 package.  The package also supports mini-lists of tables and figures;
 but, as the documentation observes, mini-bibliographies present a
 different problem&nbsp;&mdash; see
-[bibliographies per chapter](FAQ-chapbib.md).
+[bibliographies per chapter](/FAQ-chapbib).
 
 The package's basic scheme is to generate a little `aux` file for
 each chapter, and to process that within the chapter.  Simple usage

@@ -13,7 +13,7 @@ The document ''BibTeXing'', in the BibTeX distribution (look for
 `btxdoc`),
 expands on the chapter in Lamport's book.  _The LaTeX Companion_
 also has information on BibTeX and writing BibTeX style files.
-(See [LaTeX books](FAQ-latex-books.md) for details of both
+(See [LaTeX books](/FAQ-latex-books) for details of both
 books.)
 
 The web site ''[Your BibTeX resource](http://www.bibtex.org)''

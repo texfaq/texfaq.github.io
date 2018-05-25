@@ -11,7 +11,7 @@ It's easy to come up with a table design that requires a cell that
 spans several rows.  An example is something where the left-most
 column labels the rest of the table; this can be done (in simple
 cases) by using 
-[diagonal separation in corner cells](FAQ-slashbox.md), but that
+[diagonal separation in corner cells](/FAQ-slashbox), but that
 technique rather strictly limits what can be used as the content of
 the cell.
 
@@ -85,7 +85,7 @@ bottom left
 ```
 [`Multirow`](https://ctan.org/pkg/Multirow) is set up to interact with the [`bigstrut`](https://ctan.org/pkg/bigstrut)
 package (which is also discussed in the answer to 
-[spacing lines in tables](FAQ-struttab.md)).  You use an
+[spacing lines in tables](/FAQ-struttab)).  You use an
 optional argument to the `\multirow` command to say how many of the
 rows in the multi-row have been opened up with `\bigstrut`.
 

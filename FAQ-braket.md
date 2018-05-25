@@ -21,7 +21,7 @@ needing a `\middle` command, to be used in expressions like
 \left\{ x \in \mathbb{N} \middle| x \mbox{ even} \right\}
 ```
 to specify the set of even natural numbers.  The 
-[&epsilon;-TeX system](FAQ-etex.md)
+[&epsilon;-TeX system](/FAQ-etex)
 defines just such a command, but users of Knuth's original need some
 support.  Donald Arseneau's [`braket`](https://ctan.org/pkg/braket) package provides commands
 for set specifications (as above) and for Dirac brackets (and bras and

@@ -25,7 +25,7 @@ For example
 in LaTeX.
 
 As mentioned in
-  ''[hyphenation failures](FAQ-nohyph.md)'',
+  ''[hyphenation failures](/FAQ-nohyph)'',
 ''words'' containing `\accent` commands may not be hyphenated.  As
 a result, any such word is deemed improper in a `\hyphenation`
 command.

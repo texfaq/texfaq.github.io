@@ -48,7 +48,7 @@ A further extension is [`auto-pst-pdf`](https://ctan.org/pkg/auto-pst-pdf), whic
 PDF (essentially) transparently, by spawning a job to process
 output such as [`pst-pdf`](https://ctan.org/pkg/pst-pdf) uses.  If your pdfLaTeX
 installation doesn't automatically allow it&nbsp;&mdash; see 
-[spawning a process](FAQ-spawnprog.md)&nbsp;&mdash; then you need to start
+[spawning a process](/FAQ-spawnprog)&nbsp;&mdash; then you need to start
 pdfLaTeX with:
 ```latex
 pdflatex -shell-escape <file>

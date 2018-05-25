@@ -21,7 +21,7 @@ perplexing) errors that you may encounter.  There's a long list of
 
 -  Look at TeX errors; those messages may seem cryptic at first,
     but they often contain a straightforward clue to the problem.  See
-    [the structure of errors](FAQ-errstruct.md) for further
+    [the structure of errors](/FAQ-errstruct) for further
     details. 
 -  Read the `log` file; it contains hints to things you may
     not understand, often things that have not even presented as error
@@ -43,7 +43,7 @@ perplexing) errors that you may encounter.  There's a long list of
     (La)TeX trace takes a strong constitution, but once you know how,
     the trace can lead you quickly to the source of a problem.  You need
     to have read the TeXbook (see
-    [books about TeX](FAQ-tex-books.md)) in some detail, fully
+    [books about TeX](/FAQ-tex-books)) in some detail, fully
     to understand the trace.
   
 
@@ -67,7 +67,7 @@ most of the common errors are plain to the eye when you go back to the
 source line that TeX tells you of.  If that approach doesn't work,
 the remaining answers in this section deal with some of the odder
 error messages you may encounter.  You should not ordinarily need to
-appeal to the [wider public](FAQ-gethelp.md)
+appeal to the [wider public](/FAQ-gethelp)
 for assistance, but if you do, be sure to
 report full backtraces (see `errorcontextlines` above) and so on.
 

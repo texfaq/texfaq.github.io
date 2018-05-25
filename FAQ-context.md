@@ -31,7 +31,7 @@ engines (pdfTeX, XeTeX, Aleph and LuaTeX) without
 changing the user interface. ConTeXt continues to develop, often in
 response to requests from the user community.
 
-The development of [LuaTeX](FAQ-luatex.md) was originally driven
+The development of [LuaTeX](/FAQ-luatex) was originally driven
 by ConTeXt, almost from the start of its project.  Nowadays,
 ConTeXt it is distributed in two versions&nbsp;&mdash; mark two (files with
 extension `mkii`) which runs on pdfTeX but is not under
