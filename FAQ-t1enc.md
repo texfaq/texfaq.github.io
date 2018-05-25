@@ -1,11 +1,11 @@
 ---
-title: Why use [`fontenc`](https://ctan.org/pkg/fontenc) rather than [`t1enc`](https://ctan.org/pkg/t1enc)?
+title: Why use `fontenc` rather than `t1enc`?
 category: usage
 permalink: /FAQ-t1enc
 date: 2014-06-10
 ---
 
-# Why use [`fontenc`](https://ctan.org/pkg/fontenc) rather than [`t1enc`](https://ctan.org/pkg/t1enc)?
+# Why use `fontenc` rather than `t1enc`?
 
 In the very earliest days of LaTeX2e, the only way to use the
 T1 encoding was [`t1enc`](https://ctan.org/pkg/t1enc); with the summer 1994
