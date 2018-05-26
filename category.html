@@ -19,7 +19,7 @@ Based on https://github.com/codinfox/codinfox-lanyon/blob/master/blog/category.h
 {%- assign cats = "" -%}
 
 {%- for cat in rawcats -%}
-{%- if cat != "" %}
+{%- if cat != "" -%}
 
 {%- if cats == "" -%}
 {%- assign cats = cat | split:'|' -%}
