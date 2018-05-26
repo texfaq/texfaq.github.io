@@ -9,7 +9,7 @@ Based on https://github.com/codinfox/codinfox-lanyon/blob/master/blog/tag.html
 
 {%- assign rawtags = "" -%}
 {%- for page in site.pages -%}
-{%- assign ttags = post.tags | join:'|' | append:'|' -%}
+{%- assign ttags = page.tags | join:'|' | append:'|' -%}
 {%- assign rawtags = rawtags | append:ttags -%}
 {%- endfor -%}
 
