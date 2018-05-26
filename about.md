@@ -16,3 +16,13 @@ issues are mostly covered from the viewpoint of a LaTeX user.
 It's easier to add information than it is to decide that information is no
 longer needed: questions are therefore not deleted but are ''retired'' (removed
 from the main index) over time.
+
+## Impressum
+
+> Joseph Wright
+> 2, Dowthope End
+> Earls Barton
+> Northampton
+> NN6 0NH
+> United Kingdom
+> joseph.wright@morningstar2.co.uk
