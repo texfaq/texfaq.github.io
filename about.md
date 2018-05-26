@@ -1,3 +1,8 @@
+---
+title: About
+permalink: /about
+---
+
 # About
 
 This is a set of Frequently Asked Questions (FAQ) for English-speaking users of
