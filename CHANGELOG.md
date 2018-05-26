@@ -6,6 +6,11 @@ https://github.com/uktug/uk-tex-faq/blob/master/ChangeLog
 The format is based on [Keep a
 Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2018-05-26
+
+Changed
+- Q-texthings: Minor (copy)edits and fixes
+
 ## 2018-05-25
 
 Added

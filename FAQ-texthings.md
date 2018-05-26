@@ -2,7 +2,7 @@
 title: Things with ''TeX'' in the name
 category: background
 permalink: /FAQ-texthings
-date: 2014-06-10
+date: 2018-05-26
 ---
 
 # Things with ''TeX'' in the name
@@ -11,7 +11,8 @@ New TeX users are often baffled by the myriad terms with ''TeX''
 in the name.  The goal of this answer is to clarify some of the more
 common such terms.
 
-#### TeX itself
+## TeX itself
+
 TeX proper is a typesetting system based on a set of low-level
 control sequences that instruct TeX how to lay out text on the
 page.  For example, `\hskip` inserts a given amount of horizontal
@@ -26,7 +27,8 @@ information on TeX and
 descriptions of TeX control sequences, data types, and other key
 parts of TeX.
 
-#### TeX macro packages (a.k.a.&nbsp;TeX formats)
+## TeX macro packages (a.k.a.&nbsp;TeX formats)
+
 Some of TeX's control sequences are tedious to use directly; they are
 intended primarily as building blocks for higher-level&nbsp;&mdash; and therefore
 more user-friendly&nbsp;&mdash;  abstractions.  For example, there is no way in
@@ -70,7 +72,7 @@ that you are likely to encounter:
   long-since-obsolete (since 1994) version (cf.&nbsp;
   [What is LaTeX2e?](/FAQ-latex2e) for more information).
 
-  - ConTeXt (executable: `texmfstart`)
+  - ConTeXt (executable: `context`)
   See
   [What is ConTeXt?](/FAQ-ConTeXt).
 
@@ -83,14 +85,15 @@ that you are likely to encounter:
   usual output formats such as DVI or PDF.  Because
   `tex` loads the Plain TeX macros, not the Texinfo ones,
   a Texinfo document must begin with
-    `\input`` texinfo`
+    `\input texinfo`
   explicitly load the Texinfo macro package.
 
   - Eplain&nbsp;&mdash; Extended Plain TeX (executable: `eplain`)
   See
   [What is Eplain?](/FAQ-eplain).
 
-#### Modified `tex` executables
+## Modified `tex` executables
+
 The original `tex` executable was produced in the late 1970s
 (cf.&nbsp;[What is TeX?](/FAQ-whatTeX)) and consequently
 lacked some features that users have come to expect from today's
@@ -98,7 +101,7 @@ software.  The following programs address these issues by augmenting
 the TeX engine with some additional useful features:
 
   - pdfTeX (executable: `pdftex`)
-  TeX, which predates the PDF file format by a decade,
+  TeX, which pre-dates the PDF file format by a decade,
   outputs files in a TeX-specific format called DVI
   (cf.&nbsp;[What is a DVI file?](/FAQ-dvi)).  In
   contrast, pdfTeX can output both DVI _and_ PDF
@@ -110,18 +113,18 @@ the TeX engine with some additional useful features:
 
   - XeTeX (executable: `xetex`)
   XeTeX reads UTF-8 encoded Unicode input, and extends
-  TeX's font support to include ''modern'' formats such as TrueType
-  and OpenType; these extensions to its capabilities make it
+  TeX's font support to include ''modern'' formats such as
+  OpenType; these extensions to its capabilities make it
   well-suited to multi-lingual texts covering different writing
-  systems.  See [What is XeTeX?](/FAQ-xetex).
+  systems.  See [What are XeTeX and LuaTeX?](/FAQ-xetex-luatex).
 
   - LuaTeX (executable: `luatex`)
   TeX is programmed in its own arcane, integrated, macro-based
   programming language.  LuaTeX adds a second programming engine
   using a modern scripting language, Lua, which is ''embedded'' in a
-  TeX-alike engine; it too reads UTF-8 and uses TrueType
+  TeX-alike engine; it too reads UTF-8 and uses
   OpenType fonts.  See 
-  [What is LuaTeX?](/FAQ-luatex).
+  [What are XeTeX and LuaTeX?](/FAQ-xetex-luatex).
 
   - &epsilon;-TeX (executable: `etex`)
   &epsilon;-TeX is an extension of TeX's programming interface; as such
@@ -143,19 +146,20 @@ principle possible to combine any of them with one of the TeX macro
 packages listed earlier to produce ''extended'' executables.  For
 example, the `pdflatex`, `xelatex` and
 `lualatex` executables each combine LaTeX with an enhanced
-TeX engine.  Indeed, most (if not all) of the development of
-ConTeXt is now using LuaTeX.
+TeX engine.  Indeed, all development of
+ConTeXt now uses LuaTeX.
 
 Some executables combine the features of multiple enhanced TeX
 engines: for example, `pdftex` now (in current distributions)
 offers both pdfTeX and &epsilon;-TeX extensions into a single executable
 This executable may be offered with a LaTeX format (as
 `latex` or `pdflatex`) or with a Plain TeX format
-(as `pdftex`).  (`Tex` remains with an unadorned
+(as `pdftex`).  (`tex` remains with an unadorned
 TeX executable using Plain TeX, for people such as Knuth himself,
 who want the certainty of the ''original''.)
 
-#### TeX distributions
+## TeX distributions
+
 A _TeX distribution_ provides a structured collection of
 TeX-related software.  Generally, a TeX distribution includes a
 set of ''core'' TeX executables such as `tex` and
@@ -179,7 +183,8 @@ list of free and shareware TeX distributions and
 [Commercial TeX implementations](/FAQ-commercial) for a
 list of commercial TeX distributions.
 
-#### Summary
+## Summary
+
 What does it all mean?&nbsp;&mdash; the simple lists of objects, alone, offer
 no help for the beginner.  The FAQ team expects this answer
 only to be of use for people who are seeking guidance elsewhere
