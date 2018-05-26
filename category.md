@@ -1,7 +1,6 @@
 ---
 title: Category index
 permalink: category
-layout: index
 ---
 
 {%- comment -%}
