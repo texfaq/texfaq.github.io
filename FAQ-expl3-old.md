@@ -8,7 +8,7 @@ date: 2014-06-10
 # Support package `expl3` too old
 
 Some (rather modern) packages are written using the 
-[LaTeX3 programming environment](FAQ-LaTeX3.md).  Since LaTeX3
+[LaTeX3 programming environment](/FAQ-LaTeX3).  Since LaTeX3
 is still under development, the author cannot reliably guess what
 version of LaTeX3 the user has installed, and whether that version
 is adequate for the current package.  Thus the package's code often

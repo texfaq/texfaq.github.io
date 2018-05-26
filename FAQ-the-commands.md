@@ -30,7 +30,7 @@ period.  However, such a change to `\thesection` makes the
 definition of `\thesubsection` look distinctly odd: you are going to
 find yourself redefining things left, right and centre.  Rather, use
 the standard techniques for 
-[adjusting the presentation of section numbers](FAQ-seccntfmt.md). 
+[adjusting the presentation of section numbers](/FAQ-seccntfmt). 
 
 Or, suppose you want the page number to appear at the bottom of each
 page surrounded by dashes (as in
@@ -40,5 +40,5 @@ arise from the use of the page number in the table of contents (each
 number will have the dashes attached), and `\pageref` references
 will be oddly modified.  In this case, the change of appearance is
 best done by redefining the page style itself, perhaps using
-[package [`fancyhdr`](https://ctan.org/pkg/fancyhdr)](FAQ-fancyhdr.md).
+[package [`fancyhdr`](https://ctan.org/pkg/fancyhdr)](/FAQ-fancyhdr).
 

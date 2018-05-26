@@ -11,7 +11,7 @@ Some classes (for example, [`book`](https://ctan.org/pkg/book) and [`report`](ht
 different set of footnotes per chapter, by resetting the footnote
 number at the start of the chapter.  This is essentially the same
 action as that of 
-[equation, figure and table numbers](FAQ-running-nos.md),
+[equation, figure and table numbers](/FAQ-running-nos),
 except that footnote numbers don't get ''decorated'' with the chapter
 number, as happens with those other numbers.
 

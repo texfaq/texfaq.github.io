@@ -18,7 +18,7 @@ obscure macro TeXniques.
 
 This answer deals with repeating an operation a given number of times;
 repeating operations once for each of a set of objects is dealt with
-in the answer [repeating ''over a set''](FAQ-repeat-set.md).
+in the answer [repeating ''over a set''](/FAQ-repeat-set).
 
 Plain TeX itself provides a `\loop` &hellip; `\repeat`
 contruct, which enables you to repeat a command (or set of commands).

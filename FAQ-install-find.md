@@ -26,7 +26,7 @@ of the names of files on the archive.
 Packages come in a variety of different styles of distribution; the
 very simplest will actually offer just `package.sty`&nbsp;&mdash; in this
 case, just download the file and 
-[get on with installation](FAQ-inst-wlcf.md).
+[get on with installation](/FAQ-inst-wlcf).
 
 You will regularly find that the file you want (e.g., `foo.sty`)
 is distributed in a LaTeX documented source file `foo.dtx`;
@@ -41,6 +41,6 @@ not, packages grouped in this way depend on each other, so that you
 really _need_ the other ones.
 
 Having acquired the package distribution, 
-''[unpacking LaTeX packages](FAQ-install-unpack.md)'' outlines
+''[unpacking LaTeX packages](/FAQ-install-unpack)'' outlines
 your next step.
 

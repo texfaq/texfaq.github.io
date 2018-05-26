@@ -23,7 +23,7 @@ is also worth a read: among other things, it provides copies of the
 ''guidelines'' document in a wide variety of primary fonts, for
 comparison purposes.  The author is careful to explain that he has no
 ambition to supplant such excellent books as
-[Bringhurst's](FAQ-type-books.md), but the document (though it does
+[Bringhurst's](/FAQ-type-books), but the document (though it does
 contain its Rutgers-local matter) is a fine introduction to the issues
 of producing readable documents.
 

@@ -15,17 +15,17 @@ output and then distilling it, or you are using pdfTeX for the
 whole job.
 
 In fact, this is the same problem as most others about the
-[quality of PDF](FAQ-dvips-pdf.md): you've abandoned
+[quality of PDF](/FAQ-dvips-pdf): you've abandoned
 your previous setup using Type&nbsp;1 versions of the CM fonts, and
 `dvips` has inserted Type&nbsp;3 versions of the EC fonts
 into your document output.  (See 
-''[Adobe font types](FAQ-adobetypen.md)
+''[Adobe font types](/FAQ-adobetypen)
 for details of these font types; also, note that the font
 _encoding_&nbsp;T1
 has nothing directly to do with the font _format_&nbsp;Type&nbsp;1).
 
 However, as noted in 
-''[8-bit Type&nbsp;1 fonts](FAQ-type1T1.md)'',
+''[8-bit Type&nbsp;1 fonts](/FAQ-type1T1)'',
 Type&nbsp;1 versions of CM-like fonts in T1 (or equivalent) encoding
 are now available, both as ''real'' fonts, and as virtual font sets.
 One solution, therefore, is to use one of these alternatives.

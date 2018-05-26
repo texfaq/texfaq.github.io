@@ -8,7 +8,7 @@ date: 2014-06-10
 # Repeating something for each 'thing' in a set
 
 As another question 
-([repeating something a given number of times](FAQ-repeat-num.md))
+([repeating something a given number of times](/FAQ-repeat-num))
 explains, TeX is not explicitly designed for 'regular' programming
 operations. As a result, we must resort to arcane tricks to do the
 seemingly simple task of repeating an operation.  This answer deals

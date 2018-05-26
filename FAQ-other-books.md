@@ -26,5 +26,5 @@ maintenance) is:
 
 The book is decidedly dated, and is now out of print, but a copy is
 available via `sourceforge` and on CTAN, 
-and we list it under ''[online books](FAQ-ol-books.md)''.
+and we list it under ''[online books](/FAQ-ol-books)''.
 
