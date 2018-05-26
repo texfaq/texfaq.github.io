@@ -26,7 +26,7 @@ system for vector graphics.  MetaFun can be used as a stand-alone
 system to produce figures, but its strength lies in enhancing
 ConTeXt documents with accurate graphic elements.
 
-The development of [LuaTeX](/FAQ-luatex) was originally driven
+The development of [LuaTeX](/FAQ-xetex-luatex) was originally driven
 by ConTeXt, almost from the start of its project.  Nowadays,
 ConTeXt it is distributed in two versions&nbsp;&mdash; mark two (files with
 extension `mkii`) which runs on pdfTeX but is not under
