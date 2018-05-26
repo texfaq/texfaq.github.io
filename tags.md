@@ -51,5 +51,3 @@ Based on https://github.com/codinfox/codinfox-lanyon/blob/master/blog/tag.html
   {%- endfor %}
 </ul>
 {% endfor -%}
-
-</div>
