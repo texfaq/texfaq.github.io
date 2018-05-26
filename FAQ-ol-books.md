@@ -1,3 +1,8 @@
+---
+title: Freely available (La)TeX books
+permalink: ol-books
+date: 2014-06-10
+---
 # Freely available (La)TeX books
 
 
@@ -34,5 +39,4 @@ to update it is believed to be under way.
 
 
 
-----
-Content last updated: 2014-06-10
+

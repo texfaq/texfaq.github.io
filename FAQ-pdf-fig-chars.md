@@ -1,3 +1,8 @@
+---
+title: Characters disappear from figures in pdfTeX
+permalink: pdf-fig-chars
+date: 2014-06-10
+---
 # Characters disappear from figures in pdfTeX
 
 
@@ -51,5 +56,4 @@ tiresome job.
 
 
 
-----
-Content last updated: 2014-06-10
+

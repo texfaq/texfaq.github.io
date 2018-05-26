@@ -1,3 +1,8 @@
+---
+title: Using non-standard fonts in Plain TeX
+permalink: fonts-pln
+date: 2014-06-10
+---
 # Using non-standard fonts in Plain TeX
 
 
@@ -118,5 +123,4 @@ back'', by defining a `\tenpoint` command.
 
 
 
-----
-Content last updated: 2014-06-10
+

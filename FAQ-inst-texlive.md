@@ -1,3 +1,8 @@
+---
+title: Installation using TeX&nbsp;Live manager
+permalink: inst-texlive
+date: 2014-06-10
+---
 # Installation using TeX&nbsp;Live manager
 
 
@@ -32,5 +37,4 @@ tlmgr update --all
 
 
 
-----
-Content last updated: 2014-06-10
+

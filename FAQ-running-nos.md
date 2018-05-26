@@ -1,3 +1,8 @@
+---
+title: Running equation, figure and table numbering
+permalink: running-nos
+date: 2014-06-10
+---
 # Running equation, figure and table numbering
 
 
@@ -72,5 +77,4 @@ numbered per chapter, try:
 
 
 
-----
-Content last updated: 2014-06-10
+

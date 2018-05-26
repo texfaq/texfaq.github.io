@@ -1,3 +1,8 @@
+---
+title: Installation using MiKTeX package manager
+permalink: inst-miktexstar
+date: 2014-06-10
+---
 # Installation using MiKTeX package manager
 
 
@@ -44,5 +49,4 @@ your package).
 
 
 
-----
-Content last updated: 2014-06-10
+

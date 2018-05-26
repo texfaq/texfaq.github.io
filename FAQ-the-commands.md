@@ -1,3 +1,8 @@
+---
+title: Redefining counters' `\the-`commands
+permalink: the-commands
+date: 2014-06-10
+---
 # Redefining counters' `\the-`commands
 
 
@@ -48,5 +53,4 @@ best done by redefining the page style itself, perhaps using
 
 
 
-----
-Content last updated: 2014-06-10
+

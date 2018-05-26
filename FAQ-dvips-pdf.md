@@ -1,3 +1,8 @@
+---
+title: Quality of PDF from PostScript
+permalink: dvips-pdf
+date: 2014-06-10
+---
 # Quality of PDF from PostScript
 
 
@@ -48,5 +53,4 @@ Shell's [`testflow`](https://ctan.org/pkg/testflow) package, which these FAQs re
 
 
 
-----
-Content last updated: 2014-06-10
+

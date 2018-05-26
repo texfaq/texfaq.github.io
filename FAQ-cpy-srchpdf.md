@@ -1,3 +1,8 @@
+---
+title: Copy-paste-able/searchable PDF files
+permalink: cpy-srchpdf
+date: 2014-06-10
+---
 # Copy-paste-able/searchable PDF files
 
 
@@ -68,5 +73,4 @@ are not amenable to this treatment.
 
 
 
-----
-Content last updated: 2014-06-10
+

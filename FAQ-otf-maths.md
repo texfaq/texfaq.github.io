@@ -1,3 +1,8 @@
+---
+title: Unicode Maths using OpenType fonts
+permalink: otf-maths
+date: 2014-06-10
+---
 # Unicode Maths using OpenType fonts
 
 
@@ -45,5 +50,4 @@ by the [`fontspec`](https://ctan.org/pkg/fontspec) package) does the essential g
 
 
 
-----
-Content last updated: 2014-06-10
+

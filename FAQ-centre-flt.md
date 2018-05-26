@@ -1,3 +1,8 @@
+---
+title: Why is my table/figure/&hellip; not centred?
+permalink: centre-flt
+date: 2014-06-10
+---
 # Why is my table/figure/&hellip; not centred?
 
 
@@ -35,5 +40,4 @@ inside the environment.  So the example's code should be converted to
 
 
 
-----
-Content last updated: 2014-06-10
+

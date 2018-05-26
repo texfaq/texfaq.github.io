@@ -1,3 +1,8 @@
+---
+title: Fuzzy fonts because `Ghostscript` too old
+permalink: fuzzy-gs
+date: 2014-06-10
+---
 # Fuzzy fonts because `Ghostscript` too old
 
 
@@ -30,5 +35,4 @@ writing&nbsp;&mdash; 2003).
 
 
 
-----
-Content last updated: 2014-06-10
+

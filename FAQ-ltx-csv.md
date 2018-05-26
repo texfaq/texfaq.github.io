@@ -1,3 +1,8 @@
+---
+title: Process a CSV file in LaTeX
+permalink: ltx-csv
+date: 2014-06-10
+---
 # Process a CSV file in LaTeX
 
 
@@ -50,5 +55,4 @@ CSV list; this can of course be used to implement
 
 
 
-----
-Content last updated: 2014-06-10
+

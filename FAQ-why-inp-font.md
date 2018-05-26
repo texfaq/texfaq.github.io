@@ -1,3 +1,8 @@
+---
+title: Why bother with [`inputenc`](https://ctan.org/pkg/inputenc) and [`fontenc`](https://ctan.org/pkg/fontenc)?
+permalink: why-inp-font
+date: 2014-06-10
+---
 # Why bother with [`inputenc`](https://ctan.org/pkg/inputenc) and [`fontenc`](https://ctan.org/pkg/fontenc)?
 
 
@@ -37,5 +42,4 @@ cumbersome, but it's safe.
 
 
 
-----
-Content last updated: 2014-06-10
+

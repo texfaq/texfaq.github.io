@@ -1,3 +1,8 @@
+---
+title: Installing files ''where (La)TeX can find them''
+permalink: inst-wlcf
+date: 2014-06-10
+---
 # Installing files ''where (La)TeX can find them''
 
 
@@ -58,5 +63,4 @@ Having done all this, the new package will be available for use.
 
 
 
-----
-Content last updated: 2014-06-10
+

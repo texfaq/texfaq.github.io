@@ -1,3 +1,8 @@
+---
+title: Books relevant to TeX and friends
+permalink: book-lists
+date: 2014-06-10
+---
 # Books relevant to TeX and friends
 
 
@@ -23,5 +28,4 @@ material.
 
 
 
-----
-Content last updated: 2014-06-10
+

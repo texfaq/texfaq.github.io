@@ -1,3 +1,8 @@
+---
+title: How to do bold-tt or bold-sc
+permalink: bold-extras
+date: 2014-06-10
+---
 # How to do bold-tt or bold-sc
 
 
@@ -49,5 +54,4 @@ support available on the archive.
 
 
 
-----
-Content last updated: 2014-06-10
+

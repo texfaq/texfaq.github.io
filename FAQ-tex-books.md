@@ -1,3 +1,8 @@
+---
+title: Books on TeX, Plain TeX and relations
+permalink: tex-books
+date: 2014-06-10
+---
 # Books on TeX, Plain TeX and relations
 
 
@@ -66,5 +71,4 @@ TeX and MetaFont) was published by Addison Wesley:
 
 
 
-----
-Content last updated: 2014-06-10
+

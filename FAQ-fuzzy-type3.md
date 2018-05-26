@@ -1,3 +1,8 @@
+---
+title: The wrong type of fonts in PDF
+permalink: fuzzy-type3
+date: 2014-06-10
+---
 # The wrong type of fonts in PDF
 
 
@@ -85,5 +90,4 @@ file without the fonts.  In either case, you need to
 
 
 
-----
-Content last updated: 2014-06-10
+

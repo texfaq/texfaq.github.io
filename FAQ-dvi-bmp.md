@@ -1,3 +1,8 @@
+---
+title: Generating bitmaps from DVI
+permalink: dvi-bmp
+date: 2014-06-10
+---
 # Generating bitmaps from DVI
 
 
@@ -58,5 +63,4 @@ for speed.
 
 
 
-----
-Content last updated: 2014-06-10
+

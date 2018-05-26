@@ -1,3 +1,8 @@
+---
+title: Online introductions: Plain TeX
+permalink: man-tex
+date: 2014-06-10
+---
 # Online introductions: Plain TeX
 
 
@@ -13,5 +18,4 @@ available on the web at
 
 
 
-----
-Content last updated: 2014-06-10
+

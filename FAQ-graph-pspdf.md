@@ -1,3 +1,8 @@
+---
+title: Portable imported graphics
+permalink: graph-pspdf
+date: 2014-06-10
+---
 # Portable imported graphics
 
 
@@ -37,5 +42,4 @@ document itself needs to be altered from its default
 
 
 
-----
-Content last updated: 2014-06-10
+

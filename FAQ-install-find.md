@@ -1,3 +1,8 @@
+---
+title: Finding packages to install
+permalink: install-find
+date: 2014-06-10
+---
 # Finding packages to install
 
 
@@ -48,5 +53,4 @@ your next step.
 
 
 
-----
-Content last updated: 2014-06-10
+

@@ -1,3 +1,8 @@
+---
+title: Characters missing from PDF output
+permalink: distill-prob
+date: 2014-06-10
+---
 # Characters missing from PDF output
 
 
@@ -41,5 +46,4 @@ is either to upgrade `dvips`, or to spend money to upgrade
 
 
 
-----
-Content last updated: 2014-06-10
+

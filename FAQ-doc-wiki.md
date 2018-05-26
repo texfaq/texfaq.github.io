@@ -1,3 +1,8 @@
+---
+title: WIKI books for TeX and friends
+permalink: doc-wiki
+date: 2014-06-10
+---
 # WIKI books for TeX and friends
 
 
@@ -21,5 +26,4 @@ and even as introductory texts.
 
 
 
-----
-Content last updated: 2014-06-10
+

@@ -1,3 +1,8 @@
+---
+title: Ready-built installation files on the archive
+permalink: tds-zip
+date: 2014-06-10
+---
 # Ready-built installation files on the archive
 
 
@@ -30,5 +35,4 @@ Use of the files is discussed in
 
 
 
-----
-Content last updated: 2014-06-10
+

@@ -1,3 +1,8 @@
+---
+title: Books on Type
+permalink: type-books
+date: 2014-06-10
+---
 # Books on Type
 
 The following is a partial listing of books on typography in general.
@@ -47,5 +52,4 @@ depend on the particular writing system involved.
 
 
 
-----
-Content last updated: 2014-06-10
+

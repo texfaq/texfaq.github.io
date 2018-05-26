@@ -1,3 +1,8 @@
+---
+title: Typography tutorials
+permalink: typo-style
+date: 2014-06-10
+---
 # Typography tutorials
 
 
@@ -26,5 +31,4 @@ of producing readable documents.
 
 
 
-----
-Content last updated: 2014-06-10
+

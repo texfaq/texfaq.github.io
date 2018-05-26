@@ -1,3 +1,8 @@
+---
+title: Not resetting footnote numbers per chapter
+permalink: run-fn-nos
+date: 2014-06-10
+---
 # Not resetting footnote numbers per chapter
 
 
@@ -26,5 +31,4 @@ is all you need
 
 
 
-----
-Content last updated: 2014-06-10
+

@@ -1,5 +1,9 @@
 ---
 title: What are XeTeX and LuaTeX?
+permalink: xetex-luatex
+date: ---
+---
+title: What are XeTeX and LuaTeX?
 category: background
 permalink: /FAQ-xetex-luatex
 date: 2018-05-25

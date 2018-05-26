@@ -1,3 +1,8 @@
+---
+title: Online introductions: LaTeX
+permalink: man-latex
+date: 2014-06-10
+---
 # Online introductions: LaTeX
 
 
@@ -86,5 +91,4 @@ the source is also available).
 
 
 
-----
-Content last updated: 2014-06-10
+

@@ -1,3 +1,8 @@
+---
+title: Which tree to use
+permalink: what-TDS
+date: 2014-06-10
+---
 # Which tree to use
 
 
@@ -100,5 +105,4 @@ installation.
 
 
 
-----
-Content last updated: 2014-06-10
+

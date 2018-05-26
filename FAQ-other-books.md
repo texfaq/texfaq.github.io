@@ -1,3 +1,8 @@
+---
+title: Books on other TeX-related matters
+permalink: other-books
+date: 2014-06-10
+---
 # Books on other TeX-related matters
 
 
@@ -32,5 +37,4 @@ and we list it under ''[online books](FAQ-ol-books.md)''.
 
 
 
-----
-Content last updated: 2014-06-10
+

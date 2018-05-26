@@ -1,3 +1,8 @@
+---
+title: Repeating something for each 'thing' in a set
+permalink: repeat-set
+date: 2014-06-10
+---
 # Repeating something for each 'thing' in a set
 
 
@@ -61,5 +66,4 @@ is itself expandable).
 
 
 
-----
-Content last updated: 2014-06-10
+

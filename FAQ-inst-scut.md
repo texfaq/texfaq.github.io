@@ -1,3 +1,8 @@
+---
+title: Shortcuts to installing files
+permalink: inst-scut
+date: 2014-06-10
+---
 # Shortcuts to installing files
 
 
@@ -20,5 +25,4 @@ be bypassed:
 
 
 
-----
-Content last updated: 2014-06-10
+

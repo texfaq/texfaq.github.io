@@ -1,3 +1,8 @@
+---
+title: Tidying up after installation
+permalink: inst-tidy
+date: 2014-06-10
+---
 # Tidying up after installation
 
 
@@ -26,5 +31,4 @@ directory and all its contents after you've finished installing.
 
 
 
-----
-Content last updated: 2014-06-10
+

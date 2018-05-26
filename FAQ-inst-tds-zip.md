@@ -1,3 +1,8 @@
+---
+title: Installing using ready-built ZIP files
+permalink: inst-tds-zip
+date: 2014-06-10
+---
 # Installing using ready-built ZIP files
 
 
@@ -49,5 +54,4 @@ which is discussed in
 
 
 
-----
-Content last updated: 2014-06-10
+

@@ -1,3 +1,8 @@
+---
+title: LaTeX3 programming
+permalink: latex3-prog
+date: 2014-06-10
+---
 # LaTeX3 programming
 
 
@@ -29,5 +34,4 @@ to <a href="mailto:listserv@urz.Uni-Heidelberg.de">listserv@urz.Uni-Heidelberg.d
 
 
 
-----
-Content last updated: 2014-06-10
+

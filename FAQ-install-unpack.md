@@ -1,3 +1,8 @@
+---
+title: Unpacking LaTeX packages
+permalink: install-unpack
+date: 2014-06-10
+---
 # Unpacking LaTeX packages
 
 
@@ -32,5 +37,4 @@ should document anything out of the ordinary with the distribution.
 
 
 
-----
-Content last updated: 2014-06-10
+

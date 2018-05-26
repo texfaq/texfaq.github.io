@@ -1,3 +1,8 @@
+---
+title: Books on LaTeX
+permalink: latex-books
+date: 2014-06-10
+---
 # Books on LaTeX
 
 
@@ -61,5 +66,4 @@ CTAN.
 
 
 
-----
-Content last updated: 2014-06-10
+

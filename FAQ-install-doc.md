@@ -1,3 +1,8 @@
+---
+title: Generating package documentation
+permalink: install-doc
+date: 2014-06-10
+---
 # Generating package documentation
 
 
@@ -50,5 +55,4 @@ way as any ''ordinary'' LaTeX file.
 
 
 
-----
-Content last updated: 2014-06-10
+

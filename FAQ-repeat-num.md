@@ -1,3 +1,8 @@
+---
+title: Repeating a command _n_ times
+permalink: repeat-num
+date: 2014-06-10
+---
 # Repeating a command _n_ times
 
 
@@ -143,5 +148,4 @@ clear.
 
 
 
-----
-Content last updated: 2014-06-10
+

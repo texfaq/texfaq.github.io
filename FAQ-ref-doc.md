@@ -1,3 +1,8 @@
+---
+title: Reference documents
+permalink: ref-doc
+date: 2014-06-10
+---
 # Reference documents
 
 
@@ -43,5 +48,4 @@ also looks good.
 
 
 
-----
-Content last updated: 2014-06-10
+

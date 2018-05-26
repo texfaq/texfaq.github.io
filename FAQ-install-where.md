@@ -1,3 +1,8 @@
+---
+title: Where to install packages
+permalink: install-where
+date: 2014-06-10
+---
 # Where to install packages
 
 
@@ -84,5 +89,4 @@ covered, e.g., by `doc/etex` or `doc/xetex`.
 
 
 
-----
-Content last updated: 2014-06-10
+
