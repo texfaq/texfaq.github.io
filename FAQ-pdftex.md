@@ -3,7 +3,7 @@ title: What is pdfTeX?
 category: background
 permalink: /FAQ-pdftex
 date: 2018-05-24
-redirect_from: FAQ-whatpdftex
+redirect_from: /FAQ-whatpdftex
 ---
 
 # What is pdfTeX?

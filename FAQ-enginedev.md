@@ -3,8 +3,9 @@ title: TeX Engine development
 category: misc
 permalink: /FAQ-enginedev
 date: 2018-05-24
-redirect_from: FAQ-extex
-redirect_from: FAQ-omegaleph
+redirect_from:
+  - /FAQ-extex
+  - /FAQ-omegaleph
 ---
 
 # TeX Engine development
