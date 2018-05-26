@@ -1,6 +1,6 @@
 ---
 title: Books on Type
-category: documenation
+category: documentation
 permalink: /FAQ-type-books
 date: 2014-06-10
 ---
