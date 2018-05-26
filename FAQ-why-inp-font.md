@@ -46,7 +46,7 @@ Note that the `t1enc` package is available in the base distribution,
 which is equivalent to using the `T1` option to
 [`fonttenc`](https://ctan.org/fontenc/inputenc) however it should not
 be used in current documents and is just retained for compatibility
-with the first versions of the LaTeX2e docuemntation, which were
+with the first versions of the LaTeX2e documentation, which were
 written before the [`fonttenc`](https://ctan.org/fontenc/inputenc)
 package was produced.
 
