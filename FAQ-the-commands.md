@@ -1,7 +1,7 @@
 ---
 title: Redefining counters' `\the-`commands
 category: misc
-permalink: FAQ-the-commands
+permalink: /FAQ-the-commands
 date: 2014-06-10
 ---
 

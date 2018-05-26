@@ -1,7 +1,7 @@
 ---
 title: Characters missing from PDF output
 category: usage
-permalink: FAQ-distill-prob
+permalink: /FAQ-distill-prob
 date: 2014-06-10
 ---
 

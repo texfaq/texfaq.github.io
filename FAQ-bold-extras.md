@@ -1,7 +1,7 @@
 ---
 title: How to do bold-tt or bold-sc
 category: usage
-permalink: FAQ-bold-extras
+permalink: /FAQ-bold-extras
 date: 2014-06-10
 ---
 

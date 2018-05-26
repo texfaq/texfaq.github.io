@@ -1,7 +1,7 @@
 ---
 title: Quality of PDF from PostScript
 category: misc
-permalink: FAQ-dvips-pdf
+permalink: /FAQ-dvips-pdf
 date: 2014-06-10
 ---
 

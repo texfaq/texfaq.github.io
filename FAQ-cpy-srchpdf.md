@@ -1,7 +1,7 @@
 ---
 title: Copy-paste-able/searchable PDF files
 category: usage
-permalink: FAQ-cpy-srchpdf
+permalink: /FAQ-cpy-srchpdf
 date: 2014-06-10
 ---
 

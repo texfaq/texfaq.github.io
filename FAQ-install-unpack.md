@@ -1,7 +1,7 @@
 ---
 title: Unpacking LaTeX packages
 cateogry: installing
-permalink: FAQ-install-unpack
+permalink: /FAQ-install-unpack
 date: 2014-06-10
 ---
 

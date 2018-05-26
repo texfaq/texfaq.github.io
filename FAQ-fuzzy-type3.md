@@ -1,7 +1,7 @@
 ---
 title: The wrong type of fonts in PDF
 category: fonts
-permalink: FAQ-fuzzy-type3
+permalink: /FAQ-fuzzy-type3
 date: 2014-06-10
 ---
 

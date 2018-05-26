@@ -1,7 +1,7 @@
 ---
 title: Running equation, figure and table numbering
 category: usage
-permalink: FAQ-running-nos
+permalink: /FAQ-running-nos
 date: 2014-06-10
 ---
 

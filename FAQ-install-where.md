@@ -1,7 +1,7 @@
 ---
 title: Where to install packages
 category: installing
-permalink: FAQ-install-where
+permalink: /FAQ-install-where
 date: 2014-06-10
 ---
 

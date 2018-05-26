@@ -1,7 +1,7 @@
 ---
 title: Why is my table/figure/&hellip; not centred?
 category: errors
-permalink: FAQ-centre-flt
+permalink: /FAQ-centre-flt
 date: 2014-06-10
 ---
 

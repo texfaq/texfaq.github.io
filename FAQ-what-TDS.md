@@ -1,7 +1,7 @@
 ---
 title: Which tree to use
 category: installing
-permalink: FAQ-what-TDS
+permalink: /FAQ-what-TDS
 date: 2014-06-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Repeating something for each 'thing' in a set
 category: programming
-permalink: FAQ-repeat-set
+permalink: /FAQ-repeat-set
 date: 2014-06-10
 ---
 

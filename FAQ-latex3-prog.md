@@ -1,7 +1,7 @@
 ---
 title: LaTeX3 programming
 category: programming
-permalink: FAQ-latex3-prog
+permalink: /FAQ-latex3-prog
 date: 2014-06-10
 ---
 

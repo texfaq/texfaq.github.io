@@ -1,7 +1,7 @@
 ---
 title: Books relevant to TeX and friends
 category: documentation
-permalink: FAQ-book-lists
+permalink: /FAQ-book-lists
 date: 2014-06-10
 ---
 

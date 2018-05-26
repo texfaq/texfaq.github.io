@@ -1,7 +1,7 @@
 ---
 title: Generating bitmaps from DVI
 category: misc
-permalink: FAQ-dvi-bmp
+permalink: /FAQ-dvi-bmp
 date: 2014-06-10
 ---
 

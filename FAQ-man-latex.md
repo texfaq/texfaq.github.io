@@ -1,7 +1,7 @@
 ---
 title: Online introductions: LaTeX
 category: documentation
-permalink: FAQ-man-latex
+permalink: /FAQ-man-latex
 date: 2014-06-10
 ---
 

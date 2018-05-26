@@ -1,7 +1,7 @@
 ---
 title: Freely available (La)TeX books
 category: documentation
-permalink: FAQ-ol-books
+permalink: /FAQ-ol-books
 date: 2014-06-10
 ---
 

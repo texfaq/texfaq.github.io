@@ -1,7 +1,7 @@
 ---
 title: Books on Type
 category: documenation
-permalink: FAQ-type-books
+permalink: /FAQ-type-books
 date: 2014-06-10
 ---
 

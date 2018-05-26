@@ -1,7 +1,7 @@
 ---
 title: Shortcuts to installing files
 category: installing
-permalink: FAQ-inst-scut
+permalink: /FAQ-inst-scut
 date: 2014-06-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Support package `expl3` too old
 category: errors
-permalink: FAQ-expl3-old
+permalink: /FAQ-expl3-old
 date: 2014-06-10
 ---
 

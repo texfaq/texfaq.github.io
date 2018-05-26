@@ -1,7 +1,7 @@
 ---
 title: Not resetting footnote numbers per chapter
 category: usage
-permalink: FAQ-run-fn-nos
+permalink: /FAQ-run-fn-nos
 date: 2014-06-10
 ---
 

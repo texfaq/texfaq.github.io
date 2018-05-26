@@ -1,7 +1,7 @@
 ---
 title: Fonts go fuzzy when you switch to T1
 category: fonts
-permalink: FAQ-fuzzy-T1
+permalink: /FAQ-fuzzy-T1
 date: 2014-06-10
 ---
 

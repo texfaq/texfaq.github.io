@@ -1,7 +1,7 @@
 ---
 title: Why bother with `inputenc` and `fontenc`?
 category: usage
-permalink: FAQ-why-inp-font
+permalink: /FAQ-why-inp-font
 date: 2014-06-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Portable imported graphics
 cateogry: graphics
-permalink: FAQ-graph-pspdf
+permalink: /FAQ-graph-pspdf
 date: 2014-06-10
 ---
 

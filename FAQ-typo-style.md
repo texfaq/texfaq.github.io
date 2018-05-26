@@ -1,7 +1,7 @@
 ---
 title: Typography tutorials
 category: documentation
-permalink: FAQ-typo-style
+permalink: /FAQ-typo-style
 date: 2014-06-10
 ---
 

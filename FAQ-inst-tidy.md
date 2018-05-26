@@ -1,7 +1,7 @@
 ---
 title: Tidying up after installation
 category: installing
-permalink: FAQ-inst-tidy
+permalink: /FAQ-inst-tidy
 date: 2014-06-10
 ---
 

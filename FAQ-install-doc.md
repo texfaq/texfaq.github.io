@@ -1,7 +1,7 @@
 ---
 title: Generating package documentation
 category: installing
-permalink: FAQ-install-doc
+permalink: /FAQ-install-doc
 date: 2014-06-10
 ---
 

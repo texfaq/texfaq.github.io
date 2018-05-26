@@ -1,7 +1,7 @@
 ---
 title: Using non-standard fonts in Plain TeX
 category: fonts
-permalink: FAQ-fonts-pln
+permalink: /FAQ-fonts-pln
 date: 2014-06-10
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Reference documents
 category: documentation
-permalink: FAQ-ref-doc
+permalink: /FAQ-ref-doc
 date: 2014-06-10
 ---
 

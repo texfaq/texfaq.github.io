@@ -1,7 +1,7 @@
 ---
 title: Ready-built installation files on the archive
 category: installing
-permalink: FAQ-tds-zip
+permalink: /FAQ-tds-zip
 date: 2014-06-10
 ---
 

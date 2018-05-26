@@ -1,7 +1,7 @@
 ---
 title: Installing files ''where (La)TeX can find them''
 category: installing
-permalink: FAQ-inst-wlcf
+permalink: /FAQ-inst-wlcf
 date: 2014-06-10
 ---
 

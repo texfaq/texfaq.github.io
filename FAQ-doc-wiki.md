@@ -1,7 +1,7 @@
 ---
 title: WIKI books for TeX and friends
 category: documentation
-permalink: FAQ-doc-wiki
+permalink: /FAQ-doc-wiki
 date: 2014-06-10
 ---
 

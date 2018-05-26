@@ -1,7 +1,7 @@
 ---
 title: Finding packages to install
 category: installing
-permalink: FAQ-install-find
+permalink: /FAQ-install-find
 date: 2014-06-10
 ---
 

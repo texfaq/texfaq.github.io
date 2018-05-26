@@ -1,7 +1,7 @@
 ---
 title: Unicode Maths using OpenType fonts
 category: fonts
-permalink: FAQ-otf-maths
+permalink: /FAQ-otf-maths
 date: 2014-06-10
 ---
 
