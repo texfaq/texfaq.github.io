@@ -18,7 +18,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 - Q-xetex-luatex: New combination question based on Q-xetex and Q-luatex
 
 ### Changed
-- Q-LaTeX2HTML: Update with more recent convertors such as LaTeXML and lwarp.
+- Q-LaTeX2HTML: Update with more recent converters such as LaTeXML and lwarp.
 - Q-mathml: Update to better describe current usage.
 
 ## Removed
