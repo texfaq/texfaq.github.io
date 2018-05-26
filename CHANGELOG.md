@@ -17,6 +17,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Added
 - Q-xetex-luatex: New combination question based on Q-xetex and Q-luatex
 - Q-t1enc drop this (redirect to Q-why-inp-font)
+- Q-why-inp-font Update this (after 2018 release changes)
 	
 ### Changed
 - Q-LaTeX2HTML: Update with more recent converters such as LaTeXML and lwarp.
