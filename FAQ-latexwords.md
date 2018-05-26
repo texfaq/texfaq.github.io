@@ -1,12 +1,12 @@
 ---
-title: Changing the words [`babel`](https://ctan.org/pkg/babel) uses
+title: Changing the words `babel` uses
 category: programming
 tags: latex macros
 permalink: /FAQ-latexwords
 date: 2014-06-10
 ---
 
-# Changing the words [`babel`](https://ctan.org/pkg/babel) uses
+# Changing the words `babel` uses
 
 LaTeX uses symbolic names for many of the automatically-generated
 text it produces (special-purpose section headings, captions, etc.).
