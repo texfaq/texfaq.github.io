@@ -1,12 +1,11 @@
 ---
 title: Typography tutorials
-permalink: typo-style
+category: documentation
+permalink: FAQ-typo-style
 date: 2014-06-10
 ---
+
 # Typography tutorials
-
-
-
 
 Peter Wilson's article [`memdesign`](https://ctan.org/pkg/memdesign) has a lengthy introductory
 section on typographic considerations, which is a fine tutorial,
@@ -14,7 +13,6 @@ written by someone who is aware of the issues as they apply to
 (La)TeX users.  ([`Memdesign`](https://ctan.org/pkg/Memdesign) now distributed separately from
 the manual for his [`memoir`](https://ctan.org/pkg/memoir) class, but was originally part of
 that manual)
-
 
 There's also (at least one) typographic style tutorial available on
 the Web, the excellent 
@@ -28,7 +26,4 @@ ambition to supplant such excellent books as
 [Bringhurst's](FAQ-type-books.md), but the document (though it does
 contain its Rutgers-local matter) is a fine introduction to the issues
 of producing readable documents.
-
-
-
 

@@ -1,12 +1,11 @@
 ---
 title: Books relevant to TeX and friends
-permalink: book-lists
+category: documentation
+permalink: FAQ-book-lists
 date: 2014-06-10
 ---
+
 # Books relevant to TeX and friends
-
-
-
 
 There are too many books for them all to appear in a single list, so
 the following answers aim to cover ''related'' books, with subject
@@ -18,14 +17,8 @@ matter as follows:
 -  [Books on other TeX-related matters](FAQ-other-books.md)
 -  [Books on Type](FAQ-type-books.md)
 
-
-
-
 These lists only cover books in English: notices of new books, or
 warnings that books are now out of print are always welcome.  However,
 these FAQs do _not_ carry reviews of current published
 material.
-
-
-
 

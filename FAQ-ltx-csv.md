@@ -1,12 +1,11 @@
 ---
 title: Process a CSV file in LaTeX
-permalink: ltx-csv
+cateogry: programming
+permalink: FAQ-ltx-csv
 date: 2014-06-10
 ---
+
 # Process a CSV file in LaTeX
-
-
-
 
 Comma-separated-variable (CSV) files are a common means of
 interchanging simple data between applications; for example, most
@@ -15,18 +14,15 @@ numbers with commas between them.  One can envisage these tables as
 ''LaTeX tables'', and the packages to process them all provide
 table generation, one way or another.
 
-
 For rather a long time, the canonical tools for dealing with such
 files have been those provided in the [`datatool`](https://ctan.org/pkg/datatool) bundle;
 packages in the bundle allow the user to write procedures to process
 numbers, currency amounts, names, etc., and to display them in tables
 (including pie charts).
 
-
 The [`csvsimple`](https://ctan.org/pkg/csvsimple) does similar tasks.  Its processing is
 controlled by keys established via the [`pgfkeys`](https://ctan.org/pkg/pgfkeys) package,
 which define how each row of the CSV file is to be processed.
-
 
 For usage ''nearer to the bone'', one might consider the commands
 `\docsvlist` and `\forcsvlist` (from the [`etoolbox`](https://ctan.org/pkg/etoolbox)
@@ -42,17 +38,7 @@ list, and processes every item of the list as the argument of the
 ```
 will convert the elements of a CSV list into an itemised list.
 
-
 The macro `\forcsvlist` applies a function to each element of a
 CSV list; this can of course be used to implement
 `\docsvlist`, at the cost of a little clarity.
-
-
-
-
-
-
-
-
-
 

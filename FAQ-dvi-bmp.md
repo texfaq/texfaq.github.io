@@ -1,12 +1,11 @@
 ---
 title: Generating bitmaps from DVI
-permalink: dvi-bmp
+category: misc
+permalink: FAQ-dvi-bmp
 date: 2014-06-10
 ---
+
 # Generating bitmaps from DVI
-
-
-
 
 In the last analysis, any DVI driver or previewer is generating
 bitmaps: bitmaps for placing tiny dots on paper via a laser- or
@@ -14,7 +13,6 @@ inkjet-printer, or bitmaps for filling some portion of your screen.
 However, it's usually difficult to extract any of those bitmaps any
 way other than by screen capture, and the resolution of _that_ is
 commonly lamentable.
-
 
 Why would one want separate bitmaps?  Most often, the requirement is for
 something that can be included in HTML generated from (La)TeX
@@ -31,7 +29,6 @@ application's display&nbsp;&mdash; to insert equations into Microsoft
 PowerPoint, or to support the enhanced-`emacs` setup called
 [`preview`-`latex`](FAQ-WYGexpts.md).
 
-
 In the past, the commonest way of generating bitmaps was to generate a
 PostScript file of the DVI and then use
 [`ghostscript`](https://www.ghostscript.com/) to
@@ -40,14 +37,12 @@ format or something similar).  This is an undesirable procedure (it is
 tedious, involving requires two or three steps that run slowly) but it
 served for a long time.
 
-
 (La)TeX users may now take advantage of two bitmap 'drivers'.  The
 longer-established, `dvi2bitmap`, will generate XBM and
 XPM formats, the long-deprecated GIF format (which is
 now obsolescent, but has finally been relieved of the patent
 protection of the LZW compression it uses), and also
 the modern (ISO-standardised) PNG format.
-
 
 `Dvipng` started out as a PNG renderer; from version 1.2 it can also
 render to the GIF format. It is designed for speed, in environments that
@@ -56,11 +51,4 @@ generate large numbers of PNG files: the `README` mentions
 web-oriented environments. Note that `dvipng` gives
 high-quality output even though its internal operations are optimised
 for speed.
-
-
-
-
-
-
-
 

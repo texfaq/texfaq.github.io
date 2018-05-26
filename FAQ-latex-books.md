@@ -1,14 +1,11 @@
 ---
 title: Books on LaTeX
-permalink: latex-books
+category: documentation
+permalink: FAQ-latex-books
 date: 2014-06-10
 ---
+
 # Books on LaTeX
-
-
-
-
-
 
 - LaTeX, a Document Preparation System by Leslie Lamport
   (second edition, Addison Wesley, 1994, ISBN-10 0-201-52983-1)
@@ -57,13 +54,9 @@ date: 2014-06-10
 - PSTricks: Graphics and PostScript for TeX and LaTeX by
   Herbert Vo&szlig;, (UIT Cambridge, 2011, ISBN-10 978-1-906-86013-4)
 
-
 A sample of George Gr&auml;tzer's ''Math into LaTeX'', in Adobe
 Acrobat format, and example files
 for the three LaTeX Companions, and for
 Gr&auml;tzer's ''First Steps in LaTeX'', are all available on
 CTAN.
-
-
-
 

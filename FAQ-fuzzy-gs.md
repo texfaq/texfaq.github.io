@@ -1,18 +1,16 @@
 ---
 title: Fuzzy fonts because `Ghostscript` too old
-permalink: fuzzy-gs
+category: fonts
+permalink: FAQ-fuzzy-gs
 date: 2014-06-10
 ---
+
 # Fuzzy fonts because `Ghostscript` too old
-
-
-
 
 So you've done everything the FAQ has told you that you need,
 correct fonts properly installed and appearing in the `dvips`
 output, but _still_ you get fuzzy character output after
 distilling with [`ghostscript`](https://www.ghostscript.com/).
-
 
 The problem could arise from too old a version of
 [`ghostscript`](https://www.ghostscript.com/), which you
@@ -26,13 +24,9 @@ any font other than the fundamental 35&nbsp;fonts (`Times`,
 distillation, but it wasn't until version&nbsp;6.50 that one could rely on
 it for everyday work.
 
-
 So, if your PDF  output still looks fuzzy in `Acrobat`
 `Reader`, upgrade `ghostscript`.  The new version
 should be at least version&nbsp;6.50, of course, but it's usually good
 policy to go to the most recent version (version&nbsp;8.12 at the time of
 writing&nbsp;&mdash; 2003).
-
-
-
 

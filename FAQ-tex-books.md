@@ -1,16 +1,14 @@
 ---
 title: Books on TeX, Plain TeX and relations
-permalink: tex-books
+category: documentation
+permalink: FAQ-tex-books
 date: 2014-06-10
 ---
+
 # Books on TeX, Plain TeX and relations
-
-
-
 
 While Knuth's book is the definitive reference for both TeX and
 Plain TeX, there are many books covering these topics:
-
 
 - The TeXbook by Donald Knuth (Addison-Wesley, 1984,
   ISBN-10 0-201-13447-0, paperback ISBN-10 0-201-13448-9)
@@ -50,25 +48,16 @@ Plain TeX, there are many books covering these topics:
 - The Advanced TeXbook by David Salomon (Springer Verlag, 1995,
   ISBN-10 0-387-94556-3)
 
-
 A collection of Knuth's publications about typography is also available:
-
 
 - Digital Typography by Donald Knuth (CSLI and Cambridge
   University Press, 1999, ISBN-10 1-57586-011-2, paperback
   ISBN-10 1-57586-010-4).
 
-
 and in late 2000, a ''Millennium Boxed Set'' of all
 5 volumes of Knuth's ''Computers and Typesetting'' series (about
 TeX and MetaFont) was published by Addison Wesley:
 
-
 - Computers & Typesetting, Volumes A&ndash;E Boxed Set by Donald Knuth
   (Addison-Wesley, 2001, ISBN-10 0-201-73416-8).
-
-
-
-
-
 

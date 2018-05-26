@@ -1,12 +1,11 @@
 ---
 title: Quality of PDF from PostScript
-permalink: dvips-pdf
+category: misc
+permalink: FAQ-dvips-pdf
 date: 2014-06-10
 ---
+
 # Quality of PDF from PostScript
-
-
-
 
 Any reasonable PostScript, including any output of `dvips`, may be
 converted to PDF, using (for example) a sufficiently recent
@@ -14,7 +13,6 @@ version of [`ghostscript`](https://www.ghostscript.com/),
 Frank Siegert's (shareware)
 [`PStill`](http://www.pstill.com/), or Adobe's (commercial)
 `Distiller`.
-
 
 But, although the job may (almost always) be done, the results are
 often not acceptable: the most frequent problem is bad presentation of
@@ -35,7 +33,6 @@ Issues covered are:
     `dvips` configuration file `-Ppdf`, the 
     [weird characters](FAQ-charshift.md).
 
-
 It should be noted that `Adobe` 
 `Reader`&nbsp;6 (released in mid-2003, and later versions) does
 not exhibit the ''fuzziness'' that so many of the answers below
@@ -44,13 +41,7 @@ a long time before every user in the world has this (or later)
 versions, so the remedies below are going to remain for some time to
 come.
 
-
 The problems are also discussed, with practical examples, in Mike
 Shell's [`testflow`](https://ctan.org/pkg/testflow) package, which these FAQs recommend as a
 ''[specialised tutorial](FAQ-tutbitslatex.md).
-
-
-
-
-
 

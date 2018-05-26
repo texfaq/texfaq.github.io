@@ -1,11 +1,11 @@
 ---
 title: Repeating a command _n_ times
-permalink: repeat-num
+category: programming
+permalink: FAQ-repeat-num
 date: 2014-06-10
 ---
+
 # Repeating a command _n_ times
-
-
 
 TeX was _not_ designed as a programming language, but there
 are occasions when you want to repeat some part of your document, just
@@ -16,11 +16,9 @@ they are useful for drawing repeating patterns.  As a result,
 ''common'' programming techniques often have to be emulated using
 obscure macro TeXniques.
 
-
 This answer deals with repeating an operation a given number of times;
 repeating operations once for each of a set of objects is dealt with
 in the answer [repeating ''over a set''](FAQ-repeat-set.md).
-
 
 Plain TeX itself provides a `\loop` &hellip; `\repeat`
 contruct, which enables you to repeat a command (or set of commands).
@@ -40,7 +38,6 @@ In this slightly tricky code, `\loop` starts the construct ended by
 `\ifnum`.  The loop above prints the numbers from 10 down to 1 via
 TeX `\message` (i.e., on the console output).
 
-
 The [`multido`](https://ctan.org/pkg/multido) package is also 'generic' (usable both in
 Plain TeX and LaTeX); it defines a command `\multido` with
 three arguments:
@@ -54,11 +51,9 @@ around, then `6` and `10` in the next two iterations,
 and so on.  (The variable `\iz` is an integer; variables with other
 initial letters represent different data types.)
 
-
 Both current LaTeX and (experimental) LaTeX3 have iteration
 commands for internal use and for package writers; their use is
 probably not recommendable.
-
 
 The LaTeX distribution package [`ifthen`](https://ctan.org/pkg/ifthen) offers the macro
 `\whiledo`:
@@ -90,7 +85,6 @@ as you can see, the arguments are counter, starting value and
 termination condition; an optional argument supplies a step value
 (default step is 1).
 
-
 The LaTeX `picture` environment has a simple command
 for repeated drawing:
 ```latex
@@ -110,7 +104,6 @@ with predictable (if not actually desirable) effect.  It may be used
 with nothing but an iterative calculation in the braced argument, in
 which case its graphical capabilities have no effect.
 
-
 The [`pgffor`](https://ctan.org/pkg/pgf) package, which is part of the 
 [`pgf`](https://ctan.org/pkg/pgf) distribution, also
 provides iterations to support the needs of graphics.  Its syntax is
@@ -122,7 +115,6 @@ in the style of common programming languages:
 \foreach \n in {1,...,4}{\cmd{}}
 ```
 typesets `-x--x--x--x-`
-
 
 The `\foreach` command has the potential drawback that its repeated
 unit is executed in a group, so that any calculations done within the
@@ -143,9 +135,4 @@ clear.
 %     \downto{<end>} \until{<cond>} \while{<cond>}
 % \do{<operate on something>}
 % ```
-
-
-
-
-
 

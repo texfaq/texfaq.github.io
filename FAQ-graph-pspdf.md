@@ -1,12 +1,11 @@
 ---
 title: Portable imported graphics
-permalink: graph-pspdf
+cateogry: graphics
+permalink: FAQ-graph-pspdf
 date: 2014-06-10
 ---
+
 # Portable imported graphics
-
-
-
 
 A regular need is a document to be distributed in more than
 one format: commonly both PostScript and PDF.  The
@@ -35,11 +34,7 @@ case.
     LaTeX&ndash;`dvips`&ndash;distillation or
     LaTeX&ndash;`dvipdfm`) to produce your PDF output.
 
-
 `Dvipdfm`s charms are less than attractive here: the
 document itself needs to be altered from its default
 (`dvips`) state, before `dvipdfm` will process it.
-
-
-
 

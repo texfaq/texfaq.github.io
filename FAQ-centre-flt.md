@@ -1,12 +1,11 @@
 ---
 title: Why is my table/figure/&hellip; not centred?
-permalink: centre-flt
+category: errors
+permalink: FAQ-centre-flt
 date: 2014-06-10
 ---
+
 # Why is my table/figure/&hellip; not centred?
-
-
-
 
 You want a float whose contents are centred, but LaTeX ignores your
 `center` environment.  Most likely, you have written:
@@ -25,7 +24,6 @@ environment.  As a result, the `center` environment is
 left with nothing to do&nbsp;&hellip; except to 
 [make a mess of your vertical spacing](FAQ-vertspacefloat.md).
 
-
 The solution is the same as that outlined in 
 [the same answer](FAQ-vertspacefloat.md), noting that all control of
 an `figure` or `table` needs to be
@@ -37,7 +35,4 @@ inside the environment.  So the example's code should be converted to
 \end{figure}
 ```
 (or something similar for a `table`).
-
-
-
 

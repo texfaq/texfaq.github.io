@@ -1,12 +1,11 @@
 ---
-title: Support package [`expl3`](https://ctan.org/pkg/expl3) too old
-permalink: expl3-old
+title: Support package `expl3` too old
+category: errors
+permalink: FAQ-expl3-old
 date: 2014-06-10
 ---
-# Support package [`expl3`](https://ctan.org/pkg/expl3) too old
 
-
-
+# Support package `expl3` too old
 
 Some (rather modern) packages are written using the 
 [LaTeX3 programming environment](FAQ-LaTeX3.md).  Since LaTeX3
@@ -24,17 +23,9 @@ programming environment, which contains the [`expl3`](https://ctan.org/pkg/expl3
 in the error message) and [`l3packages`](https://ctan.org/pkg/l3packages) (LaTeX3 constructs
 such as command definitions).
 
-
 While this sounds a drastic remedy, it is no longer the major
 undertaking it once was&nbsp;&mdash; if you are using a modern TeX
 distribution that you installed yourself, ask it to update over the
 internet; if that choice is not available, install from the
 `tds.zip` files available for both packages on CTAN.
-
-
-
-
-
-
-
 

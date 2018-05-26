@@ -1,12 +1,11 @@
 ---
 title: Installation using TeX&nbsp;Live manager
-permalink: inst-texlive
+category: installing
+permalink: FAQ-inst-texlive
 date: 2014-06-10
 ---
+
 # Installation using TeX&nbsp;Live manager
-
-
-
 
 TeX&nbsp;Live manager (`tlmgr`) is, by default, a shell (or
 Windows terminal window) command.  There is voluminous documentation
@@ -23,18 +22,13 @@ local disc copy that you keep up-to-date (disc space and bandwidth are
 so cheap nowadays, that a ''home mirror'' of CTAN is a feasible
 proposition).
 
-
 To update a single package, use:
 ```
 tlmgr update <package>
 ```
 
-
 To update everything you already have in your installation, use:
 ```
 tlmgr update --all
 ```
-
-
-
 

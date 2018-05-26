@@ -1,12 +1,11 @@
 ---
 title: Shortcuts to installing files
-permalink: inst-scut
+category: installing
+permalink: FAQ-inst-scut
 date: 2014-06-10
 ---
+
 # Shortcuts to installing files
-
-
-
 
 There are circumstances in which most of the fuss of installation can
 be bypassed:
@@ -20,9 +19,4 @@ be bypassed:
     can usually help;
 -  The package you want may already exist as a ZIP file
     formatted for [direct installation](FAQ-inst-tds-zip.md).
-
-
-
-
-
 

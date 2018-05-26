@@ -1,8 +1,10 @@
 ---
 title: Books on Type
-permalink: type-books
+category: documenation
+permalink: FAQ-type-books
 date: 2014-06-10
 ---
+
 # Books on Type
 
 The following is a partial listing of books on typography in general.
@@ -49,7 +51,4 @@ a more interesting overall view of types in general and some of their history.
 The above lists are limited to books published in English. Typographic 
 styles are somewhat language-dependent, and similarly the 'interesting' fonts
 depend on the particular writing system involved.
-
-
-
 

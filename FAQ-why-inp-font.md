@@ -1,27 +1,23 @@
 ---
-title: Why bother with [`inputenc`](https://ctan.org/pkg/inputenc) and [`fontenc`](https://ctan.org/pkg/fontenc)?
-permalink: why-inp-font
+title: Why bother with `inputenc` and `fontenc`?
+category: usage
+permalink: FAQ-why-inp-font
 date: 2014-06-10
 ---
-# Why bother with [`inputenc`](https://ctan.org/pkg/inputenc) and [`fontenc`](https://ctan.org/pkg/fontenc)?
 
-
-
+# Why bother with `inputenc` and `fontenc`?
 
 The standard input encoding for Western Europe (pending the arrival of
 Unicode) is ISO&nbsp;8859&ndash;1 (commonly known by the standard's
 subtitle 'Latin-1').  Latin-1 is remarkably close, in the codepoints
 it covers, to the (La)TeX T1 encoding.
 
-
 In this circumstance, why should one bother with [`inputenc`](https://ctan.org/pkg/inputenc)
 and [`fontenc`](https://ctan.org/pkg/fontenc)?  Since they're pretty exactly mirroring each
 other, one could do away with both, and use just [`t1enc`](https://ctan.org/pkg/t1enc),
 despite its [shortcomings](FAQ-t1enc.md).
 
-
 One doesn't do this for a variety of small reasons:
-
 
 - Confusion You've been happily working in this mode, and for
   some reason find you're to switch to writing in German: the effect
@@ -36,10 +32,6 @@ One doesn't do this for a variety of small reasons:
   character, so an `\accent` primitive slips through into the
   output, and hyphenation is in danger.
 
-
 The [`inputenc`](https://ctan.org/pkg/inputenc)&ndash;[`fontenc`](https://ctan.org/pkg/fontenc) combination seems slow and
 cumbersome, but it's safe.
-
-
-
 

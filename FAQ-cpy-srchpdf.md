@@ -1,17 +1,15 @@
 ---
 title: Copy-paste-able/searchable PDF files
-permalink: cpy-srchpdf
+category: usage
+permalink: FAQ-cpy-srchpdf
 date: 2014-06-10
 ---
+
 # Copy-paste-able/searchable PDF files
-
-
-
 
 PDF files generated from TeX (and friends), will by default
 hold their text in the encoding of the original TeX font used by
 the document.
-
 
 When PDF readers, etc., offer copy-paste or searching
 functions, the operations take place on the glyph codes used for the
@@ -21,7 +19,6 @@ an inflected language (with accented letters, or composite glyphs
 such as '&aelig;')&nbsp;&mdash; TeX will typically use a non-standard
 encoding, and there are likely be problems, since PDF readers
 assume the text is presented in Unicode.
-
 
 For PDF generated from LaTeX (the DVI being
 converted, by whatever means), or from pdfLaTeX, the character
@@ -33,12 +30,10 @@ not be represented properly.  (Of course, PDF generated from
 XeTeX- or LuaTeX-based formats is going to be OK, since
 those engines work in Unicode throughout.)
 
-
 The solution comes from the character-mapping facilities in the
 PDF specification: the file may specify a table of translations
 of characters present in the coding used in the file, to a Unicode
 version of the characters.
-
 
 Packages [`cmap`](https://ctan.org/pkg/cmap) and [`mmap`](https://ctan.org/pkg/mmap) both offer means of
 generating such tables ([`mmap`](https://ctan.org/pkg/mmap) has wider coverage, including
@@ -53,24 +48,10 @@ engine.  Thus your document becomes something like:
 ... % your actual text
 ```
 
-
 Unfortunately, the packages only work with fonts that are directly
 encoded, such as the default (Computer Modern, i.e., `cm`
 fonts, and things such as `cm-super` or the `Latin`
 `Modern` sets.  Fonts like Adobe
 Times Roman (which are encoded for (La)TeX use via virtual fonts)
 are not amenable to this treatment.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
