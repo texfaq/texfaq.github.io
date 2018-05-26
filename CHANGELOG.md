@@ -8,13 +8,13 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## 2018-05-26
 
-Changed
+### Changed
 - Q-context: Minor (copy)edits and fixes
 - Q-texthings: Minor (copy)edits and fixes
 
 ## 2018-05-25
 
-Added
+### Added
 - Q-xetex-luatex: New combination question based on Q-xetex and Q-luatex
 
 ## Removed
