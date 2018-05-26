@@ -42,4 +42,12 @@ letters will be constructed using the `\accent` primitive rather than
 using an accented character from the font. Any words using such a constructed
 accent will not be hyphenated.
 
+Note that the `t1enc` package is available in the base distribution,
+which is equivalent to using the `T1` option to
+[`fonttenc`](https://ctan.org/fontenc/inputenc) however it should not
+be used in current documents and is just retained for compatibility
+with the first versions of the LaTeX2e docuemntation, which were
+written before the [`fonttenc`](https://ctan.org/fontenc/inputenc)
+package was produced.
+
  
