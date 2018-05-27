@@ -20,7 +20,7 @@ embeds a spelling checker.  For command-line use, there are several
 choices, depending on the system you're using.
 
 For Unix, `ispell` was long the program of choice; it is well
-integrated with `emacs`, and deals with some TeX syntax.
+integrated with Emacs, and deals with some TeX syntax.
 However, it has more-or-less been replaced everywhere, by
 `aspell`, which was designed as a successor, and certainly
 performs better on most metrics; there remains some question as to its

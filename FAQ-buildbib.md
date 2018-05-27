@@ -49,7 +49,7 @@ in this endeavour:
 
     Tools such as `Xbibfile` (a graphical user interface),
     `ebib` (a database application written to run ''inside''
-    `emacs`) and 
+    Emacs) and 
     `btOOL` (a set of `perl` tools for building 
     BibTeX database handlers) are available from CTAN.
   

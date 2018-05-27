@@ -22,7 +22,7 @@ and you'll get the diagnostic.
 TeX itself doesn't tell you where your problem is, but you can
 often spot it by looking at the typeset output in a previewer.
 Otherwise, you can usually find mismatched braces using an intelligent
-editor (at least `emacs` and `winedt` offer this facility).
+editor (at least Emacs and `winedt` offer this facility).
 However, groups are not _only_ created by matching
 `{` with `}`:
 other grouping commands are discussed elsewhere in these FAQs,

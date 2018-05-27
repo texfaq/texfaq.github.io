@@ -26,7 +26,7 @@ that you cannot guarantee your readers will have available).  Other
 common examples are generation of 
 sample bitmaps, and generation for insertion into some other
 application's display&nbsp;&mdash; to insert equations into Microsoft
-PowerPoint, or to support the enhanced-`emacs` setup called
+PowerPoint, or to support the enhanced-Emacs setup called
 [`preview`-`latex`](/FAQ-WYGexpts).
 
 In the past, the commonest way of generating bitmaps was to generate a

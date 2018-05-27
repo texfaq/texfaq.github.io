@@ -51,7 +51,7 @@ Anyone may write `dtx` files; the format is explained in
 from CTAN (which comes with skeleton `dtx` and
 `ins` files).
 
-Composition of `dtx` files is supported in `emacs` by
+Composition of `dtx` files is supported in Emacs by
 [AUC-TeX](/FAQ-editors).
 
 The (unix-based) script `dtxgen` generates a proforma basic

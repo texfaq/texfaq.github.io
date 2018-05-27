@@ -22,11 +22,11 @@ start with `@` rather than the `\` that's more commonly used in
 TeX systems.
 
 You can write and format Texinfo files into Info files within GNU
-`emacs`, and read them using the `emacs` Info
+Emacs, and read them using the Emacs Info
 reader.  You can also format Texinfo files into Info files using
 `makeinfo` and read them using `info`, so you're not
-dependent on `emacs`.  The distribution includes a
 `Perl` script, `texi2html`, that will convert
+dependent on Emacs.  The distribution includes a
 Texinfo sources into HTML: the language is a far better fit to
 HTML than is LaTeX, so that the breast-beating agonies of
 [converting LaTeX to HTML](/FAQ-LaTeX2HTML) are largely

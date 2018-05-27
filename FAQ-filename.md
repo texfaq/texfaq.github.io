@@ -49,5 +49,5 @@ file name and extension, in a macro `\finkfile`.  [`FiNK`](https://ctan.org/pkg/
 now deprecated, in favour of [`currfile`](https://ctan.org/pkg/currfile), but remains available
 for use in old documents.
 The [`FiNK`](https://ctan.org/pkg/FiNK) bundle includes a `fink.el` that provides
-support under `emacs` with AUC-TeX.
+support under Emacs with AUC-TeX.
 

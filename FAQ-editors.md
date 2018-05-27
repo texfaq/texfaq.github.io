@@ -11,7 +11,7 @@ There are good TeX-writing environments and editors for most
 operating systems; some are described below, but this is only a
 personal selection:
 
-- Unix The commonest choices are `[X]Emacs` or
+- Unix The commonest choices are [X]Emacs or
   `vim`, though several others are available.
 
   [GNU&nbsp;`emacs`](http://www.gnu.org/software/emacs/emacs.html)
