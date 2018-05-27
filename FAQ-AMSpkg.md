@@ -4,6 +4,7 @@ category: background
 tags: math
 permalink: /FAQ-AMSpkg
 date: 2018-05-27
+redirect_from: /FAQ-amspkg
 ---
 
 # What are the AMS packages (`amsmath`, etc.)?
