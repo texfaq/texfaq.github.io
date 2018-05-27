@@ -7,12 +7,12 @@ date: 2014-06-10
 
 # Using TeX to read SGML or XML directly
 
-[Context (mark IV)](/FAQ-context) can process some
+[ConTeXt (mark IV)](/FAQ-context) can process some
 *ML, to produce typeset output directly.  Details of what can
 (and can not) be done, are discussed in 
-[The Context WIKI](http://wiki.contextgarden.net/XML).
-Context is probably the system of choice for (La)TeX users who
-also need to work in XML (and friends).  (Note that Context
+[The ConTeXt WIKI](http://wiki.contextgarden.net/XML).
+ConTeXt is probably the system of choice for (La)TeX users who
+also need to work in XML (and friends).  (Note that ConTeXt
 mark&nbsp;IV requires [LuaTeX](/FAQ-luatex), and should
 therefore be regarded as experimental, though many people _do_
 use it successfully).
