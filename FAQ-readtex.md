@@ -2,7 +2,7 @@
 title: Reading (La)TeX files
 category: background
 permalink: /FAQ-readtex
-date: 2014-06-10
+date: 2018-05-27
 ---
 
 # Reading (La)TeX files
@@ -23,10 +23,6 @@ A possible next step is to try an on-line LaTeX editor.  There are
 many of these&nbsp;&mdash; a compilation of links may be found in 
 [this blog post](http://texblog.net/latex-link-archive/online-compiler/)
 
-Of that long list, the present author has only dabbled with 
-[WriteLaTeX](https://www.writelatex.com/); it seems well
-suited to simple ''one-shot'' use in this way.
-
 If no online compiler helps, you need to typeset the document
 ''yourself''.  The good news is that TeX systems are available,
 free, for most sorts of computer; the bad news is that you need a
@@ -34,7 +30,7 @@ pretty complete TeX system even to read a single file, and complete
 TeX systems are pretty large.
 
 TeX is a typesetting system that arose from a publishing project (see
-''[what is TeX](/FAQ-whatTeX)''),
+''[What is TeX?](/FAQ-whatTeX)''),
 and its basic source is available free from its author.  However, at
 its root, it is _just_ a typesetting engine: even to view or to
 print the typeset output, you will need ancillary programs.  In short,
@@ -47,7 +43,7 @@ or
 
 But beware&nbsp;&mdash; TeX makes no attempt to look like the sort of
 WYSIWYG system you're probably used to (see
-''[why is TeX not WYSIWYG](/FAQ-notWYSIWYG)''):
+''[Why is TeX not WYSIWYG?](/FAQ-notWYSIWYG)''):
 while many modern versions of TeX have a compile&ndash;view cycle that
 rivals the best commercial word processors in its responsiveness, what
 you type is usually _markup_, which typically defines a logical
