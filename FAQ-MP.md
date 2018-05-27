@@ -13,7 +13,7 @@ vector graphic files instead of run-length-encoded bitmaps; output
 formats available are PostScript and SVG.  Around 2007, MetaPost was
 separated into a frontend program and backend library named MPlib (which
 was then linked into
-  [LuaTeX](/FAQ-luatex))
+  [LuaTeX](/FAQ-xetex-luatex))
 by Taco Hoekwater.
 
 MetaPost is a powerful language for producing figures for documents to be
@@ -26,7 +26,7 @@ Although pdfLaTeX cannot ordinarily handle PostScript graphics, the
 output of MetaPost is sufficiently simple and regular that pdfLaTeX
 can handle it direct, using code borrowed from
   [ConTeXt](/FAQ-context)&nbsp;&mdash;
-see [graphics in pdfLaTeX](/FAQ-pdftexgraphics).
+see [Graphics in pdfLaTeX](/FAQ-pdftexgraphics).
 
 Much of MetaPost's source code was copied from MetaFont's sources, with
 Knuth's permission.
