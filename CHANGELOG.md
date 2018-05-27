@@ -17,6 +17,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 - Q-TeXfuture: Update projects section to link to other FAQ
 - Q-noroom: reword as all LaTeX formats now use e-TeX extended register allocation.
 - Q-tmupfl.md: Minor rewording
+- Q-unicode.md: Minor addition to mention UTF-8 default in current LaTeX.
 
 ### Removed
 - Q-lollipop: Not widely used

@@ -2,7 +2,7 @@
 title: Unicode and TeX
 category: concepts
 permalink: /FAQ-unicode
-date: 2014-06-10
+date: 2018-05-27
 ---
 
 # Unicode and TeX
@@ -21,7 +21,10 @@ appropriate font.  The macros that read these bytes is complicated,
 and manifests as `utf8` option for the LaTeX distribution
 [`inputenc`](https://ctan.org/pkg/inputenc) package; the coverage of that option is limited to
 Unicode characters that can be represented using ''LaTeX standard
-encodings''.  The separate package [`ucs`](https://ctan.org/pkg/ucs) provides wider, but
+encodings''. Current LaTeX releases, since 2018 default to a processing
+equivalent to `\usepackage[utf8]{inputenc}`.
+
+The separate package [`ucs`](https://ctan.org/pkg/ucs) provides wider, but
 less robust, coverage via an [`inputenc`](https://ctan.org/pkg/inputenc) option
 `utf8x`.  As a general rule, you should never use
 `utf8x` until you have convinced yourself that
