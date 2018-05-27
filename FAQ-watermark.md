@@ -17,7 +17,7 @@ package does) and knows translations for the word ''DRAFT'' into a wide
 range of languages (though you can choose your own word, too).
 Unfortunately, however, the package relies on PostScript specials, and will
 therefore fail if you are viewing your document with `xdvi`,
-and won't even compile if you're using PDFLaTeX.  (PDFLaTeX
+and won't even compile if you're using pdfLaTeX.  (pdfLaTeX
 users need one of the other solutions below.)
 
 The [`wallpaper`](https://ctan.org/pkg/wallpaper) package builds on [`eso-pic`](https://ctan.org/pkg/eso-pic) (see

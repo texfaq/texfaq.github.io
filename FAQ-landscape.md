@@ -35,7 +35,7 @@ of landscape typesetting:
     environment, or a huge table typeset using [`longtable`](https://ctan.org/pkg/longtable) or
     [`supertabular`](https://ctan.org/pkg/supertabular)), use the [`lscape`](https://ctan.org/pkg/lscape) package (or
     [`pdflscape`](https://ctan.org/pkg/pdflscape) if you're generating PDF output, whether
-    using PDFLaTeX or `dvips` and generating PDF from
+    using pdfLaTeX or `dvips` and generating PDF from
     that).  Both packages define an environment `landscape`, which
     clears the current page and restarts typesetting in landscape
     orientation (and clears the page at the end of the environment

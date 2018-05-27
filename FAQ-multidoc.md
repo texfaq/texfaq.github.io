@@ -133,7 +133,7 @@ tables of contents may be produced.
 
 A completely different approach is to use the [`pdfpages`](https://ctan.org/pkg/pdfpages)
 package, and to include articles submitted in PDF format into a
-a PDF document produced by PDFLaTeX.  The package
+a PDF document produced by pdfLaTeX.  The package
 defines an `\includepdf` command, which takes arguments similar to
 those of the `\includegraphics` command.  With keywords in the
 optional argument of the command, you can specify which pages you want

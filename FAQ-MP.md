@@ -22,11 +22,11 @@ documents.  MetaPost is able to integrate text and mathematics, marked up
 for use with TeX, within the graphics.  (Knuth says that he
 uses nothing but MetaPost for diagrams in text that he is writing.)
 
-Although PDFLaTeX cannot ordinarily handle PostScript graphics, the
-output of MetaPost is sufficiently simple and regular that PDFLaTeX
+Although pdfLaTeX cannot ordinarily handle PostScript graphics, the
+output of MetaPost is sufficiently simple and regular that pdfLaTeX
 can handle it direct, using code borrowed from
   [Context](/FAQ-context)&nbsp;&mdash;
-see [graphics in PDFLaTeX](/FAQ-pdftexgraphics).
+see [graphics in pdfLaTeX](/FAQ-pdftexgraphics).
 
 Much of MetaPost's source code was copied from MetaFont's sources, with
 Knuth's permission.

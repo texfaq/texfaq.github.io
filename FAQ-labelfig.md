@@ -31,7 +31,7 @@ adjustment of position, scale and rotation; full details may be found
 in `pfgguide` in the distribution.
 
 Since [`psfrag`](https://ctan.org/pkg/psfrag) works in terms of (encapsulated) PostScript files,
-it needs extra work for use with PDFLaTeX.  Two techniques are
+it needs extra work for use with pdfLaTeX.  Two techniques are
 available, using [`pst-pdf` package](/FAQ-pdftexgraphics)
 in a mode designed to do this work; and using [`pdfrack`](https://ctan.org/pkg/pdfrack).
 

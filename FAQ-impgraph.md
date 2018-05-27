@@ -50,9 +50,9 @@ options''&nbsp;&mdash; package options that select code to generate the
 commands appropriate to the DVI driver in use.  In most cases,
 your (La)TeX distribution will provide a `graphics.cfg` file
 that will select the correct driver for what you're doing (for
-example, a distribution that provides both LaTeX and PDFLaTeX
+example, a distribution that provides both LaTeX and pdfLaTeX
 will usually provide a configuration file that determines whether
-PDFLaTeX is running, and selects the definitions for it if so).
+pdfLaTeX is running, and selects the definitions for it if so).
 
 The [`graphics`](https://ctan.org/pkg/graphics) package provides a toolkit of commands (insert
 graphics, scale a box, rotate a box), which may be composed to provide

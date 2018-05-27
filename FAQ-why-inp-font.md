@@ -30,7 +30,7 @@ a declaration such as
 
 
 ### [`fonttenc`](https://ctan.org/fontenc/inputenc)
-If you are using PDFLaTeX or LaTeX and do not specify
+If you are using pdfLaTeX or LaTeX and do not specify
 ```latex
 \usepackage[T1]{fontenc}
 ```

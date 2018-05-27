@@ -29,7 +29,7 @@ files), but copy the other three into your existing Local
 `$TEXMF` tree, and
 [update the filename database](/FAQ-inst-wlcf).
 
-Now, incorporate the fonts in the set searched by PDFLaTeX,
+Now, incorporate the fonts in the set searched by pdfLaTeX,
 `dvips`, `dvipdfm`/`dvipdfmx`, your
 previewers and Type&nbsp;1-to-PK conversion programs, by
   
