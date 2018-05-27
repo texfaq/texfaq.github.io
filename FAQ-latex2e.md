@@ -2,7 +2,7 @@
 title: What is LaTeX2e?
 category: background
 permalink: /FAQ-latex2e
-date: 2014-06-10
+date: 2018-05-27
 ---
 
 # What is LaTeX2e?
@@ -29,8 +29,11 @@ outlined in a series of ''guide'' files that are available in every
 LaTeX distribution (the same directory also contains ''news'' about
 each new release of LaTeX2e).
 
-Note that, now, LaTeX2e is ''feature frozen'' (the only allowed
-changes come from bug reports); this, too, is in pursuit of stability,
-and is a driving force for many of the efforts to contribute LaTeX
-packages.
+Development of the LaTeX2e kernel is somewhat limited by the need to retain
+compatibility with a very large ecosystem of third-party packages. However,
+recent developments (such as allowing Unicode input as-standard for documents)
+demonstrate that such change is still possible. Longer-term work is carried out
+by [The LaTeX Project](/FAQ-LaTeX3), with the aim of more substantial
+improvement to LaTeX.
+
 
