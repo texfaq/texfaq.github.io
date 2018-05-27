@@ -2,7 +2,7 @@
 title: What is the future of TeX?
 category: background
 permalink: /FAQ-TeXfuture
-date: 2014-06-10
+date: 2018-05-27
 ---
 
 # What is the future of TeX?
@@ -25,19 +25,13 @@ paper originally published in
 and reprinted in the 
 [NTG journal MAPS](http://www.ntg.nl/maps/pdf/5_34.pdf).
 
-There are projects (some of them long-term
-projects: see, for example,
-[the LaTeX3 project](/FAQ-LaTeX3))
-to build substantial new macro packages based on TeX.  There are
-also various projects to build a _successor_ to TeX.  The
-[&epsilon;-TeX](/FAQ-etex) extension to TeX itself arose from such a
-project (NTS).  Another pair of projects, which have delivered
-all the results they are likely to deliver, is the
-related 
-[Omega and Aleph](/FAQ-omegaleph).  The 
-[XeTeX system](/FAQ-xetex) is in principle still under
-development, but is widely used, and the 
-[LuaTeX project](/FAQ-luatex) (though not scheduled to produce
-for some time) has already delivered a system that increasingly
-accessible to ''ordinary users''.
+There are projects
+to build substantial new macro packages based on TeX: the most notable is
+[The LaTeX3 project](/FAQ-LaTeX3).  There are
+also various projects to build a _successor_ to TeX-the-binary.
+The [success of these projects has varied](/FAQ-enginedev):
+today, [pdfTeX](/FAQ-pdftex) is the standard engine for most users,
+whilst [XeTeX and LuaTeX](/FAQ-xetex-luatex) have both delivered
+fully Unicode-compliant systems with contrasting approaches to
+extensibility.
 

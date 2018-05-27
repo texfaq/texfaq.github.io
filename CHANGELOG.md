@@ -12,6 +12,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Changed
 - Q-catalogue: Heavily revised
 - Q-readtex: Minor clean-up
+- Q-TeXfuture: Update projects section to link to other FAQ
 
 ### Removed
 - Q-lollipop: Not widely used
