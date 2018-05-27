@@ -24,6 +24,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Removed
 - Q-HPdrivers: Redirect to Q-drivers
 - Q-lollipop: Not widely used
+- Q-FAQ-ouparmd merged with FAQ-parmoderr (which had same title)
 
 ## 2018-05-26
 
