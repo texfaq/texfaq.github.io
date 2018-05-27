@@ -2,6 +2,7 @@
 title: No room for a new ''_thing_''
 category: errors
 permalink: /FAQ-noroom
+redirect_from: /FAQ-usepictex
 date: 2018-05-27
 ---
 

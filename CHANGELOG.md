@@ -26,6 +26,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 - Q-lollipop: Not widely used
 - Q-FAQ-ouparmd merged with FAQ-parmoderr (which had same title)
 - Q-FAQ-optclash merged with FAQ-optionclash (which had same title)
+- Q-FAQ-usepictex redirected to FAQ-noroom (both obsolete with  etex allocation)
 
 ## 2018-05-26
 
