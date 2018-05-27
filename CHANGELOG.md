@@ -16,7 +16,8 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 - Q-readtex: Minor clean-up
 - Q-TeXfuture: Update projects section to link to other FAQ
 - Q-noroom: reword as all LaTeX formats now use e-TeX extended register allocation.
-	
+- Q-tmupfl.md: Minor rewording
+
 ### Removed
 - Q-lollipop: Not widely used
 

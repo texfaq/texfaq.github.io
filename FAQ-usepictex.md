@@ -30,7 +30,7 @@ extending TeX itself.
 It's actually quite practical (with most modern distributions) to use
 &epsilon;-TeX's extended register set:  Current LaTeX distributions
 will do this automatically, or for older, pre-2015 LaTeX
-releases, use package [`etex`](https://ctan.org/pkg/etex).
+releases, use package [`etex`](https://ctan.org/pkg/etex-pkg).
 
 If you're in some situation where you can't use &epsilon;-TeX, you need to change
 PicTeX; unfortunately PicTeX's author is no longer active in the

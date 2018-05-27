@@ -49,13 +49,20 @@ command which (assuming an &epsilon;-TeX format is being used) will
 allow many more float boxes to be allocated (the upper limit 
 being several thousand, rather more than can reasonably handled
 in tex macro lists.) Also the default number of floats that may be stored
-has been increased from 18 to 52.
+has been increased from 18 to 52. Current LaTeX releases will run `\extrafloats{1}`
+before giving this error, so it is highly unlikely that you get this error unless
+over 32 thousand registers have been allocated.
 
 The error also occurs in a long sequence of float environments, with
 no intervening text.  Unless the environments will fit ''here'' (and
 you've allowed them to go ''here''), there will never be a page break,
 and so there will never be an opportunity for LaTeX to reconsider
-placement.  Of course, the floats can't all fit ''here'' if the
+placement. Even though modern LaTeX releases will allow thousands,
+rather than just 18 floats to be held in this way, it is still a good
+idea to avoid this situation which can make LaTex run slowly and in
+extreme cases cause other out of memory errors.
+
+Of course, the floats can't all fit ''here'' if the
 sequence is sufficiently prolonged: once the page fills, LaTeX
 won't place any more floats, leading to the error.
 

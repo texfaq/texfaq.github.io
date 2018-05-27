@@ -87,7 +87,7 @@ equally well to tables, or to ''non-standard'' floats defined by the
     LaTeX2e).
   
 
-    Caveat: if you are using [`etex`](https://ctan.org/pkg/etex) package to increase the number of
+    Caveat: if you are using [`etex`](https://ctan.org/pkg/etex-pkg) package to increase the number of
     registers available on old releases, you need to ''reserve'' some inserts for
     [`morefloats`](https://ctan.org/pkg/morefloats): something like:
     ```latex
