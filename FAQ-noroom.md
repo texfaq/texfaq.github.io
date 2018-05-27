@@ -31,7 +31,7 @@ whose use is ''hidden'' in LaTeX.
 
 Originally the the limit on the number of these registers was 256
 or for `\read` or `\write` objects, just 16. Current LaTeX formats
-are always built with [e-TeX](https://www.ctan.org/pkg/etex) extensions
+are always built with [&epsilon;-TeX](/FAQ-etex) extensions
 enabled, which means that there are 32768 registers available for the types
 other than `\read` and `\write`. LuaLaTeX extends this further  with 65536
 registers for most types, 256 `\write` streams but still 16 `\read` streams.
