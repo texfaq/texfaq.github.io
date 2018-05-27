@@ -25,11 +25,11 @@ You can write and format Texinfo files into Info files within GNU
 Emacs, and read them using the Emacs Info
 reader.  You can also format Texinfo files into Info files using
 `makeinfo` and read them using `info`, so you're not
-`Perl` script, `texi2html`, that will convert
 dependent on Emacs.  The distribution includes a
+Perl script, `texi2html`, that will convert
 Texinfo sources into HTML: the language is a far better fit to
 HTML than is LaTeX, so that the breast-beating agonies of
-[converting LaTeX to HTML](/FAQ-LaTeX2HTML) are largely
+[Converting LaTeX to HTML](/FAQ-LaTeX2HTML) are largely
 avoided.
 
 Finally, of course, you can also print the files, or convert them to
