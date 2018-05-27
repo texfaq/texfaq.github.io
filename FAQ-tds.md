@@ -30,7 +30,7 @@ hierarchy, while each user may have an individual local hierarchy.
 
 The TDS itself is published as the output of a TUG 
 [Technical Working Group](/FAQ-TUGstar).  You may browse an
-[on-line version](http://tug.org/tds/) of the standard, and
+[on-line version](https://tug.org/tds/) of the standard, and
 copies in several other formats (including source) are available on
 CTAN.
 

@@ -40,7 +40,7 @@ places where people ask are:
     [Google groups](http://groups.google.com/group/comp.text.tex),
     and
 2.  the mailing list `texhax` via its
-    [archive](http://tug.org/pipermail/texhax/), or via the ''Gmane''
+    [archive](https://tug.org/pipermail/texhax/), or via the ''Gmane''
     newsgroup `gmane.comp.tex.texhax`, which holds a
     _very_ long history of the list.  A long shot would be to
     search the archives of the mailing list's ancient posts on

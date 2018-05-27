@@ -17,9 +17,9 @@ If you also need mathematics, then your choice is more limited, in
 particular  by the
 demands that TeX makes of maths fonts (for details, see the papers
 by
-  [B.K.P. Horn in TUGboat 14(3)](http://tug.org/TUGboat/Articles/tb14-3/tb40horn.pdf),
+  [B.K.P. Horn in TUGboat 14(3)](https://tug.org/TUGboat/Articles/tb14-3/tb40horn.pdf),
   or by 
-  [Thierry Bouche in TUGboat 19(2)](http://tug.org/TUGboat/Articles/tb19-2/tb59bouc.pdf)).
+  [Thierry Bouche in TUGboat 19(2)](https://tug.org/TUGboat/Articles/tb19-2/tb59bouc.pdf)).
 There are several options available, which are
 based on Knuth's original designs.  Others complement other
 commercial and free text font designs; one set (MicroPress's ''informal math'')
@@ -274,7 +274,7 @@ commercially, include:
   PSNFSS, and pre-built metrics are also provided.
 
   TUG has the right to distribute these fonts; the web site
-    ''[Lucida and TUG](http://tug.org/lucida/)''
+    ''[Lucida and TUG](https://tug.org/lucida/)''
   has details.
 
 - Adobe Lucida, LucidaSans _and_ LucidaMath (12 fonts)

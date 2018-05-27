@@ -19,7 +19,7 @@ full-width figure in a two-column document even on the first page of a
 document.
 
 Barbara Beeton's article
-[Placing a full-width insert at the bottom of two columns](http://tug.org/TUGboat/tb35-3/tb111beet-banner.pdf) in TUGboat 35(3)
+[Placing a full-width insert at the bottom of two columns](https://tug.org/TUGboat/tb35-3/tb111beet-banner.pdf) in TUGboat 35(3)
 gives a manual method for doing the same.
 
 The [`stfloats`](https://ctan.org/pkg/stfloats) package also ameliorates the situation somewhat, and

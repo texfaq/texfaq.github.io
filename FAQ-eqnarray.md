@@ -35,7 +35,7 @@ things), code as:
 \end{align}
 ```
 The matter is discussed in more detail in a 
-[PracTeX journal paper](http://tug.org/pracjourn/2006-4/madsen/madsen.pdf)
+[PracTeX journal paper](https://tug.org/pracjourn/2006-4/madsen/madsen.pdf)
 by Lars Madsen; Stefan Kottwitz offers a 
 [TeX blog entry](http://texblog.net/latex-archive/maths/eqnarray-align-environment/)
 which includes screen shots of the output, convincingly demonstrating

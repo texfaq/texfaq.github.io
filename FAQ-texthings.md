@@ -193,5 +193,5 @@ name like ''blahTeX''.
 
 The subject matter covered by this answer is also addressed in a page
 on the TUG site, 
-''[the Levels of TeX](http://tug.org/levels.html)''.
+''[the Levels of TeX](https://tug.org/levels.html)''.
 

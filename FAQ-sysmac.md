@@ -9,7 +9,7 @@ date: 2014-06-10
 
 The [TeX collection](/FAQ-CD) DVD includes MacTeX,
 which is a Mac-tailored version of TeX&nbsp;Live; details may be found on
-the [TUG web site](http://tug.org/mactex).  If you don't
+the [TUG web site](https://tug.org/mactex).  If you don't
 have the disc, you can download the distribution from CTAN (but
 note that it's pretty big).  MacTeX is an instance of TeX&nbsp;Live,
 and has a Mac-tailored graphical TeX&nbsp;Live manager, so that you can

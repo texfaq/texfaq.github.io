@@ -21,7 +21,7 @@ stands at 2.718281.)
 
 Knuth explains his decision, and exhorts us all to respect it, in a
 paper originally published in 
-[TUGboat 11(4)](http://tug.org/TUGboat/Articles/tb11-4/tb30knut.pdf),
+[TUGboat 11(4)](https://tug.org/TUGboat/Articles/tb11-4/tb30knut.pdf),
 and reprinted in the 
 [NTG journal MAPS](http://www.ntg.nl/maps/pdf/5_34.pdf).
 

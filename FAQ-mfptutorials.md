@@ -42,10 +42,10 @@ MetaPost; it is an invaluable aid to the learner:
 [http://www.tlhiv.org/mppreview]
 
 A three-part introduction, by Mari Voipio, was published in
-[TUGboat34(1) (Entry-level MetaPost: On the grid)](http://tug.org/TUGboat/intromp/tb106voipio-grid.pdf),
+[TUGboat34(1) (Entry-level MetaPost: On the grid)](https://tug.org/TUGboat/intromp/tb106voipio-grid.pdf),
 TUGboat34(2)
-[(Entry-level MetaPost: Move it!)](http://tug.org/TUGboat/intromp/tb107voipio-moveit.pdf), and
-[TUGboat34(2) (Entry-level MetaPost: Color)](http://tug.org/TUGboat/intromp/tb108voipio-color.pdf).
+[(Entry-level MetaPost: Move it!)](https://tug.org/TUGboat/intromp/tb107voipio-moveit.pdf), and
+[TUGboat34(2) (Entry-level MetaPost: Color)](https://tug.org/TUGboat/intromp/tb108voipio-color.pdf).
 
 Vincent Zoonekynd's massive set of example MetaPost files is available on
 CTAN; the set includes a `Perl` script to convert the

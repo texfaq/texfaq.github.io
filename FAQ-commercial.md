@@ -116,7 +116,7 @@ also have email, and normal telephone and fax support.
 Note that the company Y&Y has gone out of business, and Y&Y
 TeX (and support for it) is therefore no longer available.  Users
 of Y&Y systems may care to use the self-help
-[mailing list](http://tug.org/pipermail/yandytex/)
+[mailing list](https://tug.org/pipermail/yandytex/)
 that was established in 2003; the remaining usable content of
 Y&Y's web site is available at
 [http://www.tug.org/yandy/](http://www.tug.org/yandy/)

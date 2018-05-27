@@ -18,7 +18,7 @@ implemented by David Fuchs to use an unusual printer.  However, for
 practical purposes for the rest of us, virtual fonts date from when Knuth
 specified a format and wrote some support software, in 1989 (he
 published an 
-[article in _TUGboat_](http://tug.org/TUGboat/tb11-1/tb27knut.pdf)
+[article in _TUGboat_](https://tug.org/TUGboat/tb11-1/tb27knut.pdf)
 at the time; a plain text copy is available on CTAN).
 
 Virtual fonts provide a way of telling TeX about something more

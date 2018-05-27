@@ -20,7 +20,7 @@ hyphenation rules from time to time.
 
 TeX uses a pretty good system for hyphenation (originally designed
 by Frank Liang&nbsp;&mdash; you may view his 
-[Ph.D. thesis](http://tug.org/docs/liang/) online) and while
+[Ph.D. thesis](https://tug.org/docs/liang/) online) and while
 it's capable of missing ''sensible'' hyphenation points, it seldom
 selects grossly wrong ones.  The
 algorithm matches candidates for hyphenation against a set of

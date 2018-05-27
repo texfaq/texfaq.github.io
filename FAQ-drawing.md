@@ -64,7 +64,7 @@ of drawing, and setup, here are a few systems you may consider:
     (<a href="mailto:pstricks@tug.org">pstricks@tug.org</a>) which you may
     [join](https://tug.org/mailman/listinfo/pstricks), or you may
     just browse the 
-    [list archives](http://tug.org/pipermail/pstricks/).
+    [list archives](https://tug.org/pipermail/pstricks/).
 -  [`pgf`](https://ctan.org/pkg/pgf): while [`pstricks`](https://ctan.org/pkg/pstricks) is very powerful and
     convenient from ''traditional'' TeX, using it with pdfLaTeX is
     pretty tiresome: if you 

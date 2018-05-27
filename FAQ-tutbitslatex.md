@@ -21,7 +21,7 @@ Two documents written more than ten years apart about font usage in
 TeX are worth reading: 
 [Essential NFSS](http://www.tug.org/TUGboat/Articles/tb14-2/tb39rahtz-nfss.pdf)
 by Sebastian Rahtz, and 
-[Font selection in LaTeX](http://tug.org/pracjourn/2006-1/schmidt/schmidt.pdf),
+[Font selection in LaTeX](https://tug.org/pracjourn/2006-1/schmidt/schmidt.pdf),
 cast in the form of an FAQ, by Walter Schmidt.  A general
 compendium of font information (including the two above) may be found
 on the [TUG web site](http://www.tug.org/fonts/).
