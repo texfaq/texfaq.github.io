@@ -1,26 +1,79 @@
 ---
 title: Option clash for package
 category: errors
-permalink: /FAQ-optionclash
-date: 2014-06-10
+permalink: /FAQ-optclash
+redirect_from: /FAQ-optclash
+date: 201-06-10
 ---
 
 # Option clash for package
 
-So you've innocently added:
-`\usepackage[draft]{foo}`
-to your document, and LaTeX responds with
+The error message
 ```latex
-! LaTeX Error: Option clash for package foo.
+! LaTeX Error: Option clash for package footmisc
 ```
+means what it says&nbsp;&mdash; your document contains a (potentially) clashing
+pair of options; sadly, it is not always obvious how the error has
+arisen.
 
-The error is a complaint about loading a package 
-_with options_, more than once.  LaTeX complains because it
-has no means of examining the options, rather than because it
-_knows_ there is a problem.  (You may load a package any number
-of times in a document's preamble, with no options, and LaTeX will
-ignore every loading request after the first; but you may only supply
-options when you first load the package.)
+If you simply write:
+```latex
+\usepackage[a]{foo}
+...
+\usepackage{foo}
+```
+LaTeX is happy, as it is with:
+```latex
+\usepackage[a]{foo}
+...
+\usepackage[a]{foo}
+```
+since LaTeX can see there's no conflict (in fact, the second load
+does nothing).
+
+Similarly,
+```latex
+\usepackage[a,b]{foo}
+...
+\usepackage[a]{foo}
+```
+produces no error and does nothing for the second load.
+
+However
+```latex
+\usepackage[a]{foo}
+...
+\usepackage[b]{foo}
+```
+produces the error; even if option `b` is an alias for
+option `a`&nbsp;&mdash; LaTeX doesn't ''look inside'' the package
+to check anything like that.
+
+The general rule is: the first load of a package defines a set of
+options; if a further `\usepackage` or `\RequirePackage` also
+calls for the package, the options on that call may not extend the set
+on the first load.
+
+Fortunately, the error (in that sort of case) is easily curable
+once you've examined the preamble of your document.
+
+Now, suppose package `foo` loads `bar` with option
+`b`, and your document says:
+```latex
+\usepackage{foo}
+...
+\usepackage[a]{bar}
+```
+or
+```latex
+\usepackage[a]{bar}
+...
+\usepackage{foo}
+```
+the error will be detected, even though you have only explicitly
+loaded `bar` once.  Debugging such errors is tricky: it may
+involve reading the logs (to spot which packages were called), or the
+documentation of package `foo`.
 
 So perhaps you weren't entirely innocent&nbsp;&mdash; the error would have
 occurred on the second line of:
