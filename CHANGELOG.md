@@ -9,6 +9,9 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## 2018-05-27
 
+### Changed
+- Q-catalogue: Heavily revised
+
 ### Removed
 - Q-lollipop: Not widely used
 
