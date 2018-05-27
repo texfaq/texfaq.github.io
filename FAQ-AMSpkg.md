@@ -1,6 +1,7 @@
 ---
 title: What are the AMS packages (AMSTeX, etc.)?
 category: background
+tags: math
 permalink: /FAQ-AMSpkg
 date: 2014-06-10
 ---
