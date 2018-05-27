@@ -2,7 +2,7 @@
 title: Why is TeX not a WYSIWYG system?
 category: background
 permalink: /FAQ-notWYSIWYG
-date: 2014-06-10
+date: 2018-05-27
 ---
 
 # Why is TeX not a WYSIWYG system?
@@ -36,28 +36,6 @@ techniques to TeX: the complexity of TeX makes it hard to get
 the equivalent of TeX's output without actually running TeX over
 the whole of the document being prepared.
 
-A celebrated early system offering ''WYSIWYG using TeX'' came
-from the VorTeX project: a pair of Sun workstations worked in
-tandem, one handling the user interface while the other beavered away
-in the background typesetting the result.  VorTeX was quite
-impressive for its time, but the two workstations combined had hugely
-less power than the average sub-thousand-dollar Personal Computer
-nowadays, and its code has not proved portable (it never even made the
-last ''great'' TeX version change, at the turn of the 1990s, to
-TeX version 3).
-
-Lightning Textures (an extension of Blue Sky's original TeX system
-for the Macintosh), is sadly no longer available.
-
-Thus''[Scientific Word](/FAQ-commercial)'' (which can also interact
-with a computer algebra system), is the only remaining TeX system
-that even approximates to WYSIWYG operation.
-
-The issue has of recent years started to attract attention
-from TeX developers, and several interesting projects that address
-the ''[TeX document preparation environment](/FAQ-WYGexpts)''
-are in progress.
-
 All the same, it's clear that the TeX world has taken a long time
 to latch onto the idea of WYSIWYG.
 Apart from simple arrogance (''we're better, and have no need to
@@ -81,4 +59,22 @@ challenges must needs be addressed by TeX-based document
 preparation support schemes, so we are
 observing a degree of confluence of the needs of the two communities:
 interesting times may be ahead of us.
+
+A celebrated early system offering ''WYSIWYG using TeX'' came
+from the VorTeX project: a pair of Sun workstations worked in
+tandem, one handling the user interface while the other beavered away
+in the background typesetting the result.  VorTeX was quite
+impressive for its time, but the two workstations combined had hugely
+less power than the average laptop
+nowadays, and its code has not proved portable (it never even made the
+last ''great'' TeX version change, at the turn of the 1990s, to
+TeX version 3).
+
+Today, [LyX](https://lyx.org) offers a ''What you see is what you mean''
+interface, using LaTeX for typesetting but it's own file format for documents
+themselves. The commercial system [Scientific
+Word](https://www.mackichan.com/products/sw.html) (which can also interact with
+a computer algebra system) continues to offer perhaps the closest available
+approximation to WYSIWYG TeX usage.
+
 

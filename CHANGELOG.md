@@ -12,6 +12,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Changed
 - Q-catalogue: Heavily revised
 - Q-latex2e: Update development section in light of latexrelease approach
+- Q-notWYSIWYG: Reorder and update links
 - Q-readtex: Minor clean-up
 - Q-TeXfuture: Update projects section to link to other FAQ
 
