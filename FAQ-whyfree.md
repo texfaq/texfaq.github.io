@@ -17,7 +17,7 @@ sometimes referred to as ''Copyleft''), which denies the right to
 commercial exploitation.  TeX itself is offered under a pretty
 permissive licence of Knuth's own.
 
-There are commercial versions of TeX available; for some users,
+There are [commercial versions of TeX available](/FAQ-commercial); for some users,
 it's reassuring to have paid support.  What is more, some of the
 commercial implementations
 have features that are not available in free versions.  (The
@@ -25,5 +25,5 @@ reverse is also true: some free implementations have features
 not available commercially.)
 
 This FAQ concentrates on ''free'' distributions of TeX, but we
-do at least list the [major vendors](/FAQ-commercial).
+do list the [major vendors](/FAQ-commercial).
 
