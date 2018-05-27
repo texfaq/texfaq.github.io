@@ -10,6 +10,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 ## 2018-05-27
 
 ### Changed
+- Q-AMSpkg: Re-write contributed by Barbara Beeton
 - Q-catalogue: Heavily revised
 - Q-latex2e: Update development section in light of latexrelease approach
 - Q-noroom: Reword as LaTeX now use e-TeX extended register allocation
