@@ -52,7 +52,6 @@ known to work with Eplain:  [`graphics`](https://ctan.org/pkg/graphics), [`graph
 
 [Eplain documentation](https://www.tug.org/eplain/doc/eplain.html) is
 available online (there's a PDF copy in the CTAN
-package as well), and there's also a mailing list&nbsp;&mdash; sign up, or
-browse the list archives, via
-[https://tug.org/mailman/listinfo/tex-eplain]
+package as well), and there's also a [mailing
+list](https://tug.org/mailman/listinfo/tex-eplain).
 
