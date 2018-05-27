@@ -19,7 +19,7 @@ automatically load `amsmath` and `amsfonts`. `amsmath` and `amsthm` can also be
 used independently with non-AMS document classes.
 
 Early in 2016, maintenance of `amsmath` was transferred to the LaTeX Project
-team; responsibility for the document classes and amsthm`` remains with the
+team; responsibility for the document classes and `amsthm` remains with the
 AMS. The canonical versions of the two collections reside on CTAN in distinct
 areas.
 
