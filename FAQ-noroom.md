@@ -27,60 +27,33 @@ LaTeX's `\newcounter` command), `\skip` (the object underlying
 LaTeX's `\newlength` command), `\box` (the object underlying
 LaTeX's `\newsavebox` command), or `\dimen`, `\muskip`,
 `\toks`, `\read`, `\write` or `\language` (all types of object
-whose use is ''hidden'' in LaTeX; the limit on the number of
-`\read` or `\write` objects is just 16).
+whose use is ''hidden'' in LaTeX.
 
-There is nothing that can directly be done about this error, as you can't
-extend the number of available registers without extending TeX
-itself.
-  Of course, [&epsilon;-TeX](/FAQ-etex), [Omega](/FAQ-omegaleph) and
-  [LuaTeX](/FAQ-luatex)
-all do this, as does [MicroPress Inc's VTeX](/FAQ-commercial).
+Originally the the limit on the number of these registers was 256
+or for `\read` or `\write` objects, just 16. Current LaTeX formats
+are always built with [e-TeX](https://www.ctan.org/pkg/etex) extensions
+enabled, which means that there are 32768 registers available for the types
+other than `\read` and `\write`. LuaLaTeX extends this further  with 65536
+registers for most types, 256 `\write` streams but still 16 `\read` streams.
 
-The commonest way to encounter one of these error messages is to have
-broken macros of some sort, or incorrect usage of macros (an example
-is discussed in [epsf problems](/FAQ-epsf)).
+Most commonly if you get this error now for types other than the file
+streams it is because you have an old (pre-2015) LaTeX format which is
+checking the original limit of 256, even if an extended TeX is being used.
+Updating to a current LaTeX release should fix the issue.  If you have
+really used up 32768 registers then most likely you have a programming error that
+is causing a loop to allocate all available registers and so an enlarged
+TeX would not help. You could however, try with LuaLaTeX which has larger
+limits in most cases.
 
-However, sometimes one just _needs_ more than TeX can offer,
-and when this happens, you've just got to work out a different way of
-doing things.  An example is the 
-[difficulty of loading PicTeX with LaTeX](/FAQ-usepictex).
-The more modern drawing package, [`pgf`](https://ctan.org/pkg/pgf) with its higher-level
-interface [`TikZ`](https://ctan.org/pkg/TikZ) is also a common source of such problems.
+One related error is an error that the number of `\inserts` has been exceeded.
+An insert is not a register type but requires allcation of matching count, skip
+dimen registers with the same number, in all current engines there can be at most 256
+inserts. You are unlikely to get this error on a LaTeX format newer than 2015, however
+if you have to use an old format the [`Morefloats`](https://ctan.org/pkg/Morefloats) package
+is available that increased the number of inserts available to the float mechanism.
 
-In such cases, it is usually possible to use the
-[&epsilon;-TeX](/FAQ-etex) extensions (all modern distributions provide
-them).  The LaTeX package [`etex`](https://ctan.org/pkg/etex) modifies the register allocation
-mechanism to make use of &epsilon;-TeX's extended register sets.
-[`Etex`](https://ctan.org/pkg/Etex) is a
-derivative of the Plain TeX macro file [`etex.src`](https://ctan.org/pkg/etex-pkg), which is
-used in building the &epsilon;-TeX Plain format; both files are part of the
-&epsilon;-TeX distribution and are available in current distributions.
 
-It is possible that, even with [`etex`](https://ctan.org/pkg/etex) loaded, you still find
-yourself running out of things.  Problems can be caused by packages
-that use large numbers of ''inserts'' (inserts are combinations of
-counter, box, dimension and skip registers, used for storing floats
-and footnotes).  [`Morefloats`](https://ctan.org/pkg/Morefloats) does this, of course (naturally enough,
-allocating new floats), and footnote packages such as
-[`manyfoot`](https://ctan.org/pkg/manyfoot) and [`bigfoot`](https://ctan.org/pkg/bigfoot) (which uses [`manyfoot`](https://ctan.org/pkg/manyfoot))
-can also give problems.  The [`etex`](https://ctan.org/pkg/etex) extensions allow you to deal with
-these things: the command `\reserveinserts{n}` ensures there
-is room for &lsaquo;_n_&rsaquo; more inserts.  Hint: by default
-[`morefloats`](https://ctan.org/pkg/morefloats) adds 18 inserts (though it can be instructed to
-use more), and [`manyfoot`](https://ctan.org/pkg/manyfoot) seems to be happy with 10 reserved,
-but there are ''hard'' limits that we cannot program around&nbsp;&mdash; the
-discussion of [running out of floats](/FAQ-tmupfl) has more about this.
-It is essential that you load [`etex`](https://ctan.org/pkg/etex) before any other
-packages, and reserve any extra inserts immediately:
-```latex
-\documentclass[...]{...}
-\usepackage{etex}
-\reserveinserts{28}
-```
-
-The &epsilon;-TeX extensions don't help with `\read` or `\write`
-objects (and neither will the [`etex`](https://ctan.org/pkg/etex) package), but the
+The number of write streams is limited to 16 (or 256 for LuaTeX) even with extended TeX, however the
 [`morewrites`](https://ctan.org/pkg/morewrites) package can provide the _illusion_ of large
 numbers of `\write` objects.
 
