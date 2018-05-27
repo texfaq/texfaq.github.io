@@ -2,6 +2,7 @@
 title: What is a DVI driver?
 category: concepts
 permalink: /FAQ-driver
+redirect-from: /FAQ-HPdrivers/
 date: 2014-06-10
 ---
 

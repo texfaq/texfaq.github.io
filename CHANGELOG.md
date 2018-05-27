@@ -18,6 +18,8 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 - Q-TeXfuture: Update projects section to link to other FAQ
 - Q-tmupfl: Minor rewording
 - Q-unicode: Minor addition to mention UTF-8 default in current LaTeX.
+- Q-noroom: reword as all LaTeX formats now use e-TeX extended register allocation.
+- Q-FAQ-HPdrivers delete (emtex and atari tex not used much now) redirect to FAQ-drivers
 
 ### Removed
 - Q-lollipop: Not widely used
