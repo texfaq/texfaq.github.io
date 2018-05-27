@@ -9,10 +9,12 @@ redirect_from: /FAQ-amspkg
 
 # What are the AMS packages (`amsmath`, etc.)?
 
-There are two components to the AMS LaTeX packages: `amsmath` (a collection of
+There are two components to the AMS LaTeX packages:
+[`amsmath`](https://ctan.org/pkg/latex-amsmath) (a collection of
 packages that implements multi-line displayed equations, equation numbering,
 ellipsis dots, matrices, double accents, multi-line subscripts, text strings in
-math environments, and other things) and the AMS document classes (`amsart`,
+math environments, and other things) and the
+[AMS document classes](https://ctan.org/pkg/amsmthm) (`amsart`,
 `amsbook`, and `amsproc`, which are comparable to the three basic LaTeX
 classes, and `amsthm`). These components work together to produce output in the
 preferred AMS style. The AMS document classes incorporate `amsthm`, and
