@@ -1,7 +1,7 @@
 ---
 title: Option clash for package
 category: errors
-permalink: /FAQ-optclash
+permalink: /FAQ-optionclash
 redirect_from: /FAQ-optclash
 date: 201-06-10
 ---
