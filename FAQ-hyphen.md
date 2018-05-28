@@ -33,7 +33,7 @@ just as much as the exclamation in''syst!eme''.
 (Hyphenation takes place on the characters ''sent to the printer''.
 The problem with `\accent` is avoided&nbsp;&mdash;in LaTeX&nbsp;&mdash; by the use
 of the [`fontenc`](https://ctan.org/pkg/fontenc) package, as discussed in 
-''[Accented words aren t hyphenated](/FAQ-hyphenaccents)''.)
+''[Accented words aren't hyphenated](/FAQ-hyphenaccents)''.)
 
 Sets of hyphenation patterns are usually derived from analysis of
 a list of valid hyphenations (the process of derivation, using a tool
