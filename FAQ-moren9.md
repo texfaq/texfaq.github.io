@@ -64,5 +64,4 @@ doesn't have to remember that argument twelve is `soiltype`, and so
 on: the commands may be copied from field notes quickly and
 accurately.
 
-        * faq-mac-prog.tex (q-keyval): tweak words about getoptk
 
