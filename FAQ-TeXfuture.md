@@ -2,6 +2,7 @@
 title: What is the future of TeX?
 category: background
 permalink: /FAQ-TeXfuture
+redirect_from: /FAQ-texfuture
 date: 2018-05-27
 ---
 

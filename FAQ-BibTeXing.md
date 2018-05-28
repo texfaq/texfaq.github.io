@@ -2,6 +2,7 @@
 title: BibTeX Documentation
 category: documentation
 permalink: /FAQ-BibTeXing
+redirect_from: /FAQ-bibtexing
 date: 2014-06-10
 ---
 

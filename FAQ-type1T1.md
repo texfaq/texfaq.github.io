@@ -2,6 +2,7 @@
 title: Finding ''8-bit'' Type&nbsp;1 fonts
 category: usage
 permalink: /FAQ-type1T1
+redirect_from: /FAQ-type1t1
 date: 2014-06-10
 ---
 

@@ -3,8 +3,8 @@ title: What are the AMS packages (`amsmath`, etc.)?
 category: background
 tags: math
 permalink: /FAQ-AMSpkg
-date: 2018-05-27
 redirect_from: /FAQ-amspkg
+date: 2018-05-27
 ---
 
 # What are the AMS packages (`amsmath`, etc.)?

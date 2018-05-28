@@ -2,6 +2,7 @@
 title: Why is TeX not a WYSIWYG system?
 category: background
 permalink: /FAQ-notWYSIWYG
+redirect_from: /FAQ-notwysiwyg
 date: 2018-05-27
 ---
 

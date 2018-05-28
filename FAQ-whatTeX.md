@@ -2,6 +2,7 @@
 title: What is TeX?
 category: background
 permalink: /FAQ-whatTeX
+redirect_from: /FAQ-whattex
 date: 2014-06-10
 ---
 

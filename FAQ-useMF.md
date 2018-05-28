@@ -3,6 +3,7 @@ title: Getting MetaFont to do what you want
 category: fonts
 tags: metafont
 permalink: /FAQ-useMF
+redirect_from: /FAQ-usemf
 date: 2014-06-10
 ---
 

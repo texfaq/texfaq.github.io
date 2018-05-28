@@ -2,6 +2,7 @@
 title: Conversion from (La)TeX to HTML
 category: misc
 permalink: /FAQ-LaTeX2HTML
+redirect_from: /FAQ-latex2html
 date: 2018-5-25
 ---
 

@@ -2,6 +2,7 @@
 title: Version control using RCS, CVS or the like
 category: usage
 permalink: /FAQ-RCS
+redirect_from: /FAQ-rcs
 date: 2014-06-10
 ---
 

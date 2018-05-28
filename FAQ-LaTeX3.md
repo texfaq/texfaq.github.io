@@ -2,6 +2,7 @@
 title: The LaTeX project
 category: misc
 permalink: /FAQ-LaTeX3
+redirect_from: /FAQ-latex3
 date: 2018-05-24
 ---
 

@@ -2,6 +2,7 @@
 title: The TeX document preparation environment
 category: misc
 permalink: /FAQ-WYGexpts
+redirect_from: /FAQ-wygexpts
 date: 2018-05-24
 ---
 

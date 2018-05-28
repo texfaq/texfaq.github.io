@@ -2,6 +2,7 @@
 title: Using TeX to read SGML or XML directly
 category: misc
 permalink: /FAQ-readML
+redirect_from: /FAQ-readml
 date: 2014-06-10
 ---
 

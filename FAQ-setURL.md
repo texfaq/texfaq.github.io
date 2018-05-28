@@ -2,6 +2,7 @@
 title: Typesetting URLs
 category: formatting
 permalink: /FAQ-setURL
+redirect_from: /FAQ-seturl
 date: 2014-06-10
 ---
 

@@ -2,6 +2,7 @@
 title: What is MetaPost?
 category: background
 permalink: /FAQ-MP
+redirect_from: /FAQ-mp
 date: 2014-06-10
 ---
 

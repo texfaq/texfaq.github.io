@@ -2,6 +2,7 @@
 title: TeX User Groups
 category: background
 permalink: /FAQ-TUGstar
+redirect_from: /FAQ-tugstar
 date: 2014-06-10
 ---
 

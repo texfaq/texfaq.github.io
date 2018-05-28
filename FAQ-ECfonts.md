@@ -2,6 +2,7 @@
 title: What are the EC fonts?
 category: concepts
 permalink: /FAQ-ECfonts
+redirect_from: /FAQ-ecfonts
 date: 2014-06-10
 ---
 

@@ -2,6 +2,7 @@
 title: Where to find FAQs
 category: documentation
 permalink: /FAQ-whereFAQ
+redirect_from: /FAQ-wherefaq
 date: 2014-06-10
 ---
 

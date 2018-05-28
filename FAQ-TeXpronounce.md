@@ -2,6 +2,7 @@
 title: How should I pronounce ''TeX''?
 category: background
 permalink: /FAQ-TeXpronounce
+redirect_from: /FAQ-texpronounce
 date: 2014-06-10
 ---
 
