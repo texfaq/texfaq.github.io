@@ -14,7 +14,7 @@ actually are.  Since one inevitably has to compare a macro with the
 contents of another macro (using `\ifx`, somewhere) one needs to
 create a macro whose expansion looks the same as the expansion of
 `\jobname`.  We find we can do this with `\meaning`, if we strip
-the `\show` command'' prefix.
+the ''`\show` command'' prefix.
 
 The full command looks like:
 <!-- {% raw %} -->
