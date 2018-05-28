@@ -9,7 +9,7 @@ date: 2014-06-10
 
 You've innocently generated output, using `dvips`, and there
 are weird transpositions in it: for example, the `fi` ligature has
-appeared as a &#xa3; symbol.
+appeared as a £ symbol.
 This is an unwanted side-effect of the precautions
 outlined in [generating PostScript for PDF](/FAQ-dvips-pdf).
 The `-G1` switch discussed in that question is appropriate for

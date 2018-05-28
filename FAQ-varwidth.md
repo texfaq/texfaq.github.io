@@ -48,7 +48,7 @@ exactly the same width, so that the lines as a whole produce a regular
 pattern down the page.  A command `\eqboxwidth` allows you to use
 the measured width of a group: the documentation shows how the command
 may be used to produce sensible-looking columns that mix `c`-,
-`r`- or `l`-rows, with the equivalent of a <code class="verb">p{...&#x7d;</code>
+`r`- or `l`-rows, with the equivalent of a `p{...}`
 entry, by making the fixed-width rows an [`eqparbox`](https://ctan.org/pkg/eqparbox) group, and
 making the last from a `\parbox` using the width that's been
 measured for the group.

@@ -7,7 +7,7 @@ date: 2014-06-10
 
 # Typesetting the Euro sign
 
-The European currency ''Euro'' (&#x20ac;) is represented by a symbol
+The European currency ''Euro'' (€) is represented by a symbol
 of somewhat dubious design, but it's an important currency and
 (La)TeX users need to typeset it.  When the currency first appeared,
 typesetting it was a serious problem for (La)TeX users; things are

@@ -10,7 +10,7 @@ date: 2014-06-10
 
 Single characters can act as macros (defined commands), and both
 Plain TeX and LaTeX define the character
-`&#x7e;` as a ''non-breakable space''.  A
+`~` as a ''non-breakable space''.  A
 character is made definable, or ''active'', by setting its
 _category code_ (catcode) to be `\active` (13):
 ```latex
@@ -56,8 +56,8 @@ argument to another command (as, for example, in
 ''[`\verb` in command arguments](/FAQ-verbwithin)'').
 An exemplary case is the [`doc`](https://ctan.org/pkg/doc) package, which processes .dtx
 files using the [`shortvrb`](https://ctan.org/pkg/shortvrb) package to define
-`&#x7c;&hellip;&#x7c;` as a shorthand for
-`\verb``&#x7c;&hellip;&#x7c;`. But `&#x7c;` is
+`|&hellip;|` as a shorthand for
+`\verb``|&hellip;|`. But `|` is
 also used in the preambles of tabular environments, so that tables in
 `dtx` files can only have vertical line separation between
 columns by employing special measures of some sort.
@@ -92,7 +92,7 @@ use:
 The alternative (''tricksy'') way of creating such an isolated
 definition depends on the curious properties of `\lowercase`, which
 changes characters without altering their catcodes.  Since there is
-always _one_ active character (`&#x7e;`), we
+always _one_ active character (`~`), we
 can fool `\lowercase` into patching up a definition without ever
 explicitly changing a catcode:
 <!-- {% raw %} -->

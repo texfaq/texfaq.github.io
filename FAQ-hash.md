@@ -35,7 +35,7 @@ If we use the TeX primitive:
 ```latex
 \def\a#1{+#1+\def\x #1{xxx#1}}
 ```
-`\a{b}` will expand to ''+b+<code class="verb">&#x5c;def&#x5c;x b&#7b;xxxb&#x7d;</code>''.  This
+`\a{b}` will expand to ''+b+`\def\x b{xxxb}`''.  This
 defines `\x` to be a macro _delimited_ by `b`, and taking no
 arguments, which is surely not what was intended!
 
@@ -48,7 +48,7 @@ or, using the TeX primitive definition:
 \def\a#1{+#1+\def\x ##1{xxx##1}}
 ```
 and `\a{b}` will expand to 
-  +b+<code class="verb">&#x5c;def&#x5c;x #1{xxx#1&#x7d;</code>
+  +b+`\def\x #1{xxx#1}`
 because `#1` gets replaced by ''b''
 and `##` gets replaced by `#`.
 

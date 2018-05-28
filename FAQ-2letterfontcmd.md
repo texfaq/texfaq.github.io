@@ -94,7 +94,7 @@ use of the instances in the [EC fonts](/FAQ-ECfonts), and
 similar techniques could be brought to bear on many other font sets.
 The second is the conflict between `\upshape` and `\itshape`:
 Knuth actually offers an upright-italic font which LaTeX uses for
-the ''&#xa3;'' symbol in the default font set.  The combination is
+the ''£'' symbol in the default font set.  The combination is
 sufficiently weird that, while there's a defined font shape, no
 default LaTeX commands exist; to use the shape, the (eccentric) user
 needs LaTeX's simplest font selection commands:

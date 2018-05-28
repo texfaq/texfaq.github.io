@@ -73,9 +73,9 @@ cell expansion on, and `\nomakegapedcells` switches it off again.
 The [`cellspace`](https://ctan.org/pkg/cellspace) package does a (possibly inferior) job by
 defining a new table/array column type ''S'', which you apply to each
 column specification.  So, for example,
-`\begin{tabular}{l l l p&#x7b;3cm&#x7d;}`
+`\begin{tabular}{l l l p{3cm}}`
 would become
-`\begin{tabular}{Sl Sl Sl Sp&#x7b;3cm&#x7d;}`
+`\begin{tabular}{Sl Sl Sl Sp{3cm}}`
 and so on.  This technique shows
 promise of not interfering so much with other packages, but this
 author has heard of no reports from the field.
