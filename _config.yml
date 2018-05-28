@@ -1,4 +1,6 @@
 exclude: ['CONTRIBUTING.md', 'LICENSE.md', 'README.md']
 
 plugins:
-  - jekyll-redirect-from
+ - jekyll-feed
+ - jekyll-redirect-from
+ - jekyll-seo-tag
