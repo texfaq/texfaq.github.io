@@ -29,34 +29,35 @@ _type_, which is a trickier concept: if you need to know, the
 only real confusion is that the abbreviations labelled ''defn'' are
 defined using an `_xxxx_def` command.
 
-<table><tbody>
-<tr><td>Name </td><td> Type </td><td> Value </td></tr>
-<tr><td>`\m@ne` </td><td> count </td><td> -1 </td></tr>
-<tr><td>`\p@`  </td><td> dimen </td><td> 1pt </td></tr>
-<tr><td>`\z@`  </td><td> dimen </td><td> 0pt </td></tr>
-<tr><td>`\z@skip` </td><td> skip </td><td> 0pt plus 0pt minus 0pt </td></tr>
-<tr><td>`ne` </td><td> defn </td><td> 1 </td></tr>
-<tr><td>`\tw@` </td><td> defn </td><td> 2</td></tr>
-<tr><td>`\thr@@` </td><td> defn </td><td> 3 </td></tr>
-<tr><td>`\sixt@@n` </td><td> defn </td><td> 16 </td></tr>
-<tr><td>`cclv` </td><td> defn </td><td> 255 </td></tr>
-<tr><td>`cclvi` </td><td> defn </td><td> 256 </td></tr>
-<tr><td>`m` </td><td> defn </td><td> 1000 </td></tr>
-<tr><td>`M` </td><td> defn </td><td> 10000 </td></tr>
-<tr><td>`MM` </td><td> defn </td><td> 20000 </td></tr>
-<tr><td>`vpt` </td><td> macro </td><td> 5 </td></tr>
-<tr><td>`vipt` </td><td> macro </td><td> 6 </td></tr>
-<tr><td>`viipt` </td><td> macro </td><td> 7 </td></tr>
-<tr><td>`viiipt` </td><td> macro </td><td> 8 </td></tr>
-<tr><td>`ixpt` </td><td> macro </td><td> 9 </td></tr>
-<tr><td>`xpt` </td><td> macro </td><td> 10 </td></tr>
-<tr><td>`xipt` </td><td> macro </td><td> 10.95 </td></tr>
-<tr><td>`xiipt` </td><td> macro </td><td> 12 </td></tr>
-<tr><td>`xivpt` </td><td> macro </td><td> 14.4 </td></tr>
-<tr><td>`xviipt` </td><td> macro </td><td> 17.28 </td></tr>
-<tr><td>`xxpt` </td><td> macro </td><td> 20.74 </td></tr>
-<tr><td>`xxvpt` </td><td> macro </td><td> 24.88 </td></tr>
-<tr><td>`plus` </td><td> macro </td><td> `plus` </td></tr>
-<tr><td>`minus` </td><td> macro </td><td> `minus` </td></tr>
-</tbody></table>
+
+ | Name      |  Type  |  Value  |
+ | --------- | ------ | -------- |
+ | `\m@ne`   |  count |  -1  |
+ | `\p@`     |  dimen |  1pt  |
+ | `\z@`     |  dimen |  0pt  |
+ | `\z@skip` |  skip  |  0pt plus 0pt minus 0pt |
+ | `\@ne`    |  defn  |  1  |
+ | `\tw@`    |  defn  |  2 |
+ | `\thr@@`  |  defn  |  3  |
+ | `\sixt@@n`|  defn  |  16  |
+ | `\@cclv`  |  defn  |  255  |
+ | `\@cclvi` |  defn  |  256  |
+ | `\@m`     |  defn  |  1000  |
+ | `\@M`     |  defn  |  10000  |
+ | `\@MM`    |  defn  |  20000  |
+ | `\@vpt`   |  macro |  5  |
+ | `\@vipt`  |  macro |  6  |
+ | `\@viipt` |  macro |  7  |
+ | `\@viiipt`|  macro |  8  |
+ | `\@ixpt`  |  macro |  9  |
+ | `\@xpt`   |  macro |  10  |
+ | `\@xipt`  |  macro |  10.95 |
+ | `\@xiipt` |  macro |  12  |
+ | `\@xivpt` |  macro |  14.4  |
+ | `\@xviipt`|  macro |  17.28  |
+ | `\@xxpt`  |  macro |  20.74  |
+ | `\@xxvpt` |  macro |  24.88  |
+ | `\@plus`  |  macro |  `plus`  |
+ | `\@minus` |  macro |  `minus`  |
+
 
