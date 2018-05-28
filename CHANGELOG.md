@@ -7,6 +7,11 @@ https://github.com/uktug/uk-tex-faq/blob/master/ChangeLog
 The format is based on [Keep a
 Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2018-05-28
+
+### Changed
+- Q-MP: Mention LuaTeX integration of MetaPost.
+
 ## 2018-05-27
 
 ### Changed

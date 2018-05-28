@@ -3,7 +3,7 @@ title: What is MetaPost?
 category: background
 permalink: /FAQ-MP
 redirect_from: /FAQ-mp
-date: 2014-06-10
+date: 2018-05-26
 ---
 
 # What is MetaPost?
@@ -31,6 +31,12 @@ see [Graphics in pdfLaTeX](/FAQ-pdftexgraphics).
 
 Much of MetaPost's source code was copied from MetaFont's sources, with
 Knuth's permission.
+
+
+A version MetaPost, as a library with a Lua interface, is integrated
+with LuaTEX. This gives LuaTeX some graphical capabilities and
+forms an alternative to macro based drawing packages such as
+[TikZ and PSTricks](/FAQ-drawing).
 
 A mailing list discussing MetaPost is available;
   subscribe via the 
