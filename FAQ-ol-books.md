@@ -12,7 +12,7 @@ the web, and until relatively recently this demand went un-answered.
 
 The first to appear was Victor Eijkhout's excellent ''TeX by
 Topic'' in 2001 (it had been published by Addison-Wesley, but was long
-out of print).  The book is now available on CTAN; it's not a
+out of print).  The book is now available on [CTAN](https://ctan.org/pkg/texbytopic); it's not a
 beginner's tutorial but it's a fine reference.  It's also available,
 as a printed copy, via the on-line publishers
 [Lulu](https://www.lulu.com/shop/victor-eijkhout/tex-by-topic/paperback/product-23132527.html) (not quite free, of
