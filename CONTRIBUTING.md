@@ -61,7 +61,7 @@ the FAQ useful. There are a few things to watch out for
 
 - The Jekyll 'back-end' used by GitHub Pages is somewhat picky about unbalanced
   braces (`{` and `}`), even in code blocks. That's because it is looking for
-  some instructions of it's own there. To turn this off, surround the relevant
+  some instructions of its own there. To turn this off, surround the relevant
   parts of your source with
   ```
   <!-- {% raw %} -->
@@ -75,9 +75,10 @@ the FAQ useful. There are a few things to watch out for
 - Only use block quotes for real quotations: use code markup for terminal
   output and similar
 
-- We use the following HTML elements for special characters:
+- We use the following HTML entities for special characters:
   - `&hellip;` Ellipsis
   - `&mdash;` Em-dash
+  - `&ndash;` En-dash
   - `&nbsp;` Non-breaking space
 
 - Please wrap source lines to keep them below 80 characters long
@@ -86,4 +87,5 @@ the FAQ useful. There are a few things to watch out for
 
 - File names should be of the form `FAQ-<name>.md`, where the `<name> is made
   up of characters ASCII letters, numbers and "-" only.
-- Remember to add new questions to the appropriate place in `index.md`
+- If the `<name>` part is not all lower case, add a `redirect_from:`
+  entry in the fronmatter of the page redirecting from the lowercase.
