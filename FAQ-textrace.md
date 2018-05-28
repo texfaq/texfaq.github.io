@@ -7,7 +7,7 @@ date: 2014-06-10
 
 # Making outline fonts from MetaFont
 
-`TeXtrace`, originally developed by  P&eacute;ter Szab&oacute;, is a
+`TeXtrace`, originally developed by  Péter Szabó, is a
 bundle of Unix scripts that use  Martin Weber's freeware boundary
 tracing package
 [`autotrace`](http://autotrace.sourceforge.net) to 
@@ -19,7 +19,7 @@ editor to tidy things.  Whatever, there
 remain fonts which many people find useful and which fail to attract
 the paid experts, and auto-tracing is providing a useful service here.
 Notable sets of
-fonts generated using `TeXtrace` are P&eacute;ter Szab&oacute;'s own
+fonts generated using `TeXtrace` are Péter Szabó's own
 EC/TC font set `tt2001` and Vladimir Volovich's
 CM-Super set, which covers the EC, TC, and the
 Cyrillic LH font sets (for details of both of which sets, see

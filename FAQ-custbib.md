@@ -31,7 +31,7 @@ BibTeX style, and a collection of ''contributed'' styles have also
 started to appear.  Note however here are not as many of
 [`biblatex`](https://ctan.org/pkg/biblatex)'s contributed styles as there are for BibTeX,
 and there is no `custom-biblatex`, both of which suggest that
-beginners' r&ouml;le models are hard to come by.  As a result, beginners
+beginners' role models are hard to come by.  As a result, beginners
 should probably resist the temptation to write their own contributed
 [`biblatex`](https://ctan.org/pkg/biblatex) style.
 

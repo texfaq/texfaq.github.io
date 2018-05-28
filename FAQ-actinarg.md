@@ -69,7 +69,7 @@ Two features of the coding are important:
 
 -  `\begingroup` in `\chord` opens a group that is closed by
     `\endgroup` in `\Xchord`; this group limits the change of
-    category codes, which is the _raison d'&ecirc;tre_ of the whole
+    category codes, which is the _raison d'être_ of the whole
     exercise.
 -  Although `#` is active while `\Xchord` is executed, it's
     _not_ active when it's being defined, so that the use of `#1`

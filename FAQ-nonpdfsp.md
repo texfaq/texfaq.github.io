@@ -18,7 +18,7 @@ Why does this happen?  LaTeX users, nowadays, hardly ever use
 `\special` commands on their own&nbsp;&mdash; they employ packages to do the
 job for them.  Some packages will generate `\special` commands
 however they are invoked: [`pstricks`](https://ctan.org/pkg/pstricks) is an example (it's very
-raison d'&ecirc;tre is to emit PostScript code in a sequence of `\special`
+raison d'être is to emit PostScript code in a sequence of `\special`
 commands).  [`Pstricks`](https://ctan.org/pkg/Pstricks) may be dealt with by other means (the
 [`pdftricks`](https://ctan.org/pkg/pdftricks) package offers a usable technique).
 

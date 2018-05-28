@@ -42,7 +42,7 @@ as ''documentation''.)
 
 Several packages may be included in one `dtx` file, with
 conditional sections, and there are facilities for indexes of macros,
-etc.  All of this m&eacute;lange is sorted out by directives in the
+etc.  All of this mélange is sorted out by directives in the
 `ins` file; conventional indexing utilities may be necessary
 for ''full'' output.
 

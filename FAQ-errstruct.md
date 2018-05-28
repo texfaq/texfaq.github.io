@@ -75,7 +75,7 @@ l.5 \blah{\bleah}
 The prompt accepts single-character commands: the list of what's
 available may be had by typing `?`.  One immediately valuable
 command is `h`, which gives you an expansion of TeXs original
-pr&eacute;cis message, sometimes accompanied by a hint on what to do to
+précis message, sometimes accompanied by a hint on what to do to
 work round the problem in the short term.  If you simply type ''return''
 (or whatever else your system uses to signal the end of a line) at the
 prompt, TeX will attempt to carry on (often with rather little

@@ -44,7 +44,7 @@ version of `ispell`.
 An alternative approach takes (La)TeX output, and checks that.  A
 straightforward approach is to produce PDF output, and process
 it with `pdftotext`, using any plain text checker on the
-result (the checkers listed above all work in this r&ocirc;le).  For this
+result (the checkers listed above all work in this role).  For this
 to work reasonably well, the user should disable hyphenation before
 making the PDF output.
 

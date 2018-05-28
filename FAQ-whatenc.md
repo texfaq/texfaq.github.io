@@ -41,7 +41,7 @@ international standard, though some operating systems use ''code
 pages'' (as defined by Microsoft).  These standards and code pages often
 contain characters that may not appear in the TeX system's input
 stream.  Somehow, these characters have to be dealt with&nbsp;&mdash; so
-an input character like ''&eacute;'' needs to be interpreted by TeX in
+an input character like ''é'' needs to be interpreted by TeX in
 a way that that at least mimics the way it interprets ``\`e``.  
 
 The TeX output stream is in a somewhat different situation:
@@ -66,7 +66,7 @@ To take advantage of the diacriticised characters represented in the
 fonts, it is necessary to arrange that whenever the
 command sequence ``\`e`` has been input
 (explicitly, or implicitly via the sort of mapping of input mentioned
-above), the character that codes the position of the ''&eacute;'' glyph is
+above), the character that codes the position of the ''é'' glyph is
 used.
 
 Thus we could have the odd arrangement that the diacriticised character in

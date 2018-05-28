@@ -24,7 +24,7 @@ many these have also been taken up by other engine developers.
 
 ### pdfTeX
 
-[pdfTeX](/FAQ-pdftex) was developed by H&agrave;n Th&#x1ebf; Th&agrave;nh,
+[pdfTeX](/FAQ-pdftex) was developed by Hàn Th&#x1ebf; Thành,
 incorporating the ability to create PDF output directly into the TeX engine.
 Although originally developed in parallel, pdfTeX today includes the
 [&epsilon;-TeX](#&epsilon;-tex) extensions as-standard.
@@ -33,15 +33,15 @@ bug fixes. However, the central importance of pdfTeX as the ''standard''
 engine in modern TeX distributions means further changes may be seen,
 particularly in the area of accessibility.
 
-pdfTeX started as a topic for H&agrave;n Th&#x1ebf; Th&agrave;nh's
+pdfTeX started as a topic for Hàn Th&#x1ebf; Thành's
 Master's&nbsp;thesis, and seems first to have been published in TUGboat 18(4),
 in 1997 (though it was certainly discussed at the TUG'96 conference in Russia).
-While the world was making good use of ''pre-releases'' of pdfTeX, Th&agrave;nh
+While the world was making good use of ''pre-releases'' of pdfTeX, Thành
 used it as a test-bed for the micro-typography which was the prime subject of
-his Ph.D.&nbsp;research. Since Th&agrave;nh was finally awarded his Ph.D.,
+his Ph.D.&nbsp;research. Since Thành was finally awarded his Ph.D.,
 day-to-day maintenance and development of pdfTeX&nbsp;1.0 (and later) has been
 in the hands of a group of [pdfTeX maintainers](http://www.pdftex.org) (which
-includes Th&agrave;nh); the group has managed to maintain a stable platform for
+includes Thành); the group has managed to maintain a stable platform for
 general use.
 
 ### XeTeX

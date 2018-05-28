@@ -3,7 +3,7 @@ title: What is MetaPost?
 category: background
 permalink: /FAQ-MP
 redirect_from: /FAQ-mp
-date: 2018-05-26
+date: 2018-05-28
 ---
 
 # What is MetaPost?

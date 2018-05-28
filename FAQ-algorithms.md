@@ -9,7 +9,7 @@ date: 2014-06-10
 
 There is no consensus on the ''right'' way to typeset pseudocode.
 Consequently, there are a variety of LaTeX packages to choose from
-for producing &aelig;sthetically pleasing pseudocode listings.
+for producing æsthetically pleasing pseudocode listings.
 
 Pseudocode differs from actual program listings in that it lacks
 strict syntax and semantics.  Also, because pseudocode is supposed to

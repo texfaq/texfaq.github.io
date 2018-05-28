@@ -64,7 +64,7 @@ but doesn't work, any more than:
 ```
 The problem is, that the `tabular` environment, and the
 `\framebox` command restrain the `figure` environment
-from its natural m&eacute;tier, which is to float around the document.
+from its natural métier, which is to float around the document.
 
 The solution is simply not to use the `figure` environment
 here:

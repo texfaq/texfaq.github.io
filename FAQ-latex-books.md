@@ -22,7 +22,7 @@ date: 2014-06-10
 - The LaTeX Graphics Companion:
   _Illustrating documents with TeX and PostScript_ by Michel
   Goossens, Sebastian Rahtz, Frank Mittelbach, Denis Roegel and
-  Herbert Vo&szlig; (second edition, Addison-Wesley, 2007,
+  Herbert Voß (second edition, Addison-Wesley, 2007,
   ISBN-10 0-321-50892-0, ISBN-13 0-321-50892-0)
 - The LaTeX Web Companion:
   _Integrating TeX, HTML and XML_ by Michel
@@ -32,13 +32,13 @@ date: 2014-06-10
   by Alan Hoenig (Oxford University Press, 1998, ISBN-10 0-19-509685-1
   hardback, ISBN-10 0-19-509686-X paperback)
 - More Math into LaTeX:_An Introduction to_ LaTeX
-  _and_ AMSLaTeX by George Gr&auml;tzer (fourth edition Springer Verlag,
+  _and_ AMSLaTeX by George Grätzer (fourth edition Springer Verlag,
   2007, ISBN-10 978-0-387-32289-6
 - Digital Typography Using LaTeXIncorporating some
   multilingual aspects, and use of [Omega](/FAQ-omegaleph), by
   Apostolos Syropoulos, Antonis Tsolomitis and Nick Sofroniou
   (Springer, 2003, ISBN-10 0-387-95217-9).
-- First Steps in LaTeX by George Gr&auml;tzer (Birkh&auml;user, 1999,
+- First Steps in LaTeX by George Grätzer (Birkhäuser, 1999,
   ISBN-10 0-8176-4132-7) 
 - LaTeX: Line by Line:
   _Tips and Techniques for Document Processing_
@@ -47,16 +47,16 @@ date: 2014-06-10
 - LaTeX for Linux:_A Vade Mecum_
   by Bernice Sacks Lipkin (Springer-Verlag, 1999,
   ISBN-10 0-387-98708-8, second printing)
-- Typesetting Mathematics with LaTeX by Herbert Vo&szlig; (UIT
+- Typesetting Mathematics with LaTeX by Herbert Voß (UIT
   Cambridge, 2010, ISBN-10 978-1-906-86017-2)
-- Typesetting Tables with LaTeX by Herbert Vo&szlig;, (UIT
+- Typesetting Tables with LaTeX by Herbert Voß, (UIT
   Cambridge, 2011, ISBN-10 978-1-906-86025-7)
 - PSTricks: Graphics and PostScript for TeX and LaTeX by
-  Herbert Vo&szlig;, (UIT Cambridge, 2011, ISBN-10 978-1-906-86013-4)
+  Herbert Voß, (UIT Cambridge, 2011, ISBN-10 978-1-906-86013-4)
 
-A sample of George Gr&auml;tzer's ''Math into LaTeX'', in Adobe
+A sample of George Grätzer's ''Math into LaTeX'', in Adobe
 Acrobat format, and example files
 for the three LaTeX Companions, and for
-Gr&auml;tzer's ''First Steps in LaTeX'', are all available on
+Grätzer's ''First Steps in LaTeX'', are all available on
 CTAN.
 

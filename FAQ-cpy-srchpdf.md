@@ -16,7 +16,7 @@ functions, the operations take place on the glyph codes used for the
 fonts selected by the document.  This is fine, for the simplest
 documents (in English, at least); the problem comes when you're using
 an inflected language (with accented letters, or composite glyphs
-such as '&aelig;')&nbsp;&mdash; TeX will typically use a non-standard
+such as 'æ')&nbsp;&mdash; TeX will typically use a non-standard
 encoding, and there are likely be problems, since PDF readers
 assume the text is presented in Unicode.
 

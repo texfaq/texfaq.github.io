@@ -13,7 +13,7 @@ available (in several formats) via
 (the ''Additional
 Documentation'' about half-way down the page.
 
-Herbert Vo&szlig; has written an extensive guide to mathematics in
+Herbert Voß has written an extensive guide to mathematics in
 LaTeX, and a development of it has been 
 [published as a book](/FAQ-latex-books).
 

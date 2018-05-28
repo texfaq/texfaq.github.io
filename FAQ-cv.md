@@ -1,12 +1,12 @@
 ---
-title: _Curriculum Vitae_ (R&eacute;sum&eacute;)
+title: _Curriculum Vitae_ (Résumé)
 category: formatting
 tags: classes
 permalink: /FAQ-cv
 date: 2014-06-10
 ---
 
-# _Curriculum Vitae_ (R&eacute;sum&eacute;)
+# _Curriculum Vitae_ (Résumé)
 
 Andrej Brodnik's class, [`vita`](https://ctan.org/pkg/vita), offers a framework for producing
 a _curriculum vitae_.  The class may be customised both for

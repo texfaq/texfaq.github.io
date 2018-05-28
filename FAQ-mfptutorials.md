@@ -34,7 +34,7 @@ Another MetaPost tutorial in English is:
 One in French (listed here because it's clearly enough written
 that even this author understands it),
 [http://pauillac.inria.fr/~cheno/metapost/metapost.pdf]
-by Laurent Ch&eacute;no.
+by Laurent Chéno.
 
 Urs Oswald's tutorial uses Troy Henderson's tool
 ([http://www.tlhiv.org/mppreview]) for testing little bits of

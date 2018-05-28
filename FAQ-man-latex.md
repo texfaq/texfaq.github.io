@@ -25,7 +25,7 @@ Harvey Greenberg's 'Simplified Introduction to LaTeX' was written
 for a lecture course, and is also available on CTAN (in PostScript
 only, unfortunately).
 
-The fourth edition of George Gr&auml;tzer's book ''Math into LaTeX''
+The fourth edition of George Grätzer's book ''Math into LaTeX''
 contains a ''short course'' in LaTeX itself, and that course has
 been made publicly available on CTAN.
 
@@ -70,7 +70,7 @@ appeared as he was writing his book on the subject.
 
 An interesting (and practical) tutorial about what _not_ to do is
 [`l2tabu`](https://ctan.org/pkg/l2tabu), or ''A list of sins of LaTeX 2e users'' by Mark
-Trettin, translated into English by J&uuml;rgen Fenn.  The
+Trettin, translated into English by Jürgen Fenn.  The
 tutorial is available from CTAN as a PDF file (though
 the source is also available).
   (in English, you may browse for sources and other language versions at

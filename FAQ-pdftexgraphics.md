@@ -63,11 +63,11 @@ An alternative solution is to use `purifyeps`, a
 MetaPost'', and can therefore be included directly.  Sadly,
 `purifyeps` doesn't work for all `eps` files.
 
-Good coverage of the problem is to be found in Herbert Vo&szlig;'s
+Good coverage of the problem is to be found in Herbert Voß's
 [PDF support page](http://pstricks.tug.org/main.cgi?file=pdf/pdfoutput),
 which is targeted at the use of [`pstricks`](https://ctan.org/pkg/pstricks) in
 pdfLaTeX, and also covers the [`pstricks`](https://ctan.org/pkg/pstricks)-specific package
 [`pdftricks`](https://ctan.org/pkg/pdftricks).  A recent alternative (not covered in 
-Herbert Vo&szlig;'s page) is [`pdftricks2`](https://ctan.org/pkg/pdftricks2), which offers similar
+Herbert Voß's page) is [`pdftricks2`](https://ctan.org/pkg/pdftricks2), which offers similar
 facilities to [`pdftricks`](https://ctan.org/pkg/pdftricks), but with some useful variations.
 

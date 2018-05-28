@@ -19,7 +19,7 @@ end of the line, but in some circumstances&nbsp;&mdash; such as where
 [hyphenation is suppressed](/FAQ-hyphoff)&nbsp;&mdash; painfully large gaps
 may sometimes be required.
 
-Martin Schr&ouml;der's [`ragged2e`](https://ctan.org/pkg/ragged2e) package offers the best of both
+Martin Schröder's [`ragged2e`](https://ctan.org/pkg/ragged2e) package offers the best of both
 worlds: it provides raggedness which is built on the Plain TeX
 model, but which is easily configurable.  It defines easily-remembered
 command (e.g., `\RaggedRight`) and environment (e.g.,
