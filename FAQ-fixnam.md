@@ -36,24 +36,25 @@ below.  Some of the names are only defined in a subset of the classes
 (and the [`letter`](https://ctan.org/pkg/letter) class has a set of names all of its own);
 the list shows the specialisation of each name, where appropriate.
 
-<table><tbody>
-<tr><td>`\abstractname` </td><td> Abstract</td></tr>
-<tr><td>`\alsoname` </td><td> see also ([`makeidx`](https://ctan.org/pkg/makeidx) package)</td></tr>
-<tr><td>`\appendixname` </td><td> Appendix</td></tr>
-<tr><td>`\bibname` </td><td> Bibliography ([`report`](https://ctan.org/pkg/report),[`book`](https://ctan.org/pkg/book))</td></tr>
-<tr><td>`\ccname` </td><td> cc ([`letter`](https://ctan.org/pkg/letter))</td></tr>
-<tr><td>`\chaptername` </td><td> Chapter ([`report`](https://ctan.org/pkg/report),[`book`](https://ctan.org/pkg/book))</td></tr>
-<tr><td>`\contentsname` </td><td> Contents</td></tr>
-<tr><td>`\enclname` </td><td> encl ([`letter`](https://ctan.org/pkg/letter))</td></tr>
-<tr><td>`\figurename` </td><td> Figure (for captions)</td></tr>
-<tr><td>`\headtoname` </td><td> To ([`letter`](https://ctan.org/pkg/letter))</td></tr>
-<tr><td>`\indexname` </td><td> Index</td></tr>
-<tr><td>`\listfigurename` </td><td> List of Figures</td></tr>
-<tr><td>`\listtablename` </td><td> List of Tables</td></tr>
-<tr><td>`\pagename` </td><td> Page ([`letter`](https://ctan.org/pkg/letter))</td></tr>
-<tr><td>`\partname` </td><td> Part</td></tr>
-<tr><td>`\refname` </td><td> References ([`article`](https://ctan.org/pkg/article))</td></tr>
-<tr><td>`\seename` </td><td> see ([`makeidx`](https://ctan.org/pkg/makeidx) package)</td></tr>
-`\tablename` </td><td> Table (for caption)
-</tbody></table>
+
+ | `\abstractname`  |  Abstract |
+ | ---------------- | ---------- |
+ | `\alsoname`      |  see also ([`makeidx`](https://ctan.org/pkg/makeidx) package) |
+ | `\appendixname`  |  Appendix |
+ | `\bibname`       |  Bibliography ([`report`](https://ctan.org/pkg/report),[`book`](https://ctan.org/pkg/book)) |
+ | `\ccname`        |  cc ([`letter`](https://ctan.org/pkg/letter)) |
+ | `\chaptername`   |  Chapter ([`report`](https://ctan.org/pkg/report),[`book`](https://ctan.org/pkg/book)) |
+ | `\contentsname`  |  Contents |
+ | `\enclname`      |  encl ([`letter`](https://ctan.org/pkg/letter)) |
+ | `\figurename`    |  Figure (for captions) |
+ | `\headtoname`    |  To ([`letter`](https://ctan.org/pkg/letter)) |
+ | `\indexname`     |  Index |
+ | `\listfigurename`|  List of Figures |
+ | `\listtablename` |  List of Tables |
+ | `\pagename`      |  Page ([`letter`](https://ctan.org/pkg/letter)) |
+ | `\partname`      |  Part |
+ | `\refname`       |  References ([`article`](https://ctan.org/pkg/article)) |
+ | `\seename`       |  see ([`makeidx`](https://ctan.org/pkg/makeidx) package) |
+ | `\tablename`     |  Table (for caption)
+
 
