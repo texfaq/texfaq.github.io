@@ -1,0 +1,19 @@
+---
+permalink: /404.html
+---
+<!DOCTYPE html>
+<html>
+<head>
+<title>404 page retry with case-normalised URL</title>
+<script>
+  // lowercase the URL except for /FAQ-
+  var lc = document.location.href.toLowerCase()
+  var newurl=lc.replace('/faq-','/FAQ-')
+  if(newurl !==document.location.href) window.location.replace(newurl);
+</script>
+</head>
+<body>
+  <p>Page not found.</p>
+  <p><a href="/">Try searching the main FAQ index.</a></p>
+</body>
+</html> 
