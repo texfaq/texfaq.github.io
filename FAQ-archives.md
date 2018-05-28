@@ -2,7 +2,7 @@
 title: Repositories of TeX material
 category: installing
 permalink: /FAQ-archives
-date: 2014-06-10
+date: 2018-05-28
 ---
 
 # Repositories of TeX material
@@ -16,7 +16,8 @@ in this FAQ
 is archived at the CTAN sites (see the lists of software at the
 end of each answer).
 
-There are two main CTAN sites (in Germany and the UK),
+The main CTAN site is in Germany
+(originally there were three main hosts, in Germany, UK and USA),
 but users should ordinarily collect material via the 
 [CTAN mirror redirector](http://mirror.ctan.org/)
 (which connects you to a mirror that is in some sense ''near'' to

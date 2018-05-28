@@ -11,6 +11,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Changed
 - Q-MP: Mention LuaTeX integration of MetaPost.
+- Q-archives Germany is now the only CTAN hub.
 
 ## 2018-05-27
 
