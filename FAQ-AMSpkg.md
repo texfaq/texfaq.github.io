@@ -14,7 +14,7 @@ There are two components to the AMS LaTeX packages:
 packages that implements multi-line displayed equations, equation numbering,
 ellipsis dots, matrices, double accents, multi-line subscripts, text strings in
 math environments, and other things) and the
-[AMS document classes](https://ctan.org/pkg/amsmthm) (`amsart`,
+[AMS document classes](https://ctan.org/pkg/amscls) (`amsart`,
 `amsbook`, and `amsproc`, which are comparable to the three basic LaTeX
 classes, and `amsthm`). These components work together to produce output in the
 preferred AMS style. The AMS document classes incorporate `amsthm`, and
