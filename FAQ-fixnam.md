@@ -21,9 +21,9 @@ Changing the canned text is now one of the easiest customisations a
 user can do to LaTeX.
 
 The canned text macros are all of the form
-`\&lsaquo;_thing_&rsaquo;name`, and changing them is simplicity
+`\<thing>name`, and changing them is simplicity
 itself.  Put:
-`\renewcommand{`\&lsaquo;_thing_&rsaquo;name`}{Res minor}`
+`\renewcommand{\<thing>name}{Res minor}`
 in the preamble of your document, and the job is done.
 (However, beware of the [`babel`](https://ctan.org/pkg/babel) package, which requires you to
 use a different mechanism: be sure to check
