@@ -37,8 +37,9 @@ below.  Some of the names are only defined in a subset of the classes
 the list shows the specialisation of each name, where appropriate.
 
 
- | `\abstractname`  |  Abstract |
+ | Command          | Default definition |
  | ---------------- | ---------- |
+ | `\abstractname`  |  Abstract |
  | `\alsoname`      |  see also ([`makeidx`](https://ctan.org/pkg/makeidx) package) |
  | `\appendixname`  |  Appendix |
  | `\bibname`       |  Bibliography ([`report`](https://ctan.org/pkg/report),[`book`](https://ctan.org/pkg/book)) |
@@ -55,6 +56,6 @@ the list shows the specialisation of each name, where appropriate.
  | `\partname`      |  Part |
  | `\refname`       |  References ([`article`](https://ctan.org/pkg/article)) |
  | `\seename`       |  see ([`makeidx`](https://ctan.org/pkg/makeidx) package) |
- | `\tablename`     |  Table (for caption)
+ | `\tablename`     |  Table (for caption) |
 
 
