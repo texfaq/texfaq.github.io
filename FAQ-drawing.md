@@ -71,10 +71,10 @@ of drawing, and setup, here are a few systems you may consider:
     simply want the graphical capabilities, [`pgf`](https://ctan.org/pkg/pgf), together with
     its ''user-oriented'' interface [`tikz`](https://ctan.org/pkg/tikz), may be a good
     bet for you.  While PDF has (in essence) the same graphical
-    capabilities as PostScript, it isn''t programmable; [`pgf`](https://ctan.org/pkg/pgf) provides
+    capabilities as PostScript, it isn't programmable; [`pgf`](https://ctan.org/pkg/pgf) provides
     LaTeX commands that will utilise the graphical capabilities of
     both PostScript and PDF equally.  [`Pgf`](https://ctan.org/pkg/Pgf) has extensive
-    mathematical support, which allows it to rival [`PSTricks`](https://ctan.org/pkg/PSTricks)''
+    mathematical support, which allows it to rival [`PSTricks`](https://ctan.org/pkg/PSTricks)'
     use of the computation engine within PostScript.
     The [`pgf`](https://ctan.org/pkg/pgf) manual is enormous, but a simple introduction which
     allows the user to get a feel for the capabilities of the system, is
@@ -98,9 +98,9 @@ of drawing, and setup, here are a few systems you may consider:
     at the late Eitan Gurari's [`dratex`](https://ctan.org/pkg/dratex): it is just as powerful,
     but is an entirely new implementation which is not as hard on
     memory, is much more readable,
-    as well as in the author's book ''TeX and LaTeX: Drawing and
-    Literate Programming'', which remains available from on-line
-    booksellers.
+    as well as in the author's book
+    ''TeX and LaTeX: Drawing and Literate Programming'',
+    which remains available from on-line booksellers.
 
 In addition, there are several means of generating code for your
 graphics application (`asymptote`, `gnuplot` and

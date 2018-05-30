@@ -50,8 +50,8 @@ name-referencing mechanisms:
 \section{hello}\zlabel{sec:one}
 The section name is: \ztitleref{sec:one}.
 ```
-(One might hope that something of this sort would be the ''way of the
-future'', but things move slowly in the LaTeX world: don't hold
+(One might hope that something of this sort would be the
+''way of the future'', but things move slowly in the LaTeX world: don't hold
 your breath.) 
 
 Each of [`titleref`](https://ctan.org/pkg/titleref), [`byname`](https://ctan.org/pkg/smartref) and [`nameref`](https://ctan.org/pkg/nameref)

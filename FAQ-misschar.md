@@ -24,14 +24,14 @@ Missing character: There is no 3 in font rsfs10!
 ``` 
 (the former demonstrating my TeX's unwillingness to deal in characters
 which have the eighth bit set, while the `rsfs10` example shows that
-TeX will log the actual character in error, if it thinks it''s
+TeX will log the actual character in error, if it thinks it's
 possible).
 
 Somewhat more understandable are the diagnostics you may get from
 [`dvips`](https://ctan.org/pkg/dvips) when using the OT1 and T1 versions of
 fonts that were supplied in Adobe standard encoding:
 ```latex
-dvips: Warning: missing glyph `Delta''
+dvips: Warning: missing glyph `Delta'
 ```
 The process that generates the metrics for using the fonts generates
 an instruction to [`dvips`](https://ctan.org/pkg/dvips) to produce these diagnostics, so

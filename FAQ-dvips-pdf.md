@@ -43,5 +43,5 @@ come.
 
 The problems are also discussed, with practical examples, in Mike
 Shell's [`testflow`](https://ctan.org/pkg/testflow) package, which these FAQs recommend as a
-''[specialised tutorial](/FAQ-tutbitslatex).
+''[specialised tutorial](/FAQ-tutbitslatex)''.
 

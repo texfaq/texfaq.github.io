@@ -1,11 +1,11 @@
 ---
-title: ''Please type a command or say `\end`
+title: ''Please type a command or say `\end`''
 category: errors
 permalink: /FAQ-typend
 date: 2014-06-10
 ---
 
-# ''Please type a command or say `\end`
+# ''Please type a command or say `\end`''
 
 Sometimes, when you are running (La)TeX, it will abruptly stop and
 present you with a prompt (by default, just a `*` character).  Many
@@ -28,7 +28,7 @@ error message about encountering end of file while scanning something.
 
 If the error is indeed because you've forgotten to end your document,
 you can insert the missing text: if you're running Plain TeX, the
-advice, to ''say `\end` is good enough: it will kill the run; if
+advice, to ''say `\end`'' is good enough: it will kill the run; if
 you're running LaTeX, the argument will be necessary:
 `\end{document}`.  
 

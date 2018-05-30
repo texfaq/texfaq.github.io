@@ -10,8 +10,7 @@ date: 2014-06-10
 The AMS publishes a ''Short Math Guide for LaTeX'', which is
 available (in several formats) via
 [http://www.ams.org/tex/amslatex.html](http://www.ams.org/tex/amslatex.html)
-(the ''Additional
-Documentation'' about half-way down the page.
+(the ''Additional Documentation'' about half-way down the page.
 
 Herbert Voß has written an extensive guide to mathematics in
 LaTeX, and a development of it has been 
@@ -68,8 +67,8 @@ and
 In each file, there is a selection of graphics representing an output
 style, and for each style, the code that produces it is shown.
 
-An invaluable step-by-step setup guide for establishing a ''work
-flow'' through your (La)TeX system, so that output appears at the
+An invaluable step-by-step setup guide for establishing a ''work flow''
+through your (La)TeX system, so that output appears at the
 correct size and position on standard-sized paper, and that the print
 quality is satisfactory, is Mike Shell's [`testflow`](https://ctan.org/pkg/testflow).  The
 tutorial consists of a large plain text document, and there is a

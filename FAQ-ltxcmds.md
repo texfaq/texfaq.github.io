@@ -149,12 +149,12 @@ also contains some automatically-converted LaTeX 2.09 documentation.
 And of course, the kernel isn't all of LaTeX: your command may be
 defined in one of LaTeX's class or package files.  For example, we
 find a definition of `\thebibliography` in [`article`](https://ctan.org/pkg/article), but
-there''s no `article.dtx`.  Some such files are generated from
+there's no `article.dtx`.  Some such files are generated from
 parts of the kernel, some from other files in the distribution.  You
 find which by looking at the start of the file: in `article.cls`,
 we find:
 ```latex
-%% This is file `article.cls'',
+%% This is file `article.cls',
 %% generated with the docstrip utility.
 %%
 %% The original source files were:

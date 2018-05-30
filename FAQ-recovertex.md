@@ -11,10 +11,10 @@ The job just can't be done automatically: DVI, PostScript and
 PDF are ''final'' formats, supposedly not susceptible to
 further editing&nbsp;&mdash; information about where things came from has been
 discarded.  So if you've lost your (La)TeX source (or never
-had the source of a document you need to work on) you''ve a serious job
+had the source of a document you need to work on) you've a serious job
 on your hands.  In many circumstances, the best strategy is to retype
 the whole document, but this strategy is to be tempered by
-consideration of the size of the document and the potential typists''
+consideration of the size of the document and the potential typists'
 skills.
 
 If automatic assistance is necessary, it's unlikely that any more than

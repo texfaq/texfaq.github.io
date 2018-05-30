@@ -62,6 +62,6 @@ being an equivalent of `\cleardoublepage`).  One can achieve
 ''special'' effects by putting commands in the optional argument: the
 `\clearemptydoublepage` we're after would be achieved by
 `\cleartooddpage[``\thispagestyle{empty}``]`.  The
-commands will also serve if you want the surreal effect of ''This page
-intentionally left blank'' in the center of an otherwise empty page.
+commands will also serve if you want the surreal effect of
+''This page intentionally left blank'' in the center of an otherwise empty page.
 

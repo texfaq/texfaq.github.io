@@ -34,8 +34,8 @@ again, the box may be left jutting out at the bottom of the page.
 
 Why do neither of these obvious things work?&nbsp;&mdash; Because TeX can't
 really distinguish between infinitely awful things.
-`Samepage` will make any possible break point ''infinitely
-bad'' and boxes don't even offer the option of breaks, but if the
+`Samepage` will make any possible break point
+''infinitely bad'' and boxes don't even offer the option of breaks, but if the
 alternative is the leave an infinitely bad few centimetres of blank
 paper at the bottom of the page, TeX will take the line of least
 resistance and do nothing.

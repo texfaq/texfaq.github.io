@@ -45,8 +45,8 @@ the [`graphicx.tex`](https://ctan.org/pkg/graphics-pln) front-end allow you to l
 [`graphicx`](https://ctan.org/pkg/graphicx), and [Eplain](/FAQ-eplain) allows you to load
 it (using the full LaTeX syntax) direct.
 
-The [`graphics`](https://ctan.org/pkg/graphics) package takes a variety of ''driver
-options''&nbsp;&mdash; package options that select code to generate the
+The [`graphics`](https://ctan.org/pkg/graphics) package takes a variety of
+''driver options''&nbsp;&mdash; package options that select code to generate the
 commands appropriate to the DVI driver in use.  In most cases,
 your (La)TeX distribution will provide a `graphics.cfg` file
 that will select the correct driver for what you're doing (for

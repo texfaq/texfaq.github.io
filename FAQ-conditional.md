@@ -9,8 +9,8 @@ date: 2014-06-10
 
 While LaTeX (or any other TeX-derived package) isn't really like a
 compiler, people regularly want to do compiler-like things using it.
-Common requirements are conditional ''compilation'' and ''block
-comments'', and several LaTeX-specific means to this end are available.
+Common requirements are conditional ''compilation'' and
+''block comments'', and several LaTeX-specific means to this end are available.
 
 The simple `\newcommand{`\gobble`}`[1]`{}` 
 and `\iffalse`` ... ``\fi` aren't really satisfactory (as
@@ -181,8 +181,8 @@ that.
 Another valuable aspect of the problem is covered by the
 [`extract`](https://ctan.org/pkg/extract) package.  The package allows you to produce a
 ''partial copy'' of an existing document: 
-the package was developed to permit production of a ''book of
-examples'' from a set of lecture notes.  The package documentation
+the package was developed to permit production of a
+''book of examples'' from a set of lecture notes.  The package documentation
 shows the following usage:
 ```latex
 \usepackage[

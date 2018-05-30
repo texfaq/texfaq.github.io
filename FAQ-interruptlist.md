@@ -37,8 +37,8 @@ restarting enumerate:
 ```
 
 This is reasonable, in small doses&hellip; Problems (apart from sheer
-verbosity) are getting the level right (''should I use counter
-`enumi`, `enumii`, &hellip;'') and remembering not to
+verbosity) are getting the level right
+(''should I use counter `enumi`, `enumii`, &hellip;'') and remembering not to
 nest the interruptions (i.e., not to have a separate list, that is
 itself interrupted) in the ''commentary text'').
 

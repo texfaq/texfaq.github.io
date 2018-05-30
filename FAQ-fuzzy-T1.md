@@ -20,7 +20,7 @@ In fact, this is the same problem as most others about the
 your previous setup using Type&nbsp;1 versions of the CM fonts, and
 `dvips` has inserted Type&nbsp;3 versions of the EC fonts
 into your document output.  (See 
-''[Adobe font types](/FAQ-adobetypen)
+''[Adobe font types](/FAQ-adobetypen)''
 for details of these font types; also, note that the font
 _encoding_&nbsp;T1
 has nothing directly to do with the font _format_&nbsp;Type&nbsp;1).

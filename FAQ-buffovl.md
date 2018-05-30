@@ -52,8 +52,8 @@ than a given length; so the solution is just to edit the file.
 
 If the problem is a ridiculous preview section, try using
 [`ghostscript`](https://www.ghostscript.com/)
-to reprocess the file, outputting a ''plain
-`eps` file.  (`Ghostscript`s distribution
+to reprocess the file, outputting a ''plain `eps`'' file.
+(`Ghostscript`s distribution
 includes a script `ps2epsi` which will regenerate the preview
 if necessary.)  Users of the shareware program 
 [`gsview`](http://www.ghostgum.com.au/)

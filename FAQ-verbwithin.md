@@ -13,7 +13,7 @@ right&hellip;'', since once the category code has been assigned to a
 character, it doesn't change.  So `\verb` and
 `\begin{verbatim}` have to assume that they are getting the
 first look at the parameter text; if they aren't, TeX has already
-assigned category codes so that the verbatim command doesn''t have a
+assigned category codes so that the verbatim command doesn't have a
 chance.  For example:
 ```latex
 \verb+\error+
@@ -29,8 +29,8 @@ which simply regurgitates its argument, and use it as:
 ```
 the combinartion will not (it will attempt to execute `\error`).
 Other errors one
-may encounter are `\verb` ended by end of line'', or even the
-rather more helpful `\verb` illegal in command argument'.  The
+may encounter are ''`\verb` ended by end of line'', or even the
+rather more helpful ''`\verb` illegal in command argument''.  The
 same sorts of thing happen with `\begin{verbatim}` &hellip;
 `\end{verbatim}`:
 <!-- {% raw %} -->

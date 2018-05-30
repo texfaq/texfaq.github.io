@@ -119,8 +119,8 @@ Users should also consider the possibilities of typesetting
   Belleek is the upshot of Kinch's thoughts on how MetaFont might be used
   in the future: they were published simultaneously as MetaFont source,
   as Type&nbsp;1 fonts, and as TrueType fonts.  The fonts act as ''drop-in''
-  replacements for the basic MathTime set (as an example of ''what might
-  be done'').
+  replacements for the basic MathTime set (as an example of
+  ''what might be done'').
 
   The paper outlining Kinch's thoughts, proceeding from considerations
   of the ''intellectual'' superiority of MetaFont to evaluations of why its
@@ -163,8 +163,8 @@ which describes the fonts by giving names and short examples, only.
 (At the time of writing&nbsp;&mdash; June 2008&nbsp;&mdash; the list has several that
 are only scheduled for inclusion here.
 
-Another useful document is Stephen Hartke's ''Free maths font
-survey'', which is available on CTAN in both PDF and
+Another useful document is Stephen Hartke's ''Free maths font survey'',
+which is available on CTAN in both PDF and
 HTML formats.  The survey covers most of the fonts mentioned in
 the font catalogue, but also mentions some (such as [`Belleek`](https://ctan.org/pkg/Belleek)
 that the catalogue omits.
@@ -247,7 +247,7 @@ commercially, include:
 - Informal Math (7 outline fonts) MicroPress Inc.
 
   Informal Math is a family of fanciful fonts loosely based on the
-  Adobe''s Tekton (TM) family, fonts which imitate handwritten
+  Adobe's Tekton (TM) family, fonts which imitate handwritten
   text.  Informal Math comprises the fonts necessary for
   mathematical typesetting (maths italic, maths symbols and extensions)
   in normal weight, as well as OT1 encoded text fonts in
@@ -261,13 +261,12 @@ commercially, include:
   Kris Holmes
 
   Lucida is a family of related fonts including seriffed, sans serif,
-  sans serif fixed width, calligraphic, blackletter, fax, Kris Holmes''
+  sans serif fixed width, calligraphic, blackletter, fax, Kris Holmes'
   connected handwriting font, etc; they're not as ''spindly'' as
   Computer Modern, with a large x-height, and include a larger set of
   maths symbols, operators, relations and delimiters than CM
   (over 800 instead of 384: among others, it also includes the
-  AMS `msam` and `msbm` symbol sets).  ''Lucida
-  Bright Expert'' 
+  AMS `msam` and `msbm` symbol sets).  ''Lucida Bright Expert'' 
   (14 fonts) adds seriffed fixed width, another handwriting font,
   smallcaps, bold maths, upright ''maths italic'', etc., to the
   set.  Support under LaTeX is available under the auspices of the

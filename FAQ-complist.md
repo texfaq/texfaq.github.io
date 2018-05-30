@@ -51,8 +51,8 @@ compaction:
 -  its `compactenum` environment is the same sort of
     compact list as is provided in [`expdlist`](https://ctan.org/pkg/expdlist) and
     [`mdwlist`](https://ctan.org/pkg/mdwlist); and
--  its `inparaenum` environment produces a list ''in
-    the paragraph'', i.e., with no line break between items, which is a
+-  its `inparaenum` environment produces a list ''in the paragraph'',
+    i.e., with no line break between items, which is a
     great space-saver if the list item texts are short.
 
 The package will manipulate its `enumerate` environment

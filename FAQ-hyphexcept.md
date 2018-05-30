@@ -12,8 +12,8 @@ While TeX's hyphenation rules are good, they're not infallible: you
 will occasionally find words TeX just gets _wrong_.  So for
 example, TeX's default hyphenation rules (for American English) don't
 know the word ''_manuscript_'', and since it's a long word you
-may find you need to hyphenate it.  You _can_ ''write the
-hyphenation out'' each time you use the word:
+may find you need to hyphenate it.  You _can_
+''write the hyphenation out'' each time you use the word:
 ```latex
 ... man\-u\-script ...
 ```
@@ -29,8 +29,8 @@ write:
 \hyphenation{man-u-script}
 ```
 and the hyphenation would be set for the whole document.  Barbara
-Beeton publishes articles containing lists of these ''hyphenation
-exceptions'', in _TUGboat_; the hyphenation ''man-u-script''
+Beeton publishes articles containing lists of these
+''hyphenation exceptions'', in _TUGboat_; the hyphenation ''man-u-script''
 comes from one of those articles.
 
 What if you have more than one language in your document?  Simple:

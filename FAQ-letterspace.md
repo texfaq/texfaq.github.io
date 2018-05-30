@@ -14,8 +14,8 @@ rule, this is a very bad idea: it detracts from legibility, which is
 contrary to the principles of typesetting (any respectable font you
 might be using should already have optimum tracking built into it).
 
-The great type designer, Eric Gill, is credited with saying ''he who
-would letterspace lower-case text, would steal sheep''.  (The
+The great type designer, Eric Gill, is credited with saying
+''he who would letterspace lower-case text, would steal sheep''.  (The
 attribution is probably apocryphal: others are also credited with the
 remark.  Stealing sheep was, in the 19th century, a capital offence in
 Britain.)  As the remark suggests, though, letterspacing of upper-case

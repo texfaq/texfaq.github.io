@@ -39,11 +39,11 @@ which will place the limits as they would be in `\textstyle`.
 
 Alternatively, one can manipulate the
 `\textstyle`/`\displaystyle` state of the mathematics.  To get
-`\limits` placement'' in inline maths,
+''`\limits` placement'' in inline maths,
 ```latex
 $\displaystyle\sum_{n=1}^{m} ...$
 ```
-and for `\nolimits` placement'' in display maths,
+and for ''`\nolimits` placement'' in display maths,
 `\nolimits`:
 ```latex
 \[\textstyle\sum_{n=1}^{m} ...\]

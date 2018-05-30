@@ -102,6 +102,6 @@ the default font itself), may be done using the rather straightforward
 [`varisize`](https://ctan.org/pkg/varisize), which offers font sizes ranging from 7&nbsp;points to
 20&nbsp;points (nominal sizes, all).  Font size commands are generated when
 any of the package files is loaded, so the `11pt.tex` defines a
-command `\elevenpoint`; each of the files ensures there's a ''way
-back'', by defining a `\tenpoint` command.
+command `\elevenpoint`; each of the files ensures there's a ''way back'',
+by defining a `\tenpoint` command.
 

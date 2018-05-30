@@ -37,8 +37,8 @@ defines column specifications `C`, `L`, `R` and
 `J`, giving, respectively, centerd, left, right and
 fully-justified versions of space-sharing columns.  The package
 examines how long each column would be ''naturally'' (i.e., on a piece of paper of unlimited width), and
-allocates space to each column accordingly.  There are ''sanity
-checks'' so that really large entries don't cause everything else to
+allocates space to each column accordingly.  There are
+''sanity checks'' so that really large entries don't cause everything else to
 collapse into nothingness (there's a ''maximum width'' that any column
 can exert), and so that tiny entries can't get smaller than a
 specified minimum.  Of course, all this work means that the package

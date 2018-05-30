@@ -68,8 +68,8 @@ requires that code be processed using an external (`python`)
 script, [`Pygments`](http://pygments.org/).
 `Pygments`, in turn, needs a ''lexer'' that knows the
 language you want to process; lots of these are available, for the
-more commonly-used languages, and there is advice on ''rolling your
-own'' on the 
+more commonly-used languages, and there is advice on
+''rolling your own'' on the 
 [`Pygments`](http://pygments.org/docs/lexerdevelopment/) site</a>
 
 Usage of [`minted`](https://ctan.org/pkg/minted) can be as simple as

@@ -21,8 +21,8 @@ it by using the facilities of the [`custom-bib`](https://ctan.org/pkg/custom-bib
 contains a file `makebst.tex`, which runs you through a text menu
 to produce a file of instructions, which you can then use to generate your
 own `bst` file.  This technique doesn't offer entirely new styles
-of document, but the [`custom-bib`](https://ctan.org/pkg/custom-bib)'s ''master BibTeX
-styles'' already offer significantly more than the BibTeX standard set.
+of document, but the [`custom-bib`](https://ctan.org/pkg/custom-bib)'s
+''master BibTeX styles'' already offer significantly more than the BibTeX standard set.
 
 An alternative, which is increasingly often recommended, to use
 [`biblatex`](/FAQ-biblatex).  [`Biblatex`](https://ctan.org/pkg/Biblatex) offers

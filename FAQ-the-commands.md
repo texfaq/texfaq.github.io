@@ -12,8 +12,8 @@ of behind-the-scenes commands, as well as defining the counter
 itself.
 
 Among other things, `\newcounter{fred}` creates a command
-`\the``_fred_`, which expands to ''the value of
-`_fred_` when you're typesetting.
+`\the``_fred_`, which expands to
+''the value of `_fred_`'' when you're typesetting.
 
 The definition of `\the``_fred_` should express the
 value of the counter: it is almost always always a mistake to use the

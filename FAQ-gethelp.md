@@ -61,8 +61,8 @@ mechanisms are:
     (via [https://tug.org/mailman/listinfo/texhax]) 
     first&nbsp;&mdash; not everyone will answer to you as well as to the list.
 2.  Newsgroup: to ask a question on `comp.text.tex`, you
-    can use your own news client (if you have one), or use the ''+ new
-    post'' button on
+    can use your own news client (if you have one), or use the
+    ''+ new post'' button on
     [http://groups.google.com/group/comp.text.tex].
 3.  Web forum: alternatives are: the 
     [''LaTeX community'' site](http://www.latex-community.org/),

@@ -23,8 +23,8 @@ An interesting LaTeX ''cheat sheet'' is available from CTAN:
 it's a list of (more or less) everything you 'ought to' remember, for
 basic LaTeX use. 
 (It's laid out very compactly for printing on N. American 'letter';
-printed on ISO A4, using Adobe Acrobat's ''shrink to
-fit'', it strains aged eyes&hellip;) 
+printed on ISO A4, using Adobe Acrobat's ''shrink to fit'',
+it strains aged eyes&hellip;) 
 
 For command organised references to LaTeX,  Karl Berry (et
 al)'s 

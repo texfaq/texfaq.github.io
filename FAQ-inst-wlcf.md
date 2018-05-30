@@ -13,8 +13,8 @@ if you knew where that _was_, you didn't need telling, but if you
 _didn't_ know, you were completely stuck.
 
 It was from this issue that the whole idea of the TDS sprang;
-''where to put'' questions now come down to ''where's the TDS
-tree?''.
+''where to put'' questions now come down to
+''where's the TDS tree?''.
 
 We therefore answer the question by considering:
   
