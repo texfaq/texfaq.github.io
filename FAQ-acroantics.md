@@ -24,8 +24,8 @@ to the next:
      Page Scaling (default: ''Fit to printer margins'')&nbsp;&mdash; change to
      ''None'', and
 
-     Scale (default 95
-     ''100
+     Scale (default 95% of Normal size)&nbsp;&mdash; change to
+     ''100%''
 -   Adobe Reader 6:
 
     in the print dialogue, on the ''copies & pages'' pane, you'll find a
