@@ -10,7 +10,7 @@ date: 2014-06-10
 This is far the commonest problem: the symptom is that text in the
 document looks ''fuzzy''.
 
-Most people use `Adobe` `Acrobat` `Reader`
+Most people use _Adobe Acrobat Reader_
 to view their PDF: `Reader` is distributed free of
 charge, and is widely available, for all its faults.  One of those
 faults is its failure to deal with bitmap fonts (at least, in all
@@ -37,7 +37,7 @@ Adobe in the first place&nbsp;&mdash; fonts such as `Times` that
 appear in pretty much every PostScript printer, or such as Adobe
 `Sabon` that you pay extra for&nbsp;&mdash; then there's no problem.
 
-But most people use `Computer` `Modern` to start
+But most people use _Computer Modern_ to start
 with, and even those relative sophisticates who use something as
 exotic as `Sabon` often find themselves using odd characters
 from CM without really intending to do so.  Fortunately, rather

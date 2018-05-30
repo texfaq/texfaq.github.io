@@ -67,7 +67,7 @@ characters in the virtual font; so we can create an ''é'' character
 by recreating the DVI commands that would result from the code
 `\``e`.  However, since this involves two characters being
 selected from a font, the arrangement is sufficient to fool
-`Acrobat` `Reader`: you can't use the program's
+`Acrobat Reader`: you can't use the program's
 facilities for searching for text that contains inflected characters,
 and if you _cut_ text from a window that contains such a
 character, you'll find something unexpected (typically the accent and

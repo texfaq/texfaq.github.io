@@ -7,7 +7,7 @@ date: 2014-06-10
 
 # Characters missing from PDF output
 
-If you're using `Acrobat` `Distiller` to create your
+If you're using _Acrobat Distiller_ to create your
 PDF output, you may find
 characters missing.  This may manifest
 itself as messed-up maths equations (missing

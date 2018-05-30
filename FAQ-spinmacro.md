@@ -31,7 +31,7 @@ spaces are collapsed into one, it ''feels as if'' spaces are ignored if
 they follow another space.  Space can have syntactic meaning after
 certain sorts of non-braced arguments (e.g., _count_ and
 _dimen_ variable assignments in Plain TeX) and after certain
-control words (e.g., in `\hbox` `to`, so again we have instances
+control words (e.g., in `\hbox to`, so again we have instances
 where it ''feels as if'' spaces are being ignored when they're merely
 working quietly for their living.
 

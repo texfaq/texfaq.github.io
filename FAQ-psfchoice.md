@@ -347,7 +347,7 @@ working on them, and several problems have been identified:
   The `pxfonts` set consists of
   
 
-  -  virtual text fonts using `Adobe` `Palatino`
+  -  virtual text fonts using `Adobe Palatino`
       (or its URW replacement, `Palladio`)
       with modified plus, equal and slash symbols;
   -  maths alphabets using `Palatino` (or `Palladio`;
@@ -389,13 +389,13 @@ working on them, and several problems have been identified:
   The `txfonts` set consists of
   
 
-  -  virtual text fonts using `Adobe` `Times` (or
+  -  virtual text fonts using `Adobe Times` (or
       the URW `Nimbus Roman No9 L` font that
       substitutes for Times, which is distributed as part of the
       URW ''basic 35'' collection) with
       modified plus, equal and slash symbols;
   -  matching sets of sans serif and monospace (''typewriter'')
-      fonts (the sans serif set is based on `Adobe` `Helvetica`);
+      fonts (the sans serif set is based on `Adobe Helvetica`);
   -  maths alphabets using Adobe `Times`, or the URW
       equivalent `NimbusRomanNo9`;
   -  maths fonts of all symbols in the computer modern maths fonts

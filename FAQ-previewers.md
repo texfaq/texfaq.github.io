@@ -34,5 +34,5 @@ Alternatives to previewing include
     previewer (see 
     [previewing PostScript files](/FAQ-PSpreview)), and
 -  generating  PDF output, and viewing that with
-    `Acrobat` `Reader` or one of the substitutes for that.
+    _Acrobat Reader_ or one of the substitutes for that.
 

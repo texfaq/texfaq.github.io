@@ -13,7 +13,7 @@ The error
 
 See the LaTeX manual or LaTeX Companion for explanation.
 ```
-appears when you give LaTeX a ` ` command at a time
+appears when you give LaTeX a `\ ` command at a time
 when it's not expecting it; it is a _line-breaking_ command, and
 is confused if LaTeX isn't building a paragraph when you give the
 command.  A common case is where you've decided you want the label of
@@ -53,9 +53,9 @@ in the environment:
   body of the centerd text...
 \end{center}
 ```
-The solution here is plain: use the ` ` command in the way it's
+The solution here is plain: use the `\ ` command in the way it's
 supposed to be used, to provide more than just a single line break
-space.  ` ` takes an optional argument, which specifies
+space.  `\ ` takes an optional argument, which specifies
 how much extra space to add; the required effect in the text above can
 be had by saying:
 ```latex
@@ -73,6 +73,6 @@ You _can_ use `\leavevmode`, as above:
   body of the centerd text...
 \end{center}
 ```
-but that is just as tiresome to type as ` ` with an optional
+but that is just as tiresome to type as `\ ` with an optional
 argument, and can not be recommended.
 

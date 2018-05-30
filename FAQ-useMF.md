@@ -85,7 +85,7 @@ printer you might type
 ```latex
 mf \mode=epson; mag=magstep 1; input cmr10
 ```
-Note that under Unix the ` ` and `;`
+Note that under Unix the `\ ` and `;`
 characters must usually be quoted or escaped, so this would typically
 look something like
 ```latex

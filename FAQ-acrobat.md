@@ -58,7 +58,7 @@ provide pretty reliable distillation (but beware of the problems with
 [`dvips` output for distillation](/FAQ-dvips-pdf)).
 
 For viewing (and printing) the resulting files, Adobe's
-`Acrobat` `Reader` is available for a fair range of
+_Acrobat Reader_ is available for a fair range of
 platforms; for those for which Adobe's reader is unavailable, remotely
 current versions of [`ghostscript`](https://www.ghostscript.com/)
 combined with `gv` or
