@@ -11,11 +11,17 @@ date: 2018-05-28
 The MetaPost system (by John Hobby) implements a picture-drawing language
 very much like that of MetaFont; the difference is that MetaPost outputs
 vector graphic files instead of run-length-encoded bitmaps; output
-formats available are PostScript and SVG.  Around 2007, MetaPost was
+formats available are PostScript and SVG.
+
+Around 2007, MetaPost was
 separated into a frontend program and backend library named MPlib (which
 was then linked into
   [LuaTeX](/FAQ-xetex-luatex))
 by Taco Hoekwater.
+This gives LuaTeX some graphical capabilities and
+forms an alternative to macro based drawing packages such as
+[TikZ and PSTricks](/FAQ-drawing).
+
 
 MetaPost is a powerful language for producing figures for documents to be
 printed on PostScript printers, either directly or embedded in (La)TeX
@@ -33,10 +39,6 @@ Much of MetaPost's source code was copied from MetaFont's sources, with
 Knuth's permission.
 
 
-A version MetaPost, as a library with a Lua interface, is integrated
-with LuaTEX. This gives LuaTeX some graphical capabilities and
-forms an alternative to macro based drawing packages such as
-[TikZ and PSTricks](/FAQ-drawing).
 
 A mailing list discussing MetaPost is available;
   subscribe via the 
