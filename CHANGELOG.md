@@ -7,6 +7,11 @@ https://github.com/uktug/uk-tex-faq/blob/master/ChangeLog
 The format is based on [Keep a
 Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2018-05-30
+
+### Changed
+- Q-isdef: Describe new 2016 behaviour of \@ifundefined
+
 ## 2018-05-28
 
 ### Changed

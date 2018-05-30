@@ -34,13 +34,10 @@ problem when things go wrong.  LaTeX programmers who use the
 technique will typically employ `\@undefined`, adding a single
 level of obscurity.
 
-The `\@ifundefined` mechanism has the unfortunate property of
+The original `\@ifundefined` mechanism had the unfortunate property of
 polluting the name space: each test that turns out undefined adds a
 name to the set TeX is holding, and often all those `\relax`
-names serve no purpose whatever.  Even so (sadly) there are places in
-the code of LaTeX where the existence of the `\relax` is relied
-upon, after the test, so we can't get away from `\@ifundefined`
-altogether.
+names serve no purpose whatever. 
 
 David Kastrup offers the (rather tricky)
 ```latex
@@ -75,13 +72,12 @@ the same thing:
   \message{no command \string\foo}%
 \fi
 ```
-However, after using the LaTeX
+However, after using the original LaTeX
 `\@ifundefined{foo}`&hellip;, the conditionals will detect the
 command as ''existing'' (since it has been `\let` to `\relax`);
 so it is important not to mix mechanisms for detecting the state of a
 command.
 
-Since most distributions nowadays use &epsilon;-TeX as their base executable
-for most packages, these two primitives may be expected appear widely
-in new macro packages.
-
+In the 2016 LaTeX release, the definition of `\@ifundefined` was adapted
+to use the &epsilon;-TeX `\ifcsname` and now tests for a command being undefined or `\relax`
+without the side effect of defining undefined commands to `\relax`.
