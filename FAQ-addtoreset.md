@@ -30,11 +30,11 @@ the counters behave as you want?
 
 The `\newcounter` command uses a LaTeX internal command, and you
 can also use it:
-`addtoreset{new-name}{master}`
+`\@addtoreset{new-name}{master}`
 (but remember that it needs to be between `\makeatletter` and
 `\makeatother`, or in a package of your own).
 
-The [`chngcntr`](https://ctan.org/pkg/chngcntr) package encapsulates the `addtoreset`
+The [`chngcntr`](https://ctan.org/pkg/chngcntr) package encapsulates the `\@addtoreset`
 command into a command `\counterwithin`.  So:
 ```latex
 \counterwithin*{corrollary}{theorem}

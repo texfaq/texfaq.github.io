@@ -28,7 +28,7 @@ various tiresome failure modes, and it requires `\mycommandnostar`
 to take an argument.
 
 The LaTeX kernel does a lot of this, and has its own command,
-`ifstar` (which needs ''internal command protection'', cf.
+`\@ifstar` (which needs ''internal command protection'', cf.
 <!-- {% raw %} -->
 ```latex
 \makeatletter
@@ -45,7 +45,7 @@ The LaTeX kernel does a lot of this, and has its own command,
 (Note that arguments to `\mycommandStar` and `\mycommandNoStar`
 are independent&nbsp;&mdash; either can have their own arguments, unconstrained
 by the technique we're using, unlike the trick described above.)
-The `ifstar` trick is all very well, is fast and efficient, but
+The `\@ifstar` trick is all very well, is fast and efficient, but
 it requires that the definition be 
 [`\makeatletter` protected](/FAQ-atsigns).
 

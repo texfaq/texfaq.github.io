@@ -28,13 +28,13 @@ like that of a `\section`.
 
 If you want to program the change yourself, you'll find that the
 commands (`\section` all the way down to `\subparagraph`) are
-defined in terms of the internal `startsection` command, which
+defined in terms of the internal `\@startsection` command, which
 takes 6&nbsp;arguments.  Before attempting this sort of work, you are well
 advised to read the LaTeX sources (`ltsect.dtx` in the
 LaTeX distribution) and the source of the standard packages
 (`classes.dtx`), or to make use of the 
 [LaTeX Companion](/FAQ-latex-books), which
-discusses the use of `startsection` for this sort of thing.
+discusses the use of `\@startsection` for this sort of thing.
 
 You will note that Lamport didn't go on adding `sub` to the
 names of sectioning commands, when creating commands for the lowest

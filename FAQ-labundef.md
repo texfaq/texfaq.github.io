@@ -16,15 +16,15 @@ A resolved label is simply a command:
 `\r@``&lsaquo;_label-name_&rsaquo;`; determining if the label is set is
 then simply a matter of detecting if the command exists.  The usual
 LaTeX internal way of doing this is to use the command
-`ifundefined`:
-  `ifundefined{r@label-name}{undef-cmds}{def-cmds}`
+`\@ifundefined`:
+  `\@ifundefined{r@label-name}{undef-cmds}{def-cmds}`
 In which, &lsaquo;_label-name_&rsaquo; is exactly what you would use in
 a `\label` command, and the remaining two arguments are command
 sequences to be used if the label is undefined
 (&lsaquo;_undef-cmds_&rsaquo;) or if it is defined
 (&lsaquo;_def-cmds_&rsaquo;).
 
-Note that any command that incorporates `ifundefined` is naturally
+Note that any command that incorporates `\@ifundefined` is naturally
 fragile, so remember to create it with `\DeclareRobustCommand` or to
 use it with `\protect` in a moving argument.
 

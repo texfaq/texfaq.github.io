@@ -37,7 +37,7 @@ The [`chngcntr`](https://ctan.org/pkg/chngcntr) approach doesn't involve much pr
 the enthusiastic LaTeX programmer might choose to try the technique
 that we had to use before the advent of [`chngcntr`](https://ctan.org/pkg/chngcntr).  Each of
 the packages [`removefr`](https://ctan.org/pkg/removefr) and [`remreset`](https://ctan.org/pkg/remreset) defines a
-`removefromreset` command, and having included the package one
+`\@removefromreset` command, and having included the package one
 writes something like:
 ```latex
 \makeatletter
@@ -65,7 +65,7 @@ numbered per chapter, try:
 \renewcommand{\thefigure}{\thechapter.\@arabic\c@figure}
 \makeatother
 ```
-(the command `addtoreset` is a part of LaTeX itself).
+(the command `\@addtoreset` is a part of LaTeX itself).
   ''fragment'' for use within other packages: load by
   `\input{removefr}`)
 

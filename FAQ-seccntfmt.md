@@ -19,9 +19,9 @@ out a few macros.  This answer is for _them_.
 
 The section number is typeset using the
   [LaTeX internal](/FAQ-atsigns)
-`seccntformat` command, which is given the ''name'' (section,
+`\@seccntformat` command, which is given the ''name'' (section,
 subsection, &hellip;) of the heading, as argument.  Ordinarily,
-`seccntformat` 
+`\@seccntformat` 
 merely outputs the section number, and then a `\quad` of space:
 <!-- {% raw %} -->
 ```latex
@@ -42,7 +42,7 @@ simple modification of the command:
 <!-- {% endraw %} -->
 However, many people want to modify section numbers, but not
 subsection numbers, or any of the others.  To do this, one must make
-`seccntformat` switch according to its argument.  The following
+`\@seccntformat` switch according to its argument.  The following
 technique for doing the job is slightly wasteful, but is efficient
 enough for a relatively rare operation:
 <!-- {% raw %} -->

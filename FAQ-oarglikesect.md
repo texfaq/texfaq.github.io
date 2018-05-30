@@ -30,7 +30,7 @@ The requisite trick is to use a macro in the optional argument:
 ```
 <!-- {% endraw %} -->
 LaTeX itself has a trickier (but less readily understandable)
-method, using a macro `dblarg`; inside LaTeX, the example
+method, using a macro `\@dblarg`; inside LaTeX, the example
 above would have been programmed:
 <!-- {% raw %} -->
 ```latex
@@ -40,7 +40,7 @@ above would have been programmed:
 }
 ```
 <!-- {% endraw %} -->
-In that code, `thing` is only ever called with an optional and a
+In that code, `\@thing` is only ever called with an optional and a
 mandatory argument; if the default from the `\newcommand` is
 invoked, a bug in user code has bitten&hellip;
 

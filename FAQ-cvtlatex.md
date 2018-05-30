@@ -46,7 +46,7 @@ long-winded.  Since `#1` is the requisite argument, we have:
   \relax
     ...
 ```
-(`gobble` simply throws away its argument).
+(`\@gobble` simply throws away its argument).
 
 The arguments of a LaTeX command are specified by two optional
 arguments to the defining command: a count of arguments (0&ndash;9: if the

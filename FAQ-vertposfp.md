@@ -17,22 +17,22 @@ layout.
 Float pages use three LaTeX lengths (i.e., TeX skips) to define
 their layout:
 
-- `fptop` defines the distance from the
+- `\@fptop` defines the distance from the
   top of the page to the top of the first float,
-- `fpsep` defines the separation between
+- `\@fpsep` defines the separation between
   floats, and
-- `fpbot` defines the distance from the
+- `\@fpbot` defines the distance from the
   bottom of the last float on the page to the bottom of the page.
 
-(In fact, the output routine places a skip of `fpsep` above each float, so
-the `fptop` skip is always followed by a correction for that.)
+(In fact, the output routine places a skip of `\@fpsep` above each float, so
+the `\@fptop` skip is always followed by a correction for that.)
 
 The LaTeX defaults are:
-  `fptop` = `0pt + 1fil`
+  `\@fptop` = `0pt + 1fil`
 
-  `fpsep` = `8pt + 2fil`
+  `\@fpsep` = `8pt + 2fil`
 
-  `fpbot` = `0pt + 1fil`
+  `\@fpbot` = `0pt + 1fil`
 
 so that the gaps expand to fill the space not occupied by floats, but
 if there is more than one float on the page, the gap between them will

@@ -27,7 +27,7 @@ and `\cmd{blah}`.  This is pretty simple:
 The case where you want to ignore an argument that consists of nothing
 but spaces, rather than something completely empty, is more tricky.
 It's solved in the code fragment [`ifmtarg`](https://ctan.org/pkg/ifmtarg), which defines
-commands `ifmtarg` and `ifnotmtarg`, which examine their
+commands `\@ifmtarg` and `\@ifnotmtarg`, which examine their
 first argument, and select (in opposite directions) their second or
 third argument.  The package's code also appears in the LaTeX
 [`memoir`](https://ctan.org/pkg/memoir) class.

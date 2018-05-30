@@ -47,7 +47,7 @@ barfoo
 ```
 <!-- {% endraw %} -->
 provokes errors like 'File ended while scanning use of
-`xverbatim`, as `\begin{verbatim}` fails to see its
+`\@xverbatim`, as `\begin{verbatim}` fails to see its
 matching `\end{verbatim}`.
 
 This is why the LaTeX book insists that verbatim

@@ -27,7 +27,7 @@ Using a TeX executable of some sort, the simple answer is to try
 (I've rearranged the output there, from the rather confused version
 TeX itself produces.)
 
-So, what about `unexpandable@protect`?:
+So, what about `\@unexpandable@protect`?:
 ```latex
 *\show\@unexpandable@protect
 > \@unexpandable@protect=macro:
