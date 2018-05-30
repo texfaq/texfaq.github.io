@@ -63,7 +63,7 @@ The [`xtab`](https://ctan.org/pkg/xtab) package fixes some infelicities of
 of operating in a single run).
 
 The [`stabular`](https://ctan.org/pkg/stabular) package provides a simple-to-use ''extension to
-`tabular` that allows it to typeset tables that run over
+`tabular`'' that allows it to typeset tables that run over
 the end of a page; it also has usability extensions, but doesn't have
 the head- and footline capabilities of the major packages.
 
