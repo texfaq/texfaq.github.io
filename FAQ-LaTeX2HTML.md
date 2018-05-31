@@ -74,14 +74,14 @@ For today, possible packages are:
   TUGboat 16(2). [CTAN](https://ctan.org/pkg/latex2html)
 
   A mailing list for users may be found via
-  [https://tug.org/mailman/listinfo/latex2html]
+  {TUG](https://tug.org/mailman/listinfo/latex2html)
 
 - `Hevea` a compiled program that supports LaTeX
   only, and uses the font/table technique for equations (indeed its
   entire approach is very similar to `TtH`).  It is written
   in Objective CAML by Luc Maranget.  `Hevea` isn't
   archived on CTAN; details (including download points) are
-  available via [http://pauillac.inria.fr/~maranget/hevea/]
+  available via [INRIA](http://pauillac.inria.fr/~maranget/hevea/)
 
 - `TtH` a compiled program that supports either LaTeX
   or Plain TeX, and uses the font/table technique for representing
