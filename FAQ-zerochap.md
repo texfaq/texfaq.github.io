@@ -14,7 +14,7 @@ before your first `\chapter`.
 What happens is, that the class numbers sections as 
 ''&lsaquo;_chapter no_&rsaquo;.&lsaquo;_section no_&rsaquo;'', and until the first
 `\chapter` has appeared, the chapter number is 0.  (If you
-use`\chapter*`, which doesn't number the chapter it produces, the
+use `\chapter*`, which doesn't number the chapter it produces, the
 problem still arises.)
 
 If you're doing this, it's possible that the [`article`](https://ctan.org/pkg/article) class
