@@ -55,9 +55,10 @@ LaTeX document).
     that allows inclusion of pictures (e.g., with shadow boxes,
     various MS-DOS formats, etc.).  The command for inserting a
     picture at the start of a paragraph is:
-    `\parpic(width,height)(x-off,y-off)[Options][Position]{Picture}`
 
+   `\parpic(width,height)(x-off,y-off)[Options][Position]{Picture}`  
     _Paragraph text_
+    
   All parameters except the _Picture_ are optional.  The picture
   can be positioned left or right, boxed with a rectangle, oval,
   shadowbox, dashed box, and a caption can be given which will be

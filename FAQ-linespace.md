@@ -9,7 +9,7 @@ date: 2014-06-10
 
 A quick and easy way of getting inter-line space for copy-editing is
 to change `\baselinestretch`&nbsp;&mdash; `\linespread{1.2}` (or,
-equivalently `\renewcommand{`\baselinestretch`}{1.2}`) may
+equivalently `\renewcommand{\baselinestretch}{1.2}`) may
 be adequate.  Note that `\baselinestretch` changes don't take
 effect until you select a new font, so make the change in the preamble
 before any font is selected.  Don't try changing `\baselineskip`:
