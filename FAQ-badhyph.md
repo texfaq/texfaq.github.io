@@ -39,8 +39,8 @@ from the hyphenation mechanisms.
 
 For LaTeX users, this is quite an easy task; they select an 8-bit
 font with the package, as in `\usepackage[T1]{fontenc}`, and
-accented-letter commands such as the `\\\`e` in
-`\hyphenation{Ji-m\\\`e-nez}` automatically become the
+accented-letter commands such as the <code>\`e</code> in
+<code>\hyphenation{Ji-m\`e-nez}</code> automatically become the
 single accented character by the time the hyphenation gets to look at
 it.
 
