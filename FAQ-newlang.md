@@ -67,12 +67,12 @@ texconfig hyphen latex
   _not_ for the faint-hearted), you can select a sequence of
   formats and for each one, run: 
 
-  `fmtutil --byfmt &lsaquo;_formatname_&rsaquo;`
+  `fmtutil --byfmt <formatname>`
 
   where _`formatname`_ is something like `latex`,
   or: 
 
-  `fmtutil --byhyphen &lsaquo;_hyphenfile_&rsaquo;`
+  `fmtutil --byhyphen <hyphenfile>`
 
   where _`hyphenfile`_ is the file specifying hyphenation
   to the format&nbsp;&mdash; usually `language.dat`

@@ -73,7 +73,7 @@ more commonly-used languages, and there is advice on
 [`Pygments`](http://pygments.org/docs/lexerdevelopment/) site</a>
 
 Usage of [`minted`](https://ctan.org/pkg/minted) can be as simple as
-  `\begin{minted}{&lsaquo;_language_&rsaquo;}`
+  `\begin{minted}{<language>}`
 
   &hellip;
 

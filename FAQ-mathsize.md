@@ -32,13 +32,13 @@ available in a fixed set of sizes).  You may also want to replace
 LaTeX's ideas altogether, for example by setting maths noticeably
 larger or smaller than its surrounding text.  For this purpose, the
 LaTeX command
-`\DeclareMathSizes{&lsaquo;_tfs_&rsaquo;}{&lsaquo;_ts_&rsaquo;}{&lsaquo;_ss_&rsaquo;}{&lsaquo;_sss_&rsaquo;}`
+`\DeclareMathSizes{<tfs>}{<ts>}{<ss>}{<sss>}`
 may be used (this is the same command that LaTeX itself uses to
 define its own set of sizes).  This establishes (or re-establishes)
 the maths font sizes to be used when the surrounding text font size is
-`&lsaquo;_tfs_&rsaquo;`; (`&lsaquo;_ts_&rsaquo;` being the size used for
-`\textfont`, `&lsaquo;_ss_&rsaquo;` for `\scriptfont` and
-`&lsaquo;_sss_&rsaquo;` for `\scriptscriptfont`).
+`<tfs>`; (`<ts>` being the size used for
+`\textfont`, `<ss>` for `\scriptfont` and
+`<sss>` for `\scriptscriptfont`).
 
 For example, you might want to use a font with a smaller body height
 than Computer Modern, but still prefer CM math to any of the

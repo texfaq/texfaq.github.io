@@ -34,7 +34,7 @@ index file.
 On a MiKTeX system, open the window
   `Start`&rarr;
   `All Programs`&rarr;
-  `MiKTeX &lsaquo;_version_&rsaquo;`&rarr;
+  `MiKTeX <version>`&rarr;
   `Settings`,
 and click on `Refresh FNDB`.
 The job may also be done in a command window, using the command:

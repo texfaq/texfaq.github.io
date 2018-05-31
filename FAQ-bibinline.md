@@ -45,7 +45,7 @@ foot-citations.
 The [`usebib`](https://ctan.org/pkg/usebib) package offers a ''toolbox'', which allows the user
 to place exactly what is needed, in the text (that is, rather than a
 full citation).  The package's command, that does the actual
-typesetting, is `\usebibdata{&lsaquo;_key_&rsaquo;}{&lsaquo;_field_&rsaquo;}`; it
+typesetting, is `\usebibdata{<key>}{<field>}`; it
 typesets the _field_ item from the entry _key_ in the
 bibliography; the user then formats the entry as desired&nbsp;&mdash; obviously
 one could construct one's own bibliography, altogether, from this
