@@ -27,7 +27,7 @@ The MetaFont and MetaPost logos can be set in fonts that LaTeX2e
 knows about (so that they scale with the surrounding text) using the
 [`mflogo`](https://ctan.org/pkg/mflogo) package; but be aware that booby-traps surround the
 use of the Knuthian font for MetaPost (you might get
-  something like ''MET&nbsp&nbsp;&nbsp&nbsp;T'').
+  something like ''META;&nbsp;O&nbsp;T'').
 You needn't despair, however&nbsp;&mdash; most versions of the logo font
 distributed nowadays contain the missing letters, and the author
 himself uses just ''MetaPost''.
