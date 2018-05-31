@@ -47,7 +47,7 @@ For today, possible packages are:
   file generated when you run (La)TeX over your file with
   `tex4ht`s macros included.  As a result, it's pretty
   robust against the macros you include in your document, and it's
-  also pretty fast. [CTAN](https://ctan.org/pkg/tex4ht)
+  also pretty fast. [CTAN](https://ctan.org/pkg/tex4ht).
 
   Configuring and calling `TeX4ht` can be quite complicated,
   Michal Hoftich's `make4ht` system provides an alternative
@@ -71,17 +71,17 @@ For today, possible packages are:
   an illustrious list of co-authors and is also available for Windows
   systems.  Michel Goossens and Janne Saarela published a detailed
   discussion of `LaTeX2HTML`, and how to tailor it, in
-  TUGboat 16(2). [CTAN](https://ctan.org/pkg/latex2html)
+  TUGboat 16(2). [CTAN](https://ctan.org/pkg/latex2html).
 
   A mailing list for users may be found via
-  {TUG](https://tug.org/mailman/listinfo/latex2html)
+  [TUG](https://tug.org/mailman/listinfo/latex2html).
 
 - `Hevea` a compiled program that supports LaTeX
   only, and uses the font/table technique for equations (indeed its
   entire approach is very similar to `TtH`).  It is written
   in Objective CAML by Luc Maranget.  `Hevea` isn't
   archived on CTAN; details (including download points) are
-  available via [INRIA](http://pauillac.inria.fr/~maranget/hevea/)
+  available via [INRIA](http://pauillac.inria.fr/~maranget/hevea/).
 
 - `TtH` a compiled program that supports either LaTeX
   or Plain TeX, and uses the font/table technique for representing
