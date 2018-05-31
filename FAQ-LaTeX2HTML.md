@@ -47,7 +47,7 @@ For today, possible packages are:
   file generated when you run (La)TeX over your file with
   `tex4ht`s macros included.  As a result, it's pretty
   robust against the macros you include in your document, and it's
-  also pretty fast.
+  also pretty fast. [CTAN](https://ctan.org/pkg/tex4ht)
 
   Configuring and calling `TeX4ht` can be quite complicated,
   Michal Hoftich's `make4ht` system provides an alternative
@@ -59,8 +59,10 @@ For today, possible packages are:
   from LaTeX sources. Currently it is distributed from the NIST site, and is not
   in standard TeX distributions.
 
-- `lwarp` by Brian Dunn is a recent TeX to HTNL convertor that uses
-   pdftex to parse the input document.
+- `lwarp` by Brian Dunn is a recent TeX to HTML convertor that uses
+   TeX to parse the input document. Documents may be produced by LaTeX, LuaLaTeX, or XeLaTeX.
+   A texlua script removes the need for system utilities such as make and gawk,
+   and also supports xindy and latexmk. [CTAN](https://ctan.org/pkg/lwarp).
 
 - `LaTeX2HTML` a `Perl` script package that
   supports LaTeX only, and generates mathematics (and other
@@ -69,27 +71,31 @@ For today, possible packages are:
   an illustrious list of co-authors and is also available for Windows
   systems.  Michel Goossens and Janne Saarela published a detailed
   discussion of `LaTeX2HTML`, and how to tailor it, in
-  TUGboat 16(2).
+  TUGboat 16(2). [CTAN](https://ctan.org/pkg/latex2html)
 
   A mailing list for users may be found via
   [https://tug.org/mailman/listinfo/latex2html]
+
 - `Hevea` a compiled program that supports LaTeX
   only, and uses the font/table technique for equations (indeed its
   entire approach is very similar to `TtH`).  It is written
   in Objective CAML by Luc Maranget.  `Hevea` isn't
   archived on CTAN; details (including download points) are
   available via [http://pauillac.inria.fr/~maranget/hevea/]
+
 - `TtH` a compiled program that supports either LaTeX
   or Plain TeX, and uses the font/table technique for representing
   mathematics.  It is written by Ian Hutchinson, using
   `flex`.  The distribution consists of a single C
   source (or a compiled executable), which is easy to install and very
-  fast-running. However te resulting HTML does not really reach
+  fast-running. However the resulting HTML does not really reach
   modern standards, and only very simple mathematics can be converted.
-  - `plasTeX` a Python-based LaTeX document processing
+
+- `plasTeX` a Python-based LaTeX document processing
     framework.  It gives DOM-like access to a LaTeX document, as
     well as the ability to generate mulitple output formats
     (e.g. HTML, DocBook, tBook, etc.).
+
 - `TeXpider` a commercial program from
   [Micropress](/FAQ-commercial), which is
   described on [http://www.micropress-inc.com/webb/wbstart.htm];
