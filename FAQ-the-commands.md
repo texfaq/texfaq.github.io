@@ -39,5 +39,5 @@ arise from the use of the page number in the table of contents (each
 number will have the dashes attached), and `\pageref` references
 will be oddly modified.  In this case, the change of appearance is
 best done by redefining the page style itself, perhaps using
-[package [`fancyhdr`](https://ctan.org/pkg/fancyhdr)](/FAQ-fancyhdr).
+package [`fancyhdr`](https://ctan.org/pkg/fancyhdr)](/FAQ-fancyhdr).
 
