@@ -20,15 +20,16 @@ conducted a survey of the available packages; he recommends:
   figure contents
 \end{floatingfigure}
 ```
-There is a (more or less similar) `floatingtable`
-environment.
+  There is a (more or less similar) `floatingtable`
+  environment.
 
-The tables or figures can be set left or right, or alternating on
-even/odd pages in a double-sided document.
+  The tables or figures can be set left or right, or alternating on
+  even/odd pages in a double-sided document.
 
-The package works with the `multicol` package, but doesn't work well
-in the neighbourhood of list environments (unless you change your
-LaTeX document).
+  The package works with the `multicol` package, but doesn't work well
+  in the neighbourhood of list environments (unless you change your
+  LaTeX document).
+
 - `wrapfig` [`wrapfig`](https://ctan.org/pkg/wrapfig) has syntax:
 ```latex
 \begin{wrapfigure}[height of figure in lines]{l,r,...}[overhang]{width}
@@ -51,7 +52,8 @@ LaTeX document).
     The environments do not work within list environments that end
     before the figure or table has finished, but can be used in a
     parbox or minipage, and in twocolumn format.
-  - `picins` [`Picins`](https://ctan.org/pkg/Picins) is part of a large bundle
+
+- `picins` [`Picins`](https://ctan.org/pkg/Picins) is part of a large bundle
     that allows inclusion of pictures (e.g., with shadow boxes,
     various MS-DOS formats, etc.).  The command for inserting a
     picture at the start of a paragraph is:
