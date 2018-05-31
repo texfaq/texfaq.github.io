@@ -46,7 +46,7 @@ When the macro is executing, the &lsaquo;_stuff to repeat_&rsaquo; gets executed
 &lsaquo;_repetitions_&rsaquo; times; the &lsaquo;_variables_&rsaquo; gives a list of
 variables that can be used in &lsaquo;_stuff_&rsaquo;.  Each variable is a
 composite of a command sequence and how it varies; so a variable
-`\iz``=2+4` sets `\iz` to `2` first time
+`\iz=2+4` sets `\iz` to `2` first time
 around, then `6` and `10` in the next two iterations,
 and so on.  (The variable `\iz` is an integer; variables with other
 initial letters represent different data types.)

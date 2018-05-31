@@ -64,7 +64,7 @@ necessary?''.
   
 
 -  If `\texttt{_your text_}` produces the same result
-    as `\verb``+_your text_+`, then there's no need of
+    as `\verb+_your text_+`, then there's no need of
     `\verb` in the first place.
 -  If you're using `\verb` to typeset a URL or email
     address or the like, then the `\url` command from the

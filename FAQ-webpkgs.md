@@ -27,7 +27,7 @@ now superseded by `noweb` (also by Norman Ramsay) which
 incorporates the lessons learned in implementing spidery WEB,
 and which is a simpler, equally powerful, tool.
 
-`Scheme``WEB`, by John Ramsdell, is a Unix filter that
+`SchemeWEB`, by John Ramsdell, is a Unix filter that
 translates SchemeWEB into LaTeX source or Scheme source.
 
 `APLWEB` is a version of WEB for APL.

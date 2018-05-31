@@ -59,5 +59,5 @@ how limits are displayed, at definition time.
 
 (Note that the macro `\int` normally has `\nolimits` built in to
 its definition.  There is an example in the TeXbook to show how odd
-`\int``\limits` looks when typeset.)
+`\int\limits` looks when typeset.)
 

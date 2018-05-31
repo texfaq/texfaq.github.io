@@ -37,7 +37,7 @@ Which brings us to the reason for that `\terminal`.  TeX can
 `\write` up to 16 streams simultaneously, and that argument to
 `\write` says which is to be used.  Macro packages provide the
 means of allocating streams for your use: Plain TeX provides a macro
-`\newwrite` (used as `\newwrite``\streamname`, which sets
+`\newwrite` (used as `\newwrite\streamname`, which sets
 `\streamname` as the stream number).  In fact, `\terminal` (or
 its equivalent) is the first output stream ever set up (in most macro
 packages): it is never attached to a file, and if TeX is asked to

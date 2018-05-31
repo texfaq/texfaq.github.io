@@ -29,23 +29,23 @@ The commands `\smallskip`, `\medskip` and `\bigskip` exist both
 in Plain TeX and LaTeX, but behave slightly differently: in
 Plain TeX they terminate the current paragraph, but in LaTeX they 
 don't.  The command `\line` is part of picture mode in LaTeX,
-whereas it's defined as `\hbox`` to ``\hsize` in
+whereas it's defined as `\hbox to \hsize` in
 Plain TeX. (There's no equivalent for users of the Plain TeX command in
 LaTeX: an equivalent appears as the internal command `@line`).
 
 Maths setting shows a case where the LaTeX version _is_
 essentially equivalent to the TeX primitive commands: the LaTeX
-`\(`` ... ``\)` does essentially no different to the
+`\( ... \)` does essentially no different to the
 primitive `$ ... $`; except for checking that you're not
 attempting to open a maths environment when you're already in one, or 
 attempting to close one when you're not.
-However, `\[`` ... ``\]` has a more significant
+However, `\[ ... \]` has a more significant
 difference from `$$ ... $$`: the primitive version, used
 in LaTeX, can miss the effect of the class option `fleqn`.
 
 Font handling is, of course, wildly different in Plain TeX and
 LaTeX.  Plain TeX's font loading command
-(`\font``\foo=`&lsaquo;_fontname_&rsaquo;) and its LaTeX equivalent
+(`\font\foo=`&lsaquo;_fontname_&rsaquo;) and its LaTeX equivalent
 (`\newfont`) should be avoided wherever possible.  They are only
 safe in the most trivial contexts, and are potential sources of great
 confusion in many circumstances.   Further discussion of this issue

@@ -58,7 +58,7 @@ assignment&nbsp;&mdash; for example
 \pretolerance=150
 ```
 For both, an ''infinite'' tolerance is represented by the value
-`10``000`, but infinite tolerance is rarely
+`10000`, but infinite tolerance is rarely
 appropriate, since it can lead to very bad line breaks indeed.
 
 `\emergencystretch` is a TeX-internal ''dimen'' register, and can

@@ -13,7 +13,7 @@ Common requirements are conditional ''compilation'' and
 ''block comments'', and several LaTeX-specific means to this end are available.
 
 The simple `\newcommand{`\gobble`}`[1]`{}` 
-and `\iffalse`` ... ``\fi` aren't really satisfactory (as
+and `\iffalse ... \fi` aren't really satisfactory (as
 a general solution) for comments, since the matter being skipped is
 nevertheless scanned by TeX, not always as you would expect.  The
 scanning imposes restrictions on what you're allowed to skip; this may

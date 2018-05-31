@@ -113,7 +113,7 @@ the user's document.  The key to this technique is the separation:
 internally a non-letter is used for macro names, and the user doesn't
 see anything of it, while the status remains ''frozen'' in all the
 definitions created within the class or package.  See 
-[`` and `@` in macro names](/FAQ-atsigns) for
+[`\@` and `@` in macro names](/FAQ-atsigns) for
 more information.
 
 Note that analogous use of technique&nbsp;3 in this example would give us

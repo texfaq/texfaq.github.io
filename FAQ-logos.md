@@ -35,8 +35,8 @@ himself uses just ''MetaPost''.
 A well-designed set of macros is provided by package [`hologo`](https://ctan.org/pkg/hologo),
 which defines a command `\hologo`, which one uses as (for example)
 `\hologo{pdfLaTeX}` for what you might get by typing
-`pdf``\LaTeX`, as well as a capitalised version
-`\Hologo{pdfLaTeX}` for `Pdf``\LaTeX`.
+`pdf\LaTeX`, as well as a capitalised version
+`\Hologo{pdfLaTeX}` for `Pdf\LaTeX`.
 
 The package [`metalogo`](https://ctan.org/pkg/metalogo) deals with a problem of these myriad
 logos, that's often ignored nowadays: the geometry of characters from
@@ -46,8 +46,8 @@ the spacing between the the letters of one of these odd logos (even
 the especially weird mirrored ''E'' in XeTeX).
 
 For those who don't wish to acquire the ''proper'' logos, the canonical
-thing to do is to say `AMS-``\TeX{}`
-for AMSTeX, `Pic``\TeX{}`
-for PicTeX, `Bib``\TeX{}`
+thing to do is to say `AMS-\TeX{}`
+for AMSTeX, `Pic\TeX{}`
+for PicTeX, `Bib\TeX{}`
 for BibTeX, and so on.
 

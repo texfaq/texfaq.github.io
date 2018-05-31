@@ -26,7 +26,7 @@ Many users find all those braces become very tedious very
 quickly, and would really rather not type them all.
 
 An alternative structure, that doesn't violate the design of LaTeX,
-is to say `\fred``\ `&nbsp;&mdash; the `\ ` command is ''self
+is to say `\fred\ `&nbsp;&mdash; the `\ ` command is ''self
 terminating'' (like `\ `) and you don't need braces after
 _it_.  Thus one can reduce to one the number of extra characters
 one needs to type.

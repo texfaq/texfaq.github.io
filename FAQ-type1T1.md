@@ -65,7 +65,7 @@ bases on which the excellence of the TeX system rests.
 since they allow us to map ''bits of DVI file'' to single
 characters in the virtual font; so we can create an ''é'' character
 by recreating the DVI commands that would result from the code
-`\``e`.  However, since this involves two characters being
+`\e`.  However, since this involves two characters being
 selected from a font, the arrangement is sufficient to fool
 `Acrobat Reader`: you can't use the program's
 facilities for searching for text that contains inflected characters,

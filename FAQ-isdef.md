@@ -53,7 +53,7 @@ defines two new primitives:
 
 -  `\ifdefined`, which tests whether a thing is defined (the
     negative of comparing with `\undefined`, as it were), and
--  `\ifcsname` `cmd name``\endcsname`, which does the
+-  `\ifcsname cmd name\endcsname`, which does the
     negative of `\@ifundefined` without the `\relax`-command
     side-effect.
 

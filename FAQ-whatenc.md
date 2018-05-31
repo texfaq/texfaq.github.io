@@ -42,7 +42,7 @@ pages'' (as defined by Microsoft).  These standards and code pages often
 contain characters that may not appear in the TeX system's input
 stream.  Somehow, these characters have to be dealt with&nbsp;&mdash; so
 an input character like ''é'' needs to be interpreted by TeX in
-a way that that at least mimics the way it interprets ``\`e``.  
+a way that that at least mimics the way it interprets `\'e`.  
 
 The TeX output stream is in a somewhat different situation:
 characters in it are to be used to select glyphs from the fonts to be
@@ -64,7 +64,7 @@ interrupted by the `\accent` commands&nbsp;&mdash; see
 [''how does hyphenation work''](/FAQ-hyphen)).
 To take advantage of the diacriticised characters represented in the
 fonts, it is necessary to arrange that whenever the
-command sequence ``\`e`` has been input
+command sequence `\'e` has been input
 (explicitly, or implicitly via the sort of mapping of input mentioned
 above), the character that codes the position of the ''é'' glyph is
 used.

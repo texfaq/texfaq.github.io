@@ -35,13 +35,13 @@ following minimal solution:
 
 If you are a user of `Subversion`, the package [`svn`](https://ctan.org/pkg/svn)
 may be for you.  It has explicit cleverness about dealing with dates:
-`\documentclass``{&lsaquo;_foo_&rsaquo;}`
+`\documentclass{&lsaquo;_foo_&rsaquo;}`
 
 `...`
 
 `\usepackage{svn}`
 
-`\SVNdate`` $Date$`
+`\SVNdate $Date$`
 
 `\author{...}`
 

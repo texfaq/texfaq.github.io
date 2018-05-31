@@ -13,9 +13,9 @@ file or on the terminal.  Three possible ways to print out the
 contents of `\textheight` variable are:
   
 
-1.  `\showthe``\textheight`
-2.  `\message{The text height is `\the``\textheight`}`
-3.  `\typeout{The text height is `\the``\textheight`}`
+1.  `\showthe\textheight`
+2.  `\message{The text height is \the\textheight}`
+3.  `\typeout{The text height is \the\textheight}`
 
 These techniques use the TeX primitives `\the` (which provides
 the value of a variable), `\showthe` (print a variable to the
@@ -26,7 +26,7 @@ LaTeX's general message output mechanism.
 In each case, the variable's value is printed as a number of points.
 
 To typeset the value of `\textheight`, just
-`\the``\textheight` is enough, but a more flexible alternative is
+`\the\textheight` is enough, but a more flexible alternative is
 to use the [`printlen`](https://ctan.org/pkg/printlen) package.  [`Printlen`](https://ctan.org/pkg/Printlen) allows you
 to choose the units in which you print a variable; this is useful,
 given that the most ordinary people don't think in points

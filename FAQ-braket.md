@@ -13,7 +13,7 @@ typesetting capabilities is a means of setting separators in the
 middle of mathematical expressions.  TeX provides primitives called
 `\left` and `\right`, which can be used to modify brackets (of
 whatever sort) around a mathematical expression, as in:
-`\left(`` <expression> ``\right)`&nbsp;&mdash; the size of the
+`\left( <expression> \right)`&nbsp;&mdash; the size of the
 parentheses is matched to the vertical extent of the expression.
 
 However, in all sorts of mathematical enterprises one may find oneself

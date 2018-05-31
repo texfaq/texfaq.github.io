@@ -31,7 +31,7 @@ above should read:
 ```
 <!-- {% endraw %} -->
 With this definition, `\relay{blah}{bleah}` is equivalent to
-`\def``\blah{bleah}`.
+`\def\blah{bleah}`.
 
 Note that the definition of `\relay` omits the braces round the
 ''command name'' in the `\newcommand` it executes.  This is

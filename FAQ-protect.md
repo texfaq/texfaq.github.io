@@ -23,7 +23,7 @@ arguments are normally expanded to their internal structure during the
 process of saving. Sometimes this expansion results in invalid TeX
 code, which shows either during expansion or when the code is
 processed again. Protecting a command, using
-`\protect``\cmd` tells LaTeX to save `\cmd` as
+`\protect\cmd` tells LaTeX to save `\cmd` as
 `\cmd`, without expanding it at all.
 
 So, what is a ''fragile command''?&nbsp;&mdash; it's a command that expands into

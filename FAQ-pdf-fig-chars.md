@@ -39,7 +39,7 @@ letters, while the version in TeX distributions doesn't have those
 letters.  Both versions, as distributed, have the same name.
 
 The simple (''quick and dirty'') solution is to add the command
-  `\pdfinclusioncopyfonts``=1`
+  `\pdfinclusioncopyfonts=1`
 to the preamble of your document.
 
 The ''real'' solution is that one or other font should be renamed.  In

@@ -10,7 +10,7 @@ date: 2014-06-10
 
 The `\footnote` command is fragile, so that simply placing the
 command in `\section`s arguments isn't satisfactory.  Using
-`\protect``\footnote` isn't a good idea either: the arguments of a
+`\protect\footnote` isn't a good idea either: the arguments of a
 section command are used in the table of contents and (more
 dangerously) potentially also in page headers.  While footnotes will
 work in the table of contents, it's generally not thought a ''good thing''

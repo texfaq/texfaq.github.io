@@ -20,7 +20,7 @@ The (La)TeX page maker, when forming a page, takes account of variables
 `\widowpenalty` and `\clubpenalty` (which relates to orphans!).
 These penalties are usually set to the moderate value of `150`; this
 offers mild discouragement of bad breaks.  You can increase the values
-by saying (for example) `\widowpenalty``=500`; however, vertical
+by saying (for example) `\widowpenalty=500`; however, vertical
 lists (such as pages are made of) typically have rather little
 stretchability or shrinkability, so if the page maker has to balance
 the effect of stretching the unstretchable and being penalised, the
@@ -46,7 +46,7 @@ Getting rid of a widow can be more tricky.  Options are
 
 -  If the previous page contains a long paragraph with a short last
     line, it may be possible to set it ''tight'': write
-    `\looseness``=-1` immediately after the last word of the
+    `\looseness=-1` immediately after the last word of the
     paragraph.
 -  If that doesn't work, adjusting the page size, using
     `\enlargethispage{`\baselineskip`}` to ''add a line'' to
@@ -56,7 +56,7 @@ Getting rid of a widow can be more tricky.  Options are
     `\enlargethispage{-`\baselineskip`}` may produce a
     (more-or-less) acceptable ''two-line widow''.
 
-Note that `\looseness``=1` (which should increase the line
+Note that `\looseness=1` (which should increase the line
 length by one) seldom has the right effect&nbsp;&mdash; the looser paragraph
 typically has a one-word final line, which doesn't look much better
 than the original widow.

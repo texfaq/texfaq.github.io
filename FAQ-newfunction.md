@@ -35,7 +35,7 @@ sub- and superscripts in the
 
 The [`amsopn`](https://ctan.org/pkg/amsopn) command `\operatorname` allows you to
 introduce _ad hoc_ operators into your mathematics, so
-  `\[` `\operatorname{foo}``(bar)` `\]`
+  `\[ \operatorname{foo}(bar) \]`
 typesets the same as
 ```latex
 \DeclareMathOperator{\foo}{foo}
