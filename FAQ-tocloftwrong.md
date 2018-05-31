@@ -29,7 +29,7 @@ The same command may be employed in documents typeset with the
 [`memoir`](https://ctan.org/pkg/memoir) package (by the same author as [`tocloft`](https://ctan.org/pkg/tocloft)).
 
 [`Memoir`](https://ctan.org/pkg/Memoir) has another mechanism for the job:
-`\cftsetindents{&lsaquo;_kind_&rsaquo;}{indent}{numwidth}`.  Here
+`\cftsetindents{<kind>}{indent}{numwidth}`.  Here
 _kind_ is `chapter`, `section`, or whatever; the
 _indent_ specifies the ''margin'' before the entry starts; and the
 _width_ is of the box into which the number is typeset (so needs

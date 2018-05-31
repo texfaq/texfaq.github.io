@@ -82,7 +82,7 @@ Plain TeX users only have one option: [`figflow`](https://ctan.org/pkg/figflow) 
 doesn't work in LaTeX).  [`Figflow`](https://ctan.org/pkg/Figflow) only offers flowed
 figures at the start of the paragraph, but it seems perfectly
 functional. Syntax is
-  `\figflow{&lsaquo;_width_&rsaquo;}{&lsaquo;_height_&rsaquo;}{&lsaquo;_figure_&rsaquo;}`
+  `\figflow{<width>}{<height>}{<figure>}`
 (the user is responsible for having the dimensions correct, and for
 ensuring the figure fits on the page).
 

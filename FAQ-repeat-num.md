@@ -41,7 +41,7 @@ TeX `\message` (i.e., on the console output).
 The [`multido`](https://ctan.org/pkg/multido) package is also 'generic' (usable both in
 Plain TeX and LaTeX); it defines a command `\multido` with
 three arguments:
-  `\multido{&lsaquo;_variables_&rsaquo;}{&lsaquo;_repetitions_&rsaquo;}{&lsaquo;_stuff to repeat_&rsaquo;}`
+  `\multido{<variables>}{<repetitions>}{<stuff to repeat>}`
 When the macro is executing, the &lsaquo;_stuff to repeat_&rsaquo; gets executed
 &lsaquo;_repetitions_&rsaquo; times; the &lsaquo;_variables_&rsaquo; gives a list of
 variables that can be used in &lsaquo;_stuff_&rsaquo;.  Each variable is a

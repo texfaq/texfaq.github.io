@@ -64,7 +64,7 @@ but with optional arguments that allow you to adjust the top and
 bottom adjustment.
 
 To adjust every cell in whole tables, the
-`\setcellgapes{&lsaquo;_value_&rsaquo;}` sets the adjustment value (an
+`\setcellgapes{<value>}` sets the adjustment value (an
 optional argument of `t` or `b` restricts
 adjustment to the top or bottom of each cell, respectively).  Having
 issued `\setcellgapes`, the command `\makegapedcells` switches
