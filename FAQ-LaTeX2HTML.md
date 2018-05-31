@@ -98,7 +98,7 @@ For today, possible packages are:
 
 - `TeXpider` a commercial program from
   [Micropress](/FAQ-commercial), which is
-  described on [http://www.micropress-inc.com/webb/wbstart.htm];
+  described on the [Micropress web site](http://www.micropress-inc.com/webb/wbstart.htm);
   it uses bitmaps for equations.
 
 
