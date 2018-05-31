@@ -56,17 +56,17 @@ LaTeX document).
     various MS-DOS formats, etc.).  The command for inserting a
     picture at the start of a paragraph is:
 
-   `\parpic(width,height)(x-off,y-off)[Options][Position]{Picture}`  
+    `\parpic(width,height)(x-off,y-off)[Options][Position]{Picture}`  
     _Paragraph text_
     
-  All parameters except the _Picture_ are optional.  The picture
-  can be positioned left or right, boxed with a rectangle, oval,
-  shadowbox, dashed box, and a caption can be given which will be
-  included in the list of figures.
+    All parameters except the _Picture_ are optional.  The picture
+    can be positioned left or right, boxed with a rectangle, oval,
+    shadowbox, dashed box, and a caption can be given which will be
+    included in the list of figures.
 
-  Unfortunately (for those of us whose understanding of German is not
-  good), the documentation is in German.  Piet van Oostrum has written
-  a summary in English.
+    Unfortunately (for those of us whose understanding of German is not
+    good), the documentation is in German.  Piet van Oostrum has written
+    a summary in English.
 
 All of the above deal insertions at one or other margin; they are able
 to take advantage of the TeX `\parshape` primitive that allows
