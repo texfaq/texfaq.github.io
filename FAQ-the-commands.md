@@ -1,27 +1,27 @@
 ---
-title: Redefining counters' `\the-`commands
+title: Redefining counters' `\the`-commands
 category: misc
 permalink: /FAQ-the-commands
 date: 2014-06-10
 ---
 
-# Redefining counters' `\the-`commands
+# Redefining counters' `\the`-commands
 
 Whenever you request a new LaTeX counter, LaTeX creates a bunch
 of behind-the-scenes commands, as well as defining the counter
 itself.
 
-Among other things, `\newcounter{fred}` creates a command
-`\the``_fred_`, which expands to
-''the value of `_fred_`'' when you're typesetting.
+Among other things, `\newcounter{`_fred_`}` creates a command
+`\the`_fred_, which expands to
+''the value of _fred_'' when you're typesetting.
 
-The definition of `\the``_fred_` should express the
+The definition of `\the`_fred_ should express the
 value of the counter: it is almost always always a mistake to use the
 command to produce anything else.  The value may reasonably be
 expressed as an arabic, a roman or a greek number, as an alphabetic
 expression, or even as a sequence (or pattern of) symbols.  If you
 need a decision process on whether to re-define
-`\the``_fred_`, consider what might happen when you do
+`\the`_fred_, consider what might happen when you do
 so.
 
 So, for example, if you want your section numbers to be terminated by
