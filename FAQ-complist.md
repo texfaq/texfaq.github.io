@@ -13,7 +13,7 @@ parameters for the layout of list (things like `\topsep`,
 `\itemsep` and `\parsep`), but fails to mention that they're set
 automatically within the standard (LaTeX-defined) lists.  This
 happens because each list
-executes a command `\@list``&lsaquo;_depth_&rsaquo;` (the depth
+executes a command `\@list<depth>`` (the depth
 appearing as a lower-case roman numeral); what's more, the top-level
 `\@listi` is usually reset when the font size is changed.  As a
 result, it's rather tricky for 

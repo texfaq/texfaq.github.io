@@ -42,7 +42,7 @@ that uses [`babel`](https://ctan.org/pkg/babel).
 
 Therefore, babel defines a command to enable users to change the
 definitions of the symbolic names, on a per-language basis:
-`\addto``\captions``&lsaquo;_language_&rsaquo;` is the thing
+`\addto\captions<language>` is the thing
 (`&lsaquo;_language_&rsaquo;` being the language option you gave to
 [`babel`](https://ctan.org/pkg/babel) in the first place).  For example:
 <!-- {% raw %} -->

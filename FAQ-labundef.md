@@ -13,7 +13,7 @@ don't actually understand _why_, particularly: it's a transient
 state, and LaTeX deals with it quite well).
 
 A resolved label is simply a command:
-`\r@``&lsaquo;_label-name_&rsaquo;`; determining if the label is set is
+`\r@<label-name>`; determining if the label is set is
 then simply a matter of detecting if the command exists.  The usual
 LaTeX internal way of doing this is to use the command
 `\@ifundefined`:

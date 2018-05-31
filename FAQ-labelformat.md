@@ -10,7 +10,7 @@ date: 2014-06-10
 
 By default, when a label is created, it takes on the appearance of the
 counter labelled, so the label appears as
-`\the``&lsaquo;_counter_&rsaquo;`&nbsp;&mdash; what would be used if you
+`\the<counter>`&nbsp;&mdash; what would be used if you
 asked to typeset the counter in your text.  This isn't always what you
 need: for example, if you have nested enumerated lists with the outer
 numbered and the inner labelled with letters, one might expect to want

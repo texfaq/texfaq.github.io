@@ -38,7 +38,7 @@ like:
 and each subsequent `z` in the text would become a
 yawn. This would be an astoundingly bad idea for most documents, but
 might have special applications.  (Note that, in 
-`\def``  z`, 
+`\def  z`, 
 `z` is no longer interpreted as a letter; the space
 is therefore not necessary&nbsp;&mdash; `\defz` would do; we choose to
 retain the space, for what little clarity we can manage.)
@@ -56,8 +56,8 @@ argument to another command (as, for example, in
 ''[`\verb` in command arguments](/FAQ-verbwithin)'').
 An exemplary case is the [`doc`](https://ctan.org/pkg/doc) package, which processes .dtx
 files using the [`shortvrb`](https://ctan.org/pkg/shortvrb) package to define
-`|&hellip;|` as a shorthand for
-`\verb``|&hellip;|`. But `|` is
+`|`&hellip;`|` as a shorthand for
+`\verb|`&hellip;`|`. But `|` is
 also used in the preambles of tabular environments, so that tables in
 `dtx` files can only have vertical line separation between
 columns by employing special measures of some sort.

@@ -174,7 +174,7 @@ solutions to the problem:
     \section{... \texttt{my\us name}}
     ```
     Such a definition is ''naturally'' robust; the construction
-    ''&lsaquo;_back-tick_&rsaquo;`\&lsaquo;_char_&rsaquo;` may be used for any
+    ''&lsaquo;_back-tick_&rsaquo;`\<char>` may be used for any
     troublesome character (though it's plainly not necessary for things
     like percent signs for which (La)TeX already provides
     robust macros).
