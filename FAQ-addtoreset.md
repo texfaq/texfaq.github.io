@@ -9,7 +9,8 @@ date: 2014-06-10
 # Master and slave counters
 
 It's common to have things numbered ''per chapter'' (for example, in
-the standard [`book`](https://ctan.org/pkg/book) and [`report`](https://ctan.org/pkg/report) classes, figures, tables
+the standard [`book`](https://ctan.org/pkg/book) and
+[`report`](https://ctan.org/pkg/report) classes, figures, tables
 and footnotes are all numbered thus).  The process of resetting is
 done automatically, when the ''master'' counter is stepped (when the
 `\chapter` command that starts chapter &lsaquo;_n_&rsaquo; happens, the
@@ -53,6 +54,11 @@ much any such counter-within-another; if you're not using the
 [`chngcntr`](https://ctan.org/pkg/chngcntr), refer to the answer to 
 [redefining counters' `\the-`commands](/FAQ-the-commands) for
 the necessary techniques.
+
+The 2018 LaTeX release adopted the [`chngcntr`](https://ctan.org/pkg/chngcntr)
+commands into the format, so `\counterwithin` and `\counterwithout`
+are now directly available without requiring a package.
+
 
 Note that the technique doesn't work if the master counter is `page`,
 the number of the current page.  The `page` counter is stepped deep

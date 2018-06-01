@@ -15,7 +15,9 @@ action as that of
 except that footnote numbers don't get ''decorated'' with the chapter
 number, as happens with those other numbers.
 
-The solution is the same: use the [`chngcntr`](https://ctan.org/pkg/chngcntr) package; since the
+The solution is the same (requiring
+the [`chngcntr`](https://ctan.org/pkg/chngcntr) package for LaTeX releases
+prior to 2018); since the
 numbers aren't ''decorated'' you can use the `\counterwithout*`
 variant; the code:
 ```latex
