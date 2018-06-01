@@ -44,6 +44,24 @@ feature a _tiny_ TeX-based wrapper, but once that has handed over to Lua, TeX
 is not involved. Speedata Publisher is particularly well-suited to some areas
 in which TeX is less successful, for example more image-rich documents.
 
+### Lout
+
+[Lout](https://savannah.nongnu.org/projects/lout/) is a batch document
+formatter invented by Jeffrey H. Kingston. It reads a high-level
+description of a document similar in style to LaTeX Lout copies some
+of its formatting algorithms from TeX but uses a high-level functional
+programming language, instead of a macro language as its customisation
+language. Lout has never had the user base of LaTeX, but is still maintained
+and was released around the same time as LaTeX2e in the early 1990's.
+
+
+### troff/nroff/groff
+
+[groff](https://www.gnu.org/software/groff/) The \*roff family of typesetters
+pre-date TeX and influenced its design. They have always been distributed as part
+of Unix and Unix-like systems such as linux. Most notably **man** pages are typeset
+with this system.
+
 ## Historical projects
 
 ### The ANT typesetting system
