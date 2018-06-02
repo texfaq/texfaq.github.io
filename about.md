@@ -18,7 +18,7 @@ from the main index) over time.
 ## Impressum
 
 > Joseph Wright
-> 2, Dowthope End
+> 2, Dowthorpe End
 > Earls Barton
 > Northampton
 > NN6 0NH
