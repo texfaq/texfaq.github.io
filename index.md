@@ -31,8 +31,6 @@ Based on https://github.com/codinfox/codinfox-lanyon/blob/master/blog/category.h
 {%- endif- %}
 {%- endfor -%}
 
-<h1 id="{{ page.title | handleize }}">{{ page.title }}</h1>
-
 <h2 id="question-categories">Question Categories</h2>
 <ul class="categories">
 {%- for ct in cats %}
