@@ -22,5 +22,5 @@ is for you; try it and see.  Otherwise, put a `\chapter` before
 your sections, or do away with section numbering by using
 `\section*` instead.  An alternative way of avoiding numbering is
 discussed in 
-''[unnumbered sections in the table of contents](/FAQ-secnumdep)''.
+''[unnumbered sections in the table of contents](FAQ-secnumdep)''.
 

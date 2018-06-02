@@ -29,7 +29,7 @@ of drawing, and setup, here are a few systems you may consider:
     `\special`s aren't available, the [`eepicemu`](https://ctan.org/pkg/eepic) will do the
     business, far less efficiently.
 -  [`pict2e`](https://ctan.org/pkg/pict2e); this was advertised in 
-    [the LaTeX manual](/FAQ-latex-books), but didn't appear for nearly
+    [the LaTeX manual](FAQ-latex-books), but didn't appear for nearly
     ten years after publication of the book!  It removes all the petty
     restrictions that surround the use of the `picture`
     environment.  It therefore suffers _only_ from the rather
@@ -41,10 +41,10 @@ of drawing, and setup, here are a few systems you may consider:
     by placing dots on the page to give the effect of a line or curve.  While
     this has the potential of great power, it is (of course) much slower
     than any of the other established packages.  What's more, there
-    are problems with its [documentation](/FAQ-docpictex).
+    are problems with its [documentation](FAQ-docpictex).
 -  [`PSTricks`](https://ctan.org/pkg/PSTricks) gives you access to the (considerable) power of
     PostScript via a set of TeX macros, which talk to PostScript using 
-    [`\special` commands](/FAQ-specials).  Since PostScript is itself a
+    [`\special` commands](FAQ-specials).  Since PostScript is itself a
     pretty powerful programming language, many astounding things can in
     principle be achieved using [`PSTricks`](https://ctan.org/pkg/PSTricks) (a wide range of
     contributed packages, ranging from world mapping to lens design
@@ -54,7 +54,7 @@ of drawing, and setup, here are a few systems you may consider:
     a [`Pstricks`](https://ctan.org/pkg/Pstricks) ''driver'' that allow [`Pstricks`](https://ctan.org/pkg/Pstricks) to
     operate under XeTeX.  pdfTeX users may use [`pst-pdf`](https://ctan.org/pkg/pst-pdf),
     which (like [`epstopdf`](https://ctan.org/pkg/epstopdf)&nbsp;&mdash; see 
-    [pdfLaTeX graphics](/FAQ-pdftexgraphics)) generates
+    [pdfLaTeX graphics](FAQ-pdftexgraphics)) generates
     PDF files using an auxiliary program, from [`PSTricks`](https://ctan.org/pkg/PSTricks)
     commands ([`pst-pdf`](https://ctan.org/pkg/pst-pdf) also requires a recent installation of
     the [`preview`](https://ctan.org/pkg/preview) package).
@@ -80,14 +80,14 @@ of drawing, and setup, here are a few systems you may consider:
     allows the user to get a feel for the capabilities of the system, is
     available at [http://cremeronline.com/LaTeX/minimaltikz.pdf]
 -  MetaPost; you liked MetaFont, but never got to grips with font files?
-    Try [MetaPost](/FAQ-MP)&nbsp;&mdash;
+    Try [MetaPost](FAQ-MP)&nbsp;&mdash;
     all the power of MetaFont, but it generates PostScript figures; MetaPost
     is nowadays part of most serious (La)TeX distributions.  Knuth
     uses it for all his work&hellip;
   
 
     Note that you can 
-    [''embed'' MetaPost source in your document](/FAQ-inlgrphapp) (i.e.,
+    [''embed'' MetaPost source in your document](FAQ-inlgrphapp) (i.e.,
     keep it in-line with your LaTeX code).
 -  You liked MetaFont (or MetaPost), but find the language difficult?
     `Mfpic` makes up MetaFont or MetaPost code for you using
@@ -106,5 +106,5 @@ In addition, there are several means of generating code for your
 graphics application (`asymptote`, `gnuplot` and
 MetaPost, at least) in-line in your document, and then have them
 processed in a command spawned from your (La)TeX run.  For details,
-see [question](/FAQ-inlgrphapp).
+see [question](FAQ-inlgrphapp).
 

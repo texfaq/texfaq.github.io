@@ -12,10 +12,10 @@ the following answers aim to cover ''related'' books, with subject
 matter as follows:
   
 
--  [TeX itself and Plain TeX](/FAQ-tex-books)
--  [LaTeX](/FAQ-latex-books)
--  [Books on other TeX-related matters](/FAQ-other-books)
--  [Books on Type](/FAQ-type-books)
+-  [TeX itself and Plain TeX](FAQ-tex-books)
+-  [LaTeX](FAQ-latex-books)
+-  [Books on other TeX-related matters](FAQ-other-books)
+-  [Books on Type](FAQ-type-books)
 
 These lists only cover books in English: notices of new books, or
 warnings that books are now out of print are always welcome.  However,

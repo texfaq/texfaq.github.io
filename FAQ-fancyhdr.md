@@ -22,7 +22,7 @@ simple mechanisms for defining pretty much every head- or footline
 variation you could want; the directory also contains some
 documentation and one or two smaller packages.  [`Fancyhdr`](https://ctan.org/pkg/Fancyhdr) 
 also deals with the tedious behaviour of the standard styles with
-[initial pages](/FAQ-nopageno), by enabling you to define
+[initial pages](FAQ-nopageno), by enabling you to define
 different page styles for initial and for body pages.
 
 While [`fancyhdr`](https://ctan.org/pkg/fancyhdr) will work with [`KOMA-script`](https://ctan.org/pkg/KOMA-script) classes,

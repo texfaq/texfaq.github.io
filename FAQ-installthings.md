@@ -13,14 +13,14 @@ provide a step-by-step approach, starting from the point where you've
 decided what it is that you want to install:
   
 
--  You must [find the file you need](/FAQ-install-find);
+-  You must [find the file you need](FAQ-install-find);
 -  If you are going to install a LaTeX package, you may need to
-    [unpack the distributed files](/FAQ-install-unpack);
+    [unpack the distributed files](FAQ-install-unpack);
 -  It may be necessary to 
-    [generate some documentation to read](/FAQ-install-doc);
+    [generate some documentation to read](FAQ-install-doc);
 -  You need to 
-    [decide where to install the files](/FAQ-install-where);
--  You must now [install the files](/FAQ-inst-wlcf); and
+    [decide where to install the files](FAQ-install-where);
+-  You must now [install the files](FAQ-inst-wlcf); and
     finally
--  You may need to [tidy up](/FAQ-inst-tidy) after the installation.
+-  You may need to [tidy up](FAQ-inst-tidy) after the installation.
 

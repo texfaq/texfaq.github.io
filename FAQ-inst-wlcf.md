@@ -19,8 +19,8 @@ It was from this issue that the whole idea of the TDS sprang;
 We therefore answer the question by considering:
   
 
--  [what tree to use](/FAQ-what-TDS), and
--  [where in the tree to put the files](/FAQ-install-where).
+-  [what tree to use](FAQ-what-TDS), and
+-  [where in the tree to put the files](FAQ-install-where).
 
 Once we know the answer to both questions, and we've created any
 directories that are needed, we simply copy files to their rightful

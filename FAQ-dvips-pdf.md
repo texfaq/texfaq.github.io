@@ -21,17 +21,17 @@ offer solutions to this (and other) problems of bad presentation.
 Issues covered are:
   
 
--  [Wrong type of fonts used](/FAQ-fuzzy-type3), which is
+-  [Wrong type of fonts used](FAQ-fuzzy-type3), which is
     the commonest cause of fuzzy text.
--  [`Ghostscript` too old](/FAQ-fuzzy-gs),
+-  [`Ghostscript` too old](FAQ-fuzzy-gs),
     which can also result in fuzzy text.
--  [Switching to font encoding T1 encoding](/FAQ-fuzzy-T1),
+-  [Switching to font encoding T1 encoding](FAQ-fuzzy-T1),
     which is yet another possible cause of fuzzy text.
 -  Another problem&nbsp;&mdash; missing characters&nbsp;&mdash; arises from an
-    [aged version of `Adobe`&nbsp;`Distiller`](/FAQ-distill-prob).
+    [aged version of `Adobe`&nbsp;`Distiller`](FAQ-distill-prob).
 -  Finally, there's the common confusion that arises from using the
     `dvips` configuration file `-Ppdf`, the 
-    [weird characters](/FAQ-charshift).
+    [weird characters](FAQ-charshift).
 
 It should be noted that `Adobe` 
 `Reader`&nbsp;6 (released in mid-2003, and later versions) does
@@ -43,5 +43,5 @@ come.
 
 The problems are also discussed, with practical examples, in Mike
 Shell's [`testflow`](https://ctan.org/pkg/testflow) package, which these FAQs recommend as a
-''[specialised tutorial](/FAQ-tutbitslatex)''.
+''[specialised tutorial](FAQ-tutbitslatex)''.
 

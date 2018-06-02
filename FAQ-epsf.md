@@ -20,7 +20,7 @@ too literally, you get an error
 after a while; this is because each time `epsf.tex` is loaded, it
 allocates itself a _new_ file-reading handle to check the figure
 for its bounding box, and there just aren't enough of these things
-(see [no room for a new thing](/FAQ-noroom)).
+(see [no room for a new thing](FAQ-noroom)).
 
 The solution is simple&nbsp;&mdash; this is in fact an example of misuse of
 macros; one only need read `epsf.tex` once, so change

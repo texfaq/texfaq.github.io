@@ -46,5 +46,5 @@ Some of the free-standing graphics applications may also be used
 
 In all cases (other than [`asymptote`](https://ctan.org/pkg/asymptote)), these packages require
 that you can 
-[run external programs from within your document](/FAQ-spawnprog).
+[run external programs from within your document](FAQ-spawnprog).
 

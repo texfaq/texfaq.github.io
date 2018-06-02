@@ -31,11 +31,11 @@ connect you to the [`footmisc`](https://ctan.org/pkg/footmisc) directory at some
 mirror.
 
 For details of how to find files at CTAN sites, see
-''[finding (La)TeX files](/FAQ-findfiles)''.
+''[finding (La)TeX files](FAQ-findfiles)''.
 
 The TeX user who has no access to any sort of
 network may buy a copy of the archive as part of the
-[TeX&nbsp;Live distribution](/FAQ-CD); the disc is, necessarily, out
+[TeX&nbsp;Live distribution](FAQ-CD); the disc is, necessarily, out
 of date, but it is likely to be better than what (if anything) came
 with your operating system.
 

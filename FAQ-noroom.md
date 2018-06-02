@@ -16,7 +16,7 @@ are expandable in modern TeX implementations, but size of the
 arrays of ''registers'' is written into the specification as being 256
 (usually); this number may not be changed if you still wish to call
 the result TeX
-(see [testing TeX implementations](/FAQ-triptrap)).
+(see [testing TeX implementations](FAQ-triptrap)).
 
 If you fill up one of these register arrays, you get a TeX error
 message saying
@@ -32,7 +32,7 @@ whose use is ''hidden'' in LaTeX.
 
 Originally the the limit on the number of these registers was 256
 or for `\read` or `\write` objects, just 16. Current LaTeX formats
-are always built with [&epsilon;-TeX](/FAQ-etex) extensions
+are always built with [&epsilon;-TeX](FAQ-etex) extensions
 enabled, which means that there are 32768 registers available for the types
 other than `\read` and `\write`. LuaLaTeX extends this further  with 65536
 registers for most types, 256 `\write` streams but still 16 `\read` streams.

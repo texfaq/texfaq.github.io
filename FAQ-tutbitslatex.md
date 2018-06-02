@@ -14,7 +14,7 @@ available (in several formats) via
 
 Herbert Voß has written an extensive guide to mathematics in
 LaTeX, and a development of it has been 
-[published as a book](/FAQ-latex-books).
+[published as a book](FAQ-latex-books).
 
 Two documents written more than ten years apart about font usage in
 TeX are worth reading: 
@@ -44,7 +44,7 @@ lack of sources.
 
 Stefan Kottwitz manages a web site devoted to the use of the drawing
 packages 
-[PGF and TikZ](/FAQ-drawing), 
+[PGF and TikZ](FAQ-drawing), 
 (TeXample.net)[http://www.texample.net/]
 
 Included is 
@@ -77,7 +77,7 @@ PDF, for each of A4 and ''letter'' paper sizes.  The
 complete kit is available on CTAN (distributed with the
 author's macros for papers submitted for IEEE publications).
 The issues are also covered in a later 
-[FAQ answer](/FAQ-dvips-pdf).
+[FAQ answer](FAQ-dvips-pdf).
 
 
 Some university departments make their local documentation available

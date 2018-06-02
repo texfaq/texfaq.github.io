@@ -8,7 +8,7 @@ date: 2018-05-25
 # Math on the Web
 
 An earlier answer 
-([''converting to HTML''](/FAQ-LaTeX2HTML))
+([''converting to HTML''](FAQ-LaTeX2HTML))
 addresses the issue of converting existing (La)TeX documents for
 viewing on the Web as HTML.
 
@@ -53,9 +53,9 @@ possibilities for good rendering of mathematics on the web.
   alternative, authoring in XML (thus producing documents that are
   immediately Web-friendly, if not ready) and using (La)TeX to typeset
   is also well advanced.  One useful technique is [_transforming_ the
-  XML to LaTeX](/FAQ-SGML2TeX), using an XSLT stylesheet or code for
+  XML to LaTeX](FAQ-SGML2TeX), using an XSLT stylesheet or code for
   an XML library, and then simply using LaTeX; alternatively, one may
-  [typeset direct from the XML source](/FAQ-readML).
+  [typeset direct from the XML source](FAQ-readML).
 
 - Direct
   representation of mathematics MathML is a standard for representing

@@ -13,18 +13,18 @@ almost amounts to an embarrassment of riches of online documentation.
 The following answers attempt to create lists of sources ''by topic''.
 
 First we have introductory manuals, for
-[Plain TeX](/FAQ-man-tex) and [LaTeX](/FAQ-man-latex).
+[Plain TeX](FAQ-man-tex) and [LaTeX](FAQ-man-latex).
 
 Next comes a selection of
-[''specialised'' (La)TeX tutorials](/FAQ-tutbitslatex),
+[''specialised'' (La)TeX tutorials](FAQ-tutbitslatex),
 each of which concentrates on a single LaTeX topic.
 
 A small selection of reference documents (it would be good to have
-more) are listed in an [answer of their own](/FAQ-ref-doc).
+more) are listed in an [answer of their own](FAQ-ref-doc).
 
 Next comes the (somewhat newer) field of 
-[TeX-related WIKIs](/FAQ-doc-wiki).
+[TeX-related WIKIs](FAQ-doc-wiki).
 
 A rather short list gives us a 
-[Typography style tutorial](/FAQ-typo-style).
+[Typography style tutorial](FAQ-typo-style).
 

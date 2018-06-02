@@ -37,7 +37,7 @@ mirror, and &hellip;
 
 Functions carried out by the core archive are:
   
-- Uploads: users may [submit new (or updated) material](/FAQ-uploads)
+- Uploads: users may [submit new (or updated) material](FAQ-uploads)
 - Notifications: Significant changes to the archive are reported via the
   mailing list <ctan-ann@dante.de>
 - Catalogue maintenance

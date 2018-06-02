@@ -70,7 +70,7 @@ personal selection:
   It too provides a shell for the use of TeX and related programs,
   as well as a powerful and well-configured editor.  The editor can
   generate its output in UTF-8 (to some extent), which is
-  useful when working with [XeTeX](/FAQ-xetex) (and other
+  useful when working with [XeTeX](FAQ-xetex) (and other
   ''next-generation'' (La)TeX applications).
 
   Both `emacs` and `vim` are available in versions
@@ -94,10 +94,10 @@ personal selection:
 Atari, Amiga and NeXT users also have nice
 environments. LaTeX users looking for `make`-like
 facilities should review the answer on
-[Makefiles for LaTeX documents](/FAQ-make).
+[Makefiles for LaTeX documents](FAQ-make).
 
 While many (La)TeX-oriented editors can support work on BibTeX
 files, there are many systems that provide specific ''database-like''
 access to your BibTeX files&nbsp;&mdash;
-  see ''[creating a bibliography file](/FAQ-buildbib)''.
+  see ''[creating a bibliography file](FAQ-buildbib)''.
 

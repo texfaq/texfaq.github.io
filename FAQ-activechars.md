@@ -22,7 +22,7 @@ as a macro:
 \def_{\_}
 ```
 which could be characterised as an over-simple answer to 
-[using underscores](/FAQ-underscore).  However, you must be
+[using underscores](FAQ-underscore).  However, you must be
 wary: whereas people expect an active tilde, other active characters
 may be unexpected and interact badly with other macros.  Furthermore,
 by defining an active character, you preclude the character's use for
@@ -53,7 +53,7 @@ duration of a document.  If catcodes are changed for particular
 purposes (the `\verb` command does this), then the altered
 characters will not be interpreted properly when they  appear in the
 argument to another command (as, for example, in
-''[`\verb` in command arguments](/FAQ-verbwithin)'').
+''[`\verb` in command arguments](FAQ-verbwithin)'').
 An exemplary case is the [`doc`](https://ctan.org/pkg/doc) package, which processes .dtx
 files using the [`shortvrb`](https://ctan.org/pkg/shortvrb) package to define
 `|`&hellip;`|` as a shorthand for
@@ -64,7 +64,7 @@ columns by employing special measures of some sort.
 
 Another consequence is that catcode assignments made
 in macros often don't work as expected 
-(see ''[Active characters in command arguments](/FAQ-actinarg)'').
+(see ''[Active characters in command arguments](FAQ-actinarg)'').
 For example, the definition
 <!-- {% raw %} -->
 ```latex

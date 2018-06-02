@@ -10,7 +10,7 @@ date: 2014-06-10
 There are three general routes to PDF output: Adobe's original
 ''distillation'' route (via PostScript output), direct conversion of a
 DVI file, and the use of a direct TeX-like PDF
-generator such as [pdfTeX](/FAQ-pdftex).
+generator such as [pdfTeX](FAQ-pdftex).
 
 For simple documents (with no hyper-references), you can either
   
@@ -24,13 +24,13 @@ For simple documents (with no hyper-references), you can either
 -  process the document with ''vanilla'' LaTeX and generate PDF
     direct from the DVI using `dvipdfm`/`dvipdfmx`; or 
 -  process the document direct to PDF with pdfTeX,
-    [LuaTeX](/FAQ-luatex), or [XeTeX](/FAQ-xetex).
+    [LuaTeX](FAQ-luatex), or [XeTeX](FAQ-xetex).
 
 To translate all the LaTeX cross-referencing into Acrobat
 links, you need a LaTeX package to redefine
 the internal commands.  There are two of these for LaTeX, both
 capable of conforming to the
-[HyperTeX specification](/FAQ-hyper):
+[HyperTeX specification](FAQ-hyper):
 Heiko Oberdiek's [`hyperref`](https://ctan.org/pkg/hyperref), and Michael Mehlich's
 [`hyper`](https://ctan.org/pkg/hyper).  (In practice, almost everyone uses
 [`hyperref`](https://ctan.org/pkg/hyperref); [`hyper`](https://ctan.org/pkg/hyper) hasn't been updated since 2000.)
@@ -45,7 +45,7 @@ PostScript acceptable to Distiller, and
 `dvipdfm` and `dvipdfmx` have `\special` commands of
 their own.
 
-If you use Plain TeX, the [Eplain macros](/FAQ-eplain) can
+If you use Plain TeX, the [Eplain macros](FAQ-eplain) can
 help you create PDF documents with hyper-references.
 It can operate using pdfTeX primitives, or `\special` commands
 for the `dvipdfm`/`dvipdfmx` DVI drivers.
@@ -55,7 +55,7 @@ While there is no free implementation of all of `Adobe`
 functionality, any but the implausibly old versions of
 [`ghostscript`](https://www.ghostscript.com/)
 provide pretty reliable distillation (but beware of the problems with
-[`dvips` output for distillation](/FAQ-dvips-pdf)).
+[`dvips` output for distillation](FAQ-dvips-pdf)).
 
 For viewing (and printing) the resulting files, Adobe's
 _Acrobat Reader_ is available for a fair range of

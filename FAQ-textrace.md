@@ -23,7 +23,7 @@ fonts generated using `TeXtrace` are Péter Szabó's own
 EC/TC font set `tt2001` and Vladimir Volovich's
 CM-Super set, which covers the EC, TC, and the
 Cyrillic LH font sets (for details of both of which sets, see
-[''8-bit'' type 1 fonts](/FAQ-type1T1)).
+[''8-bit'' type 1 fonts](FAQ-type1T1)).
 
 Another system, which arrived slightly later, is 
 [`mftrace`](http://www.cs.uu.nl/~hanwen/mftrace/):

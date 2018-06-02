@@ -9,11 +9,11 @@ date: 2018-05-27
 
 Lamport's last version of LaTeX (LaTeX 2.09, last updated in 1992)
 was superseded in 1994 by a new version (LaTeX2e) provided by
-[the LaTeX team](/FAQ-LaTeX3).
+[the LaTeX team](FAQ-LaTeX3).
 LaTeX2e is now the only readily-available version of
 LaTeX, and draws together several threads of LaTeX development
 from the later days of LaTeX 2.09.  The ''e'' of the name is (in the
-[official logo](/FAQ-logos))
+[official logo](FAQ-logos))
 a single-stroke epsilon
 (&epsilon;, supposedly
 indicative of no more than a small change).
@@ -33,7 +33,7 @@ Development of the LaTeX2e kernel is somewhat limited by the need to retain
 compatibility with a very large ecosystem of third-party packages. However,
 recent developments (such as allowing Unicode input as-standard for documents)
 demonstrate that such change is still possible. Longer-term work is carried out
-by [The LaTeX Project](/FAQ-LaTeX3), with the aim of more substantial
+by [The LaTeX Project](FAQ-LaTeX3), with the aim of more substantial
 improvement to LaTeX.
 
 

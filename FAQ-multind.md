@@ -21,7 +21,7 @@ written to (or read from) the name with the appropriate (`idx` or
 from an old version of the LaTeX 2.09 standard so that it doesn't
 create its own chapter or section heading; you therefore decide what
 names (or sectioning level, even) to use for the indexes, and
-[`\indexname`](/FAQ-fixnam) is completely ignored.
+[`\indexname`](FAQ-fixnam) is completely ignored.
 
 To create a ''general'' and an ''authors'' index, one might write:
 ```latex
@@ -49,7 +49,7 @@ with the package: what you see above is as good as you will
 get&hellip;)
 
 The [`multind`](https://ctan.org/pkg/multind) package doesn't work with the 
-[AMSLaTeX classes](/FAQ-AMSpkg), but the AMS provide a
+[AMSLaTeX classes](FAQ-AMSpkg), but the AMS provide a
 substitute, the [`amsmidx`](https://ctan.org/pkg/amsmidx) package.  You use the
 [`amsmidx`](https://ctan.org/pkg/amsmidx) package pretty much the same as you would
 [`multind`](https://ctan.org/pkg/multind), but if things aren't clear, there _is_
@@ -117,7 +117,7 @@ the documentation.
 
 The [`imakeidx`](https://ctan.org/pkg/imakeidx) package can do a wide range of things (in particular,
 it can run an index-builder&nbsp;&mdash; via 
-[`\write18` commands](/FAQ-spawnprog)&nbsp;&mdash; so as to simplify
+[`\write18` commands](FAQ-spawnprog)&nbsp;&mdash; so as to simplify
 business of making the final copy of a document).  The package can
 also make multiple indexes; it can do the job in the conventional
 ([`multind`](https://ctan.org/pkg/multind)) way, or by using the external

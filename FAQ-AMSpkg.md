@@ -31,7 +31,7 @@ areas.
 These packages were derived from AMSTeX, a TeX macro package based on Plain
 TeX, originally written by Michael Spivak for the American Mathematical Society
 (AMS) during 1983&ndash;1985 and described in the book ''[The Joy of
-TeX](/FAQ-tex-books)''. AMSTeX provides many features for producing more
+TeX](FAQ-tex-books)''. AMSTeX provides many features for producing more
 professional-looking maths formulas with less burden on authors. It pays
 attention to the finer details of sizing and positioning that mathematical
 publishers care about. However, it lacked automatic numbering and

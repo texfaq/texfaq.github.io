@@ -22,12 +22,12 @@ The remainder of this answer, then, is for people who don't use such
 systems.
 
 The font (and related) files appear on CTAN as a set of
-single-entry [TDS trees](/FAQ-tds)&nbsp;&mdash;
+single-entry [TDS trees](FAQ-tds)&nbsp;&mdash;
 `fonts`, `dvips`, `tex` and `doc`.  The `doc`
 subtree really need not be copied (it's really a pair of sample
 files), but copy the other three into your existing Local
 `$TEXMF` tree, and
-[update the filename database](/FAQ-inst-wlcf).
+[update the filename database](FAQ-inst-wlcf).
 
 Now, incorporate the fonts in the set searched by pdfLaTeX,
 `dvips`, `dvipdfm`/`dvipdfmx`, your

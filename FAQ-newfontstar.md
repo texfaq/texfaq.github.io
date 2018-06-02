@@ -39,7 +39,7 @@ source.  The mini-document:
 ```
 gives you ''German low double quotes'' (under the ''a'') in place of
 the grave accent.  This happens because `ecrm1000` is in a
-different [font encoding](/FAQ-whatenc) than LaTeX is
+different [font encoding](FAQ-whatenc) than LaTeX is
 expecting&nbsp;&mdash; if you use the LaTeX [`fontenc`](https://ctan.org/pkg/fontenc) package to
 select the EC fonts, all these tiresome encoding issues are
 solved for you, behind the scenes.
@@ -48,5 +48,5 @@ There does however remain a circumstance when you will be tempted to
 use `\newfont`&nbsp;&mdash; viz., to get a font size that doesn't fall into
 the Knuth standard set of sizes: LaTeX (by default) won't allow you
 to use such a size.  Don't despair: see the answer 
-''[arbitrary font sizes](/FAQ-fontsize)''.
+''[arbitrary font sizes](FAQ-fontsize)''.
 

@@ -10,7 +10,7 @@ date: 2014-06-10
 
 LaTeX command definition is significantly different from the TeX
 primitive form discussed in an 
-[earlier question](/FAQ-hash) about definitions within
+[earlier question](FAQ-hash) about definitions within
 macros.
 
 In most ways, the LaTeX situation is simpler (at least in part

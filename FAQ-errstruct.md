@@ -29,7 +29,7 @@ LaTeX class or package).
 
 The context of the error is a stylised representation of what TeX
 was doing at the point that it detected the error.  As noted in
-[approaching errors](/FAQ-erroradvice), a macro package
+[approaching errors](FAQ-erroradvice), a macro package
 can tell TeX how much context to display, and the user may need to
 undo what the package has done.  Each line of context is split at the
 point of the error; if the error _actually_ occurred in a macro

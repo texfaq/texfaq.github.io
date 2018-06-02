@@ -38,7 +38,7 @@ also problematical: they are inevitably before
 
 Unfortunately, modern editors are capable of putting things there, and
 preventing you from seeing them.  This can happen when your document
-is being ''written'' in [Unicode](/FAQ-unicode).  The Unicode
+is being ''written'' in [Unicode](FAQ-unicode).  The Unicode
 standard defines ''Byte Order Marks'' (BOM), that reassure a
 program (that reads the document) of the way the Unicode codes are
 laid out.  Sadly ordinary LaTeX or pdfLaTeX choke on

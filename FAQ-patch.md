@@ -138,7 +138,7 @@ Finally, we'll briefly consider a package that is (just about)
 usable, but not really recommendable.  [`Patch`](https://ctan.org/pkg/Patch) gives you an
 ingenious (and difficult to understand) mechanism, and comes as an
 old-style LaTeX documented macro file, which can no longer be
-processed to [produce formatted documentation, etc.](/FAQ-install-doc).
+processed to [produce formatted documentation, etc.](FAQ-install-doc).
 Fortunately, the file (`patch.doc`) may be input directly, and
 ''documentation'' may found by reading the source of the package.
 Roughly speaking, one gives the command a set of instructions

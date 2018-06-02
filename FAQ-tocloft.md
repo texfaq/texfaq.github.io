@@ -10,7 +10,7 @@ date: 2014-06-10
 
 The formats of entries in the table of contents (TOC) are
 controlled by a number of internal commands (discussed in section&nbsp;2.3
-of [_The LaTeX Companion_](/FAQ-latex-books).  The commands
+of [_The LaTeX Companion_](FAQ-latex-books).  The commands
 `\@pnumwidth`, `\@tocrmarg` and `\@dotsep` control the space
 for page numbers, the indentation of the right-hand margin, and the
 separation of the dots in the dotted leaders, respectively.  The

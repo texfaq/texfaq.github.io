@@ -20,7 +20,7 @@ that your audience will use `Acrobat Reader`, the facility
 provides that extra ''shine'' that business users so love.
 
 Overstriking for 
-[cancellation in maths expressions](/FAQ-cancellation) is achieved
+[cancellation in maths expressions](FAQ-cancellation) is achieved
 by a different mechanism.
 
 Documentation of [`ulem`](https://ctan.org/pkg/ulem) is in the package file.

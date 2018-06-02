@@ -21,7 +21,7 @@ important parameters (such as page, figure, table and footnote
 numbers).  As a direct result, it _must_ clear the current page
 both before and after the `\include` command.  (The requirement
 derives from the difficulties of 
-  [observing page numbers](/FAQ-wrongpn).)
+  [observing page numbers](FAQ-wrongpn).)
 What's more, this mechanism doesn't work if a `\include` command
 appears in a file that was `\include`d itself: LaTeX diagnoses
 this as an error.

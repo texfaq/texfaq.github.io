@@ -14,7 +14,7 @@ The warning:
 ```
 arises because of duplicate page numbers in your document.  The
 problem is usually soluble: see 
-[PDF page destinations](/FAQ-pdfpagelabels)&nbsp;&mdash; which
+[PDF page destinations](FAQ-pdfpagelabels)&nbsp;&mdash; which
 answer also describes the problem in more detail.
 
 If the identifier in the message is different, for example
@@ -55,5 +55,5 @@ loaded after hyperref: one such is [`memoir`](https://ctan.org/pkg/memoir)'s
 ''[`hyperref`](https://ctan.org/pkg/hyperref) fixup'' package [`memhfixc`](https://ctan.org/pkg/memhfixc).)
 
 If loading your packages in the (seemingly) ''correct'' order doesn't
-solve the problem, you need to [seek further help](/FAQ-gethelp).
+solve the problem, you need to [seek further help](FAQ-gethelp).
 

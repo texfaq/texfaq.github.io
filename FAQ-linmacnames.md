@@ -15,7 +15,7 @@ containing non-letters, such as
 ```
 fail to compile.  The reason is that the TeX macro language, unlike
 most programming languages, allows 
-[nothing but letters in macro names](/FAQ-whatmacros).
+[nothing but letters in macro names](FAQ-whatmacros).
 
 There are a number of techniques for defining a macro with a name like
 `\cul8r`.  Unfortunately, none of the techniques is particularly
@@ -113,7 +113,7 @@ the user's document.  The key to this technique is the separation:
 internally a non-letter is used for macro names, and the user doesn't
 see anything of it, while the status remains ''frozen'' in all the
 definitions created within the class or package.  See 
-[`\@` and `@` in macro names](/FAQ-atsigns) for
+[`\@` and `@` in macro names](FAQ-atsigns) for
 more information.
 
 Note that analogous use of technique&nbsp;3 in this example would give us

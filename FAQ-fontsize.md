@@ -10,7 +10,7 @@ date: 2014-06-10
 
 Almost all fonts, nowadays, are provided with LaTeX control
 (`fd`) files, so the temptation to risk the
-[problems of `\newfont`](/FAQ-newfontstar) is usually easy to
+[problems of `\newfont`](FAQ-newfontstar) is usually easy to
 resist.
 
 However, one temptation remains, arising from the way that LaTeX
@@ -53,7 +53,7 @@ available in 8-point design size) are certainly missing.  If
 packages, or the [`anyfontsize`](https://ctan.org/pkg/anyfontsize) package.
 
 A further alternative might be to switch to the
-[_Latin Modern_ fonts](/FAQ-uselmfonts) (which
+[_Latin Modern_ fonts](FAQ-uselmfonts) (which
 provide a close simulacrum of the _Computer Modern_ set);
 these fonts were scaleable from their first
 distribution, and don't therefore need any such trick as the above.

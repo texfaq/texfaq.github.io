@@ -32,7 +32,7 @@ Text set using nonstdfont italic...
 ```
 This is all very elementary stuff, and serves for simple use of fonts.
 However, there are wrinkles, the most important of which is the matter
-of [font encodings](/FAQ-whatenc).  One almost never sees new fonts
+of [font encodings](FAQ-whatenc).  One almost never sees new fonts
 that use Knuth's eccentric font encodings&nbsp;&mdash; but those encodings are
 built into Plain TeX, so that some macros of Plain TeX need to be
 changed to use the fonts.  LaTeX gets around all these problems by
@@ -41,7 +41,7 @@ for 'new', as opposed to what LaTeX 2.09 had) carries around with it
 separate information about the fonts you use, so the changes to
 encoding-specific commands happen automagically.
 
-If you only want to use the [EC fonts](/FAQ-ECfonts), you
+If you only want to use the [EC fonts](FAQ-ECfonts), you
 can in principle use the [`ec-plain`](https://ctan.org/pkg/ec-plain) bundle, which gives you a version
 of Plain TeX which you can run in the same way that you run
 Plain TeX using the original CM fonts, by invoking
@@ -80,10 +80,10 @@ alternatives, and can select more than one encoding: as well as
 T1 it covers the encoding IL2, which is favoured in the
 Czech Republic and Slovakia.  [`Ofs`](https://ctan.org/pkg/Ofs) also covers mathematical fonts,
 allowing you the dubious pleasure of using fonts such as the 
-[`pxfonts` and `txfonts`](/FAQ-psfchoice).
+[`pxfonts` and `txfonts`](FAQ-psfchoice).
 
 The [`pdcmac`](https://ctan.org/pkg/pdcmac) Plain TeX macro package aims to be a complete
-document preparation environment, like [Eplain](/FAQ-eplain).  One
+document preparation environment, like [Eplain](FAQ-eplain).  One
 of its components is a font selection scheme, [`pdcfsel`](https://ctan.org/pkg/pdcmac), which
 is rather simple but adequately powerful for many uses.  The package
 doesn't preload fonts: the user is required to declare the fonts the

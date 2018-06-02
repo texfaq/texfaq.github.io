@@ -78,7 +78,7 @@ The simplest route is to use `\sloppy` (or its environment version
 be underfull lines to fill the space offered, while prematurely
 wrapping overfull lines and stretching the remainder.  
 
-The better bet is to set the text [ragged right](/FAQ-ragright),
+The better bet is to set the text [ragged right](FAQ-ragright),
 and at least get rid of the overfull lines; this technique is
 ''traditional'' (in the sense that typists have always done it) and may
 be expected to 

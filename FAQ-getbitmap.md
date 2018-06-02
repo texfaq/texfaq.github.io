@@ -31,7 +31,7 @@ fonts as needed, and cache them for later re-use.  The impatient
 user, who is determined that all bitmap fonts should be created once
 and for all, may be supported by scripts such as `allcm`
 (distributed with TeX&nbsp;Live, at least; otherwise such a
-person should consult ''[the use of MetaFont](/FAQ-useMF))''.
+person should consult ''[the use of MetaFont](FAQ-useMF))''.
 
 If your output is to a PostScript-capable device, or if your output is
 destined to be converted to PDF, you should switch to
@@ -48,11 +48,11 @@ is for some reason absolutely unavoidable.  In recent years, several
 other ''MetaFont'' fonts have been converted to Type&nbsp;1 format; it's
 uncommon ever to need to generate bitmap fonts for any purpose other
 than previewing&nbsp;&mdash; see 
-[''previewing documents with Type&nbsp;1 fonts''](/FAQ-PSpreview)&nbsp;&mdash;
+[''previewing documents with Type&nbsp;1 fonts''](FAQ-PSpreview)&nbsp;&mdash;
 if even then.
 
 More modern fonts may be used in place of the Computer Modern set.  The
-[EC fonts](/FAQ-ECfonts) and the 
-[Latin Modern fonts](/FAQ-uselmfonts) are both close relatives with
+[EC fonts](FAQ-ECfonts) and the 
+[Latin Modern fonts](FAQ-uselmfonts) are both close relatives with
 wider ranges of glyphs to offer.
 

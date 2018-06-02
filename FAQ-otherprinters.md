@@ -17,7 +17,7 @@ through PostScript, and with
 huge range of printer drivers) there is now little demand for new
 printer driver development.
 
-Thus, it is reasonable to [generate PostScript](/FAQ-dvips), and
+Thus, it is reasonable to [generate PostScript](FAQ-dvips), and
 use [`ghostscript`](https://www.ghostscript.com/) to send
 the resulting PostScript output to the printer you actually have.
 

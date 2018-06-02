@@ -17,8 +17,8 @@ sophistication.  Some details of LaTeX commands for the job are to
 be found in ''LaTeX2e for class and package writers''
 (`clsguide`, part of the LaTeX documentation distribution).
 Beyond this, a good knowledge of TeX itself is valuable: thus books
-such as the [TeXbook](/FAQ-tex-books) or 
-[TeX by topic](/FAQ-ol-books) are relevant.  With good TeX
+such as the [TeXbook](FAQ-tex-books) or 
+[TeX by topic](FAQ-ol-books) are relevant.  With good TeX
 knowledge it is possible to use the documented source of LaTeX as
 reference material (dedicated authors will acquaint themselves with the
 source as a matter of course).  A complete set of the documented
@@ -28,7 +28,7 @@ noticeably tedious, but Heiko Oberdiek has prepared a well-linked
 PDF version, which is in the file `base.tds.zip` of his
 `latex-tds` distribution.  Individual files in the LaTeX
 distribution may be processed separately with LaTeX, like any
-well-constructed [`dtx` file](/FAQ-dtx).
+well-constructed [`dtx` file](FAQ-dtx).
 
 Writing good classes is not easy; it's a good idea to read some
 established ones (`classes.dtx`, for example, is the documented

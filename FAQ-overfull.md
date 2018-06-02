@@ -13,7 +13,7 @@ algorithm, but gives it different parameters.  You can affect the way
 TeX's line breaking works by adjusting the parameters: this answer
 deals with the ''tolerance'' and stretchability parameters.  The other
 vital ''parameter'' is the set of hyphenations to be applied: see
-''[my words aren't being hyphenated](/FAQ-nohyph)''
+''[my words aren't being hyphenated](FAQ-nohyph)''
 (and the questions it references) for advice.
 
 If you're getting an undesired ''overfull box'', what has happened is
@@ -92,7 +92,7 @@ to make small changes to `\tolerance`, incrementally, and then to look to
 see how the change affects the result; very small increases can often
 do what's necessary.  Remember that `\tolerance` is a paragraph
 parameter, so you need to ensure it's actually applied&nbsp;&mdash; see
-''[ignoring paragraph parameters](/FAQ-paraparam)''.
+''[ignoring paragraph parameters](FAQ-paraparam)''.
 LaTeX users could use an environment like:
 <!-- {% raw %} -->
 ```latex

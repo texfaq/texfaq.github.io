@@ -8,7 +8,7 @@ date: 2014-06-10
 # How to ask a question
 
 You want help from the community at large; you've decided where you're
-going to [ask your question](/FAQ-gethelp), but how do you
+going to [ask your question](FAQ-gethelp), but how do you
 phrase it?
 
 Excellent ''general'' advice (how to ask questions of anyone) is
@@ -56,8 +56,8 @@ application of your own common sense.
     the `elephant in the `minicar directory, and it
     didn't work, even after refreshing the filename database''.
 -  If something's going wrong within (La)TeX, pretend you're
-    [submitting a LaTeX bug report](/FAQ-latexbug),
-    and try to generate a [minimum failing example](/FAQ-minxampl).
+    [submitting a LaTeX bug report](FAQ-latexbug),
+    and try to generate a [minimum failing example](FAQ-minxampl).
     If your example 
     needs your local `xyzthesis` class, or some other resource
     not generally available, be sure to include a pointer to how the

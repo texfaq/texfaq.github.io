@@ -44,6 +44,6 @@ which gives you a second footnote mark reference the the footnote.
 
 The commands could be used by one determined not to use
 [`changepage`](https://ctan.org/pkg/changepage) to determine whether 
-[the current page is odd](/FAQ-oddpage), but it's probably no more
+[the current page is odd](FAQ-oddpage), but it's probably no more
 trouble to use the fully-developed tool in this case.
 

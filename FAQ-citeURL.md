@@ -24,7 +24,7 @@ available to users of today's tools.
 Until the new version of BibTeX arrives, the simplest technique is
 to use the `howpublished` field of the standard styles' `@misc`
 function.  Of course, the strictures
-about [typesetting URLs](/FAQ-setURL) still apply, so the
+about [typesetting URLs](FAQ-setURL) still apply, so the
 entry will look like:
 ```latex
 @misc{...,
@@ -44,7 +44,7 @@ Candidates are:
     entries along the way.  The same author's [`custom-bib`](https://ctan.org/pkg/custom-bib) is
     also capable of generating styles that honour URL entries.
 -  The [`babelbib`](https://ctan.org/pkg/babelbib) bundle, which offers 
-    [multilingual bibliographies](/FAQ-i18nbib), similarly provides a
+    [multilingual bibliographies](FAQ-i18nbib), similarly provides a
     set of standard-style equivalents that have URL entries.
 -  More modern styles such as the [`harvard`](https://ctan.org/pkg/harvard) package (if the
     citation styles are otherwise satisfactory for you).

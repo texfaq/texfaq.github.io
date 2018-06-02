@@ -10,7 +10,7 @@ date: 2014-06-10
 
 LaTeX uses symbolic names for many of the automatically-generated
 text it produces (special-purpose section headings, captions, etc.).
-As noted in [''LaTeX fixed names''](/FAQ-fixnam) (which
+As noted in [''LaTeX fixed names''](FAQ-fixnam) (which
 includes a list of the names themselves),
 this enables the user to change the
 names used by the standard classes, which is particularly useful if

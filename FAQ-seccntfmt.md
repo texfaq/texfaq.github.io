@@ -11,14 +11,14 @@ date: 2014-06-10
 The general issues of adjusting the appearance of section headings are
 pretty complex, and are covered in 
 the question on
-[the style of section headings](/FAQ-secthead).
+[the style of section headings](FAQ-secthead).
 
 However, people regularly want merely to change the way the section
 number appears in the heading, and some such people don't mind writing
 out a few macros.  This answer is for _them_.
 
 The section number is typeset using the
-  [LaTeX internal](/FAQ-atsigns)
+  [LaTeX internal](FAQ-atsigns)
 `\@seccntformat` command, which is given the ''name'' (section,
 subsection, &hellip;) of the heading, as argument.  Ordinarily,
 `\@seccntformat` 
@@ -62,7 +62,7 @@ section number, but it could be used to put anything after it:
 \newcommand*{\adddot@section}{.}
 ```
 Note that all the command definitions above are dealing in
-[LaTeX internal commands](/FAQ-atsigns), so the above
+[LaTeX internal commands](FAQ-atsigns), so the above
 code should be in a package file, for preference.
 
 The [`Koma-script`](https://ctan.org/pkg/Koma-script) classes have different commands for specifying

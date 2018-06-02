@@ -17,7 +17,7 @@ penalties for all sorts of page-break situations; but in many
 situations where you want to prevent a page break,
 `samepage` doesn't help.  If you're trying to keep running
 text together, you need to end the paragraph inside the environment
-(see [preserving paragraph parameters](/FAQ-paraparam)).
+(see [preserving paragraph parameters](FAQ-paraparam)).
 Also, if the things you are trying to keep together insert their own
 pagebreak hints, `samepage` has no power over them (though
 list items' attempts&nbsp;&mdash; they suggest page breaks between items&nbsp;&mdash;
@@ -79,7 +79,7 @@ Insert the command `\filbreak` before each small block, and the
 effect is achieved.  The technique can be used in the case of
 sequences of LaTeX-style sections, by incorporating `\filbreak`
 into the definition of a command (as in 
-[patching commands](/FAQ-patch)).  A simple and effective
+[patching commands](FAQ-patch)).  A simple and effective
 patch would be:
 <!-- {% raw %} -->
 ```latex

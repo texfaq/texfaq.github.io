@@ -9,7 +9,7 @@ redirect_from: /FAQ-HPdrivers
 # What is a DVI driver?
 
 A DVI driver is a program that takes as input a
-[DVI file](/FAQ-dvi)
+[DVI file](FAQ-dvi)
 and (usually) produces a file in a format that something _other_
 than a TeX-related program can process.
 
@@ -24,8 +24,8 @@ provides.  Each driver will expect the font information in a particular
 form.
 
 For more information on the forms of font information, see
-[PK files](/FAQ-pk),
-[TFM files](/FAQ-tfm),
-[virtual fonts](/FAQ-virtualfonts)
-and [Using PostScript fonts with TeX](/FAQ-usepsfont).
+[PK files](FAQ-pk),
+[TFM files](FAQ-tfm),
+[virtual fonts](FAQ-virtualfonts)
+and [Using PostScript fonts with TeX](FAQ-usepsfont).
 

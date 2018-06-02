@@ -13,7 +13,7 @@ come with previewers that can be used on those platforms. EmTeX's
 previewer can also be run under Windows&nbsp;3.1.
 
 Commercial PC TeX packages (see 
-[commercial vendors](/FAQ-commercial))
+[commercial vendors](FAQ-commercial))
 have good previewers for PCs running Windows, or for Macintoshes.
 
 For Unix systems, there is one ''canonical'' viewer, `xdvi`.
@@ -26,13 +26,13 @@ Alternatives to previewing include
   
 
 -  conversion to ''similar'' ASCII text (see
-    [converting to ASCII](/FAQ-toascii)) and using a
+    [converting to ASCII](FAQ-toascii)) and using a
     conventional text viewer to look at that,
 -  generating a PostScript version of your document and viewing it
     with a
     [`ghostscript`](https://www.ghostscript.com/)-based
     previewer (see 
-    [previewing PostScript files](/FAQ-PSpreview)), and
+    [previewing PostScript files](FAQ-PSpreview)), and
 -  generating  PDF output, and viewing that with
     _Acrobat Reader_ or one of the substitutes for that.
 

@@ -28,11 +28,11 @@ and reprinted in the
 
 There are projects
 to build substantial new macro packages based on TeX: the most notable is
-[The LaTeX3 project](/FAQ-LaTeX3).  There are
+[The LaTeX3 project](FAQ-LaTeX3).  There are
 also various projects to build a _successor_ to TeX-the-binary.
-The [success of these projects has varied](/FAQ-enginedev):
-today, [pdfTeX](/FAQ-pdftex) is the standard engine for most users,
-whilst [XeTeX and LuaTeX](/FAQ-xetex-luatex) have both delivered
+The [success of these projects has varied](FAQ-enginedev):
+today, [pdfTeX](FAQ-pdftex) is the standard engine for most users,
+whilst [XeTeX and LuaTeX](FAQ-xetex-luatex) have both delivered
 fully Unicode-compliant systems with contrasting approaches to
 extensibility.
 

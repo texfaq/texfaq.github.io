@@ -36,7 +36,7 @@ in all modern graphical browsers there are several possibilities.
 
 The LaTeX to HTML convertors listed below  all handle mathematics
 to some extent, and further math-specific details are discussed
-in [Math on the Web](/FAQ-mathml).
+in [Math on the Web](FAQ-mathml).
 
 For today, possible packages are:
 
@@ -97,7 +97,7 @@ For today, possible packages are:
     (e.g. HTML, DocBook, tBook, etc.).
 
 - `TeXpider` a commercial program from
-  [Micropress](/FAQ-commercial), which is
+  [Micropress](FAQ-commercial), which is
   described on the [Micropress web site](http://www.micropress-inc.com/webb/wbstart.htm);
   it uses bitmaps for equations.
 

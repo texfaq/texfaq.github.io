@@ -9,7 +9,7 @@ date: 2014-06-10
 
 We assume here that you have decided what tree to put your files in,
 after reading 
-''[choosing a TDS tree](/FAQ-what-TDS)''.  We will therefore
+''[choosing a TDS tree](FAQ-what-TDS)''.  We will therefore
 write `$TEXMF` for it, and you need to substitute the tree
 you decided on.
 
@@ -60,7 +60,7 @@ options, `cfg` for configuration information,
 `def` for variants (such as the types of devices
 [`graphics`](https://ctan.org/pkg/graphics) drives).  The `README` of the package should
 tell you of any others, though sometimes that information is printed
-when the package's [comments are stripped](/FAQ-install-unpack).
+when the package's [comments are stripped](FAQ-install-unpack).
 All of these files should live together with the main package files.
 
 Note that &lsaquo;_font_&rsaquo; may stand for a single font or an entire family:

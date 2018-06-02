@@ -15,7 +15,7 @@ or `Acrobat`s `Distiller`).
 
 `Dvipdfm`/`Dvipdfmx` are particularly flexible
 applications.  They permit the inclusion of bitmap and PDF
-graphics (as does [pdfTeX](/FAQ-pdftexgraphics)), but are also
+graphics (as does [pdfTeX](FAQ-pdftexgraphics)), but are also
 capable of employing
 [`ghostscript`](https://www.ghostscript.com/) ''on the
 fly'' to permit the inclusion of encapsulated PostScript (`eps`)

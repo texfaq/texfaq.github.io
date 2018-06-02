@@ -35,7 +35,7 @@ date: 2014-06-10
   _and_ AMSLaTeX by George Grätzer (fourth edition Springer Verlag,
   2007, ISBN-10 978-0-387-32289-6
 - Digital Typography Using LaTeXIncorporating some
-  multilingual aspects, and use of [Omega](/FAQ-omegaleph), by
+  multilingual aspects, and use of [Omega](FAQ-omegaleph), by
   Apostolos Syropoulos, Antonis Tsolomitis and Nick Sofroniou
   (Springer, 2003, ISBN-10 0-387-95217-9).
 - First Steps in LaTeX by George Grätzer (Birkhäuser, 1999,

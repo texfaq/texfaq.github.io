@@ -50,7 +50,7 @@ possible techniques.
 
 The commonest form of documentation of LaTeX add-ons is within the
 `dtx` file in which the code is distributed (see
-[documented LaTeX sources](/FAQ-dtx)).  Such files
+[documented LaTeX sources](FAQ-dtx)).  Such files
 are supposedly processable by LaTeX itself, but there are
 occasional hiccups on the way to readable documentation.  Common
 problems are that the package itself is needed to process its own

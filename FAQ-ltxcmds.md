@@ -112,7 +112,7 @@ conducted by examining the file `latex.ltx` (which is usually to
 be found, in a TDS system, in directory `tex/latex/base`).
 
 In fact, `latex.ltx` is the product of a `docstrip`
-process on a large number of [`dtx` files](/FAQ-dtx), and
+process on a large number of [`dtx` files](FAQ-dtx), and
 you can refer to those instead.  The LaTeX distribution includes a file
 `source2e.tex`, and most systems retain it, again in
 `tex/latex/base`.  `Source2e.tex` may be processed to
