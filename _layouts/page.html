@@ -6,6 +6,8 @@ layout: default
 
 {{content}}
 
+<small>Question: {{ page.path | remove_first: "FAQ-" | remove_first: ".md" }}</small>
+
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
