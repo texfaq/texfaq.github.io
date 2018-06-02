@@ -6,7 +6,7 @@ date: 2014-06-10
 ---
 
 There's a nicely-presented list of of ''recommended books'' to be had
-on the web: [http://www.macrotex.net/texbooks/]
+on the web: <http://www.macrotex.net/texbooks/]>
 
 The list of MetaFont books is rather short:
 

@@ -76,7 +76,7 @@ of drawing, and setup, here are a few systems you may consider:
     use of the computation engine within PostScript.
     The [`pgf`](https://ctan.org/pkg/pgf) manual is enormous, but a simple introduction which
     allows the user to get a feel for the capabilities of the system, is
-    available at [http://cremeronline.com/LaTeX/minimaltikz.pdf]
+    available at <http://cremeronline.com/LaTeX/minimaltikz.pdf]>
 -  MetaPost; you liked MetaFont, but never got to grips with font files?
     Try [MetaPost](FAQ-MP)&nbsp;&mdash;
     all the power of MetaFont, but it generates PostScript figures; MetaPost

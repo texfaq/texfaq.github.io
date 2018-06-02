@@ -29,7 +29,7 @@ Alice struggles~\cite{Carroll:1865}.
 Note: we have bibliography style [`plain`](https://ctan.org/pkg/plain), above, which is
 nearly the simplest of the lot: a sample text, showing the sorts of
 style choices available, can be found on Ken Turner's web site:
-[http://www.cs.stir.ac.uk/~kjt/software/latex/showbst.html]
+<http://www.cs.stir.ac.uk/~kjt/software/latex/showbst.html]>
 
 Third: you must process the file.
 ```latex

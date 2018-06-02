@@ -84,10 +84,10 @@ classes; [`pdfscreen`](https://ctan.org/pkg/pdfscreen) will even allow you to pl
 
 A more detailed examination of the alternatives (including examples
 of code using many of them) may be found at Michael Wiedmann's fine
-[http://www.miwie.org/presentations/presentations.html]
+<http://www.miwie.org/presentations/presentations.html]>
 
 ConTeXt users will find that much (if not all) of what they need is
 already in ConTeXt itself; there's a useful summary of what's
 available, with examples, in
-[http://wiki.ConTeXtgarden.net/Presentation_Styles]
+<http://wiki.ConTeXtgarden.net/Presentation_Styles]>
 
