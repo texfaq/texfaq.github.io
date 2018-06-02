@@ -10,6 +10,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 ## 2018-06-01
 
 ### Changed
+- Q-alternatives: Add entries for Lout and [TNG]roff.
 - Q-addtoreset: chngcntr now incorporated into the format
 - Q-run-fn-nos: chngcntr now incorporated into the format
 
