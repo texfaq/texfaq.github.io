@@ -107,7 +107,7 @@ texconfig hyphen latex
 
   just as for a pre-v2.0 system.
 
-*_Caveat_:* It is (just) possible that
+**_Caveat_**: It is (just) possible that
 your TeX system may run out of ''pattern memory'' while generating
 the new format.  Most TeX implementations have fixed-size arrays
 for storing the details of hyphenation patterns, but although their
