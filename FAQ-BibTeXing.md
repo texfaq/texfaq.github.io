@@ -29,7 +29,7 @@ is the template for the four standard styles ([`plain`](https://ctan.org/pkg/bib
 contains their documentation.
 
 A useful tutorial of the whole process of using BibTeX is Nicolas
-Markey's ''_Tame the BeaST (The B to X of BibTeX)_'', which
+Markey's ''[Tame the BeaST (The B to X of BibTeX)](https://ctan.org/pkg/tamethebeast/)'', which
 may also be found on CTAN.  A summary and FAQ by Michael
 Shell and David Hoadley, is also to be recommended.
 
