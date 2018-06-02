@@ -6,7 +6,7 @@ layout: default
 
 {{content}}
 
-<small>FAQ ID: {{ page.path | remove_first: "Q-" | remove_first: ".md" }}</small>
+<small>FAQ ID: {{ page.path | remove_first: "FA" | remove_first: ".md" }}</small>
 
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
