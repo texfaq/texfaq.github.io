@@ -17,7 +17,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 ## 2018-05-30
 
 ### Changed
-- Q-isdef: Describe new 2016 behaviour of \@ifundefined
+- Q-isdef: Describe new 2016 behavior of `\@ifundefined`
 
 ## 2018-05-28
 
@@ -30,7 +30,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Changed
 - Q-AMSpkg: Re-write contributed by Barbara Beeton
 - Q-catalogue: Heavily revised
-- Q-latex2e: Update development section in light of latexrelease approach
+- Q-latex2e: Update development section in light of `latexrelease` approach
 - Q-noroom: Reword as LaTeX now use e-TeX extended register allocation
 - Q-notWYSIWYG: Reorder and update links
 - Q-readtex: Minor clean-up
