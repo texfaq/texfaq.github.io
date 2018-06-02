@@ -8,6 +8,7 @@ layout: default
 
 {% if page.path contains "FAQ-" %}
 <small>FAQ ID: {{ page.path | remove_first: "FA" | remove_first: ".md" }}</small>
+<small>Last updated: {{ page.date "%Y-%m-%d" }}
 {% endif %}
 
 {% if page.tags %}
