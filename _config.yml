@@ -2,4 +2,8 @@ exclude: ['CONTRIBUTING.md', 'LICENSE.md', 'README.md']
 
 plugins:
   - jekyll-redirect-from
+
 theme: jekyll-theme-minimal
+
+title: The TeX FAQ
+description: Frequently Asked Question List for TeX
