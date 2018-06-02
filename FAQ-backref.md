@@ -21,8 +21,8 @@ packages (for example, [`cite`](https://ctan.org/pkg/cite)), which probably refl
 antiquity (it's derived from a LaTeX 2.09 package).
 
 Neither collapses
-lists of pages (`5, 6, 7` comes out as such, rather than as
-`5&ndash;7`), but neither package repeats the reference to a page that
+lists of pages (''5, 6, 7'' comes out as such, rather than as
+''5&ndash;7''), but neither package repeats the reference to a page that
 holds multiple citations.  (The failure to collapse lists is of course
 forgiveable in the case of the [`hyperref`](https://ctan.org/pkg/hyperref)-related
 [`backref`](https://ctan.org/pkg/backref), since the concept of multiple hyperlinks from the
