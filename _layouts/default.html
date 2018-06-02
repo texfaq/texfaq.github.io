@@ -22,11 +22,7 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p class="view"><a href="{{about | absolute_url }}">About the FAQ <small>{{ site.github.repository_nwo }}</small></a></p>
-
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+        <p class="view"><a href="{{ about }}">About the FAQ</a></p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
