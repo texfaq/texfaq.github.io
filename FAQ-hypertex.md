@@ -1,11 +1,11 @@
 ---
-title: The _hyperTeX_ project
+title: The hyperTeX project
 category: usage
 permalink: /FAQ-hypertex
 date: 2014-06-10
 ---
 
-The _hyperTeX_ project extended the functionality of all the
+The hyperTeX project extended the functionality of all the
 LaTeX cross-referencing commands (including the table of contents)
 to produce `\special` commands which are parsed by DVI processors
 conforming to the HyperTeX guidelines;
@@ -23,12 +23,11 @@ must recognize the following set of `\special` commands:
 
 The `href`, `name` and `end` commands are used to do
 the basic hypertext operations of establishing links between sections
-of documents. 
+of documents.
 
-Further details are available on [http://arXiv.org/hypertex/]; there
+Further details are available at <http://arXiv.org/hypertex/>; there
 are two commonly-used implementations of the specification, a
 modified `xdvi` and (recent releases of)
 `dvips`. Output from the latter may be used in recent
 releases of [`ghostscript`](https://www.ghostscript.com/)
 or Acrobat Distiller.
-
