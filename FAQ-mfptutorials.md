@@ -28,16 +28,16 @@ ConTeXt).  It may be found on his company's
 [''manuals'' page](http://www.pragma-ade.com/general/manuals/metafun-p.pdf).
 
 Another MetaPost tutorial in English is: 
-[http://www.tlhiv.org/MetaPost/tutorial/] by Urs Oswald.
+<http://www.tlhiv.org/MetaPost/tutorial/> by Urs Oswald.
 One in French (listed here because it's clearly enough written
 that even this author understands it),
-[http://pauillac.inria.fr/~cheno/metapost/metapost.pdf]
+<http://pauillac.inria.fr/~cheno/metapost/metapost.pdf>
 by Laurent Chéno.
 
 Urs Oswald's tutorial uses Troy Henderson's tool
-([http://www.tlhiv.org/mppreview]) for testing little bits of
+(<http://www.tlhiv.org/mppreview>) for testing little bits of
 MetaPost; it is an invaluable aid to the learner:
-[http://www.tlhiv.org/mppreview]
+<http://www.tlhiv.org/mppreview>
 
 A three-part introduction, by Mari Voipio, was published in
 [TUGboat34(1) (Entry-level MetaPost: On the grid)](https://tug.org/TUGboat/intromp/tb106voipio-grid.pdf),

@@ -9,7 +9,7 @@ date: 2014-06-10
 SGML is a very important system for document storage and interchange,
 but it has no formatting features; its companion ISO standard
 DSSSL
-(see [http://www.jclark.com/dsssl/]) is designed for writing
+(see <http://www.jclark.com/dsssl/>) is designed for writing
 transformations and formatting,
 but this has not yet been widely implemented. Some SGML authoring
 systems (e.g., SoftQuad `Author/Editor`) have formatting

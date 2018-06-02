@@ -16,7 +16,7 @@ installing a font is a tedious business.
 
 For TeX&nbsp;Live users, this dilemma is solved by the
 `getnonfreefonts` script.  Download the script installer from
-[http://tug.org/fonts/getnonfreefonts/]; the web page tells you
+<https://tug.org/fonts/getnonfreefonts/>; the web page tells you
 how to run the installer to get the script, and what fonts are
 currently available
 

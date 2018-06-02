@@ -25,7 +25,7 @@ on the [TUG web site](http://www.tug.org/fonts/).
 
 TUG India is developing a series of online LaTeX tutorials
 which can be strongly recommended: select single chapters at a time
-from [http://www.tug.org/tutorials/tugindia]&nbsp;&mdash; there
+from <https://www.tug.org/tutorials/tugindia>&nbsp;&mdash; there
 are 17&nbsp;chapters in the series, two of which are mostly introductory.
 
 Peter Smith's
@@ -43,7 +43,7 @@ lack of sources.
 Stefan Kottwitz manages a web site devoted to the use of the drawing
 packages 
 [PGF and TikZ](FAQ-drawing), 
-(TeXample.net)[http://www.texample.net/]
+[TeXample.net](http://www.texample.net/)
 
 Included is 
  [examples catalogue](http://www.texample.net/tikz/examples/)
@@ -83,7 +83,7 @@ on the web.  Most straightforwardly, there's the simple translation of
 existing documentation into HTML, for example the INFO
 documentation of the (La)TeX installation, of which a sample is the
 LaTeX documentation available at
-[http://www.tac.dk/cgi-bin/info2www?(latex)](http://www.tac.dk/cgi-bin/info2www?(latex))
+<http://www.tac.dk/cgi-bin/info2www?(latex)>
 
 More ambitiously, some university departments have enthusiastic
 documenters who 

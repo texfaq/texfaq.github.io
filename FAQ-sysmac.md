@@ -23,10 +23,10 @@ option is to install using the TeX&nbsp;Live `tlinstall` utility.
 is a shareware version of TeX for the Macintosh.  A DVI
 previewer and PostScript driver are also included.
 OzTeX is a Carbon app, so will run under Mac OS/X (see
-[http://www.trevorrow.com/oztex/ozosx.html] for details), but it
+<http://www.trevorrow.com/oztex/ozosx.html> for details), but it
 is _not_ a current version: it doesn't even offer pdfTeX.  A
 mailing list is provided by TUG: sign up via
-[https://tug.org/mailman/listinfo/oztex]
+<https://tug.org/mailman/listinfo/oztex>
 
 Another partly shareware program is
 [CMacTeX](http://www.kiffe.com/cmactex.html), put together by

@@ -24,7 +24,7 @@ you).
 To access a particular thing through the `mirror.ctan.org`
 mechanism, simply place the CTAN path after the base
 URL; so
-[http://mirror.ctan.org/macros/latex/contrib/footmisc/] will
+<http://mirror.ctan.org/macros/latex/contrib/footmisc/> will
 connect you to the [`footmisc`](https://ctan.org/pkg/footmisc) directory at some CTAN
 mirror.
 

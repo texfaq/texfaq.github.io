@@ -56,12 +56,12 @@ mechanisms are:
     the place for ''general'' (La)TeX queries is the `texhax`
     mailing list.  Mail to <a href="mailto:texhax@tug.org">texhax@tug.org</a> to ask a question,
     but it's probably better to subscribe to the list
-    (via [https://tug.org/mailman/listinfo/texhax]) 
+    (via <https://tug.org/mailman/listinfo/texhax>) 
     first&nbsp;&mdash; not everyone will answer to you as well as to the list.
 2.  Newsgroup: to ask a question on `comp.text.tex`, you
     can use your own news client (if you have one), or use the
     ''+ new post'' button on
-    [http://groups.google.com/group/comp.text.tex].
+    <http://groups.google.com/group/comp.text.tex>.
 3.  Web forum: alternatives are: the 
     [''LaTeX community'' site](http://www.latex-community.org/),
     which offers a variety of ''categories'' to place your query, and the

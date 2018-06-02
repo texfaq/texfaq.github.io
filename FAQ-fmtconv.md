@@ -44,7 +44,7 @@ date: 2014-06-10
       MS-Word document.
 
   (Note that `OpenOffice` itself is _not_ on
-  CTAN; see [http://www.openoffice.org/], though most
+  CTAN; see <http://www.openoffice.org/>, though most
   `linux` systems offer it as a ready-to-install bundle.)
 
   `tex4ht` can also generate OpenOffice ODT
