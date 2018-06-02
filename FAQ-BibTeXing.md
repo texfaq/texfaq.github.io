@@ -22,7 +22,7 @@ offers a solid introduction, but doesn't go into very great detail.
 The document ''Designing BibTeX Styles'', also in the BibTeX
 distribution (look for
 `btxhak`), explains the postfix stack-based language used to
-write BibTeX styles (`.bst` files). The file`btxbst.doc`,
+write BibTeX styles (`.bst` files). The file `btxbst.doc`,
 also in the BibTeX distribution,
 is the template for the four standard styles ([`plain`](https://ctan.org/pkg/bibtex),
 [`abbrv`](https://ctan.org/pkg/bibtex), [`alpha`](https://ctan.org/pkg/bibtex), and [`unsrt`](https://ctan.org/pkg/bibtex)); it also
