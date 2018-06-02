@@ -16,7 +16,7 @@ date: 2014-06-10
   Addison-Wesley, 2004, ISBN-10 0-201-36299-6, ISBN-13 0-201-36299-6); the
   book as also available as a digital download (in EPUB,
   MOBI and PDF formats) from
-  <http://www.informit.com/store/latex-companion-9780133387667]>
+  <http://www.informit.com/store/latex-companion-9780133387667>
 - The LaTeX Graphics Companion:
   _Illustrating documents with TeX and PostScript_ by Michel
   Goossens, Sebastian Rahtz, Frank Mittelbach, Denis Roegel and

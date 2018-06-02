@@ -123,7 +123,7 @@ Users should also consider the possibilities of typesetting
   The paper outlining Kinch's thoughts, proceeding from considerations
   of the ''intellectual'' superiority of MetaFont to evaluations of why its
   adoption is so limited and what might be done about the problem, is
-  to be found at <http://truetex.com/belleek.pdf]>
+  to be found at <http://truetex.com/belleek.pdf>
 
 - MTPro2 Lite Pubish or Perish (Michael Spivak)
 
@@ -184,7 +184,7 @@ commercially, include:
 
   For further details (including samples) see
 
-  <http://www.micropress-inc.com/fonts/bamath/bamain.htm]>
+  <http://www.micropress-inc.com/fonts/bamath/bamain.htm>
 - CH Math (15 fonts) MicroPress Inc.
 
   CH Math is a family of slab serif fonts, designed as a maths
@@ -296,7 +296,7 @@ commercially, include:
   
 
   For further details and samples and fliers, see
-  <http://www.pctex.com/mtpro2.html]>
+  <http://www.pctex.com/mtpro2.html>
 
 - Minion Pro and MnSymbolAdobe, LaTeX support and packaging by
   Achim Blumensath _et al_.
