@@ -12,5 +12,12 @@ layout: default
 {% endif %}
 
 {% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+  <p><small>tags:&nbsp;
+    {%- for tag in page.tags -%}
+    {%- if forloop.first == false -%}
+      &ndash;
+    {%- endif -%}
+    <em><a href="tags#{{ tag }}">{{ tag }}</a></em>
+    {%- endfor -%}
+   </small></p>
 {% endif %}
