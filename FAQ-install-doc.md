@@ -5,8 +5,6 @@ permalink: /FAQ-install-doc
 date: 2014-06-10
 ---
 
-# Generating package documentation
-
 We are faced with a range of ''normal'' provision, as well as several
 oddities.  One should note that documentation of many packages is
 available on CTAN, without the need of any further effort by

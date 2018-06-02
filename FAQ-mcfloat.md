@@ -6,8 +6,6 @@ permalink: /FAQ-mcfloat
 date: 2014-06-10
 ---
 
-# Floats in multicolumn setting
-
 If you use
 ```latex
 \begin{figure}

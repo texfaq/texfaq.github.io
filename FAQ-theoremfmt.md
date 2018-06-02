@@ -6,8 +6,6 @@ permalink: /FAQ-theoremfmt
 date: 2014-06-10
 ---
 
-# Theorem bodies printed in a roman font
-
 If you want to take advantage of the powerful `\newtheorem` command
 without the constraint that the contents of the theorem is in a sloped
 font (for example, you may want to use it to create remarks, examples, proofs,

@@ -5,8 +5,6 @@ permalink: /FAQ-eqnarray
 date: 2014-06-10
 ---
 
-# Why not use `eqnarray`?
-
 The environment `eqnarray` is attractive for the
 occasional user of mathematics in LaTeX documents: it seems to
 allow aligned systems of equations.  Indeed it _does_ supply such

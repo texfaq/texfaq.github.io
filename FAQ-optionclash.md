@@ -6,8 +6,6 @@ redirect_from: /FAQ-optclash
 date: 201-06-10
 ---
 
-# Option clash for package
-
 The error message
 ```latex
 ! LaTeX Error: Option clash for package footmisc

@@ -5,8 +5,6 @@ permalink: /FAQ-etex
 date: 2018-05-24
 ---
 
-# What is &epsilon;-TeX?
-
 The &epsilon;-TeX extensions to TeX are a range of new functionalities
 added by the NTS to Knuth's original TeX program: see [details of
 engine developments](FAQ-enginedev) for more.

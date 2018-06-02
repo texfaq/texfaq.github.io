@@ -6,8 +6,6 @@ redirect_from: /FAQ-rcs
 date: 2014-06-10
 ---
 
-# Version control using RCS, CVS or the like
-
 If you use RCS, CVS, `Subversion`,
 `Bazaar` or `Git` to maintain
 your (La)TeX documents under version control, you may need some

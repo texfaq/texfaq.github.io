@@ -5,8 +5,6 @@ permalink: /FAQ-docpictex
 date: 2014-06-10
 ---
 
-# The PicTeX manual
-
 PicTeX is a set of macros by Michael Wichura for drawing diagrams
 and pictures. The
 macros are freely available; however, the

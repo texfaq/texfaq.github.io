@@ -6,8 +6,6 @@ permalink: /FAQ-struttab
 date: 2014-06-10
 ---
 
-# Spacing lines in tables
-
 (La)TeX mechanisms for maintaining the space between lines (the
 ''_leading_'') rely on TeX's paragraph builder, which compares
 the shape of consecutive lines and adjusts the space between them.

@@ -5,8 +5,6 @@ permalink: /FAQ-ctan
 date: 2014-06-10
 ---
 
-# What is CTAN?
-
 The acronym stands for ''Comprehensive TeX Archive Network'', which
 more-or-less specifies what it's _for_:
 

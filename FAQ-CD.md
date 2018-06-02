@@ -6,8 +6,6 @@ redirect_from: /FAQ-cd
 date: 2014-06-10
 ---
 
-# The TeX collection
-
 If you don't have access to the Internet, there are obvious
 attractions to TeX collections on a disc.  Even those with net
 access will find large quantities of TeX-related files to hand a

@@ -5,8 +5,6 @@ permalink: /FAQ-howmanypp
 date: 2014-06-10
 ---
 
-# How many pages are there in my document?
-
 Simple documents (those that start at page 1, and don't have any
 breaks in their page numbering until their last page) present no
 problem to the seeker after this truth.  The number of pages is

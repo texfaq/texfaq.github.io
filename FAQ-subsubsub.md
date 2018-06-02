@@ -6,8 +6,6 @@ permalink: /FAQ-subsubsub
 date: 2014-06-10
 ---
 
-# How to create a `\subsubsubsection`
-
 LaTeX's set of ''sections'' stops at the level of
 `\subsubsection`.  This reflects a design decision by Lamport&nbsp;&mdash;
 for, after all, who can reasonably want a section with such huge

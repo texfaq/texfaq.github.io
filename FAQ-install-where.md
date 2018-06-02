@@ -5,8 +5,6 @@ permalink: /FAQ-install-where
 date: 2014-06-10
 ---
 
-# Where to install packages
-
 We assume here that you have decided what tree to put your files in,
 after reading 
 ''[choosing a TDS tree](FAQ-what-TDS)''.  We will therefore

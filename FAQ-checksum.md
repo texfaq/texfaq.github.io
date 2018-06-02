@@ -5,8 +5,6 @@ permalink: /FAQ-checksum
 date: 2014-06-10
 ---
 
-# Checksum mismatch in font
-
 When MetaFont generates a font it includes a checksum in the font bitmap
 file, and in the font metrics file (TFM).  (La)TeX includes
 the checksum from the TFM file in the DVI file.

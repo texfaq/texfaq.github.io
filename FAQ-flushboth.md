@@ -5,8 +5,6 @@ permalink: /FAQ-flushboth
 date: 2014-06-10
 ---
 
-# Cancelling `\ragged` commands
-
 LaTeX provides commands `\raggedright` and `\raggedleft`, but
 none to cancel their effect.  The `\centering` command is
 implemented in the same way as the `\ragged*` commands, and suffers

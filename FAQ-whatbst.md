@@ -6,8 +6,6 @@ permalink: /FAQ-whatbst
 date: 2014-06-10
 ---
 
-# Choosing a bibliography style
-
 A large proportion of people are satisfied with one of Patashnik's
 original ''standard'' styles, [`plain`](https://ctan.org/pkg/bibtex), [`unsrt`](https://ctan.org/pkg/bibtex),
 [`abbrv`](https://ctan.org/pkg/bibtex) and [`alpha`](https://ctan.org/pkg/bibtex).  However, no style in that set

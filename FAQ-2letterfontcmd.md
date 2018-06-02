@@ -5,8 +5,6 @@ permalink: /FAQ-2letterfontcmd
 date: 2014-06-10
 ---
 
-# What's wrong with `\bf`, `\it`, etc.?
-
 The font-selection commands of LaTeX 2.09 were `\rm`, `\sf`,
 `\tt`, `\it`, `\sl`, `\em` and `\bf`; they were modal
 commands, so you used them as:

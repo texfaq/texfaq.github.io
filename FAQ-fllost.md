@@ -5,8 +5,6 @@ permalink: /FAQ-fllost
 date: 2014-06-10
 ---
 
-# Float(s) lost
-
 The error
 ```latex
 ! LaTeX Error: Float(s) lost.

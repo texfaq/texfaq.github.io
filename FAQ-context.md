@@ -5,8 +5,6 @@ permalink: /FAQ-context
 date: 2018-05-26
 ---
 
-# What is ConTeXt?
-
 [ConTeXt](http://www.pragma-ade.com/) is a macro package
 created by Hans Hagen of Pragma-Ade; it started as a production tool
 for Pragma (which is a publishing company).  ConTeXt is a

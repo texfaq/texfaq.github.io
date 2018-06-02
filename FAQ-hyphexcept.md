@@ -6,8 +6,6 @@ permalink: /FAQ-hyphexcept
 date: 2014-06-10
 ---
 
-# Hyphenation exceptions
-
 While TeX's hyphenation rules are good, they're not infallible: you
 will occasionally find words TeX just gets _wrong_.  So for
 example, TeX's default hyphenation rules (for American English) don't

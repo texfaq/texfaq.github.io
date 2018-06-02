@@ -5,8 +5,6 @@ permalink: /FAQ-inst-miktexstar
 date: 2014-06-10
 ---
 
-# Installation using MiKTeX package manager
-
 Packages for use with MiKTeX are maintained very efficiently by the
 project managers (new packages and updates on CTAN ordinarily
 make their way to the MiKTeX package repository within a week).

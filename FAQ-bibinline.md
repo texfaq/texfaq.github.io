@@ -6,8 +6,6 @@ permalink: /FAQ-bibinline
 date: 2014-06-10
 ---
 
-# Putting bibliography entries in text
-
 This is a common requirement for journals and other publications in
 the humanities.  Sometimes the requirement is for the entry to appear
 in the running text of the document, while other styles require that

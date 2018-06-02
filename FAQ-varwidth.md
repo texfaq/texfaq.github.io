@@ -5,8 +5,6 @@ permalink: /FAQ-varwidth
 date: 2014-06-10
 ---
 
-# Automatic sizing of `minipage`
-
 The `minipage` environment requires you to specify the
 width of the ''page'' you're going to create.  This is sometimes
 inconvenient: you would like to occupy less space, if possible, but

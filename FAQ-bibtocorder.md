@@ -6,8 +6,6 @@ permalink: /FAQ-bibtocorder
 date: 2014-06-10
 ---
 
-# Table of contents rearranges ''`unsrt`'' ordering
-
 If you're using the [`unsrt`](https://ctan.org/pkg/bibtex) bibliography style, you're
 expecting that your bibliography will _not_ be sorted, but that
 the entries will appear in the order that they first appeared in your

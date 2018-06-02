@@ -6,8 +6,6 @@ permalink: /FAQ-captsty
 date: 2014-06-10
 ---
 
-# The style of captions
-
 Changes to the style of captions may be made by redefining the commands
 that produce the caption.  So, for example, `\fnum@figure` (which
 produces the float number for figure floats) may be redefined, in a

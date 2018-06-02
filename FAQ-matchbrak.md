@@ -5,8 +5,6 @@ permalink: /FAQ-matchbrak
 date: 2014-06-10
 ---
 
-# My brackets don't match
-
 (La)TeX has a low-level mechanism for matching braces in document
 text.  This means you can type something like:
 ```latex

@@ -5,8 +5,6 @@ permalink: /FAQ-whatenv
 date: 2014-06-10
 ---
 
-# What are LaTeX ''environments''
-
 While TeX makes direct provision for commands, LaTeX adds a
 concept of ''environment''; environments perform an action on a block
 (of something or other) rather than than just doing something at one

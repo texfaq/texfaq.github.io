@@ -5,8 +5,6 @@ permalink: /FAQ-ol-books
 date: 2014-06-10
 ---
 
-# Freely available (La)TeX books
-
 People have long argued for (La)TeX books to be made available on
 the web, and until relatively recently this demand went un-answered.
 

@@ -6,8 +6,6 @@ redirect_from: /FAQ-latex2html
 date: 2018-5-25
 ---
 
-# Conversion from (La)TeX to HTML
-
 TeX and LaTeX are well suited to producing electronically publishable
 documents. However, it is important to realize the difference
 between page layout and functional markup. TeX is capable of

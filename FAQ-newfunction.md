@@ -6,8 +6,6 @@ permalink: /FAQ-newfunction
 date: 2014-06-10
 ---
 
-# Defining a new log-like function in LaTeX
-
 Use the `\mathop` command, as in:
 ```latex
 \newcommand{\diag}{\mathop{\mathrm{diag}}}

@@ -5,8 +5,6 @@ permalink: /FAQ-manymathalph
 date: 2014-06-10
 ---
 
-# Too many math alphabets
-
 TeX mathematics is one of its most impressive features, yet the
 internal structure of the mechanism that produces it is painfully
 complicated and (in some senses) pathetically limited.  One area of

@@ -6,8 +6,6 @@ permalink: /FAQ-floatpages
 date: 2014-06-10
 ---
 
-# Floats on their own on float pages
-
 It's sometimes necessary to force a float to live on a page by itself.
 (It's sometimes even necessary for _every_ float to live on a
 page by itself.)  When the float fails to ''set'', and waits for the end

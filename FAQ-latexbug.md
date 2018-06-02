@@ -5,8 +5,6 @@ permalink: /FAQ-latexbug
 date: 2018-05-23
 ---
 
-# Reporting a LaTeX bug
-
 The LaTeX team supports LaTeX, and will deal with
 _bona fide_ bug reports.  Note that the LaTeX team does
 _not_ deal with contributed packages&nbsp;&mdash; just the software that

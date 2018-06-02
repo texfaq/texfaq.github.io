@@ -5,8 +5,6 @@ permalink: /FAQ-tds
 date: 2014-06-10
 ---
 
-# What is the TDS?
-
 TDS is an acronym for ''TeX Directory Structure''; it
 specifies a standard way of organising all the TeX-related files on
 a computer system.

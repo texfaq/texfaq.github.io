@@ -5,8 +5,6 @@ permalink: /FAQ-tex-books
 date: 2014-06-10
 ---
 
-# Books on TeX, Plain TeX and relations
-
 While Knuth's book is the definitive reference for both TeX and
 Plain TeX, there are many books covering these topics:
 

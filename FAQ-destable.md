@@ -6,8 +6,6 @@ permalink: /FAQ-destable
 date: 2014-06-10
 ---
 
-# The design of tables
-
 In recent years, several authors have argued that the examples, set
 out by Lamport in his [LaTeX manual](FAQ-latex-books), have cramped
 authors' style and have led to extremely poor table design.  It is in

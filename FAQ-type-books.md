@@ -5,8 +5,6 @@ permalink: /FAQ-type-books
 date: 2014-06-10
 ---
 
-# Books on Type
-
 The following is a partial listing of books on typography in general.
 Of these, Bringhurst seems to be the one most often recommended.
 

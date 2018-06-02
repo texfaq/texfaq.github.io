@@ -6,8 +6,6 @@ permalink: /FAQ-tocloft
 date: 2014-06-10
 ---
 
-# The format of the Table of Contents, etc.
-
 The formats of entries in the table of contents (TOC) are
 controlled by a number of internal commands (discussed in section&nbsp;2.3
 of [_The LaTeX Companion_](FAQ-latex-books).  The commands

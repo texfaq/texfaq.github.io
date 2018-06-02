@@ -6,8 +6,6 @@ permalink: /FAQ-parallel
 date: 2014-06-10
 ---
 
-# Parallel setting of text
-
 It's commonly necessary to present text in two languages ''together'' on a
 page, or on a two-page spread.  For this to be satisfactory, one usually
 needs some sort of alignment between the two texts.

@@ -6,8 +6,6 @@ permalink: /FAQ-balance
 date: 2014-06-10
 ---
 
-# Balancing columns at the end of a document
-
 The `twocolumn` option of the standard classes causes
 LaTeX to set the text of a document in two columns.  However, the last
 page of the document typically ends up with columns of different

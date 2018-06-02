@@ -6,8 +6,6 @@ permalink: /FAQ-findwidth
 date: 2014-06-10
 ---
 
-# Finding the width of a letter, word, or phrase
-
 Put the word in a box, and measure the width of the box. For example,
 ```latex
 \newdimen\stringwidth

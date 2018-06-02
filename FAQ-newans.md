@@ -5,8 +5,6 @@ permalink: /FAQ-newans
 date: 2018-05-23
 ---
 
-# Submitting new material for the FAQ
-
 The FAQ will never be complete, and we always expect that
 there will be people out there who know better than we do about
 something or other.  We always need to be put right about whatever

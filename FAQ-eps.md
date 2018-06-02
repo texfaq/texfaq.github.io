@@ -5,8 +5,6 @@ permalink: /FAQ-eps
 date: 2014-06-10
 ---
 
-# What is ''Encapsulated PostScript'' (''EPS'')?
-
 PostScript has been for many years a _lingua franca_ of powerful
 printers (though modern high-quality printers now tend to require some
 constrained form of Adobe Acrobat, instead); since PostScript is also a

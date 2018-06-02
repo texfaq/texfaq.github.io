@@ -6,8 +6,6 @@ redirect_from: /FAQ-type1t1
 date: 2014-06-10
 ---
 
-# Finding ''8-bit'' Type&nbsp;1 fonts
-
 Elsewhere, answers to these FAQs recommend that you use an
 ''8-bit'' font to permit 
 [accentuation of inflected languages](FAQ-hyphenaccents),

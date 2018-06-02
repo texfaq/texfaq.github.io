@@ -5,8 +5,6 @@ permalink: /FAQ-labelfig
 date: 2014-06-10
 ---
 
-# Labelling graphics
-
 ''Technical'' graphics (such as graphs and diagrams) are often
 labelled with quite complex mathematical expressions: there are few
 drawing or graphing tools that can do such things (the honourable

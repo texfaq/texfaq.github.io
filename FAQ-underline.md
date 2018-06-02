@@ -6,8 +6,6 @@ permalink: /FAQ-underline
 date: 2014-06-10
 ---
 
-# Underlined text won't break
-
 Knuth made no provision for underlining text: he took the view that
 underlining is not a typesetting operation, but rather one that
 provides emphasis on typewriters, which typically offer but one

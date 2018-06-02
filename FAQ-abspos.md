@@ -6,8 +6,6 @@ permalink: /FAQ-abspos
 date: 2014-06-10
 ---
 
-# Putting things at fixed positions on the page
-
 TeX's model of the world is (broadly speaking) that the author
 writes text, and TeX and its macros decide how it all fits on the
 page.  This is not good news for the author who has, from whatever

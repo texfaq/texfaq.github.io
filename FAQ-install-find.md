@@ -5,8 +5,6 @@ permalink: /FAQ-install-find
 date: 2014-06-10
 ---
 
-# Finding packages to install
-
 How did you learn about the package?
 
 If the information came from these FAQs, you should already

@@ -6,8 +6,6 @@ permalink: /FAQ-compjobnam
 date: 2014-06-10
 ---
 
-# Comparing the ''job name''
-
 The token `\jobname` amusingly produces a sequence of characters
 whose category code is 12 (''other''), regardless of what the characters
 actually are.  Since one inevitably has to compare a macro with the

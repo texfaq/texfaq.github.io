@@ -5,8 +5,6 @@ permalink: /FAQ-inst-scut
 date: 2014-06-10
 ---
 
-# Shortcuts to installing files
-
 There are circumstances in which most of the fuss of installation can
 be bypassed:
   

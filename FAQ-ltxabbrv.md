@@ -6,8 +6,6 @@ permalink: /FAQ-ltxabbrv
 date: 2014-06-10
 ---
 
-# LaTeX internal ''abbreviations'', etc.
-
 In the deeps of time, when TeX first happened, computers had
 extremely limited memory, and were (by today's standards) painfully
 slow.  When LaTeX came along, things weren't much better, and even

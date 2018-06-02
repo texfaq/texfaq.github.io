@@ -5,8 +5,6 @@ permalink: /FAQ-man-tex
 date: 2014-06-10
 ---
 
-# Online introductions: Plain TeX
-
 Michael Doob's splendid 'Gentle Introduction' to Plain TeX
 (available on CTAN) has been stable for a very long time.
 

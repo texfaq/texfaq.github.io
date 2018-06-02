@@ -5,8 +5,6 @@ permalink: /FAQ-cpy-srchpdf
 date: 2014-06-10
 ---
 
-# Copy-paste-able/searchable PDF files
-
 PDF files generated from TeX (and friends), will by default
 hold their text in the encoding of the original TeX font used by
 the document.

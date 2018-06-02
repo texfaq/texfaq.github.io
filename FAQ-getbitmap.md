@@ -6,8 +6,6 @@ permalink: /FAQ-getbitmap
 date: 2014-06-10
 ---
 
-# Acquiring bitmap fonts
-
 When CTAN was young, most people would start using TeX
 with a 300 dots-per-inch (dpi) laser printer, and sets of Computer
 Modern bitmap fonts for this resolution are available on CTAN.

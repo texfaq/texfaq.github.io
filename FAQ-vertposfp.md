@@ -6,8 +6,6 @@ permalink: /FAQ-vertposfp
 date: 2014-06-10
 ---
 
-# Vertical layout of float pages
-
 By default, LaTeX vertically centers the floats on a float page;
 the present author is not alone in not liking this arrangement.
 Unfortunately, the control of the positioning is ''buried'' in

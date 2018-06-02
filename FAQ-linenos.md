@@ -5,8 +5,6 @@ permalink: /FAQ-linenos
 date: 2014-06-10
 ---
 
-# Including line numbers in typeset output
-
 For general numbering of lines, there are two packages for use with
 LaTeX, [`lineno`](https://ctan.org/pkg/lineno) (which permits labels attached to
 individual lines of typeset output) and [`numline`](https://ctan.org/pkg/numline).

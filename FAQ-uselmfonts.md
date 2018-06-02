@@ -5,8 +5,6 @@ permalink: /FAQ-uselmfonts
 date: 2014-06-10
 ---
 
-# Using the Latin Modern fonts
-
 The [`lm`](https://ctan.org/pkg/lm) fonts are an exciting addition to
 the armoury of the (La)TeX user: high quality outlines of fonts that
 were until recently difficult to obtain, all in a free and

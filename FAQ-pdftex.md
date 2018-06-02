@@ -6,8 +6,6 @@ date: 2018-05-24
 redirect_from: /FAQ-whatpdftex
 ---
 
-# What is pdfTeX?
-
 One can reasonably say that pdfTeX is (today) the main stream of TeX
 distributions: most LaTeX nowadays use pdfTeX whether they know it or not.
 

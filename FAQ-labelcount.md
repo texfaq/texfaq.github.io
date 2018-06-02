@@ -6,8 +6,6 @@ permalink: /FAQ-labelcount
 date: 2014-06-10
 ---
 
-# Using labels as counter values
-
 Labels are tempting sources of ''numbers''&nbsp;&mdash; their most common use,
 after all, is simply to typeset a number.  However, their seeming
 simplicity is deceptive; the packages [`babel`](https://ctan.org/pkg/babel) and

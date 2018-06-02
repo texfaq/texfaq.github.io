@@ -5,8 +5,6 @@ permalink: /FAQ-running-nos
 date: 2014-06-10
 ---
 
-# Running equation, figure and table numbering
-
 Many LaTeX classes (including the standard [`book`](https://ctan.org/pkg/book) class)
 number things per chapter; so figures in chapter 1 are numbered 1.1,
 1.2, and so on.  Sometimes this is not appropriate for the user's

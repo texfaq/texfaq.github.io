@@ -5,8 +5,6 @@ permalink: /FAQ-inputlev
 date: 2014-06-10
 ---
 
-# Capacity exceeded&nbsp;&mdash; input levels
-
 The error
 ```latex
 ! TeX capacity exceeded, sorry [text input levels=15].

@@ -6,8 +6,6 @@ permalink: /FAQ-figurehere
 date: 2014-06-10
 ---
 
-# Figure (or table) _exactly_ where I want it
-
 This is of course a contradiction: `figure` and
 `table` are _designed_ to float, and will always have
 the potential to appear away from where you asked for them.  Therefore

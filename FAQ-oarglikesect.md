@@ -6,8 +6,6 @@ permalink: /FAQ-oarglikesect
 date: 2014-06-10
 ---
 
-# Optional arguments like `\section`
-
 Optional arguments, in macros defined using `\newcommand`, don't
 quite work like the optional argument to `\section`.  The default
 value of `\section`s optional argument is the value of the

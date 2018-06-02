@@ -6,8 +6,6 @@ permalink: /FAQ-oldfontnames
 date: 2014-06-10
 ---
 
-# Old LaTeX font references such as `\tenrm`
-
 LaTeX 2.09 defined a large set of commands for access to the fonts
 that it had built in to itself.  For example, `cmr` might
 appear as `\fivrm`, `\sixrm`, `\sevrm`,

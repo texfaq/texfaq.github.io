@@ -6,8 +6,6 @@ permalink: /FAQ-longtab
 date: 2014-06-10
 ---
 
-# Tables longer than a single page
-
 Tables are, by default, set entirely in boxes of their own: as a
 result, they won't split over a page boundary.  Sadly, the world keeps
 turning up tables longer than a single page that we need to typeset.

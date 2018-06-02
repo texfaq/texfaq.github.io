@@ -6,8 +6,6 @@ permalink: /FAQ-fontsize
 date: 2014-06-10
 ---
 
-# Fonts at arbitrary sizes
-
 Almost all fonts, nowadays, are provided with LaTeX control
 (`fd`) files, so the temptation to risk the
 [problems of `\newfont`](FAQ-newfontstar) is usually easy to

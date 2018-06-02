@@ -5,8 +5,6 @@ permalink: /FAQ-manyauthor
 date: 2014-06-10
 ---
 
-# BibTeX doesn't understand lists of names
-
 BibTeX has a strict syntax for lists of authors' (or editors')
 names in the BibTeX data file; if you write the list of names in a
 ''natural''-seeming way, the chances are you will confuse BibTeX,

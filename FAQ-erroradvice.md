@@ -5,8 +5,6 @@ permalink: /FAQ-erroradvice
 date: 2014-06-10
 ---
 
-# How to approach errors
-
 Since TeX is a macroprocessor, its error messages are often
 difficult to understand; this is a (seemingly invariant) property of
 macroprocessors.  Knuth makes light of the problem in the TeXbook,

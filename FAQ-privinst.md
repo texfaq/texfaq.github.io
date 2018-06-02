@@ -5,8 +5,6 @@ permalink: /FAQ-privinst
 date: 2014-06-10
 ---
 
-# ''Private'' installations of files
-
 It sometimes happens that you need a new version of some macro package
 or font, but that the machine you use is maintained by someone who's
 unwilling to update and won't give you privileges to do the job

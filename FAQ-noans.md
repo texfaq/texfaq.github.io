@@ -5,8 +5,6 @@ permalink: /FAQ-noans
 date: 2018-05-22
 ---
 
-# You don't understand the answer
-
 While the FAQ maintainers don't offer a ''help'' service, they're
 very keen that you understand the answers they've already written.
 They're (almost) written ''in a vacuum'', to provide something to

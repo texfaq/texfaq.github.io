@@ -5,8 +5,6 @@ permalink: /FAQ-newlineargs
 date: 2014-06-10
 ---
 
-# Start of line goes awry
-
 This answer concerns two sorts of problems: errors of the form
 ```latex
 ! Missing number, treated as zero.

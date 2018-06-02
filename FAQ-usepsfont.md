@@ -5,8 +5,6 @@ permalink: /FAQ-usepsfont
 date: 2014-06-10
 ---
 
-# Using Adobe Type 1 fonts with TeX
-
 In order to use any font, TeX needs a
 _metric_ file (TFM file).  Several sets of metrics for
 common Adobe Type 1 fonts are

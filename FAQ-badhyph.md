@@ -5,8 +5,6 @@ permalink: /FAQ-badhyph
 date: 2014-06-10
 ---
 
-# Improper `\hyphenation` will be flushed
-
 For example
 ```latex
 ! Improper \hyphenation will be flushed.

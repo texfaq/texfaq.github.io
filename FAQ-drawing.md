@@ -5,8 +5,6 @@ permalink: /FAQ-drawing
 date: 2014-06-10
 ---
 
-# Drawing with TeX
-
 There are many packages to do pictures in (La)TeX itself (rather than
 importing graphics created externally), ranging from simple use of
 LaTeX `picture` environment, through enhancements like

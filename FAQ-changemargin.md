@@ -6,8 +6,6 @@ permalink: /FAQ-changemargin
 date: 2014-06-10
 ---
 
-# Changing the margins in LaTeX
-
 Changing the layout of a document's text on the page involves several
 subtleties not often realised by the beginner.  There are interactions
 between fundamental TeX constraints, constraints related to the

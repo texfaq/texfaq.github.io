@@ -5,8 +5,6 @@ permalink: /FAQ-texorpdf
 date: 2014-06-10
 ---
 
-# Token not allowed in PDFDocEncoded string
-
 The package [`hyperref`](https://ctan.org/pkg/hyperref) produces this error when it doesn't
 know how to make something into a ''character'' that will go into one
 of its PDF entries.  For example, the (unlikely) sequence

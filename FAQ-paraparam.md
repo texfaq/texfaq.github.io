@@ -5,8 +5,6 @@ permalink: /FAQ-paraparam
 date: 2014-06-10
 ---
 
-# Why does it ignore paragraph parameters?
-
 When TeX is laying out text, it doesn't work from word to word, or
 from line to line; the smallest complete unit it formats is the
 paragraph.  The paragraph is laid down in a buffer, as it appears, and

@@ -6,8 +6,6 @@ permalink: /FAQ-compactbib
 date: 2014-06-10
 ---
 
-# Reducing spacing in the bibliography
-
 Bibliographies are, in fact, implemented as lists, so all the
 confusion about [reducing list item spacing](FAQ-complist) also
 applies to bibliographies.

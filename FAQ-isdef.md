@@ -6,8 +6,6 @@ permalink: /FAQ-isdef
 date: 2014-06-10
 ---
 
-# Is this command defined?
-
 Macro sets from the earliest days of TeX programming may be
 observed to test whether commands exist by using
 `\ifx\<command>\undefined` &lsaquo;_stuff_&rsaquo; &hellip;

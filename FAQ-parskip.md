@@ -5,8 +5,6 @@ permalink: /FAQ-parskip
 date: 2014-06-10
 ---
 
-# Zero paragraph indent
-
 The conventional way of typesetting running text has no separation
 between paragraphs, and the first line of each paragraph in a block of
 text indented.

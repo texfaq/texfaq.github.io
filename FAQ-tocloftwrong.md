@@ -5,8 +5,6 @@ permalink: /FAQ-tocloftwrong
 date: 2014-06-10
 ---
 
-# Numbers too large in table of contents, etc.
-
 LaTeX constructs the table of contents, list of figures, tables,
 and similar tables, on the basis of a layout specified in the class.
 As a result, they do _not_ react to the sizes of things in them,

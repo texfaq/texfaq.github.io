@@ -5,8 +5,6 @@ permalink: /FAQ-plaintex
 date: 2014-06-10
 ---
 
-# What's ''writing in TeX''?
-
 TeX is a macro processor, and offers its users a powerful
 programming capability.  To produce a document, you write macros and
 text interleaved with each other.  The macros define an environment in

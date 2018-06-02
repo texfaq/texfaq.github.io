@@ -6,8 +6,6 @@ permalink: /FAQ-hyphenaccents
 date: 2014-06-10
 ---
 
-# Accented words aren't hyphenated
-
 TeX's algorithm for hyphenation gives up when it encounters an
 `\accent` command; there are good reasons for this, but it means
 that quality typesetting in non-English languages can be difficult.

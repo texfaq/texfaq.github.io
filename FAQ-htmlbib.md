@@ -5,8 +5,6 @@ permalink: /FAQ-htmlbib
 date: 2014-06-10
 ---
 
-# Making HTML of your Bibliography
-
 A neat solution is offered by the [`noTeX`](https://ctan.org/pkg/notex-bst) bibliography style.
 This style produces a `bbl` file which is in fact a series of
 HTML `P` elements of class `noTeX`, and which

@@ -5,8 +5,6 @@ permalink: /FAQ-breaklinks
 date: 2014-06-10
 ---
 
-# Link text doesn't break at end line
-
 When using the [`hyperref`](https://ctan.org/pkg/hyperref) package, you make a block of text
 ''active'' when you define a hyper-link (when the user clicks on
 that text, the reader program will divert to the _target_ of the

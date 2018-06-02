@@ -6,8 +6,6 @@ permalink: /FAQ-replstdcls
 date: 2014-06-10
 ---
 
-# Replacing the standard classes
-
 People are forever concocting classes that replace the standard ones:
 the present author produced an `ukart` class that used the
 [`sober`](https://ctan.org/pkg/sober) package, and a few British-specific things (such as

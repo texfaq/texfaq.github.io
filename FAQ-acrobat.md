@@ -5,8 +5,6 @@ permalink: /FAQ-acrobat
 date: 2014-06-10
 ---
 
-# Making PDF documents from (La)TeX
-
 There are three general routes to PDF output: Adobe's original
 ''distillation'' route (via PostScript output), direct conversion of a
 DVI file, and the use of a direct TeX-like PDF

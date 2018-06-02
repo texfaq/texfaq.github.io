@@ -6,8 +6,6 @@ permalink: /FAQ-reuseq
 date: 2014-06-10
 ---
 
-# Re-using an equation
-
 To repeat an existing equation, one wants not only to have the same
 mathematics in it, one also wants to re-use the original label it had.
 The [`amsmath`](https://ctan.org/pkg/amsmath) package comes to our help, here:

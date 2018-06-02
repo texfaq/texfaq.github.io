@@ -5,8 +5,6 @@ permalink: /FAQ-recovertex
 date: 2014-06-10
 ---
 
-# Retrieving (La)TeX from DVI, etc.
-
 The job just can't be done automatically: DVI, PostScript and
 PDF are ''final'' formats, supposedly not susceptible to
 further editing&nbsp;&mdash; information about where things came from has been

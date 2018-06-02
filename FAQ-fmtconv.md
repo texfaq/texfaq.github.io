@@ -5,8 +5,6 @@ permalink: /FAQ-fmtconv
 date: 2014-06-10
 ---
 
-# Other conversions to and from (La)TeX
-
 - troff `Tr2latex`, assists in the translation of a
   `troff` document into LaTeX 2.09 format.  It recognises most
   `-ms` and `-man` macros, plus most `eqn` and some

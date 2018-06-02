@@ -5,8 +5,6 @@ permalink: /FAQ-codelist
 date: 2014-06-10
 ---
 
-# Code listings in LaTeX
-
 ''Pretty'' code listings are sometimes considered worthwhile by the
 ''ordinary'' programmer, but they have a serious place in
 the typesetting of dissertations by computer science and other
@@ -28,8 +26,6 @@ to typeset snippets that you include within your source:
 ...
 \begin{document}
 \begin{lstlisting}
-#include <stdio.h>
-
 int main(int argc, char ** argv)
 {
   printf("Hello world!\n");

@@ -6,8 +6,6 @@ redirect_from: /FAQ-what-tds
 date: 2014-06-10
 ---
 
-# Which tree to use
-
 In almost all cases, new material that you install should go into the
 ''local'' tree of your (La)TeX installation.  (A discussion of
 reasons _not_ to use the local tree appears below.)

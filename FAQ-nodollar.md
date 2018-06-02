@@ -5,8 +5,6 @@ permalink: /FAQ-nodollar
 date: 2014-06-10
 ---
 
-# ''Missing `$` inserted''
-
 There are certain things that _only_ work in maths mode.  If your
 document is not in maths mode and you have an `_` or a `^` character,
 TeX (and by inheritance, LaTeX too) will say

@@ -5,8 +5,6 @@ permalink: /FAQ-xfigetc
 date: 2014-06-10
 ---
 
-# (La)TeX-friendly drawing packages
-
 `(X)Fig` is a menu driven tool that allows you to
 draw objects on the screen of an X workstation; `transfig`
 is a set of tools which translate the code `fig`.  The list

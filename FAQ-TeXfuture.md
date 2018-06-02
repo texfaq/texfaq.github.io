@@ -6,8 +6,6 @@ redirect_from: /FAQ-texfuture
 date: 2018-05-27
 ---
 
-# What is the future of TeX?
-
 Knuth has declared that he will do no further development of TeX;
 he will continue to fix any bugs that are reported to him (though
 bugs are rare).  This decision was made soon after

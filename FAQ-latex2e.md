@@ -5,8 +5,6 @@ permalink: /FAQ-latex2e
 date: 2018-05-27
 ---
 
-# What is LaTeX2e?
-
 Lamport's last version of LaTeX (LaTeX 2.09, last updated in 1992)
 was superseded in 1994 by a new version (LaTeX2e) provided by
 [the LaTeX team](FAQ-LaTeX3).

@@ -5,8 +5,6 @@ permalink: /FAQ-mfptutorials
 date: 2014-06-10
 ---
 
-# MetaFont and MetaPost Tutorials
-
 Apart from Knuth's book, there seems to be only one publicly-available
 [tutorial for MetaFont](http://metafont.tutorial.free.fr/), by
 Christophe Grandsire (a copy in PDF form may be downloaded).

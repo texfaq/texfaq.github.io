@@ -6,8 +6,6 @@ permalink: /FAQ-reallyblank
 date: 2014-06-10
 ---
 
-# Really blank pages between chapters
-
 If you're using the standard classes, you need to take special action;
 the [`memoir`](https://ctan.org/pkg/memoir) class and the [`Koma-Script`](https://ctan.org/pkg/Koma-Script) classes provide
 their own support for this&nbsp;&mdash; see below. 

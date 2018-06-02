@@ -5,8 +5,6 @@ permalink: /FAQ-extrabrace
 date: 2014-06-10
 ---
 
-# An extra `}`?
-
 You've looked at your LaTeX source and there's no sign of a misplaced
 `}` on the line in question.
 

@@ -6,8 +6,6 @@ permalink: /FAQ-cmdstar
 date: 2014-06-10
 ---
 
-# Commands defined with * options
-
 LaTeX commands commonly have ''versions'' defined with an asterisk
 tagged onto their name: for example `\newcommand` and
 `\newcommand*` (the former defines a `\long` version of the

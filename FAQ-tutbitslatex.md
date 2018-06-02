@@ -5,8 +5,6 @@ permalink: /FAQ-tutbitslatex
 date: 2014-06-10
 ---
 
-# (La)TeX tutorials
-
 The AMS publishes a ''Short Math Guide for LaTeX'', which is
 available (in several formats) via
 [http://www.ams.org/tex/amslatex.html](http://www.ams.org/tex/amslatex.html)

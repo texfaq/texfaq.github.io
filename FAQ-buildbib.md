@@ -5,8 +5,6 @@ permalink: /FAQ-buildbib
 date: 2014-06-10
 ---
 
-# Creating a BibTeX bibliography file
-
 A BibTeX bibliography file may reasonably be compared to a small
 database, the entries in which are references to literature that may
 be called up by citations in a document.

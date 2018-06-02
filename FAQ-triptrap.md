@@ -5,8 +5,6 @@ permalink: /FAQ-triptrap
 date: 2014-06-10
 ---
 
-# How can I be sure it's really TeX?
-
 TeX (and MetaFont and MetaPost) are written in a
   [''literate'' programming](FAQ-lit) language called `Web`
 which is designed to be portable across a wide range of computer

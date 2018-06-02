@@ -6,8 +6,6 @@ permalink: /FAQ-limits
 date: 2014-06-10
 ---
 
-# Sub- and superscript positioning for operators
-
 The commonest hand-written style for expressions is to place the limit
 expressions on operators such as `\sum` and `\int` physically
 above and below the operator.  In (La)TeX, we write these limit

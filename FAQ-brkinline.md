@@ -6,8 +6,6 @@ permalink: /FAQ-brkinline
 date: 2014-06-10
 ---
 
-# Line-breaking in in-line maths
-
 TeX, by default, allows you to split a mathematical expression at
 the end of the line; it allows breaks at relational operators (like
 ''='', ''<'', etc.) and at binary operators (like ''+'',

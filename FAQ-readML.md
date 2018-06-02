@@ -6,8 +6,6 @@ redirect_from: /FAQ-readml
 date: 2014-06-10
 ---
 
-# Using TeX to read SGML or XML directly
-
 [ConTeXt (mark IV)](FAQ-context) can process some
 *ML, to produce typeset output directly.  Details of what can
 (and can not) be done, are discussed in 

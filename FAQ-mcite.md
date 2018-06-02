@@ -6,8 +6,6 @@ permalink: /FAQ-mcite
 date: 2014-06-10
 ---
 
-# Multiple citations
-
 A convention sometimes used in physics journals is to ''collapse'' a group of
 related citations into a single entry in the bibliography.  BibTeX,
 by default, can't cope with this arrangement, but the [`mcite`](https://ctan.org/pkg/mcite)

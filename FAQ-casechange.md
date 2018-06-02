@@ -5,8 +5,6 @@ permalink: /FAQ-casechange
 date: 2014-06-10
 ---
 
-# Case-changing oddities
-
 TeX provides two primitive commands `\uppercase` and
 `\lowercase` to change the case of text; they're not much used, but
 are capable creating confusion.

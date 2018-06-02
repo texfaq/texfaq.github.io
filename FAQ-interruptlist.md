@@ -6,8 +6,6 @@ permalink: /FAQ-interruptlist
 date: 2014-06-10
 ---
 
-# Interrupting enumerated lists
-
 It's often convenient to have commentary text, ''outside'' the list,
 between successive entries of a list.  In the case of
 `itemize` lists this is no problem, since there's never

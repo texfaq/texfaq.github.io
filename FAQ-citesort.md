@@ -6,8 +6,6 @@ permalink: /FAQ-citesort
 date: 2014-06-10
 ---
 
-# Sorting and compressing citations
-
 If you give LaTeX
 `\cite{fred,joe,harry,min}`, its default commands could give
 something like ''[2,6,4,3]'';

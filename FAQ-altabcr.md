@@ -5,8 +5,6 @@ permalink: /FAQ-altabcr
 date: 2014-06-10
 ---
 
-# Alignment tab changed to `\cr`
-
 This is an error you may encounter in LaTeX when a tabular
 environment is being processed.  ''Alignment tabs'' are the
 `\&` signs that separate the columns of a `tabular`

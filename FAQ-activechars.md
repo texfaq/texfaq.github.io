@@ -6,8 +6,6 @@ permalink: /FAQ-activechars
 date: 2014-06-10
 ---
 
-# Defining characters as macros
-
 Single characters can act as macros (defined commands), and both
 Plain TeX and LaTeX define the character
 `~` as a ''non-breakable space''.  A

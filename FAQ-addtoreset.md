@@ -6,8 +6,6 @@ permalink: /FAQ-addtoreset
 date: 2014-06-10
 ---
 
-# Master and slave counters
-
 It's common to have things numbered ''per chapter'' (for example, in
 the standard [`book`](https://ctan.org/pkg/book) and
 [`report`](https://ctan.org/pkg/report) classes, figures, tables

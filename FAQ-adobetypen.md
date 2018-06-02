@@ -5,8 +5,6 @@ permalink: /FAQ-adobetypen
 date: 2014-06-10
 ---
 
-# Adobe font formats
-
 Adobe has specified a number of formats for files to represent fonts
 in PostScript files; this question doesn't attempt to be encyclopaedic, so
 we only discuss the two formats most commonly encountered in the

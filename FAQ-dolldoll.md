@@ -5,8 +5,6 @@ permalink: /FAQ-dolldoll
 date: 2014-06-10
 ---
 
-# Why use `\[` &hellip;`\]` in place of `$$` &hellip; `$$`?
-
 LaTeX defines inline- and display-maths commands, apparently
 duplicating the TeX primitive maths sequences which surround maths
 commands with single (or pairs of) dollar signs.

@@ -5,8 +5,6 @@ permalink: /FAQ-toodeep
 date: 2014-06-10
 ---
 
-# ''Too deeply nested''
-
 This error appears when you start a LaTeX list.
 
 LaTeX keeps track of the nesting of one list inside another.  There

@@ -5,8 +5,6 @@ permalink: /FAQ-uploads
 date: 2014-06-10
 ---
 
-# Contributing a file to the archives
-
 You have something to submit to the archive&nbsp;&mdash; good news!
 
 Before we even start, here's a check-list of things to sort out:

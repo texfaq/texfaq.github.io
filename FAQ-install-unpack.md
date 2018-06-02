@@ -5,8 +5,6 @@ permalink: /FAQ-install-unpack
 date: 2014-06-10
 ---
 
-# Unpacking LaTeX packages
-
 As discussed [elsewhere](FAQ-dtx), the 'ordinary' way to
 distribute a LaTeX package is as a pair of files `package.dtx`
 and `package.ins`.  If you've acquired such a pair, you simply

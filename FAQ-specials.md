@@ -5,8 +5,6 @@ permalink: /FAQ-specials
 date: 2014-06-10
 ---
 
-# `\special` commands
-
 TeX provides the means to express things that device drivers can
 do, but about which TeX itself knows nothing.  For example, TeX
 itself knows nothing about how to include PostScript figures into

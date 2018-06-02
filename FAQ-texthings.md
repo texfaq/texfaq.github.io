@@ -5,13 +5,9 @@ permalink: /FAQ-texthings
 date: 2018-05-26
 ---
 
-# Things with ''TeX'' in the name
-
 New TeX users are often baffled by the myriad terms with ''TeX''
 in the name.  The goal of this answer is to clarify some of the more
 common such terms.
-
-## TeX itself
 
 TeX proper is a typesetting system based on a set of low-level
 control sequences that instruct TeX how to lay out text on the
@@ -26,8 +22,6 @@ information on TeX and
 [some reference documents](FAQ-ref-doc) for pointers to
 descriptions of TeX control sequences, data types, and other key
 parts of TeX.
-
-## TeX macro packages (a.k.a.&nbsp;TeX formats)
 
 Some of TeX's control sequences are tedious to use directly; they are
 intended primarily as building blocks for higher-level&nbsp;&mdash; and therefore
@@ -91,8 +85,6 @@ that you are likely to encounter:
   - Eplain&nbsp;&mdash; Extended Plain TeX (executable: `eplain`)
   See
   [What is Eplain?](FAQ-eplain).
-
-## Modified `tex` executables
 
 The original `tex` executable was produced in the late 1970s
 (cf.&nbsp;[What is TeX?](FAQ-whatTeX)) and consequently
@@ -158,8 +150,6 @@ This executable may be offered with a LaTeX format (as
 TeX executable using Plain TeX, for people such as Knuth himself,
 who want the certainty of the ''original''.)
 
-## TeX distributions
-
 A _TeX distribution_ provides a structured collection of
 TeX-related software.  Generally, a TeX distribution includes a
 set of ''core'' TeX executables such as `tex` and
@@ -182,8 +172,6 @@ distributions are free; a few require payment.  See
 list of free and shareware TeX distributions and 
 [Commercial TeX implementations](FAQ-commercial) for a
 list of commercial TeX distributions.
-
-## Summary
 
 What does it all mean?&nbsp;&mdash; the simple lists of objects, alone, offer
 no help for the beginner.  The FAQ team expects this answer

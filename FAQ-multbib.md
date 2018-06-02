@@ -6,8 +6,6 @@ permalink: /FAQ-multbib
 date: 2014-06-10
 ---
 
-# Multiple bibliographies?
-
 If you're thinking of multiple bibliographies tied to some part of
 your document (such as the chapters within the document), please see
 [bibliographies per chapter](FAQ-chapbib).

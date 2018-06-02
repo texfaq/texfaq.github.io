@@ -6,8 +6,6 @@ permalink: /FAQ-varwidcol
 date: 2014-06-10
 ---
 
-# Variable-width columns in tables
-
 This is a slightly different take on the problem addressed in
 ''[fixed-width tables](FAQ-fixwidtab)''&nbsp;&mdash; here we have
 a column whose size we can't absolutely predict when we design the

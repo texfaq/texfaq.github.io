@@ -5,8 +5,6 @@ permalink: /FAQ-verbfile
 date: 2014-06-10
 ---
 
-# Including a file verbatim in LaTeX
-
 A good way is to use Rainer Schöpf's [`verbatim`](https://ctan.org/pkg/verbatim) package,
 which provides a command `\verbatiminput` that takes a file name as
 argument:

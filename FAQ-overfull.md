@@ -5,8 +5,6 @@ permalink: /FAQ-overfull
 date: 2014-06-10
 ---
 
-# (La)TeX makes overfull lines
-
 When TeX is building a paragraph, it can make several attempts to
 get the line-breaking right; on each attempt it runs the same
 algorithm, but gives it different parameters.  You can affect the way

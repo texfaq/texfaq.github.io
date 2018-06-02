@@ -5,8 +5,6 @@ permalink: /FAQ-instmffont
 date: 2014-06-10
 ---
 
-# Installing a font provided as MetaFont source
-
 Installing Metafont fonts is (by comparison with other sorts of font) rather
 pleasingly simple.  Nowadays, they are mostly distributed just as the
 MetaFont source, since modern TeX distributions are able to produce

@@ -6,8 +6,6 @@ permalink: /FAQ-tocbibind
 date: 2014-06-10
 ---
 
-# Bibliography, index, etc., in TOC
-
 The standard LaTeX classes (and many others) use `\section*` or
 `\chapter*` for auto-generated parts of the document (the tables of
 contents, lists of figures and tables, the bibliography and the index).  As a

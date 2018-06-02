@@ -5,8 +5,6 @@ permalink: /FAQ-dvips-pdf
 date: 2014-06-10
 ---
 
-# Quality of PDF from PostScript
-
 Any reasonable PostScript, including any output of `dvips`, may be
 converted to PDF, using (for example) a sufficiently recent
 version of [`ghostscript`](https://www.ghostscript.com/),

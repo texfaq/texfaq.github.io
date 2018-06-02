@@ -5,8 +5,6 @@ permalink: /FAQ-buffovl
 date: 2014-06-10
 ---
 
-# Unable to read an entire line
-
 TeX belongs to the generation of applications written for
 environments that didn't offer the sophisticated string and i/o
 manipulation we nowadays take for granted (TeX was written in

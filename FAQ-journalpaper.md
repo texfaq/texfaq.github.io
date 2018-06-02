@@ -6,8 +6,6 @@ permalink: /FAQ-journalpaper
 date: 2014-06-10
 ---
 
-# Setting papers for journals
-
 Publishers of journals have a wide range of requirements for the
 presentation of papers, and while many publishers do accept electronic
 submissions in (La)TeX, they don't often submit recommended macros to

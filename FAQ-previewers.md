@@ -5,8 +5,6 @@ permalink: /FAQ-previewers
 date: 2014-06-10
 ---
 
-# DVI previewers
-
 EmTeX for PCs running MS-DOS or OS/2, MiKTeX and
 XEmTeX for PCs running Windows and OzTeX for the Macintosh, all
 come with previewers that can be used on those platforms. EmTeX's

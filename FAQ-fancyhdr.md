@@ -6,8 +6,6 @@ permalink: /FAQ-fancyhdr
 date: 2014-06-10
 ---
 
-# Alternative head- and footlines in LaTeX
-
 The standard LaTeX document classes define a small set of ''page
 styles'' which specify head- and footlines for your document (though
 they can be used for other purposes, too).  The standard set is very

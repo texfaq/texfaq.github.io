@@ -6,8 +6,6 @@ permalink: /FAQ-slashbox
 date: 2014-06-10
 ---
 
-# Diagonal separation in corner cells of tables
-
 You want to label both the top or bottom row and the left- or
 rightmost column, somewhere at the corner of the table where the row
 and column meet.  A simple way to achieve the result is to construct

@@ -5,8 +5,6 @@ permalink: /FAQ-splitfoot
 date: 2014-06-10
 ---
 
-# Why does LaTeX split footnotes across pages?
-
 LaTeX splits footnotes when it can think of nothing better to do.
 Typically, when this happens, the footnote mark is at the bottom of
 the page, and the complete footnote would overfill the page.  LaTeX

@@ -6,8 +6,6 @@ permalink: /FAQ-spinmacro
 date: 2014-06-10
 ---
 
-# Spaces in macros
-
 It's very easy to write macros that produce space in the typeset
 output where it's neither desired nor expected.  Spaces introduced by
 macros are particularly insidious because they don't amalgamate with

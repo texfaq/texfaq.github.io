@@ -6,8 +6,6 @@ redirect_from: /FAQ-fuzzy-t1
 date: 2014-06-10
 ---
 
-# Fonts go fuzzy when you switch to T1
-
 You've been having problems with hyphenation, and someone has
 suggested that you should use `\usepackage[T1]{fontenc}`
 to help sort them out.  Suddenly you find that your final PDF

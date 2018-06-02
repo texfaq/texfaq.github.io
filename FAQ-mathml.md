@@ -5,8 +5,6 @@ permalink: /FAQ-mathml
 date: 2018-05-25
 ---
 
-# Math on the Web
-
 An earlier answer 
 ([''converting to HTML''](FAQ-LaTeX2HTML))
 addresses the issue of converting existing (La)TeX documents for

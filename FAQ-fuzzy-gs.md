@@ -5,8 +5,6 @@ permalink: /FAQ-fuzzy-gs
 date: 2014-06-10
 ---
 
-# Fuzzy fonts because `Ghostscript` too old
-
 So you've done everything the FAQ has told you that you need,
 correct fonts properly installed and appearing in the `dvips`
 output, but _still_ you get fuzzy character output after

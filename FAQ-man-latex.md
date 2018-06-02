@@ -5,8 +5,6 @@ permalink: /FAQ-man-latex
 date: 2014-06-10
 ---
 
-# Online introductions: LaTeX
-
 A pleasing little document, ''Getting something out of LaTeX'' is
 designed to give a feel of LaTeX to someone who's never used it at
 all.  It's not a tutorial, merely helps the user to decide whether to

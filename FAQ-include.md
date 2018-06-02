@@ -5,8 +5,6 @@ permalink: /FAQ-include
 date: 2014-06-10
 ---
 
-# What's going on in my `\include` commands?
-
 The original LaTeX provided the `\include` command to address the
 problem of long documents: with the relatively slow computers of the
 time, the companion `\includeonly` facility was a boon.  With the

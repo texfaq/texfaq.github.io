@@ -5,8 +5,6 @@ permalink: /FAQ-writecls
 date: 2014-06-10
 ---
 
-# Learning to write LaTeX classes and packages
-
 There's nothing particularly magic about the commands you use when
 writing a package, so you can simply bundle up a set of LaTeX
 `\(re)newcommand` and `\(re)newenvironment` commands, put them in

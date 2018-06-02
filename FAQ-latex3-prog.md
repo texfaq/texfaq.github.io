@@ -5,8 +5,6 @@ permalink: /FAQ-latex3-prog
 date: 2014-06-10
 ---
 
-# LaTeX3 programming
-
 As yet, there is no book ''Programming in LaTeX3'', and even if
 such a thing existed there would be lots of gaps.  So there is no
 _comprehensive_ support.

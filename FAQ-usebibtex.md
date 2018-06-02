@@ -6,8 +6,6 @@ permalink: /FAQ-usebibtex
 date: 2014-06-10
 ---
 
-# ''Normal'' use of BibTeX from LaTeX
-
 To create a bibliography for your document, you need to perform a
 sequence of steps, some of which seem a bit odd.  If you choose to use
 BibTeX, the sequence is:

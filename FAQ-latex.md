@@ -5,8 +5,6 @@ permalink: /FAQ-latex
 date: 2014-06-10
 ---
 
-# What is LaTeX?
-
 LaTeX is a TeX macro package, originally written by Leslie Lamport, that
 provides a document processing system.  LaTeX allows markup to
 describe the structure of a document, so that the user

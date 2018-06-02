@@ -5,8 +5,6 @@ permalink: /FAQ-fonts-pln
 date: 2014-06-10
 ---
 
-# Using non-standard fonts in Plain TeX
-
 Plain TeX (in accordance with its description) doesn't do anything
 fancy with fonts: it sets up the fonts that Knuth found he needed when
 writing the package, and leaves you to do the rest.

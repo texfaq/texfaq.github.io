@@ -5,8 +5,6 @@ permalink: /FAQ-hyperdupdest
 date: 2014-06-10
 ---
 
-# pdfTeX destination &hellip; ignored
-
 The warning:
 ```latex
 ! pdfTeX warning (ext4): destination with the same identifier

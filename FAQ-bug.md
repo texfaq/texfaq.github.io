@@ -5,8 +5,6 @@ permalink: /FAQ-bug
 date: 2018-05-24
 ---
 
-# What to do if you find a bug
-
 For a start, make entirely sure you _have_ found a bug.
 Double-check with books about TeX, LaTeX, or whatever you're using;
 compare what you're seeing against the other answers above; ask every

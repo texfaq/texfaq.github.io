@@ -6,8 +6,6 @@ redirect_from: /FAQ-texpronounce
 date: 2014-06-10
 ---
 
-# How should I pronounce ''TeX''?
-
 The ''X'' is ''really'' the Greek letter 
 Chi, and is pronounced by
 English-speakers either a bit like the ''ch'' in the Scots word ''loch''

@@ -6,8 +6,6 @@ permalink: /FAQ-ltxhash
 date: 2014-06-10
 ---
 
-# Defining LaTeX commands within other commands
-
 LaTeX command definition is significantly different from the TeX
 primitive form discussed in an 
 [earlier question](FAQ-hash) about definitions within

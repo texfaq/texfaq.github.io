@@ -5,8 +5,6 @@ permalink: /FAQ-plainvltx
 date: 2014-06-10
 ---
 
-# Should I use Plain TeX or LaTeX?
-
 There's no straightforward answer to this question.  Many people swear
 by Plain TeX, and produce highly respectable documents using it
 (Knuth is an example of this, of course).  But equally, many people

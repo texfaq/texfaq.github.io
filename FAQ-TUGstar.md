@@ -6,8 +6,6 @@ redirect_from: /FAQ-tugstar
 date: 2014-06-10
 ---
 
-# TeX User Groups
-
 There has been a TeX User Group since very near the time TeX
 first appeared.  That first group, TUG, is still active and its
 journal _TUGboat_ continues in regular publication

@@ -5,8 +5,6 @@ permalink: /FAQ-newfontstar
 date: 2014-06-10
 ---
 
-# What's wrong with `\newfont`?
-
 If all else fails, you _can_ specify a font using the LaTeX
 `\newfont` command.  The font so specified doesn't fit into the
 LaTeX font selection mechanism, but the technique can be tempting

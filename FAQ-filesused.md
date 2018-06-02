@@ -5,8 +5,6 @@ permalink: /FAQ-filesused
 date: 2014-06-10
 ---
 
-# All the files used by this document
-
 When you're sharing a document with someone else (perhaps as part of a
 co-development cycle) it's as well to arrange that both correspondents
 have the same set of auxiliary files, as well as the document in

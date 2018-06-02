@@ -5,8 +5,6 @@ permalink: /FAQ-nocitestar
 date: 2014-06-10
 ---
 
-# Listing all your BibTeX entries
-
 LaTeX and BibTeX co-operate to offer special treatment of this
 requirement.  The command `\nocite{*}` is specially treated,
 and causes BibTeX to generate bibliography entries for every entry

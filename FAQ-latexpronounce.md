@@ -5,8 +5,6 @@ permalink: /FAQ-latexpronounce
 date: 2014-06-10
 ---
 
-# How should I pronounce ''LaTeX(2<sub>&epsilon;</sub>)''?
-
 Lamport never recommended how one should pronounce LaTeX, but a lot
 of people pronounce it ''Lay TeX'' or perhaps ''Lah TeX'' (with
 TeX pronounced as the program itself; see

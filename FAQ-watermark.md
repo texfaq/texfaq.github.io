@@ -6,8 +6,6 @@ permalink: /FAQ-watermark
 date: 2014-06-10
 ---
 
-# ''Watermarks'' on every page
-
 It's often useful to place some text (such as ''DRAFT'') in the
 background of every page of a document.  For LaTeX users, the
 simplest way to do this uses the [`draftcopy`](https://ctan.org/pkg/draftcopy) package.  This

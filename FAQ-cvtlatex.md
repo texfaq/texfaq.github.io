@@ -6,8 +6,6 @@ permalink: /FAQ-cvtlatex
 date: 2014-06-10
 ---
 
-# Transcribing LaTeX command definitions
-
 At several places in this FAQ, questions are answered in terms
 of how to program a LaTeX macro.  Sometimes, these macros might
 also help users of Plain TeX or other packages; this answer

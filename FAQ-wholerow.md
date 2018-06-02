@@ -6,8 +6,6 @@ permalink: /FAQ-wholerow
 date: 2014-06-10
 ---
 
-# How to change a whole row of a table
-
 Each cell of a table is set in a box, so that a change of font style
 (or whatever) only lasts to the end of the cell.  If one has a
 many-celled table, or a long one which needs lots of rows emphasising,

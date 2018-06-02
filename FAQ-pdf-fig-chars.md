@@ -5,8 +5,6 @@ permalink: /FAQ-pdf-fig-chars
 date: 2014-06-10
 ---
 
-# Characters disappear from figures in pdfTeX
-
 You have a PDF figure, which you want to use in your
 pdfLaTeX document.  When you compile the document, pdfTeX
 complains about ''missing glyphs'', and some (or all) of the labelling

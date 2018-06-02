@@ -5,8 +5,6 @@ permalink: /FAQ-whatmacros
 date: 2014-06-10
 ---
 
-# What are (TeX) macros
-
 TeX is a _macro processor_: this is a computer-science-y term
 meaning ''text expander'' (more or less); TeX typesets text as it
 goes along, but _expands_ each macro it finds.  TeX's macros

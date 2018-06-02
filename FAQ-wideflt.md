@@ -6,8 +6,6 @@ permalink: /FAQ-wideflt
 date: 2014-06-10
 ---
 
-# Centring a very wide figure or table
-
 The normal means of centring a figure or table object is to include
 `\centering` at the top of the float.  This doesn't help if the
 object is wider than `\textwidth`&nbsp;&mdash; the object starts at the left

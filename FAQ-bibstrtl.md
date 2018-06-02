@@ -5,8 +5,6 @@ permalink: /FAQ-bibstrtl
 date: 2014-06-10
 ---
 
-# ''String too long'' in BibTeX
-
 The BibTeX diagnostic ''Warning&ndash;you've exceeded 1000, the
 `global-string-size`, for entry `foo` usually arises
 from a very large abstract or annotation included in the database.

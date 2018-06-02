@@ -5,8 +5,6 @@ permalink: /FAQ-breakbox
 date: 2014-06-10
 ---
 
-# Breaking boxes of text
-
 (La)TeX boxes may not be broken, in ordinary usage: once you've
 typeset something into a box, it will stay there, and the box will jut
 out beyond the side or the bottom of the page if it doesn't fit in the

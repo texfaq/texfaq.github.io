@@ -5,8 +5,6 @@ permalink: /FAQ-tabacc
 date: 2014-06-10
 ---
 
-# Accents misbehave in `tabbing`
-
 So you are constructing a `tabbing` environment, and you
 have the need of some diacriticised text&nbsp;&mdash; perhaps something as simple
 as `\'{e}`&nbsp;&mdash; and the accent disappears because it has been

@@ -6,8 +6,6 @@ permalink: /FAQ-msxy
 date: 2014-06-10
 ---
 
-# Where are the `msx` and `msy` fonts?
-
 The `msx` and `msy` fonts were designed by the
 American Mathematical Society in the very early days of TeX, for
 use in typesetting papers for mathematical journals.  They were

@@ -6,8 +6,6 @@ redirect_from: /FAQ-seturl
 date: 2014-06-10
 ---
 
-# Typesetting URLs
-
 URLs tend to be very long, and contain characters that would
 naturally prevent them being hyphenated even if they weren't typically
 set in `\ttfamily`, verbatim.  Therefore, without special treatment,

@@ -6,8 +6,6 @@ permalink: /FAQ-pagebychap
 date: 2014-06-10
 ---
 
-# Page numbering by chapter
-
 When I was a young man, a common arrangement for loose bound technical
 manuals is to number pages by chapter.  (It's quite a good scheme, in
 those situations: even if your corrections add a whole page to the

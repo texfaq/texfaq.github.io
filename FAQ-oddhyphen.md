@@ -6,8 +6,6 @@ permalink: /FAQ-oddhyphen
 date: 2014-06-10
 ---
 
-# (Merely) peculiar hyphenation
-
 You may have found that TeX's famed automatic word-division does
 not produce the break-points recommended by your dictionary. This may be
 because TeX is set up for American English, whose rules for word

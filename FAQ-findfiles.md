@@ -5,8 +5,6 @@ permalink: /FAQ-findfiles
 date: 2014-06-10
 ---
 
-# Finding (La)TeX files
-
 Modern TeX distributions contain a huge array of various sorts of
 files, but sooner or later most people need to find something that's
 not in their present system (if nothing else, because they've heard

@@ -7,8 +7,6 @@ redirect_from: /FAQ-amspkg
 date: 2018-05-27
 ---
 
-# What are the AMS packages (`amsmath`, etc.)?
-
 There are two components to the AMS LaTeX packages:
 [`amsmath`](https://ctan.org/pkg/latex-amsmath) (a collection of
 packages that implements multi-line displayed equations, equation numbering,
@@ -25,8 +23,6 @@ Early in 2016, maintenance of `amsmath` was transferred to the LaTeX Project
 team; responsibility for the document classes and `amsthm` remains with the
 AMS. The canonical versions of the two collections reside on CTAN in distinct
 areas.
-
-## History
 
 These packages were derived from AMSTeX, a TeX macro package based on Plain
 TeX, originally written by Michael Spivak for the American Mathematical Society

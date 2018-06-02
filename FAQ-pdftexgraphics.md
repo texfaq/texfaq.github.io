@@ -5,8 +5,6 @@ permalink: /FAQ-pdftexgraphics
 date: 2014-06-10
 ---
 
-# Imported graphics in pdfLaTeX
-
 pdfTeX itself has a rather wide range of formats that it can
 ''natively'' incorporate into its output PDF stream:
 JPEG (`jpg` files) for photographs and similar images,

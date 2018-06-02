@@ -6,8 +6,6 @@ date: 2014-06-10
 redirect_from: /FAQ-HPdrivers
 ---
 
-# What is a DVI driver?
-
 A DVI driver is a program that takes as input a
 [DVI file](FAQ-dvi)
 and (usually) produces a file in a format that something _other_

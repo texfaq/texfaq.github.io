@@ -5,8 +5,6 @@ permalink: /FAQ-graphicspath
 date: 2014-06-10
 ---
 
-# Importing graphics from ''somewhere else''
-
 By default, graphics commands like `\includegraphics` look
 ''wherever TeX files are found'' for the graphic file they're being
 asked to use.  This can reduce your flexibility if you choose to hold

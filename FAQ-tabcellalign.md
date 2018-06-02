@@ -6,8 +6,6 @@ permalink: /FAQ-tabcellalign
 date: 2014-06-10
 ---
 
-# How to alter the alignment of tabular cells
-
 One often needs to alter the alignment of a tabular `p` (''paragraph'')
 cell, but problems at the end of a table row are common.  With a
 `p` cell that looks like:

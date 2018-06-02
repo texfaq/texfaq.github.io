@@ -6,8 +6,6 @@ permalink: /FAQ-mathlips
 date: 2014-06-10
 ---
 
-# Ellipses
-
 Ellipses are commonly required, and LaTeX natively supplies a fair
 range (`\dots`, `\cdots`, `\vdots` and `\ddots`).  By using
 the [`graphics`](https://ctan.org/pkg/graphics) package, one can change the slope of the

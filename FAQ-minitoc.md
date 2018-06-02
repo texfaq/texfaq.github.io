@@ -6,8 +6,6 @@ permalink: /FAQ-minitoc
 date: 2014-06-10
 ---
 
-# Table of contents, etc., per chapter
-
 The common style, of a ''small'' table of contents for each part,
 chapter, or even section, is supported by the [`minitoc`](https://ctan.org/pkg/minitoc)
 package.  The package also supports mini-lists of tables and figures;

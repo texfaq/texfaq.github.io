@@ -5,8 +5,6 @@ permalink: /FAQ-psfchoice
 date: 2014-06-10
 ---
 
-# Choice of Type&nbsp;1 fonts for typesetting Maths
-
 If you are interested in text alone, you can in principle use any of
 the huge numbers of text fonts in Adobe Type&nbsp;1, TrueType or OpenType
 formats.  The constraint is, of course, that your previewer and

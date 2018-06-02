@@ -5,8 +5,6 @@ permalink: /FAQ-bibprefixsort
 date: 2014-06-10
 ---
 
-# BibTeX sorting and name prefixes
-
 BibTeX recognises a bewildering array of name prefixes (mostly
 those deriving from European language names); it ignores the prefixes
 when sorting the bibliography&nbsp;&mdash; you want ''Ludwig van Beethoven''

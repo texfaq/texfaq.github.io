@@ -5,8 +5,6 @@ permalink: /FAQ-entercompmode
 date: 2014-06-10
 ---
 
-# Entering compatibility mode
-
 You run your LaTeX job, and it starts by saying
 ```latex
 Entering LaTeX 2.09 COMPATIBILITY MODE

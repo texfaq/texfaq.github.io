@@ -5,8 +5,6 @@ permalink: /FAQ-other-books
 date: 2014-06-10
 ---
 
-# Books on other TeX-related matters
-
 There's a nicely-presented list of of ''recommended books'' to be had
 on the web: [http://www.macrotex.net/texbooks/]
 

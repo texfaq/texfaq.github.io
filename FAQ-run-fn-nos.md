@@ -5,8 +5,6 @@ permalink: /FAQ-run-fn-nos
 date: 2014-06-10
 ---
 
-# Not resetting footnote numbers per chapter
-
 Some classes (for example, [`book`](https://ctan.org/pkg/book) and [`report`](https://ctan.org/pkg/report)) set up a
 different set of footnotes per chapter, by resetting the footnote
 number at the start of the chapter.  This is essentially the same

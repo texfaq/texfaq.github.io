@@ -5,8 +5,6 @@ permalink: /FAQ-overstrike
 date: 2014-06-10
 ---
 
-# Overstriking characters
-
 This may be used, for example, to indicate text deleted in the course
 of editing.  Both the [`ulem`](https://ctan.org/pkg/ulem) and the [`soul`](https://ctan.org/pkg/soul) packages
 provide the necessary facilities.

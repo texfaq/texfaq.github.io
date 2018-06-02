@@ -5,8 +5,6 @@ permalink: /FAQ-nonpdfsp
 date: 2014-06-10
 ---
 
-# Non-PDF special ignored!
-
 This is a pdfTeX error: pdfTeX is running in PDF output
 mode, and it has encountered a 
 [`\special`](FAQ-specials) command.  pdfTeX is

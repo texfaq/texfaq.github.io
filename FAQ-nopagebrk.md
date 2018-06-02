@@ -6,8 +6,6 @@ permalink: /FAQ-nopagebrk
 date: 2014-06-10
 ---
 
-# Preventing page breaks between lines
-
 One commonly requires that a block of typeset material be kept on the
 same page; it turns out to be surprisingly tricky to arrange this.
 

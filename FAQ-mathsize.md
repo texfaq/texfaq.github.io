@@ -6,8 +6,6 @@ permalink: /FAQ-mathsize
 date: 2014-06-10
 ---
 
-# Adjusting maths font sizes
-
 In Plain TeX, when you introduce a new font size you must also
 declare what size fonts are to be used in mathematics with it.  This
 is done by declaring `\textfont`, `\scriptfont` and

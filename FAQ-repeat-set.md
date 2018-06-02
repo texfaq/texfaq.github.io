@@ -5,8 +5,6 @@ permalink: /FAQ-repeat-set
 date: 2014-06-10
 ---
 
-# Repeating something for each 'thing' in a set
-
 As another question 
 ([repeating something a given number of times](FAQ-repeat-num))
 explains, TeX is not explicitly designed for 'regular' programming

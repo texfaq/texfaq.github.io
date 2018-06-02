@@ -6,8 +6,6 @@ permalink: /FAQ-edef
 date: 2014-06-10
 ---
 
-# `\edef` does not work with `\protect`
-
 Robust LaTeX commands are either ''naturally robust''&nbsp;&mdash; meaning that
 they never need `\protect`, or ''self-protected''&nbsp;&mdash; meaning that
 they have `\protect` built in to their definition in some

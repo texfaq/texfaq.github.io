@@ -6,8 +6,6 @@ redirect_from: /FAQ-wherefaq
 date: 2014-06-10
 ---
 
-# Where to find FAQs
-
 Bobby Bodenheimer's article, from which this FAQ was developed, used
 to be posted (nominally monthly) to newsgroup
 `comp.text.tex`. The (long

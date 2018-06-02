@@ -5,8 +5,6 @@ permalink: /FAQ-tradesyms
 date: 2014-06-10
 ---
 
-# How to get copyright, trademark, etc.
-
 The ''[Comprehensive symbol list](FAQ-symbols)'', lists
 the symbol commands `\textcopyright`,
 `\textregistered` and `\texttrademark`, which are available in

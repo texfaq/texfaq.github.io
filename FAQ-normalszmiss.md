@@ -5,8 +5,6 @@ permalink: /FAQ-normalszmiss
 date: 2014-06-10
 ---
 
-# `\normalsize` not defined
-
 The LaTeX error:
 ```latex
 The font size command \normalsize is not defined:

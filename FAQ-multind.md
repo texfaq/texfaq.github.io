@@ -6,8 +6,6 @@ permalink: /FAQ-multind
 date: 2014-06-10
 ---
 
-# Multiple indexes
-
 LaTeX's standard indexing capabilities (those provided by the
 [`makeidx`](https://ctan.org/pkg/makeidx) package) only provide for one index in your
 document; even quite modest documents can be improved by indexes for

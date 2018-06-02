@@ -5,8 +5,6 @@ permalink: /FAQ-pk
 date: 2014-06-10
 ---
 
-# What are PK files?
-
 PK files (packed raster) are the canonical form of TeX font
 bitmaps.  The output from [MetaFont](FAQ-useMF) includes a generic
 font (GF) file and the utility `gftopk` produces a

@@ -6,8 +6,6 @@ permalink: /FAQ-spaftend
 date: 2014-06-10
 ---
 
-# There's a space added after my environment
-
 You've written your own environment `env`, and it works
 except that a space appears at the start of the first line of typeset
 text after `\end{env}`.  This doesn't happen with similar

@@ -5,8 +5,6 @@ permalink: /FAQ-readtex
 date: 2018-05-27
 ---
 
-# Reading (La)TeX files
-
 So you've been sent an (La)TeX file: what are you going to do with
 it?
 

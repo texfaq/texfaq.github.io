@@ -5,8 +5,6 @@ permalink: /FAQ-archives
 date: 2018-05-28
 ---
 
-# Repositories of TeX material
-
 To aid the archiving and retrieval of of TeX-related files, a
 TUG working group developed the Comprehensive TeX Archive
 Network (CTAN).  Each CTAN site has identical material,

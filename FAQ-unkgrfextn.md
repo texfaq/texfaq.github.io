@@ -5,8 +5,6 @@ permalink: /FAQ-unkgrfextn
 date: 2014-06-10
 ---
 
-# ''Unknown graphics extension''
-
 The LaTeX graphics package deals with several different types of
 DVI (or other) output drivers; each one of them has a potential
 to deal with a different selection of graphics formats.  The package

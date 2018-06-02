@@ -6,8 +6,6 @@ permalink: /FAQ-footintab
 date: 2014-06-10
 ---
 
-# Footnotes in tables
-
 The standard LaTeX `\footnote` command doesn't work in tables;
 the tabular environment (and its ''relations'') traps footnotes, and
 they can't escape to the bottom of the page.  As a result, you get

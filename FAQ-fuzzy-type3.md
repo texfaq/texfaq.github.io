@@ -5,8 +5,6 @@ permalink: /FAQ-fuzzy-type3
 date: 2014-06-10
 ---
 
-# The wrong type of fonts in PDF
-
 This is far the commonest problem: the symptom is that text in the
 document looks ''fuzzy''.
 

@@ -5,8 +5,6 @@ permalink: /FAQ-sysmac
 date: 2014-06-10
 ---
 
-# Macintosh systems
-
 The [TeX collection](FAQ-CD) DVD includes MacTeX,
 which is a Mac-tailored version of TeX&nbsp;Live; details may be found on
 the [TUG web site](https://tug.org/mactex).  If you don't

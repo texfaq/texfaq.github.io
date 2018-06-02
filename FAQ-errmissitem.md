@@ -4,8 +4,6 @@ category: errors
 permalink: /FAQ-errmissitem
 date: 2014-06-10
 ---
-
-# Perhaps a missing `\item`?
 Sometimes, the error
 ```latex
 Something's wrong--perhaps a missing \item

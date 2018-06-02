@@ -6,8 +6,6 @@ permalink: /FAQ-widefigs
 date: 2014-06-10
 ---
 
-# Wide figures in two-column documents
-
 Floating figures and tables ordinarily come out the same width as the
 page, but in two-column documents they're restricted to the width of
 the column.  This is sometimes not good enough; so there are alternative

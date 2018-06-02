@@ -5,8 +5,6 @@ permalink: /FAQ-grffilenames
 date: 2014-06-10
 ---
 
-# ''Modern'' graphics file names
-
 TeX was designed in a world where file names were very simple
 indeed, typically strictly limited both in character set and length.
 In modern systems, such restrictions have largely disappeared, which

@@ -5,8 +5,6 @@ permalink: /FAQ-instfont
 date: 2014-06-10
 ---
 
-# Installing a new font
-
 Fonts are really ''just another package'', and so should be installed
 in the same sort of way as packages.  However, fonts tend to be more
 complicated than the average package, and as a result it's sometimes

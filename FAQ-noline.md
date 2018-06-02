@@ -5,8 +5,6 @@ permalink: /FAQ-noline
 date: 2014-06-10
 ---
 
-# ''No line here to end''
-
 The error
 ```latex
 ! LaTeX Error: There's no line here to end.

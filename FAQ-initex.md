@@ -6,8 +6,6 @@ permalink: /FAQ-initex
 date: 2014-06-10
 ---
 
-# What's happened to `initex`?
-
 In the beginning, (La)TeX was stretching the capacity of every
 system it was ported to, so there was a premium on reducing the size
 of executables.  One way of doing this was to have a separate

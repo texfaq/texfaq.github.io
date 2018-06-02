@@ -5,8 +5,6 @@ permalink: /FAQ-upquot
 date: 2014-06-10
 ---
 
-# Realistic quotes for verbatim listings
-
 The `cmtt` font has ''curly'' quotes,
 which are pleasing on the eye, but don't really tally with what one
 sees on a modern 

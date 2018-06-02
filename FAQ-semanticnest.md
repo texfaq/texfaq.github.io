@@ -5,8 +5,6 @@ permalink: /FAQ-semanticnest
 date: 2014-06-10
 ---
 
-# Capacity exceeded [semantic nest &hellip;]
-
 ```latex
 ! TeX capacity exceeded, sorry [semantic nest size=100].
 ...

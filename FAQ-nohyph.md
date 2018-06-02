@@ -6,8 +6,6 @@ permalink: /FAQ-nohyph
 date: 2014-06-10
 ---
 
-# My words aren't being hyphenated
-
 Let's assume you've selected the right TeX ''language''&nbsp;&mdash; as
 explained in [''how hyphenation works''](FAQ-hyphen),
 you're not likely to get the correct results typesetting one language

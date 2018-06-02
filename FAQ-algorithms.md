@@ -5,8 +5,6 @@ permalink: /FAQ-algorithms
 date: 2014-06-10
 ---
 
-# Typesetting pseudocode in LaTeX
-
 There is no consensus on the ''right'' way to typeset pseudocode.
 Consequently, there are a variety of LaTeX packages to choose from
 for producing æsthetically pleasing pseudocode listings.

@@ -6,8 +6,6 @@ permalink: /FAQ-labelctr
 date: 2014-06-10
 ---
 
-# Making labels from a counter
-
 Suppose we have a LaTeX counter, which we've defined with
 `\newcounter{foo}`.  We can increment the value of the counter
 by `\addtocounter{foo}{1}`, but that's pretty clunky for an

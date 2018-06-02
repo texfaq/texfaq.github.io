@@ -5,8 +5,6 @@ permalink: /FAQ-dvi
 date: 2014-06-10
 ---
 
-# What is a DVI file?
-
 ''DVI'' is supposed to be an acronym for
 DeVice-Independent, meaning that the file may be
 processed for printing or viewing on most kinds of typographic output

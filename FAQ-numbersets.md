@@ -5,8 +5,6 @@ permalink: /FAQ-numbersets
 date: 2014-06-10
 ---
 
-# Symbols for the number sets
-
 Mathematicians commonly use special lettering for the real numbers and
 other standard number sets. Traditionally these were typeset in bold.
 In the ordinary course of events, but mathematicians do not have

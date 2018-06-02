@@ -5,8 +5,6 @@ permalink: /FAQ-logos
 date: 2014-06-10
 ---
 
-# Typesetting all those TeX-related logos
-
 Knuth was making a particular point about the capabilities of TeX
 when he defined the logo.  Unfortunately (in some people's opinion) he thereby
 opened floodgates to give the world a whole range of rather silly

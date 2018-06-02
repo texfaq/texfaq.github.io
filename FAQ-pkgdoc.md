@@ -5,8 +5,6 @@ permalink: /FAQ-pkgdoc
 date: 2014-06-10
 ---
 
-# Documentation of packages
-
 These FAQs regularly suggest packages that will ''solve''
 particular problems.  In some cases, the answer provides a recipe for
 the job.  In other cases, or when the solution needs elaborating, how

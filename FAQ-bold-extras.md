@@ -5,8 +5,6 @@ permalink: /FAQ-bold-extras
 date: 2014-06-10
 ---
 
-# How to do bold-tt or bold-sc
-
 LaTeX, as delivered, offers no means of handling bold ''teletype''
 or small-caps fonts.  There's a practical reason for this (Knuth never
 designed such fonts), but there are typographical considerations too

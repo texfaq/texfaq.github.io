@@ -5,8 +5,6 @@ permalink: /FAQ-hypertex
 date: 2014-06-10
 ---
 
-# The _hyperTeX_ project
-
 The _hyperTeX_ project extended the functionality of all the
 LaTeX cross-referencing commands (including the table of contents)
 to produce `\special` commands which are parsed by DVI processors

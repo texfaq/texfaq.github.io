@@ -5,8 +5,6 @@ permalink: /FAQ-editors
 date: 2014-06-10
 ---
 
-# TeX-friendly editors and shells
-
 There are good TeX-writing environments and editors for most
 operating systems; some are described below, but this is only a
 personal selection:

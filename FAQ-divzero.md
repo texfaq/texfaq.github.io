@@ -5,8 +5,6 @@ permalink: /FAQ-divzero
 date: 2014-06-10
 ---
 
-# Graphics division by zero
-
 While the error
 ```latex
 ! Package graphics Error: Division by 0.

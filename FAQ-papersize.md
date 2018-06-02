@@ -6,8 +6,6 @@ permalink: /FAQ-papersize
 date: 2014-06-10
 ---
 
-# The size of printed output
-
 The final product of a (La)TeX run is something for a person to
 read.  Often, nowadays, that product will be read ''on-screen'', but
 the printed page remains a principal output form.

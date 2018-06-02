@@ -6,8 +6,6 @@ permalink: /FAQ-chngmargonfly
 date: 2014-06-10
 ---
 
-# Changing margins ''on the fly''
-
 One of the surprises characteristic of TeX use is that you cannot
 change the width or height of the text within the document, simply by
 modifying the text size parameters; TeX can't change the text width

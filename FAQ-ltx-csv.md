@@ -5,8 +5,6 @@ permalink: /FAQ-ltx-csv
 date: 2014-06-10
 ---
 
-# Process a CSV file in LaTeX
-
 Comma-separated-variable (CSV) files are a common means of
 interchanging simple data between applications; for example, most
 spreadsheet applications can provide files containing tables of

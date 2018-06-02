@@ -6,8 +6,6 @@ redirect_from: /FAQ-texsystems
 date: 2014-06-10
 ---
 
-# (La)TeX for different machines
-
 We list here the free or shareware packages;
   another question addresses
   [commercial TeX vendors'](FAQ-commercial) products.

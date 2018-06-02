@@ -6,8 +6,6 @@ redirect_from: /FAQ-ouparmd
 date: 2018-05-27
 ---
 
-# Not in outer par mode
-
 For example:
 ```latex
 *\mbox{\marginpar{foo}}

@@ -6,8 +6,6 @@ permalink: /FAQ-multirow
 date: 2014-06-10
 ---
 
-# Merging cells in a column of a table
-
 It's easy to come up with a table design that requires a cell that
 spans several rows.  An example is something where the left-most
 column labels the rest of the table; this can be done (in simple

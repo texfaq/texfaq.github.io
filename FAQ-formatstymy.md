@@ -5,8 +5,6 @@ permalink: /FAQ-formatstymy
 date: 2014-06-10
 ---
 
-# ''Fatal format file error; I'm stymied''
-
 (La)TeX applications often fail with this error when you've been
 playing with the configuration, or have just installed a new version.
 

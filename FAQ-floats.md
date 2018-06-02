@@ -6,8 +6,6 @@ permalink: /FAQ-floats
 date: 2014-06-10
 ---
 
-# Moving tables and figures in LaTeX
-
 Tables and figures have a tendency to surprise, by _floating_
 away from where they were specified to appear.  This is in fact
 perfectly ordinary document design; any professional typesetting

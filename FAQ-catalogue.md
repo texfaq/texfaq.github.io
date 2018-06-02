@@ -6,8 +6,6 @@ permalink: /FAQ-catalogue
 date: 2018-05-27
 ---
 
-# The CTAN catalogue
-
 Most (La)TeX package code is distributed via [CTAN](https:/ctan.org), which
 holds 1000s of contributed bundles. To enable users to find material, CTAN
 offers a ''Browse CTAN'' area, with links to the list of packages, to a list of

@@ -6,8 +6,6 @@ permalink: /FAQ-acroantics
 date: 2014-06-10
 ---
 
-# Adobe `Reader` messing with print size
-
 Printing from Adobe `Reader` shrinks the page ''to fit''
 (_by default_).  Unfortunately, its calculation doesn't consider
 the existing margins of the document, so that it shrinks what it

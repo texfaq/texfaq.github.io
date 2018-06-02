@@ -5,8 +5,6 @@ permalink: /FAQ-graph-pspdf
 date: 2014-06-10
 ---
 
-# Portable imported graphics
-
 A regular need is a document to be distributed in more than
 one format: commonly both PostScript and PDF.  The
 following advice is based on a post by one with much experience of

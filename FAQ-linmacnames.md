@@ -6,8 +6,6 @@ permalink: /FAQ-linmacnames
 date: 2014-06-10
 ---
 
-# Non-letters in macro names
-
 New LaTeX users are often suprised that macro definitions
 containing non-letters, such as
 ```latex

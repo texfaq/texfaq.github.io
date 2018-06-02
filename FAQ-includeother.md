@@ -5,8 +5,6 @@ permalink: /FAQ-includeother
 date: 2014-06-10
 ---
 
-# LaTeX won't include from other directories
-
 You wanted to `\include{../bar/xyz.tex}`, but LaTeX says:
 ```latex
 latex: Not writing to ../bar/xyz.aux (openout_any = p).

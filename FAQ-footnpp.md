@@ -6,8 +6,6 @@ permalink: /FAQ-footnpp
 date: 2014-06-10
 ---
 
-# Footnotes numbered ''per page''
-
 The obvious solution is to make the footnote number reset whenever the
 page number is stepped, using the 
 [LaTeX internal mechanism](FAQ-addtoreset).  Sadly, the place

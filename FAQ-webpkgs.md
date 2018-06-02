@@ -5,8 +5,6 @@ permalink: /FAQ-webpkgs
 date: 2014-06-10
 ---
 
-# WEB systems for various languages
-
 TeX is written in the programming language WEB; WEB
 is a tool to implement the concept of ''literate programming''.
 Knuth's original implementation will be in any respectable

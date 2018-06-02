@@ -6,8 +6,6 @@ permalink: /FAQ-multidoc
 date: 2014-06-10
 ---
 
-# A ''report'' from lots of 'article's
-
 This is a requirement, for example, if one is preparing the
 proceedings of a conference whose papers were submitted in LaTeX.
 

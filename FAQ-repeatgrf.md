@@ -5,8 +5,6 @@ permalink: /FAQ-repeatgrf
 date: 2014-06-10
 ---
 
-# Repeated graphics in a document
-
 A logo or ''watermark'' image, or any other image that is repeated in
 your document, has the potential to make the processed version of the
 document unmanageably large.  The problem is, that the default

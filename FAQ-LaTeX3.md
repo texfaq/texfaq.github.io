@@ -6,8 +6,6 @@ redirect_from: /FAQ-latex3
 date: 2018-05-24
 ---
 
-# The LaTeX project
-
 The [LaTeX project](https://www.latex-project.org/latex3/)
 is a small group of volunteers whose aim is
 to produce a major new document processing system based on the

@@ -6,8 +6,6 @@ permalink: /FAQ-i18nbib
 date: 2014-06-10
 ---
 
-# Non-english bibliographies
-
 Like so much of early (La)TeX software, BibTeX's assumptions were
 firmly rooted in what its author knew well, viz., academic papers in
 English (particularly those with a mathematical bent).  BibTeX's

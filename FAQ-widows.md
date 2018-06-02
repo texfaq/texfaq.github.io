@@ -6,8 +6,6 @@ permalink: /FAQ-widows
 date: 2014-06-10
 ---
 
-# Controlling widows and orphans
-
 Widows (the last line of a paragraph at the start of a page) and
 orphans (the first line of paragraph at the end of a page) interrupt
 the reader's flow, and are generally considered ''bad form'';

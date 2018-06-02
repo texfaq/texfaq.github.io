@@ -6,8 +6,6 @@ permalink: /FAQ-letterclass
 date: 2014-06-10
 ---
 
-# Letters and the like
-
 LaTeX itself provides a [`letter`](https://ctan.org/pkg/letter) document class, which is
 widely disliked; the present author long since gave up trying with
 it.  If you nevertheless want to try it, but are irritated by its way

@@ -6,8 +6,6 @@ permalink: /FAQ-textflow
 date: 2014-06-10
 ---
 
-# Flowing text around figures
-
 There are several LaTeX packages that purport to do this, but they
 all have their limitations because the TeX machine isn't really
 designed to solve this sort of problem.  Piet van Oostrum has

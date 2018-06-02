@@ -5,8 +5,6 @@ permalink: /FAQ-installthings
 date: 2014-06-10
 ---
 
-# Installing things on a (La)TeX system
-
 Installing (or replacing) things on your (La)TeX system has the
 potential to be rather complicated; the following questions attempt to
 provide a step-by-step approach, starting from the point where you've

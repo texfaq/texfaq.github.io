@@ -6,8 +6,6 @@ permalink: /FAQ-secindent
 date: 2014-06-10
 ---
 
-# Indent after section headings
-
 LaTeX implements a style that doesn't indent the first paragraph
 after a section heading.  There are coherent reasons for this, but not
 everyone likes it.

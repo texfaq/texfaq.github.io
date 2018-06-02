@@ -5,8 +5,6 @@ permalink: /FAQ-dvipdfmgraphics
 date: 2014-06-10
 ---
 
-# Imported graphics in `dvipdfm`
-
 `Dvipdfm` (and `dvipdfmx`) translates direct from
 DVI to PDF (all other available routes produce PostScript
 output using `dvips` and then convert that to PDF with

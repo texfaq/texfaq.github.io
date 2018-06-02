@@ -6,8 +6,6 @@ permalink: /FAQ-empty
 date: 2014-06-10
 ---
 
-# Detecting that something is empty
-
 Suppose you need to know that the argument of your command is empty:
 that is, to distinguish between `\cmd{}` 
 and `\cmd{blah}`.  This is pretty simple:

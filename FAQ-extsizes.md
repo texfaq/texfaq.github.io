@@ -6,8 +6,6 @@ permalink: /FAQ-extsizes
 date: 2014-06-10
 ---
 
-# Other ''document font'' sizes?
-
 The LaTeX standard classes have a concept of a (base) ''document
 font'' size; this size is the basis on which other font sizes (those
 from `\tiny` to `\Huge`) are determined.  The classes are designed

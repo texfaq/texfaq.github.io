@@ -6,8 +6,6 @@ permalink: /FAQ-weirdhyphen
 date: 2014-06-10
 ---
 
-# Weird hyphenation of words
-
 If your words are being h-yphenated, like this, with jus-t single
 letters at the 
 beginning or the end of the word, you may have a version mismatch

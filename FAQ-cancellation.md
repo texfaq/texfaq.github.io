@@ -6,8 +6,6 @@ permalink: /FAQ-cancellation
 date: 2014-06-10
 ---
 
-# Cancelling terms in maths expressions
-
 A technique used when explaining the behaviour of expressions or
 equations (often for pedagogical purposes).  The [`cancel`](https://ctan.org/pkg/cancel)
 package provides several variants of cancellation marks

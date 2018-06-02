@@ -5,8 +5,6 @@ permalink: /FAQ-dvi-bmp
 date: 2014-06-10
 ---
 
-# Generating bitmaps from DVI
-
 In the last analysis, any DVI driver or previewer is generating
 bitmaps: bitmaps for placing tiny dots on paper via a laser- or
 inkjet-printer, or bitmaps for filling some portion of your screen.

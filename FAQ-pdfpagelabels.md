@@ -5,8 +5,6 @@ permalink: /FAQ-pdfpagelabels
 date: 2014-06-10
 ---
 
-# [`Hyperref`](https://ctan.org/pkg/Hyperref) and repeated page numbers
-
 The [`book`](https://ctan.org/pkg/book) class (and its friends and relations) automatically
 changes the display of page numbers in the frontmatter of the document
 to lower-case roman.  This is fine for human readers, but if

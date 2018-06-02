@@ -5,8 +5,6 @@ permalink: /FAQ-otf-maths
 date: 2014-06-10
 ---
 
-# Unicode Maths using OpenType fonts
-
 The ISO standard Universal Coding Scheme (UCS), which is
 commonly known as Unicode, was adopted early by the designers of
 TrueType (TTF) and OpenType (OTF) fonts.  The

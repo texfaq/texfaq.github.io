@@ -6,8 +6,6 @@ redirect_from: /FAQ-notwysiwyg
 date: 2018-05-27
 ---
 
-# Why is TeX not a WYSIWYG system?
-
 WYSIWYG is a marketing term (''What you see is what you get'') for
 a particular style of text processor.  WYSIWYG systems are
 characterised by two principal claims: that you type what you want to

@@ -6,8 +6,6 @@ permalink: /FAQ-mathstext
 date: 2014-06-10
 ---
 
-# Text inside maths
-
 When we type maths in (La)TeX, the letters from which we make up
 ordinary text assume a special significance: they all become
 single-letter variable names.  The letters appear in italics, but it's

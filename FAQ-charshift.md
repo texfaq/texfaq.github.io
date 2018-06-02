@@ -5,8 +5,6 @@ permalink: /FAQ-charshift
 date: 2014-06-10
 ---
 
-# Weird characters in `dvips` output
-
 You've innocently generated output, using `dvips`, and there
 are weird transpositions in it: for example, the `fi` ligature has
 appeared as a £ symbol.

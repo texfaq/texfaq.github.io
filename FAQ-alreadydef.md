@@ -5,8 +5,6 @@ permalink: /FAQ-alreadydef
 date: 2014-06-10
 ---
 
-# Package reports ''command already defined''
-
 You load a pair of packages, and the second reports that one of the
 commands it defines is already present.  For example, both the
 [`txfonts`](https://ctan.org/pkg/txfonts) and [`amsmath`](https://ctan.org/pkg/amsmath) define a command `\iint`

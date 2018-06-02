@@ -5,8 +5,6 @@ permalink: /FAQ-book-lists
 date: 2014-06-10
 ---
 
-# Books relevant to TeX and friends
-
 There are too many books for them all to appear in a single list, so
 the following answers aim to cover ''related'' books, with subject
 matter as follows:

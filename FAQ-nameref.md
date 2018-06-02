@@ -6,8 +6,6 @@ permalink: /FAQ-nameref
 date: 2014-06-10
 ---
 
-# Referring to things by their name
-
 LaTeX's labelling mechanism is designed for the impersonal world of
 the academic publication, in which everything has a number: an
 extension is necessary if we are to record the _name_ of things

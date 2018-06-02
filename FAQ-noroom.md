@@ -6,8 +6,6 @@ redirect_from: /FAQ-usepictex
 date: 2018-05-27
 ---
 
-# No room for a new ''_thing_''
-
 The technology available to Knuth at the time TeX was written is
 said to have been particularly poor at managing dynamic storage; as a
 result much of the storage used within TeX is allocated as fixed

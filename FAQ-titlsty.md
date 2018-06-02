@@ -6,8 +6,6 @@ permalink: /FAQ-titlsty
 date: 2014-06-10
 ---
 
-# The style of document titles
-
 The [`titling`](https://ctan.org/pkg/titling) package provides a number of facilities that
 permit manipulation of the appearance of a `\maketitle` command, the
 `\thanks` commands within it, and so on.  The package also defines a

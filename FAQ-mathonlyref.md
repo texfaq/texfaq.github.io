@@ -6,8 +6,6 @@ permalink: /FAQ-mathonlyref
 date: 2014-06-10
 ---
 
-# Numbers for referenced equations only
-
 There are those who consider that papers look untidy with numbers on
 every equation; there is also a school of thought that claims that
 there should be numbers everywhere, in case some reader wants to make

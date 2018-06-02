@@ -6,8 +6,6 @@ permalink: /FAQ-labundef
 date: 2014-06-10
 ---
 
-# Finding if a label is undefined
-
 People seem to want to know (at run time) if a label is undefined (I
 don't actually understand _why_, particularly: it's a transient
 state, and LaTeX deals with it quite well).

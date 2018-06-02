@@ -5,8 +5,6 @@ permalink: /FAQ-time
 date: 2014-06-10
 ---
 
-# Printing the time
-
 TeX has a primitive register that contains ''the number of minutes
 since midnight''; with this knowledge it's a moderately simple
 programming job to print the time (one that no self-respecting

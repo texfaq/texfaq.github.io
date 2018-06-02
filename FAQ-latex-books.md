@@ -5,8 +5,6 @@ permalink: /FAQ-latex-books
 date: 2014-06-10
 ---
 
-# Books on LaTeX
-
 - LaTeX, a Document Preparation System by Leslie Lamport
   (second edition, Addison Wesley, 1994, ISBN-10 0-201-52983-1)
 - Guide to LaTeXHelmut Kopka and Patrick W.&nbsp;Daly (fourth

@@ -6,8 +6,6 @@ redirect_from: /FAQ-ecfonts
 date: 2014-06-10
 ---
 
-# What are the EC fonts?
-
 A font provides a number of _glyphs_. In order that the glyphs
 may be printed, they are [_encoded_](FAQ-whatenc), and the
 encoding is used as an index into tables within the font.  For various

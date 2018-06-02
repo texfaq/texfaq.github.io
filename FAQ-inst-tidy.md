@@ -5,8 +5,6 @@ permalink: /FAQ-inst-tidy
 date: 2014-06-10
 ---
 
-# Tidying up after installation
-
 There's not usually a lot to do after you've completed the steps
 above&nbsp;&mdash; indeed, if you're merely installed files direct from the
 archive, or whatever, there will be precisely nothing left, by way of

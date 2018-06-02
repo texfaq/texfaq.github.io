@@ -5,8 +5,6 @@ permalink: /FAQ-gethelp
 date: 2014-06-10
 ---
 
-# Getting help online
-
 We assume, here, that you have looked at all relevant
 [FAQ answers](FAQ-whereFAQ) you can find, you've looked in
 any [books](FAQ-book-lists) you have, and scanned relevant

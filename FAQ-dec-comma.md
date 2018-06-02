@@ -5,8 +5,6 @@ permalink: /FAQ-dec-comma
 date: 2014-06-10
 ---
 
-# The comma as a decimal separator
-
 TeX embodies the British/American cultural convention of using a
 period as the separator between the whole number and the decimal
 fraction part of a decimal number.  Other cultures use a comma as

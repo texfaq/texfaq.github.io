@@ -6,8 +6,6 @@ permalink: /FAQ-subheight
 date: 2014-06-10
 ---
 
-# Even subscript height
-
 Other things being equal, TeX will aim to position subscripts and
 superscripts in places that ''look good''.  Unfortunately, it only
 does this for the sub- and superscripts of each atom at a time, so if

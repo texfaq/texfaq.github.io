@@ -6,8 +6,6 @@ redirect_from: /FAQ-pspreview
 date: 2014-06-10
 ---
 
-# Previewing files using Type 1 fonts
-
 Originally, free TeX previewers were only capable of displaying
 bitmap (PK) fonts, but free Type&nbsp;1 font rendering software has
 been available for some time, and many previewers now use such

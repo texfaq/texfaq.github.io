@@ -5,8 +5,6 @@ permalink: /FAQ-textrace
 date: 2014-06-10
 ---
 
-# Making outline fonts from MetaFont
-
 `TeXtrace`, originally developed by  Péter Szabó, is a
 bundle of Unix scripts that use  Martin Weber's freeware boundary
 tracing package

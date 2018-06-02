@@ -5,8 +5,6 @@ permalink: /FAQ-endingroup
 date: 2014-06-10
 ---
 
-# `\end` occurred inside a group
-
 The actual error we observe is:
 ```latex
 \end occurred inside a group at level <n>) 
@@ -60,11 +58,7 @@ actually keeps the information in a similar way to LaTeX:
 <!-- {% raw %} -->
 ```latex
 (\end occurred inside a group at level 3)
-
-### semi simple group (level 3) entered at line 6 (\begingroup)
-### simple group (level 2) entered at line 5 ({)
-### simple group (level 1) entered at line 4 ({)
-### bottom level
+### simple group (level 2) entered at line 5 ({)### bottom level
 ```
 <!-- {% endraw %} -->
 The diagnostic not only tells us where the group started, but also the

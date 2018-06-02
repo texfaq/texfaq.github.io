@@ -5,8 +5,6 @@ permalink: /FAQ-rerun
 date: 2014-06-10
 ---
 
-# ''Rerun'' messages won't go away
-
 The LaTeX message ''Rerun to get crossreferences right'' is
 supposed to warn the user that the job needs to be processed again,
 since labels seem to have changed since the previous run.  (LaTeX

@@ -5,8 +5,6 @@ permalink: /FAQ-euro
 date: 2014-06-10
 ---
 
-# Typesetting the Euro sign
-
 The European currency ''Euro'' (€) is represented by a symbol
 of somewhat dubious design, but it's an important currency and
 (La)TeX users need to typeset it.  When the currency first appeared,

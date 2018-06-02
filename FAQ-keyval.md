@@ -6,8 +6,6 @@ permalink: /FAQ-keyval
 date: 2014-06-10
 ---
 
-# Key-value input for macros and package options
-
 When we discussed 
 [extending the number of arguments to a macro](FAQ-moren9), we
 suggested that large numbers of arguments, distinguished only by their

@@ -6,8 +6,6 @@ permalink: /FAQ-fixwidtab
 date: 2014-06-10
 ---
 
-# Fixed-width tables
-
 There are two basic techniques for making fixed-width tables in
 LaTeX: you can make the gaps between the columns stretch, or you
 can stretch particular cells in the table.

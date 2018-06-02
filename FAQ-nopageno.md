@@ -6,8 +6,6 @@ permalink: /FAQ-nopageno
 date: 2014-06-10
 ---
 
-# How to get rid of page numbers
-
 Very occasionally, one wants a document with no page numbers.  For
 such occasions, the package [`nopageno`](https://ctan.org/pkg/nopageno) will make
 `\pagestyle{plain}` have the same effect as

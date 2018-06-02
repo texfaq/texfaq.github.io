@@ -5,8 +5,6 @@ permalink: /FAQ-resolns
 date: 2014-06-10
 ---
 
-# What are ''resolutions''?
-
 ''Resolution'' is a word that is used with little concern for its
 multiple meanings, in computer equipment marketing.  The word suggests
 a measure of what an observer (perhaps the human eye) can resolve; yet

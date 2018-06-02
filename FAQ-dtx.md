@@ -5,8 +5,6 @@ permalink: /FAQ-dtx
 date: 2014-06-10
 ---
 
-# Documented LaTeX sources (`dtx` files)
-
 LaTeX2e, and many contributed LaTeX macro packages, are written
 in a [literate programming style](FAQ-lit), with source and
 documentation in the

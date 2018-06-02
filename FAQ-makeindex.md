@@ -5,8 +5,6 @@ permalink: /FAQ-makeindex
 date: 2014-06-10
 ---
 
-# Generating an index in (La)TeX
-
 Making an index is not trivial; what to index, and how to index it, is
 difficult to decide, and uniform implementation is difficult to
 achieve.  You will need to mark all items to be indexed in your text

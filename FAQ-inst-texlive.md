@@ -5,8 +5,6 @@ permalink: /FAQ-inst-texlive
 date: 2014-06-10
 ---
 
-# Installation using TeX&nbsp;Live manager
-
 TeX&nbsp;Live manager (`tlmgr`) is, by default, a shell (or
 Windows terminal window) command.  There is voluminous documentation
 about it from the command

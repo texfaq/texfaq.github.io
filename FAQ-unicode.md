@@ -5,8 +5,6 @@ permalink: /FAQ-unicode
 date: 2018-05-27
 ---
 
-# Unicode and TeX
-
 Unicode is a character code scheme that has the capacity to express
 the text of the languages of the world, as well as important symbols
 (including mathematics).  Any coding scheme that is directly

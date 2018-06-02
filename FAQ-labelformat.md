@@ -6,8 +6,6 @@ permalink: /FAQ-labelformat
 date: 2014-06-10
 ---
 
-# How to change the format of labels
-
 By default, when a label is created, it takes on the appearance of the
 counter labelled, so the label appears as
 `\the<counter>`&nbsp;&mdash; what would be used if you

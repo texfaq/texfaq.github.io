@@ -6,8 +6,6 @@ permalink: /FAQ-hash
 date: 2014-06-10
 ---
 
-# Defining macros within macros
-
 The way to think of this is that `##` gets replaced by `#` in just the
 same way that `#1` gets replaced by ''whatever is the first argument''.
 

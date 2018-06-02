@@ -5,8 +5,6 @@ permalink: /FAQ-ref-doc
 date: 2014-06-10
 ---
 
-# Reference documents
-
 For TeX primitive commands a rather nice 
 [quick reference booklet](http://www.nmt.edu/tcc/help/pubs/texcrib.pdf),
 by John W.&nbsp;Shipman, is available; it's arranged in the same way as the

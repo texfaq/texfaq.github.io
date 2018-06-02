@@ -5,8 +5,6 @@ permalink: /FAQ-typo-style
 date: 2014-06-10
 ---
 
-# Typography tutorials
-
 Peter Wilson's article [`memdesign`](https://ctan.org/pkg/memdesign) has a lengthy introductory
 section on typographic considerations, which is a fine tutorial,
 written by someone who is aware of the issues as they apply to

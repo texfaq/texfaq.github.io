@@ -6,8 +6,6 @@ permalink: /FAQ-braket
 date: 2014-06-10
 ---
 
-# Set specifications and Dirac brackets
-
 One of the few glaring omissions from TeX's mathematical
 typesetting capabilities is a means of setting separators in the
 middle of mathematical expressions.  TeX provides primitives called

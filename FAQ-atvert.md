@@ -5,8 +5,6 @@ permalink: /FAQ-atvert
 date: 2014-06-10
 ---
 
-# `\spacefactor` complaints
-
 The errors
 ```latex
 ! You can't use `\spacefactor' in vertical mode.

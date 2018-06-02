@@ -5,8 +5,6 @@ permalink: /FAQ-the-commands
 date: 2014-06-10
 ---
 
-# Redefining counters' `\the`-commands
-
 Whenever you request a new LaTeX counter, LaTeX creates a bunch
 of behind-the-scenes commands, as well as defining the counter
 itself.

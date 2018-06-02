@@ -6,8 +6,6 @@ permalink: /FAQ-proof
 date: 2014-06-10
 ---
 
-# Proof environment
-
 It was long thought impossible to make a `proof`
 environment which automatically includes an ''end-of-proof'' symbol.
 Some proofs end in displayed maths; others do not.  If the input file

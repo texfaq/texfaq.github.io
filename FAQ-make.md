@@ -5,8 +5,6 @@ permalink: /FAQ-make
 date: 2014-06-10
 ---
 
-# Makefiles for LaTeX documents
-
 LaTeX documents are tricky beasts for building using
 (`Uni*x`) `make` on: the need to
 instruct LaTeX to run several times for essentially different

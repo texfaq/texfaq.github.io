@@ -6,8 +6,6 @@ permalink: /FAQ-atsigns
 date: 2014-06-10
 ---
 
-# `\@` and `@` in macro names
-
 Macro names containing `@` are _internal_ to LaTeX, and
 without special treatment just don't work in ordinary use.  A nice
 example of the problems caused is discussed in 

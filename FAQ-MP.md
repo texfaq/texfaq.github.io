@@ -6,8 +6,6 @@ redirect_from: /FAQ-mp
 date: 2018-05-28
 ---
 
-# What is MetaPost?
-
 The MetaPost system (by John Hobby) implements a picture-drawing language
 very much like that of MetaFont; the difference is that MetaPost outputs
 vector graphic files instead of run-length-encoded bitmaps; output
