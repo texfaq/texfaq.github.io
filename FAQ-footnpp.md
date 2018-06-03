@@ -1,5 +1,5 @@
 ---
-title: Footnotes numbered ''per page''
+title: Footnotes numbered "per page"
 category: usage
 tags: footnotes
 permalink: /FAQ-footnpp
@@ -10,8 +10,8 @@ The obvious solution is to make the footnote number reset whenever the
 page number is stepped, using the 
 [LaTeX internal mechanism](FAQ-addtoreset).  Sadly, the place
 in the document where the page number is stepped is unpredictable, not
-(''tidily'') at the end of the printed page; so changing the footnote
-number only ever works by ''luck''.
+("tidily") at the end of the printed page; so changing the footnote
+number only ever works by "luck".
 
 As a result, resetting footnotes is inevitably a complicated process,
 using labels of some sort.  It's nevertheless important, given the
@@ -31,7 +31,7 @@ to avoid something in the LaTeX footnote symbol list), you can use:
 Note that you can also load [`zref-perpage`](https://ctan.org/pkg/zref) 
 
 [`Perpage`](https://ctan.org/pkg/Perpage) is a compact and efficient package;
-[`zref-perpage`](https://ctan.org/pkg/zref), being a [`zref`](https://ctan.org/pkg/zref) ''module'', comes with
+[`zref-perpage`](https://ctan.org/pkg/zref), being a [`zref`](https://ctan.org/pkg/zref) "module", comes with
 [`zref`](https://ctan.org/pkg/zref)'s general mechanism for extending the the
 `\label`&mdash;`\[page]ref` of LaTeX, which can offer many other
 useful facilities.

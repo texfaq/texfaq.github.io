@@ -5,9 +5,9 @@ permalink: /FAQ-noans
 date: 2018-05-22
 ---
 
-While the FAQ maintainers don't offer a ''help'' service, they're
+While the FAQ maintainers don't offer a "help" service, they're
 very keen that you understand the answers they've already written.
-They're (almost) written ''in a vacuum'', to provide something to
+They're (almost) written "in a vacuum", to provide something to
 cover a set of questions that have arisen; it's always possible that
 they're written in a way that a novice won't understand them.
 

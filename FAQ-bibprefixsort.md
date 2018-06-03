@@ -7,16 +7,16 @@ date: 2014-06-10
 
 BibTeX recognises a bewildering array of name prefixes (mostly
 those deriving from European language names); it ignores the prefixes
-when sorting the bibliography&nbsp;&mdash; you want ''Ludwig van Beethoven''
-sorted under ''Beethoven'', not under ''van''.  (Lamport made a witty
+when sorting the bibliography&nbsp;&mdash; you want "Ludwig van Beethoven"
+sorted under "Beethoven", not under "van".  (Lamport made a witty
 deliberate mistake with Beethoven's name, in the first edition of his
 LaTeX manual.)
 
 However, a recurring issue is the desire to quote Lord Rayleigh's
-publications (''Lord'' isn't an acceptable prefix), or names from
+publications ("Lord" isn't an acceptable prefix), or names from
 languages that weren't considered when BibTeX was designed such as
-''al-Wakil'' (transcribed from the Arabic).  What's needed is a
-separate ''sort key'', but BibTeX only allows such a thing in
+"al-Wakil" (transcribed from the Arabic).  What's needed is a
+separate "sort key", but BibTeX only allows such a thing in
 citations of items that have no author or editor.
 
 The solution is to embed the sort key in the author's name, but to

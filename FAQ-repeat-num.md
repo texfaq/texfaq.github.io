@@ -11,12 +11,12 @@ as parts of programs need to run several times.  An obvious
 example is TeX-based drawing: LaTeX's `picture`
 environment and [`pgf`](https://ctan.org/pkg/pgf) (at least) provide repeat facilities&nbsp;&mdash;
 they are useful for drawing repeating patterns.  As a result,
-''common'' programming techniques often have to be emulated using
+"common" programming techniques often have to be emulated using
 obscure macro TeXniques.
 
 This answer deals with repeating an operation a given number of times;
 repeating operations once for each of a set of objects is dealt with
-in the answer [repeating ''over a set''](FAQ-repeat-set).
+in the answer [repeating "over a set"](FAQ-repeat-set).
 
 Plain TeX itself provides a `\loop` &hellip; `\repeat`
 contruct, which enables you to repeat a command (or set of commands).
@@ -32,7 +32,7 @@ different enough that many people find it confusing.
 \repeat
 ```
 In this slightly tricky code, `\loop` starts the construct ended by
-`\repeat`, but `\repeat` also ''serves as'' the `\fi` to the
+`\repeat`, but `\repeat` also "serves as" the `\fi` to the
 `\ifnum`.  The loop above prints the numbers from 10 down to 1 via
 TeX `\message` (i.e., on the console output).
 
@@ -94,7 +94,7 @@ which places &lsaquo;_obj_&rsaquo; (intended to be a bit of picture)
 (&lsaquo;_x_&rsaquo;+2&lsaquo;_xstep_&rsaquo;, &lsaquo;_y_&rsaquo;+2&lsaquo;_ystep_&rsaquo;) and so on, adding the
 displacement again each time.  The command was designed for use in
 `picture`, but it makes no check, and may even be used to
-provide eccentric typesetting in a ''regular'' sentence, such as:
+provide eccentric typesetting in a "regular" sentence, such as:
 ```latex
 Here \multiput(0,0)(1,1){3}{we} are again.
 ```
@@ -118,7 +118,7 @@ The `\foreach` command has the potential drawback that its repeated
 unit is executed in a group, so that any calculations done within the
 loop are lost (unless their result is made `\global`); however, it
 does not 'build in' its graphical origins (as `\multiput` does) so
-its potential outside its own graphics environment ''home'' is more
+its potential outside its own graphics environment "home" is more
 clear.
 % ```latex
 % \input repeat

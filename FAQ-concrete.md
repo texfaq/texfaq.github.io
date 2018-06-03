@@ -1,12 +1,12 @@
 ---
-title: Using the ''Concrete'' fonts
+title: Using the "Concrete" fonts
 category: fonts
 permalink: /FAQ-concrete
 date: 2014-06-10
 ---
 
 The Concrete Roman fonts were designed by Don Knuth for a book called
-''Concrete Mathematics'', which he wrote with Graham and Patashnik
+"Concrete Mathematics", which he wrote with Graham and Patashnik
 (_the_ Patashnik, of BibTeX fame).  Knuth
 only designed text fonts, since the book used the Euler fonts for
 mathematics.  The book was typeset using Plain TeX, of course, with

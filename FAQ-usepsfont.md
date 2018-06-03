@@ -13,11 +13,11 @@ see [metrics for PostScript fonts](FAQ-metrics).  You
 also need the fonts themselves; PostScript printers come with a set of
 fonts built in, but to extend your repertoire you usually
 need to buy from one of the many commercial font vendors (see, for
-example, [''choice of fonts''](FAQ-psfchoice)).
+example, ["choice of fonts"](FAQ-psfchoice)).
 
 If you use LaTeX2e, access to your printer's fonts is offered by the
 PSNFSS package; the LaTeX3 project team declare that
-PSNFSS is a ''required'' part of a LaTeX distribution, and
+PSNFSS is a "required" part of a LaTeX distribution, and
 bug reports may be submitted via the 
 [LaTeX bugs system](FAQ-latexbug). 
 PSNFSS gives you a set of packages for changing the default
@@ -31,8 +31,8 @@ typewriter font to `Courier`.  To go with these
 packages, you need the font metric files
 and font description (`.fd`) files for each font family you
 want to use.  For convenience,
-metrics for the ''common 35'' PostScript fonts found in most PostScript printers
-are provided with PSNFSS, packaged as the ''Laserwriter set''.
+metrics for the "common 35" PostScript fonts found in most PostScript printers
+are provided with PSNFSS, packaged as the "Laserwriter set".
 
 For older versions of LaTeX there are various schemes, of which the
 simplest to use is probably the PSLaTeX macros distributed with

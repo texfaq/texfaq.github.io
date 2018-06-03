@@ -44,7 +44,7 @@ adjustment is necessary:
 \bibliography{frooble}
 ```
 The extra command (`\phantomsection`) gives [`hyperref`](https://ctan.org/pkg/hyperref)
-something to ''hold on to'' when making the link.
+something to "hold on to" when making the link.
 
 The common solution, therefore, is to use the [`tocbibind`](https://ctan.org/pkg/tocbibind)
 package, which provides many facilities to control the way these

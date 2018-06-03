@@ -9,7 +9,7 @@ date: 2014-06-10
 Macro names containing `@` are _internal_ to LaTeX, and
 without special treatment just don't work in ordinary use.  A nice
 example of the problems caused is discussed in 
-''[`\@` in vertical mode](FAQ-atvert)''.
+"[`\@` in vertical mode](FAQ-atvert)".
 
 The problems users see are caused by copying bits of a class
 (`cls` file) or 
@@ -50,5 +50,5 @@ second edition.)
 The alternative is to treat all these fragments as a package proper,
 bundling them up into a `sty` file and including them with
 `\usepackage`; this way you hide your LaTeX internal code somewhere
-that LaTeX internal code is expected, which often looks ''tidier''.
+that LaTeX internal code is expected, which often looks "tidier".
 

@@ -13,7 +13,7 @@ contrary to the principles of typesetting (any respectable font you
 might be using should already have optimum tracking built into it).
 
 The great type designer, Eric Gill, is credited with saying
-''he who would letterspace lower-case text, would steal sheep''.  (The
+"he who would letterspace lower-case text, would steal sheep".  (The
 attribution is probably apocryphal: others are also credited with the
 remark.  Stealing sheep was, in the 19th century, a capital offence in
 Britain.)  As the remark suggests, though, letterspacing of upper-case
@@ -31,11 +31,11 @@ Gill's view of such an activity is not (even apocryphally) recorded.
 (Spacing-out forms part of the name of [`soul`](https://ctan.org/pkg/soul); the other half
 is described in [another question](FAQ-underline).)
 
-Possibly the ''ultimate'' in this field is the [`microtype`](https://ctan.org/pkg/microtype),
+Possibly the "ultimate" in this field is the [`microtype`](https://ctan.org/pkg/microtype),
 which uses the micro-typography capabilities of current pdfTeX to
 provide a `\textls` command, which operates according to parameters
 declared in a `\SetTracking` command.  [`Microtype`](https://ctan.org/pkg/Microtype)'s
-''tracking'' facility expands the natural spacing of the font itself,
+"tracking" facility expands the natural spacing of the font itself,
 rather than inserting space between characters.  Ordinarily,
 letter-spacing will destroy ligatures; however, this is _wrong_
 for some font styles (for example, `fraktur`), and the

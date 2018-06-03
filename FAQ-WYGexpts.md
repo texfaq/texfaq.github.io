@@ -6,9 +6,9 @@ redirect_from: /FAQ-wygexpts
 date: 2018-05-24
 ---
 
-''[Why TeX is not WYSIWYG](FAQ-notWYSIWYG)''
+"[Why TeX is not WYSIWYG](FAQ-notWYSIWYG)"
 outlines the reasons (or excuses) for the huge disparity of user
-interface between ''typical'' TeX environments and commercial word
+interface between "typical" TeX environments and commercial word
 processors.
 
 Nowadays, at last, there is a range of tools available that try either

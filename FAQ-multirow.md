@@ -28,9 +28,9 @@ might write:
 \hline
 \end{tabular}
 ```
-and [`multirow`](https://ctan.org/pkg/multirow) will position ''Common g text'' at the vertical
+and [`multirow`](https://ctan.org/pkg/multirow) will position "Common g text" at the vertical
 center of the space defined by the other rows.  Note that the rows
-that don't contain the ''multi-row'' specification must have empty
+that don't contain the "multi-row" specification must have empty
 cells where the multi-row is going to appear.
 
 The `*` may be replaced by a column width specification.  In this
@@ -68,7 +68,7 @@ down one or other side of a table (with the help of the
 (which gives text going upwards; use angle `-90` for text going
 downwards, of course).
 
-To make a `\multicolumn` multi-row ''cell'' in a table, you have to
+To make a `\multicolumn` multi-row "cell" in a table, you have to
 enclose a `\multirow` inside a `\multicolumn`&nbsp;&mdash; the other way
 around does not work, so:
 ```latex

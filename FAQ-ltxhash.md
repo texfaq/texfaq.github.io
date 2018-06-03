@@ -32,9 +32,9 @@ followed by a call:
 ```latex
 \cmdinvoke{abc}{joy}
 ```
-typesets ''joy, oh joy!'', but defines a command `\ghi` that takes
+typesets "joy, oh joy!", but defines a command `\ghi` that takes
 one parameter, which it ignores; `\ghi{gloom}` will expand to
-''gloom, oh joy!'', which is presumably not what was expected.
+"gloom, oh joy!", which is presumably not what was expected.
 
 And (as you will probably guess, if you've read the earlier question)
 the definition:
@@ -46,7 +46,7 @@ the definition:
 ```
 <!-- {% endraw %} -->
 does what is required, and `\ghi{gloom}` will expand to
-''gloom, oh gloom!'', whatever the argument to `\abc`.
+"gloom, oh gloom!", whatever the argument to `\abc`.
 
 The doubling is needed whether or not the enclosing command has an
 argument, so:

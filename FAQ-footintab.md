@@ -7,14 +7,14 @@ date: 2014-06-10
 ---
 
 The standard LaTeX `\footnote` command doesn't work in tables;
-the tabular environment (and its ''relations'') traps footnotes, and
+the tabular environment (and its "relations") traps footnotes, and
 they can't escape to the bottom of the page.  As a result, you get
 footnote marks in the table, and nothing else.
 
 This accords with common typographic advice: footnotes and tables are
 reckoned not to mix.
 
-The solution, if you accept the advice, is to use ''table notes''.
+The solution, if you accept the advice, is to use "table notes".
 The package [`threeparttable`](https://ctan.org/pkg/threeparttable) provides table notes, and
 [`threeparttablex`](https://ctan.org/pkg/threeparttablex) additionally supports them in
 `longtable`s.  [`Threeparttable`](https://ctan.org/pkg/Threeparttable) works happily in
@@ -24,11 +24,11 @@ The [`ctable`](https://ctan.org/pkg/ctable) package extends the model of
 [`threeparttable`](https://ctan.org/pkg/threeparttable), and also uses the ideas of the
 [`booktabs`](https://ctan.org/pkg/booktabs) package.  The `\ctable` command does the complete
 job of setting the table, placing the caption, and defining the
-notes.  The ''table'' may consist of diagrams, and a parameter in
+notes.  The "table" may consist of diagrams, and a parameter in
 `\ctable`s optional argument makes the float that is created a
-''figure'' rather than a ''table''.
+"figure" rather than a "table".
 
-If you really want ''real'' footnotes in tables, despite the expert
+If you really want "real" footnotes in tables, despite the expert
 advice, you can:
   
 
@@ -39,7 +39,7 @@ advice, you can:
     more than one footnote.
 -  Stick the `tabular` environment in a
     `minipage`.  Footnotes in the 
-    table then ''work'', in the `minipage`s style, with no
+    table then "work", in the `minipage`s style, with no
     extra effort.  (This is, in effect, somewhat like table notes, but
     the typeset appearance isn't designed for the job.)
 -  Use [`tabularx`](https://ctan.org/pkg/tabularx) or [`longtable`](https://ctan.org/pkg/longtable) from the LaTeX
@@ -59,7 +59,7 @@ advice, you can:
 -  Use [`mdwtab`](https://ctan.org/pkg/mdwtab) from the same bundle; it will handle
     footnotes as you might expect, and has other facilities to increase
     the beauty of your tables.  Unfortunately, it may be incompatible
-    with other table-related packages, though not those in the standard ''tools''
+    with other table-related packages, though not those in the standard "tools"
     bundle.
 
 All the techniques listed will work, to some extent, whether in a float or

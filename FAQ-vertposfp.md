@@ -8,7 +8,7 @@ date: 2014-06-10
 
 By default, LaTeX vertically centers the floats on a float page;
 the present author is not alone in not liking this arrangement.
-Unfortunately, the control of the positioning is ''buried'' in
+Unfortunately, the control of the positioning is "buried" in
 LaTeX-internal commands, so some care is needed to change the
 layout.
 
@@ -49,7 +49,7 @@ the page.  One can justify a value of `5pt` (in place of
 `0pt`)&nbsp;&mdash; it's roughly the difference between `\topskip`
 and the height of normal (`10pt`) text.
 
-Note that this is a ''global'' setting (best established in a class
+Note that this is a "global" setting (best established in a class
 file, or at worst in the document preamble); making the change for a
 single float page is likely (at the least) to be rather tricky.
 

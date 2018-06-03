@@ -15,7 +15,7 @@ You could impose the restriction that your users always put a
  `%`  sign after the environment&nbsp;&hellip; but
 LaTeX environments don't require that, either.
 
-The LaTeX environments' ''secret'' is an internal flag which causes
+The LaTeX environments' "secret" is an internal flag which causes
 the unwanted spaces to be ignored.  Fortunately, you don't have to use
 the internal form: since 1996, LaTeX has had a user command
 `\ignorespacesafterend`, which sets the internal flag.

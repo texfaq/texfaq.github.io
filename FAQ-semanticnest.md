@@ -15,7 +15,7 @@ Even though TeX suggests (as always) that enlargement by a wizard
 may help, this message usually results from a broken macro or bad
 parameters to an otherwise working macro.
 
-The ''semantic nest'' TeX talks about is the nesting
+The "semantic nest" TeX talks about is the nesting
 of boxes within boxes.  A stupid macro can provoke the error pretty
 easily:
 ```latex

@@ -5,7 +5,7 @@ permalink: /FAQ-tradesyms
 date: 2014-06-10
 ---
 
-The ''[Comprehensive symbol list](FAQ-symbols)'', lists
+The "[Comprehensive symbol list](FAQ-symbols)", lists
 the symbol commands `\textcopyright`,
 `\textregistered` and `\texttrademark`, which are available in
 TS1-encoded fonts, and which are enabled using the
@@ -17,7 +17,7 @@ glyphs you get aren't terribly beautiful.  In particular,
 example, in a section heading), since it is composed of a small-caps
 letter, which typically degrades to a regular shape letter when asked
 to set in a bold font.  This means that the glyph becomes a circled
-''r'', whereas the proper symbol is a circled ''R''.
+"r", whereas the proper symbol is a circled "R".
 
 This effect is of course avoided by use of [`textcomp`](https://ctan.org/pkg/textcomp).
 

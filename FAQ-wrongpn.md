@@ -21,7 +21,7 @@ a page; it will output a page if it has _more_ than a page's
 worth of material to output.  (Ensuring it always has something in
 hand makes some optimisations possible.)  As a result, `\count0`
 (`\thepage`) is almost always wrong in the first paragraph of a
-page (the exception is where the page number has been ''forcibly''
+page (the exception is where the page number has been "forcibly"
 changed, either by changing its value directly, or by breaking the
 page where TeX wouldn't necessarily have chosen to break).
 

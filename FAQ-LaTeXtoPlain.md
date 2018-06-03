@@ -6,9 +6,9 @@ redirect_from: /FAQ-latextoplain
 date: 2014-06-10
 ---
 
-Unfortunately, no ''general'', simple, automatic process is likely to
+Unfortunately, no "general", simple, automatic process is likely to
 succeed at this task.  See 
-''[How does LaTeX relate to Plain TeX](FAQ-LaTeXandPlain)''
+"[How does LaTeX relate to Plain TeX](FAQ-LaTeXandPlain)"
 for further details.
 
 Obviously, trivial documents will translate in a trivial way.
@@ -28,6 +28,6 @@ LaTeX graphics package to Plain TeX.  However, while
 [Eplain](FAQ-eplain) system a useful source of code.  (In fact,
 a light-weight system such as Eplain might reasonably be adopted as
 an alternative target of translation, though it undoubtedly gives the
-user more than the ''bare minimum'' that Plain TeX is designed to
+user more than the "bare minimum" that Plain TeX is designed to
 offer.)
 

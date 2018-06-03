@@ -14,7 +14,7 @@ You want a float whose contents are centred, but LaTeX ignores your
   \end{figure}
 \end{center}
 ```
-In this case, LaTeX has ''taken the `figure` away'',
+In this case, LaTeX has "taken the `figure` away",
 and will typeset it at some location it fancies (it does the same with
 `table`s) the only thing we can say (for sure) about the
 location is that it _won't_ be inside that `center`

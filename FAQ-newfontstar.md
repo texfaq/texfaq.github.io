@@ -20,8 +20,8 @@ problems it poses, may be seen in:
 \LaTeX
 \end{document}
 ```
-(the reader is encouraged to try this).  The ''A'' of `\LaTeX` pretty
-much disappears: LaTeX chooses the size on the ''A'' according to
+(the reader is encouraged to try this).  The "A" of `\LaTeX` pretty
+much disappears: LaTeX chooses the size on the "A" according to
 _its_ idea of the font size (10pt), but positions it according to
 the dimensions of `\myfont`, which is more than three times
 that size.
@@ -35,7 +35,7 @@ source.  The mini-document:
 {\myfont voil\`a}
 \end{document}
 ```
-gives you ''German low double quotes'' (under the ''a'') in place of
+gives you "German low double quotes" (under the "a") in place of
 the grave accent.  This happens because `ecrm1000` is in a
 different [font encoding](FAQ-whatenc) than LaTeX is
 expecting&nbsp;&mdash; if you use the LaTeX [`fontenc`](https://ctan.org/pkg/fontenc) package to
@@ -46,5 +46,5 @@ There does however remain a circumstance when you will be tempted to
 use `\newfont`&nbsp;&mdash; viz., to get a font size that doesn't fall into
 the Knuth standard set of sizes: LaTeX (by default) won't allow you
 to use such a size.  Don't despair: see the answer 
-''[arbitrary font sizes](FAQ-fontsize)''.
+"[arbitrary font sizes](FAQ-fontsize)".
 

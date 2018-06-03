@@ -21,16 +21,16 @@ to remember when writing a macro: first, the rules for ignoring spaces
 when you're typing macros are just the same as the rules that apply
 when you're typing ordinary text, and second, rules for ignoring
 spaces do _not_ apply to spaces produced while a macro is being
-obeyed (''expanded'').
+obeyed ("expanded").
 
 Spaces are ignored in vertical mode (between paragraphs), at the
 beginning of a line, and after a command name.  Since sequences of
-spaces are collapsed into one, it ''feels as if'' spaces are ignored if
+spaces are collapsed into one, it "feels as if" spaces are ignored if
 they follow another space.  Space can have syntactic meaning after
 certain sorts of non-braced arguments (e.g., _count_ and
 _dimen_ variable assignments in Plain TeX) and after certain
 control words (e.g., in `\hbox to`, so again we have instances
-where it ''feels as if'' spaces are being ignored when they're merely
+where it "feels as if" spaces are being ignored when they're merely
 working quietly for their living.
 
 Consider the following macro, fairly faithfully adapted from one that
@@ -42,8 +42,8 @@ The macro definition contains five spaces:
   
 
 -  after the opening `{` of the macro body; this space will be
-    ignored, not because ''because the macro appears at the start of a
-    line'', but rather because the macro was designed to operate between
+    ignored, not because "because the macro appears at the start of a
+    line", but rather because the macro was designed to operate between
     paragraphs
 -  after `\bigskip`; this space will be ignored (while the macro
     is being defined) because it follows a command name
@@ -85,7 +85,7 @@ emphasising the structure):
 <!-- {% endraw %} -->
 Care has been taken to ensure that every space in the revised
 definition is ignored, so none appears in the output.  The revised
-definition takes the ''belt and braces'' approach, explicitly dealing
+definition takes the "belt and braces" approach, explicitly dealing
 with every line ending (although, as noted above, a space introduced
 at the end of the first line of the macro would have been ignored in
 actual use of the macro.  This is the best technique, in fact&nbsp;&mdash; it's
@@ -96,9 +96,9 @@ spaces:
 
 -  placing a `%` character at the end of a line
     (as in the 1st, 3rd and 5th lines),
--  ending a line ''naturally'' with a control sequence, as in line 2,
+-  ending a line "naturally" with a control sequence, as in line 2,
     and
--  ending a line with an ''artificial'' control sequence, as in line
+-  ending a line with an "artificial" control sequence, as in line
     4; the control sequence in this case (`\relax`) is a no-op in many
     circumstances (as here), but this usage is deprecated&nbsp;&mdash; a
    `%` character would have been better.
@@ -107,7 +107,7 @@ Beware of the (common) temptation to place a space _before_ a
 `%` character: if you do this you might as well omit
 the `%` altogether. 
 
-In ''real life'', of course, the spaces that appear in macros are far
+In "real life", of course, the spaces that appear in macros are far
 more cryptic than those in the example above.  The most common spaces
 arise from unprotected line ends, and this is an error that
 occasionally appears even in macros written by the most accomplished

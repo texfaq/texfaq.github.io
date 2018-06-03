@@ -15,7 +15,7 @@ things, but it makes a serious mess of spacing.  In the system:
   x & = & y - z
 \end{eqnarray}
 ```
-the spacing around the ''='' signs is _not_ that defined in the
+the spacing around the "=" signs is _not_ that defined in the
 metrics for the font from which the glyph comes&nbsp;&mdash; it's
 `\arraycolsep`, which may be set to some very odd value for reasons
 associated with real arrays elsewhere in the document.

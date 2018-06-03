@@ -15,7 +15,7 @@ must needs resort to some sort of patching to replace the bitmap fonts
 in the file by outline fonts.
 
 The program `pkfix` (by Heiko Oberdiek) will do this
-patching, for files created by ''not too old versions'' of
+patching, for files created by "not too old versions" of
 `dvips`: it finds the fonts to be replaced by examining the
 PostScript comments `dvips` has put in the file.  For each
 font, `pkfix` puts appropriate TeX commands in a file,
@@ -27,7 +27,7 @@ If your source file is older than `pkfix` can deal with,
 there's still a modicum of hope: `pkfix-helper` examines the
 bitmap fonts in a document, compares them with the metric
 (`tfm`) fonts on your system and comes to a view of which
-font might be which.  The program reports on ''poor'' matches, and
+font might be which.  The program reports on "poor" matches, and
 there are options for confirming, or replacing, its guesses.  The
 technique (which sounds implausible) is successful enough to be worth
 a try.

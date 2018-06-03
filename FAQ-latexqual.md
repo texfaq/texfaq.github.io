@@ -27,10 +27,10 @@ While [`l2tabu`](https://ctan.org/pkg/l2tabu) and [`nag`](https://ctan.org/pkg/n
 programming errors, you should not forget that they are merely
 commenting on _style_; don't assume that a [`nag`](https://ctan.org/pkg/nag) error is
 going to damn your code&nbsp;&mdash; rather, note the issue and try to train
-your fingers not to do the same ''next time''.
+your fingers not to do the same "next time".
 
 The `lacheck` program analyses your source and comments on
-it; its view of what is ''bad'' is _very_ subjective (the
+it; its view of what is "bad" is _very_ subjective (the
 documentation says), but it can be useful.
 
 

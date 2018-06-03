@@ -6,7 +6,7 @@ permalink: /FAQ-acroantics
 date: 2014-06-10
 ---
 
-Printing from Adobe `Reader` shrinks the page ''to fit''
+Printing from Adobe `Reader` shrinks the page "to fit"
 (_by default_).  Unfortunately, its calculation doesn't consider
 the existing margins of the document, so that it shrinks what it
 believes is your whole page onto what it believes is its output page.
@@ -19,18 +19,18 @@ to the next:
 
 -  `Reader` version 7:
 
-     Page Scaling (default: ''Fit to printer margins'')&nbsp;&mdash; change to
-     ''None'', and
+     Page Scaling (default: "Fit to printer margins")&nbsp;&mdash; change to
+     "None", and
 
      Scale (default 95% of Normal size)&nbsp;&mdash; change to
-     ''100%''
+     "100%"
 -   Adobe Reader 6:
 
-    in the print dialogue, on the ''copies & pages'' pane, you'll find a
-    popup menu/drop-down list titled ''Page Scaling''&nbsp;&mdash; change to ''None''.
+    in the print dialogue, on the "copies & pages" pane, you'll find a
+    popup menu/drop-down list titled "Page Scaling"&nbsp;&mdash; change to "None".
 -  Windows, Linux Acrobat (Reader) 5.0:
 
-    In the print dialog, make sure the ''Shrink oversized pages to fit''
+    In the print dialog, make sure the "Shrink oversized pages to fit"
     checkbox is unchecked.  It may also be useful to uncheck the
-    ''Expand small pages to fit paper size'' checkbox as well.
+    "Expand small pages to fit paper size" checkbox as well.
 

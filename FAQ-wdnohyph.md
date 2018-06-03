@@ -7,7 +7,7 @@ date: 2014-06-10
 ---
 
 It's quite possible for (_any_) hyphenation of a particular word
-to seem ''completely wrong'', so that you want to prevent it being
+to seem "completely wrong", so that you want to prevent it being
 hyphenated.
 
 If the word occurs in just one place, put it in a box:
@@ -41,7 +41,7 @@ document&nbsp;&mdash; English, in this case&nbsp;&mdash; at `\begin{document}`.)
 A particular instance of this requirement is avoiding the hyphenation
 of acronyms; a general rule for those that concoct acronyms seems to
 be to make the capital-letter sequence read as near as is possible
-like a ''real'' word, but hyphenating an acronym often looks silly.
+like a "real" word, but hyphenating an acronym often looks silly.
 The TeX control `\uchyph` is designed for suppressing such
 behaviour:
 ```latex

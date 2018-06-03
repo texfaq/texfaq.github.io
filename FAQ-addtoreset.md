@@ -6,11 +6,11 @@ permalink: /FAQ-addtoreset
 date: 2014-06-10
 ---
 
-It's common to have things numbered ''per chapter'' (for example, in
+It's common to have things numbered "per chapter" (for example, in
 the standard [`book`](https://ctan.org/pkg/book) and
 [`report`](https://ctan.org/pkg/report) classes, figures, tables
 and footnotes are all numbered thus).  The process of resetting is
-done automatically, when the ''master'' counter is stepped (when the
+done automatically, when the "master" counter is stepped (when the
 `\chapter` command that starts chapter &lsaquo;_n_&rsaquo; happens, the
 `chapter` counter is stepped, and all the dependent counters are set
 to zero).
@@ -46,7 +46,7 @@ command without its asterisk:
 will do the same, and also redefine `\thecorollary` as 
 &lsaquo;_theorem number_&rsaquo;.&lsaquo;_corollary number_&rsaquo;, which is a good scheme
 if you ever want to refer to the corollaries&nbsp;&mdash; there are potentially
-many ''corollary&nbsp;1'' in any document, so it's as well to tie its number
+many "corollary&nbsp;1" in any document, so it's as well to tie its number
 to the counter of the theorem it belongs to.  This is true of pretty
 much any such counter-within-another; if you're not using the
 [`chngcntr`](https://ctan.org/pkg/chngcntr), refer to the answer to 

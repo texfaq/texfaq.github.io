@@ -21,8 +21,8 @@ an error is reported.  A third definition command,
 `\providecommand`, only defines if the target is not already
 defined; LaTeX has no direct equivalent of `\def`, which ignores
 the present state of the command.  The final command of this sort is
-`\DeclareRobustCommand`, which creates a command which is ''robust''
-(i.e., will not expand if subjected to LaTeX ''protected expansion'');
+`\DeclareRobustCommand`, which creates a command which is "robust"
+(i.e., will not expand if subjected to LaTeX "protected expansion");
 from the Plain TeX user's point of view,
 `\DeclareRobustCommand` should be treated as a non-checking version
 of `\newcommand`.

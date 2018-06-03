@@ -29,7 +29,7 @@ JPEG files using PostScript level 2 functionality),
 files) and `a2ping`/`sam2p` (which convert a
 bewildering array of bitmap formats to EPS or PDF files;
 `sam2p` is one of the engines that `a2ping` uses)
-are also considered ''good bets''.
+are also considered "good bets".
 
 `Bmeps` comes with patches to produce your own version of
 `dvips` that can cope with JPEG and PNG direct,

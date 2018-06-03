@@ -39,7 +39,7 @@ and the internal mechanisms of the [`inputenc`](https://ctan.org/pkg/inputenc) p
 the right version of the accent command in there.
 
 A witty reversal of the roles is introduced by the package
-[`Tabbing`](https://ctan.org/pkg/Tabbing) (note the capital ''T''): it provides a
+[`Tabbing`](https://ctan.org/pkg/Tabbing) (note the capital "T"): it provides a
 `Tabbing` environment which duplicates
 `tabbing`, but all the single-character commands become
 complicated objects.  So `tabbing`s `\>` becomes

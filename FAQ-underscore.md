@@ -8,15 +8,15 @@ date: 2014-06-10
 The underscore character `_` is ordinarily used in TeX to
 indicate a subscript in maths mode; if you type `_`, on its
 own, in the course of ordinary text, TeX will complain.  The
-''proper'' LaTeX command for underscore is `\textunderscore`,
+"proper" LaTeX command for underscore is `\textunderscore`,
 but the LaTeX 2.09 command `\_` is an established alias.  Even so,
 if you're writing a document which will contain a large number of
 underscore characters, the prospect of typing `\_` for every one
 of them will daunt most ordinary people.
 
 Moderately skilled macro programmers can readily generate a quick hack
-to permit typing `_` to mean ''text underscore'' (the answer in
-  ''[defining characters as macros](FAQ-activechars)''
+to permit typing `_` to mean "text underscore" (the answer in
+  "[defining characters as macros](FAQ-activechars)"
 uses this example to illustrate its techniques).
 However, the code _is_ somewhat tricky, and more importantly
 there are significant points where it's easy to get it wrong.  There

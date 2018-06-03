@@ -8,7 +8,7 @@ date: 2014-06-10
 
 Widows (the last line of a paragraph at the start of a page) and
 orphans (the first line of paragraph at the end of a page) interrupt
-the reader's flow, and are generally considered ''bad form'';
+the reader's flow, and are generally considered "bad form";
 (La)TeX takes some precautions to avoid them, but completely
 automatic prevention is often impossible.  If you are typesetting your
 own text, consider whether you can bring yourself to change the
@@ -35,7 +35,7 @@ at points (such as section headings) where the document design
 explicitly permits it.
 
 Once you've exhausted the automatic measures, and have a final draft
-you want to ''polish'', you should proceed to manual measures.  To
+you want to "polish", you should proceed to manual measures.  To
 get rid of an orphan is simple: precede the paragraph with
 `\clearpage` and the paragraph can't start in the wrong place.
 
@@ -43,16 +43,16 @@ Getting rid of a widow can be more tricky.  Options are
   
 
 -  If the previous page contains a long paragraph with a short last
-    line, it may be possible to set it ''tight'': write
+    line, it may be possible to set it "tight": write
     `\looseness=-1` immediately after the last word of the
     paragraph.
 -  If that doesn't work, adjusting the page size, using
-    `\enlargethispage{`\baselineskip`}` to ''add a line'' to
+    `\enlargethispage{`\baselineskip`}` to "add a line" to
     the page, which may have the effect of getting the whole paragraph
     on one page.
 -  Reducing the size of the page by
     `\enlargethispage{-`\baselineskip`}` may produce a
-    (more-or-less) acceptable ''two-line widow''.
+    (more-or-less) acceptable "two-line widow".
 
 Note that `\looseness=1` (which should increase the line
 length by one) seldom has the right effect&nbsp;&mdash; the looser paragraph

@@ -5,10 +5,10 @@ permalink: /FAQ-tutbitslatex
 date: 2014-06-10
 ---
 
-The AMS publishes a ''Short Math Guide for LaTeX'', which is
+The AMS publishes a "Short Math Guide for LaTeX", which is
 available (in several formats) via
 [http://www.ams.org/tex/amslatex.html](http://www.ams.org/tex/amslatex.html)
-(the ''Additional Documentation'' about half-way down the page.
+(the "Additional Documentation" about half-way down the page.
 
 Herbert Voß has written an extensive guide to mathematics in
 LaTeX, and a development of it has been 
@@ -29,12 +29,12 @@ from <https://www.tug.org/tutorials/tugindia>&nbsp;&mdash; there
 are 17&nbsp;chapters in the series, two of which are mostly introductory.
 
 Peter Smith's
-  ''[LaTeX for Logicians](http://www.logicmatters.net/latex-for-logicians/)''
+  "[LaTeX for Logicians](http://www.logicmatters.net/latex-for-logicians/)"
 page covers a rather smaller subject area, but is similarly comprehensive
 (mostly by links to documents on relevant topics, rather than as a
 monolithic document).
 
-Keith Reckdahl's ''Using Imported Graphics in LaTeX2e''
+Keith Reckdahl's "Using Imported Graphics in LaTeX2e"
 ([`epslatex`](https://ctan.org/pkg/epslatex)) is an
 excellent introduction to graphics use.  It's available on
 CTAN, but not in the TeX&nbsp;Live or MiKTeX distributions, for
@@ -53,7 +53,7 @@ and others.
 
 The compendious PGF/TikZ manual is clear, but is
 bewildering for some beginners.  The 
-[''minimal'' introduction](http://cremeronline.com/LaTeX/minimaltikz.pdf)
+["minimal" introduction](http://cremeronline.com/LaTeX/minimaltikz.pdf)
 has helped at least the present author.
 
 Vincent Zoonekynd provides a set of excellent (and graphic) tutorials
@@ -65,13 +65,13 @@ and
 In each file, there is a selection of graphics representing an output
 style, and for each style, the code that produces it is shown.
 
-An invaluable step-by-step setup guide for establishing a ''work flow''
+An invaluable step-by-step setup guide for establishing a "work flow"
 through your (La)TeX system, so that output appears at the
 correct size and position on standard-sized paper, and that the print
 quality is satisfactory, is Mike Shell's [`testflow`](https://ctan.org/pkg/testflow).  The
 tutorial consists of a large plain text document, and there is a
 supporting LaTeX file together with correct output, both in PostScript and
-PDF, for each of A4 and ''letter'' paper sizes.  The
+PDF, for each of A4 and "letter" paper sizes.  The
 complete kit is available on CTAN (distributed with the
 author's macros for papers submitted for IEEE publications).
 The issues are also covered in a later 

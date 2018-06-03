@@ -11,8 +11,8 @@ The actual error we observe is:
 ```
 and it tells us that something we started in the document never got
 finished before we ended the document itself.  The things involved
-(''groups'') are what TeX uses for restricting the scope of things:
-you see them, for example, in the ''traditional'' font selection
+("groups") are what TeX uses for restricting the scope of things:
+you see them, for example, in the "traditional" font selection
 commands: `{\it stuff}`&nbsp;&mdash; if the closing brace is left off such a
 construct, the effect of `\it` will last to the end of the document,
 and you'll get the diagnostic.
@@ -29,22 +29,22 @@ and are also a potential source of unclosed group.
 `\begin{<environment>}` encloses the environment's body
 in a group, and establishes its own diagnostic mechanism.  If you end
 the document before closing some other environment, you get the
-''usual'' LaTeX diagnostic
+"usual" LaTeX diagnostic
 ```latex
 ! LaTeX Error: \begin{blah} on input line 6 ended by \end{document}.
 ```
 which (though it doesn't tell you which _file_ the
 `\begin{blah}` was in) is usually enough to locate the
 immediate problem.  If you press on past the LaTeX error, you get
-one or more repetitions of the ''occurred inside a group'' message
+one or more repetitions of the "occurred inside a group" message
 before LaTeX finally exits.  The [`checkend`](https://ctan.org/pkg/checkend) package
 recognises other unclosed `\begin{blob}` commands, and
-generates an ''ended by'' error message for each one, rather than
-producing the ''occurred inside a group'' message, which is sometimes
+generates an "ended by" error message for each one, rather than
+producing the "occurred inside a group" message, which is sometimes
 useful (if you remember to load the package).
 
 In the absence of such information from LaTeX, you need to use
-''traditional'' binary search to find the offending group.  Separate
+"traditional" binary search to find the offending group.  Separate
 the preamble from the body of your file, and process each half on its
 own with the preamble; this tells you which half of the file is at
 fault.  Divide again and repeat.  The process needs to be conducted

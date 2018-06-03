@@ -50,8 +50,8 @@ A collection of Knuth's publications about typography is also available:
   University Press, 1999, ISBN-10 1-57586-011-2, paperback
   ISBN-10 1-57586-010-4).
 
-and in late 2000, a ''Millennium Boxed Set'' of all
-5 volumes of Knuth's ''Computers and Typesetting'' series (about
+and in late 2000, a "Millennium Boxed Set" of all
+5 volumes of Knuth's "Computers and Typesetting" series (about
 TeX and MetaFont) was published by Addison Wesley:
 
 - Computers & Typesetting, Volumes A&ndash;E Boxed Set by Donald Knuth

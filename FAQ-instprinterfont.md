@@ -1,11 +1,11 @@
 ---
-title: ''Installing'' a PostScript printer built-in font
+title: "Installing" a PostScript printer built-in font
 category: installing
 permalink: /FAQ-instprinterfont
 date: 2014-06-10
 ---
 
-There is a ''standard'' set of fonts that has appeared in every PostScript
+There is a "standard" set of fonts that has appeared in every PostScript
 printer since the second generation of the type.  These fonts
 (8&nbsp;families of four text fonts each, and three special-purpose fonts)
 are of course widely used, because of their simple availability.  The
@@ -35,7 +35,7 @@ coverage of maths with `Times` (see package
 
 The archive `lw35nfss.zip` is laid out according to the
 TDS, so in principle, installation consists simply of
-''unzipping'' the file at the root of a `texmf` tree.
+"unzipping" the file at the root of a `texmf` tree.
 
 Documentation of the [`psnfss`](https://ctan.org/pkg/psnfss) bundle is provided in
 `psnfss2e.pdf` in the distribution.

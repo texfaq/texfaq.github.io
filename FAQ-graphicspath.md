@@ -1,12 +1,12 @@
 ---
-title: Importing graphics from ''somewhere else''
+title: Importing graphics from "somewhere else"
 category: graphics
 permalink: /FAQ-graphicspath
 date: 2014-06-10
 ---
 
 By default, graphics commands like `\includegraphics` look
-''wherever TeX files are found'' for the graphic file they're being
+"wherever TeX files are found" for the graphic file they're being
 asked to use.  This can reduce your flexibility if you choose to hold
 your graphics files in a common directory, away from your (La)TeX
 sources.
@@ -21,7 +21,7 @@ TEXINPUTS=.:<graphics path(s)>:
 on a Unix system; on a Windows system the separator will be `;`
 rather than `:`.  The `.` is there to ensure
 that the current directory is searched first; the trailing `:` says
-''patch in the value of `TEXINPUTS` from your configuration file, here''.
+"patch in the value of `TEXINPUTS` from your configuration file, here".
 
 This method has the merit of efficiency ((La)TeX does _all_ of
 the searches, which is quick), but it's always clumsy and may prove
@@ -59,7 +59,7 @@ the list to look for a file, which of course slows things.  Further,
 (La)TeX remembers the name of any file it's asked to look up, thus
 effectively losing memory, so that in the limit a document that uses a
 huge number of graphical inputs could be embarrassed by lack of
-memory.  (Such ''memory starvation'' is pretty unlikely with any
+memory.  (Such "memory starvation" is pretty unlikely with any
 ordinary document in a reasonably modern (La)TeX system, but it
 should be borne in mind.)
 
@@ -67,5 +67,5 @@ If your document is split into a variety of directories, and each
 directory has its associated graphics, the [`import`](https://ctan.org/pkg/import) package
 may well be the thing for you; see the discussion 
 in the question
-''[bits of document in other directories](FAQ-docotherdir)''.
+"[bits of document in other directories](FAQ-docotherdir)".
 

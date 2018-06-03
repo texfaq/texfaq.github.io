@@ -15,8 +15,8 @@ the sequence:
 latex sample2e
 dvips -o sample2e.ps sample2e
 ```
-at a ''command prompt'' (`shell`, in a Unix-style system,
-''DOS box'' in a Windows system).
+at a "command prompt" (`shell`, in a Unix-style system,
+"DOS box" in a Windows system).
 
 If the command works at all, the console output of the command will
 include a sequence of Type&nbsp;1 font file names, listed as

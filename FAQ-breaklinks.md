@@ -6,7 +6,7 @@ date: 2014-06-10
 ---
 
 When using the [`hyperref`](https://ctan.org/pkg/hyperref) package, you make a block of text
-''active'' when you define a hyper-link (when the user clicks on
+"active" when you define a hyper-link (when the user clicks on
 that text, the reader program will divert to the _target_ of the
 link).
 
@@ -25,7 +25,7 @@ The problem may occur in a number of different circumstances.  For a
 couple of them, there are work-arounds:
 
 First, if you have an URL which is active (so that clicking on
-it will activate your web browser to ''go to'' the URL).  In
+it will activate your web browser to "go to" the URL).  In
 this case [`hyperref`](https://ctan.org/pkg/hyperref) employs the [`url`](https://ctan.org/pkg/url) package to
 split up the URL (as described in 
 [typesetting URLs](FAQ-setURL)), but the

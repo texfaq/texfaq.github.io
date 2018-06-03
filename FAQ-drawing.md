@@ -49,7 +49,7 @@ of drawing, and setup, here are a few systems you may consider:
     diagrams, is available).
     [`Pstricks`](https://ctan.org/pkg/Pstricks)' `\special`s are
     by default specific to `dvips`, but there is
-    a [`Pstricks`](https://ctan.org/pkg/Pstricks) ''driver'' that allow [`Pstricks`](https://ctan.org/pkg/Pstricks) to
+    a [`Pstricks`](https://ctan.org/pkg/Pstricks) "driver" that allow [`Pstricks`](https://ctan.org/pkg/Pstricks) to
     operate under XeTeX.  pdfTeX users may use [`pst-pdf`](https://ctan.org/pkg/pst-pdf),
     which (like [`epstopdf`](https://ctan.org/pkg/epstopdf)&nbsp;&mdash; see 
     [pdfLaTeX graphics](FAQ-pdftexgraphics)) generates
@@ -64,10 +64,10 @@ of drawing, and setup, here are a few systems you may consider:
     just browse the 
     [list archives](https://tug.org/pipermail/pstricks/).
 -  [`pgf`](https://ctan.org/pkg/pgf): while [`pstricks`](https://ctan.org/pkg/pstricks) is very powerful and
-    convenient from ''traditional'' TeX, using it with pdfLaTeX is
+    convenient from "traditional" TeX, using it with pdfLaTeX is
     pretty tiresome: if you 
     simply want the graphical capabilities, [`pgf`](https://ctan.org/pkg/pgf), together with
-    its ''user-oriented'' interface [`tikz`](https://ctan.org/pkg/tikz), may be a good
+    its "user-oriented" interface [`tikz`](https://ctan.org/pkg/tikz), may be a good
     bet for you.  While PDF has (in essence) the same graphical
     capabilities as PostScript, it isn't programmable; [`pgf`](https://ctan.org/pkg/pgf) provides
     LaTeX commands that will utilise the graphical capabilities of
@@ -85,7 +85,7 @@ of drawing, and setup, here are a few systems you may consider:
   
 
     Note that you can 
-    [''embed'' MetaPost source in your document](FAQ-inlgrphapp) (i.e.,
+    ["embed" MetaPost source in your document](FAQ-inlgrphapp) (i.e.,
     keep it in-line with your LaTeX code).
 -  You liked MetaFont (or MetaPost), but find the language difficult?
     `Mfpic` makes up MetaFont or MetaPost code for you using
@@ -97,7 +97,7 @@ of drawing, and setup, here are a few systems you may consider:
     but is an entirely new implementation which is not as hard on
     memory, is much more readable,
     as well as in the author's book
-    ''TeX and LaTeX: Drawing and Literate Programming'',
+    "TeX and LaTeX: Drawing and Literate Programming",
     which remains available from on-line booksellers.
 
 In addition, there are several means of generating code for your

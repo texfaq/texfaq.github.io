@@ -6,7 +6,7 @@ date: 2014-06-10
 ---
 
 The job just can't be done automatically: DVI, PostScript and
-PDF are ''final'' formats, supposedly not susceptible to
+PDF are "final" formats, supposedly not susceptible to
 further editing&nbsp;&mdash; information about where things came from has been
 discarded.  So if you've lost your (La)TeX source (or never
 had the source of a document you need to work on) you've a serious job
@@ -44,7 +44,7 @@ you can tag the PDF file into an estructured document, output
 thence to well-formed XHTML, and import the results into
 Microsoft `Word` (2000 or later).  From there, one may
 convert to (La)TeX using one of the techniques discussed in
-''[converting to and from (La)TeX](FAQ-fmtconv)''.
+"[converting to and from (La)TeX](FAQ-fmtconv)".
 
 The result will typically (at best) be poorly marked-up.  Problems may
 also arise from the oddity of typical TeX font encodings (notably

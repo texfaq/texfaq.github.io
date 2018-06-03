@@ -21,7 +21,7 @@ Barbara Beeton's article
 gives a manual method for doing the same.
 
 The [`stfloats`](https://ctan.org/pkg/stfloats) package also ameliorates the situation somewhat, and
-makes LaTeX honour ''[b]'' placement as well; the
+makes LaTeX honour "[b]" placement as well; the
 [`dblfloatfix`](https://ctan.org/pkg/dblfloatfix) package combines a tidied version of the changes
 made in [`stfloats`](https://ctan.org/pkg/stfloats) with the
   [float ordering corrections](FAQ-2colfltorder) defined in
@@ -31,12 +31,12 @@ A particular problem with [`stfloats`](https://ctan.org/pkg/stfloats) and [`dblf
 is that the float will appear, at its earliest, on the page after it
 is specified.  This has two undesirable side-effects: first, there may
 be no bottom float on the first page of a document, and second, float
-numbers may become ''entangled'' (particularly if you're using
+numbers may become "entangled" (particularly if you're using
 [`dblfloatfix`](https://ctan.org/pkg/dblfloatfix) that ensures that the early-specified bottom
 float is set _before_ any single column floats).
 
 (The FAQ team doesn't know of any package that will make
-LaTeX honour ''[h]'' placement of double-column floats, but the
+LaTeX honour "[h]" placement of double-column floats, but the
 [`midfloat`](https://ctan.org/pkg/midfloat) package can be pressed into service to provide
 something approximating the effect it would have.)
 

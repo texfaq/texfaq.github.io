@@ -6,11 +6,11 @@ date: 2014-06-10
 ---
 
 The [TDS](FAQ-tds) is a simple structure, and almost all
-files can be installed simply by putting them in the ''right'' place,
+files can be installed simply by putting them in the "right" place,
 and updating a single index.  (Note, this simple idea typically
 doesn't work for fonts, unless they're distributed as MetaFont source.)
 
-The CTAN network is therefore acquiring ''TDS-ZIP'' files,
+The CTAN network is therefore acquiring "TDS-ZIP" files,
 which have a built-in directory structure that matches the TDS.
 These files have to be built, and the CTAN team has asked that
 package authors supply them (the team will advise, of course, if the
@@ -25,5 +25,5 @@ steadily increasing, but it will be a long time before the whole set
 is covered.
 
 Use of the files is discussed in 
-''[installing using ready-built ZIP files](FAQ-inst-tds-zip)''.
+"[installing using ready-built ZIP files](FAQ-inst-tds-zip)".
 

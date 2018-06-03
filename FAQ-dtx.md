@@ -9,9 +9,9 @@ LaTeX2e, and many contributed LaTeX macro packages, are written
 in a [literate programming style](FAQ-lit), with source and
 documentation in the
 same file.  This format in fact originated before the
-days of the LaTeX project as one of the ''Mainz'' series of
+days of the LaTeX project as one of the "Mainz" series of
 packages.  A documented source file conventionally has the suffix
-`dtx`, and will normally be ''stripped'' before use with
+`dtx`, and will normally be "stripped" before use with
 LaTeX; an installation (`ins`) file is normally provided,
 to automate this process of removing comments for speed of loading.
 If the `ins` file is available, you may process _it_
@@ -30,19 +30,19 @@ Codelines passed: 972
 ```
 The lines `Processing ... ended by \endinput` may
 be repeated if the `dtx` file provides more than one
-''unpacked'' file.
+"unpacked" file.
 
-To read the comments ''as a document'', you can run LaTeX on the
+To read the comments "as a document", you can run LaTeX on the
 `dtx` file to produce a nicely formatted version of the
 documented code.  (Most LaTeX packages on CTAN, nowadays, already
 have PDF of the result of processing the `dtx` file,
-as ''documentation''.)
+as "documentation".)
 
 Several packages may be included in one `dtx` file, with
 conditional sections, and there are facilities for indexes of macros,
 etc.  All of this mélange is sorted out by directives in the
 `ins` file; conventional indexing utilities may be necessary
-for ''full'' output.
+for "full" output.
 
 Anyone may write `dtx` files; the format is explained in
 [The LaTeX Companion](FAQ-latex-books), and a tutorial is available
@@ -65,9 +65,9 @@ HTML output; it is often quite difficult to make
 with `dtx` files, since they use an unusual class file.
 
 The `sty2dtx` system goes one step further: it attempts to
-create a `dtx` file from a ''normal'' `sty` file
+create a `dtx` file from a "normal" `sty` file
 with comments.  It works well, in some circumstances, but can become
-confused by comments that aspire to ''structure'' (e.g., tabular
+confused by comments that aspire to "structure" (e.g., tabular
 material, as in many older packages' file headers).
 
 The `dtx` files are not used by LaTeX after they have been

@@ -5,7 +5,7 @@ permalink: /FAQ-other-books
 date: 2014-06-10
 ---
 
-There's a nicely-presented list of of ''recommended books'' to be had
+There's a nicely-presented list of of "recommended books" to be had
 on the web: <http://www.macrotex.net/texbooks/>
 
 The list of MetaFont books is rather short:
@@ -24,5 +24,5 @@ maintenance) is:
 
 The book is decidedly dated, and is now out of print, but a copy is
 available via `sourceforge` and on CTAN, 
-and we list it under ''[online books](FAQ-ol-books)''.
+and we list it under "[online books](FAQ-ol-books)".
 

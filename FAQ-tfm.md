@@ -5,12 +5,12 @@ permalink: /FAQ-tfm
 date: 2014-06-10
 ---
 
-TFM is an acronym for ''TeX Font Metrics''; TFM files hold
+TFM is an acronym for "TeX Font Metrics"; TFM files hold
 information about the sizes of the characters of the font in question,
 and about ligatures and kerns within that font.  One TFM file is
 needed for each font used by TeX, that is for each design (point)
 size for each weight for each family; each TFM file serves for all
-magnifications of ''its'' font, so that there are (typically) fewer
+magnifications of "its" font, so that there are (typically) fewer
 TFM files than there are [PK](FAQ-pk) files.  TeX,
 LaTeX, etc.,
 themselves need only know about the sizes of characters and their

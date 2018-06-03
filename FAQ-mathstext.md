@@ -10,8 +10,8 @@ When we type maths in (La)TeX, the letters from which we make up
 ordinary text assume a special significance: they all become
 single-letter variable names.  The letters appear in italics, but it's
 not the same sort of italics that you see when you're typing ordinary
-text: a run of maths letters (for example ''here'') looks oddly
-''lumpy'' when compared with the word written in italic text.  The
+text: a run of maths letters (for example "here") looks oddly
+"lumpy" when compared with the word written in italic text.  The
 difference is that the italic text is kerned to make the letters fit
 well together, whereas the maths is set to look as if you're
 multiplying _h_ by _e_ by _r_ by _e_.  The other
@@ -51,12 +51,12 @@ $z = a_{\mbox{\scriptsize other end}}$
 which works if your surrounding text is at default document size, but
 gives you the wrong size otherwise.
 
-The `\mbox` short cut is (just about) OK for ''occasional''
+The `\mbox` short cut is (just about) OK for "occasional"
 use, but serious mathematics calls for a technique that
 relieves the typist of the sort of thought required.  As usual, the
 AMSLaTeX system provides what's necessary&nbsp;&mdash; the `\text`
 command.  (The command is actually provided by the [`amstext`](https://ctan.org/pkg/amstext)
-package, but the ''global'' [`amsmath`](https://ctan.org/pkg/amsmath) package loads it.)  Thus
+package, but the "global" [`amsmath`](https://ctan.org/pkg/amsmath) package loads it.)  Thus
 anyone using AMSLaTeX proper has the command available, so even
 this author can write:
 ```latex
@@ -79,7 +79,7 @@ middle of one of its multi-line display structures, through the
   \intertext{and} A_3&=\mathcal{N}(\lambda;\omega).
 \end{align}
 ```
-places the text ''and'' on a separate line before the last line of the
+places the text "and" on a separate line before the last line of the
 display.  If the interjected text is short, or the equations
 themselves are light-weight, you may find that `\intertext` leaves
 too much space.  Slightly more modest is the `\shortintertext`

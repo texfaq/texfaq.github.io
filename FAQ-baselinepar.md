@@ -14,8 +14,8 @@ size, as:
 {\Huge A}
 ```
 will be squashed into the paragraph: TeX will make sure it doesn't
-scrape up against the line above, but won't give it ''room to
-breathe'', as it does the text at standard size; that is, its size
+scrape up against the line above, but won't give it "room to
+breathe", as it does the text at standard size; that is, its size
 (`24.88pt`) is taken account of, but its `\baselineskip`
 (`30pt`) isn't.  This problem may be solved by a _strut_:
 the name comes from movable metal typography, and refers to a spacer
@@ -50,7 +50,7 @@ Paragraph text ...
 will look wrong, since the `8pt` interjection will
 end up set on the `12pt` `\baselineskip` of the paragraph,
 rather than its preferred `8.5pt`.  A `\strut` here is no
-help: there is no such thing as a ''negative strut'', that draws lines
+help: there is no such thing as a "negative strut", that draws lines
 together, so once more, one falls back on the `quote` to
 separate the interjection:
 ```latex

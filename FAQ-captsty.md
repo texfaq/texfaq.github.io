@@ -24,10 +24,10 @@ aren't recommended for ordinary users.
 The [`float`](https://ctan.org/pkg/float) package provides some control of the appearance of
 captions, though it's principally designed for the creation of
 non-standard floats.  The [`caption`](https://ctan.org/pkg/caption) and [`ccaption`](https://ctan.org/pkg/ccaption)
-(note the double ''_c_'') packages provide a range of different
+(note the double "_c_") packages provide a range of different
 formatting options.
 
-[`ccaption`](https://ctan.org/pkg/ccaption) also provides ''continuation'' captions and captions
+[`ccaption`](https://ctan.org/pkg/ccaption) also provides "continuation" captions and captions
 that can be placed outside of float environments.  The (very simple)
 [`capt-of`](https://ctan.org/pkg/capt-of) package also allows captions outside a float
 environment.  Note that care is needed when doing things that assume

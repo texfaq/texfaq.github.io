@@ -38,7 +38,7 @@ would be typeset (in an [`article`](https://ctan.org/pkg/article) document) some
 which is quite enough for many ordinary purposes.  Note that, once
 you've switched to typesetting appendixes, LaTeX provides you with
 no way back&nbsp;&mdash; once you've had an appendix, you can no longer have an
-''ordinary'' `\section` or `\chapter`.
+"ordinary" `\section` or `\chapter`.
 
 The [`appendix`](https://ctan.org/pkg/appendix) provides several ways of elaborating on this
 simple setup.  Straightforward use of the package allows you to have a
@@ -51,7 +51,7 @@ contents; this would be achieved by
 \appendixpage
 \addappheadtotoc
 ```
-The `\appendixpage` command adds a separate title ''Appendices''
+The `\appendixpage` command adds a separate title "Appendices"
 above the first appendix, and `\addappheadtotoc` adds a similar
 title to the table of contents.  These simple modifications cover many
 people's needs about appendixes.

@@ -18,7 +18,7 @@ The main CTAN site is in Germany
 (originally there were three main hosts, in Germany, UK and USA),
 but users should ordinarily collect material via the 
 [CTAN mirror redirector](http://mirror.ctan.org/)
-(which connects you to a mirror that is in some sense ''near'' to
+(which connects you to a mirror that is in some sense "near" to
 you).
 
 To access a particular thing through the `mirror.ctan.org`
@@ -29,7 +29,7 @@ connect you to the [`footmisc`](https://ctan.org/pkg/footmisc) directory at some
 mirror.
 
 For details of how to find files at CTAN sites, see
-''[finding (La)TeX files](FAQ-findfiles)''.
+"[finding (La)TeX files](FAQ-findfiles)".
 
 The TeX user who has no access to any sort of
 network may buy a copy of the archive as part of the

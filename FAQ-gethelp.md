@@ -20,7 +20,7 @@ the better TeX distributions provide a wide range of supporting
 material.  The [CTAN Catalogue](FAQ-catalogue) can also
 identify packages that might help: you can 
 [search it](https://ctan.org/search/), or you can browse it
-''[by topic](https://ctan.org/topics/cloud)''.
+"[by topic](https://ctan.org/topics/cloud)".
 Each catalogue entry has a brief description of the package, and links to
 known documentation on the net.  In fact, a large proportion of
 CTAN package directories now include documentation, so it's
@@ -33,7 +33,7 @@ Failing that, look to see if anyone has solved the problem before;
 places where people ask are:
   
 
-1.  newsgroup `comp.text.tex`, whose ''historical posts''
+1.  newsgroup `comp.text.tex`, whose "historical posts"
     are accessible via
     [Google groups](http://groups.google.com/group/comp.text.tex),
     and
@@ -45,7 +45,7 @@ places where people ask are:
     those days, a question asked in one issue would only ever be
     answered in the next one.
 
-If the ''back question'' searches fail, you must ask the world at
+If the "back question" searches fail, you must ask the world at
 large.
 
 So, how do you like to ask questions?&nbsp;&mdash; the three available
@@ -53,20 +53,20 @@ mechanisms are:
   
 
 1.  Mailing lists: there are various specialist mailing lists, but
-    the place for ''general'' (La)TeX queries is the `texhax`
+    the place for "general" (La)TeX queries is the `texhax`
     mailing list.  Mail to <a href="mailto:texhax@tug.org">texhax@tug.org</a> to ask a question,
     but it's probably better to subscribe to the list
     (via <https://tug.org/mailman/listinfo/texhax>) 
     first&nbsp;&mdash; not everyone will answer to you as well as to the list.
 2.  Newsgroup: to ask a question on `comp.text.tex`, you
     can use your own news client (if you have one), or use the
-    ''+ new post'' button on
+    "+ new post" button on
     <http://groups.google.com/group/comp.text.tex>.
 3.  Web forum: alternatives are: the 
-    [''LaTeX community'' site](http://www.latex-community.org/),
-    which offers a variety of ''categories'' to place your query, and the
+    ["LaTeX community" site](http://www.latex-community.org/),
+    which offers a variety of "categories" to place your query, and the
     [TeX, LaTeX and friends&site](https://tex.stackexchange.com/)
-    (''StackExchange'').
+    ("StackExchange").
   
 
     StackExchange has a scheme for voting on the quality of answers (and
@@ -75,7 +75,7 @@ mechanisms are:
   
 
     StackExchange offers
-    [hints about ''good behaviour''](https://tex.meta.stackexchange.com/questions/1436/welcome-to-tex-sx),
+    [hints about "good behaviour"](https://tex.meta.stackexchange.com/questions/1436/welcome-to-tex-sx),
     which any user should at least scan before asking for help there.
     (The hints' principal aim is to maximise the chance that you get useful
     advice from the first answer; for example, it suggests that you supply a
@@ -88,6 +88,6 @@ Do *not* try mailing the LaTeX project team, the maintainers
 of the TeX&nbsp;Live or MiKTeX distributions or the maintainers of
 these FAQs for help; while all these addresses reach
 experienced (La)TeX users, no small group can possibly have
-expertise in every area of usage so that the ''big'' lists and forums
+expertise in every area of usage so that the "big" lists and forums
 are a far better bet.
 

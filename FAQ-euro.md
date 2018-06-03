@@ -5,18 +5,18 @@ permalink: /FAQ-euro
 date: 2014-06-10
 ---
 
-The European currency ''Euro'' (€) is represented by a symbol
+The European currency "Euro" (€) is represented by a symbol
 of somewhat dubious design, but it's an important currency and
 (La)TeX users need to typeset it.  When the currency first appeared,
 typesetting it was a serious problem for (La)TeX users; things are
 easier now (most fonts have some way of providing a Euro sign), but
-this answer provides a summary of methods ''just in case''.
+this answer provides a summary of methods "just in case".
 
 Note that the Commission of the European Community at first deemed
 that the Euro symbol should always be set in a sans-serif font;
 fortunately, this eccentric ruling has now been rescinded, and one may
 apply best typesetting efforts to making it appear at least slightly
-''respectable'' (typographically).
+"respectable" (typographically).
 
 The TS1-encoded TC fonts provided as part of the EC font
 distribution provide Euro glyphs.  The fonts are called Text Companion
@@ -32,7 +32,7 @@ producing documents using Knuth's Computer Modern Fonts.
 The each of the `latin9` and `latin10 input encoding
 definitions for the [`inputenc`](https://ctan.org/pkg/inputenc) package has a euro character
 defined (character position 164, occupied in other ISO Latin
-character sets by the ''currency symbol'' &#xa4;, which
+character sets by the "currency symbol" &#xa4;, which
 ordinary people seldom see except in character-set listings&hellip;).
 The TC encoding file offers the command `\texteuro` for the
 character; that command is (probably) _only_ available from the
@@ -45,7 +45,7 @@ text.
 Note that there is a Microsoft code page position (128), too, and that has
 been added to [`inputenc`](https://ctan.org/pkg/inputenc) tables for CP1252 and
 CP1257.  (There's another position in CP858, which has
-it in place of ''dotless i'' in CP850; the standardisation of
+it in place of "dotless i" in CP850; the standardisation of
 these things remains within Microsoft, so one can never tell what will
 come next&hellip;)
 
@@ -73,7 +73,7 @@ Times, Helvetica and Courier, but can probably fit with a wider range
 of modern fonts.
 
 The [`eurofont`](https://ctan.org/pkg/eurofont) package provides a compendious analysis of the
-''problem of the euro symbol'' in its documentation, and offers macros
+"problem of the euro symbol" in its documentation, and offers macros
 for configuring the source of the glyphs to be used; however, it seems
 rather large for everyday use.
 

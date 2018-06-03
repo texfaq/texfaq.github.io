@@ -45,6 +45,6 @@ The following programs are available:
 
   `Xindy` itself will work with Unicode (UTF-8) encoded
   LaTeX input.  A separate application (`texindy`) deals
-  with ''standard'' LaTeX source, processes it and passes
-  ''sanitised'' text to `Xindy`.
+  with "standard" LaTeX source, processes it and passes
+  "sanitised" text to `Xindy`.
 

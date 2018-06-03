@@ -41,7 +41,7 @@ David Kastrup offers the (rather tricky)
 ```latex
 {\expandafter}\expandafter\ifx \csname cmd name\endcsname\relax ...
 ```
-which ''creates'' the `\relax`-command inside the group of the first
+which "creates" the `\relax`-command inside the group of the first
 `\expandafter`, therefore forgets it again once the test is done.
 The test is about as good as you can do with macros.
 
@@ -72,7 +72,7 @@ the same thing:
 ```
 However, after using the original LaTeX
 `\@ifundefined{foo}`&hellip;, the conditionals will detect the
-command as ''existing'' (since it has been `\let` to `\relax`);
+command as "existing" (since it has been `\let` to `\relax`);
 so it is important not to mix mechanisms for detecting the state of a
 command.
 

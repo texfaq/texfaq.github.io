@@ -12,7 +12,7 @@ ends of chapters of the TeXbook).
 
 Typesetting them is a bit of a fiddle, but not impossible to do for
 yourself.  Fortunately, there are two packages that do the job, to
-some extent; there are also facilities in the two ''big'' classes
+some extent; there are also facilities in the two "big" classes
 ([`memoir`](https://ctan.org/pkg/memoir) and [`koma-script`](https://ctan.org/pkg/koma-script).
 
 The [`epigraph`](https://ctan.org/pkg/epigraph) package defines an `\epigraph` command, for

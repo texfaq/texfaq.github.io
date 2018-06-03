@@ -8,13 +8,13 @@ date: 2014-06-10
 
 LaTeX uses symbolic names for many of the automatically-generated
 text it produces (special-purpose section headings, captions, etc.).
-As noted in [''LaTeX fixed names''](FAQ-fixnam) (which
+As noted in ["LaTeX fixed names"](FAQ-fixnam) (which
 includes a list of the names themselves),
 this enables the user to change the
 names used by the standard classes, which is particularly useful if
 the document is being prepared in some language other than LaTeX's
 default English.  So, for example, a Danish author may wish that her
-table of contents was called ''Indholdsfortegnelse'', and so 
+table of contents was called "Indholdsfortegnelse", and so 
 would expect to place a command
 ```latex
 \renewcommand{\contentsname}%
@@ -29,7 +29,7 @@ particular, when [`babel`](https://ctan.org/pkg/babel) is selecting a new langua
 ensures that LaTeX's symbolic names are translated appropriately
 for the language in question.  Unfortunately, [`babel`](https://ctan.org/pkg/babel)'s choice
 of names isn't always to everyone's choice, and there is still a need
-for a mechanism to replace the ''standard'' names.
+for a mechanism to replace the "standard" names.
 
 Whenever a new language is selected, [`babel`](https://ctan.org/pkg/babel) resets all the
 names to the settings for that language.  In particular,

@@ -31,7 +31,7 @@ Unfortunately, `\thispagestyle` doesn't work for [`book`](https://ctan.org/pkg/b
 `\chapter` commands), but then they advance to the next page so
 that you have no opportunity to change the style using
 `\thispagestyle`.  The present author has proposed solving the
-problem with the following ''grubby little patch'', on
+problem with the following "grubby little patch", on
 `comp.text.tex`:
 ```latex
 \makeatletter
@@ -43,7 +43,7 @@ Fortunately, that patch has now been incorporated in a small package
 [`nonumonpart`](https://ctan.org/pkg/nonumonpart) (a difficult name&hellip;)
 
 Both the [`KOMA-script`](https://ctan.org/pkg/koma-script) classes and [`memoir`](https://ctan.org/pkg/memoir) have separate
-page styles for the styles of various ''special'' pages, so, in a
+page styles for the styles of various "special" pages, so, in a
 [`KOMA`](https://ctan.org/pkg/koma-script) class document one might say:
 ```latex
 \renewcommand*{\titlepagestyle}{empty}
@@ -67,7 +67,7 @@ the construction of the page header and footer; so one can say
 ```
 which will also suppress the printing of the page number.
 
-Neither of these ''suppress the page number'' techniques touches the
+Neither of these "suppress the page number" techniques touches the
 page style in use; in practice this means they don't make sense unless
 you are using `\pagestyle{plain}`
 

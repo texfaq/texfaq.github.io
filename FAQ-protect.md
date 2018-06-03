@@ -1,5 +1,5 @@
 ---
-title: What's the reason for ''protection''?
+title: What's the reason for "protection"?
 category: programming
 tags: macros latex
 permalink: /FAQ-protect
@@ -8,7 +8,7 @@ date: 2014-06-10
 
 Sometimes LaTeX saves data it will reread later. These data are
 often the argument of some command; they are the so-called moving
-arguments.  (''Moving'' because data are moved around.)  Candidates
+arguments.  ("Moving" because data are moved around.)  Candidates
 are all arguments that may go into table of contents, list of figures,
 etc.; namely, data that are written to an auxiliary file and
 read in later.  Other places are those data that might appear in head-
@@ -24,14 +24,14 @@ processed again. Protecting a command, using
 `\protect\cmd` tells LaTeX to save `\cmd` as
 `\cmd`, without expanding it at all.
 
-So, what is a ''fragile command''?&nbsp;&mdash; it's a command that expands into
+So, what is a "fragile command"?&nbsp;&mdash; it's a command that expands into
 illegal TeX code during the save process.
 
-What is a ''robust command''?&nbsp;&mdash; it's a command that expands into legal
+What is a "robust command"?&nbsp;&mdash; it's a command that expands into legal
 TeX code during the save process.
 
 Lamport's book says in its description of every LaTeX command whether
-it is ''robust'' or ''fragile''; it also says that every command with an
+it is "robust" or "fragile"; it also says that every command with an
 optional argument is fragile.  The list isn't reliable, and neither
 is the assertion about optional arguments; the statements may have
 been true in early versions of LaTeX2e but are not any longer
@@ -42,7 +42,7 @@ necessarily so:
     in later revisions of LaTeX.
 -  Some commands, such as `\end` and `\nocite`, are fragile
     even though they have no optional arguments.
--  The ''user's way'' of creating a command with an optional
+-  The "user's way" of creating a command with an optional
     argument (using `\newcommand` or `\newcommand*`) now always
     creates a robust command (though macros without optional arguments
     may still be fragile if they do things that are themselves fragile).
@@ -51,7 +51,7 @@ necessarily so:
 -  Some robust commands are redefined by certain packages to be
     fragile (the `\cite` command commonly suffers this treatment).
 
-Further, simply ''hiding'' a fragile command in another command, has
+Further, simply "hiding" a fragile command in another command, has
 no effect on fragility.  So, if `\fred` is fragile, and you write:
 ```latex
 \newcommand{\jim}{\fred}
@@ -69,7 +69,7 @@ then `\jim` is robust.
 
 Finally, we have the [`makerobust`](https://ctan.org/pkg/makerobust) package, which  defines
 `\MakeRobustCommand` to convert a command to be robust.  With the
-package, the ''wrapping'' above can simply be replaced by:
+package, the "wrapping" above can simply be replaced by:
 ```latex
 \MakeRobustCommand\fred
 ```

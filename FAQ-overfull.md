@@ -9,17 +9,17 @@ When TeX is building a paragraph, it can make several attempts to
 get the line-breaking right; on each attempt it runs the same
 algorithm, but gives it different parameters.  You can affect the way
 TeX's line breaking works by adjusting the parameters: this answer
-deals with the ''tolerance'' and stretchability parameters.  The other
-vital ''parameter'' is the set of hyphenations to be applied: see
-''[my words aren't being hyphenated](FAQ-nohyph)''
+deals with the "tolerance" and stretchability parameters.  The other
+vital "parameter" is the set of hyphenations to be applied: see
+"[my words aren't being hyphenated](FAQ-nohyph)"
 (and the questions it references) for advice.
 
-If you're getting an undesired ''overfull box'', what has happened is
+If you're getting an undesired "overfull box", what has happened is
 that TeX has given up: the parameters you gave it don't allow it to
 produce a result that _doesn't_ overfill.  In this circumstance,
 Knuth decided the best thing to do was to produce a warning, and to
 allow the user to solve the problem.  (The alternative, silently to go
-beyond the envelope of ''good taste'' defined for this run of TeX,
+beyond the envelope of "good taste" defined for this run of TeX,
 would be distasteful to any discerning typographer.)  The user can
 almost always address the problem by rewriting the text that's
 provoking the problem&nbsp;&mdash; but that's not always possible, and in some
@@ -28,7 +28,7 @@ parameters.  This answer discusses the approaches one might take to
 resolution of the problem, on the assumption that you've got the
 hyphenation correct.
 
-The simplest case is where a ''small'' word fails to break at the end of
+The simplest case is where a "small" word fails to break at the end of
 a line; pushing the entire word to a new line isn't going to make much
 difference, but it might make things just bad enough that TeX won't
 do it by default.  In such a case on can _try_ the LaTeX
@@ -38,7 +38,7 @@ parameters: to do that we need to recap the details of TeX's line
 breaking mechanisms.
 
 TeX's first attempt at breaking lines is performed without even
-trying hyphenation: TeX sets its ''tolerance'' of line breaking
+trying hyphenation: TeX sets its "tolerance" of line breaking
 oddities to the internal value `\pretolerance`, and sees what
 happens.  If it can't get an acceptable break, TeX adds the
 hyphenation points allowed by the current patterns, and tries again
@@ -55,11 +55,11 @@ assignment&nbsp;&mdash; for example
 ```latex
 \pretolerance=150
 ```
-For both, an ''infinite'' tolerance is represented by the value
+For both, an "infinite" tolerance is represented by the value
 `10000`, but infinite tolerance is rarely
 appropriate, since it can lead to very bad line breaks indeed.
 
-`\emergencystretch` is a TeX-internal ''dimen'' register, and can
+`\emergencystretch` is a TeX-internal "dimen" register, and can
 be set as normal for dimens in Plain TeX; in LaTeX, use
 `\setlength`&nbsp;&mdash; for example:
 ```latex
@@ -83,14 +83,14 @@ Plain TeX and LaTeX both set its value to `200`.  LaTeX's
 `\sloppy` command sets it to `9999`, as does the
 `sloppypar` environment.  This value is the largest
 available, this side of infinity, and can allow pretty poor-looking
-breaks (this author rarely uses `\sloppy` ''bare'', though he does
+breaks (this author rarely uses `\sloppy` "bare", though he does
 occasionally use `sloppypar`&nbsp;&mdash; that way, the change of
 `\tolerance` is confined to the environment).  More satisfactory is
 to make small changes to `\tolerance`, incrementally, and then to look to
 see how the change affects the result; very small increases can often
 do what's necessary.  Remember that `\tolerance` is a paragraph
 parameter, so you need to ensure it's actually applied&nbsp;&mdash; see
-''[ignoring paragraph parameters](FAQ-paraparam)''.
+"[ignoring paragraph parameters](FAQ-paraparam)".
 LaTeX users could use an environment like:
 <!-- {% raw %} -->
 ```latex
@@ -119,15 +119,15 @@ treated with a degree of caution.
 
 More subtle (but more tricky to manage) are the microtypographic
 extensions provided by pdfTeX.  Since pdfTeX is the default
-''engine'' for LaTeX and ConTeXt work in all distributions,
+"engine" for LaTeX and ConTeXt work in all distributions,
 nowadays, the extensions are available to all.  There are two
 extensions, margin kerning and font expansion; margin kerning only
 affects the visual effect of the typeset page, and has little effect
-on the ability of the paragraph setter to ''get things right''.
+on the ability of the paragraph setter to "get things right".
 Font expansion works like a subtler version of the trick that
-`\emergencystretch` plays: pdfTeX ''knows'' that your current font
+`\emergencystretch` plays: pdfTeX "knows" that your current font
 may be stretched (or shrunk) to a certain extent, and will do that
-''on the fly'' to optimise the setting of a paragraph.  This is a
+"on the fly" to optimise the setting of a paragraph.  This is a
 powerful tool in the armoury of the typesetter.
 
 As mentioned above, the microtypographic extensions are tricky beasts

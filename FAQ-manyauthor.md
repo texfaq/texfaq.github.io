@@ -7,7 +7,7 @@ date: 2014-06-10
 
 BibTeX has a strict syntax for lists of authors' (or editors')
 names in the BibTeX data file; if you write the list of names in a
-''natural''-seeming way, the chances are you will confuse BibTeX,
+"natural"-seeming way, the chances are you will confuse BibTeX,
 and the output produced will be quite different from what you had
 hoped.
 
@@ -31,8 +31,8 @@ name separator.  The output of the above might be something like:
 ```latex
 John P. Doe \& Another Idiot Fred Q. Bloggs
 ```
-because ''John P. Doe & Another Idiot has become the ''first name'',
-while ''Fred Q. Bloggs'' has become the ''last name'' of a single
+because "John P. Doe & Another Idiot has become the "first name",
+while "Fred Q. Bloggs" has become the "last name" of a single
 person.  The example should have been written:
 <!-- {% raw %} -->
 ```latex
@@ -43,7 +43,7 @@ AUTHOR = {Fred Q. Bloggs and John P. Doe and
 Some bibliography styles implement clever acrobatics with very long
 author lists.  You can force truncation by using the pseudo-name
 `others`, which will usually translate to something like
-''_et al_'' in the typeset output.  So, if Mr.&nbsp;Bloggs wanted to
+"_et al_" in the typeset output.  So, if Mr.&nbsp;Bloggs wanted to
 distract attention from his co-authors, he would write:
 ```latex
 AUTHOR = {Fred Q. Bloggs and others}

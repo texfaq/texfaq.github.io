@@ -52,9 +52,9 @@ date: 2014-06-10
 - PSTricks: Graphics and PostScript for TeX and LaTeX by
   Herbert Voß, (UIT Cambridge, 2011, ISBN-10 978-1-906-86013-4)
 
-A sample of George Grätzer's ''Math into LaTeX'', in Adobe
+A sample of George Grätzer's "Math into LaTeX", in Adobe
 Acrobat format, and example files
 for the three LaTeX Companions, and for
-Grätzer's ''First Steps in LaTeX'', are all available on
+Grätzer's "First Steps in LaTeX", are all available on
 CTAN.
 

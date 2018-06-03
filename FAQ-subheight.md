@@ -7,7 +7,7 @@ date: 2014-06-10
 ---
 
 Other things being equal, TeX will aim to position subscripts and
-superscripts in places that ''look good''.  Unfortunately, it only
+superscripts in places that "look good".  Unfortunately, it only
 does this for the sub- and superscripts of each atom at a time, so if
 you have
 ```latex
@@ -22,7 +22,7 @@ You can avoid the problem, for a single instance, by
 ```latex
 $ X^{1}_{2} X^{}_{2} $
 ```
-here, the dummy superscript has the requisite ''pushing down'' effect:
+here, the dummy superscript has the requisite "pushing down" effect:
   ![faq-images2.png](faq-images2.png)
 
 While this technique does what is necessary, it is tedious and

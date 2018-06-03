@@ -10,12 +10,12 @@ difficult to understand; this is a (seemingly invariant) property of
 macroprocessors.  Knuth makes light of the problem in the TeXbook,
 suggesting that you acquire the sleuthing skills of a latter-day
 Sherlock Holmes; while this approach has a certain romantic charm to
-it, it's not good for the ''production'' user of (La)TeX.  This
+it, it's not good for the "production" user of (La)TeX.  This
 answer (derived, in part, from an article by Sebastian Rahtz in
 TUGboat 16(4)) offers some general guidance in dealing with TeX
 error reports, and other answers in this section deal with common (but
 perplexing) errors that you may encounter.  There's a long list of
-''hints'' in Sebastian's article, including the following:
+"hints" in Sebastian's article, including the following:
   
 
 -  Look at TeX errors; those messages may seem cryptic at first,
@@ -27,8 +27,8 @@ perplexing) errors that you may encounter.  There's a long list of
     messages.
 -  Be aware of the amount of context that TeX gives you.  The
     error messages gives you some bits of TeX code (or of the
-    document itself), that show where the error ''actually happened'';
-    it's possible to control how much of this ''context'' TeX actually
+    document itself), that show where the error "actually happened";
+    it's possible to control how much of this "context" TeX actually
     gives you.  LaTeX (nowadays) instructs TeX only to give you
     one line of context, but you may tell it otherwise by saying
     ```latex
@@ -57,7 +57,7 @@ perplexing) errors that you may encounter.  There's a long list of
     `\traceon` command gives you what `\tracingall` offers, but
     suppresses tracing around some of the truly verbose parts of
     LaTeX itself.  The package also provides a `\traceoff`
-    command (there's no ''off'' command for `\tracingall`), and a
+    command (there's no "off" command for `\tracingall`), and a
     package option (`logonly`) allows you to suppress output to the
     terminal.
 

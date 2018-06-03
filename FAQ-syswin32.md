@@ -15,7 +15,7 @@ pdfTeX&nbsp;&mdash; both with &epsilon;-TeX variants&nbsp;&mdash; as well as XeT
 LuaTeX), together with a wide range of support tools.
 
 Both MiKTeX and TeX&nbsp;Live offer management tools, including the
-means of keeping an installation ''up-to-date'', by reinstalling
+means of keeping an installation "up-to-date", by reinstalling
 packages that have been updated on CTAN (the delay between a
 package update appearing, and it being available to the distribution
 users) can be as short as a day (and is never very long).
@@ -29,7 +29,7 @@ version 2.9&nbsp;&mdash; requires Windows&nbsp;XP, or later (so it does not work
 Windows&nbsp;2000 or earlier).
 
 Both distributions may be used in a configuration which involves no
-installation at all.  MiKTeX's ''portable'' distribution may be
+installation at all.  MiKTeX's "portable" distribution may be
 unpacked on a memory stick, and used on any windows computer without
 making any direct use of the hard drive.  The web page 
 [TeX&nbsp;Live portable usage](http://www.tug.org/texlive/portable.html)

@@ -9,7 +9,7 @@ date: 2014-06-10
 Optional arguments, in macros defined using `\newcommand`, don't
 quite work like the optional argument to `\section`.  The default
 value of `\section`s optional argument is the value of the
-mandatory argument, but `\newcommand` requires that you ''know'' the
+mandatory argument, but `\newcommand` requires that you "know" the
 value of the default beforehand.
 
 The requisite trick is to use a macro in the optional argument:

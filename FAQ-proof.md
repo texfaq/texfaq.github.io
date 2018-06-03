@@ -7,14 +7,14 @@ date: 2014-06-10
 ---
 
 It was long thought impossible to make a `proof`
-environment which automatically includes an ''end-of-proof'' symbol.
+environment which automatically includes an "end-of-proof" symbol.
 Some proofs end in displayed maths; others do not.  If the input file
 contains 
 `...\] \end{proof}` then LaTeX finishes off
 the displayed maths and gets ready for a new line before it reads any
 instructions connected with ending the proof, so the code is very
 tricky.  You _can_ insert the symbol by hand, but the
-(apparently) original ''automatic'' solution came with Paul Taylor's
+(apparently) original "automatic" solution came with Paul Taylor's
 [`QED`](https://ctan.org/pkg/QED).
 
 Nowadays, the [`ntheorem`](https://ctan.org/pkg/ntheorem) package now solves the problem for

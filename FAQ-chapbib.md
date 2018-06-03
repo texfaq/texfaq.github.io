@@ -6,7 +6,7 @@ permalink: /FAQ-chapbib
 date: 2014-06-10
 ---
 
-A separate bibliography for each ''chapter'' of a document can be provided
+A separate bibliography for each "chapter" of a document can be provided
 with the package [`chapterbib`](https://ctan.org/pkg/chapterbib) (which comes with a bunch of
 other good bibliographic things).  The package allows you a
 different bibliography for each `\include`d file (i.e., despite the

@@ -5,8 +5,8 @@ permalink: /FAQ-codelist
 date: 2014-06-10
 ---
 
-''Pretty'' code listings are sometimes considered worthwhile by the
-''ordinary'' programmer, but they have a serious place in
+"Pretty" code listings are sometimes considered worthwhile by the
+"ordinary" programmer, but they have a serious place in
 the typesetting of dissertations by computer science and other
 students who are expected to write programs.  Simple verbatim listings
 of programs are commonly useful, as well.
@@ -56,16 +56,16 @@ format for your program: as well as (La)TeX output,
 `highlight` will produce (X)HTML, RTF
 and XSL-FO representations of your program listing.  The
 manual leads you through the details of defining a parameter file for
-a ''new'' language, as well as the presentation details of a language.
+a "new" language, as well as the presentation details of a language.
 
 The [`minted`](https://ctan.org/pkg/minted) package is another alternative that offers
 the means of creating new language definitions.  It
 requires that code be processed using an external (`python`)
 script, [`Pygments`](http://pygments.org/).
-`Pygments`, in turn, needs a ''lexer'' that knows the
+`Pygments`, in turn, needs a "lexer" that knows the
 language you want to process; lots of these are available, for the
 more commonly-used languages, and there is advice on
-''rolling your own'' on the 
+"rolling your own" on the 
 [`Pygments`](http://pygments.org/docs/lexerdevelopment/) site</a>
 
 Usage of [`minted`](https://ctan.org/pkg/minted) can be as simple as
@@ -80,12 +80,12 @@ though such usage is likely to require that
 
 On a rather different path, the package [`showexpl`](https://ctan.org/pkg/showexpl) supports
 typesetting (La)TeX code and its typeset output, in parallel
-''panes''.  (Thiscould provide support for (La)TeX instruction texts,
+"panes".  (Thiscould provide support for (La)TeX instruction texts,
 or for papers in TeX user group publications.  The package uses
 [`listings`](https://ctan.org/pkg/listings) for its (La)TeX pane, and typesets the result
 into a simple box, for the other pane.
 
-Longer-established, and variously less ''powerful'' systems include:
+Longer-established, and variously less "powerful" systems include:
   
 
 -  The `lgrind` system is a well-established
@@ -95,7 +95,7 @@ Longer-established, and variously less ''powerful'' systems include:
     Plain TeX.
 -  The `tiny_c2l` system is slightly more recent: users
     are again encouraged to generate their own driver files for
-    languages it doesn't already deal with, but its ''tiny'' name
+    languages it doesn't already deal with, but its "tiny" name
     correctly hints that it's not a particularly elaborate system.
 -  The `C++2LaTeX` system comes with strong
     recommendations for use with C and C++.
@@ -103,5 +103,5 @@ Longer-established, and variously less ''powerful'' systems include:
     write LaTeX source in your C program comments.  The
     program then converts your program into a LaTeX document for
     processing.  The program (implicitly) claims to be
-    ''self-documenting''.
+    "self-documenting".
 

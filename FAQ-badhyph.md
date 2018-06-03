@@ -24,15 +24,15 @@ For example
 in LaTeX.
 
 As mentioned in
-  ''[hyphenation failures](FAQ-nohyph)'',
-''words'' containing `\accent` commands may not be hyphenated.  As
+  "[hyphenation failures](FAQ-nohyph)",
+"words" containing `\accent` commands may not be hyphenated.  As
 a result, any such word is deemed improper in a `\hyphenation`
 command.
 
 Hyphenation happens as paragraphs are laid out; by this time, TeX
 knows what font is used for each glyph; thus it knows the encoding
 being used.  So the solution to the problem is to use a font that
-contains the accented character; doing this this ''hides'' the accent
+contains the accented character; doing this this "hides" the accent
 from the hyphenation mechanisms.
 
 For LaTeX users, this is quite an easy task; they select an 8-bit

@@ -7,8 +7,8 @@ date: 2014-06-10
 ---
 
 There are several reasons to want to know the definitions of LaTeX
-commands: from the simplest ''idle curiosity'', to the pressing need
-to patch something to make it ''work the way you want it''.  None of
+commands: from the simplest "idle curiosity", to the pressing need
+to patch something to make it "work the way you want it".  None of
 these are _pure_ motives, but knowledge and expertise seldom
 arrive through the purest of motives.
 
@@ -50,7 +50,7 @@ shown below, and simply execute the command to find its definition:
           \ttfamily \check@icl #1\check@icr
     \expandafter \egroup \fi .
 ```
-Note that the command name that is protected is the ''base'' command,
+Note that the command name that is protected is the "base" command,
 with a space appended.  This is cryptically visible, in a couple of
 places above.  (Again, the output has been sanitised.)
 
@@ -70,7 +70,7 @@ macro:->\protect \texttt
     \expandafter \egroup \fi .
 ```
 (again, the output has been sanitised&nbsp;&mdash; but we see that
-`latexdef` has useful ''intelligence'' in it, as it has spotted
+`latexdef` has useful "intelligence" in it, as it has spotted
 and dealt with the `\protect`.)
 
 With the `-s` switch, `latexdef` will give you a
@@ -127,7 +127,7 @@ that hardly had any useful documentation even in the LaTeX 2.09 original.
 In fact, each kernel module `dtx` file will process separately
 through LaTeX, so you don't have to work with the whole of
 `source2e`.  You can easily determine which module defines the
-macro you're interested in: use your ''malleable text editor'' to find
+macro you're interested in: use your "malleable text editor" to find
 the definition in `latex.ltx`; then search backwards from that
 point for a line that starts 
 `%%% From File:&nbsp;&mdash; that line

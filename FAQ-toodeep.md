@@ -1,5 +1,5 @@
 ---
-title: ''Too deeply nested''
+title: "Too deeply nested"
 category: errors
 permalink: /FAQ-toodeep
 date: 2014-06-10
@@ -12,7 +12,7 @@ is a set of list formatting parameters built-in for application to
 each of the list nesting levels; the parameters determine indentation,
 item separation, and so on.  The `list` environment (the
 basis for list environments like `itemize` and
-`enumerate`) ''knows'' there are only 6 of these sets.
+`enumerate`) "knows" there are only 6 of these sets.
 
 There are also different label definitions for the
 `enumerate` and `itemize` environments at
@@ -47,7 +47,7 @@ In the example,
 Now, as well as LaTeX _knowing_ that there are 6&nbsp;sets of
 parameters for indentation, it also _knows_ that there are only
 4&nbsp;types of labels each, for the environments `enumerate`
-and `itemize` (this ''knowledge'' spells out a requirement
+and `itemize` (this "knowledge" spells out a requirement
 for class writers, since the class supplies the sets of parameters).
 
 From the above, we can deduce that there are several ways we can run

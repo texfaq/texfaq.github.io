@@ -5,7 +5,7 @@ permalink: /FAQ-install-doc
 date: 2014-06-10
 ---
 
-We are faced with a range of ''normal'' provision, as well as several
+We are faced with a range of "normal" provision, as well as several
 oddities.  One should note that documentation of many packages is
 available on CTAN, without the need of any further effort by
 the user&nbsp;&mdash; such documentation can usually be browsed _in situ_.
@@ -43,5 +43,5 @@ Another common (and reasonable) trick performed by package authors is
 to provide a separate file `package-doc.tex` or even simply
 `manual.tex`; if the file `package.dtx` doesn't help, simply
 look around for such alternatives.  The files are treated in the same
-way as any ''ordinary'' LaTeX file.
+way as any "ordinary" LaTeX file.
 

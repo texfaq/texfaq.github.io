@@ -13,7 +13,7 @@ fitness for purpose is implied by the inclusion of any vendor in this
 list.  The source of the information is given to provide some clues to
 its currency.
 
-In general, a commercial implementation will come ''complete'', that is,
+In general, a commercial implementation will come "complete", that is,
 with suitable previewers and printer drivers.  They normally also have
 extensive documentation (_i.e_., not just the TeXbook!) and some
 sort of support service.  In some cases this is a toll free number

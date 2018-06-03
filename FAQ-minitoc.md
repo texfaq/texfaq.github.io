@@ -6,7 +6,7 @@ permalink: /FAQ-minitoc
 date: 2014-06-10
 ---
 
-The common style, of a ''small'' table of contents for each part,
+The common style, of a "small" table of contents for each part,
 chapter, or even section, is supported by the [`minitoc`](https://ctan.org/pkg/minitoc)
 package.  The package also supports mini-lists of tables and figures;
 but, as the documentation observes, mini-bibliographies present a
@@ -36,5 +36,5 @@ a `\minitoc` for every chapter).
 English&nbsp;&mdash; a wide variety is available.  Fortunately, the current
 version of the [`hyperref`](https://ctan.org/pkg/hyperref) package does know about
 [`minitoc`](https://ctan.org/pkg/minitoc) and treats `\minitoc` tables in the
-same way as ''real'' tables of contents.
+same way as "real" tables of contents.
 

@@ -5,19 +5,19 @@ permalink: /FAQ-bold-extras
 date: 2014-06-10
 ---
 
-LaTeX, as delivered, offers no means of handling bold ''teletype''
+LaTeX, as delivered, offers no means of handling bold "teletype"
 or small-caps fonts.  There's a practical reason for this (Knuth never
 designed such fonts), but there are typographical considerations too
-(the ''medium weight'' `cmtt` font is already pretty bold (by
+(the "medium weight" `cmtt` font is already pretty bold (by
 comparison with other fixed-width fonts), and bold small-caps is not
 popular with many professional typographers).
 
-There's a set of ''extra'' MetaFont files on CTAN that provide bold
+There's a set of "extra" MetaFont files on CTAN that provide bold
 versions of both `cmtt` and `cmcsc` (the small caps font).  With
 modern TeX distributions, one may bring these fonts into use simply
 by placing them in an 
 [appropriate place in the _texmf_ tree](FAQ-install-where)
-(these are (La)TeX-specific files, so the ''_public_'' supplier
+(these are (La)TeX-specific files, so the "_public_" supplier
 would be an appropriate place).  Once you've 
 [rebuilt the file indexes as necessary](FAQ-inst-wlcf),
 TeX (and friends) will automatically build whatever font files they
@@ -37,7 +37,7 @@ can switch to EC and use them; alternatives are discussed in
 Of course, commercial fixed-width fonts (even the default
 `Courier`) almost always come with a bold variant, so that's
 not a problem.  Furthermore [PSNFSS](FAQ-usepsfont)
-will usually provide ''faked'' small caps fonts, and has no
+will usually provide "faked" small caps fonts, and has no
 compunctions about providing them in a bold form.  `Courier`
 is (as we all know, to our cost) freely available; a far more
 presentable monospace font is `LuxiMono`, which is also

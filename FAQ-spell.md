@@ -5,7 +5,7 @@ permalink: /FAQ-spell
 date: 2014-06-10
 ---
 
-''Traditional'' approaches to the problem (of checking your spelling) were
+"Traditional" approaches to the problem (of checking your spelling) were
 designed to work with a plain text file; in our case, we have an (La)TeX
 source.  For the user, this is a simple-to-understand way to do the
 job; but for the spell-checker programmer, it requires heuristic (and
@@ -51,9 +51,9 @@ one step further: it uses `lua` code to extract words
 _while typesetting is going on_, but before hyphenation is
 applied.  Each word is looked up in a list of known bad spellings, and
 the word highlighted if it appears there.  In parallel, a text file is
-created, which can be processed by a ''normal'' spelling checker to
-produce a revised ''bad spelling'' list.  (The package documentation
-shows the end result; it includes words such as ''spellling'', which are
+created, which can be processed by a "normal" spelling checker to
+produce a revised "bad spelling" list.  (The package documentation
+shows the end result; it includes words such as "spellling", which are
 duly highlighted.)
   dictionaries (under subdirectory `dict/`) that you need.
 

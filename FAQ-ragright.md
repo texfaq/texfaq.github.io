@@ -6,10 +6,10 @@ date: 2014-06-10
 ---
 
 The trick with typesetting ragged right is to be sure you've told the
-TeX engine ''make this paragraph ragged, but never _too_
-ragged''.  The LaTeX `\raggedright` command (and the
+TeX engine "make this paragraph ragged, but never _too_
+ragged".  The LaTeX `\raggedright` command (and the
 corresponding `flushleft` environment) has a tendency to
-miss the ''never'' part, and will often create ridiculously short
+miss the "never" part, and will often create ridiculously short
 lines, for some minor benefit later in the paragraph.  The
 Plain TeX version of the command doesn't suffer this failing, but
 is rather conservative: it is loath to create too large a gap at the

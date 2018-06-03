@@ -13,7 +13,7 @@ your document (such as the chapters within the document), please see
 For more than one bibliography, there are three options.
 
 The [`multibbl`](https://ctan.org/pkg/multibbl) package offers a very simple interface: you use
-a command `\newbibliography` to define a bibliography ''tag''.  The package
+a command `\newbibliography` to define a bibliography "tag".  The package
 redefines the other bibliography commands so that each time you use any one
 of them, you give it the tag for the bibliography where you want the
 citations to appear.  The `\bibliography` command itself also takes
@@ -50,7 +50,7 @@ after the first run of LaTeX, to get the citations in the correct
 place.
 
 The [`multibib`](https://ctan.org/pkg/multibib) package allows you to define a series of
-''additional topics'', each of which comes with its own series of
+"additional topics", each of which comes with its own series of
 bibliography commands.  So one might write:
 <!-- {% raw %} -->
 ```latex
@@ -79,7 +79,7 @@ bibtex bk
 bibtex art
 ```
 Note that, unlike [`multibbl`](https://ctan.org/pkg/multibbl), [`multibib`](https://ctan.org/pkg/multibib) allows a
-simple, unmodified bibliography (as well as the ''topic'' ones).  
+simple, unmodified bibliography (as well as the "topic" ones).  
 
 The [`bibtopic`](https://ctan.org/pkg/bibtopic) package allows you separately to cite several
 different bibliographies.  At the appropriate place in your document,
@@ -131,7 +131,7 @@ citation list for.  In each environment, you list the `\cite` keys
 that you want listed in each category.  The `\bibliography` command
 (or, more precisely, the `thebibliography` environment it
 uses) will sort the keys as requested.  (Keys not mentioned in a
-`category` appear in a ''misc'' category created in the
+`category` appear in a "misc" category created in the
 sorting process.)  A code example appears in the package documentation
 (a PDF file in the CTAN directory,
   which you can browse to, from the link, below).

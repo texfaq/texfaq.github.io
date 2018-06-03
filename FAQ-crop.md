@@ -8,7 +8,7 @@ date: 2014-06-10
 
 If you're printing something that's eventually to be reproduced in
 significant quantities, and bound, it's conventional to print on paper
-larger than your target product, and to place ''crop marks'' outside
+larger than your target product, and to place "crop marks" outside
 the printed area.  These crop marks are available to the production
 house, for lining up reproduction and trimming machines.
 

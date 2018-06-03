@@ -40,7 +40,7 @@ date: 2014-06-10
 
   -  Convert LaTeX to `OpenOffice` format, using the
       `tex4ht` command `oolatex`;
-  -  open the result in `OpenOffice` and ''save as'' a
+  -  open the result in `OpenOffice` and "save as" a
       MS-Word document.
 
   (Note that `OpenOffice` itself is _not_ on
@@ -77,7 +77,7 @@ date: 2014-06-10
   `refer` format as well. The collection
   is not maintained.
 - PC-Write`pcwritex.arc` is a
-  print driver for PC-Write that ''prints'' a PC-Write
+  print driver for PC-Write that "prints" a PC-Write
   V2.71 document to a TeX-compatible disk file.  It was written by Peter
   Flynn at University College, Cork, Republic of Ireland.
 
@@ -90,6 +90,6 @@ A group at Ohio State University (USA) is working on
 a common document format based on SGML, with the ambition that any
 format could be
 translated to or from this one.  `FrameMaker` provides
-''import filters'' to aid translation from alien formats
+"import filters" to aid translation from alien formats
 (presumably including TeX) to `FrameMaker`s own.
 

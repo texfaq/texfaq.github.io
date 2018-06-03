@@ -7,17 +7,17 @@ date: 2014-06-10
 
 The [Eplain](https://tug.org/eplain/)
 macro package expands on and extends the definitions in Plain TeX.
-Eplain is not intended to provide ''generic typesetting
-capabilities'', as do ConTeXt, LaTeX or
+Eplain is not intended to provide "generic typesetting
+capabilities", as do ConTeXt, LaTeX or
 [Texinfo](FAQ-texinfo).  Instead, it defines macro tools that
 should be useful whatever commands you choose to use when you prepare
 your manuscript.
 
 For example, Eplain does not have a command `\section`,
-which would format section headings in an ''appropriate'' way, as
+which would format section headings in an "appropriate" way, as
 LaTeX's `\section` does.  The philosophy of Eplain is that
 some people will always need or want to go beyond the macro designer's
-idea of ''appropriate''.  Canned sets of macros are fine&nbsp;&mdash; as long as you
+idea of "appropriate".  Canned sets of macros are fine&nbsp;&mdash; as long as you
 are willing to accept the resulting output.  If you don't like the
 results, or if you are trying to match a different format, you may
 find that Eplain is for you.
@@ -39,7 +39,7 @@ Several LaTeX packages provide capabilities which Plain TeX
 users are lacking, most notably text coloring and rotation provided by
 the [`graphics`](https://ctan.org/pkg/graphics) bundle (packages [`color`](https://ctan.org/pkg/color) and
 [`graphics`](https://ctan.org/pkg/graphics)).  Although the [`graphics`](https://ctan.org/pkg/graphics) bundle provides
-a Plain TeX ''loader'' for some of the packages, it is not a
+a Plain TeX "loader" for some of the packages, it is not a
 trivial job to pass options to those packages under Plain TeX, and
 much of the functionality of the packages is accessed through package
 options.  Eplain extends the loader so that options can be passed

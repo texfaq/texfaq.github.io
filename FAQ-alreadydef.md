@@ -1,5 +1,5 @@
 ---
-title: Package reports ''command already defined''
+title: Package reports "command already defined"
 category: errors
 permalink: /FAQ-alreadydef
 date: 2014-06-10
@@ -22,7 +22,7 @@ produces a string of error messages of the form:
 As a general rule, things that [`amsmath`](https://ctan.org/pkg/amsmath) defines, it defines
 well; however, there is a good case for using the [`txfonts`](https://ctan.org/pkg/txfonts)
 version of `\iint`&nbsp;&mdash; the associated `tx` fonts have a
-double integral symbol that doesn't need to be ''faked'' in the way
+double integral symbol that doesn't need to be "faked" in the way
 [`amsmath`](https://ctan.org/pkg/amsmath) does.  In the case that you are loading several
 symbol packages, every one of which defines the same symbol, you are
 likely to experience the problem in a big way (`\euro` is a common

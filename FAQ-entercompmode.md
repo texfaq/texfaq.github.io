@@ -11,7 +11,7 @@ Entering LaTeX 2.09 COMPATIBILITY MODE
 ```
 followed by lines of asterisks and `!!WARNING!!`.
 
-This means that the document is not written in ''current'' LaTeX
+This means that the document is not written in "current" LaTeX
 syntax, and that there is no guarantee that all parts of the document
 will be formatted correctly.
 
@@ -32,7 +32,7 @@ The simple form is easy to deal with:
   `\documentstyle{article}`
 should become:
   `\documentclass{article}`
-The complex form is more difficult, since LaTeX 2.09 ''options''
+The complex form is more difficult, since LaTeX 2.09 "options"
 conflate two sorts of things&nbsp;&mdash; options for the class (such as
 `11pt`, `fleqn`), and packages to be loaded.
 So:
@@ -50,7 +50,7 @@ LaTeX 2.09; for [`article`](https://ctan.org/pkg/article), the list includes `10
 `fleqn`, `leqno`, `twocolumn` and
 `twoside`&nbsp;&mdash; anything else must be a package.
 
-Your document may well ''just work'' after changes like those above;
+Your document may well "just work" after changes like those above;
 if not, you should think through what you're trying to do, and consult
 documentation on how to do it&nbsp;&mdash; there are lots of 
 [free tutorials](FAQ-tutorialsstar) to help you on your way, if you

@@ -23,13 +23,13 @@ or simply
 ...
 ```
 bite the LaTeX programmer who uses an internal command without
-taking ''precautions''.  An internal-style command such as `\@foo`
+taking "precautions".  An internal-style command such as `\@foo`
 has been defined or used in a private macro, and it is interpreted as
-`\@`, followed by the ''text'' `foo`.  (`\@` is used, for
+`\@`, followed by the "text" `foo`.  (`\@` is used, for
 real, to set up end-of-sentence space in some circumstances; it uses
 `\spacefactor` to do that.)
 
 The problem is discussed in detail in
-''[`@` in macro names](FAQ-atsigns)'',
+"[`@` in macro names](FAQ-atsigns)",
 together with solutions.
 

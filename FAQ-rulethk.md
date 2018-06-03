@@ -16,7 +16,7 @@ text, or to make the sections of the table stand out from one another.
 However, a quick review of any LaTeX manual will reveal no
 technique for making any one rule stand out, and a little
 experimentation shows that it is indeed pretty difficult to prevent
-a change ''bleeding'' out to affect other rules in the same table.
+a change "bleeding" out to affect other rules in the same table.
 
 If you look at what we have to say on the 
 [design of tables](FAQ-destable), elsewhere

@@ -6,12 +6,12 @@ permalink: /FAQ-subsubsub
 date: 2014-06-10
 ---
 
-LaTeX's set of ''sections'' stops at the level of
+LaTeX's set of "sections" stops at the level of
 `\subsubsection`.  This reflects a design decision by Lamport&nbsp;&mdash;
 for, after all, who can reasonably want a section with such huge
 strings of numbers in front of it?
 
-In fact, LaTeX standard classes _do_ define ''sectioning''
+In fact, LaTeX standard classes _do_ define "sectioning"
 levels lower than `\subsubsection`, but they don't format them like
 sections (they're not numbered, and the text is run-in after the
 heading).  These deeply inferior section commands are `\paragraph`

@@ -11,12 +11,12 @@ available as a series of zip archives, with documentation in both
 German and English.  Appropriate memory managers for using emTeX
 with 386 (and better) processors and under pre-'9x Windows, are
 included in the distribution.  (EmTeX _can_ be made to operate
-under Windows, but even back when it was ''current'', such use wasn't
+under Windows, but even back when it was "current", such use wasn't
 very actively encouraged.)
 
 A version of emTeX, packaged to use a 
 [TDS directory structure](FAQ-tds), is separately available as an
-emTeX ''contribution''.  Note that neither emTeX itself, nor
+emTeX "contribution".  Note that neither emTeX itself, nor
 emTeX-TDS, is maintained.  Users of Microsoft operating
 systems, who want an up-to-date (La)TeX system, need Win32-based
 systems.

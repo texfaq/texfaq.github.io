@@ -1,5 +1,5 @@
 ---
-title: A ''report'' from lots of 'article's
+title: A "report" from lots of 'article's
 category: formatting
 tags: classes
 permalink: /FAQ-multidoc
@@ -70,11 +70,11 @@ Arrangements may be made so that the component files will
 be typeset using different page format, etc., parameters than those
 used when they are typeset as a part of the main file.
 
-A more ''raw'' toolkit is offered by Matt Swift's [`includex`](https://ctan.org/pkg/includex) and
+A more "raw" toolkit is offered by Matt Swift's [`includex`](https://ctan.org/pkg/includex) and
 [`newclude`](https://ctan.org/pkg/newclude) packages, both part of the [`frankenstein`](https://ctan.org/pkg/frankenstein)
 bundle.  Note that Matt believes [`includex`](https://ctan.org/pkg/includex) is obsolete
 (though it continues to work for this author); furthermore, its
-replacement, [`newclude`](https://ctan.org/pkg/newclude) remains ''in development'', as it has
+replacement, [`newclude`](https://ctan.org/pkg/newclude) remains "in development", as it has
 been since 1999.
 
 Both [`includex`](https://ctan.org/pkg/includex) and [`newclude`](https://ctan.org/pkg/newclude) enable you to
@@ -82,7 +82,7 @@ Both [`includex`](https://ctan.org/pkg/includex) and [`newclude`](https://ctan.o
 `\include` chapter files in an ordinary report).  The preamble
 (everything up to `\begin{document}`), and everything after
 `\end{document}`, is ignored by both packages.  Thus the
-packages don't ''do the whole job'' for you, though: you need to
+packages don't "do the whole job" for you, though: you need to
 analyse the package use of the individual papers, and ensure that a
 consistent set is loaded in the preamble of the main report.  (Both
 packages require [`moredefs`](https://ctan.org/pkg/moredefs), which is also part of the
@@ -110,7 +110,7 @@ whole; its value for use in multiple documents is clear.
 
 The user includes the [`standalone`](https://ctan.org/pkg/standalone) package in the main
 document, and each subfile uses the [`standalone`](https://ctan.org/pkg/standalone) class.
-([`Standalone`](https://ctan.org/pkg/Standalone) uses [`article`](https://ctan.org/pkg/article) for the ''real'' work in
+([`Standalone`](https://ctan.org/pkg/Standalone) uses [`article`](https://ctan.org/pkg/article) for the "real" work in
 stand-alone mode, but it may be asked to use another).
 
 The real difference from the [`docmute`](https://ctan.org/pkg/docmute) package is
@@ -118,7 +118,7 @@ flexibility.  In particular, you can ask that the preambles of the
 included documents be gathered up, so that you can construct a good
 preamble for the master document.
 
-A final ''compile-together'' approach comes from the [`subdocs`](https://ctan.org/pkg/subdocs)
+A final "compile-together" approach comes from the [`subdocs`](https://ctan.org/pkg/subdocs)
 package.  The driver file contains a `\subdocuments` command:
 `\subdocuments[options]{file1, file2, ...}`
 (the optional arguments provide layout options, such as control over

@@ -63,7 +63,7 @@ This is the cleanest simple way of doing the job.  Note that the
 The [`fixfoot`](https://ctan.org/pkg/fixfoot) package takes away some of the pain of the
 matter: you declare footnotes you're going to reuse, typically in the
 preamble of your document, using a `\DeclareFixedFoot` command, and
-then use the command you've ''declared'' in the body of the document:
+then use the command you've "declared" in the body of the document:
 ```latex
 \DeclareFixedFootnote{\rep}{Text to repeat}
 ...

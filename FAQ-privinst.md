@@ -1,5 +1,5 @@
 ---
-title: ''Private'' installations of files
+title: "Private" installations of files
 category: installing
 permalink: /FAQ-privinst
 date: 2014-06-10
@@ -8,7 +8,7 @@ date: 2014-06-10
 It sometimes happens that you need a new version of some macro package
 or font, but that the machine you use is maintained by someone who's
 unwilling to update and won't give you privileges to do the job
-yourself.  A [''temporary'' installation](FAQ-tempinst) is
+yourself.  A ["temporary" installation](FAQ-tempinst) is
 sometimes the correct approach, but if there's the slightest chance
 that the installation will be needed on more than one project,
 temporary installations aren't right.
@@ -109,7 +109,7 @@ TEXMF = {!!$HOMETEXMF,!!$LOCALTEXMF,!!$TEXMFMAIN}
 ```
 as this will make (La)TeX find its files marginally faster.
 
-Having made all these changes, (La)TeX should ''just use'' files in
+Having made all these changes, (La)TeX should "just use" files in
 your new tree, in preference to anything in the main tree&nbsp;&mdash; you can
 use it for updates to packages in the main tree, as well as for
 installing new versions of things.

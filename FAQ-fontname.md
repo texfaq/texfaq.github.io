@@ -1,5 +1,5 @@
 ---
-title: What is the ''Berry naming scheme''?
+title: What is the "Berry naming scheme"?
 category: concepts
 permalink: /FAQ-fontname
 date: 2014-06-10
@@ -18,12 +18,12 @@ was that of file names for Type&nbsp;1 fonts.
 These fonts are distributed by their vendors with
 pretty meaningless short names, and there's a natural ambition to
 change the name to something that identifies the font somewhat
-precisely.  Unfortunately, names such as ''BaskervilleMT'' are
+precisely.  Unfortunately, names such as "BaskervilleMT" are
 already far beyond the abilities of the typical feeble file system,
 and add the specifier of a font shape or variant, and the difficulties
 spiral out of control.  Font companies deal with the issue by
 inventing silly names, and providing a map file to show what the
-''real'' names.  Thus the Monotype Corporation provides the
+"real" names.  Thus the Monotype Corporation provides the
 translations:
   `bas_____ BaskervilleMT`
 
@@ -39,7 +39,7 @@ Thus arose the Berry naming scheme.
 The basis of the scheme is to encode the meanings of the various parts
 of the file's specification in an extremely terse way, so that enough
 font names can be expressed even in impoverished file name-spaces.  The
-encoding allocates one character to the font ''foundry'' (Adobe, Monotype,
+encoding allocates one character to the font "foundry" (Adobe, Monotype,
 and so on), two to the typeface name (Baskerville, Times Roman, and so
 on), one to the weight, shape, and encoding and so on.  
 

@@ -36,8 +36,8 @@ also problematical: they are inevitably before
 
 Unfortunately, modern editors are capable of putting things there, and
 preventing you from seeing them.  This can happen when your document
-is being ''written'' in [Unicode](FAQ-unicode).  The Unicode
-standard defines ''Byte Order Marks'' (BOM), that reassure a
+is being "written" in [Unicode](FAQ-unicode).  The Unicode
+standard defines "Byte Order Marks" (BOM), that reassure a
 program (that reads the document) of the way the Unicode codes are
 laid out.  Sadly ordinary LaTeX or pdfLaTeX choke on
 BOMs, and consider them typesetting requests.  The error
@@ -59,18 +59,18 @@ $ hexdump -C <file>
 00000000  ef bb bf 5c 64 6f 63 75 ...
 ```
 The `5c 64 6f 63 75` are the `\docu` at the start of
-(the ''real'' part of) your document; the three bytes before it form the
+(the "real" part of) your document; the three bytes before it form the
 BOM.
 
 How to stop your editor from doing this to you depends, of course, on
 the editor you use; if you are using GNU Emacs, you have to
-change the encoding from `utf-8-with-signature` to ''plain''
+change the encoding from `utf-8-with-signature` to "plain"
 `utf-8`; instructions for that are found on
-[the ''stack overflow'' site](http://stackoverflow.com/questions/3859274/)
+[the "stack overflow" site](http://stackoverflow.com/questions/3859274/)
 
 (So far, all instances of this problem that the author has seen have
 afflicted GNU Emacs users.)
 
 Fortunately XeTeX and LuaTeX know about BOMs and what to
-do with them, so LaTeX using them is ''safe''.
+do with them, so LaTeX using them is "safe".
 

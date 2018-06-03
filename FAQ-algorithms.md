@@ -5,7 +5,7 @@ permalink: /FAQ-algorithms
 date: 2014-06-10
 ---
 
-There is no consensus on the ''right'' way to typeset pseudocode.
+There is no consensus on the "right" way to typeset pseudocode.
 Consequently, there are a variety of LaTeX packages to choose from
 for producing æsthetically pleasing pseudocode listings.
 
@@ -58,26 +58,26 @@ floating algorithm environment with all of the ensuing niceties.
 
 The [`newalg`](https://ctan.org/pkg/newalg) package has a somewhat similar interface to
 [`algorithms`](https://ctan.org/pkg/algorithms), but its output is designed to mimic the rather
-pleasant typesetting used in the book ''_Introduction to Algorithms_''
+pleasant typesetting used in the book "_Introduction to Algorithms_"
 by Corman, Leiserson, Rivest and Stein. Unfortunately,
 [`newalg`](https://ctan.org/pkg/newalg) does not support a floating environment or any
 customisation of the output.
 
-''_Bona fide_'' use of the style of ''Introduction to
-Algorithms'' may be achieved with Cormen's own [`clrscode`](https://ctan.org/pkg/clrscode):
+"_Bona fide_" use of the style of "Introduction to
+Algorithms" may be achieved with Cormen's own [`clrscode`](https://ctan.org/pkg/clrscode):
 this is the package as used in the second edition of the book.
 
 Similarly, the style of 
-''_Combinatorial Algorithms: Generation, Enumeration and Search_''
+"_Combinatorial Algorithms: Generation, Enumeration and Search_"
 is supported by the [`pseudocode`](https://ctan.org/pkg/algorithmicx) package, written by the
-authors of the book.  It has the common ''Pascal-like'' style, and has
+authors of the book.  It has the common "Pascal-like" style, and has
 some interesting constructs for what one thinks of as Pascal blocks.
 
 The [`algorithm2e`](https://ctan.org/pkg/algorithm2e) is of very long standing, and is widely used
 and recommended.  It loads the [`float`](https://ctan.org/pkg/float) package to provide the
 option of floating algorithm descriptions, but you can always use the
 `H` option of [`float`](https://ctan.org/pkg/float) to have the algorithm appear
-''where you write it''.
+"where you write it".
 
 The usage of the [`program`](https://ctan.org/pkg/program) package is a little different from
 that of the other packages.  It typesets programs in maths mode

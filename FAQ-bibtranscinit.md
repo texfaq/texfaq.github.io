@@ -1,5 +1,5 @@
 ---
-title: ''Multi-letter'' initials in BibTeX
+title: "Multi-letter" initials in BibTeX
 category: bibliographies
 permalink: /FAQ-bibtranscinit
 date: 2014-06-10
@@ -14,11 +14,11 @@ Consider the following example from the real world:
    title  = ...
 }
 ```
-Note that the ''Yu'' is the initial, not a complete name. However,
+Note that the "Yu" is the initial, not a complete name. However,
 BibTeX's algorithms will leave you with a citation&nbsp;&mdash; 
 slightly depending on the bibliographic style&nbsp;&mdash; that reads:
-''S. Y. Epifanov and A. A. Vigasin, &hellip;''. instead of the intended
-''S. Yu. Epifanov and A. A. Vigasin, &hellip;''.
+"S. Y. Epifanov and A. A. Vigasin, &hellip;". instead of the intended
+"S. Yu. Epifanov and A. A. Vigasin, &hellip;".
 
 One solution is to replace each affected initial by a command that 
 prints the correct combination.  To keep your bibliography portable,
@@ -51,7 +51,7 @@ bibliography will be determined by the names in it.  It should be
 noted that a preamble that introduces lots of odd commands is usually
 undesirable if the bibliography is a shared one.
 
-''Compound'' initials (for single names made up of two or more words)
+"Compound" initials (for single names made up of two or more words)
 may be treated in the same way, so one can enter Forster's rather
 complicated name as:
 ```bibtex
@@ -67,13 +67,13 @@ The same trick can be played if you're entering whole names:
 ```
 (though no guarantee, that either of those names is right, is
 offered!)
-However, if you're typing the names in the ''natural'' (Western) way,
+However, if you're typing the names in the "natural" (Western) way,
 with given names first, the trick:
 ```bibtex
 ...
   author   = {P.M. {\relax de F.} Forster and
 ...
 ```
-doesn't work&nbsp;&mdash; ''de F. Forster'' is treated as a compound family
+doesn't work&nbsp;&mdash; "de F. Forster" is treated as a compound family
 names.
 

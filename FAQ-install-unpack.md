@@ -23,7 +23,7 @@ process the `ins` file(s) one by one.
 
 If you're missing the `package.ins` altogether, you need to play
 around until something works.  Some `dtx` files are
-''self-extracting''&nbsp;&mdash; they do without an `ins` file, and once
+"self-extracting"&nbsp;&mdash; they do without an `ins` file, and once
 you've processed the `package.dtx`, `package.sty` has
 automagically appeared.  Various other oddities may appear, but the
 archivists aim to have `README` file in every package, which

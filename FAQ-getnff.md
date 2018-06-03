@@ -1,5 +1,5 @@
 ---
-title: Getting ''free'' fonts not in your distribution
+title: Getting "free" fonts not in your distribution
 category: fonts
 permalink: /FAQ-getnff
 date: 2014-06-10
@@ -33,7 +33,7 @@ getnonfreefonts luximono
 that the example was to hand&hellip;).
 
 (System adminstrators may use `getnonfreefonts-sys`, which
-will install the font in the ''public'' `texmf` tree, so that all
+will install the font in the "public" `texmf` tree, so that all
 users of the system may use the new font.)
 
 The script will download the relevant font files from CTAN,

@@ -6,14 +6,14 @@ permalink: /FAQ-tabcellalign
 date: 2014-06-10
 ---
 
-One often needs to alter the alignment of a tabular `p` (''paragraph'')
+One often needs to alter the alignment of a tabular `p` ("paragraph")
 cell, but problems at the end of a table row are common.  With a
 `p` cell that looks like:
 ```latex
 ... & \centering blah ... \\
 ```
 one is liable to encounter errors that complain about a
-''misplaced `\noalign`'' or ''[extra alignment tab](FAQ-altabcr)'', or the like.
+"misplaced `\noalign`" or "[extra alignment tab](FAQ-altabcr)", or the like.
 The problem is that the command `\ ` means different things in
 different circumstances: the `tabular` environment
 switches the meaning to a value for use in the table, and
@@ -34,7 +34,7 @@ can in principle use it explicitly:
 
 The [`array`](https://ctan.org/pkg/array) package provides a command `\arraybackslash`
 which restores `\ ` to its correct (within table) meaning;
-the command may be used in [`array`](https://ctan.org/pkg/array)'s ''field format'' preamble
+the command may be used in [`array`](https://ctan.org/pkg/array)'s "field format" preamble
 specifications:
 ```latex
 \begin{tabular}{... >{\centering\arraybackslash}p{50mm}}

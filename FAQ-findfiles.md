@@ -13,14 +13,14 @@ that something has been updated).
 But how to find the files?
 
 Modern distributions (TeX&nbsp;Live and MiKTeX, at least) provide the
-means to update your system ''over the net''.  This is the minimum
-effort route to getting a new file: ''simply'' find which of the
-distribution's ''packages'' holds the file in question, and ask the
+means to update your system "over the net".  This is the minimum
+effort route to getting a new file: "simply" find which of the
+distribution's "packages" holds the file in question, and ask the
 distribution to update itself.  The mechanisms are different (the two
 distributions exhibit the signs of evolutionary divergence in their
 different niches), but neither is difficult&nbsp;&mdash; see 
-''[using MiKTeX for installing](FAQ-inst-miktexstar)'' and 
-''[using TeX&nbsp;Live for installing](FAQ-inst-texlive)''.
+"[using MiKTeX for installing](FAQ-inst-miktexstar)" and 
+"[using TeX&nbsp;Live for installing](FAQ-inst-texlive)".
 
 There are packages, though, that aren't in the distribution you use
 (or for which the distribution hasn't yet been updated to offer the
@@ -31,7 +31,7 @@ files: so if you've learnt about a package here, you should be able to
 retrieve it without too much fuss.
 
 Otherwise, CTAN provides a full-text search, at its
-[''central database''](https://ctan.org/) site, as well as
+["central database"](https://ctan.org/) site, as well as
 topic- and author-based indexes and a link to browse the archive
 itself.
 
@@ -42,8 +42,8 @@ the author hasn't bothered to submit to CTAN.
 A user of Google can restrict the search to
 CTAN by entering
   `site:ctan.org tex-archive <search term(s)>`
-in Google's ''search box''.  You can also enforce the
-restriction using Google's ''advanced search'' mechanism;
+in Google's "search box".  You can also enforce the
+restriction using Google's "advanced search" mechanism;
 other search engines (presumably) have similar facilities.
 
 Many people avoid the need to go over the network at all, for their

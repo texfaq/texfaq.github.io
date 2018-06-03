@@ -15,8 +15,8 @@ keep your distribution up-to-date.
 
 Note that installing MacTeX requires `root` privilege.  This
 is a pity, since it offers several extras that aren't available via a
-standard TeX&nbsp;Live, which aren't therefore available to ''ordinary
-folk'' at work.  For those who don't have `root` privilege, the
+standard TeX&nbsp;Live, which aren't therefore available to "ordinary
+folk" at work.  For those who don't have `root` privilege, the
 option is to install using the TeX&nbsp;Live `tlinstall` utility.
 
 [OzTeX](http://www.trevorrow.com/oztex/), by Andrew Trevorrow,

@@ -15,7 +15,7 @@ OpenType format, whose many advantages now becoming accessible to most
   [LuaTeX](FAQ-luatex)).
 
 Adobe Type&nbsp;1 format specifies a means to represent outlines of the glyphs
-in a font.  The ''language'' used is closely restricted, to ensure that
+in a font.  The "language" used is closely restricted, to ensure that
 the font is rendered as quickly as possible.  (Or rather, as quickly
 as possible with Adobe's technology at the time the specification was
 written: the structure could well be different if it were specified
@@ -39,7 +39,7 @@ document in which the text looks fuzzy and uneven in Acrobat Reader,
 ask Reader for the `File`&rarr;
 `Document Properties`&rarr;
 `Fonts ...`, and it will likely show some font or other as
-''Type&nbsp;3'' (usually with encoding ''Custom'').  The problem has
+"Type&nbsp;3" (usually with encoding "Custom").  The problem has
 disappeared with version 6 of Acrobat Reader.  See 
 [PDF quality](FAQ-dvips-pdf) for a discussion of
 the issue, and for ways of addressing it.
@@ -48,7 +48,7 @@ Type&nbsp;3 fonts should not entirely be dismissed, however.  Acrobat
 Reader's failure with them is entirely derived from its failure to use
 the anti-aliasing techniques common in TeX-ware.  Choose a
 different set of PostScript graphical operators, and you can make pleasing
-Type&nbsp;3 fonts that don't ''annoy'' Reader.  For example, you may not
+Type&nbsp;3 fonts that don't "annoy" Reader.  For example, you may not
 change color within a Type&nbsp;1 font glyph, but there's no such
 restriction on a Type&nbsp;3 font, which opens opportunities for some
 startling effects.

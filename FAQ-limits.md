@@ -10,7 +10,7 @@ The commonest hand-written style for expressions is to place the limit
 expressions on operators such as `\sum` and `\int` physically
 above and below the operator.  In (La)TeX, we write these limit
 expressions using sub- and superscripts applied to the operator, but
-they don't always appear in the ''handwritten'' way in TeX's
+they don't always appear in the "handwritten" way in TeX's
 output.
 
 The reason is, that when an expression appears in non-display maths,
@@ -37,11 +37,11 @@ which will place the limits as they would be in `\textstyle`.
 
 Alternatively, one can manipulate the
 `\textstyle`/`\displaystyle` state of the mathematics.  To get
-''`\limits` placement'' in inline maths,
+"`\limits` placement" in inline maths,
 ```latex
 $\displaystyle\sum_{n=1}^{m} ...$
 ```
-and for ''`\nolimits` placement'' in display maths,
+and for "`\nolimits` placement" in display maths,
 `\nolimits`:
 ```latex
 \[\textstyle\sum_{n=1}^{m} ...\]

@@ -1,12 +1,12 @@
 ---
-title: What are LaTeX ''environments''
+title: What are LaTeX "environments"
 category: concepts
 permalink: /FAQ-whatenv
 date: 2014-06-10
 ---
 
 While TeX makes direct provision for commands, LaTeX adds a
-concept of ''environment''; environments perform an action on a block
+concept of "environment"; environments perform an action on a block
 (of something or other) rather than than just doing something at one
 place in your document.
 
@@ -28,18 +28,18 @@ which will look like:
 so it is a particularly simple example.  A rather complicated
 environment is introduced by `\begin{document}`; it looks
 simple, but needs all sorts of special TeX code to make it work
-''transparently''; most environments are more elaborate than
+"transparently"; most environments are more elaborate than
 `monoblock` and _much_ simpler than
 `document`.
 
 An environment puts its content inside a TeX _group_, so that
-commands used inside the environment don't ''leak out''&nbsp;&mdash; the
+commands used inside the environment don't "leak out"&nbsp;&mdash; the
 `monoblock` environment, above, restricts its effect to
 its own contents (the stuff between the `\begin{monoblock}`
 and `\end{monoblock}`), which is just what you need for this
 sort of thing.
 
-So that's ''simple'' environments; the `monoblock`, above
+So that's "simple" environments; the `monoblock`, above
 doesn't actually gain us much over
 ```latex
 {\ttfamily some text set in monospace}

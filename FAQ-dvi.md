@@ -5,13 +5,13 @@ permalink: /FAQ-dvi
 date: 2014-06-10
 ---
 
-''DVI'' is supposed to be an acronym for
+"DVI" is supposed to be an acronym for
 DeVice-Independent, meaning that the file may be
 processed for printing or viewing on most kinds of typographic output
 device or display.
 
 A DVI file (that is, a file with the type or extension
-`dvi`) is the main output file of ''original'' TeX (later
+`dvi`) is the main output file of "original" TeX (later
 TeX-like systems, such as [pdfTeX](FAQ-pdftex) may use
 other formats).
 
@@ -31,13 +31,13 @@ printer, or for output in another format (for distribution), or it may
 be used by a previewer for display on a computer screen.
 
 Note that [XeTeX](FAQ-xetex) (released some time after
-pdfTeX) uses an ''extended DVI format'' (XDV) to send
+pdfTeX) uses an "extended DVI format" (XDV) to send
 its output to a close-coupled [DVI driver](FAQ-driver),
 `xdvipdfmx`.
 
 The canonical reference for the structure of a DVI file is the
 source of Knuth's program `dvitype` (whose original purpose,
 as its name implies, was to view the content of a DVI file).
-A partially complete ''standard'' for the way they should be
+A partially complete "standard" for the way they should be
 processed may offer further enlightenment.
 

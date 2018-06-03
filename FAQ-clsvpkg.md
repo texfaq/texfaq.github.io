@@ -19,7 +19,7 @@ For each class, LaTeX provides a _class file_; the user
 arranges to use it via a `\documentclass` command at the top of the
 document.  So a document starting
   `\documentclass{article}`
-may be called ''an _article_ document''.
+may be called "an _article_ document".
 
 This is a good scheme, but it has a glaring flaw: the actual
 typographical designs provided by the LaTeX class files aren't
@@ -43,15 +43,15 @@ into a document, and the [`hyperref`](https://ctan.org/pkg/hyperref) package ena
 to construct hyper-references within a document.
 
 On disc, class and package files only appear different by virtue of
-their name ''extension''&nbsp;&mdash; class files are called `*.cls` while
+their name "extension"&nbsp;&mdash; class files are called `*.cls` while
 package files are called `*.sty`.  Thus we find that the LaTeX
 standard [`article`](https://ctan.org/pkg/article) class is represented on disc by a file called
 `article.cls`, while the [`hyperref`](https://ctan.org/pkg/hyperref) package is
 represented on disc by a file called `hyperref.sty`.
 
 The class vs.&nbsp;package distinction was not clear in LaTeX 2.09&nbsp;&mdash;
-everything was called a style (''document style'' or ''document style
-option'').  It doesn't really matter that the nomenclature has
+everything was called a style ("document style" or "document style
+option").  It doesn't really matter that the nomenclature has
 changed: the important requirement is to understand what other people
 are talking about.
 

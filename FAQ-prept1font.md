@@ -14,7 +14,7 @@ Many fonts are supplied in (La)TeX ready form: such fonts need no
 preparation, and may be installed immediately.
 
 However, if you purchase a font from a Type foundry (either direct or
-via one of the web stores), you are likely to need to ''prepare'' it for
+via one of the web stores), you are likely to need to "prepare" it for
 use with (La)TeX.  The rest of this answer discusses this preparation.
   
 

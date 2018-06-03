@@ -12,7 +12,7 @@ counter labelled, so the label appears as
 asked to typeset the counter in your text.  This isn't always what you
 need: for example, if you have nested enumerated lists with the outer
 numbered and the inner labelled with letters, one might expect to want
-to refer to items in the inner list as ''2(c)''.   (Remember, you can
+to refer to items in the inner list as "2(c)".   (Remember, you can
 [change the structure of list items](FAQ-enumerate).)
 The change is of course
 possible by explicit labelling of the parent and using that label to
@@ -51,7 +51,7 @@ all inner lists by adding the following code in your preamble:
 \makeatother
 ```
 This would make the labels for second-level enumerated lists appear as
-''1(a)'' (and so on).  The analogous change works for any counter that
+"1(a)" (and so on).  The analogous change works for any counter that
 gets used in a `\label` command.
 
 In fact, the [`fncylab`](https://ctan.org/pkg/fncylab) package does all the above (including

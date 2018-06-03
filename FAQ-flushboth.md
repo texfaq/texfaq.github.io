@@ -31,7 +31,7 @@ other class) will have done.
 
 Any but a really old copy of Martin Schröder's [`ragged2e`](https://ctan.org/pkg/ragged2e)
 package has a `\justifying` command to match its 
-[versions of the LaTeX ''ragged'' commands](FAQ-ragright).  The
+[versions of the LaTeX "ragged" commands](FAQ-ragright).  The
 package also provides a `justify` environment, which
 permits areas of justified text in a larger area which is ragged.
 

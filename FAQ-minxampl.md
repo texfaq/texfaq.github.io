@@ -1,13 +1,13 @@
 ---
-title: How to make a ''minimum example''
+title: How to make a "minimum example"
 category: documentation
 permalink: /FAQ-minxampl
 date: 2014-06-10
 ---
 
 [Our advice on asking questions](FAQ-askquestion)
-suggests that you prepare a ''minimum example'' (also commonly known
-as a ''_minimal_ example'') of failing behaviour,
+suggests that you prepare a "minimum example" (also commonly known
+as a "_minimal_ example") of failing behaviour,
 as a sample to post with your question.  If you have a problem in a
 two hundred page document, it may be unclear how to proceed from this
 problem to a succinct demonstration of your problem.
@@ -23,7 +23,7 @@ things.  First to add is a paragraph or so around the actual point
 where the problem occurs.  (It may prove difficult to find the actual
 line that's provoking the problem.  If the original problem is an
 error, reviewing 
-[''the structure of TeX errors''](FAQ-errstruct)
+["the structure of TeX errors"](FAQ-errstruct)
 may help.)
 
 Note that there are things that can go wrong in one part of the
@@ -48,15 +48,15 @@ removes bits until the file no longer fails (and then of course
 restores the last thing removed).  Don't forget to hack out any
 unnecessary packages, but mostly, the difficulty is choosing what to
 hack out of the body of the document; this is the mirror of the
-problem above, in the ''building up'' route.
+problem above, in the "building up" route.
 
 If you've added a package (or more than one), add `\listfiles` to
 the preamble too: that way, LaTeX will produce a list of the
 packages you've used and their version numbers.  This information may
 be useful evidence for people trying to help you.
 
-The process of ''building up'', and to some extent that of
-''hacking down'', can be helped by stuff available on CTAN:
+The process of "building up", and to some extent that of
+"hacking down", can be helped by stuff available on CTAN:
   
 
 -  the [`minimal`](https://ctan.org/pkg/minimal) class (part of the LaTeX distribution)
@@ -76,7 +76,7 @@ or inadvisable, in the case of something confidential.
 
 If the whole document is indeed necessary, it could be that your
 error is an overflow of some sort; the best you can do is to post the
-code ''around'' the error, and (of course) the full text of the error.
+code "around" the error, and (of course) the full text of the error.
 
 It may seem that all this work is rather excessive for preparing a
 simple post.  There are two responses to that, both based on the
@@ -87,7 +87,7 @@ answer, without all the fuss of posting and looking for responses.
 
 Second, your prime aim is to get an answer as quickly as possible; a
 well-prepared example stands a good chance of attracting an answer
-''in a single pass'': if the person replying to your post finds she
+"in a single pass": if the person replying to your post finds she
 needs more information, you have to find that request, post again, and
 wait for your benefactor to produce a second response.
 

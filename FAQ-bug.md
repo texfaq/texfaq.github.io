@@ -25,10 +25,10 @@ first instance, contact [Karl Berry](karl@freefriends.org)
 If you've found a bug in LaTeX2e, [report it](FAQ-latexbug)
 using mechanisms supplied by the LaTeX team.  (Please be
 careful to ensure you've got a LaTeX bug, or a bug in one of the
-''required''  packages distributed by the LaTeX team.)
+"required"  packages distributed by the LaTeX team.)
 
 If you've found a bug in a contributed LaTeX package, the best
-starting place is usually to ask in the ''usual places'' for 
+starting place is usually to ask in the "usual places" for 
 [help on-line](FAQ-gethelp), or just possibly one of the 
 [specialised mailing lists](FAQ-maillistsstar).
 The author of the package may well answer on-line, but if no-one

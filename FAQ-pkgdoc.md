@@ -5,7 +5,7 @@ permalink: /FAQ-pkgdoc
 date: 2014-06-10
 ---
 
-These FAQs regularly suggest packages that will ''solve''
+These FAQs regularly suggest packages that will "solve"
 particular problems.  In some cases, the answer provides a recipe for
 the job.  In other cases, or when the solution needs elaborating, how
 is the poor user to find out what to do?
@@ -60,7 +60,7 @@ LaTeX instead.  (Sometimes the package author even thinks to
 mention this wrinkle in a package `README` file.)
 
 Another common form is the separate documentation file; particularly
-if a package is ''conceptually large'' (and therefore needs a lot of
+if a package is "conceptually large" (and therefore needs a lot of
 documentation), the documentation would prove a cumbersome extension
 to the `dtx` file.  Examples of such cases are the [`memoir`](https://ctan.org/pkg/memoir)
 class, the [`KOMA-script`](https://ctan.org/pkg/KOMA-script) bundle
@@ -77,14 +77,14 @@ Documentation within the package itself is the third common form.
 Such documentation ordinarily appears in comments at the head of the
 file, though at least one eminent author regularly places it after the
 `\endinput` command in the package.  (This is desirable, since
-`\endinput` is a ''logical'' end-of-file, and (La)TeX doesn't read
-beyond it: thus such documentation does not ''cost'' any package loading time.)
+`\endinput` is a "logical" end-of-file, and (La)TeX doesn't read
+beyond it: thus such documentation does not "cost" any package loading time.)
 
 The above suggestions cover most possible ways of finding
 documentation.  If, despite your best efforts, you can't find
 it in any of the above places, there's the awful possibility that the
-author didn't bother to document his package (on the ''if it was hard
-to write, it should be hard to use'' philosophy).  Most ordinary
+author didn't bother to document his package (on the "if it was hard
+to write, it should be hard to use" philosophy).  Most ordinary
 mortals will seek support from some more experienced user at this
 stage, though it _is_ possible to proceed in the way that the original
 author apparently expected&hellip;by reading his code.

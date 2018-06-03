@@ -37,7 +37,7 @@ or worse still:
 unwarranted vertical space is going to appear.
 
 The solution is to let the float and the objects in it position
-themselves, and to use ''generic'' layout commands rather than their
+themselves, and to use "generic" layout commands rather than their
 list-based encapsulations.
 ```latex
 \begin{figure}

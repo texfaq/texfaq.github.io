@@ -12,10 +12,10 @@ Some of these seek to potentially replace TeX, others are more complementary.
 The use of (La)TeX-like syntax is seen in some, though not all, of these.
 
 The projects listed here are entirely distinct from TeX or its derivatives
-(they are not ''TeX-like'' programs).
+(they are not "TeX-like" programs).
 
 [Patoline](http://patoline.org/) is a typesetting system written in OCaml and
-using a mix of TeX-like syntax and ''escape'' to OCaml to provide typesetting
+using a mix of TeX-like syntax and "escape" to OCaml to provide typesetting
 control. Patoline aims for a module design, and fast numerical processing.
 
 [SILE](http://sile-typesetter.org/) is a typesetting system written in Lua and
@@ -29,7 +29,7 @@ Hello SILE!
 is a valid SILE document (notice the _lack_ of a preamble here).
 
 [Speedata Publisher](https://www.speedata.de/en/) is like SILE written in Lua,
-but uses LuaTeX (not pure Lua) to provide the ''back-end''. This means it does
+but uses LuaTeX (not pure Lua) to provide the "back-end". This means it does
 feature a _tiny_ TeX-based wrapper, but once that has handed over to Lua, TeX
 is not involved. Speedata Publisher is particularly well-suited to some areas
 in which TeX is less successful, for example more image-rich documents.

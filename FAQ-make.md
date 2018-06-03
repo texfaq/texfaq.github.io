@@ -8,9 +8,9 @@ date: 2014-06-10
 LaTeX documents are tricky beasts for building using
 (`Uni*x`) `make` on: the need to
 instruct LaTeX to run several times for essentially different
-reasons (for example, ''get the table of contents stable'', ''get the
-labels stable'', ''add the bibliography'', ''add the index'') is
-actually rather difficult to express in the ''ordinary'' sort of
+reasons (for example, "get the table of contents stable", "get the
+labels stable", "add the bibliography", "add the index") is
+actually rather difficult to express in the "ordinary" sort of
 dependency graph that one constructs for `make`.
 
 The `latex-make` package offers help with this task (far more
@@ -30,8 +30,8 @@ many bells and whistles that allow it to operate as if it were a poor
 man's WYSIWYG system.
 
 A recent strong contender is `arara`, written in
-`Java`.  It is (the documentation says) based on ''rules''
-and ''directives''; its aim is to determine what to do from explicit
+`Java`.  It is (the documentation says) based on "rules"
+and "directives"; its aim is to determine what to do from explicit
 instructions in the document's source code, rather than secondary
 sources such as log file analysis.  `Arara` is relatively new
 on CTAN, and comes with recommendations from many of the great and
@@ -58,7 +58,7 @@ bibliographies or indexes, or lists of terminology, etc.), which
 AutoLaTeX can be configured to process.
 
 The [`texinfo` system](FAQ-texinfo) comes with a similar
-utility called `texi2dvi`, which is capable of ''converting''
+utility called `texi2dvi`, which is capable of "converting"
 either LaTeX or [`texinfo`](https://ctan.org/pkg/texinfo) files into DVI (or into
 PDF, using pdfTeX).
 

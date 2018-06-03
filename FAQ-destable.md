@@ -10,7 +10,7 @@ In recent years, several authors have argued that the examples, set
 out by Lamport in his [LaTeX manual](FAQ-latex-books), have cramped
 authors' style and have led to extremely poor table design.  It is in
 fact difficult even to work out what many of the examples in Lamport's
-book ''mean''.
+book "mean".
 
 The criticism focuses on the excessive use of rules (both horizontal
 and vertical) and on the poor vertical spacing that Lamport's macros
@@ -18,14 +18,14 @@ offer.
 
 The problem of vertical spacing is plain for all to see, and is
 addressed in several packages&nbsp;&mdash; see 
-''[spacing of lines in tables](FAQ-struttab)''.
+"[spacing of lines in tables](FAQ-struttab)".
 
 The argument about rules is presented in the excellent essay that
 prefaces the documentation of Simon Fear's [`booktabs`](https://ctan.org/pkg/booktabs) package,
-which (of course) implements Fear's scheme for ''comfortable'' rules.
+which (of course) implements Fear's scheme for "comfortable" rules.
 (The same rule commands are implemented in the [`memoir`](https://ctan.org/pkg/memoir) class.)
 
-Lamport's LaTeX was also inflexibly wrong in ''insisting'' that
+Lamport's LaTeX was also inflexibly wrong in "insisting" that
 captions should come at the bottom of a table.  Since a table may
 extend over several pages, traditional typography places the caption
 at the top of a table float.  The `\caption` command will get its
@@ -63,8 +63,8 @@ or the effect may be established after the package has been  loaded:
 \usepackage{caption}
 \captionsetup[table]{position=above}
 ```
-(Note that the two ''position'' options are different: actually,
-''above'' and ''top'' in these contexts mean the same thing.)
+(Note that the two "position" options are different: actually,
+"above" and "top" in these contexts mean the same thing.)
 
 Doing the job yourself is pretty easy: [`topcapt`](https://ctan.org/pkg/topcapt) switches the
 values of the LaTeX2e parameters `\abovecaptionskip` (default

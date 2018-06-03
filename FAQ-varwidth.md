@@ -6,7 +6,7 @@ date: 2014-06-10
 ---
 
 The `minipage` environment requires you to specify the
-width of the ''page'' you're going to create.  This is sometimes
+width of the "page" you're going to create.  This is sometimes
 inconvenient: you would like to occupy less space, if possible, but
 `minipage` sets a box that is exactly the width you
 specified.
@@ -52,9 +52,9 @@ making the last from a `\parbox` using the width that's been
 measured for the group.
 
 The [`varwidth`](https://ctan.org/pkg/varwidth) package defines a `varwidth`
-environment which sets the content of the box to match a ''narrower
-natural width'' if it finds one.  (You give it the same parameters as
-you would give `minipage`: in effect, it is a ''drop-in''
+environment which sets the content of the box to match a "narrower
+natural width" if it finds one.  (You give it the same parameters as
+you would give `minipage`: in effect, it is a "drop-in"
 replacement.)  [`Varwidth`](https://ctan.org/pkg/Varwidth) provides its own ragged text command:
 `\narrowragged`, which aims to make narrower lines and to put more
 text in the last line of the paragraph (thus producing lines with more

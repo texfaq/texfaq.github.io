@@ -1,5 +1,5 @@
 ---
-title: Conditional compilation and ''comments''
+title: Conditional compilation and "comments"
 category: usage
 permalink: /FAQ-conditional
 date: 2014-06-10
@@ -7,8 +7,8 @@ date: 2014-06-10
 
 While LaTeX (or any other TeX-derived package) isn't really like a
 compiler, people regularly want to do compiler-like things using it.
-Common requirements are conditional ''compilation'' and
-''block comments'', and several LaTeX-specific means to this end are available.
+Common requirements are conditional "compilation" and
+"block comments", and several LaTeX-specific means to this end are available.
 
 The simple `\newcommand{`\gobble`}`[1]`{}` 
 and `\iffalse ... \fi` aren't really satisfactory (as
@@ -51,7 +51,7 @@ processed in a LaTeX document, an `aux` file is created
 holding data such as page-number ranges and chapter/section numbers.
 When `\stampinclude` is included in a document, it compares the
 file system modification times for each file and its corresponding
-`aux` file; the file is only compiled in ''this run'' of the
+`aux` file; the file is only compiled in "this run" of the
 document if the file is newer than its corresponding `aux`
 file.  The package requires a current pdfTeX, and will also run on
 LuaTeX if the [`pdftexcmds`](https://ctan.org/pkg/pdftexcmds) package is available
@@ -106,7 +106,7 @@ for browsing; there are `narrowversion` and
 
 [`version`](https://ctan.org/pkg/version) offers similar facilities to `comment.sty`
 (i.e., `\includeversion` and `\excludeversion` commands);
-it's far ''lighter weight'', but is less robust (and in particular,
+it's far "lighter weight", but is less robust (and in particular,
 cannot deal with very large areas of text being included/excluded).
 
 A significant development of [`version`](https://ctan.org/pkg/version), confusingly called
@@ -116,7 +116,7 @@ A significant development of [`version`](https://ctan.org/pkg/version), confusin
 that prints the included text, with a clear printed mark around it.
 
 [`optional`](https://ctan.org/pkg/optional) defines a command `\opt`; its first argument is
-an ''inclusion flag'', and its second is text to be included or
+an "inclusion flag", and its second is text to be included or
 excluded.  Text to be included or excluded must be well-formed
 (nothing mismatched), and should not be too big&nbsp;&mdash; if a large body of
 text is needed, `\input` should be used in the argument.
@@ -151,9 +151,9 @@ environments named in its argument.  So, for example:
 ```
 
 The [`tagging`](https://ctan.org/pkg/tagging) package offers another neat set of syntax, which
-allow the user to apply ''tags'' to chunks of text, and to include and
+allow the user to apply "tags" to chunks of text, and to include and
 exclude tagged text, according to the tags.  For example, the user may
-''use'' text marked with some tags, and to ''drop'' marked with others:
+"use" text marked with some tags, and to "drop" marked with others:
 ```latex
 \usetag{<tag list>}
 \droptag{<tag list>}
@@ -178,9 +178,9 @@ that.
 
 Another valuable aspect of the problem is covered by the
 [`extract`](https://ctan.org/pkg/extract) package.  The package allows you to produce a
-''partial copy'' of an existing document: 
+"partial copy" of an existing document: 
 the package was developed to permit production of a
-''book of examples'' from a set of lecture notes.  The package documentation
+"book of examples" from a set of lecture notes.  The package documentation
 shows the following usage:
 ```latex
 \usepackage[
@@ -194,7 +194,7 @@ which will cause the package to produce a file `foobar.tex`
 containing all the `figure` and `table`
 environments, and the `\chapter` and `\section` commands, from
 the document being processed.  The new file `foobar.tex` is
-generated in the course of an otherwise ordinary run on the ''master''
+generated in the course of an otherwise ordinary run on the "master"
 document.  The package provides a good number of other facilities,
 including (numeric or labelled) ranges of environments to extract, and
 an `extract` environment which you can use to create complete

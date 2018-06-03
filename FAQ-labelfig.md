@@ -5,14 +5,14 @@ permalink: /FAQ-labelfig
 date: 2014-06-10
 ---
 
-''Technical'' graphics (such as graphs and diagrams) are often
+"Technical" graphics (such as graphs and diagrams) are often
 labelled with quite complex mathematical expressions: there are few
 drawing or graphing tools that can do such things (the honourable
 exception being MetaPost, which allows you to program the labels, in
 (La)TeX, in the middle of specifying your graphic).
 
-Placing ''labels'' on graphics produced by all those _other_ tools is
-what we discuss here.  (Note that the term ''label'' should be
+Placing "labels" on graphics produced by all those _other_ tools is
+what we discuss here.  (Note that the term "label" should be
 liberally interpreted; many of the techniques _were_ designed for
 use when applying labels to figures, but they may be used equally well
 to draw funny faces on a figure &hellip; or anything.
@@ -21,9 +21,9 @@ The time-honoured [`psfrag`](https://ctan.org/pkg/psfrag) package can help, if y
 included as an (encapsulated) PostScript file.  Place an unique
 text in your graphic, using the normal text features of your tool, and
 you can ask [`psfrag`](https://ctan.org/pkg/psfrag) to replace the text with arbitrary
-(La)TeX material.  [`Psfrag`](https://ctan.org/pkg/Psfrag)'s ''operative'' command is
+(La)TeX material.  [`Psfrag`](https://ctan.org/pkg/Psfrag)'s "operative" command is
 `\psfrag{<Orig text>}{<Repl text>}`, which
-instructs the system to replace the original (''unique'') text with
+instructs the system to replace the original ("unique") text with
 the TeX-typeset replacement text.  Optional arguments permit
 adjustment of position, scale and rotation; full details may be found
 in `pfgguide` in the distribution.
@@ -34,11 +34,11 @@ available, using [`pst-pdf` package](FAQ-pdftexgraphics)
 in a mode designed to do this work; and using [`pdfrack`](https://ctan.org/pkg/pdfrack).
 
 The [`Pst-pdf` package](FAQ-pdftexgraphics) can support
-this ''extra work'' usage.  In fact, the [`pst-pdf`](https://ctan.org/pkg/pst-pdf) support
+this "extra work" usage.  In fact, the [`pst-pdf`](https://ctan.org/pkg/pst-pdf) support
 package [`auto-pst-pdf`](https://ctan.org/pkg/auto-pst-pdf) offers a configuration setting
 precisely for use with [`psfrag`](https://ctan.org/pkg/psfrag).
 
-If you have the ''right'' environment (see below), you could try the
+If you have the "right" environment (see below), you could try the
 [`pdfrack`](https://ctan.org/pkg/pdfrack) script bundle.  The script aims to cut each figure
 out of your source, using it to produce a small LaTeX file with
 nothing but the figure inclusion commands.  Each of these figure files
@@ -71,7 +71,7 @@ Another useful approach is [`overpic`](https://ctan.org/pkg/overpic), which over
 `picture` environment on a graphic included by use of
 `\includegraphics`.  This treatment lends itself to ready placement
 of texts and the like on top of a graphic.  The package can draw a
-grid for planning your ''attack''; the distribution comes with simple
+grid for planning your "attack"; the distribution comes with simple
 examples.
 
 The [`lpic`](https://ctan.org/pkg/lpic) package is somewhat similar to [`overpic`](https://ctan.org/pkg/overpic);
@@ -82,7 +82,7 @@ graphic.
 
 [`Pinlabel`](https://ctan.org/pkg/Pinlabel) is another package whose author thought in the same
 sort of way as that of [`overpic`](https://ctan.org/pkg/overpic); the documentation explains
-in detail how to plan your ''labelling attack''&nbsp;&mdash; in this case by
+in detail how to plan your "labelling attack"&nbsp;&mdash; in this case by
 loading your figure into a viewer and taking measurements from it.
 (The package discusses direct use of
 [`ghostscript`](https://www.ghostscript.com/) as well as

@@ -17,10 +17,10 @@ and two LaTeX packages allow you position things relative to such
 points, thus providing a means of absolute positioning.
 
 The [`textpos`](https://ctan.org/pkg/textpos) package aids the construction of pages from
-''blobs'', dotted around over the page (as in a poster); you give it
+"blobs", dotted around over the page (as in a poster); you give it
 the location, and it places your typeset box accordingly.
 
-The [`eso-pic`](https://ctan.org/pkg/eso-pic) defines a ''shipout picture'' that covers the
+The [`eso-pic`](https://ctan.org/pkg/eso-pic) defines a "shipout picture" that covers the
 page.  The user may add `picture`-mode commands to this
 picture, which of course can include box placements as well as the
 other rather stilted commands of `picture`-mode.

@@ -19,7 +19,7 @@ you draw the symbol you're thinking of, with your mouse; when you've
 finished drawing, the classifier tries to match your sketch with
 symbols it knows about.  The matching process is pretty good, even for
 the sketches of a _really_ poor draughtsman (such as the present
-author), and it's often worth trying more than once.  ''Detexify apps''
+author), and it's often worth trying more than once.  "Detexify apps"
 are available for both Android and iPhone devices, you can use them to
 draw the symbol with your fingertip&nbsp;&mdash; a less challenging procedure
 than using your workstation's mouse, by all accounts!

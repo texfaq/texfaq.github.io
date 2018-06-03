@@ -7,7 +7,7 @@ date: 2014-06-10
 
 Let's start by defining two concepts, the _character_ and the
 _glyph_.
-The character is the abstract idea of the ''atom'' of a
+The character is the abstract idea of the "atom" of a
 language or other dialogue: so it might be a letter in an alphabetic
 language, a syllable in a syllabic language, or an ideogram in an
 ideographic language.  The glyph is the mark created on screen or
@@ -35,11 +35,11 @@ TeX contains some provision for translating its input (however
 encoded) to something regular.  Nowadays, 
 the operating system translates keystrokes into a code appropriate for
 the user's language: the encoding used is usually a national or
-international standard, though some operating systems use ''code
-pages'' (as defined by Microsoft).  These standards and code pages often
+international standard, though some operating systems use "code
+pages" (as defined by Microsoft).  These standards and code pages often
 contain characters that may not appear in the TeX system's input
 stream.  Somehow, these characters have to be dealt with&nbsp;&mdash; so
-an input character like ''é'' needs to be interpreted by TeX in
+an input character like "é" needs to be interpreted by TeX in
 a way that that at least mimics the way it interprets `\'e`.  
 
 The TeX output stream is in a somewhat different situation:
@@ -59,12 +59,12 @@ appeared, because of the possibility of suppressing
 `\accent` commands in the output stream (and hence improving the
 quality of the hyphenation of text in inflected languages, which is
 interrupted by the `\accent` commands&nbsp;&mdash; see
-[''how does hyphenation work''](FAQ-hyphen)).
+["how does hyphenation work"](FAQ-hyphen)).
 To take advantage of the diacriticised characters represented in the
 fonts, it is necessary to arrange that whenever the
 command sequence `\'e` has been input
 (explicitly, or implicitly via the sort of mapping of input mentioned
-above), the character that codes the position of the ''é'' glyph is
+above), the character that codes the position of the "é" glyph is
 used.
 
 Thus we could have the odd arrangement that the diacriticised character in

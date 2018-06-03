@@ -21,7 +21,7 @@ file.  If you extract that list and transmit it with your file, it can
 be used as a check-list in case that problems arise.
 
 Note that `\listfiles` only registers things that are input by the
-''standard'' LaTeX mechanisms (`\documentclass`, `\usepackage`,
+"standard" LaTeX mechanisms (`\documentclass`, `\usepackage`,
 `\include`, `\includegraphics` and so on).
 The `\input` command, as modified by LaTeX and used, with
 LaTeX syntax, as:
@@ -48,7 +48,7 @@ document; it comes with configuration files for use with
 TeX&nbsp;Live-`Unix` and `MiKTeX`.  It's plainly useful when
 you're sending the first copy of a document.
 
-The `mkjobtexmf` finds which files are used in a ''job'',
+The `mkjobtexmf` finds which files are used in a "job",
 either via the `-recorder` option of TeX, or by using the
 (Unix) command `strace` to keep an eye on what TeX is
 doing.  The files thus found are copied (or linked) to a directory

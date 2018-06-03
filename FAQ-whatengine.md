@@ -6,11 +6,11 @@ permalink: /FAQ-whatengine
 date: 2014-06-10
 ---
 
-You often need to know what ''engine'' your macros are running on (the
+You often need to know what "engine" your macros are running on (the
 engine is the TeX-derivative or TeX-alike processor that
 typesets your document).  The reason that you need to know is that the
 set of functions available in each engine is different.  Thus, for
-TeX macros to run on any engine, they need to ''know'' what they
+TeX macros to run on any engine, they need to "know" what they
 can and cannot do, which depends on the engine in use.  Getting the
 right answer is surprisingly tricky (see below for an elaboration of
 one apparently simple test).
@@ -52,7 +52,7 @@ was present in the very first releases of pdfTeX) is
 \fi
 ```
 Except that neither branch of this conditional is rock-solid.  The
-first branch can be misleading, since the ''awkward'' user could have
+first branch can be misleading, since the "awkward" user could have
 written:
 ```latex
 \let\pdfoutput\undefined

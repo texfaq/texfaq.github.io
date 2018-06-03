@@ -17,7 +17,7 @@ out a few macros.  This answer is for _them_.
 
 The section number is typeset using the
   [LaTeX internal](FAQ-atsigns)
-`\@seccntformat` command, which is given the ''name'' (section,
+`\@seccntformat` command, which is given the "name" (section,
 subsection, &hellip;) of the heading, as argument.  Ordinarily,
 `\@seccntformat` 
 merely outputs the section number, and then a `\quad` of space:
@@ -66,5 +66,5 @@ code should be in a package file, for preference.
 The [`Koma-script`](https://ctan.org/pkg/Koma-script) classes have different commands for specifying
 changes to section number presentation: `\partformat`,
 `\chapterformat` and `\othersectionlevelsformat`, but otherwise
-their facilities are similar to those of ''raw'' LaTeX.
+their facilities are similar to those of "raw" LaTeX.
 

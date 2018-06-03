@@ -30,7 +30,7 @@ detex <filename> | wc -w
 The technique is beguilingly simple, but it's not terribly accurate
 
 The `latexcount` script does the same sort of job, in one
-''step''; being a `perl` script, it is in principle rather
+"step"; being a `perl` script, it is in principle rather
 easily configured (see documentation inside the script).
 Several [editors and shells](FAQ-editors) offer something similar.
 

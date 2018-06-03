@@ -18,7 +18,7 @@ which packages may be distributed.
 The CTAN team decided that it would be useful for users (and
 distributors, not to say package authors) to separate packages that
 were candidates for distribution, and those that were in some sense
-''not free''.  Thus was the `nonfree` tree born.
+"not free".  Thus was the `nonfree` tree born.
 
 From the start, the `nonfree` tree was controversial: the terms
 under which a package would be placed on the tree were hotly
@@ -32,16 +32,16 @@ several for which the licence is unknown, which is as good, for the
 distributors, as a licence forbidding distribution).  Since the
 catalogue's coverage of CTAN is good (and slowly improving),
 the general rule for distributors has become
-''if the package is listed in the catalogue, check there to see
+"if the package is listed in the catalogue, check there to see
 whether you should distribute; if the package is not listed in the
-catalogue, don't think of distributing it''.
+catalogue, don't think of distributing it".
 (The catalogue only has a modest 
 [list of licences](https://ctan.org/license/), but it covers the set used
 by packages on CTAN, with a wild-card `other-free`
 which covers packages that the CTAN administrators believe to
 be free even though the authors haven't used a standard licence.)
 
-There is a corollary to the ''general rule'': if you notice something
+There is a corollary to the "general rule": if you notice something
 that ought to be in the distributions, for which there is no catalogue
 entry, please let the CTAN team (<a href="mailto:ctan@dante.de">ctan@dante.de</a>) know.
 It may well be that the package has simply been missed, but some aren't
@@ -50,7 +50,7 @@ understand the package.
 
 In the light of the above, the `nonfree` tree is being
 dismantled, and its contents moved (or moved _back_) to the main
-CTAN tree.  So the answer to the question is, now, ''the
+CTAN tree.  So the answer to the question is, now, "the
 nonfree tree was a part of CTAN, whose contents are now in
-the main tree''.
+the main tree".
 

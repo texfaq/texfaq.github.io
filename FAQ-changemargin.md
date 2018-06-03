@@ -11,22 +11,22 @@ subtleties not often realised by the beginner.  There are interactions
 between fundamental TeX constraints, constraints related to the
 design of LaTeX, and good typesetting and design practice, that
 mean that any change must be very carefully considered, both to ensure
-that it ''works'' and to ensure that the result is pleasing to the
+that it "works" and to ensure that the result is pleasing to the
 eye.
 
 LaTeX's defaults sometimes seem excessively conservative,
 but there are sound reasons behind how Lamport designed the layouts
 themselves, whatever one may feel about his overall design.  For
 example, the common request for
-''one-inch margins all round on A4 paper''
+"one-inch margins all round on A4 paper"
 is fine for 10- or 12-pitch typewriters, but not for 10pt (or
 even 11pt or 12pt) type because readers find such wide, dense, lines
 difficult to read.  There should ideally be no more than 75 characters
 per line (though the constraints change for two-column text).
 
 So Lamport's warning to beginners in his section on
-''Customizing the Style''&nbsp;&mdash;
-''don't do it''&nbsp;&mdash; should not lightly be ignored.
+"Customizing the Style"&nbsp;&mdash;
+"don't do it"&nbsp;&mdash; should not lightly be ignored.
 
 This set of FAQs recommends that you use a package to establish
 consistent settings of the parameters: the interrelationships are

@@ -33,7 +33,7 @@ again, the box may be left jutting out at the bottom of the page.
 Why do neither of these obvious things work?&nbsp;&mdash; Because TeX can't
 really distinguish between infinitely awful things.
 `Samepage` will make any possible break point
-''infinitely bad'' and boxes don't even offer the option of breaks, but if the
+"infinitely bad" and boxes don't even offer the option of breaks, but if the
 alternative is the leave an infinitely bad few centimetres of blank
 paper at the bottom of the page, TeX will take the line of least
 resistance and do nothing.
@@ -113,8 +113,8 @@ context, but the command remains a useful item in the armoury.
 
 Note that both `\pagebreak` and `\nopagebreak` take an optional
 number argument to adjust how the command is to be interpreted.  Thus
-`\pagebreak[0]`, the command ''suggests'' that a page break
-might be worth doing, whereas `\pagebreak[4]` ''demands'' a
+`\pagebreak[0]`, the command "suggests" that a page break
+might be worth doing, whereas `\pagebreak[4]` "demands" a
 page break.  Similarly `\nopagebreak[0]` makes a suggestion,
 while `\nopagebreak[4]` is a demand.  In both commands, the
 default value of the optional argument is 4.

@@ -83,7 +83,7 @@ correction applied at the end of the modal command group, again).
 
 The new commands (as noted above) override commands of the same type.
 In almost all cases, this merely excludes ludicrous ideas such as
-''upright slanted'' fonts, or ''teletype roman'' fonts.  There are a
+"upright slanted" fonts, or "teletype roman" fonts.  There are a
 couple of immediate oddities, though.  The first is the conflict
 between `\itshape` (or `\slshape`) and `\scshape`: while many
 claim that an italic small-caps font is typographically unsound, such
@@ -92,7 +92,7 @@ use of the instances in the [EC fonts](FAQ-ECfonts), and
 similar techniques could be brought to bear on many other font sets.
 The second is the conflict between `\upshape` and `\itshape`:
 Knuth actually offers an upright-italic font which LaTeX uses for
-the ''£'' symbol in the default font set.  The combination is
+the "£" symbol in the default font set.  The combination is
 sufficiently weird that, while there's a defined font shape, no
 default LaTeX commands exist; to use the shape, the (eccentric) user
 needs LaTeX's simplest font selection commands:

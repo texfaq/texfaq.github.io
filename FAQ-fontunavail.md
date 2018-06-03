@@ -1,5 +1,5 @@
 ---
-title: Warning: ''Font shape &hellip; not available''
+title: Warning: "Font shape &hellip; not available"
 category: errors
 permalink: /FAQ-fontunavail
 date: 2014-06-10
@@ -28,7 +28,7 @@ LaTeX Font Warning: Size substitutions with differences
 after LaTeX has encountered `\end{document}`.
 
 The message tells you that you've chosen a font size that is not in
-LaTeX's list of ''allowed'' sizes for this font; LaTeX has
+LaTeX's list of "allowed" sizes for this font; LaTeX has
 chosen the nearest font size it knows is allowed.  In fact, you can
 tell LaTeX to allow _any_ size: the restrictions come from the
 days when only bitmap fonts were available, and they have never
@@ -47,10 +47,10 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
 (Font)              using `OT1/cmr/bx/n' instead on input line 0.
 ```
 
-Substitutions may also be ''silent''; in this case, there is no more
-than an ''information'' message in the log file.  For example, if you
+Substitutions may also be "silent"; in this case, there is no more
+than an "information" message in the log file.  For example, if you
 specify an encoding for which there is no version in the current font
-family, the ''default family for the encoding'' is selected.  This
+family, the "default family for the encoding" is selected.  This
 happens, for example, if you use command `\textbullet`, which is
 normally taken from the maths symbols font, which is in `OMS`
 encoding.  My test log contained:

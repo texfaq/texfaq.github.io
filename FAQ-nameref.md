@@ -49,14 +49,14 @@ name-referencing mechanisms:
 The section name is: \ztitleref{sec:one}.
 ```
 (One might hope that something of this sort would be the
-''way of the future'', but things move slowly in the LaTeX world: don't hold
+"way of the future", but things move slowly in the LaTeX world: don't hold
 your breath.) 
 
 Each of [`titleref`](https://ctan.org/pkg/titleref), [`byname`](https://ctan.org/pkg/smartref) and [`nameref`](https://ctan.org/pkg/nameref)
 defines a reference command with the same name as the package:
 `\titleref`, `\byname` and `\nameref`. The [`nameref`](https://ctan.org/pkg/nameref)
 package also defines a command `\byshortnameref`, which uses the
-optional ''short'' title argument to the chapter and section commands.
+optional "short" title argument to the chapter and section commands.
 (Although it comes from the same author, [`zref`](https://ctan.org/pkg/zref) _doesn't_
 define a short-name variant.)
 

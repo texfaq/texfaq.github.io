@@ -8,7 +8,7 @@ date: 2018-05-27
 So you've been sent an (La)TeX file: what are you going to do with
 it?
 
-You can, of course, ''just read it'', since it's a plain text file;
+You can, of course, "just read it", since it's a plain text file;
 the problem is that the markup tags in the document may prove
 distracting.  Most of the time, even TeX _experts_ will
 typeset a (La)TeX file before attempting to read it&nbsp;&hellip;
@@ -22,26 +22,26 @@ many of these&nbsp;&mdash; a compilation of links may be found in
 [this blog post](http://texblog.net/latex-link-archive/online-compiler/)
 
 If no online compiler helps, you need to typeset the document
-''yourself''.  The good news is that TeX systems are available,
+"yourself".  The good news is that TeX systems are available,
 free, for most sorts of computer; the bad news is that you need a
 pretty complete TeX system even to read a single file, and complete
 TeX systems are pretty large.
 
 TeX is a typesetting system that arose from a publishing project (see
-''[What is TeX?](FAQ-whatTeX)''),
+"[What is TeX?](FAQ-whatTeX)"),
 and its basic source is available free from its author.  However, at
 its root, it is _just_ a typesetting engine: even to view or to
 print the typeset output, you will need ancillary programs.  In short,
 you need a TeX _distribution_&nbsp;&mdash; a collection of
 TeX-related programs tailored to your operating system: for details
 of the sorts of things that are available, see
-''[TeX distributions](FAQ-TeXsystems)''
+"[TeX distributions](FAQ-TeXsystems)"
 or
-''[commercial TeX distributions](FAQ-commercial)''.
+"[commercial TeX distributions](FAQ-commercial)".
 
 But beware&nbsp;&mdash; TeX makes no attempt to look like the sort of
 WYSIWYG system you're probably used to (see
-''[Why is TeX not WYSIWYG?](FAQ-notWYSIWYG)''):
+"[Why is TeX not WYSIWYG?](FAQ-notWYSIWYG)"):
 while many modern versions of TeX have a compile&ndash;view cycle that
 rivals the best commercial word processors in its responsiveness, what
 you type is usually _markup_, which typically defines a logical
@@ -50,9 +50,9 @@ you type is usually _markup_, which typically defines a logical
 So there's a balance between the simplicity of the original
 (marked-up) document, which can more-or-less be read in _any_
 editor, and the really rather large investment needed to install a
-system to read a document ''as intended''.
+system to read a document "as intended".
 
-Are you ''put off'' by all this?&nbsp;&mdash; remember that TeX is good at
+Are you "put off" by all this?&nbsp;&mdash; remember that TeX is good at
 producing PDF: why not ask the person who sent the TeX file
 to send an PDF copy?
 

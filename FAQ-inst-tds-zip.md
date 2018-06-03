@@ -5,7 +5,7 @@ permalink: /FAQ-inst-tds-zip
 date: 2014-06-10
 ---
 
-Installing packages, as they (''traditionally'') appear on
+Installing packages, as they ("traditionally") appear on
 CTAN, involves:
   
 
@@ -21,7 +21,7 @@ Ready-built ZIP files&nbsp;&mdash; also known as
 [TDS-ZIP files](FAQ-tds-zip)&nbsp;&mdash; are designed to lighten
 the load of performing the first two steps of installation: they
 contain all the files that are to be installed for a given
-package, in their ''correct'' locations in a 
+package, in their "correct" locations in a 
 [TDS tree](FAQ-tds).
 
 To install such a file on a Unix system (we assume that you'll install
@@ -42,5 +42,5 @@ remaining chore is to update the file indexes&nbsp;&mdash; as in
 [normal installation instructions](FAQ-inst-wlcf).  However, if
 the package provides a font, you also need to enable the font's map,
 which is discussed in 
-''[Installing a Type&nbsp;1 font](FAQ-instt1font)''
+"[Installing a Type&nbsp;1 font](FAQ-instt1font)"
 

@@ -1,5 +1,5 @@
 ---
-title: Using ''old-style'' figures
+title: Using "old-style" figures
 category: formatting
 permalink: /FAQ-osf
 date: 2014-06-10
@@ -16,8 +16,8 @@ above the x-height; sometimes 2 will also ascend (this last seems to
 be a variation associated with French typography).
 
 LaTeX provides a command `\oldstylenums{digits}`, which
-by default uses an old-style set embedded in Knuth's ''math italic''
-font.  The command is only sensitive to ''bold'' of the font style of
+by default uses an old-style set embedded in Knuth's "math italic"
+font.  The command is only sensitive to "bold" of the font style of
 surrounding text: glyphs (for this command) are only available to
 match the normal medium and bold (i.e., bold-extended) weights of the
 Computer Modern Roman fonts.
@@ -32,8 +32,8 @@ Some font packages (e.g., [`mathpazo`](https://ctan.org/pkg/mathpazo)) make old-
 available and provide explicit support for making them the default:
 `\usepackage[osf]{mathpazo}` selects a form where digits are
 always old-style in text.  The [`fontinst`](https://ctan.org/pkg/fontinst) package will
-automatically generate ''old-style versions'' of commercial Adobe Type
-1 font families for which ''expert'' sets are available.
+automatically generate "old-style versions" of commercial Adobe Type
+1 font families for which "expert" sets are available.
 
 It's also possible to make virtual fonts, that offer old-style digits,
 from existing font packages.  The `cmolddig` bundle provides
@@ -51,7 +51,7 @@ Microsoft products and is intended for on-screen viewing).
 
 OpenType fonts have a pair of axes for number variations&nbsp;&mdash;
 proportional/tabular and lining/oldstyle selections are commonly
-available.  ''Full feature access'' to OpenType fonts, making such
+available.  "Full feature access" to OpenType fonts, making such
 options available to the (La)TeX user, is already supported by
 [XeTeX](FAQ-xetex) using, for example, the [`fontspec`](https://ctan.org/pkg/fontspec)
 package.  Similar support is also in the works for

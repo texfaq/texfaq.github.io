@@ -27,7 +27,7 @@ correct:
 \end{tabular}
 ```
 produces the error at the `\ `.  This usage is just wrong; if you
-want to number the cells in a table, you have to do it ''by hand'':
+want to number the cells in a table, you have to do it "by hand":
 ```latex
 \newcounter{tablecell}
 ...
@@ -74,9 +74,9 @@ seemingly innocent:
 ```
 <!-- {% endraw %} -->
 produces the error (the same happens with `\mbox` in place of
-`\fbox`, or with either of their ''big brothers'', `\framebox` and
+`\fbox`, or with either of their "big brothers", `\framebox` and
 `\makebox`).  This is because the `alltt` environment
-uses a ''trivial'' list, hidden inside its definition.  (The
+uses a "trivial" list, hidden inside its definition.  (The
 `itemize` environment also has this construct inside
 itself, in fact, so `\begin{itemize}` won't work inside an
 `\fbox`, either.)  The list construct wants to happen between
@@ -119,5 +119,5 @@ This is a case where you've simply got to be more subtle; you should
 either write your own macros to replace the insides of LaTeX's
 sectioning macros, or  look for some alternative in the packages
 discussed in 
-''[The style of section headings](FAQ-secthead)''.
+"[The style of section headings](FAQ-secthead)".
 

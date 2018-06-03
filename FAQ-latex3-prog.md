@@ -5,14 +5,14 @@ permalink: /FAQ-latex3-prog
 date: 2014-06-10
 ---
 
-As yet, there is no book ''Programming in LaTeX3'', and even if
+As yet, there is no book "Programming in LaTeX3", and even if
 such a thing existed there would be lots of gaps.  So there is no
 _comprehensive_ support.
 
 However, there are some 'resources':
   
 
--  The ''introduction to LaTeX3 ideas'' in the [`expl3`](https://ctan.org/pkg/expl3)
+-  The "introduction to LaTeX3 ideas" in the [`expl3`](https://ctan.org/pkg/expl3)
     documentation gives a broad-brush overview of the concepts.
 -  Joseph Wright has written a short series of 
     [blog posts](https://www.texdev.net/index.php?s=programming+latex3),

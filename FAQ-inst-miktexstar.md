@@ -11,7 +11,7 @@ make their way to the MiKTeX package repository within a week).
 Thus it makes sense for the MiKTeX user to take advantage of the
 system rather than grinding through the steps of installation.
 
-MiKTeX maintains a database of packages it ''knows about'',
+MiKTeX maintains a database of packages it "knows about",
 together with (coded) installation instructions that enable it to
 install the packages with minimal user intervention; you can update
 the database over the internet.

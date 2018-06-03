@@ -1,5 +1,5 @@
 ---
-title: I asked for ''empty'', but the page is numbered
+title: I asked for "empty", but the page is numbered
 category: errors
 permalink: /FAQ-emptynum
 date: 2014-06-10
@@ -28,5 +28,5 @@ or (in [`book`](https://ctan.org/pkg/book) or [`report`](https://ctan.org/pkg/re
 ```
 A similar technique doesn't work for a [`book`](https://ctan.org/pkg/book) or [`report`](https://ctan.org/pkg/report)
 `\part` command pages.  For that, and for other detail, take look
-at ''[getting rid of page numbers](FAQ-nopageno)''.
+at "[getting rid of page numbers](FAQ-nopageno)".
 

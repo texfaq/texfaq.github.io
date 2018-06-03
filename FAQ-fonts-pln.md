@@ -34,7 +34,7 @@ of [font encodings](FAQ-whatenc).  One almost never sees new fonts
 that use Knuth's eccentric font encodings&nbsp;&mdash; but those encodings are
 built into Plain TeX, so that some macros of Plain TeX need to be
 changed to use the fonts.  LaTeX gets around all these problems by
-using a ''font selection scheme''&nbsp;&mdash; this 'NFSS' ('N'
+using a "font selection scheme"&nbsp;&mdash; this 'NFSS' ('N'
 for 'new', as opposed to what LaTeX 2.09 had) carries around with it
 separate information about the fonts you use, so the changes to
 encoding-specific commands happen automagically.
@@ -100,6 +100,6 @@ the default font itself), may be done using the rather straightforward
 [`varisize`](https://ctan.org/pkg/varisize), which offers font sizes ranging from 7&nbsp;points to
 20&nbsp;points (nominal sizes, all).  Font size commands are generated when
 any of the package files is loaded, so the `11pt.tex` defines a
-command `\elevenpoint`; each of the files ensures there's a ''way back'',
+command `\elevenpoint`; each of the files ensures there's a "way back",
 by defining a `\tenpoint` command.
 

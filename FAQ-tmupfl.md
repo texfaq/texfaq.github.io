@@ -1,5 +1,5 @@
 ---
-title: ''Too many unprocessed floats''
+title: "Too many unprocessed floats"
 category: errors
 permalink: /FAQ-tmupfl
 date: 2014-06-10
@@ -13,13 +13,13 @@ If LaTeX responds to a `\begin{figure}` or
 See the LaTeX manual or LaTeX Companion for explanation.
 ```
 your figures (or tables) are not being placed properly.  LaTeX
-has a limited amount of storage for ''floats'' (figures, tables, or
+has a limited amount of storage for "floats" (figures, tables, or
 floats you've defined yourself with the [`float`](https://ctan.org/pkg/float) package); if
 something you have done has prevented LaTeX from typesetting
 floats, it will run out of storage space.
 
 This failure usually occurs in extreme cases of 
-[floats moving ''wrongly''](FAQ-floats);
+[floats moving "wrongly"](FAQ-floats);
 LaTeX has found it can't place a float, and floats of the same type
 have piled up behind it.
 
@@ -37,7 +37,7 @@ Techniques for solving the problem are discussed in the
 
 For LaTeX releases prior to 2015, an
  alternative _may_ be to use the [`morefloats`](https://ctan.org/pkg/morefloats) package.
-The package will allocate more ''float skeletons'' than LaTeX
+The package will allocate more "float skeletons" than LaTeX
 does by default; each such skeleton may then be used to store a
 float.  Beware that even with [`morefloats`](https://ctan.org/pkg/morefloats), the number you can
 allocate is limited; even with the [`etex`](https://ctan.org/pkg/etex) package.
@@ -52,15 +52,15 @@ before giving this error, so it is highly unlikely that you get this error unles
 over 32 thousand registers have been allocated.
 
 The error also occurs in a long sequence of float environments, with
-no intervening text.  Unless the environments will fit ''here'' (and
-you've allowed them to go ''here''), there will never be a page break,
+no intervening text.  Unless the environments will fit "here" (and
+you've allowed them to go "here"), there will never be a page break,
 and so there will never be an opportunity for LaTeX to reconsider
 placement. Even though modern LaTeX releases will allow thousands,
 rather than just 18 floats to be held in this way, it is still a good
 idea to avoid this situation which can make LaTex run slowly and in
 extreme cases cause other out of memory errors.
 
-Of course, the floats can't all fit ''here'' if the
+Of course, the floats can't all fit "here" if the
 sequence is sufficiently prolonged: once the page fills, LaTeX
 won't place any more floats, leading to the error.
 

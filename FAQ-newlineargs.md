@@ -17,15 +17,15 @@ fails to appear in the typeset output.
 
 Both problems arise because `\\ ` takes optional arguments.  The
 command `\\*` means
-''break the line here, and inhibit page break following the line break'';
+"break the line here, and inhibit page break following the line break";
 the command `\\[`&lsaquo;_dimen_&rsaquo;`]`
 means
-''break the line here and add &lsaquo;_dimen_&rsaquo; extra vertical space afterwards''.
+"break the line here and add &lsaquo;_dimen_&rsaquo; extra vertical space afterwards".
 
 The problem arises because `\\ ` looks for the next
 non-blank thing; the test it uses ignores the end of the line in
 your input text, so that `\\ ` comes to imagine that you
-were giving it a ''modifier''.
+were giving it a "modifier".
 
 An obvious solution is to enclose the stuff at the start of the new
 line in braces, typing:

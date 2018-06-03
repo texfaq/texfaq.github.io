@@ -20,13 +20,13 @@ by
   [Thierry Bouche in TUGboat 19(2)](https://tug.org/TUGboat/Articles/tb19-2/tb59bouc.pdf)).
 There are several options available, which are
 based on Knuth's original designs.  Others complement other
-commercial and free text font designs; one set (MicroPress's ''informal math'')
+commercial and free text font designs; one set (MicroPress's "informal math")
 stands alone.
 
 Users should also consider the possibilities of typesetting
 [maths using OpenType fonts](FAQ-otf-maths).
 
-''Free'' font families that will support TeX mathematics include:
+"Free" font families that will support TeX mathematics include:
 
 - Computer Modern (75 fonts&nbsp;&mdash; optical scaling) Donald E. Knuth
 
@@ -59,7 +59,7 @@ Users should also consider the possibilities of typesetting
   typesetting maths in combination with the Palatino family of text
   fonts.  Four of the five fonts of the distribution are maths
   alphabets, in upright and italic shapes, medium and bold weights;
-  the fifth font contains a small selection of ''blackboard bold''
+  the fifth font contains a small selection of "blackboard bold"
   characters (chosen for their mathematical significance).  Support
   under LaTeX2e is available in 
   [PSNFSS](FAQ-usepsfont); the fonts are
@@ -116,12 +116,12 @@ Users should also consider the possibilities of typesetting
 
   Belleek is the upshot of Kinch's thoughts on how MetaFont might be used
   in the future: they were published simultaneously as MetaFont source,
-  as Type&nbsp;1 fonts, and as TrueType fonts.  The fonts act as ''drop-in''
+  as Type&nbsp;1 fonts, and as TrueType fonts.  The fonts act as "drop-in"
   replacements for the basic MathTime set (as an example of
-  ''what might be done'').
+  "what might be done").
 
   The paper outlining Kinch's thoughts, proceeding from considerations
-  of the ''intellectual'' superiority of MetaFont to evaluations of why its
+  of the "intellectual" superiority of MetaFont to evaluations of why its
   adoption is so limited and what might be done about the problem, is
   to be found at <http://truetex.com/belleek.pdf>
 
@@ -161,7 +161,7 @@ which describes the fonts by giving names and short examples, only.
 (At the time of writing&nbsp;&mdash; June 2008&nbsp;&mdash; the list has several that
 are only scheduled for inclusion here.
 
-Another useful document is Stephen Hartke's ''Free maths font survey'',
+Another useful document is Stephen Hartke's "Free maths font survey",
 which is available on CTAN in both PDF and
 HTML formats.  The survey covers most of the fonts mentioned in
 the font catalogue, but also mentions some (such as [`Belleek`](https://ctan.org/pkg/Belleek)
@@ -260,18 +260,18 @@ commercially, include:
 
   Lucida is a family of related fonts including seriffed, sans serif,
   sans serif fixed width, calligraphic, blackletter, fax, Kris Holmes'
-  connected handwriting font, etc; they're not as ''spindly'' as
+  connected handwriting font, etc; they're not as "spindly" as
   Computer Modern, with a large x-height, and include a larger set of
   maths symbols, operators, relations and delimiters than CM
   (over 800 instead of 384: among others, it also includes the
-  AMS `msam` and `msbm` symbol sets).  ''Lucida Bright Expert'' 
+  AMS `msam` and `msbm` symbol sets).  "Lucida Bright Expert" 
   (14 fonts) adds seriffed fixed width, another handwriting font,
-  smallcaps, bold maths, upright ''maths italic'', etc., to the
+  smallcaps, bold maths, upright "maths italic", etc., to the
   set.  Support under LaTeX is available under the auspices of the
   PSNFSS, and pre-built metrics are also provided.
 
   TUG has the right to distribute these fonts; the web site
-    ''[Lucida and TUG](https://tug.org/lucida/)''
+    "[Lucida and TUG](https://tug.org/lucida/)"
   has details.
 
 - Adobe Lucida, LucidaSans _and_ LucidaMath (12 fonts)
@@ -366,7 +366,7 @@ working on them, and several problems have been identified:
 
   The fonts are not perfect; the widths assigned to the characters in
   the `tfm` file are wrong for some glyphs; this can cause
-  sequences of characters to ''look wrong'', or in some cases even to
+  sequences of characters to "look wrong", or in some cases even to
   overlap; the `newpx` fonts (noted above) aim to reduce
   these problems.
 
@@ -390,9 +390,9 @@ working on them, and several problems have been identified:
   -  virtual text fonts using `Adobe Times` (or
       the URW `Nimbus Roman No9 L` font that
       substitutes for Times, which is distributed as part of the
-      URW ''basic 35'' collection) with
+      URW "basic 35" collection) with
       modified plus, equal and slash symbols;
-  -  matching sets of sans serif and monospace (''typewriter'')
+  -  matching sets of sans serif and monospace ("typewriter")
       fonts (the sans serif set is based on `Adobe Helvetica`);
   -  maths alphabets using Adobe `Times`, or the URW
       equivalent `NimbusRomanNo9`;
@@ -408,7 +408,7 @@ working on them, and several problems have been identified:
 
   The fonts are not perfect; the widths assigned to the characters in
   the `tfm` file are wrong for some glyphs; this can cause
-  sequences of characters to ''look wrong'', or in some cases even to
+  sequences of characters to "look wrong", or in some cases even to
   overlap; the `newtx` fonts (noted above) aim to reduce
   these problems.
 
@@ -454,16 +454,16 @@ minute by comparison with the huge sales of other font sets.
 
 Text fonts in Type&nbsp;1 format are available from many vendors including
 Adobe, Monotype and Bitstream.  However, be careful with cheap font
-''collections''; many of them dodge copyright restrictions by removing
+"collections"; many of them dodge copyright restrictions by removing
 (or crippling) parts of the font programs such as hinting.  Such
 behaviour is both unethical and bad for the consumer.
 The fonts may not render well (or at all, under ATM), may not have the
-''standard'' complement of 228 glyphs, or may not include metric files
+"standard" complement of 228 glyphs, or may not include metric files
 (which you need to make TFM files).
 
-TrueType was for a long time the ''native'' format for Windows, but
+TrueType was for a long time the "native" format for Windows, but
 MicroSoft joined the development of the OpenType specification, and
-''modern'' windows will work happily with fonts in either format.  Some TeX
+"modern" windows will work happily with fonts in either format.  Some TeX
 implementations such as [TrueTeX](FAQ-commercial) use TrueType
 versions of Computer Modern and Times Maths fonts to render TeX
 documents in Windows without the need for additional system software like

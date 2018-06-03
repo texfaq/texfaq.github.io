@@ -17,7 +17,7 @@ Fortunately, there are ways around the problem.
 The [`framed`](https://ctan.org/pkg/framed) package provides `framed` and
 `shaded` environments; both put their content into
 something which looks like a framed (or colored) box, but which
-breaks as necessary at page end.  The environments ''lose'' footnotes,
+breaks as necessary at page end.  The environments "lose" footnotes,
 marginpars and head-line entries, and will not work with
 [`multicol`](https://ctan.org/pkg/multicol) or other column-balancing macros.  The
 [`memoir`](https://ctan.org/pkg/memoir) class includes the functionality of the
@@ -25,7 +25,7 @@ marginpars and head-line entries, and will not work with
 
 The [`mdframed`](https://ctan.org/pkg/mdframed) package does the same job, using a different
 algorithm.  The package also provides means of defining
-''private'' framed environments, whose parameters are set at definition
+"private" framed environments, whose parameters are set at definition
 time, thus saving considerable effort in documents with many framed
 boxes.  Its restrictions seem much the same as those of
 [`framed`](https://ctan.org/pkg/framed); this is as one would expect, but the list is

@@ -7,7 +7,7 @@ date: 2014-06-10
 ---
 
 This is a slightly different take on the problem addressed in
-''[fixed-width tables](FAQ-fixwidtab)''&nbsp;&mdash; here we have
+"[fixed-width tables](FAQ-fixwidtab)"&nbsp;&mdash; here we have
 a column whose size we can't absolutely predict when we design the
 document.
 
@@ -20,15 +20,15 @@ Suppose we have data in one column which we read from an external
 source, and the source itself isn't entirely predictable.  The data in
 the column may end up pretty narrow in every row of the table, or it
 may be wide enough that the table would run over the edge of the page;
-however, we don't want to make the column as wide as possible ''just
-in case'', by defining a fixed size for the table.  We would like the
+however, we don't want to make the column as wide as possible "just
+in case", by defining a fixed size for the table.  We would like the
 column to be as small as possible, but have the possibility to spread
 to a maximum width and (if even that width is exceeded) turn into a
 `p`-style column.
 
 The [`varwidth`](https://ctan.org/pkg/varwidth) package, discussed in 
-''[automatic sizing of minipages](FAQ-varwidth)'', provides
-a solution.  If you load it together with the LaTeX ''required''
+"[automatic sizing of minipages](FAQ-varwidth)", provides
+a solution.  If you load it together with the LaTeX "required"
 [`array`](https://ctan.org/pkg/array) package, i.e.:
 ```latex
 \usepackage{array}

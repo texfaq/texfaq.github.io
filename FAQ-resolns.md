@@ -1,11 +1,11 @@
 ---
-title: What are ''resolutions''?
+title: What are "resolutions"?
 category: concepts
 permalink: /FAQ-resolns
 date: 2014-06-10
 ---
 
-''Resolution'' is a word that is used with little concern for its
+"Resolution" is a word that is used with little concern for its
 multiple meanings, in computer equipment marketing.  The word suggests
 a measure of what an observer (perhaps the human eye) can resolve; yet
 we regularly see advertisements for printers whose resolution is
@@ -15,7 +15,7 @@ can place spots on the printed image, which affects the fineness of
 the representation of fonts, and the accuracy of the placement of
 glyphs and other marks on the page.
 
-In fact, there are two sorts of ''resolution'' on the printed page
+In fact, there are two sorts of "resolution" on the printed page
 that we need to consider for (La)TeX's purposes:
   
 
@@ -23,7 +23,7 @@ that we need to consider for (La)TeX's purposes:
 -  the quality of the fonts.
 
 In the case where (La)TeX output is being sent direct to a printer,
-in the printer's ''native'' language, it's plain that the DVI
+in the printer's "native" language, it's plain that the DVI
 processor must know all such details, and must take detailed account
 of both types of resolution.
 
@@ -40,7 +40,7 @@ PDF is the workhorse of an enormous explosion of document
 distribution.
 
 Therefore, we need DVI processors that will produce
-''resolution independent'' PostScript or PDF output; of course, the
+"resolution independent" PostScript or PDF output; of course, the
 independence needs to extend to both forms of independence outlined
 above.
 
@@ -54,7 +54,7 @@ the problems that arise.
 Resolution-independence of positioning is more troublesome:
 `dvips` is somewhat notorious for insisting on positioning to
 the accuracy of the declared resolution of the printer.
-One commonly-used approach is to declare a resolution of 8000 (''better
-than any device''), and this is reasonably successful though it does
+One commonly-used approach is to declare a resolution of 8000 ("better
+than any device"), and this is reasonably successful though it does
 have its [problems](FAQ-8000).
 

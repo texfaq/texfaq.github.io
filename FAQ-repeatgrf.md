@@ -5,7 +5,7 @@ permalink: /FAQ-repeatgrf
 date: 2014-06-10
 ---
 
-A logo or ''watermark'' image, or any other image that is repeated in
+A logo or "watermark" image, or any other image that is repeated in
 your document, has the potential to make the processed version of the
 document unmanageably large.  The problem is, that the default
 mechanisms of graphics usage add the image at every point it's to be
@@ -24,8 +24,8 @@ no more than an invocation of the subroutine defined in the prologue.
 
 The `epslatex` technique is tricky, but does the job.  Trickier
 still is the neat scheme of converting the figure to a one-character
-Adobe Type&nbsp;3 outline font.  While this technique is for the ''real
-experts'' only (the author of this answer has never even tried it), it has
+Adobe Type&nbsp;3 outline font.  While this technique is for the "real
+experts" only (the author of this answer has never even tried it), it has
 potential for the same sort of space saving as the `epslatex`
 technique, with greater flexibility in actual use.
 
@@ -42,14 +42,14 @@ and at the start of your document, you write:
 ```latex
 \loadgraphics[<bb>]{<list of graphics>}
 ```
-and each of the graphics in the list is converted to an ''object'' for
+and each of the graphics in the list is converted to an "object" for
 use within the resulting PostScript output.  (This is, in essence, an
 automated version of the `epslatex` technique described above.)
 
 Having loaded the package as above, whenever you use
 `\includegraphics`, the command checks if the file you've asked for
 is one of the graphics in `\loadgraphics` list.  If so, the
-operation is converted into a call to the ''object'' rather than a new
+operation is converted into a call to the "object" rather than a new
 copy of the file; the resulting PostScript can of course be _much_ smaller.
 
 Note that the package requires a recent `dvips`, version

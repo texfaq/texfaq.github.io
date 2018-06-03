@@ -29,7 +29,7 @@ say:
 ```
 `\DeclareMathOperator*` declares the operator always to have its
 sub- and superscripts in the 
-''[`\limits` position](FAQ-limits)''.
+"[`\limits` position](FAQ-limits)".
 
 The [`amsopn`](https://ctan.org/pkg/amsopn) command `\operatorname` allows you to
 introduce _ad hoc_ operators into your mathematics, so
@@ -43,6 +43,6 @@ typesets the same as
 As with `\DeclareMathOperator` there's a starred version
 `\operatorname*` for sub- and superscripts in the limits position.
 
-(It should be noted that ''log-like'' was reportedly a _joke_ on
+(It should be noted that "log-like" was reportedly a _joke_ on
 Lamport's part; it is of course clear what was meant.)
 

@@ -8,15 +8,15 @@ date: 2014-06-10
 
 TeX, by default, allows you to split a mathematical expression at
 the end of the line; it allows breaks at relational operators (like
-''='', ''<'', etc.) and at binary operators (like ''+'',
-''-'', etc.).  In the case of large expressions, this can sometimes be
+"=", "<", etc.) and at binary operators (like "+",
+"-", etc.).  In the case of large expressions, this can sometimes be
 a life-saver.
 
 However, in the case of simple expressions like a=b+c, a
 break can be really disturbing to the reader, and one would like to
 avoid it.
 
-Fortunately, these breaks are controllable: there are ''penalties''
+Fortunately, these breaks are controllable: there are "penalties"
 associated with each type of operator: the penalty 
  says how
 undesirable a break at each point is.  Default values are:
@@ -48,6 +48,6 @@ to defer a break until after the equality, we could write:
 ```latex
 ${a+b+c+d} = z+y+x+w$
 ```
-The braces say ''treat this subformula as one atom'' and (in TeX at
+The braces say "treat this subformula as one atom" and (in TeX at
 least) atoms don't get split: not a `\binoppenalty` change in sight.
 

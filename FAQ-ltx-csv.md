@@ -9,7 +9,7 @@ Comma-separated-variable (CSV) files are a common means of
 interchanging simple data between applications; for example, most
 spreadsheet applications can provide files containing tables of
 numbers with commas between them.  One can envisage these tables as
-''LaTeX tables'', and the packages to process them all provide
+"LaTeX tables", and the packages to process them all provide
 table generation, one way or another.
 
 For rather a long time, the canonical tools for dealing with such
@@ -22,7 +22,7 @@ The [`csvsimple`](https://ctan.org/pkg/csvsimple) does similar tasks.  Its proce
 controlled by keys established via the [`pgfkeys`](https://ctan.org/pkg/pgfkeys) package,
 which define how each row of the CSV file is to be processed.
 
-For usage ''nearer to the bone'', one might consider the commands
+For usage "nearer to the bone", one might consider the commands
 `\docsvlist` and `\forcsvlist` (from the [`etoolbox`](https://ctan.org/pkg/etoolbox)
 package).  The first uses the time-honoured LaTeX technique of
 changing the definition of a `\do` command; it runs through the

@@ -75,8 +75,8 @@ provides an example of such use, with text typeset in a circle,
 half-overlapping the margin, in chapter&nbsp;14 of the TeXbook).  To
 place insertions in the middle of a paragraph requires effort of an
 entirely different sort; the [`cutwin`](https://ctan.org/pkg/cutwin) package does this for
-you.  It requires a set of ''part line widths'' (two per line), and
-typesets the ''cutout'' section of the paragraph line by line.  The
+you.  It requires a set of "part line widths" (two per line), and
+typesets the "cutout" section of the paragraph line by line.  The
 examples in the package documentation look enticing.
 
 Plain TeX users only have one option: [`figflow`](https://ctan.org/pkg/figflow) (which

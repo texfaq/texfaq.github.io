@@ -5,8 +5,8 @@ permalink: /FAQ-scriptfonts
 date: 2014-06-10
 ---
 
-The font selected by `\mathcal` is the only script font ''built
-in''. However, there are other useful calligraphic fonts included with
+The font selected by `\mathcal` is the only script font "built
+in". However, there are other useful calligraphic fonts included with
 modern TeX distributions.
 
 - Euler The [`eucal`](https://ctan.org/pkg/amsfonts) package (part of most sensible TeX
@@ -26,7 +26,7 @@ modern TeX distributions.
   other symbols) a set of calligraphic letters, though (again) they're
   rather similar to the default Computer Modern set.
 - RSFS The [`mathrsfs`](https://ctan.org/pkg/mathrsfs) package uses a really fancy script
-  font (the name stands for ''Ralph Smith's Formal Script'') which is
+  font (the name stands for "Ralph Smith's Formal Script") which is
   already part of most modern TeX distributions (Type&nbsp;1 versions of
   the font are also provided, courtesy of Taco Hoekwater).  The package
   creates a new command `\mathscr`.
@@ -51,7 +51,7 @@ modern TeX distributions.
   any but the most basic PostScript printers.  A substantially identical
   font (to the extent that the same metrics may be used) is
   available from URW, called URW Chancery L: it is distributed
-  as part of the ''URW base35'' bundle; the
+  as part of the "URW base35" bundle; the
   [`urwchancal`](https://ctan.org/pkg/urwchancal) package (which includes virtual fonts to tweak
   appearance) provides for its use as a calligraphic font.
 

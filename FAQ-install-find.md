@@ -39,6 +39,6 @@ not, packages grouped in this way depend on each other, so that you
 really _need_ the other ones.
 
 Having acquired the package distribution, 
-''[unpacking LaTeX packages](FAQ-install-unpack)'' outlines
+"[unpacking LaTeX packages](FAQ-install-unpack)" outlines
 your next step.
 

@@ -7,7 +7,7 @@ date: 2014-06-10
 ---
 
 In almost all cases, new material that you install should go into the
-''local'' tree of your (La)TeX installation.  (A discussion of
+"local" tree of your (La)TeX installation.  (A discussion of
 reasons _not_ to use the local tree appears below.)
 
 On a Unix(-alike) system, using TeX&nbsp;Live or teTeX, the root
@@ -26,7 +26,7 @@ author is using today):
 In a MiKTeX installation, the location will in fact typically be
 something you specified yourself when you installed MiKTeX in the
 first place, but you may find you need to create one.  The MiKTeX
-''Settings'' window (
+"Settings" window (
   `Start`&rarr;
   `Programs`&rarr;
   `MiKTeX`&rarr;
@@ -48,21 +48,21 @@ control over the hard disc of the computer, at all.
 
 So the real criterion is that your local tree should be somewhere that
 _you_, rather than the system, control.  Restrictive systems often
-provide a ''home directory'' for each user, mounted as a network
+provide a "home directory" for each user, mounted as a network
 drive; this is a natural home for the user's local tree.  Other (often
 academic) environments assume the user is going to provide a memory
 stick, and will assign it a defined drive letter&nbsp;&mdash; another good
 candidate location.  Note that the semantics of such a tree are
 indistinguishable from those of a 
-[''home'' TEXMF tree](FAQ-privinst).
+["home" TEXMF tree](FAQ-privinst).
 
 You might not wish to use the 'local' tree:
   
 
--  if the package, or whatever, is ''personal'' (for example,
+-  if the package, or whatever, is "personal" (for example,
     something commercial that has been licensed to you alone, or
     something you're developing yourself), it should go in your
-    [''home'' TEXMF tree](FAQ-privinst);
+    ["home" TEXMF tree](FAQ-privinst);
 -  if you _know_ that the package you are installing is a
     replacement for the copy on the TEXMF tree of your (La)TeX
     distribution; in this case it is reasonable to replace the existing
@@ -71,7 +71,7 @@ You might not wish to use the 'local' tree:
 If the system is upgraded (or otherwise re-installed), a copy made in
 the TEXMF tree will probably be overwritten or deleted.  This
 may be what you want, but otherwise it's a powerful incentive to use a
-tree that is _not_ ''part of the installed system''.
+tree that is _not_ "part of the installed system".
 
 The reason one might place upgrades the distribution's main tree is to
 avoid confusion.  Suppose you were to place the file on the local

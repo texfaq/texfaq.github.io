@@ -37,9 +37,9 @@ large as that of LaTeX), but those developers who are active seem to have
 prodigious energy.  Support is available via the
 [ConTeXt Garden](http://wiki.contextgarden.net/Main_Page) and via the
 [mailing list](https://mailman.ntg.nl/mailman/listinfo/ntg-ConTeXt).
-A ''standalone'' distribution (a TeX distribution with no macros
-other than ConTeXt-based ones) is available as the [''ConTeXt
-minimals''](http://minimals.contextgarden.net/) &mdash; it provides
+A "standalone" distribution (a TeX distribution with no macros
+other than ConTeXt-based ones) is available as the ["ConTeXt
+minimals"](http://minimals.contextgarden.net/) &mdash; it provides
 a ConTeXt system on any of a number of platforms, executing either
 mark&nbsp;ii or mark&nbsp;iv ConTeXt.
 

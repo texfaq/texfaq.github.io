@@ -5,12 +5,12 @@ permalink: /FAQ-time
 date: 2014-06-10
 ---
 
-TeX has a primitive register that contains ''the number of minutes
-since midnight''; with this knowledge it's a moderately simple
+TeX has a primitive register that contains "the number of minutes
+since midnight"; with this knowledge it's a moderately simple
 programming job to print the time (one that no self-respecting
 Plain TeX user would bother with anyone else's code for).
 
-However, LaTeX provides no primitive for ''time'', so the
+However, LaTeX provides no primitive for "time", so the
 non-programming LaTeX user needs help.
 
 Two packages are available, both providing ranges of ways of printing

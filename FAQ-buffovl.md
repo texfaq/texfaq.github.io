@@ -17,14 +17,14 @@ When you overwhelm TeX's input mechanism, you get told:
 ! Unable to read an entire line---bufsize=3000.
     Please ask a wizard to enlarge me.
 ```
-(for some value of ''3000''&nbsp;&mdash; the quote was from a
+(for some value of "3000"&nbsp;&mdash; the quote was from a
 `comp.text.tex` posting by a someone who was presumably
 using an old TeX).
 
 As the message implies, there's (what TeX thinks of as a) line in
-your input that's ''too long'' (to TeX's way of thinking).  Since
+your input that's "too long" (to TeX's way of thinking).  Since
 modern distributions tend to have tens of thousands of bytes of input
-buffer, it's somewhat rare that these messages occur ''for real''.
+buffer, it's somewhat rare that these messages occur "for real".
 Probable culprits are:
   
 
@@ -45,12 +45,12 @@ enlarging), and to put the problem right in the source.
 
 If the real problem is over-long text lines, most self-respecting text
 editors will be pleased to automatically split long lines (while
-preserving the ''word'' structure) so that they are nowhere any longer
+preserving the "word" structure) so that they are nowhere any longer
 than a given length; so the solution is just to edit the file.
 
 If the problem is a ridiculous preview section, try using
 [`ghostscript`](https://www.ghostscript.com/)
-to reprocess the file, outputting a ''plain `eps`'' file.
+to reprocess the file, outputting a "plain `eps`" file.
 (`Ghostscript`s distribution
 includes a script `ps2epsi` which will regenerate the preview
 if necessary.)  Users of the shareware program 

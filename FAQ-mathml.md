@@ -6,7 +6,7 @@ date: 2018-05-25
 ---
 
 An earlier answer 
-([''converting to HTML''](FAQ-LaTeX2HTML))
+(["converting to HTML"](FAQ-LaTeX2HTML))
 addresses the issue of converting existing (La)TeX documents for
 viewing on the Web as HTML.
 
@@ -75,7 +75,7 @@ possibilities for good rendering of mathematics on the web.
   (even though it is not LaTeX&nbsp;&mdash; so far), comes with translators
   that make both PDF (via _pdflatex_) and
   XHTML+MathML.  Such an approach avoids the inherent
-  limitations of the ''traditional'' (La)TeX translation processes,
+  limitations of the "traditional" (La)TeX translation processes,
   which have traps that can be sprung by unfettered use of (La)TeX
   markup.
 - Graphics 

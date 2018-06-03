@@ -6,7 +6,7 @@ date: 2014-06-10
 ---
 
 Once you have a prepared Type&nbsp;1 font, either direct from CTAN
-or the like, or having [''prepared'' it yourself](FAQ-prept1font),
+or the like, or having ["prepared" it yourself](FAQ-prept1font),
 you can get on with installation.
 
 The procedure is merely an extension of that for packages, etc., so
@@ -60,7 +60,7 @@ much of what follows will be familiar:
     initexmf --mkmaps
     ```
       This, and other matters, are described in MiKTeX 
-      [''advanced'' documentation](http://docs.miktex.org/manual/advanced.html).
+      ["advanced" documentation](http://docs.miktex.org/manual/advanced.html).
 
 Both processes (preparing and installing a font) are very well (and
 thoroughly) described in Philipp Lehman's guide to font installation,

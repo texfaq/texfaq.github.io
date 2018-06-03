@@ -9,7 +9,7 @@ You want help from the community at large; you've decided where you're
 going to [ask your question](FAQ-gethelp), but how do you
 phrase it?
 
-Excellent ''general'' advice (how to ask questions of anyone) is
+Excellent "general" advice (how to ask questions of anyone) is
 contained in
 [Eric Raymond's article on the topic](http://catb.org/~esr/faqs/smart-questions.html).
 Eric's an extremely self-confident person, and this comes through in
@@ -37,22 +37,22 @@ application of your own common sense.
     German- and Ruritanian-speaking TeX expert notices your
     question.
 -  If your question is (or may be) TeX-system-specific, report
-    what system you're using, or intend to use: ''I can't install
-    TeX'' is as good as useless, whereas ''I'm trying to install the
+    what system you're using, or intend to use: "I can't install
+    TeX" is as good as useless, whereas "I'm trying to install the
     `mumbleTeX` distribution on the `Grobble`
-    operating system'' gives all the context a potential respondent
+    operating system" gives all the context a potential respondent
     might need.  Another common situation where this information is
     important is when you're having trouble installing something new in
-    your system: ''I want to add the `glugtheory` package to my
+    your system: "I want to add the `glugtheory` package to my
     `mumbleTeX v12.0` distribution on the `Grobble 2024`
-    operating system''.
+    operating system".
 -  If you need to know how to do something, make clear what your
-    environment is: ''I want to do _x_ in Plain TeX'', or ''I
+    environment is: "I want to do _x_ in Plain TeX", or "I
     want to do _y_ in LaTeX running the `boggle`
-    class''.  If you thought you knew how, but your attempts are
-    failing, tell us what you've tried: ''I've already tried installing
+    class".  If you thought you knew how, but your attempts are
+    failing, tell us what you've tried: "I've already tried installing
     the `elephant in the `minicar directory, and it
-    didn't work, even after refreshing the filename database''.
+    didn't work, even after refreshing the filename database".
 -  If something's going wrong within (La)TeX, pretend you're
     [submitting a LaTeX bug report](FAQ-latexbug),
     and try to generate a [minimum failing example](FAQ-minxampl).
@@ -62,7 +62,7 @@ application of your own common sense.
     resource can be obtained.
 -  Figures are special, of course.  Sometimes the figure itself is
     _really_ needed, but most problems may be demonstrated with a
-    ''figure substitute'' in the form of a
+    "figure substitute" in the form of a
     `\rule{width}{height}` command, for some value of
     &lsaquo;_width_&rsaquo; and &lsaquo;_height_&rsaquo;.  If the (real) figure is needed,
     don't try posting it: far better to put it on the web somewhere.

@@ -24,7 +24,7 @@ code does this:
 ```
 <!-- {% endraw %} -->
 The `\vtop` primitive sets the base-line of the resulting object to
-that of the first ''line'' in it; the `\vskip` creates the illusion
+that of the first "line" in it; the `\vskip` creates the illusion
 of an empty line, so `\vtop` makes the very top of the box into the
 base-line.
 

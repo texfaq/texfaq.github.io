@@ -30,18 +30,18 @@ than one `X` column in a table, the spare space is distributed
 between them.
 
 The [`tabulary`](https://ctan.org/pkg/tabulary) package (by the same author) provides a way of
-''balancing'' the space taken by the columns of a table.  The package
+"balancing" the space taken by the columns of a table.  The package
 defines column specifications `C`, `L`, `R` and
 `J`, giving, respectively, centerd, left, right and
 fully-justified versions of space-sharing columns.  The package
-examines how long each column would be ''naturally'' (i.e., on a piece of paper of unlimited width), and
+examines how long each column would be "naturally" (i.e., on a piece of paper of unlimited width), and
 allocates space to each column accordingly.  There are
-''sanity checks'' so that really large entries don't cause everything else to
-collapse into nothingness (there's a ''maximum width'' that any column
+"sanity checks" so that really large entries don't cause everything else to
+collapse into nothingness (there's a "maximum width" that any column
 can exert), and so that tiny entries can't get smaller than a
 specified minimum.  Of course, all this work means that the package
 has to typeset each row several times, so things that leave
-''side-effects'' (for example, a counter used to produce a row-number
+"side-effects" (for example, a counter used to produce a row-number
 somewhere) are inevitably unreliable, and should not even be tried.
 
 The [`ltxtable`](https://ctan.org/pkg/ltxtable) package combines the features of the

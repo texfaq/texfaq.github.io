@@ -17,10 +17,10 @@ onto a single page.
 
 The [`longtable`](https://ctan.org/pkg/longtable) package builds the whole table (in chunks), in
 a first pass, and then uses information it has written to the `aux`
-file during later passes to get the setting ''right'' (the package
+file during later passes to get the setting "right" (the package
 ordinarily manages to set tables in just two passes).  Since the
 package has overview of the whole table at the time it's doing
-''final'' setting, the table is set ''uniformly'' over its entire
+"final" setting, the table is set "uniformly" over its entire
 length, with columns matching on consecutive pages.
 [`longtable`](https://ctan.org/pkg/longtable) has a reputation for failing to interwork with
 other packages, but it does work with [`colortbl`](https://ctan.org/pkg/colortbl), and its
@@ -45,7 +45,7 @@ problem for you, it may be worth a try.
 
 The [`supertabular`](https://ctan.org/pkg/supertabular) package starts and stops a
 `tabular` environment for each page of the table.  As a
-result, each ''page worth'' of the table is compiled independently, and
+result, each "page worth" of the table is compiled independently, and
 the widths of corresponding columns may differ on successive pages.
 However, if the correspondence doesn't matter, or if your columns are
 fixed-width, [`supertabular`](https://ctan.org/pkg/supertabular) has the great advantage of doing
@@ -56,12 +56,12 @@ of head- and footlines for the table; [`longtable`](https://ctan.org/pkg/longtab
 distinction of the first and last head and foot.
 
 The [`xtab`](https://ctan.org/pkg/xtab) package fixes some infelicities of
-[`supertabular`](https://ctan.org/pkg/supertabular), and also provides a ''last head'' facility
+[`supertabular`](https://ctan.org/pkg/supertabular), and also provides a "last head" facility
 (though this, of course, destroys [`supertabular`](https://ctan.org/pkg/supertabular)'s advantage
 of operating in a single run).
 
-The [`stabular`](https://ctan.org/pkg/stabular) package provides a simple-to-use ''extension to
-`tabular`'' that allows it to typeset tables that run over
+The [`stabular`](https://ctan.org/pkg/stabular) package provides a simple-to-use "extension to
+`tabular`" that allows it to typeset tables that run over
 the end of a page; it also has usability extensions, but doesn't have
 the head- and footline capabilities of the major packages.
 

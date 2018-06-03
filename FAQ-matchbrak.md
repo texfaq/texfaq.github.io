@@ -27,17 +27,17 @@ straightforward-looking usages like:
 \section[All [OK] now]{All \emph{OK} now.}
 ```
 aren't OK at all&nbsp;&mdash; the optional argument comes to consist of
-''All [OK'', and `\section` takes the single character ''n'' (of
-the first ''now'') as its argument.
+"All [OK", and `\section` takes the single character "n" (of
+the first "now") as its argument.
 
 Fortunately, TeX's scanning mechanisms helps us by accepting the
-syntax `{]}` to ''hide'' the closing bracket from the
+syntax `{]}` to "hide" the closing bracket from the
 scanning mechanism that LaTeX uses.  In practice, the commonest way
 to use this facility is:
 ```latex
 \section[All {[OK]} now]{All \emph{OK} now.}
 ```
-since bracing the bracket on its own ''looks odd''.
+since bracing the bracket on its own "looks odd".
 
 LaTeX has another argument syntax, even less regular, where the
 argument is enclosed in parentheses, as in:

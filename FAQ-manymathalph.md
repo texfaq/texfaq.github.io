@@ -8,7 +8,7 @@ date: 2014-06-10
 TeX mathematics is one of its most impressive features, yet the
 internal structure of the mechanism that produces it is painfully
 complicated and (in some senses) pathetically limited.  One area of
-limitation is that one is only allowed 16&nbsp;''maths alphabets''
+limitation is that one is only allowed 16&nbsp;"maths alphabets"
 
 LaTeX offers the user quite a lot of flexibility with allocating
 maths alphabets, but few people use the flexibility directly.

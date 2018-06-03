@@ -6,7 +6,7 @@ permalink: /FAQ-interruptlist
 date: 2014-06-10
 ---
 
-It's often convenient to have commentary text, ''outside'' the list,
+It's often convenient to have commentary text, "outside" the list,
 between successive entries of a list.  In the case of
 `itemize` lists this is no problem, since there's never
 anything to distinguish successive items, while in the case of
@@ -36,9 +36,9 @@ restarting enumerate:
 
 This is reasonable, in small doses&hellip; Problems (apart from sheer
 verbosity) are getting the level right
-(''should I use counter `enumi`, `enumii`, &hellip;'') and remembering not to
+("should I use counter `enumi`, `enumii`, &hellip;") and remembering not to
 nest the interruptions (i.e., not to have a separate list, that is
-itself interrupted) in the ''commentary text'').
+itself interrupted) in the "commentary text").
 
 The [`mdwlist`](https://ctan.org/pkg/mdwlist) package defines commands `\suspend` and
 `\resume` that simplify the process:
@@ -58,7 +58,7 @@ nested suspensions.
 
 If you're suspending a [fancy-enumeration list](FAQ-enumerate),
 you need to 
-re-supply the optional ''item label layout'' parameters required by
+re-supply the optional "item label layout" parameters required by
 the [`enumerate`](https://ctan.org/pkg/enumerate) package when resuming the list, whether by the
 belt-and-braces approach, or by the [`mdwlist`](https://ctan.org/pkg/mdwlist)
 `\resume{enumerate}` technique.  The task is a little tedious
@@ -85,7 +85,7 @@ release, will also allow you to resume lists:
 ...
 \end{enumerate}
 ```
-which feels just as ''natural'' as the [`mdwtools`](https://ctan.org/pkg/mdwtools) facility,
+which feels just as "natural" as the [`mdwtools`](https://ctan.org/pkg/mdwtools) facility,
 and has the advantage of playing well with the other excellent
 facilities of [`enumitem`](https://ctan.org/pkg/enumitem).
 
@@ -127,7 +127,7 @@ of lists:
 % end outer enumerate
 \end{enumerate}
 ```
-However, the ''nested comment'' interpolated in the nested enumeration
-appears as if it were a second paragraph to ''outer item 2'', which is
+However, the "nested comment" interpolated in the nested enumeration
+appears as if it were a second paragraph to "outer item 2", which is
 hardly satisfactory.
 

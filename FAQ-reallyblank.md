@@ -28,7 +28,7 @@ advising the creation of a command `\clearemptydoublepage`:
 }
 ```
 <!-- {% endraw %} -->
-The ''obvious'' thing is then to use this command to replace
+The "obvious" thing is then to use this command to replace
 `\cleardoublepage` in a patched version of the `\chapter` command.
 (Make a package of your own containing a copy 
 of the command out of the class.)  This isn't particularly difficult,
@@ -57,9 +57,9 @@ The [`memoir`](https://ctan.org/pkg/memoir) class (and the [`nextpage`](https://
 provide commands `\cleartooddpage` and `\cleartoevenpage`,
 which both take an optional argument (the first, with no argument,
 being an equivalent of `\cleardoublepage`).  One can achieve
-''special'' effects by putting commands in the optional argument: the
+"special" effects by putting commands in the optional argument: the
 `\clearemptydoublepage` we're after would be achieved by
 `\cleartooddpage[\thispagestyle{empty}]`.  The
 commands will also serve if you want the surreal effect of
-''This page intentionally left blank'' in the center of an otherwise empty page.
+"This page intentionally left blank" in the center of an otherwise empty page.
 

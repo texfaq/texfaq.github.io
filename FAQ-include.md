@@ -14,7 +14,7 @@ Nevertheless, the facility is retained in current LaTeX, and causes
 some confusion to those who misunderstand it.
 
 In order for `\includeonly` to work, `\include` makes a separate
-`aux` file for each included file, and makes a ''checkpoint'' of
+`aux` file for each included file, and makes a "checkpoint" of
 important parameters (such as page, figure, table and footnote
 numbers).  As a direct result, it _must_ clear the current page
 both before and after the `\include` command.  (The requirement

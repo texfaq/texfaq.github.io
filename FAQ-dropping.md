@@ -9,7 +9,7 @@ A common style of typesetting, now seldom seen except in newspapers,
 is to start a paragraph (in books, usually the first of a chapter)
 with its first letter set large enough to span several lines.
 
-This style is known as ''dropped capitals'', or (in French)
+This style is known as "dropped capitals", or (in French)
 &laquo;lettrines&raquo;,
 and TeX's primitive facilities for hanging indentation make its
 (simple) implementation pretty straightforward.

@@ -9,8 +9,8 @@ The [`lm`](https://ctan.org/pkg/lm) fonts are an exciting addition to
 the armoury of the (La)TeX user: high quality outlines of fonts that
 were until recently difficult to obtain, all in a free and
 relatively compact package.  However, the spartan information file
-that comes with the fonts remarks ''It is presumed that a potential
-user knows what to do with all these files''.  This answer aims to
+that comes with the fonts remarks "It is presumed that a potential
+user knows what to do with all these files".  This answer aims to
 fill in the requirements: the job is really not terribly difficult.
 
 Note that teTeX distributions, from version&nbsp;3.0, already have the
@@ -41,9 +41,9 @@ previewers and Type&nbsp;1-to-PK conversion programs, by
     ```latex
     updmap --enable Map lm.map
     ```
--  On a MiKTeX system earlier than version&nbsp;2.2, the ''Refresh
-    filename database'' operation, which you performed after installing
-    files, also updates the system's ''PostScript resources database''.
+-  On a MiKTeX system earlier than version&nbsp;2.2, the "Refresh
+    filename database" operation, which you performed after installing
+    files, also updates the system's "PostScript resources database".
 -  On a MiKTeX system, version&nbsp;2.2 or later, update
     `updmap.cfg` as described in the MiKTeX 
     [online documentation](http://docs.miktex.org/manual/psfonts.html#chgupdmapcfg).
@@ -53,8 +53,8 @@ previewers and Type&nbsp;1-to-PK conversion programs, by
 To use the fonts in a LaTeX document, you should
   `\usepackage{lmodern}`
 this will make the fonts the default
-for all three LaTeX font families (''roman'', ''sans-serif'' and
-''typewriter'').  You also need 
+for all three LaTeX font families ("roman", "sans-serif" and
+"typewriter").  You also need 
   `\usepackage[T1]{fontenc}`
 for text, and 
   `\usepackage{textcomp}`

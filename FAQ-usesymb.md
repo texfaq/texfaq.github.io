@@ -10,7 +10,7 @@ every symbol in the font.  While this is convenient, it can lead to
 difficulties, particularly with name clashes when you load packages
 that cover fonts which duplicate symbols&nbsp;&mdash; an issue which is
 discussed in
-  ''[symbol already defined](FAQ-alreadydef)''.
+  "[symbol already defined](FAQ-alreadydef)".
 Some font sets (for example the related set: `FdSymbol`,
 `MdSymbol` and `MnSymbol`) are huge, and the
 accompanying macros cover so many symbols that name clashes are surely
@@ -24,8 +24,8 @@ documentation provides font tables).  The basic command is
 other fancier uses.  [`Pifont`](https://ctan.org/pkg/Pifont) also allows you to select other
 fonts, for similar use.
 
-The [`yagusylo`](https://ctan.org/pkg/yagusylo) describes itself as ''an extended version of
-[`pifont`](https://ctan.org/pkg/pifont), gone technicolor''.  It provides all the facilities
+The [`yagusylo`](https://ctan.org/pkg/yagusylo) describes itself as "an extended version of
+[`pifont`](https://ctan.org/pkg/pifont), gone technicolor".  It provides all the facilities
 of [`pifont`](https://ctan.org/pkg/pifont), but allows you to create your own mnemonic names
 for symbols.  Thus, while you can say 
 `\yagding[family]{symbol number}`[color], you can also

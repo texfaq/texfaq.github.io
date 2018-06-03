@@ -1,5 +1,5 @@
 ---
-title: ''Modern'' graphics file names
+title: "Modern" graphics file names
 category: graphics
 permalink: /FAQ-grffilenames
 date: 2014-06-10
@@ -25,7 +25,7 @@ the analogous usage
 ```latex
 \includegraphics{"gappy graphics.eps"}
 ```
-using ''ordinary'' LaTeX causes confusion in `xdvi` and
+using "ordinary" LaTeX causes confusion in `xdvi` and
 `dvips`, even though it works at compilation time.  Sadly,
 even within such quotes, multiple dots give `\includegraphics`
 difficulties.  Note that

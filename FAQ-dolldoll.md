@@ -30,15 +30,15 @@ alone, or using package [`amsmath`](https://ctan.org/pkg/amsmath).  Also, the `\
 extreme cases; that code is not provided `$$ ... $$`, so if
 you use the Plain TeX version, you may occasionally observe
 inconsistent vertical spacing.  Similar behaviour can bite if you are
-writing a _proof_; placing the ''QED symbol'' doesn't work
+writing a _proof_; placing the "QED symbol" doesn't work
 if it is in `$$`-displayed maths.
 
 There are more subtle effects (especially with package
-[`amsmath`](https://ctan.org/pkg/amsmath)), and the simple rule is ''use 
+[`amsmath`](https://ctan.org/pkg/amsmath)), and the simple rule is "use 
 `\[ ... \]` (at least) whenever displayed maths is
-needed in LaTeX''.
+needed in LaTeX".
 
 (Note that the sequence `\[ ... \]` is duplicated by
-the `displaymath` environment, which can be said to ''look
-nicer'', and actually _describes_ what's being done.)
+the `displaymath` environment, which can be said to "look
+nicer", and actually _describes_ what's being done.)
 

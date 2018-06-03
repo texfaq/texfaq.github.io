@@ -22,7 +22,7 @@ commands).  [`Pstricks`](https://ctan.org/pkg/Pstricks) may be dealt with by oth
 
 More amenable to correction, but more confusing, are packages (such as
 [`color`](https://ctan.org/pkg/color), [`graphics`](https://ctan.org/pkg/graphics) and [`hyperref`](https://ctan.org/pkg/hyperref)) that
-specify a ''driver''.  These packages have plug-in modules that
+specify a "driver".  These packages have plug-in modules that
 determine what `\special` (or other commands) are needed to generate
 any given effect: the `pdftex` driver for such packages knows not to
 generate `\special` commands.  In most circumstances, you can let

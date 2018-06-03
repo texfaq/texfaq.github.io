@@ -1,5 +1,5 @@
 ---
-title: No room for a new ''_thing_''
+title: No room for a new "_thing_"
 category: errors
 permalink: /FAQ-noroom
 redirect_from: /FAQ-usepictex
@@ -11,7 +11,7 @@ said to have been particularly poor at managing dynamic storage; as a
 result much of the storage used within TeX is allocated as fixed
 arrays, in the reference implementations.  Many of these fixed arrays
 are expandable in modern TeX implementations, but size of the
-arrays of ''registers'' is written into the specification as being 256
+arrays of "registers" is written into the specification as being 256
 (usually); this number may not be changed if you still wish to call
 the result TeX
 (see [testing TeX implementations](FAQ-triptrap)).
@@ -26,7 +26,7 @@ LaTeX's `\newcounter` command), `\skip` (the object underlying
 LaTeX's `\newlength` command), `\box` (the object underlying
 LaTeX's `\newsavebox` command), or `\dimen`, `\muskip`,
 `\toks`, `\read`, `\write` or `\language` (all types of object
-whose use is ''hidden'' in LaTeX.
+whose use is "hidden" in LaTeX.
 
 Originally the the limit on the number of these registers was 256
 or for `\read` or `\write` objects, just 16. Current LaTeX formats

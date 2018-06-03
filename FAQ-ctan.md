@@ -5,7 +5,7 @@ permalink: /FAQ-ctan
 date: 2014-06-10
 ---
 
-The acronym stands for ''Comprehensive TeX Archive Network'', which
+The acronym stands for "Comprehensive TeX Archive Network", which
 more-or-less specifies what it's _for_:
 
 -  The archives offer a comprehensive collection of TeX resources.
@@ -24,7 +24,7 @@ Actual implementation offers three distinct types of host:
 - _Mirrors_: Take regular copies of core archives, and serve them
   to users
 - _Selector_: A meta-service, which routes requests
-  to an apparently ''local'' mirror (''local'' is determined by an
+  to an apparently "local" mirror ("local" is determined by an
   algorithm that uses your net address to determine where you are, and
   then selects a mirror that's close)
 
@@ -47,7 +47,7 @@ team](mailto:ctan@dante.de).
 Users should ordinarily download material from CTAN via the
 [archive selector](http://mirror.ctan.org/): this uses the
 mirror monitor's database, and uses the caller's geographical location to
-offer an efficient choice of ''sufficiently up-to-date'' mirror site for
+offer an efficient choice of "sufficiently up-to-date" mirror site for
 you to connect to.  This procedure has the advantage of distributing
 the load on CTAN mirrors.
 

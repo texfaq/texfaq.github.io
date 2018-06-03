@@ -6,7 +6,7 @@ permalink: /FAQ-subverttoks
 date: 2014-06-10
 ---
 
-A common requirement is to ''subvert'' a token register that other
+A common requirement is to "subvert" a token register that other
 macros may use.  The requirement arises when you want to add something
 to a system token register (`\output` or `\every*`), but know
 that other macros use the token register, too.  (A common requirement
@@ -30,12 +30,12 @@ allows an independent package to play the exact same game:
 As you can see, the package (`mypkg`)
   
 
--  creates an alias for the existing ''system'' `\everypar`
+-  creates an alias for the existing "system" `\everypar`
     (which is frozen into any surrounding environment, which will carry
     on using the original);
 -  creates a token register to subvert `\everypar` and
     initialises it with the current contents of `\everypar`;
--  sets the ''old'' `\everypar` to execute its own extra code,
+-  sets the "old" `\everypar` to execute its own extra code,
     as well as the contents of its own token register;
 -  defines the macro for the extra code; and
 -  points the token `\everypar` at the new token register.

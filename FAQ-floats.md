@@ -11,21 +11,21 @@ away from where they were specified to appear.  This is in fact
 perfectly ordinary document design; any professional typesetting
 package will float figures and tables to where they'll fit without
 violating the certain typographic rules.  Even if you use the
-placement specifier&nbsp;`h` (for ''here''), the figure or table
+placement specifier&nbsp;`h` (for "here"), the figure or table
 will not be 
-printed ''here'' if doing so would break the rules; the rules themselves
+printed "here" if doing so would break the rules; the rules themselves
 are pretty simple, and are given on page&nbsp;198, section&nbsp;C.9 of the
 LaTeX manual.  In the worst case, LaTeX's rules can cause the
 floating items to pile up to the extent that you get an error message
-saying ''[Too many unprocessed floats](FAQ-tmupfl)''.
+saying "[Too many unprocessed floats](FAQ-tmupfl)".
 What follows is a simple checklist of things to do to solve these
 problems (the checklist talks throughout about figures, but applies
-equally well to tables, or to ''non-standard'' floats defined by the
+equally well to tables, or to "non-standard" floats defined by the
 [`float`](https://ctan.org/pkg/float) or other packages).
   
 
 -  Do your figures need to float at all?  If not, look at the
-    recommendations for ''[non-floating floats](FAQ-figurehere)''
+    recommendations for "[non-floating floats](FAQ-figurehere)"
 -  Are the placement parameters on your figures right?  The
     default (`tbp`) is usually satisfactory, but you can
     reasonably change it (for example, to add an `h`).
@@ -35,7 +35,7 @@ equally well to tables, or to ''non-standard'' floats defined by the
     _anywhere_.  (LaTeX does try to avoid being confused in
     this way&hellip;)
 -  LaTeX's own float placement parameters could be preventing
-    placements that seem entirely ''reasonable'' to you&nbsp;&mdash; they're
+    placements that seem entirely "reasonable" to you&nbsp;&mdash; they're
     notoriously rather conservative.  To encourage LaTeX not to move
     your figure, you may need to loosen its demands.  (The most important
     ones are the ratio of text to float on a given page, but it's
@@ -56,7 +56,7 @@ equally well to tables, or to ''non-standard'' floats defined by the
     The meanings of these
     parameters are described on pages&nbsp;199&ndash;200, section&nbsp;C.9 of the
     LaTeX manual.
--  Are there places in your document where you could ''naturally''
+-  Are there places in your document where you could "naturally"
     put a `\clearpage` command?  If so, do: the backlog of floats is
     cleared after a `\clearpage`.  (Note that the `\chapter`
     command in the standard [`book`](https://ctan.org/pkg/book) and [`report`](https://ctan.org/pkg/report) classes
@@ -86,7 +86,7 @@ equally well to tables, or to ''non-standard'' floats defined by the
   
 
     Caveat: if you are using [`etex`](https://ctan.org/pkg/etex-pkg) package to increase the number of
-    registers available on old releases, you need to ''reserve'' some inserts for
+    registers available on old releases, you need to "reserve" some inserts for
     [`morefloats`](https://ctan.org/pkg/morefloats): something like:
     ```latex
     \usepackage{etex}

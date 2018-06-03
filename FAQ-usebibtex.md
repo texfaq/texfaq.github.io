@@ -1,5 +1,5 @@
 ---
-title: ''Normal'' use of BibTeX from LaTeX
+title: "Normal" use of BibTeX from LaTeX
 category: bibliographies
 tags: citations
 permalink: /FAQ-usebibtex
@@ -11,10 +11,10 @@ sequence of steps, some of which seem a bit odd.  If you choose to use
 BibTeX, the sequence is:
 
 First: you need a BibTeX bibliography file (a `bib`
-file)&nbsp;&mdash; see [''creating a BibTeX file''](FAQ-buildbib).
+file)&nbsp;&mdash; see ["creating a BibTeX file"](FAQ-buildbib).
 
 Second: you must write your LaTeX document to include a declaration
-of the ''style'' of bibliography, citations, and a reference to the
+of the "style" of bibliography, citations, and a reference to the
 bibliography file mentioned above.  So we may have a LaTeX
 file containing:
 ```latex
@@ -41,7 +41,7 @@ writes a note of the style to the `aux` file; each
 `aux` file, and the `\bibliography` command writes a note
 of which `bib` file is to be used, to the `aux` file.
 
-Note that, at this stage, LaTeX isn't ''resolving'' any of the
+Note that, at this stage, LaTeX isn't "resolving" any of the
 citations: at every `\cite` command, LaTeX will warn you of the
 undefined citation, and when the document finishes, there will be a
 further warning of undefined references.
@@ -56,7 +56,7 @@ Don't try to tell BibTeX anything but the file name: say
 `myfile.aux.aux`.
 
 BibTeX will scan the `aux` file; it will find which bibliography
-style it needs to use, and will ''compile'' that style; it will note
+style it needs to use, and will "compile" that style; it will note
 the citations; it will find which bibliography files it needs, and
 will run through them matching citations to entries in the
 bibliography; and finally it will sort the entries that have been

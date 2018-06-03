@@ -49,7 +49,7 @@ compaction:
 -  its `compactenum` environment is the same sort of
     compact list as is provided in [`expdlist`](https://ctan.org/pkg/expdlist) and
     [`mdwlist`](https://ctan.org/pkg/mdwlist); and
--  its `inparaenum` environment produces a list ''in the paragraph'',
+-  its `inparaenum` environment produces a list "in the paragraph",
     i.e., with no line break between items, which is a
     great space-saver if the list item texts are short.
 
@@ -65,18 +65,18 @@ The [`multenum`](https://ctan.org/pkg/multenum) package offers a more regular fo
 [`paralist`](https://ctan.org/pkg/paralist)'s `inparaenum`; you define a notional
 grid on which list entries are to appear, and list items will always
 appear at positions on that grid.  The effect is somewhat like that of
-the ''tab'' keys on traditional typewriters; the package was designed
+the "tab" keys on traditional typewriters; the package was designed
 for example sheets, or lists of answers in the appendices of a book.
 
 The [`expdlist`](https://ctan.org/pkg/expdlist), [`mdwlist`](https://ctan.org/pkg/mdwlist) and [`paralist`](https://ctan.org/pkg/paralist)
 packages all offer other facilities for list configuration: you should
-probably not try the ''do-it-yourself'' approaches outlined below if
+probably not try the "do-it-yourself" approaches outlined below if
 you need one of the packages for some other list configuration
 purpose.
 
 For ultimate flexibility (including manipulation of `\topsep`), the
 [`enumitem`](https://ctan.org/pkg/enumitem) package permits adjustment of list parameters using
-a ''_key_=&lsaquo;_value_&rsaquo;'' format.
+a "_key_=&lsaquo;_value_&rsaquo;" format.
 For example, one might write
 ```latex
 \usepackage{enumitem}
@@ -97,7 +97,7 @@ to suppress all spacing above and below your list, or
 ```
 to set spacing between items and between paragraphs within items.
 [`Enumitem`](https://ctan.org/pkg/Enumitem) also permits manipulation of the label format in a
-more ''basic'' (and therefore more flexible) manner than the 
+more "basic" (and therefore more flexible) manner than the 
 [`enumerate` package](FAQ-enumerate) does.
 
 The ultimate in compaction (of every sort) is offered by the

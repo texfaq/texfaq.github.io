@@ -15,13 +15,13 @@ paper size as something the TeX engine needs to know about.  As a
 result, there is no DVI command to specify the paper on which
 the document should be printed, which has led a dichotomy where macros
 shape the text according to the needs of the author's chosen paper
-size, and device drivers'' choice happens independently of the macros''
+size, and device drivers" choice happens independently of the macros"
 ideas.
 
 In practice, one usually finds that macro packages (such as Plain TeX and
-LaTeX) assume American ''letter'' paper size, by default; and since
+LaTeX) assume American "letter" paper size, by default; and since
 most distributions nowadays originate in Europe, the drivers usually
-default to ISO ''A4'' paper size.
+default to ISO "A4" paper size.
 
 This is (of course) pretty unsatisfactory.  Users may select a
 different paper size for their document (current LaTeX offers a
@@ -33,7 +33,7 @@ paper size the document was designed for.
 The default paper size for DVI drivers may be changed by a
 distribution management command (`texconfig` for TeX&nbsp;Live,
 the `Options` application for MiKTeX), but this still
-doesn't provide for people using the ''wrong'' sort of paper for some
+doesn't provide for people using the "wrong" sort of paper for some
 reason.
 
 A different issue arises for users of pdfTeX&nbsp;&mdash; the
@@ -58,7 +58,7 @@ typeset page areas), also takes notice the size of the paper that the
 document is going to be printed on, and can issue the commands
 necessary to ensure the correct size of paper is used.  If
 [`geometry`](https://ctan.org/pkg/geometry) is used when a document is being processed by
-pdfLaTeX, it can set the necessary dimensions ''in the output''.
+pdfLaTeX, it can set the necessary dimensions "in the output".
 If the document is being processed by LaTeX on a TeX or &epsilon;-TeX
 engine, there are package options which instruct [`geometry`](https://ctan.org/pkg/geometry)
 which `\special` commands to use.  (Note that the options are
@@ -89,9 +89,9 @@ option:
 (permissible &lsaquo;_values_&rsaquo; are `pdftex`, `xetex`
 and `dvips`; the default value is `unknown`).
 
-Needless to say, both the ''big'' classes ([`koma-script`](https://ctan.org/pkg/koma-script) and
+Needless to say, both the "big" classes ([`koma-script`](https://ctan.org/pkg/koma-script) and
 [`memoir`](https://ctan.org/pkg/memoir)) provide their own ways to get the paper size
-''right''.
+"right".
 
 The [`typearea`](https://ctan.org/pkg/typearea) package is the [`Koma-script`](https://ctan.org/pkg/Koma-script)
 distribution's way of providing page layout functionality.  Load it

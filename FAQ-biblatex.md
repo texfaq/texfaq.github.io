@@ -38,7 +38,7 @@ particularly important in supporting citation styles in the humanities. The
 systems, meaning that all interfaces are consistent (and compatible).
 
 Extracting data from `.bib` files for use with `biblatex` _can_ be achieved
-using ''classical'' BibTeX: however, this is limited. The `biblatex` package
+using "classical" BibTeX: however, this is limited. The `biblatex` package
 is co-developed with the Biber program. This is a Unicode-aware system which
 can extract data from `.bib` files, sort according to a range of language
 criteria, and more. It is tied to `biblatex` (the output format is targeted

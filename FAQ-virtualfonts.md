@@ -7,7 +7,7 @@ date: 2014-06-10
 
 Virtual fonts provide a means of collecting bits and pieces together
 to make the glyphs of a font: the bits and pieces may be glyphs from
-''other'' fonts, rules and other ''basic'' typesetting commands, and
+"other" fonts, rules and other "basic" typesetting commands, and
 the positioning information that specifies how everything comes
 together.
 
@@ -28,19 +28,19 @@ each glyph is to be processed.
 The virtual font may contain commands:
   
 
--  to ''open'' one or more (real) fonts for subsequent use,
+-  to "open" one or more (real) fonts for subsequent use,
 -  to remap a glyph from one of the (real) fonts for use in the
     virtual font,
 -  to build up a more complicated effect (using DVI commands).
 
 In practice, the most common use of virtual fonts is to remap
 Adobe Type 1 fonts (see [font metrics](FAQ-metrics)),
-though there has also been useful useful work building ''fake'' maths
+though there has also been useful useful work building "fake" maths
 fonts (by bundling glyphs from several fonts into a single virtual
 font).  Virtual Computer Modern fonts, making a 
 [Cork encoded](FAQ-ECfonts) font from Knuth's originals by using
-remapping and fragments of DVI for single-glyph ''accented
-characters'', were the first ''Type&nbsp;1 format'' Cork-encoded Computer
+remapping and fragments of DVI for single-glyph "accented
+characters", were the first "Type&nbsp;1 format" Cork-encoded Computer
 Modern fonts available.
 
 Virtual fonts are normally created in a single ASCII VPL
@@ -48,7 +48,7 @@ Virtual fonts are normally created in a single ASCII VPL
 The `vptovf` utility will use the VPL file to create
 the binary TFM and VF files.
 
-A ''how-to'' document, explaining how to generate a VPL,
+A "how-to" document, explaining how to generate a VPL,
 describes the endless hours of fun that may be had, doing the job by
 hand.  Despite the pleasures to be had, the commonest way (nowadays)
 of generating an VPL file is to use the 

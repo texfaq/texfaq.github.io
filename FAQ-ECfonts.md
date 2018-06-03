@@ -18,7 +18,7 @@ particular glyph.
 When TeX version 3 arrived, most of the drivers for the
 eccentricity of Knuth's encodings went away, and at TUG's Cork
 meeting, an encoding for a set of 256 glyphs, for use in TeX text,
-was defined.  The intention was that these glyphs should cover ''most''
+was defined.  The intention was that these glyphs should cover "most"
 European languages that use Latin alphabets, in the sense of including
 all accented letters needed.  (Knuth's CMR fonts missed things
 necessary for Icelandic and Polish, for example, which the Cork fonts
@@ -30,7 +30,7 @@ of accents and hyphenation
 
 The first MetaFont-fonts to conform to the Cork encoding were the EC
 fonts. They look CM-like, though their metrics differ from CM-font
-metrics in several areas.  They have long been regarded as ''stable'' (in
+metrics in several areas.  They have long been regarded as "stable" (in
 the same sense that the CM fonts are stable: their metrics are
 unlikely ever to change).  Each EC font is, of course, roughly twice the
 size of the corresponding CM font, and there are far more of them than
@@ -43,19 +43,19 @@ the LGC fonts, and the Latin Modern series (rather directly generated
 from Metafont sources), are available.
 
 Note that the Cork encoding doesn't cover mathematics (so that no
-''T1-encoded'' font families can not support it).  If you're using
+"T1-encoded" font families can not support it).  If you're using
 Computer-Modern-alike fonts, this doesn't actually matter: your system
 will have the original Computer Modern mathematical fonts (or the
-those distributed with the Latin Modern set), which cover ''basic'' TeX
+those distributed with the Latin Modern set), which cover "basic" TeX
 mathematics; more advanced mathematics are likely to need separate
 fonts anyway.  Suitable mathematics fonts for use with other font
 families are discussed in 
-''[choice of scalable fonts](FAQ-psfchoice)''.
+"[choice of scalable fonts](FAQ-psfchoice)".
 
-The EC fonts are distributed with a set of ''Text Companion'' (TC) fonts
+The EC fonts are distributed with a set of "Text Companion" (TC) fonts
 that provide glyphs for symbols commonly used in text. The TC fonts
 are encoded according to the LaTeX TS1 encoding, and are not
-necessarily as ''stable'' are the EC fonts are.  Note that modern
+necessarily as "stable" are the EC fonts are.  Note that modern
 distributions tend not to distribute the EC fonts in outline format, but
 rather to provide Latin Modern for T1-encoded Computer Modern-style
 fonts.  This can sometimes cause confusion when users are recompiling

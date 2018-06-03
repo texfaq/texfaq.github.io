@@ -16,7 +16,7 @@ Peter Wilson's experience of running both MetaFont and MetaPost (the
 programs), _Some Experiences in Running MetaFont and MetaPost_
 (available on CTAN) offers the benefit of Peter's experience (he
 has designed a 
-number of ''historical'' fonts using MetaFont).  For MetaFont the article is
+number of "historical" fonts using MetaFont).  For MetaFont the article is
 geared towards testing and installing new MetaFont fonts, while its MetaPost
 section describes how to use MetaPost illustrations in LaTeX and
 pdfLaTeX documents, with an emphasis on how to use appropriate
@@ -25,7 +25,7 @@ fonts for any text or mathematics.
 Hans Hagen (of ConTeXt fame) offers a MetaPost tutorial called
 MetaFun (which admittedly concentrates on the use of MetaPost within
 ConTeXt).  It may be found on his company's 
-[''manuals'' page](http://www.pragma-ade.com/general/manuals/metafun-p.pdf).
+["manuals" page](http://www.pragma-ade.com/general/manuals/metafun-p.pdf).
 
 Another MetaPost tutorial in English is: 
 <http://www.tlhiv.org/MetaPost/tutorial/> by Urs Oswald.
@@ -49,7 +49,7 @@ Vincent Zoonekynd's massive set of example MetaPost files is available on
 CTAN; the set includes a `Perl` script to convert the
 set to html, and the set may be 
 [viewed on the web](http://zoonek.free.fr/LaTeX/Metapost/metapost.html).
-While these examples don't exactly constitute a ''tutorial'', they're
+While these examples don't exactly constitute a "tutorial", they're
 most certainly valuable learning material.  Urs Oswald presents a
 [similar document](http://www.ursoswald.ch/metapost/tutorial.pdf),
 written more as a document, and presented in PDF.

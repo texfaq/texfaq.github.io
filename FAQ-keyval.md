@@ -51,7 +51,7 @@ optional arguments of the `\includegraphics` command of the
 [`keyval`](https://ctan.org/pkg/keyval) was designed to do.)
 
 However, we need more if we're to to have package options in
-''key-value'' form.  Packages like [`hyperref`](https://ctan.org/pkg/hyperref) have enormously
+"key-value" form.  Packages like [`hyperref`](https://ctan.org/pkg/hyperref) have enormously
 complicated package options which need key-value processing at
 `\ProcessOptions` time: [`keyval`](https://ctan.org/pkg/keyval) can't do that on its own.
 
@@ -62,7 +62,7 @@ operate as key and value pairs.  The package defines commands
 _true_ or _false_, and `\DeclareStringOption` for all
 other options that have a value.  Keys are declared using
 [`keyval`](https://ctan.org/pkg/keyval) and may remain available for use within the document,
-or may be ''cancelled'' to avoid confusion.  If you have loaded
+or may be "cancelled" to avoid confusion.  If you have loaded
 [`kvoptions`](https://ctan.org/pkg/kvoptions), the LaTeX kernel's `\DeclareOption` becomes
 `\DeclareVoidOption` (it's an option with no value), and
 `\DeclareOption*` becomes `\DeclareDefaultOption`.
@@ -81,7 +81,7 @@ called [`pst-xkey`](https://ctan.org/pkg/pst-xkey) for their own key-value manip
 The (widely-respected) [`pgf`](https://ctan.org/pkg/pgf) graphics package has its own
 key-value package called [`pgfkeys`](https://ctan.org/pkg/pgfkeys).  The documentation of the
 package (part of the huge [`pgf`](https://ctan.org/pkg/pgf) manual, in part 5,
-''utilities'') contains a useful comparison with other key-value
+"utilities") contains a useful comparison with other key-value
 systems; some notable differences are:
   
 
@@ -106,17 +106,17 @@ added automatically.  So a `\pgfkeys` command might be:
 and for each key mentioned, the associated code will be executed.
 &hellip; and that code is also set up using `\pgfkeys`:
 ```latex
-\pgfkeys{/my key/.code=The value is ''#1''.}
+\pgfkeys{/my key/.code=The value is "#1".}
 ```
 after which
 ```latex
 \pgfkeys{/my key=hi!}
 ```
 will produce just
-  The value is ''hi!''.
+  The value is "hi!".
 The manual goes on, showing how to define a key with two arguments,
 how to provide default value for a key, and how to define aliases for
-particular key sequences (which are called ''styles'').  All in all,
+particular key sequences (which are called "styles").  All in all,
 it seems a well thought-out system, offering a lot of flexibility that
 isn't available with the other keys packages.  However, there seems to
 be no mechanism for using [`pgfkeys`](https://ctan.org/pkg/pgfkeys) keys as part of the
@@ -130,7 +130,7 @@ for defining and setting keys.  The package [`l3keys2e`](https://ctan.org/pkg/l3
 it possible for LaTeX2e class and package
 options to be processed using [`l3keys`](https://ctan.org/pkg/l3kernel). [`L3kernel`](https://ctan.org/pkg/l3kernel)
 code can be used within existing LaTeX2e documents, so
-[`l3keys`](https://ctan.org/pkg/l3kernel) is also available to the LaTeX2e programmer ''direct''.
+[`l3keys`](https://ctan.org/pkg/l3kernel) is also available to the LaTeX2e programmer "direct".
 
 Another key-value system that's part of larger set of macros is
 [`scrbase`](https://ctan.org/pkg/scrbase), which uses the facilities of [`keyval`](https://ctan.org/pkg/keyval) to
@@ -140,14 +140,14 @@ difficulties from the German-only documentation; however, from a
 partial translation available to the author of this answer, a summary
 is possible.  The package may build on the facilities either of
 [`keyval`](https://ctan.org/pkg/keyval) or of [`xkeyval`](https://ctan.org/pkg/xkeyval), and builds its functionality
-on the structure of the ''key family''.  The user may define family
-''members'' and keys are defined relative to the members.  (For example,
+on the structure of the "key family".  The user may define family
+"members" and keys are defined relative to the members.  (For example,
 the package [`scrbase`](https://ctan.org/pkg/scrbase) is part of the [`KOMA-script`](https://ctan.org/pkg/koma-script)
 bundle; so its keys are all members of the [`scrbase.sty`](https://ctan.org/pkg/scrbase)
 family within the [`KOMA`](https://ctan.org/pkg/koma-script) family.  The function
 `\FamilyProcessOptions` allows the programmer to decode the options
 of the package in terms of the package's key family.  Note that there
-is no special provision made for ''traditional'' package options, as
+is no special provision made for "traditional" package options, as
 in the [`kvoptions`](https://ctan.org/pkg/kvoptions) package.
 
 This brief summary was guided by input from two sources: a draft article

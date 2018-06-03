@@ -9,7 +9,7 @@ date: 2014-06-10
 The `twocolumn` option of the standard classes causes
 LaTeX to set the text of a document in two columns.  However, the last
 page of the document typically ends up with columns of different
-lengths&nbsp;&mdash; such columns are said to be ''unbalanced''.  Many (most?)
+lengths&nbsp;&mdash; such columns are said to be "unbalanced".  Many (most?)
 people don't like unbalanced columns.
 
 The simplest solution to the problem is to use the [`multicol`](https://ctan.org/pkg/multicol)

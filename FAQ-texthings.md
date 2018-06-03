@@ -1,11 +1,11 @@
 ---
-title: Things with ''TeX'' in the name
+title: Things with "TeX" in the name
 category: background
 permalink: /FAQ-texthings
 date: 2018-05-26
 ---
 
-New TeX users are often baffled by the myriad terms with ''TeX''
+New TeX users are often baffled by the myriad terms with "TeX"
 in the name.  The goal of this answer is to clarify some of the more
 common such terms.
 
@@ -33,7 +33,7 @@ larger size, and tell TeX to use that new font until instructed
 otherwise.  Fortunately, because TeX is programmable, it is
 possible to write a macro that hides this complexity behind a simple,
 new control sequence.  (For example, it is possible to define
-`\larger{my text}` to typeset ''my text'' in
+`\larger{my text}` to typeset "my text" in
 at a font size next larger than the current one.)
 
 While some users write their own, perfectly customized set of
@@ -105,7 +105,7 @@ the TeX engine with some additional useful features:
 
   - XeTeX (executable: `xetex`)
   XeTeX reads UTF-8 encoded Unicode input, and extends
-  TeX's font support to include ''modern'' formats such as
+  TeX's font support to include "modern" formats such as
   OpenType; these extensions to its capabilities make it
   well-suited to multi-lingual texts covering different writing
   systems.  See [What are XeTeX and LuaTeX?](FAQ-xetex-luatex).
@@ -113,7 +113,7 @@ the TeX engine with some additional useful features:
   - LuaTeX (executable: `luatex`)
   TeX is programmed in its own arcane, integrated, macro-based
   programming language.  LuaTeX adds a second programming engine
-  using a modern scripting language, Lua, which is ''embedded'' in a
+  using a modern scripting language, Lua, which is "embedded" in a
   TeX-alike engine; it too reads UTF-8 and uses
   OpenType fonts.  See 
   [What are XeTeX and LuaTeX?](FAQ-xetex-luatex).
@@ -135,7 +135,7 @@ the TeX engine with some additional useful features:
 
 Because each of the above derive from a base TeX engine, it is in
 principle possible to combine any of them with one of the TeX macro
-packages listed earlier to produce ''extended'' executables.  For
+packages listed earlier to produce "extended" executables.  For
 example, the `pdflatex`, `xelatex` and
 `lualatex` executables each combine LaTeX with an enhanced
 TeX engine.  Indeed, all development of
@@ -148,11 +148,11 @@ This executable may be offered with a LaTeX format (as
 `latex` or `pdflatex`) or with a Plain TeX format
 (as `pdftex`).  (`tex` remains with an unadorned
 TeX executable using Plain TeX, for people such as Knuth himself,
-who want the certainty of the ''original''.)
+who want the certainty of the "original".)
 
 A _TeX distribution_ provides a structured collection of
 TeX-related software.  Generally, a TeX distribution includes a
-set of ''core'' TeX executables such as `tex` and
+set of "core" TeX executables such as `tex` and
 `latex`; various fonts optimized for use with TeX; helper
 programs such as the BibTeX bibliographic-database formatter,
 editors, integrated development environments, file-format-conversion
@@ -177,9 +177,9 @@ What does it all mean?&nbsp;&mdash; the simple lists of objects, alone, offer
 no help for the beginner.  The FAQ team expects this answer
 only to be of use for people who are seeking guidance elsewhere
 (possibly within these FAQs) and coming across an unexpected
-name like ''blahTeX''.
+name like "blahTeX".
 
 The subject matter covered by this answer is also addressed in a page
 on the TUG site, 
-''[the Levels of TeX](https://tug.org/levels.html)''.
+"[the Levels of TeX](https://tug.org/levels.html)".
 

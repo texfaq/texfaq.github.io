@@ -15,7 +15,7 @@ argument:
 ```
 Another way is to use the `alltt` environment, which
 requires the [`alltt`](https://ctan.org/pkg/alltt) package.  The environment interprets its
-contents ''mostly'' verbatim, but executes any (La)TeX commands it
+contents "mostly" verbatim, but executes any (La)TeX commands it
 finds:
 ```latex
 \usepackage{alltt}

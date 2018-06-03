@@ -7,7 +7,7 @@ date: 2014-06-10
 ---
 
 (La)TeX mechanisms for maintaining the space between lines (the
-''_leading_'') rely on TeX's paragraph builder, which compares
+"_leading_") rely on TeX's paragraph builder, which compares
 the shape of consecutive lines and adjusts the space between them.
 
 These mechanisms can't work in exactly the same way when (La)TeX is
@@ -16,7 +16,7 @@ lines themselves.  As a result, tables sometimes typeset with lines
 uncomfortably close together (or occasionally ridiculously far apart).
 
 Traditional (moving metal type) typographers would adjust the spacing
-between lines of a table by use of a ''_strut_'' (a metal
+between lines of a table by use of a "_strut_" (a metal
 spacer).  A TeX user can do exactly the same thing: most macro
 packages define a `\strut` command, that defines a space appropriate
 to the current size of the text; placing a `\strut` command at the
@@ -69,7 +69,7 @@ issued `\setcellgapes`, the command `\makegapedcells` switches
 cell expansion on, and `\nomakegapedcells` switches it off again.
 
 The [`cellspace`](https://ctan.org/pkg/cellspace) package does a (possibly inferior) job by
-defining a new table/array column type ''S'', which you apply to each
+defining a new table/array column type "S", which you apply to each
 column specification.  So, for example,
 `\begin{tabular}{l l l p{3cm}}`
 would become

@@ -7,11 +7,11 @@ date: 2014-06-10
 ---
 
 The final product of a (La)TeX run is something for a person to
-read.  Often, nowadays, that product will be read ''on-screen'', but
+read.  Often, nowadays, that product will be read "on-screen", but
 the printed page remains a principal output form.
 
 When we come to print our output, it is important that the output fits
-on the paper; in some cases, for the output to ''fit'' is good enough.
+on the paper; in some cases, for the output to "fit" is good enough.
 However, there are circumstances where the actual size of the printed
 output, on the page, is crucial to the acceptance of the output.
 (This might happen when the output is a book to be published, or when

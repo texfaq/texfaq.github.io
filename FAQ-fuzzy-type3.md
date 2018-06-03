@@ -6,7 +6,7 @@ date: 2014-06-10
 ---
 
 This is far the commonest problem: the symptom is that text in the
-document looks ''fuzzy''.
+document looks "fuzzy".
 
 Most people use _Adobe Acrobat Reader_
 to view their PDF: `Reader` is distributed free of
@@ -25,7 +25,7 @@ pdfTeX will use `pk` files if it can see no alternative for
 a font in the document it is processing.
 
 Our remedy is to use
-''[Adobe Type&nbsp;1](FAQ-adobetypen)''
+"[Adobe Type&nbsp;1](FAQ-adobetypen)"
 versions of the fonts we need.  Since Adobe are in the
 business of selling Type&nbsp;1 fonts, `Reader` was of course made
 to deal with them really rather well, from the very beginning.

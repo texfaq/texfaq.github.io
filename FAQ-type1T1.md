@@ -1,5 +1,5 @@
 ---
-title: Finding ''8-bit'' Type&nbsp;1 fonts
+title: Finding "8-bit" Type&nbsp;1 fonts
 category: usage
 permalink: /FAQ-type1T1
 redirect_from: /FAQ-type1t1
@@ -7,16 +7,16 @@ date: 2014-06-10
 ---
 
 Elsewhere, answers to these FAQs recommend that you use an
-''8-bit'' font to permit 
+"8-bit" font to permit 
 [accentuation of inflected languages](FAQ-hyphenaccents),
 and also recommend the use of Type&nbsp;1 fonts to ensure that
 you get [good quality PDF](FAQ-fuzzy-type3).  These
 recommendations used to be contradictory: one could not just
-''switch'' from the free CM fonts to free Cork- (or similarly)
+"switch" from the free CM fonts to free Cork- (or similarly)
 encoded Type&nbsp;1 fonts.  The first approach that started to alleviate
 these problems, was the development of virtual fonts that make
 a good approach to the Cork encoding (see below).  Now, however, we
-have ''true'' Type&nbsp;1 fonts available: as always, we have an
+have "true" Type&nbsp;1 fonts available: as always, we have an
 embarrassment of riches with three free alternatives, and one
 commercial and one shareware version.
 
@@ -28,7 +28,7 @@ pretty easy to install (the installation instructions are clear), but
 they are huge: don't try to install them if you're short of disc
 space.
 
-[`CM-LGC`](https://ctan.org/pkg/CM-LGC) is a similar ''super-font'' set, but of much more
+[`CM-LGC`](https://ctan.org/pkg/CM-LGC) is a similar "super-font" set, but of much more
 modest size; it covers T1, TS1 and T2A
 encodings (as does [`CM-super`](https://ctan.org/pkg/CM-super), and also covers the LGR
 encoding (for typesetting Greek, based on Claudio Beccari's MetaFont
@@ -60,8 +60,8 @@ Knuth's range of sizes has stood the test of time, and is one of the
 bases on which the excellence of the TeX system rests.
 
 [Virtual fonts](FAQ-virtualfonts) help us deal with the problem,
-since they allow us to map ''bits of DVI file'' to single
-characters in the virtual font; so we can create an ''é'' character
+since they allow us to map "bits of DVI file" to single
+characters in the virtual font; so we can create an "é" character
 by recreating the DVI commands that would result from the code
 `\e`.  However, since this involves two characters being
 selected from a font, the arrangement is sufficient to fool
@@ -69,12 +69,12 @@ selected from a font, the arrangement is sufficient to fool
 facilities for searching for text that contains inflected characters,
 and if you _cut_ text from a window that contains such a
 character, you'll find something unexpected (typically the accent and
-the ''base'' characters separated by a space) when you `paste`
+the "base" characters separated by a space) when you `paste`
 the result.  However, if you can live with this difficulty, virtual
 fonts are a useful and straightforward solution to the problem.
 
 There are two virtual-font offerings of CM-based 8-bit
-fonts&nbsp;&mdash; the [`ae`](https://ctan.org/pkg/ae) (''almost EC'') and
+fonts&nbsp;&mdash; the [`ae`](https://ctan.org/pkg/ae) ("almost EC") and
 [`zefonts`](https://ctan.org/pkg/zefonts) sets; the [`zefonts`](https://ctan.org/pkg/zefonts) set has wider coverage
 (though the [`ae`](https://ctan.org/pkg/ae) set may be extended to offer guillemets by
 use of the [`aeguill`](https://ctan.org/pkg/aeguill) package).  Neither offers characters such
@@ -87,7 +87,7 @@ The sole remaining commercial CM-like 8-bit font comes from
 Micropress, who offer the complete EC set
 in Type&nbsp;1 format, as part of their range of outline versions of fonts
 that were originally distributed in MetaFont format.  See
-[''commercial distributions''](FAQ-commercial).
+["commercial distributions"](FAQ-commercial).
 
 The shareware 
 [BaKoMa TeX distribution](FAQ-TeXsystems) offers a
@@ -102,6 +102,6 @@ or metrics for some other 8-bit encoding such as LY1).  However,
 if you use someone else's text font (even something as simple as
 Adobe's Times family) you have to find a matching family of
 mathematical fonts, which is a non-trivial undertaking&nbsp;&mdash;
-see [''choice of scalable fonts''](FAQ-psfchoice).
+see ["choice of scalable fonts"](FAQ-psfchoice).
   very large download)
 

@@ -6,7 +6,7 @@ redirect_from: /FAQ-notwysiwyg
 date: 2018-05-27
 ---
 
-WYSIWYG is a marketing term (''What you see is what you get'') for
+WYSIWYG is a marketing term ("What you see is what you get") for
 a particular style of text processor.  WYSIWYG systems are
 characterised by two principal claims: that you type what you want to
 print, and that what you see on the screen as you type is a close
@@ -23,12 +23,12 @@ mission to create a typesetting system that he could use when
 preparing his books for publication.)
 
 However, all that was a long time ago: why has nothing been done with
-the ''wonder text processor'' to make it fit with modern perceptions?
+the "wonder text processor" to make it fit with modern perceptions?
 
-There are two answers to this.  First, the simple ''things _have_
-been done'' (but they've not taken over the TeX world); and second,
-''there are philosophical reasons why the way TeX has developed is
-ill-suited to the WYSIWYG style''.
+There are two answers to this.  First, the simple "things _have_
+been done" (but they've not taken over the TeX world); and second,
+"there are philosophical reasons why the way TeX has developed is
+ill-suited to the WYSIWYG style".
 
 Indeed, there is a fundamental problem with applying WYSIWYG
 techniques to TeX: the complexity of TeX makes it hard to get
@@ -37,11 +37,11 @@ the whole of the document being prepared.
 
 All the same, it's clear that the TeX world has taken a long time
 to latch onto the idea of WYSIWYG.
-Apart from simple arrogance (''we're better, and have no need to
-consider the petty doings of the commercial word processor market''),
+Apart from simple arrogance ("we're better, and have no need to
+consider the petty doings of the commercial word processor market"),
 there is a real conceptual difference between the word processor model
 of the world and the model LaTeX and ConTeXt employ&nbsp;&mdash; the idea of
-''markup''.  ''Pure'' markup expresses a logical model of a document,
+"markup".  "Pure" markup expresses a logical model of a document,
 where every object within the document is labelled according to what
 it is rather than how it should appear: appearance is deduced from the
 properties of the type of object.  Properly applied, markup can
@@ -59,17 +59,17 @@ preparation support schemes, so we are
 observing a degree of confluence of the needs of the two communities:
 interesting times may be ahead of us.
 
-A celebrated early system offering ''WYSIWYG using TeX'' came
+A celebrated early system offering "WYSIWYG using TeX" came
 from the VorTeX project: a pair of Sun workstations worked in
 tandem, one handling the user interface while the other beavered away
 in the background typesetting the result.  VorTeX was quite
 impressive for its time, but the two workstations combined had hugely
 less power than the average laptop
 nowadays, and its code has not proved portable (it never even made the
-last ''great'' TeX version change, at the turn of the 1990s, to
+last "great" TeX version change, at the turn of the 1990s, to
 TeX version 3).
 
-Today, [LyX](https://lyx.org) offers a ''What you see is what you mean''
+Today, [LyX](https://lyx.org) offers a "What you see is what you mean"
 interface, using LaTeX for typesetting but it's own file format for documents
 themselves. The commercial system [Scientific
 Word](https://www.mackichan.com/products/sw.html) (which can also interact with

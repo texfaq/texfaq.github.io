@@ -15,13 +15,13 @@ or `Acrobat`s `Distiller`).
 applications.  They permit the inclusion of bitmap and PDF
 graphics (as does [pdfTeX](FAQ-pdftexgraphics)), but are also
 capable of employing
-[`ghostscript`](https://www.ghostscript.com/) ''on the
-fly'' to permit the inclusion of encapsulated PostScript (`eps`)
+[`ghostscript`](https://www.ghostscript.com/) "on the
+fly" to permit the inclusion of encapsulated PostScript (`eps`)
 files by translating them to PDF.  In this way, they combine the good
 qualities of `dvips` and of pdfTeX as a means of
 processing illustrated documents.
 
-Unfortunately, ''ordinary'' LaTeX can't deduce the bounding box of
+Unfortunately, "ordinary" LaTeX can't deduce the bounding box of
 a binary bitmap file (such as JPEG or PNG), so you have
 to specify the bounding box.  This may be done explicitly, in the
 document:
@@ -57,6 +57,6 @@ The one place where usage isn't quite so simple is the need to quote
 `dvipdfm` explicitly, as an option when loading the
 [`graphicx`](https://ctan.org/pkg/graphicx) package: if you are using `dvips`, you
 don't ordinarily need to specify the fact, since the default graphics
-configuration file (of most distributions) ''guesses'' the
+configuration file (of most distributions) "guesses" the
 `dvips` option if you're using TeX.
 

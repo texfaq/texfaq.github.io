@@ -44,7 +44,7 @@ However
 \usepackage[b]{foo}
 ```
 produces the error; even if option `b` is an alias for
-option `a`&nbsp;&mdash; LaTeX doesn't ''look inside'' the package
+option `a`&nbsp;&mdash; LaTeX doesn't "look inside" the package
 to check anything like that.
 
 The general rule is: the first load of a package defines a set of
@@ -87,7 +87,7 @@ the problem could arise from something else loading the package for
 you.  How do you find the culprit?  The "`h`" response to the
 error message tells you which options were loaded each time.
 Otherwise, it's down to the log analysis games discussed in 
-''[How to approach errors](FAQ-erroradvice)''; the trick to remember
+"[How to approach errors](FAQ-erroradvice)"; the trick to remember
 is that that the process of loading each file is parenthesised in the
 log; so if package `foo` loads [`graphics`](https://ctan.org/pkg/graphics), the log
 will contain something like:

@@ -5,7 +5,7 @@ permalink: /FAQ-man-latex
 date: 2014-06-10
 ---
 
-A pleasing little document, ''Getting something out of LaTeX'' is
+A pleasing little document, "Getting something out of LaTeX" is
 designed to give a feel of LaTeX to someone who's never used it at
 all.  It's not a tutorial, merely helps the user to decide whether to
 go on to a tutorial, and thence to 'real' use of LaTeX.
@@ -15,7 +15,7 @@ regularly updated, as people suggest better ways of explaining things,
 etc.  The introduction is available on CTAN, together with
 translations into a rather large set of languages.
 
-Peter Flynn's ''Beginner's LaTeX'' (which started life as course
+Peter Flynn's "Beginner's LaTeX" (which started life as course
 material) is a pleasing read.  A complete copy may be found on
 CTAN, but it may also be [browsed over the web](http://mirrors.ctan.org/info/beginlatex/html/).
 
@@ -23,11 +23,11 @@ Harvey Greenberg's 'Simplified Introduction to LaTeX' was written
 for a lecture course, and is also available on CTAN (in PostScript
 only, unfortunately).
 
-The fourth edition of George Grätzer's book ''Math into LaTeX''
-contains a ''short course'' in LaTeX itself, and that course has
+The fourth edition of George Grätzer's book "Math into LaTeX"
+contains a "short course" in LaTeX itself, and that course has
 been made publicly available on CTAN.
 
-Philip Hirschhorn's ''Getting up and running with AMSLaTeX'' has a
+Philip Hirschhorn's "Getting up and running with AMSLaTeX" has a
 brief introduction to LaTeX itself, followed by a substantial
 introduction to the use of the AMS classes and the
 [`amsmath`](https://ctan.org/pkg/amsmath) package and other things that are potentially of
@@ -51,7 +51,7 @@ of the other offerings).
 Nicola Talbot's 
 [LaTeX for complete novices](https://www.dickimaw-books.com/latex/novices/)
 does what it claims: the author teaches LaTeX at the University of
-East Anglia.  The ''Novices'' tutorial is one of several 
+East Anglia.  The "Novices" tutorial is one of several 
 [introductory tutorials](https://www.dickimaw-books.com/latex/),
 which include exercises (with solutions).  Other tutorials include
 those for 
@@ -67,7 +67,7 @@ Mark van Dongen's
 appeared as he was writing his book on the subject.
 
 An interesting (and practical) tutorial about what _not_ to do is
-[`l2tabu`](https://ctan.org/pkg/l2tabu), or ''A list of sins of LaTeX 2e users'' by Mark
+[`l2tabu`](https://ctan.org/pkg/l2tabu), or "A list of sins of LaTeX 2e users" by Mark
 Trettin, translated into English by Jürgen Fenn.  The
 tutorial is available from CTAN as a PDF file (though
 the source is also available).

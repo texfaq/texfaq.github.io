@@ -6,8 +6,8 @@ date: 2014-06-10
 ---
 
 The LaTeX verbatim commands work by changing category codes.  Knuth
-says of this sort of thing ''Some care is needed to get the timing
-right&hellip;'', since once the category code has been assigned to a
+says of this sort of thing "Some care is needed to get the timing
+right&hellip;", since once the category code has been assigned to a
 character, it doesn't change.  So `\verb` and
 `\begin{verbatim}` have to assume that they are getting the
 first look at the parameter text; if they aren't, TeX has already
@@ -27,8 +27,8 @@ which simply regurgitates its argument, and use it as:
 ```
 the combinartion will not (it will attempt to execute `\error`).
 Other errors one
-may encounter are ''`\verb` ended by end of line'', or even the
-rather more helpful ''`\verb` illegal in command argument''.  The
+may encounter are "`\verb` ended by end of line", or even the
+rather more helpful "`\verb` illegal in command argument".  The
 same sorts of thing happen with `\begin{verbatim}` &hellip;
 `\end{verbatim}`:
 <!-- {% raw %} -->
@@ -50,15 +50,15 @@ matching `\end{verbatim}`.
 
 This is why the LaTeX book insists that verbatim
 commands must not appear in the argument of any other command; they
-aren't just fragile, they're quite unusable in any ''normal'' command
+aren't just fragile, they're quite unusable in any "normal" command
 parameter, 
 regardless of [`\protect`ion](FAQ-protect).  (The `\verb`
 command tries hard to detect if you're misusing it; unfortunately, it
 can't always do so, and the error message is therefore not reliable as an
 indication of problems.)
 
-The first question to ask yourself is: ''is `\verb` actually
-necessary?''.
+The first question to ask yourself is: "is `\verb` actually
+necessary?".
   
 
 -  If `\texttt{_your text_}` produces the same result
@@ -68,7 +68,7 @@ necessary?''.
     address or the like, then the `\url` command from the
     [`url`](https://ctan.org/pkg/url) will help: it doesn't suffer from all the problems of
     `\verb`, though it's still not robust; 
-    ''[typesetting URLs](FAQ-setURL)'' offers advice here.
+    "[typesetting URLs](FAQ-setURL)" offers advice here.
 -  If you're putting `\verb` into the argument of a boxing
     command (such as `\fbox`), consider using the `lrbox`
     environment:
@@ -83,7 +83,7 @@ necessary?''.
 
 If you can't avoid verbatim, the `\cprotect` command (from the
 package [`cprotect`](https://ctan.org/pkg/cprotect)) might help.  The package manages to make a
-macro read a verbatim argument in a ''sanitised'' way by the simple
+macro read a verbatim argument in a "sanitised" way by the simple
 medium of prefixing the macro with `\cprotect`:
 ```latex
 \cprotect\section{Using \verb|verbatim|}
@@ -92,7 +92,7 @@ The package _does_ work in this simple case, and deserves
 consideration in many others cases; the package documentation gives
 more details.
 
-Another way out is to use one of ''argument types'' of the
+Another way out is to use one of "argument types" of the
 `\NewDocumentCommand` command in the experimental LaTeX3 package
 [`xparse`](https://ctan.org/pkg/xparse):
 ```latex
@@ -104,7 +104,7 @@ Which gives us:
 The `m` tag argument specifies a normal mandatory argument,
 and the `v` specifies one of these verbatim arguments.
 As you see, it's implanting a `\verb`-style command argument in the
-argument sequence of an otherwise ''normal'' sort of command; that
+argument sequence of an otherwise "normal" sort of command; that
   `|` 
 may be any old character that doesn't
 conflict with the content of the argument.
@@ -171,8 +171,8 @@ solutions to the problem:
     ...
     \section{... \texttt{my\us name}}
     ```
-    Such a definition is ''naturally'' robust; the construction
-    ''&lsaquo;_back-tick_&rsaquo;`\<char>` may be used for any
+    Such a definition is "naturally" robust; the construction
+    "&lsaquo;_back-tick_&rsaquo;`\<char>` may be used for any
     troublesome character (though it's plainly not necessary for things
     like percent signs for which (La)TeX already provides
     robust macros).
@@ -199,7 +199,7 @@ solutions to the problem:
     \end{tcbverbatimwrite}
     ```
     In this case, you use the anonymous file with the `\tcbusetemp`
-    macro.  (You can change the name used for the ''anonymous'' file, if
+    macro.  (You can change the name used for the "anonymous" file, if
     its default proves troublesome.)
   
 

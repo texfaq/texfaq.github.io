@@ -1,5 +1,5 @@
 ---
-title: Page numbering ''&lsaquo;_n_&rsaquo; of &lsaquo;_m_&rsaquo;''
+title: Page numbering "&lsaquo;_n_&rsaquo; of &lsaquo;_m_&rsaquo;"
 category: formatting
 tags: structure
 permalink: /FAQ-nofm
@@ -11,7 +11,7 @@ the document, is somewhat tricky.  The [`lastpage`](https://ctan.org/pkg/lastpag
 [`zref-lastpage`](https://ctan.org/pkg/zref) packages define a label
 `LastPage` whose number is _right_ (after sufficiently many
 passes through LaTeX, of course).  The [`memoir`](https://ctan.org/pkg/memoir) class also
-defines a ''last page'' label.
+defines a "last page" label.
 
 The documentation of the [`fancyhdr`](https://ctan.org/pkg/fancyhdr) package spells out exactly
 how one might actually use this information to produce page numbering

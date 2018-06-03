@@ -18,7 +18,7 @@ specify double-spaced
 [thesis styles](FAQ-linespace))
 continue to require underlining of us, so LaTeX as distributed
 defines an `\underline` command that applies the mathematical
-''underbar'' operation to text.  This technique is not entirely
+"underbar" operation to text.  This technique is not entirely
 satisfactory, however: the text gets stuck into a box, and won't break
 at line end.
 

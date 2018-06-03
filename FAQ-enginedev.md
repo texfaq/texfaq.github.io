@@ -23,14 +23,14 @@ incorporating the ability to create PDF output directly into the TeX engine.
 Although originally developed in parallel, pdfTeX today includes the
 [&epsilon;-TeX](#&epsilon;-tex) extensions as-standard.
 Development of pdfTeX has mostly stopped: changes are largely focussed on
-bug fixes. However, the central importance of pdfTeX as the ''standard''
+bug fixes. However, the central importance of pdfTeX as the "standard"
 engine in modern TeX distributions means further changes may be seen,
 particularly in the area of accessibility.
 
 pdfTeX started as a topic for Hàn Thế Thành's
 Master's&nbsp;thesis, and seems first to have been published in TUGboat 18(4),
 in 1997 (though it was certainly discussed at the TUG'96 conference in Russia).
-While the world was making good use of ''pre-releases'' of pdfTeX, Thành
+While the world was making good use of "pre-releases" of pdfTeX, Thành
 used it as a test-bed for the micro-typography which was the prime subject of
 his Ph.D.&nbsp;research. Since Thành was finally awarded his Ph.D.,
 day-to-day maintenance and development of pdfTeX&nbsp;1.0 (and later) has been
@@ -47,16 +47,16 @@ essentially the same as TeX's. Like [pdfTeX](#pdftex), major developments are
 not currently ongoing with the [XeTeX codebase](http://xetex.sourceforge.net/),
 though bug fixes and cross-compatibility with other engines do continue.
 
-As [detailed above](#pdftex), development of pdfTeX is ''in essence'' complete.
+As [detailed above](#pdftex), development of pdfTeX is "in essence" complete.
 s pdfTeX development ran down, development of a new system, LuaTeX was started.
 [Lua](http://www.lua.org/) is a interpreter designed to be incorporated into
 other applications. LuaTeX consists of a TeX-like engine with a Lua interpreter
-''embedded'' in it; the `lua` interpreter has access to many of the data
+"embedded" in it; the `lua` interpreter has access to many of the data
 structures used for typesetting, so that the programmer may also interpolate
-chunks of Lua code into their (La)TeX macros, or as ''call-backs'' for use when
+chunks of Lua code into their (La)TeX macros, or as "call-backs" for use when
 the TeX-like engine does certain operations.
 
-This arrangement offers the prospect of a ''semi-soft'' typesetting engine: it
+This arrangement offers the prospect of a "semi-soft" typesetting engine: it
 will have its basic behaviour, but the user gets to redefine functionality if
 an idea occurs&nbsp;&mdash; there will be no need to persuade the world first,
 and then find a willing developer to work on the sources of of the
@@ -83,7 +83,7 @@ the many existing TeX development and extension projects, to develop a new
 TeX-like system. The system was developed in Java.
 
 ExTeX was designed to accept Unicode input, and to implement all of TeX's
-primitives, but with some marked as obsolete, and ''modern'' alternatives
+primitives, but with some marked as obsolete, and "modern" alternatives
 provided. Desirable extensions from [&epsilon;-TeX](FAQ-etex),
 [pdfTeX](FAQ-pdftex) and [&Omega;](#omega-and-aleph) were identified for
 incorporation.
@@ -91,7 +91,7 @@ incorporation.
 Omega was developed as an extension of TeX, to use with multilingual texts,
 expressed in a variety of input encodings. Omega used 16-bit, Unicode-encoded,
 characters. It provided many innovative concepts, notably including the
-''translation process'' that takes a character stream and transforms it
+"translation process" that takes a character stream and transforms it
 according to various processes that may be internally specified, or be a
 separate program.
 
@@ -110,13 +110,13 @@ Some of the work from these projects has been incorporated into
 [LuaTeX](#luatex).
 
 The NTS project set out to produce an advanced replacement for TeX, to provide
-a basis for developing such modifications: this ''New Typesetting System''
+a basis for developing such modifications: this "New Typesetting System"
 would share Knuth's aims, but would implement the work in a modern way taking
 account of the lessons learned with TeX. While a first demonstrator NTS did
 appear, it wasn't practically useful, and the project seems no longer active.
 
 In parallel with this work, the NTS developed a set of extensions that can be
-used with a (''true'') TeX system. Such a modified system is known as an
+used with a ("true") TeX system. Such a modified system is known as an
 [&epsilon;-TeX](#&epsilon;-tex) system, and the concept has proved widely
 successful.
 

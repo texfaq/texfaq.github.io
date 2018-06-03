@@ -10,12 +10,12 @@ date: 2014-06-10
 MetaFont allows you to create your own fonts, and most TeX users
 will never need to use it&nbsp;&mdash; modern (La)TeX systems contain
 rather few MetaFont fonts of any significance, and when MetaFont output is
-needed the font generation is done, automatically, ''on the fly''.
+needed the font generation is done, automatically, "on the fly".
 
 If you find you have some special requirement that the system doesn't
 satisfy, you need to know about MetaFont in rather more detail.  MetaFont,
 unlike TeX, requires customisation for each output device: such
-customisation is conventionally held in a ''mode'' associated with the
+customisation is conventionally held in a "mode" associated with the
 device.  Modes are commonly defined using the `mode_def`
 convention described on page&nbsp;94 of _The MetaFontbook_ 
 (see [TeX-related books](FAQ-other-books)).  Your
@@ -30,7 +30,7 @@ Settings for new output devices are added to `modes.mf` as they
 become available.
 
 Now create
-a `plain` base file using `mf` (in ''initialisation''
+a `plain` base file using `mf` (in "initialisation"
 mode), `plain.mf`, and `local.mf`: 
 ```latex
 % mf -ini
@@ -69,10 +69,10 @@ line
 ```
 in response to the `**` prompt or on the MetaFont command line. (If
 `<mode name>` is unknown or omitted, the mode defaults to
-''proof'' mode and MetaFont will produce an output file called 
+"proof" mode and MetaFont will produce an output file called 
 `<font file name>.2602gf`)
 The `<magnification>` is a floating point number or a
-''magstep'' (magsteps define sizes by stating how many times you need to
+"magstep" (magsteps define sizes by stating how many times you need to
 multiply a base size by `1.2`, so for a base size of
 `10`, `magstep 1` is `12`, `magstep 2` is
 `14.4`
@@ -87,7 +87,7 @@ Note that under Unix the `\ ` and `;`
 characters must usually be quoted or escaped, so this would typically
 look something like
 ```latex
- mf ''\mode=epson; mag=magstep 1; input cmr10''
+ mf "\mode=epson; mag=magstep 1; input cmr10"
 ```
 If you need a special mode that isn't in the base, you can put its
 commands in a file (e.g., `ln03.mf`) and invoke it on the

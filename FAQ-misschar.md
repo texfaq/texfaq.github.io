@@ -10,7 +10,7 @@ result contains no sign of some of the characters you typed.  A likely
 reason is that the font you selected just doesn't have a
 representation for the character in question.
 
-For example, if I type ''that will be £44.00'' into an ordinary
+For example, if I type "that will be £44.00" into an ordinary
 (La)TeX document, or if I select the font `rsfs10` (which contains
 uppercase letters only) and type pretty much anything, the £
 sign, or any lowercase letters or digits will not appear in the

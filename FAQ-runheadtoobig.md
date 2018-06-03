@@ -27,13 +27,13 @@ terse entry in the running head.
 
 One of the problems is the tendency of page headings to be set in
 capitals (which take up more space); so why not set headings as written
-for ''ordinary'' reading?  It's not possible to do so with unmodified
+for "ordinary" reading?  It's not possible to do so with unmodified
 LaTeX, but the [`fancyhdr`](https://ctan.org/pkg/fancyhdr) package provides a command
 `\nouppercase` for use in its header (and footer) lines to suppress
 LaTeX's uppercasing tendencies.  Classes in the [`KOMA-script`](https://ctan.org/pkg/KOMA-script)
 bundle don't uppercase in the first place.
 
-In fact, the sectioning commands use ''mark'' commands to pass
+In fact, the sectioning commands use "mark" commands to pass
 information to the page headers.  For example, `\chapter` uses
 `\chaptermark`, `\section` uses `\sectionmark`, and so on.  With
 this knowledge, one can achieve a three-layer structure for chapters:
@@ -59,8 +59,8 @@ the recipe for sections is more tiresome:
 (the first `\sectionmark` deals with the header of the page the
 `\section` command falls on, and the second deal with subsequent
 pages; note that here, you need the optional argument to `\section`,
-even if ''_middling version_'' is in fact the same text as
-''_long version''_.)
+even if "_middling version_" is in fact the same text as
+"_long version"_.)
 
 A similar arrangement is necessary even for chapters if the class
 you're using is odd enough that it puts a page header on a chapter's

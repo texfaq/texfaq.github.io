@@ -6,7 +6,7 @@ date: 2014-06-10
 ---
 
 There are three general routes to PDF output: Adobe's original
-''distillation'' route (via PostScript output), direct conversion of a
+"distillation" route (via PostScript output), direct conversion of a
 DVI file, and the use of a direct TeX-like PDF
 generator such as [pdfTeX](FAQ-pdftex).
 
@@ -19,7 +19,7 @@ For simple documents (with no hyper-references), you can either
     tools installed) pass the output through a PDFwriter in place
     of a printer driver.  This route is only appropriate for simple
     documents: PDF writers cannot create hyperlinks;
--  process the document with ''vanilla'' LaTeX and generate PDF
+-  process the document with "vanilla" LaTeX and generate PDF
     direct from the DVI using `dvipdfm`/`dvipdfmx`; or 
 -  process the document direct to PDF with pdfTeX,
     [LuaTeX](FAQ-luatex), or [XeTeX](FAQ-xetex).
@@ -68,7 +68,7 @@ In some circumstances, a
 application is actually preferable to Acrobat Reader.  For example, on
 Windows Acrobat Reader locks the `pdf` file it's displaying: this
 makes the traditional (and highly effective) (La)TeX development
-cycle of ''Edit&rarr;Process&rarr;Preview'' become
+cycle of "Edit&rarr;Process&rarr;Preview" become
 rather clumsy&nbsp;&mdash; [`gsview`](http://www.ghostgum.com.au/)
 doesn't make the same mistake.
 

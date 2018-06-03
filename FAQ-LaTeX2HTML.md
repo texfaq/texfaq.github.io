@@ -64,7 +64,7 @@ For today, possible packages are:
 
 - `LaTeX2HTML` a `Perl` script package that
   supports LaTeX only, and generates mathematics (and other
-  ''difficult'' things) using bitmaps.  The original version was
+  "difficult" things) using bitmaps.  The original version was
   written by Nikos Drakos for Unix systems, but the package now sports
   an illustrious list of co-authors and is also available for Windows
   systems.  Michel Goossens and Janne Saarela published a detailed

@@ -11,7 +11,7 @@ of getting `\marginpar` commands to put their output in the correct
 margin of two-sided documents.  This is an example of the general
 problem of knowing where a particular bit of text lies: the output
 routine is asynchronous, and (La)TeX will usually process quite a
-bit of the ''next'' page before deciding to output any page.  As a
+bit of the "next" page before deciding to output any page.  As a
 result, the `page` counter (known internally in LaTeX as
 `\c@page`) is normally only reliable when you're actually _in_
 the output routine.
@@ -31,7 +31,7 @@ output of `\pageref`; be careful!
 
 The [`changepage`](https://ctan.org/pkg/changepage) package needs to provide this functionality
 for its own use, and therefore provides a command `\checkoddpage`;
-this sets a private-use ''label'', and the page reference part of that
+this sets a private-use "label", and the page reference part of that
 label is then examined (in a [`hyperref`](https://ctan.org/pkg/hyperref)-safe way) to set a
 conditional `\ifoddpage` true if the command was issued on an odd
 page.  (The [`memoir`](https://ctan.org/pkg/memoir) class has the same command.)  LaTeX
@@ -44,8 +44,8 @@ the [`ifthen`](https://ctan.org/pkg/ifthen) package:
 \ifthenelse{\boolean{oddpage}}{<odd page stuff>}{<even page stuff>}
 ```
 
-Of course, the ''label'' contributes to LaTeX's ''Rerun to get
-cross-references right'' error messages&hellip;
+Of course, the "label" contributes to LaTeX's "Rerun to get
+cross-references right" error messages&hellip;
 
 The Koma-Script classes have an `addmargin*` environment
 that also provides the sorts of facilities that the [`changepage`](https://ctan.org/pkg/changepage)
@@ -54,9 +54,9 @@ offers.  Koma-Script's supporting command:
 executes different things depending on the page number.
 
 The package [`ifoddpage`](https://ctan.org/pkg/ifoddpage) is designed to provide the same
-facility; crucially, it can behave ''sensibly'' even if you are
+facility; crucially, it can behave "sensibly" even if you are
 typesetting for one-side printing only; like the [`changepage`](https://ctan.org/pkg/changepage)
-it uses a ''check'' command `\checkoddpage`.  The conditional ''side''
+it uses a "check" command `\checkoddpage`.  The conditional "side"
 flags are set using (Plain) TeX conditionals; they are defined
 locally, so that you can minimise their use of TeX workspace&nbsp;&mdash;
 see the package documentation for the somewhat tricky sequence

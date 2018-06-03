@@ -38,7 +38,7 @@ Candidates are:
 -  The [`natbib`](https://ctan.org/pkg/natbib) styles ([`plainnat`](https://ctan.org/pkg/natbib),
     [`unsrtnat`](https://ctan.org/pkg/natbib) and [`abbrevnat`](https://ctan.org/pkg/natbib)), which are extensions of
     the standard styles, principally for use with [`natbib`](https://ctan.org/pkg/natbib)
-    itself.  However, they've acquired URLs and other ''modern''
+    itself.  However, they've acquired URLs and other "modern"
     entries along the way.  The same author's [`custom-bib`](https://ctan.org/pkg/custom-bib) is
     also capable of generating styles that honour URL entries.
 -  The [`babelbib`](https://ctan.org/pkg/babelbib) bundle, which offers 
@@ -72,10 +72,10 @@ cases, a useful technique is something like:
 There is good reason to use the [`url`](https://ctan.org/pkg/url) or [`hyperref`](https://ctan.org/pkg/hyperref)
 packages in this context: BibTeX has a habit of splitting
 lines it considers excessively long, and if there are no space
-characters for it to use as ''natural'' breakpoints, BibTeX will
+characters for it to use as "natural" breakpoints, BibTeX will
 insert a comment (`%`) character&nbsp;&hellip; which
 is an acceptable character in an URL.  Any current version of
 either of the [`url`](https://ctan.org/pkg/url) or [`hyperref`](https://ctan.org/pkg/hyperref) packages detects this
-''`%`--end-of-line'' structure in its argument, and
+"`%`--end-of-line" structure in its argument, and
 removes it.
 

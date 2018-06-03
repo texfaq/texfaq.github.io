@@ -6,7 +6,7 @@ permalink: /FAQ-mcite
 date: 2014-06-10
 ---
 
-A convention sometimes used in physics journals is to ''collapse'' a group of
+A convention sometimes used in physics journals is to "collapse" a group of
 related citations into a single entry in the bibliography.  BibTeX,
 by default, can't cope with this arrangement, but the [`mcite`](https://ctan.org/pkg/mcite)
 and [`mciteplus`](https://ctan.org/pkg/mciteplus) packages deal with the problem.
@@ -18,14 +18,14 @@ and [`mciteplus`](https://ctan.org/pkg/mciteplus) packages deal with the problem
 ```
 appear in the document as a single citation, and appear arranged
 appropriately in the bibliography itself.  You're not limited to
-collapsing just two references.  You can mix ''collapsed'' references
-with ''ordinary'' ones, as in
+collapsing just two references.  You can mix "collapsed" references
+with "ordinary" ones, as in
 ```latex
 \cite{paper0,paper1,*paper2,paper3}
 ```
-Which will appear in the document as 3&nbsp;citations ''[4,7,11]''
-(say)&nbsp;&mdash; citation ''4'' will refer to paper&nbsp;0, ''7'' will refer to a
-combined entry for paper&nbsp;1 and paper&nbsp;2, and ''11'' will refer to
+Which will appear in the document as 3&nbsp;citations "[4,7,11]"
+(say)&nbsp;&mdash; citation "4" will refer to paper&nbsp;0, "7" will refer to a
+combined entry for paper&nbsp;1 and paper&nbsp;2, and "11" will refer to
 paper&nbsp;3.
 
 You need to make a small change to the bibliography style
@@ -39,7 +39,7 @@ support for combined citations and so no longer even need
 work with many other class and package combinations).
 
 The [`mciteplus`](https://ctan.org/pkg/mciteplus) package adresses many of the infelicites of
-[`mcite`](https://ctan.org/pkg/mcite).  Again, ''ordinary'' `bst` files will not
+[`mcite`](https://ctan.org/pkg/mcite).  Again, "ordinary" `bst` files will not
 work with [`mciteplus`](https://ctan.org/pkg/mciteplus), but the package documentation explains
 how to patch an existing BibTeX style.
 

@@ -50,7 +50,7 @@ environment of its own.  This effect will be seen with:
 ```
 where the `\label` definitely _is_ after the `\caption`,
 but because the `figure` environment closed before the
-`\label` command, the `\caption` is no longer ''visible''.
+`\label` command, the `\caption` is no longer "visible".
 
 In summary, the `\label` must be _after_ the command that
 defines it (e.g., `\caption`), and if the `\caption` is inside

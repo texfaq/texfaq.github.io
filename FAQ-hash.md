@@ -7,7 +7,7 @@ date: 2014-06-10
 ---
 
 The way to think of this is that `##` gets replaced by `#` in just the
-same way that `#1` gets replaced by ''whatever is the first argument''.
+same way that `#1` gets replaced by "whatever is the first argument".
 
 So if you define a macro:
 ```latex
@@ -18,7 +18,7 @@ or (using the TeX primitive `\def`):
 \def\a#1{+#1+#1+#1+}
 ```
 and use it as `\a{b}`,
-the macro expansion produces ''+b+b+b+'',
+the macro expansion produces "+b+b+b+",
 as most people would expect.
 
 However, if we now replace part of the macro:
@@ -33,7 +33,7 @@ If we use the TeX primitive:
 ```latex
 \def\a#1{+#1+\def\x #1{xxx#1}}
 ```
-`\a{b}` will expand to ''+b+`\def\x b{xxxb}`''.  This
+`\a{b}` will expand to "+b+`\def\x b{xxxb}`".  This
 defines `\x` to be a macro _delimited_ by `b`, and taking no
 arguments, which is surely not what was intended!
 
@@ -47,7 +47,7 @@ or, using the TeX primitive definition:
 ```
 and `\a{b}` will expand to 
   +b+`\def\x #1{xxx#1}`
-because `#1` gets replaced by ''b''
+because `#1` gets replaced by "b"
 and `##` gets replaced by `#`.
 
 To nest a definition inside a definition inside a definition then you

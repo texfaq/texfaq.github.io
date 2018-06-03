@@ -11,7 +11,7 @@ itself.
 
 Among other things, `\newcounter{`_fred_`}` creates a command
 `\the`_fred_, which expands to
-''the value of _fred_'' when you're typesetting.
+"the value of _fred_" when you're typesetting.
 
 The definition of `\the`_fred_ should express the
 value of the counter: it is almost always always a mistake to use the
@@ -31,7 +31,7 @@ the standard techniques for
 [adjusting the presentation of section numbers](FAQ-seccntfmt). 
 
 Or, suppose you want the page number to appear at the bottom of each
-page surrounded by dashes (as in ''`---~nnn~---`'').
+page surrounded by dashes (as in "`---~nnn~---`").
 If you try to achieve this by redefining `\thepage`, problems will
 arise from the use of the page number in the table of contents (each
 number will have the dashes attached), and `\pageref` references

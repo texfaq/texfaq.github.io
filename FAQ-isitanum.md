@@ -13,7 +13,7 @@ there's no support for analysing numbers.
 
 The simple-minded solution is to compare numeric characters with the
 characters of the argument, one by one, by a sequence of direct tests,
-and to declare the argument ''not a number'' if any character fails
+and to declare the argument "not a number" if any character fails
 all comparisons:
 ```latex
 \ifx1#1
@@ -33,7 +33,7 @@ that the digits' character codes are consecutive:
 \fi
 ```
 again used in tail-recursion.  However, these forms aren't very
-satisfactory: getting the recursion ''right'' is troublesome (it has a
+satisfactory: getting the recursion "right" is troublesome (it has a
 tendency to gobble spaces in the argument), and in any case TeX
 itself has mechanisms for reading numbers, and it would be nice to use
 them.
@@ -99,7 +99,7 @@ that it accepts simple expressions such as `1+2-3`; this
 could be solved by an initial `\gobbleminus`-like construction.
 
 All the complete functions above are designed to be used in TeX
-conditionals written ''naturally''&nbsp;&mdash; for example:
+conditionals written "naturally"&nbsp;&mdash; for example:
 ```latex
 \if\IsInteger{<subject of test>}%
   <deal with integer>%
@@ -112,7 +112,7 @@ The LaTeX [`memoir`](https://ctan.org/pkg/memoir) class has an internal command 
 `\ifinteger` according to whether the argument was an integer.
 
 Of course, all this kerfuffle would be (essentially) void if there was
-a simple means of ''catching'' TeX errors.  Imagining an
+a simple means of "catching" TeX errors.  Imagining an
 error-catching primitive `\ifnoerror`, one might write:
 <!-- {% raw %} -->
 ```latex

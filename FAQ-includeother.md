@@ -8,7 +8,7 @@ date: 2014-06-10
 You wanted to `\include{../bar/xyz.tex}`, but LaTeX says:
 ```latex
 latex: Not writing to ../bar/xyz.aux (openout_any = p).
-! I can't write on file `../bar/xyz.aux''.
+! I can't write on file `../bar/xyz.aux'.
 ```
 The error comes from TeX's protection against writing to
 directories that aren't descendents of the one where your document
@@ -27,13 +27,13 @@ like the fictional `mybook`:
 ...
 ```
 With such a structure, any document directory (other than the one
-where `mybook.tex` lives), seems ''up'' the tree from the
+where `mybook.tex` lives), seems "up" the tree from the
 base directory.  (References to such files will look like
 `\include{../preface/Preface}`: the `..` is the
 hint.)
 
 But why did it want to write at all?&nbsp;&mdash; 
-''[what's going in in my `\include`](FAQ-include)'' explains
+"[what's going in in my `\include`](FAQ-include)" explains
 how `\include` works, among other things by writing an
 `aux` file for every `\includ`ed file.
 
@@ -56,5 +56,5 @@ Solutions to the problem tend to be drastic:
 3.  You _could_ patch your system's `texmf.cnf`&nbsp;&mdash; if you
     know what you're doing, the error message should be enough of a
     hint; this action is definitely not recommended, and is left to
-    those who can ''help themselves'' in this respect.
+    those who can "help themselves" in this respect.
 

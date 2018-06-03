@@ -6,7 +6,7 @@ date: 2014-06-10
 ---
 
 Knuth, when designing the current version of TeX back in the early
-1980s, could discern no ''standard'' way of expressing graphics in
+1980s, could discern no "standard" way of expressing graphics in
 documents.  He reasoned that this state could not persist for ever,
 but that it would be foolish for him to define TeX primitives that
 allowed the import of graphical image definitions.  He therefore
@@ -17,10 +17,10 @@ means of
 
 There is therefore a straightforward way for anyone to import graphics
 into their document: read the specification of the `\special`
-commands your driver uses, and ''just'' code them.  This is the
+commands your driver uses, and "just" code them.  This is the
 hair-shirt approach: it definitely works, but it's not for everyone.
 
-Over the years, therefore, ''graphics inclusion'' packages have sprung
+Over the years, therefore, "graphics inclusion" packages have sprung
 up; most were designed for inclusion of
 [Encapsulated PostScript graphics](FAQ-eps)&nbsp;&mdash;
 which has become the _lingua franca_ of graphics inclusion over
@@ -38,13 +38,13 @@ The LaTeX standard [`graphics`](https://ctan.org/pkg/graphics) package and its d
 made this step: it is strongly preferred for all current work.
 
 Users of Plain TeX have two options allowing them to use
-[`graphicx`](https://ctan.org/pkg/graphicx): the [`miniltx`](https://ctan.org/pkg/miniltx) ''LaTeX emulator'' and
+[`graphicx`](https://ctan.org/pkg/graphicx): the [`miniltx`](https://ctan.org/pkg/miniltx) "LaTeX emulator" and
 the [`graphicx.tex`](https://ctan.org/pkg/graphics-pln) front-end allow you to load
 [`graphicx`](https://ctan.org/pkg/graphicx), and [Eplain](FAQ-eplain) allows you to load
 it (using the full LaTeX syntax) direct.
 
 The [`graphics`](https://ctan.org/pkg/graphics) package takes a variety of
-''driver options''&nbsp;&mdash; package options that select code to generate the
+"driver options"&nbsp;&mdash; package options that select code to generate the
 commands appropriate to the DVI driver in use.  In most cases,
 your (La)TeX distribution will provide a `graphics.cfg` file
 that will select the correct driver for what you're doing (for
@@ -76,7 +76,7 @@ the behaviour (if not the bugs) the old [`psfig`](https://ctan.org/pkg/psfig) pa
 [`epsf`](https://ctan.org/pkg/epsf) package.  However, there's a support issue: if you
 declare you're using [`epsfig`](https://ctan.org/pkg/epsfig), any potential mailing list or
 usenet helper has to clear out of the equation the possibility that
-you're using ''old'' [`epsfig`](https://ctan.org/pkg/epsfig), so that support is slower
+you're using "old" [`epsfig`](https://ctan.org/pkg/epsfig), so that support is slower
 coming than it would otherwise be.
 
 There is no rational reason to stick with the old packages, which have
@@ -90,7 +90,7 @@ over the years, and Keith Reckdahl's [`epslatex`](https://ctan.org/pkg/epslatex)
 in compendious detail: this highly recommendable document is available
 from CTAN.  An invaluable review of the practicalities of
 exchanging graphics between sites,
-''[Graphics for Inclusion in Electronic Documents](http://silas.psfc.mit.edu/elec_fig/elec_figures.pdf)''
+"[Graphics for Inclusion in Electronic Documents](http://silas.psfc.mit.edu/elec_fig/elec_figures.pdf)"
 has been written by Ian Hutchinson; the document isn't on CTAN,
 but may also be
 [browsed on the Web](http://silas.psfc.mit.edu/elec_fig/).

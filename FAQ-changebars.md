@@ -6,11 +6,11 @@ date: 2014-06-10
 ---
 
 One often needs clear indications of how a document has changed, but
-the commonest technique, ''change bars'' (also known as ''revision
-bars''), requires surprisingly much
-trickery of the programmer.  The problem is that TeX ''proper''
+the commonest technique, "change bars" (also known as "revision
+bars"), requires surprisingly much
+trickery of the programmer.  The problem is that TeX "proper"
 doesn't provide the programmer with any information about the
-''current position'' from which a putative start- or end-point of a
+"current position" from which a putative start- or end-point of a
 bar might be calculated.   pdfTeX _does_ provide that
 information, but no pdfTeX-based changebar package has been
 published, that takes advantage of that.
@@ -59,7 +59,7 @@ which you can obviously use to delimit areas of changed text.
 
 An even more comprehensive way to keep track of changes is employed by
 some word-processors&nbsp;&mdash; to produce a document that embodies both
-''old'' and ''new'' versions.
+"old" and "new" versions.
 
 To this end, the package [`changes`](https://ctan.org/pkg/changes) allows the user to manually
 markup changes of text, such as additions, deletions, or replacements.

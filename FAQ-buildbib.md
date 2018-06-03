@@ -29,13 +29,13 @@ publications in the same year.  So, for example, the Dyson, Eddington,
 Davidson paper about deflection of starlight appears in my
 experimental `bib` file as `Dyson20.1`.
 
-So, noting the rules of the style, you have ''simply'' to write a
+So, noting the rules of the style, you have "simply" to write a
 bibliography database.  Fortunately, there are several tools to help
 in this endeavour:
   
 
 -  Most of the better [(La)TeX-oriented editors](FAQ-editors)
-    have ''BibTeX modes''.
+    have "BibTeX modes".
 -  If you have an existing `thebibliography`
     environment, the `Perl` script `tex2bib` will
     probably help.
@@ -46,7 +46,7 @@ in this endeavour:
   
 
     Tools such as `Xbibfile` (a graphical user interface),
-    `ebib` (a database application written to run ''inside''
+    `ebib` (a database application written to run "inside"
     Emacs) and 
     `btOOL` (a set of `perl` tools for building 
     BibTeX database handlers) are available from CTAN.
@@ -68,12 +68,12 @@ in this endeavour:
 -  Data from on-line citation databases may often be translated to
     BibTeX format by utilities to be found on CTAN.  For
     example, the `Perl` script `isi2bibtex` will
-    translate citations from ISI ''Web of knowledge'' (a
+    translate citations from ISI "Web of knowledge" (a
     subscription service, available to UK academics via
     BIDS).  UK academics may translate BIDS downloads
     using `bids.to.bibtex`
 -  [Google Scholar](https://scholar.google.com) provides an
-    ''Import into BibTeX'' tab for each reference it finds for you:
+    "Import into BibTeX" tab for each reference it finds for you:
     that tab gives you a page containing a BibTeX entry for the
     reference.
 

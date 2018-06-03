@@ -15,7 +15,7 @@ will remain freely available and it will be fully documented at
 all levels.
 
 The LaTeX team's first product (LaTeX2e) was delivered in 1994
-(it's now properly called ''LaTeX'', since no other version is current).
+(it's now properly called "LaTeX", since no other version is current).
 
 LaTeX2e was intended as a consolidation exercise, unifying several
 sub-variants of LaTeX while changing nothing whose change wasn't

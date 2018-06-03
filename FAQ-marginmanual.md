@@ -1,5 +1,5 @@
 ---
-title: How to set up page layout ''by hand''
+title: How to set up page layout "by hand"
 category: formatting
 tags: layout
 permalink: /FAQ-marginmanual
@@ -7,7 +7,7 @@ date: 2014-06-10
 ---
 
 So you're eager to do it yourself, notwithstanding the cautions
-  outlined in ''[changing margins](FAQ-changemargin)''.
+  outlined in "[changing margins](FAQ-changemargin)".
 
 It's important that you first start by familiarising yourself
 with LaTeX's page layout parameters. For example, see section C.5.3 of the
@@ -28,13 +28,13 @@ Even changing the text height and width, `\textheight` and
 should be set to fit a whole number of text lines (in terms of
 multiples of `\baselinskip`), and the width should be constrained
 by the number of characters per line, as mentioned in 
-''[changing margins](FAQ-changemargin)''.
+"[changing margins](FAQ-changemargin)".
 
 Margins are controlled by two parameters: `\oddsidemargin` and
 `\evensidemargin`, whose names come from the convention that
-odd-numbered pages appear on the right-hand side (''recto'') of a
+odd-numbered pages appear on the right-hand side ("recto") of a
 two-page spread and even-numbered pages on the left-hand side
-(''verso'').  Both parameters actually refer to the left-hand margin of
+("verso").  Both parameters actually refer to the left-hand margin of
 the relevant pages; in each case the right-hand margin is specified by
 implication, from the value of `\textwidth` and the width of the
 paper.  (In a one-sided document, which is the default in many
@@ -42,7 +42,7 @@ classes, including the standard [`article`](https://ctan.org/pkg/article) and [`
 classes, `\oddsidemargin` stands for both.)
 
 The
-''origin'' (the zero position) on the page is one inch from the top of
+"origin" (the zero position) on the page is one inch from the top of
 the paper and one inch from the left side; positive horizontal
 measurements extend right across the page, and positive vertical
 measurements extend down the page. Thus, the parameters

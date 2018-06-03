@@ -16,7 +16,7 @@ Note that LaTeX _doesn't_ produce
 `Citation ... undefined` or
 `There were undefined references` warnings in respect of
 `\nocite{*}`.  This isn't a problem if you're running
-LaTeX ''by hand'' (you _know_ exactly how many times you have
+LaTeX "by hand" (you _know_ exactly how many times you have
 to run things), but the lack might confuse automatic processors that
 scan the log file to determine whether another run is necessary.
 

@@ -17,10 +17,10 @@ would naturally write:
 ```
 However, this would not work: a call to `\splat` would execute
 `\mumble`, and then call the redefined `\splat` again; this is an
-''unterminated recursion'', that will quickly exhaust TeX's memory.
+"unterminated recursion", that will quickly exhaust TeX's memory.
 
 Fortunately, the TeX primitive `\let` command comes to our
-rescue; it allows us to take a ''snapshot'' of the current state of a
+rescue; it allows us to take a "snapshot" of the current state of a
 command, which we can then use in the redefinition of the command.
 So:
 ```latex
@@ -90,7 +90,7 @@ after
 ```
 we will have a new version of `\b` defined as `abc`.
 
-The [`ted`](https://ctan.org/pkg/ted) package is a ''token list editor'', and provides a
+The [`ted`](https://ctan.org/pkg/ted) package is a "token list editor", and provides a
 command `\substitute` which will patch the
 contents of a macro, putting the result in a token-list, or
 (in the form `\Substitute*`) using the result to (re)define a
@@ -129,7 +129,7 @@ The [`regexpatch`](https://ctan.org/pkg/regexpatch) package deals with cases tha
 inaccessible with [`etoolbox`](https://ctan.org/pkg/etoolbox); it uses the regular expression
 (pattern-matching) package [`l3regex`](https://ctan.org/pkg/l3regex) from the LaTeX3
 distribution to find the code you need to patch.  The package also
-''knows about'' robust commands and about
+"knows about" robust commands and about
 [`biblatex`](https://ctan.org/pkg/biblatex).
 
 Finally, we'll briefly consider a package that is (just about)
@@ -138,7 +138,7 @@ ingenious (and difficult to understand) mechanism, and comes as an
 old-style LaTeX documented macro file, which can no longer be
 processed to [produce formatted documentation, etc.](FAQ-install-doc).
 Fortunately, the file (`patch.doc`) may be input directly, and
-''documentation'' may found by reading the source of the package.
+"documentation" may found by reading the source of the package.
 Roughly speaking, one gives the command a set of instructions
 analogous to `sed` substitutions, and it regenerates the
 command thus amended.  Unless you can't do your job any other way,

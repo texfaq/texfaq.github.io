@@ -25,7 +25,7 @@ of course needs a little LaTeX internals programming):
 \makeatother
 ```
 <!-- {% endraw %} -->
-This defines a ''variable'' width which has the properties you want.
+This defines a "variable" width which has the properties you want.
 Replace `\linewidth` if you have a different constraint on the width
 of the graphic.
 

@@ -25,7 +25,7 @@ the figure will stretch right across the page (just the same as a
 It's possible to have single-column figures and tables with captions,
 using the `[H]` placement option introduced by the [`float`](https://ctan.org/pkg/float)
 package but you might have to fiddle with the placement because they
-won't ''float'', and exhibit other strange behaviours (such as silently
+won't "float", and exhibit other strange behaviours (such as silently
 running off the end of the column at the end of the
 `multicols` environment).
 

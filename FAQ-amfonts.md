@@ -7,11 +7,11 @@ date: 2014-06-10
 ---
 
 One _still_ occasionally comes across a request for the `am`
-series of fonts.  The initials stood for ''Almost [Computer] Modern'',
+series of fonts.  The initials stood for "Almost [Computer] Modern",
 and they were the predecessors of the Computer Modern fonts that we
 all know and love (or hate)
 <sup class="fmk">&dagger;</sup><span class="footnote">&dagger; 
-  The fonts acquired their label ''Almost'' following the realisation
+  The fonts acquired their label "Almost" following the realisation
   that their first implementation in MetaFont79 still wasn't quite right;
   Knuth's original intention had been that they were the final answer.
 </span>.

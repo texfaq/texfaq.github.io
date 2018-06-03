@@ -6,7 +6,7 @@ permalink: /FAQ-poster
 date: 2014-06-10
 ---
 
-There is no complete ''canned solution'' to creating a poster (as, for
+There is no complete "canned solution" to creating a poster (as, for
 example, classes like [`seminar`](https://ctan.org/pkg/seminar), [`powerdot`](https://ctan.org/pkg/powerdot) and
 [`beamer`](https://ctan.org/pkg/beamer) serve for creating presentations in a variety of
 styles).

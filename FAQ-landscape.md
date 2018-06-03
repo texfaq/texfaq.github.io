@@ -11,7 +11,7 @@ orientation; to achieve this, one needs not only to change the page
 dimensions, but also to instruct the output device to print the
 strange page differently.
 
-There are two ''ordinary'' mechanisms for doing two slight variations
+There are two "ordinary" mechanisms for doing two slight variations
 of landscape typesetting:
   
 
@@ -62,5 +62,5 @@ facilities, in this respect, as does [`geometry`](https://ctan.org/pkg/geometry)
 A word of warning: most current TeX previewers do not honour
 rotation requests in DVI files.
 Your best bet is to convert your output to PostScript or to PDF, and
-to view these ''final'' forms with an appropriate viewer.
+to view these "final" forms with an appropriate viewer.
 

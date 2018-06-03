@@ -32,7 +32,7 @@ good:
     - Con: So verbose as to be unusable
     
 
-2.  Define a ''special-command generator'', and  use the resulting
+2.  Define a "special-command generator", and  use the resulting
     commands:
     <!-- {% raw %} -->
     ```latex
@@ -109,7 +109,7 @@ LaTeX automatically treats `@` as a letter while
 processing classes and packages and as a non-letter while processing
 the user's document.  The key to this technique is the separation:
 internally a non-letter is used for macro names, and the user doesn't
-see anything of it, while the status remains ''frozen'' in all the
+see anything of it, while the status remains "frozen" in all the
 definitions created within the class or package.  See 
 [`\@` and `@` in macro names](FAQ-atsigns) for
 more information.
@@ -124,7 +124,7 @@ Note that analogous use of technique&nbsp;3 in this example would give us
 I said, ``\later''.
 ```
 which works, but rather defeats the object of the exercise.
-(`\later` has the ''frozen'' catcode for ''8'', even though the value
+(`\later` has the "frozen" catcode for "8", even though the value
 has reverted to normal by the time it's used; note, also, the use of
 the primitive command `\gdef`, since `\newcommand` can't make a
 macro that's available outside the group.)

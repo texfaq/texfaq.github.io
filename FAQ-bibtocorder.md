@@ -1,5 +1,5 @@
 ---
-title: Table of contents rearranges ''`unsrt`'' ordering
+title: Table of contents rearranges "`unsrt`" ordering
 category: bibliographies
 tags: citations
 permalink: /FAQ-bibtocorder
@@ -13,11 +13,11 @@ document.
 
 However, if you're unfortunate enough to need a citation in a section
 title, and you also have a table of contents, the citations that now
-appear in the table of contents will upset the ''natural'' ordering
+appear in the table of contents will upset the "natural" ordering
 produced by the [`unsrt`](https://ctan.org/pkg/bibtex) style.  Similarly, if you have
 citations in captions, and have a list of figures (or tables).
 
-There's a pretty simple ''manual'' method for dealing with the
+There's a pretty simple "manual" method for dealing with the
 problem&nbsp;&mdash; when you have the document stable:
   
 
@@ -28,7 +28,7 @@ problem&nbsp;&mdash; when you have the document stable:
 4.  Run LaTeX often enough that things are stable again.
 
 Which is indeed simple, but it's going to get tedious when you've
-found errors in your ''stable'' version, often enough.
+found errors in your "stable" version, often enough.
 
 The package [`notoccite`](https://ctan.org/pkg/notoccite) avoids the kerfuffle, and suppresses
 citations while in the table of contents, or lists of figures, tables

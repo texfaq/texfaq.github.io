@@ -21,7 +21,7 @@ create its own chapter or section heading; you therefore decide what
 names (or sectioning level, even) to use for the indexes, and
 [`\indexname`](FAQ-fixnam) is completely ignored.
 
-To create a ''general'' and an ''authors'' index, one might write:
+To create a "general" and an "authors" index, one might write:
 ```latex
 \usepackage{multind}
 \makeindex{general}
@@ -55,7 +55,7 @@ documentation (unlike [`multind`](https://ctan.org/pkg/multind)).
 
 The [`index`](https://ctan.org/pkg/index) package provides a comprehensive set of indexing
 facilities, including a `\newindex` command that allows the
-definition of new styles of index.  `\newindex` takes a ''tag'' (for
+definition of new styles of index.  `\newindex` takes a "tag" (for
 use in indexing commands), replacements for the `idx` and
 `ind` file extensions, and a title for the index when it's
 finally printed; it can also change the item that's being indexed
@@ -63,13 +63,13 @@ against (for example, one might have an index of artists referenced by
 the figure number where their work is shown).
 
 Using [`index`](https://ctan.org/pkg/index), to create an author index together with a
-''normal'' index, one would start with preamble commands:
+"normal" index, one would start with preamble commands:
 ```latex
 \usepackage{index}
 \makeindex
 \newindex{aut}{adx}{and}{Name Index}
 ```
-which load the package, define a ''main'' (original-style) index, and
+which load the package, define a "main" (original-style) index, and
 then define an author index.  Then, in the body of the document, we
 might find commands like:
 ```latex

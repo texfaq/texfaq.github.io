@@ -7,7 +7,7 @@ date: 2014-06-10
 
 You have a PDF figure, which you want to use in your
 pdfLaTeX document.  When you compile the document, pdfTeX
-complains about ''missing glyphs'', and some (or all) of the labelling
+complains about "missing glyphs", and some (or all) of the labelling
 text or symbols in the original figure is no longer visible.
 
 What has happened is:
@@ -36,11 +36,11 @@ of Times Roman), which is available in a version with Cyrillic
 letters, while the version in TeX distributions doesn't have those
 letters.  Both versions, as distributed, have the same name.
 
-The simple (''quick and dirty'') solution is to add the command
+The simple ("quick and dirty") solution is to add the command
   `\pdfinclusioncopyfonts=1`
 to the preamble of your document.
 
-The ''real'' solution is that one or other font should be renamed.  In
+The "real" solution is that one or other font should be renamed.  In
 either case, this would require that you reconfigure some program's
 (TeX's or your drawing package's) font tables&nbsp;&mdash; inevitably a
 tiresome job.
