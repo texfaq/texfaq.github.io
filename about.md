@@ -15,6 +15,9 @@ It's easier to add information than it is to decide that information is no
 longer needed: questions are therefore not deleted but are "retired" (removed
 from the main index) over time.
 
+The source code [is on github](https://github.com/texfaq/texfaq.github.io/),
+please see <CONTRIBUTING> and <LICENSE> for details.
+
 ## Impressum
 
 > Joseph Wright
