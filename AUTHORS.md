@@ -77,6 +77,7 @@ The following people are _known_ to have contributed to the FAQ:
 - Oren Patashnik
 - Manuel Pégourié-Gonnard
 - Steve Peter
+- Susanne Raab
 - Sebastian Rahtz
 - Philip Ratcliffe
 - Chris Rowley
