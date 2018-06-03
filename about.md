@@ -20,11 +20,11 @@ please see [CONTRIBUTING](CONTRIBUTING) and [LICENSE](LICENSE) for details.
 
 ## Impressum
 
-> Joseph Wright
-> 2, Dowthorpe End
-> Earls Barton
-> Northampton
-> NN6 0NH
+> Joseph Wright<br />
+> 2, Dowthorpe End<br />
+> Earls Barton<br />
+> Northampton<br />
+> NN6 0NH<br />
 > United Kingdom
 >
 > joseph.wright@morningstar2.co.uk
