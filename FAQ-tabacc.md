@@ -21,19 +21,25 @@ The simplest alternative is to type in an encoding that has the
 diacriticised characters in it, and to use an appropriate encoding
 definition file in the [`inputenc`](https://ctan.org/pkg/inputenc) package.  So for example,
 type:
-  `\usepackage[latin1]{inputenc}`
 
-  `...`
 
-  `\begin{tabbing}`
+```
+  \usepackage[latin1]{inputenc}
 
-  `...`
+  ...
+  
+  \begin{tabbing}
 
-  `...` `\>` `voilà` `\>` `...`
+  ...
+
+  ... \> voilà \> ...
+```
+
 for:
   &hellip;
 voilà
 &hellip;
+
 and the internal mechanisms of the [`inputenc`](https://ctan.org/pkg/inputenc) package will put
 the right version of the accent command in there.
 
