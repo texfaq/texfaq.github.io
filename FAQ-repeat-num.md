@@ -119,17 +119,5 @@ loop are lost (unless their result is made `\global`); however, it
 does not 'build in' its graphical origins (as `\multiput` does) so
 its potential outside its own graphics environment "home" is more
 clear.
-% ```latex
-% \input repeat
-% \newcount\foo
-% \repeat
-%   \for{foo} \from{1} \to{10} \do{x*}
-% ```
-% ```latex
-% \repeat
-%   \for{var}
-%     \from{<start>} \by{<step>} \to{<end>}
-%     \downto{<end>} \until{<cond>} \while{<cond>}
-% \do{<operate on something>}
-% ```
+
 
