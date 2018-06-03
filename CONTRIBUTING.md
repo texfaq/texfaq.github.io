@@ -82,7 +82,7 @@ the FAQ useful. There are a few things to watch out for
   - `&nbsp;` Non-breaking space
 
 - quotes you can use ASCII double and single quotes, which will be changed
-  to typographical quotes: `"abc" 'abc' abc's` produces "abc" 'abc' abc's.
+  to typographical quotes: `"abc" 'abc' abc's` produces “abc” ‘abc’ abc’s.
   
 - Please wrap source lines to keep them below 80 characters long
 
