@@ -1,3 +1,8 @@
+---
+title: LICENSE
+permalink: /LICENSE
+---
+
 CC0 1.0 Universal
 
 Statement of Purpose
