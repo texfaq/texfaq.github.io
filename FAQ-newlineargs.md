@@ -15,16 +15,16 @@ This answer concerns two sorts of problems: errors of the form
 and errors where a single asterisk at the start of a line mysteriously
 fails to appear in the typeset output.
 
-Both problems arise because `\\ ` takes optional arguments.  The
+Both problems arise because `\\` takes optional arguments.  The
 command `\\*` means
 "break the line here, and inhibit page break following the line break";
 the command `\\[`&lsaquo;_dimen_&rsaquo;`]`
 means
 "break the line here and add &lsaquo;_dimen_&rsaquo; extra vertical space afterwards".
 
-The problem arises because `\\ ` looks for the next
+The problem arises because `\\` looks for the next
 non-blank thing; the test it uses ignores the end of the line in
-your input text, so that `\\ ` comes to imagine that you
+your input text, so that `\\` comes to imagine that you
 were giving it a "modifier".
 
 An obvious solution is to enclose the stuff at the start of the new
@@ -56,7 +56,7 @@ which is a usage this FAQ would not recommend, anyway: refer
 to the [reason not to use `eqnarray`](FAQ-eqnarray).
 
 Note that the [`amsmath`](https://ctan.org/pkg/amsmath) package modifies the behaviour of
-`\\ ` in maths.  With [`amsmath`](https://ctan.org/pkg/amsmath), the
+`\\` in maths.  With [`amsmath`](https://ctan.org/pkg/amsmath), the
 `eqnarray` example doesn't need any special action
 (`\relax` or braces).
 
