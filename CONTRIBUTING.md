@@ -72,7 +72,7 @@ the FAQ useful. There are a few things to watch out for
   parts of your source with
 
 
- 
+
   <code>&lt;!-- &#x7b;&#x25; raw &#x25;&#x7d; --&gt;</code>
 
   and
@@ -80,7 +80,8 @@ the FAQ useful. There are a few things to watch out for
   <code>&lt;!-- &#x7b;&#x25; endraw &#x25;&#x7d; --&gt;</code>
 
 
-  (Typically these will go just before and after the `&#96;&#96;&#96;`  lines.)
+  (Typically these will go just before and after the
+  <code>&#96;&#96;&#96;</code> lines.)
 
 - Only use block quotes for real quotations: use code markup for terminal
   output and similar
@@ -93,7 +94,7 @@ the FAQ useful. There are a few things to watch out for
 
 - quotes you can use ASCII double and single quotes, which will be changed
   to typographical quotes: `"abc" 'abc' abc's` produces “abc” ‘abc’ abc’s.
-  
+
 - Please wrap source lines to keep them below 80 characters long
 
 ## New questions
