@@ -16,7 +16,7 @@ and we'll look at it.
 If you have actual material to submit, your contribution is more than ever
 welcome. The FAQ use [GitHub-flavoured
 Markdown](https://guides.github.com/features/mastering-markdown/) for the
-content: see [CONTRIBUTING.md]({{ "CONTRIBUTING" | relative_url }}) for more details of specific local
+content: see [CONTRIBUTING](CONTRIBUTING) for more details of specific local
 considerations. You can include your suggested text in an issue report, or
 [submit a pull request](https://github.com/texfaq/texfaq.github.io/pulls).
 (If you don't understand what that means, don't worry!)
