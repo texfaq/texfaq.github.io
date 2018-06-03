@@ -92,7 +92,7 @@ command from the [`mathtools`](https://ctan.org/pkg/mathtools) package:
 ```
 To have the text on the same line as the second equation, one can use
 the `flalign` environment (from [`amsmath`](https://ctan.org/pkg/amsmath))
-with lots of dummy equations (represented by the double `\&`
+with lots of dummy equations (represented by the double `&&`
 signs):
 ```latex
 \begin{flalign}
