@@ -88,7 +88,7 @@ the FAQ useful. There are a few things to watch out for
 
 ## New questions
 
-- File names should be of the form `FAQ-<name>.md`, where the `<name> is made
+- File names should be of the form `FAQ-<name>.md`, where the `<name>` is made
   up of characters ASCII letters, numbers and "-" only.
 - If the `<name>` part is not all lower case, add a `redirect_from:`
   entry in the fronmatter of the page redirecting from the lowercase.
