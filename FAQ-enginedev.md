@@ -18,6 +18,10 @@ project in [&epsilon;-TeX](FAQ-etex): these additions are available in all
 current engines. [pdfTeX](FAQ-pdftex) added a range of new primitives, and
 many these have also been taken up by other engine developers.
 
+## Active projects
+
+### pdfTeX
+
 [pdfTeX](FAQ-pdftex) was developed by Hàn Thế Thành,
 incorporating the ability to create PDF output directly into the TeX engine.
 Although originally developed in parallel, pdfTeX today includes the
@@ -38,6 +42,8 @@ in the hands of a group of [pdfTeX maintainers](http://www.pdftex.org) (which
 includes Thành); the group has managed to maintain a stable platform for
 general use.
 
+### XeTeX
+
 [XeTeX](FAQ-xetex), originally developed by Jonathan Kew, a Unicode TeX
 engine which is able to load system fonts using the [HarfBuzz]() library, which
 is accomplished by an extended syntax to the `\font` primitive. It builds on
@@ -46,6 +52,8 @@ for working with non-Latin languages. Otherwise, the process of typesetting is
 essentially the same as TeX's. Like [pdfTeX](#pdftex), major developments are
 not currently ongoing with the [XeTeX codebase](http://xetex.sourceforge.net/),
 though bug fixes and cross-compatibility with other engines do continue.
+
+### LuaTeX
 
 As [detailed above](#pdftex), development of pdfTeX is "in essence" complete.
 s pdfTeX development ran down, development of a new system, LuaTeX was started.
@@ -70,6 +78,10 @@ the extensions pioneered by [Aleph](#omega-and-aleph). Current LuaTeX
 at the time of writing, the possibility of a v2 development path has been
 suggested.
 
+## Historical projects
+
+### &epsilon;-TeX
+
 As part of the work of the [NTS project](#new-typesetting-system-(nts)),
 a number of extensions to Knuth's TeX were developed. Many of these
 support programming in a way which makes tasks easier than in Knuth's TeX,
@@ -77,6 +89,8 @@ or indeed possible at all. Others extend the range of available registers
 in TeX or make more internal information available. Current TeX distributions
 are delivered with the &epsilon;-TeX extensions available in almost
 all formats other than `tex` (Knuth's TeX) itself. 
+
+### ExTeX
 
 [The ExTeX project](http://www.extex.org/) was building on the experience of
 the many existing TeX development and extension projects, to develop a new
@@ -87,6 +101,8 @@ primitives, but with some marked as obsolete, and "modern" alternatives
 provided. Desirable extensions from [&epsilon;-TeX](FAQ-etex),
 [pdfTeX](FAQ-pdftex) and [&Omega;](#omega-and-aleph) were identified for
 incorporation.
+
+### Omega and Aleph
 
 Omega was developed as an extension of TeX, to use with multilingual texts,
 expressed in a variety of input encodings. Omega used 16-bit, Unicode-encoded,
@@ -108,6 +124,8 @@ but its development, too, has dried up.
 
 Some of the work from these projects has been incorporated into
 [LuaTeX](#luatex).
+
+### New Typesetting System (NTS)
 
 The NTS project set out to produce an advanced replacement for TeX, to provide
 a basis for developing such modifications: this "New Typesetting System"

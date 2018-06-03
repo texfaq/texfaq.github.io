@@ -25,6 +25,8 @@ to typeset snippets that you include within your source:
 ...
 \begin{document}
 \begin{lstlisting}
+#include <stdio.h>
+
 int main(int argc, char ** argv)
 {
   printf("Hello world!\n");

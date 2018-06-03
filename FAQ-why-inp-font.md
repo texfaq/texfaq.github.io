@@ -7,6 +7,8 @@ redirect_from: /FAQ-t1enc
 
 
 
+## [`inputenc`](https://ctan.org/pkg/inputenc)
+
 In current LaTeX release (2018 and later) You do not need to load
 [`inputenc`](https://ctan.org/pkg/inputenc) as UTF-8 encoding, equivalent to
 ```latex
@@ -23,6 +25,8 @@ a declaration such as
 \usepackage[latin1]{inputenc}
 ```
 
+
+### [`fonttenc`](https://ctan.org/fontenc/inputenc)
 If you are using pdfLaTeX or LaTeX and do not specify
 ```latex
 \usepackage[T1]{fontenc}
