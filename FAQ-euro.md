@@ -29,7 +29,7 @@ universally loved&hellip;
 Nevertheless, use the TC font version of the symbol if you are
 producing documents using Knuth's Computer Modern Fonts.
 
-The each of the `latin9` and `latin10 input encoding
+The each of the `latin9` and `latin10` input encoding
 definitions for the [`inputenc`](https://ctan.org/pkg/inputenc) package has a euro character
 defined (character position 164, occupied in other ISO Latin
 character sets by the "currency symbol" &#xa4;, which
