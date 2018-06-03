@@ -29,7 +29,7 @@ date: 2014-06-10
   _LaTeX and TeX strategies for fonts, graphics, and more_
   by Alan Hoenig (Oxford University Press, 1998, ISBN-10 0-19-509685-1
   hardback, ISBN-10 0-19-509686-X paperback)
-- More Math into LaTeX:_An Introduction to_ LaTeX
+- More Math into LaTeX: _An Introduction to_ LaTeX
   _and_ AMSLaTeX by George Grätzer (fourth edition Springer Verlag,
   2007, ISBN-10 978-0-387-32289-6
 - Digital Typography Using LaTeXIncorporating some
@@ -42,7 +42,7 @@ date: 2014-06-10
   _Tips and Techniques for Document Processing_
   by Antoni Diller (second edition, John Wiley & Sons,
   1999, ISBN-10 0-471-97918-X)
-- LaTeX for Linux:_A Vade Mecum_
+- LaTeX for Linux: _A Vade Mecum_
   by Bernice Sacks Lipkin (Springer-Verlag, 1999,
   ISBN-10 0-387-98708-8, second printing)
 - Typesetting Mathematics with LaTeX by Herbert Voß (UIT
