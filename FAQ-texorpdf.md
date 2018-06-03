@@ -2,7 +2,6 @@
 title: Token not allowed in PDFDocEncoded string
 category: errors
 permalink: /FAQ-texorpdf
-date: 2014-06-10
 ---
 
 The package [`hyperref`](https://ctan.org/pkg/hyperref) produces this error when it doesn't

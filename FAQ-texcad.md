@@ -2,7 +2,6 @@
 title: TeXCAD, a drawing package for LaTeX
 category: misc
 permalink: /FAQ-texcad
-date: 2014-06-10
 ---
 
 TeXCAD is a program for the PC which enables the user to draw diagrams

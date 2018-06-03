@@ -3,7 +3,6 @@ title: Using labels as counter values
 category: programming
 tags: macros latex
 permalink: /FAQ-labelcount
-date: 2014-06-10
 ---
 
 Labels are tempting sources of "numbers"&nbsp;&mdash; their most common use,

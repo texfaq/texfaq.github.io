@@ -2,7 +2,6 @@
 title: What is LaTeX?
 category: background
 permalink: /FAQ-latex
-date: 2014-06-10
 ---
 
 LaTeX is a TeX macro package, originally written by Leslie Lamport, that

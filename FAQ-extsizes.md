@@ -3,7 +3,6 @@ title: Other "document font" sizes?
 category: formatting
 tags: classes
 permalink: /FAQ-extsizes
-date: 2014-06-10
 ---
 
 The LaTeX standard classes have a concept of a (base) "document

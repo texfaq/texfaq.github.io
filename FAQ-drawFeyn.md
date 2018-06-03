@@ -3,7 +3,6 @@ title: Drawing Feynman diagrams in LaTeX
 category: graphics
 permalink: /FAQ-drawFeyn
 redirect_from: /FAQ-drawfeyn
-date: 2014-06-10
 ---
 
 Michael Levine's [`feynman`](https://ctan.org/pkg/feynman) bundle for drawing the diagrams in

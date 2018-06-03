@@ -2,7 +2,6 @@
 title: "Multi-letter" initials in BibTeX
 category: bibliographies
 permalink: /FAQ-bibtranscinit
-date: 2014-06-10
 ---
 
 If your bibliographic style uses initials&nbsp;+ surname, you may encounter

@@ -2,7 +2,6 @@
 title: Books on LaTeX
 category: documentation
 permalink: /FAQ-latex-books
-date: 2014-06-10
 ---
 
 - LaTeX, a Document Preparation System by Leslie Lamport

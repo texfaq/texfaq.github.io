@@ -3,7 +3,6 @@ title: Fonts go fuzzy when you switch to T1
 category: fonts
 permalink: /FAQ-fuzzy-T1
 redirect_from: /FAQ-fuzzy-t1
-date: 2014-06-10
 ---
 
 You've been having problems with hyphenation, and someone has

@@ -2,7 +2,6 @@
 title: Improper `\hyphenation` will be flushed
 category: errors
 permalink: /FAQ-badhyph
-date: 2014-06-10
 ---
 
 For example

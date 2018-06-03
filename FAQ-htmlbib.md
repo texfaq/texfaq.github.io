@@ -2,7 +2,6 @@
 title: Making HTML of your Bibliography
 category: bibliographies
 permalink: /FAQ-htmlbib
-date: 2014-06-10
 ---
 
 A neat solution is offered by the [`noTeX`](https://ctan.org/pkg/notex-bst) bibliography style.

@@ -2,7 +2,6 @@
 title: Why are my sections numbered 0.1 &hellip;?
 category: errors
 permalink: /FAQ-zerochap
-date: 2014-06-10
 ---
 
 This happens when your document is using the standard [`book`](https://ctan.org/pkg/book) or

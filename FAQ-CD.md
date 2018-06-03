@@ -3,7 +3,6 @@ title: The TeX collection
 category: installing
 permalink: /FAQ-CD
 redirect_from: /FAQ-cd
-date: 2014-06-10
 ---
 
 If you don't have access to the Internet, there are obvious

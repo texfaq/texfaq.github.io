@@ -2,7 +2,6 @@
 title: Getting "free" fonts not in your distribution
 category: fonts
 permalink: /FAQ-getnff
-date: 2014-06-10
 ---
 
 Some fonts are free to use, but may not be sold.  This creates a

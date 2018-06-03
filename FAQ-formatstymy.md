@@ -2,7 +2,6 @@
 title: "Fatal format file error; I'm stymied"
 category: errors
 permalink: /FAQ-formatstymy
-date: 2014-06-10
 ---
 
 (La)TeX applications often fail with this error when you've been

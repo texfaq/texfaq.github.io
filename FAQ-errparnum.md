@@ -2,7 +2,6 @@
 title: Illegal parameter number in definition
 category: errors
 permalink: /FAQ-errparnum
-date: 2014-06-10
 ---
 
 The error message means what it says.  In the simple case, you've

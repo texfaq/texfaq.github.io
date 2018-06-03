@@ -3,7 +3,6 @@ title: Defining a new log-like function in LaTeX
 category: usage
 tags: math
 permalink: /FAQ-newfunction
-date: 2014-06-10
 ---
 
 Use the `\mathop` command, as in:

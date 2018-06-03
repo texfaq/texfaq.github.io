@@ -3,7 +3,6 @@ title: More than one sequence of footnotes
 category: usage
 tags: footnotes
 permalink: /FAQ-multfoot
-date: 2014-06-10
 ---
 
 The need for more than one series of footnotes is common in critical

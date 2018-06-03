@@ -2,7 +2,6 @@
 title: Installing files "where (La)TeX can find them"
 category: installing
 permalink: /FAQ-inst-wlcf
-date: 2014-06-10
 ---
 
 In the past, package documentation used always to tell you to put your

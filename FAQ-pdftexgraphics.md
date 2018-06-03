@@ -2,7 +2,6 @@
 title: Imported graphics in pdfLaTeX
 category: graphics
 permalink: /FAQ-pdftexgraphics
-date: 2014-06-10
 ---
 
 pdfTeX itself has a rather wide range of formats that it can

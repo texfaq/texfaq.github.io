@@ -3,7 +3,6 @@ title: Sorting and compressing citations
 category: bibliographies
 tags: citations
 permalink: /FAQ-citesort
-date: 2014-06-10
 ---
 
 If you give LaTeX

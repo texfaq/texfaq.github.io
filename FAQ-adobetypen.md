@@ -2,7 +2,6 @@
 title: Adobe font formats
 category: concepts
 permalink: /FAQ-adobetypen
-date: 2014-06-10
 ---
 
 Adobe has specified a number of formats for files to represent fonts

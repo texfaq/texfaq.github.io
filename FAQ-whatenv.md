@@ -2,7 +2,6 @@
 title: What are LaTeX "environments"
 category: concepts
 permalink: /FAQ-whatenv
-date: 2014-06-10
 ---
 
 While TeX makes direct provision for commands, LaTeX adds a

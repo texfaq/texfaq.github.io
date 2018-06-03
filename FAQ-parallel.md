@@ -3,7 +3,6 @@ title: Parallel setting of text
 category: formatting
 tags: layout
 permalink: /FAQ-parallel
-date: 2014-06-10
 ---
 
 It's commonly necessary to present text in two languages "together" on a

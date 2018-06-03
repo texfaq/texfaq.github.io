@@ -2,7 +2,6 @@
 title: "String too long" in BibTeX
 category: bibliographies
 permalink: /FAQ-bibstrtl
-date: 2014-06-10
 ---
 
 The BibTeX diagnostic "Warning&ndash;you've exceeded 1000, the

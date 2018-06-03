@@ -2,7 +2,6 @@
 title: Finding packages to install
 category: installing
 permalink: /FAQ-install-find
-date: 2014-06-10
 ---
 
 How did you learn about the package?

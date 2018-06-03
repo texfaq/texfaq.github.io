@@ -3,7 +3,6 @@ title: Variable-width columns in tables
 category: floats
 tags: tables figures
 permalink: /FAQ-varwidcol
-date: 2014-06-10
 ---
 
 This is a slightly different take on the problem addressed in

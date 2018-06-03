@@ -2,7 +2,6 @@
 title: Books on TeX, Plain TeX and relations
 category: documentation
 permalink: /FAQ-tex-books
-date: 2014-06-10
 ---
 
 While Knuth's book is the definitive reference for both TeX and

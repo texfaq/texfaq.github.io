@@ -2,7 +2,6 @@
 title: What is Eplain?
 category: background
 permalink: /FAQ-eplain
-date: 2014-06-10
 ---
 
 The [Eplain](https://tug.org/eplain/)

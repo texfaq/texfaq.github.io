@@ -3,7 +3,6 @@ title: Comparing the "job name"
 category: programming
 tags: macros
 permalink: /FAQ-compjobnam
-date: 2014-06-10
 ---
 
 The token `\jobname` amusingly produces a sequence of characters

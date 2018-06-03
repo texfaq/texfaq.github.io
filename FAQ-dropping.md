@@ -2,7 +2,6 @@
 title: Big letters at the start of a paragraph
 category: formatting
 permalink: /FAQ-dropping
-date: 2014-06-10
 ---
 
 A common style of typesetting, now seldom seen except in newspapers,

@@ -3,7 +3,6 @@ title: Page numbering by chapter
 category: formatting
 tags: structure
 permalink: /FAQ-pagebychap
-date: 2014-06-10
 ---
 
 When I was a young man, a common arrangement for loose bound technical

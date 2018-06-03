@@ -2,7 +2,6 @@
 title: The structure of TeX error messages
 category: errors
 permalink: /FAQ-errstruct
-date: 2014-06-10
 ---
 
 TeX's error messages are reminiscent of the time when TeX itself

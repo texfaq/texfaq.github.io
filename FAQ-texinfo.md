@@ -2,7 +2,6 @@
 title: What is Texinfo?
 category: background
 permalink: /FAQ-texinfo
-date: 2014-06-10
 ---
 
 Texinfo is a documentation system that uses one source file to produce

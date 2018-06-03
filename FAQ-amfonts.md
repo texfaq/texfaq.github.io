@@ -3,7 +3,6 @@ title: Where are the `am` fonts?
 category: errors
 tags: deprecated
 permalink: /FAQ-amfonts
-date: 2014-06-10
 ---
 
 One _still_ occasionally comes across a request for the `am`

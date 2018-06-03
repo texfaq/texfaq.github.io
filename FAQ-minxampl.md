@@ -2,7 +2,6 @@
 title: How to make a "minimum example"
 category: documentation
 permalink: /FAQ-minxampl
-date: 2014-06-10
 ---
 
 [Our advice on asking questions](FAQ-askquestion)

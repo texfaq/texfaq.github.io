@@ -2,7 +2,6 @@
 title: LaTeX won't include from other directories
 category: errors
 permalink: /FAQ-includeother
-date: 2014-06-10
 ---
 
 You wanted to `\include{../bar/xyz.tex}`, but LaTeX says:

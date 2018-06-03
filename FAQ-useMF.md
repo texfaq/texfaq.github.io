@@ -4,7 +4,6 @@ category: fonts
 tags: metafont
 permalink: /FAQ-useMF
 redirect_from: /FAQ-usemf
-date: 2014-06-10
 ---
 
 MetaFont allows you to create your own fonts, and most TeX users

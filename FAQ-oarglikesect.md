@@ -3,7 +3,6 @@ title: Optional arguments like `\section`
 category: programming
 tags: macros latex
 permalink: /FAQ-oarglikesect
-date: 2014-06-10
 ---
 
 Optional arguments, in macros defined using `\newcommand`, don't

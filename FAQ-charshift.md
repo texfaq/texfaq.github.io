@@ -2,7 +2,6 @@
 title: Weird characters in `dvips` output
 category: fonts
 permalink: /FAQ-charshift
-date: 2014-06-10
 ---
 
 You've innocently generated output, using `dvips`, and there

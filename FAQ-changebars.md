@@ -2,7 +2,6 @@
 title: Marking changed parts of your document
 category: usage
 permalink: /FAQ-changebars
-date: 2014-06-10
 ---
 
 One often needs clear indications of how a document has changed, but

@@ -2,7 +2,6 @@
 title: "Missing `$` inserted"
 category: errors
 permalink: /FAQ-nodollar
-date: 2014-06-10
 ---
 
 There are certain things that _only_ work in maths mode.  If your

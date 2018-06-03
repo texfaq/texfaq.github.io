@@ -2,7 +2,6 @@
 title: "Private" installations of files
 category: installing
 permalink: /FAQ-privinst
-date: 2014-06-10
 ---
 
 It sometimes happens that you need a new version of some macro package

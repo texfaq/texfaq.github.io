@@ -3,7 +3,6 @@ title: Choosing a bibliography style
 category: bibliographies
 tags: citations
 permalink: /FAQ-whatbst
-date: 2014-06-10
 ---
 
 A large proportion of people are satisfied with one of Patashnik's

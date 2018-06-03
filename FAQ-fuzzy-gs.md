@@ -2,7 +2,6 @@
 title: Fuzzy fonts because `Ghostscript` too old
 category: fonts
 permalink: /FAQ-fuzzy-gs
-date: 2014-06-10
 ---
 
 So you've done everything the FAQ has told you that you need,

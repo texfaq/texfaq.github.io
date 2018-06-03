@@ -2,7 +2,6 @@
 title: Accents in bibliographies
 category: bibliographies
 permalink: /FAQ-bibaccent
-date: 2014-06-10
 ---
 
 BibTeX not only has a tendency (by default) to mess about with the

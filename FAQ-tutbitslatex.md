@@ -2,7 +2,6 @@
 title: (La)TeX tutorials
 category: documentation
 permalink: /FAQ-tutbitslatex
-date: 2014-06-10
 ---
 
 The AMS publishes a "Short Math Guide for LaTeX", which is

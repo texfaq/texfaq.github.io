@@ -2,7 +2,6 @@
 title: Making hypertext documents from TeX
 category: usage
 permalink: /FAQ-hyper
-date: 2014-06-10
 ---
 
 If you want on-line hypertext with a (La)TeX source, probably on the

@@ -2,7 +2,6 @@
 title: Zero paragraph indent
 category: formatting
 permalink: /FAQ-parskip
-date: 2014-06-10
 ---
 
 The conventional way of typesetting running text has no separation

@@ -3,7 +3,6 @@ title: Line-breaking in in-line maths
 category: usage
 tags: math
 permalink: /FAQ-brkinline
-date: 2014-06-10
 ---
 
 TeX, by default, allows you to split a mathematical expression at

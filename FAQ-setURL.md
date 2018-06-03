@@ -3,7 +3,6 @@ title: Typesetting URLs
 category: formatting
 permalink: /FAQ-setURL
 redirect_from: /FAQ-seturl
-date: 2014-06-10
 ---
 
 URLs tend to be very long, and contain characters that would

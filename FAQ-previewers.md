@@ -2,7 +2,6 @@
 title: DVI previewers
 category: misc
 permalink: /FAQ-previewers
-date: 2014-06-10
 ---
 
 EmTeX for PCs running MS-DOS or OS/2, MiKTeX and

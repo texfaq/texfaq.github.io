@@ -2,7 +2,6 @@
 title: Freely available (La)TeX books
 category: documentation
 permalink: /FAQ-ol-books
-date: 2014-06-10
 ---
 
 People have long argued for (La)TeX books to be made available on

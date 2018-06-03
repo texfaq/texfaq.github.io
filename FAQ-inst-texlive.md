@@ -2,7 +2,6 @@
 title: Installation using TeX&nbsp;Live manager
 category: installing
 permalink: /FAQ-inst-texlive
-date: 2014-06-10
 ---
 
 TeX&nbsp;Live manager (`tlmgr`) is, by default, a shell (or

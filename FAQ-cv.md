@@ -3,7 +3,6 @@ title: _Curriculum Vitae_ (Résumé)
 category: formatting
 tags: classes
 permalink: /FAQ-cv
-date: 2014-06-10
 ---
 
 Andrej Brodnik's class, [`vita`](https://ctan.org/pkg/vita), offers a framework for producing

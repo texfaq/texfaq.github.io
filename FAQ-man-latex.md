@@ -2,7 +2,6 @@
 title: Online introductions: LaTeX
 category: documentation
 permalink: /FAQ-man-latex
-date: 2014-06-10
 ---
 
 A pleasing little document, "Getting something out of LaTeX" is

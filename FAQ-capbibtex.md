@@ -2,7 +2,6 @@
 title: Capitalisation in BibTeX
 category: bibliographies
 permalink: /FAQ-capbibtex
-date: 2014-06-10
 ---
 
 The standard BibTeX bibliography styles impose fixed ideas about

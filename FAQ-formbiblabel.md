@@ -3,7 +3,6 @@ title: Format of numbers in the bibliography
 category: bibliographies
 tags: citations
 permalink: /FAQ-formbiblabel
-date: 2014-06-10
 ---
 
 By default, LaTeX makes entries in the bibliography look like:

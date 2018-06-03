@@ -3,7 +3,6 @@ title: Spaces in macros
 category: programming
 tags: macros
 permalink: /FAQ-spinmacro
-date: 2014-06-10
 ---
 
 It's very easy to write macros that produce space in the typeset

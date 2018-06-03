@@ -3,7 +3,6 @@ title: Detecting that something is empty
 category: programming
 tags: macros
 permalink: /FAQ-empty
-date: 2014-06-10
 ---
 
 Suppose you need to know that the argument of your command is empty:

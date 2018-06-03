@@ -2,7 +2,6 @@
 title: Portable imported graphics
 cateogry: graphics
 permalink: /FAQ-graph-pspdf
-date: 2014-06-10
 ---
 
 A regular need is a document to be distributed in more than

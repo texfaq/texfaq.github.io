@@ -3,7 +3,6 @@ title: Setting papers for journals
 category: formatting
 tags: classes
 permalink: /FAQ-journalpaper
-date: 2014-06-10
 ---
 
 Publishers of journals have a wide range of requirements for the

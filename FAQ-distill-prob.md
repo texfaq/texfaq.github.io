@@ -2,7 +2,6 @@
 title: Characters missing from PDF output
 category: usage
 permalink: /FAQ-distill-prob
-date: 2014-06-10
 ---
 
 If you're using _Acrobat Distiller_ to create your

@@ -3,7 +3,6 @@ title: Alternative head- and footlines in LaTeX
 category: formatting
 tags: structure
 permalink: /FAQ-fancyhdr
-date: 2014-06-10
 ---
 
 The standard LaTeX document classes define a small set of "page

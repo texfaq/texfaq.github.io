@@ -3,7 +3,6 @@ title: Separate bibliographies per chapter?
 category: bibliographies
 tags: citations
 permalink: /FAQ-chapbib
-date: 2014-06-10
 ---
 
 A separate bibliography for each "chapter" of a document can be provided

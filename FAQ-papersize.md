@@ -3,7 +3,6 @@ title: The size of printed output
 category: formatting
 tags: layout
 permalink: /FAQ-papersize
-date: 2014-06-10
 ---
 
 The final product of a (La)TeX run is something for a person to

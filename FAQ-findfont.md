@@ -2,7 +2,6 @@
 title: Finding new fonts
 category: installing
 permalink: /FAQ-findfont
-date: 2014-06-10
 ---
 
 Nowadays, new fonts are seldom developed by industrious people using

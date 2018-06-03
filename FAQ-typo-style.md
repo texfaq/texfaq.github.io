@@ -2,7 +2,6 @@
 title: Typography tutorials
 category: documentation
 permalink: /FAQ-typo-style
-date: 2014-06-10
 ---
 
 Peter Wilson's article [`memdesign`](https://ctan.org/pkg/memdesign) has a lengthy introductory

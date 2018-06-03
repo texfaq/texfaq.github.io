@@ -3,7 +3,6 @@ title: Hyphenation exceptions
 category: usage
 tags: hyphenation
 permalink: /FAQ-hyphexcept
-date: 2014-06-10
 ---
 
 While TeX's hyphenation rules are good, they're not infallible: you

@@ -3,7 +3,6 @@ title: Fixed-width tables
 category: floats
 tags: tables figures
 permalink: /FAQ-fixwidtab
-date: 2014-06-10
 ---
 
 There are two basic techniques for making fixed-width tables in

@@ -3,7 +3,6 @@ title: Bibliography, index, etc., in TOC
 category: formatting
 tags: toc index
 permalink: /FAQ-tocbibind
-date: 2014-06-10
 ---
 
 The standard LaTeX classes (and many others) use `\section*` or

@@ -3,7 +3,6 @@ title: A "report" from lots of 'article's
 category: formatting
 tags: classes
 permalink: /FAQ-multidoc
-date: 2014-06-10
 ---
 
 This is a requirement, for example, if one is preparing the

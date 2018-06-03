@@ -3,7 +3,6 @@ title: What is MetaFont?
 category: background
 permalink: /FAQ-MF
 redirect_from: /FAQ-mf
-date: 2014-06-10
 ---
 
 MetaFont was written by Knuth as a companion to TeX; whereas TeX

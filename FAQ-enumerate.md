@@ -3,7 +3,6 @@ title: Fancy enumeration lists
 category: usage
 tags: lists
 permalink: /FAQ-enumerate
-date: 2014-06-10
 ---
 
 The [`enumerate`](https://ctan.org/pkg/enumerate) package allows you to control the display of

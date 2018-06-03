@@ -2,7 +2,6 @@
 title: Breaking boxes of text
 category: formatting
 permalink: /FAQ-breakbox
-date: 2014-06-10
 ---
 
 (La)TeX boxes may not be broken, in ordinary usage: once you've

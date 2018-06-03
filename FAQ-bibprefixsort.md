@@ -2,7 +2,6 @@
 title: BibTeX sorting and name prefixes
 category: bibliographies
 permalink: /FAQ-bibprefixsort
-date: 2014-06-10
 ---
 
 BibTeX recognises a bewildering array of name prefixes (mostly

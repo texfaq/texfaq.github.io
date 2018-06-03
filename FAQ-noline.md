@@ -2,7 +2,6 @@
 title: "No line here to end"
 category: errors
 permalink: /FAQ-noline
-date: 2014-06-10
 ---
 
 The error

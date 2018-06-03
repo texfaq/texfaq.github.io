@@ -3,7 +3,6 @@ title: Adjusting the presentation of section numbers
 category: programming
 tags: latex macros
 permalink: /FAQ-seccntfmt
-date: 2014-06-10
 ---
 
 The general issues of adjusting the appearance of section headings are

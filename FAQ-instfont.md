@@ -2,7 +2,6 @@
 title: Installing a new font
 category: installing
 permalink: /FAQ-instfont
-date: 2014-06-10
 ---
 
 Fonts are really "just another package", and so should be installed

@@ -3,7 +3,6 @@ title: More than one optional argument
 category: programming
 tags: macros latex
 permalink: /FAQ-twooptarg
-date: 2014-06-10
 ---
 
 If you've already read 

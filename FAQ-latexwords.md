@@ -3,7 +3,6 @@ title: Changing the words `babel` uses
 category: programming
 tags: latex macros
 permalink: /FAQ-latexwords
-date: 2014-06-10
 ---
 
 LaTeX uses symbolic names for many of the automatically-generated

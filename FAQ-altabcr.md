@@ -2,7 +2,6 @@
 title: Alignment tab changed to `\cr`
 category: errors
 permalink: /FAQ-altabcr
-date: 2014-06-10
 ---
 
 This is an error you may encounter in LaTeX when a tabular

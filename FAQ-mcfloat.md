@@ -3,7 +3,6 @@ title: Floats in multicolumn setting
 category: floats
 tags: tables figures
 permalink: /FAQ-mcfloat
-date: 2014-06-10
 ---
 
 If you use

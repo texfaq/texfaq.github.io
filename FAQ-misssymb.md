@@ -3,7 +3,6 @@ title: Missing symbol commands
 category: errors
 tags: deprecated
 permalink: /FAQ-misssymb
-date: 2014-06-10
 ---
 
 You're processing an old document, and some symbol commands such as

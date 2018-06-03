@@ -3,7 +3,6 @@ title: Text inside maths
 category: usage
 tags: math
 permalink: /FAQ-mathstext
-date: 2014-06-10
 ---
 
 When we type maths in (La)TeX, the letters from which we make up

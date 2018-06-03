@@ -2,7 +2,6 @@
 title: Online introductions: Plain TeX
 category: documentation
 permalink: /FAQ-man-tex
-date: 2014-06-10
 ---
 
 Michael Doob's splendid 'Gentle Introduction' to Plain TeX

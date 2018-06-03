@@ -2,7 +2,6 @@
 title: Contributing a file to the archives
 category: installing
 permalink: /FAQ-uploads
-date: 2014-06-10
 ---
 
 You have something to submit to the archive&nbsp;&mdash; good news!

@@ -3,7 +3,6 @@ title: `\edef` does not work with `\protect`
 category: programming
 tags: macros latex
 permalink: /FAQ-edef
-date: 2014-06-10
 ---
 
 Robust LaTeX commands are either "naturally robust"&nbsp;&mdash; meaning that

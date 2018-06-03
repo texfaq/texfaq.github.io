@@ -3,7 +3,6 @@ title: 1-column abstract in 2-column document
 category: formatting
 tags: structure
 permalink: /FAQ-onecolabs
-date: 2014-06-10
 ---
 
 One often requires that the abstract of a paper should appear across

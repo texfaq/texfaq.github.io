@@ -2,7 +2,6 @@
 title: Reference documents
 category: documentation
 permalink: /FAQ-ref-doc
-date: 2014-06-10
 ---
 
 For TeX primitive commands a rather nice 

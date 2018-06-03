@@ -3,7 +3,6 @@ title: "Watermarks" on every page
 category: formatting
 tags: layout
 permalink: /FAQ-watermark
-date: 2014-06-10
 ---
 
 It's often useful to place some text (such as "DRAFT") in the

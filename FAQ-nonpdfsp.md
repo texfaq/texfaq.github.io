@@ -2,7 +2,6 @@
 title: Non-PDF special ignored!
 category: errors
 permalink: /FAQ-nonpdfsp
-date: 2014-06-10
 ---
 
 This is a pdfTeX error: pdfTeX is running in PDF output

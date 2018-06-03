@@ -2,7 +2,6 @@
 title: What are "resolutions"?
 category: concepts
 permalink: /FAQ-resolns
-date: 2014-06-10
 ---
 
 "Resolution" is a word that is used with little concern for its

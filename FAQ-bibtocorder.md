@@ -3,7 +3,6 @@ title: Table of contents rearranges "`unsrt`" ordering
 category: bibliographies
 tags: citations
 permalink: /FAQ-bibtocorder
-date: 2014-06-10
 ---
 
 If you're using the [`unsrt`](https://ctan.org/pkg/bibtex) bibliography style, you're

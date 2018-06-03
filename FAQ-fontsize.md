@@ -3,7 +3,6 @@ title: Fonts at arbitrary sizes
 category: programming
 tags: latex macros
 permalink: /FAQ-fontsize
-date: 2014-06-10
 ---
 
 Almost all fonts, nowadays, are provided with LaTeX control

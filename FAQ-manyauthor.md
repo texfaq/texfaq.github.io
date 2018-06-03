@@ -2,7 +2,6 @@
 title: BibTeX doesn't understand lists of names
 category: bibliographies
 permalink: /FAQ-manyauthor
-date: 2014-06-10
 ---
 
 BibTeX has a strict syntax for lists of authors' (or editors')

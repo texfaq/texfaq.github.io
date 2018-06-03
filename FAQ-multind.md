@@ -3,7 +3,6 @@ title: Multiple indexes
 category: formatting
 tags: toc index
 permalink: /FAQ-multind
-date: 2014-06-10
 ---
 
 LaTeX's standard indexing capabilities (those provided by the

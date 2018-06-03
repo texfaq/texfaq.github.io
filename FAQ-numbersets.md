@@ -2,7 +2,6 @@
 title: Symbols for the number sets
 category: formatting
 permalink: /FAQ-numbersets
-date: 2014-06-10
 ---
 
 Mathematicians commonly use special lettering for the real numbers and

@@ -2,7 +2,6 @@
 title: How many pages are there in my document?
 category: usage
 permalink: /FAQ-howmanypp
-date: 2014-06-10
 ---
 
 Simple documents (those that start at page 1, and don't have any

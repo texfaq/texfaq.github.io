@@ -3,7 +3,6 @@ title: Translating LaTeX to Plain TeX
 category: misc
 permalink: /FAQ-LaTeXtoPlain
 redirect_from: /FAQ-latextoplain
-date: 2014-06-10
 ---
 
 Unfortunately, no "general", simple, automatic process is likely to

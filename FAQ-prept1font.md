@@ -2,7 +2,6 @@
 title: Preparing a Type&nbsp;1 font
 category: installing
 permalink: /FAQ-prept1font
-date: 2014-06-10
 ---
 
 The process of installing a Type&nbsp;1 font set is rather convoluted, and

@@ -3,7 +3,6 @@ title: LaTeX internal "abbreviations", etc.
 category: programming
 tags: macros latex
 permalink: /FAQ-ltxabbrv
-date: 2014-06-10
 ---
 
 In the deeps of time, when TeX first happened, computers had

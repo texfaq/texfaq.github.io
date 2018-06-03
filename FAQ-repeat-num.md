@@ -2,7 +2,6 @@
 title: Repeating a command _n_ times
 category: programming
 permalink: /FAQ-repeat-num
-date: 2014-06-10
 ---
 
 TeX was _not_ designed as a programming language, but there

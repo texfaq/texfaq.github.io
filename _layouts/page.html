@@ -17,6 +17,8 @@ layout: default
       <em><a href="tags#{{ tag }}">{{ tag }}</a></em>
       {%- endfor -%}
   {% endif %}
-  <br />Last updated: {{ page.date "%Y-%m-%d" }}
+  {%- if page.date -%}
+    <br />Last updated: {{ page.date "%Y-%m-%d" }}
+  {% endif %}
 {% endif %}
 </small></p>

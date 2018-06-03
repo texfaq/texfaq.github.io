@@ -2,7 +2,6 @@
 title: Using BibTeX with Plain TeX
 category: bibliographies
 permalink: /FAQ-bibplain
-date: 2014-06-10
 ---
 
 The file `btxmac.tex` (which is part of the Eplain system)

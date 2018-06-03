@@ -3,7 +3,6 @@ title: Getting the right paper geometry from (La)TeX
 category: formatting
 tags: layout
 permalink: /FAQ-papergeom
-date: 2014-06-10
 ---
 
 If your output is the wrong size, and you've checked that it's not due

@@ -3,7 +3,6 @@ title: How to change the format of labels
 category: programming
 tags: latex macros
 permalink: /FAQ-labelformat
-date: 2014-06-10
 ---
 
 By default, when a label is created, it takes on the appearance of the

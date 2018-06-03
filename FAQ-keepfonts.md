@@ -3,7 +3,6 @@ title: Which font files should be kept
 category: fonts
 tags: metafont
 permalink: /FAQ-keepfonts
-date: 2014-06-10
 ---
 
 MetaFont produces from its run three files, a metrics (TFM) file, a

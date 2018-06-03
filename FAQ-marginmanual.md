@@ -3,7 +3,6 @@ title: How to set up page layout "by hand"
 category: formatting
 tags: layout
 permalink: /FAQ-marginmanual
-date: 2014-06-10
 ---
 
 So you're eager to do it yourself, notwithstanding the cautions

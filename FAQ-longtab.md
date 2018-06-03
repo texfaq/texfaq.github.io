@@ -3,7 +3,6 @@ title: Tables longer than a single page
 category: floats
 tags: tables figures
 permalink: /FAQ-longtab
-date: 2014-06-10
 ---
 
 Tables are, by default, set entirely in boxes of their own: as a

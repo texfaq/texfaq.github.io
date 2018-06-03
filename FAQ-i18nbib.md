@@ -3,7 +3,6 @@ title: Non-english bibliographies
 category: bibliographies
 tags: citations
 permalink: /FAQ-i18nbib
-date: 2014-06-10
 ---
 
 Like so much of early (La)TeX software, BibTeX's assumptions were

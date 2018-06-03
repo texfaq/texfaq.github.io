@@ -3,7 +3,6 @@ title: How to get rid of page numbers
 category: formatting
 tags: layout
 permalink: /FAQ-nopageno
-date: 2014-06-10
 ---
 
 Very occasionally, one wants a document with no page numbers.  For

@@ -2,7 +2,6 @@
 title: An extra `}`?
 category: errors
 permalink: /FAQ-extrabrace
-date: 2014-06-10
 ---
 
 You've looked at your LaTeX source and there's no sign of a misplaced

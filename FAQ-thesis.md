@@ -3,7 +3,6 @@ title: Formatting a thesis in LaTeX
 category: formatting
 tags: classes
 permalink: /FAQ-thesis
-date: 2014-06-10
 ---
 
 Thesis styles are usually very specific to your University, so it's

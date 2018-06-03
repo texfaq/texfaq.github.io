@@ -3,7 +3,6 @@ title: (La)TeX for different machines
 category: installing
 permalink: /FAQ-TeXsystems
 redirect_from: /FAQ-texsystems
-date: 2014-06-10
 ---
 
 We list here the free or shareware packages;

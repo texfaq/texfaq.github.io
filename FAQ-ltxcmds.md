@@ -3,7 +3,6 @@ title: The definitions of LaTeX commands
 category: programming
 tags: macros latex
 permalink: /FAQ-ltxcmds
-date: 2014-06-10
 ---
 
 There are several reasons to want to know the definitions of LaTeX

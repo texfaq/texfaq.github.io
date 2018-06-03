@@ -2,7 +2,6 @@
 title: Why is the inside margin so narrow?
 category: usage
 permalink: /FAQ-gutter
-date: 2014-06-10
 ---
 
 If you give the standard classes the `twoside` option, the

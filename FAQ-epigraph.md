@@ -3,7 +3,6 @@ title: Typesetting epigraphs
 category: formatting
 tags: layout
 permalink: /FAQ-epigraph
-date: 2014-06-10
 ---
 
 Epigraphs are those neat quotations that authors put at the start of

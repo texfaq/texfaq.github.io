@@ -2,7 +2,6 @@
 title: Process a CSV file in LaTeX
 cateogry: programming
 permalink: /FAQ-ltx-csv
-date: 2014-06-10
 ---
 
 Comma-separated-variable (CSV) files are a common means of

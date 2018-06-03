@@ -3,7 +3,6 @@ title: How to alter the alignment of tabular cells
 category: floats
 tags: tables figures
 permalink: /FAQ-tabcellalign
-date: 2014-06-10
 ---
 
 One often needs to alter the alignment of a tabular `p` ("paragraph")

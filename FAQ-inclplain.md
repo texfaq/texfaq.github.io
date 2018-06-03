@@ -2,7 +2,6 @@
 title: Including Plain TeX files in LaTeX
 category: usage
 permalink: /FAQ-inclplain
-date: 2014-06-10
 ---
 
 LaTeX, though originally [based on Plain TeX](FAQ-LaTeXandPlain), does not

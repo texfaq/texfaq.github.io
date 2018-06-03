@@ -2,7 +2,6 @@
 title: Spawning programs from (La)TeX: `\write18`
 category: concepts
 permalink: /FAQ-spawnprog
-date: 2014-06-10
 ---
 
 The TeX [`\write` primitive instruction](FAQ-write) is used

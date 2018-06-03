@@ -2,7 +2,6 @@
 title: The wrong type of fonts in PDF
 category: fonts
 permalink: /FAQ-fuzzy-type3
-date: 2014-06-10
 ---
 
 This is far the commonest problem: the symptom is that text in the

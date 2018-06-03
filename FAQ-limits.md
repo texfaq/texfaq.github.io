@@ -3,7 +3,6 @@ title: Sub- and superscript positioning for operators
 category: usage
 tags: math
 permalink: /FAQ-limits
-date: 2014-06-10
 ---
 
 The commonest hand-written style for expressions is to place the limit

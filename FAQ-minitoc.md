@@ -3,7 +3,6 @@ title: Table of contents, etc., per chapter
 category: formatting
 tags: toc index
 permalink: /FAQ-minitoc
-date: 2014-06-10
 ---
 
 The common style, of a "small" table of contents for each part,

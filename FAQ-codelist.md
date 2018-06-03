@@ -2,7 +2,6 @@
 title: Code listings in LaTeX
 category: formatting
 permalink: /FAQ-codelist
-date: 2014-06-10
 ---
 
 "Pretty" code listings are sometimes considered worthwhile by the

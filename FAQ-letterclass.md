@@ -3,7 +3,6 @@ title: Letters and the like
 category: formatting
 tags: classes
 permalink: /FAQ-letterclass
-date: 2014-06-10
 ---
 
 LaTeX itself provides a [`letter`](https://ctan.org/pkg/letter) document class, which is

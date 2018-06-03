@@ -3,7 +3,6 @@ title: Stopping all hyphenation
 category: usage
 tags: hyphenation
 permalink: /FAQ-hyphoff
-date: 2014-06-10
 ---
 
 It may seem an odd thing to want to do (after all, one of TeX's

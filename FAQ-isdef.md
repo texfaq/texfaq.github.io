@@ -3,7 +3,6 @@ title: Is this command defined?
 category: programming
 tags: macros
 permalink: /FAQ-isdef
-date: 2014-06-10
 ---
 
 Macro sets from the earliest days of TeX programming may be

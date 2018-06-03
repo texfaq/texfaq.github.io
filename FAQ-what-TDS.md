@@ -3,7 +3,6 @@ title: Which tree to use
 category: installing
 permalink: /FAQ-what-TDS
 redirect_from: /FAQ-what-tds
-date: 2014-06-10
 ---
 
 In almost all cases, new material that you install should go into the

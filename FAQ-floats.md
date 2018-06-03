@@ -3,7 +3,6 @@ title: Moving tables and figures in LaTeX
 category: errors
 tags: layout
 permalink: /FAQ-floats
-date: 2014-06-10
 ---
 
 Tables and figures have a tendency to surprise, by _floating_

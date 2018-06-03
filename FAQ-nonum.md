@@ -2,7 +2,6 @@
 title: "Missing number, treated as zero"
 category: errors
 permalink: /FAQ-nonum
-date: 2014-06-10
 ---
 
 In general, this means you've tried to assign something to a count,

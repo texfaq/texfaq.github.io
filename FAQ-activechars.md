@@ -3,7 +3,6 @@ title: Defining characters as macros
 category: programming
 tags: macros
 permalink: /FAQ-activechars
-date: 2014-06-10
 ---
 
 Single characters can act as macros (defined commands), and both

@@ -2,7 +2,6 @@
 title: Writing (text) files from TeX
 category: concepts
 permalink: /FAQ-write
-date: 2014-06-10
 ---
 
 TeX allows you to write to output files from within your document.

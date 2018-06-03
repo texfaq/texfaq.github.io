@@ -3,7 +3,6 @@ title: The quality of your LaTeX
 category: programming
 tags: latex macros
 permalink: /FAQ-latexqual
-date: 2014-06-10
 ---
 
 The [`l2tabu`](https://ctan.org/pkg/l2tabu) tutorial (mentioned in 

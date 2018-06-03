@@ -2,7 +2,6 @@
 title: Installing using ready-built ZIP files
 category: installing
 permalink: /FAQ-inst-tds-zip
-date: 2014-06-10
 ---
 
 Installing packages, as they ("traditionally") appear on

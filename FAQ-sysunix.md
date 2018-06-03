@@ -2,7 +2,6 @@
 title: Unix and GNU Linux systems
 category: installing
 permalink: /FAQ-sysunix
-date: 2014-06-10
 ---
 
   Note that Mac OS/X, though it is also a Unix-based system, has

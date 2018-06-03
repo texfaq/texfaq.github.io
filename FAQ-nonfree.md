@@ -2,7 +2,6 @@
 title: What was the CTAN `nonfree` tree?
 category: installing
 permalink: /FAQ-nonfree
-date: 2014-06-10
 ---
 
 When CTAN was founded, in the 1990s, it was unusual to publish

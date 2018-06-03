@@ -2,7 +2,6 @@
 title: How to approach errors
 category: errors
 permalink: /FAQ-erroradvice
-date: 2014-06-10
 ---
 
 Since TeX is a macroprocessor, its error messages are often

@@ -3,7 +3,6 @@ title: Putting things at fixed positions on the page
 category: formatting
 tags: layout
 permalink: /FAQ-abspos
-date: 2014-06-10
 ---
 
 TeX's model of the world is (broadly speaking) that the author

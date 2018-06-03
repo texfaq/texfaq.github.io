@@ -3,7 +3,6 @@ title: The style of captions
 category: formatting
 tags: structure
 permalink: /FAQ-captsty
-date: 2014-06-10
 ---
 
 Changes to the style of captions may be made by redefining the commands

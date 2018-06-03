@@ -2,7 +2,6 @@
 title: Better script fonts for maths
 category: formatting
 permalink: /FAQ-scriptfonts
-date: 2014-06-10
 ---
 
 The font selected by `\mathcal` is the only script font "built

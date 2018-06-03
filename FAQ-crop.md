@@ -3,7 +3,6 @@ title: How to create crop marks
 category: formatting
 tags: layout
 permalink: /FAQ-crop
-date: 2014-06-10
 ---
 
 If you're printing something that's eventually to be reproduced in

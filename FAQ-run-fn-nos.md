@@ -2,7 +2,6 @@
 title: Not resetting footnote numbers per chapter
 category: usage
 permalink: /FAQ-run-fn-nos
-date: 2014-06-10
 ---
 
 Some classes (for example, [`book`](https://ctan.org/pkg/book) and [`report`](https://ctan.org/pkg/report)) set up a

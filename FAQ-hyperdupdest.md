@@ -2,7 +2,6 @@
 title: pdfTeX destination &hellip; ignored
 category: errors
 permalink: /FAQ-hyperdupdest
-date: 2014-06-10
 ---
 
 The warning:

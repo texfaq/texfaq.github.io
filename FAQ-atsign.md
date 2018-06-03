@@ -2,7 +2,6 @@
 title: How to type an "@" sign?
 category: formatting
 permalink: /FAQ-atsign
-date: 2014-06-10
 ---
 
 Long ago, some packages used to use the "@" sign as a special

@@ -3,7 +3,6 @@ title: Footnotes numbered "per page"
 category: usage
 tags: footnotes
 permalink: /FAQ-footnpp
-date: 2014-06-10
 ---
 
 The obvious solution is to make the footnote number reset whenever the

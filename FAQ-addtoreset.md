@@ -3,7 +3,6 @@ title: Master and slave counters
 category: programming
 tags: latex macros
 permalink: /FAQ-addtoreset
-date: 2014-06-10
 ---
 
 It's common to have things numbered "per chapter" (for example, in

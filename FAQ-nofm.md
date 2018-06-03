@@ -3,7 +3,6 @@ title: Page numbering "&lsaquo;_n_&rsaquo; of &lsaquo;_m_&rsaquo;"
 category: formatting
 tags: structure
 permalink: /FAQ-nofm
-date: 2014-06-10
 ---
 
 Finding the page number of the last page of a document, from within

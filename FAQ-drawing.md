@@ -2,7 +2,6 @@
 title: Drawing with TeX
 category: graphics
 permalink: /FAQ-drawing
-date: 2014-06-10
 ---
 
 There are many packages to do pictures in (La)TeX itself (rather than

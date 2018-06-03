@@ -3,7 +3,6 @@ title: How does LaTeX relate to Plain TeX?
 category: background
 permalink: /FAQ-LaTeXandPlain
 redirect_from: /FAQ-latexandplain
-date: 2014-06-10
 ---
 
 TeX provides a programming language (of sorts), and any document

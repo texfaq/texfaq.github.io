@@ -2,7 +2,6 @@
 title: Redefining counters' `\the`-commands
 category: misc
 permalink: /FAQ-the-commands
-date: 2014-06-10
 ---
 
 Whenever you request a new LaTeX counter, LaTeX creates a bunch

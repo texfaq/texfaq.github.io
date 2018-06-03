@@ -2,7 +2,6 @@
 title: Where to install packages
 category: installing
 permalink: /FAQ-install-where
-date: 2014-06-10
 ---
 
 We assume here that you have decided what tree to put your files in,

@@ -3,7 +3,6 @@ title: My words aren't being hyphenated
 category: usage
 tags: hyphenation
 permalink: /FAQ-nohyph
-date: 2014-06-10
 ---
 
 Let's assume you've selected the right TeX "language"&nbsp;&mdash; as

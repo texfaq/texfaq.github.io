@@ -2,7 +2,6 @@
 title: Copy-paste-able/searchable PDF files
 category: usage
 permalink: /FAQ-cpy-srchpdf
-date: 2014-06-10
 ---
 
 PDF files generated from TeX (and friends), will by default

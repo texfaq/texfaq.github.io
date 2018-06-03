@@ -3,7 +3,6 @@ title: Appendixes
 category: formatting
 tags: structure
 permalink: /FAQ-appendix
-date: 2014-06-10
 ---
 
 LaTeX provides an exceedingly simple mechanism for appendixes: the

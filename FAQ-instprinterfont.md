@@ -2,7 +2,6 @@
 title: "Installing" a PostScript printer built-in font
 category: installing
 permalink: /FAQ-instprinterfont
-date: 2014-06-10
 ---
 
 There is a "standard" set of fonts that has appeared in every PostScript

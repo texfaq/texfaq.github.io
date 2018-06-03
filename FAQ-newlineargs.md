@@ -2,7 +2,6 @@
 title: Start of line goes awry
 category: errors
 permalink: /FAQ-newlineargs
-date: 2014-06-10
 ---
 
 This answer concerns two sorts of problems: errors of the form

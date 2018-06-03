@@ -3,7 +3,6 @@ title: Subverting a token register
 category: programming
 tags: macros
 permalink: /FAQ-subverttoks
-date: 2014-06-10
 ---
 
 A common requirement is to "subvert" a token register that other

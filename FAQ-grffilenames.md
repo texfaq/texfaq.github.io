@@ -2,7 +2,6 @@
 title: "Modern" graphics file names
 category: graphics
 permalink: /FAQ-grffilenames
-date: 2014-06-10
 ---
 
 TeX was designed in a world where file names were very simple

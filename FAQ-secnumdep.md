@@ -3,7 +3,6 @@ title: Unnumbered sections in the Table of Contents
 category: formatting
 tags: toc index
 permalink: /FAQ-secnumdep
-date: 2014-06-10
 ---
 
 The way the relevant parts of sectioning commands work is exemplified

@@ -2,7 +2,6 @@
 title: Extra vertical space in floats
 category: errors
 permalink: /FAQ-vertspacefloat
-date: 2014-06-10
 ---
 
 A common complaint is that extra vertical space has crept into

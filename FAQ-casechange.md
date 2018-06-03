@@ -2,7 +2,6 @@
 title: Case-changing oddities
 category: usage
 permalink: /FAQ-casechange
-date: 2014-06-10
 ---
 
 TeX provides two primitive commands `\uppercase` and

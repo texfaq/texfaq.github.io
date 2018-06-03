@@ -2,7 +2,6 @@
 title: Documented LaTeX sources (`dtx` files)
 category: concepts
 permalink: /FAQ-dtx
-date: 2014-06-10
 ---
 
 LaTeX2e, and many contributed LaTeX macro packages, are written

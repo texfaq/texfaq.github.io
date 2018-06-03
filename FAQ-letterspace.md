@@ -2,7 +2,6 @@
 title: Changing the space between letters
 category: formatting
 permalink: /FAQ-letterspace
-date: 2014-06-10
 ---
 
 A common technique in advertising copy (and other text whose actual

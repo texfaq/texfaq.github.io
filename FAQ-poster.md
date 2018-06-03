@@ -3,7 +3,6 @@ title: Creating posters with LaTeX
 category: formatting
 tags: classes
 permalink: /FAQ-poster
-date: 2014-06-10
 ---
 
 There is no complete "canned solution" to creating a poster (as, for

@@ -3,7 +3,6 @@ title: Old LaTeX font references such as `\tenrm`
 category: errors
 tags: deprecated
 permalink: /FAQ-oldfontnames
-date: 2014-06-10
 ---
 
 LaTeX 2.09 defined a large set of commands for access to the fonts

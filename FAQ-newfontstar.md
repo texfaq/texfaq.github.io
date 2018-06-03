@@ -2,7 +2,6 @@
 title: What's wrong with `\newfont`?
 category: usage
 permalink: /FAQ-newfontstar
-date: 2014-06-10
 ---
 
 If all else fails, you _can_ specify a font using the LaTeX

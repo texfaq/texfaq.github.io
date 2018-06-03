@@ -3,7 +3,6 @@ title: Where are the `msx` and `msy` fonts?
 category: errors
 tags: deprecated
 permalink: /FAQ-msxy
-date: 2014-06-10
 ---
 
 The `msx` and `msy` fonts were designed by the
