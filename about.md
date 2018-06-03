@@ -5,7 +5,7 @@ permalink: /about
 
 This is a set of Frequently Asked Questions (FAQ) for English-speaking users of
 TeX. The information is maintained by a [group of
-''curators'']({{ "/" | absolute_url }}), with contributions from a very wide
+''curators''](https://github.com/texfaq), with contributions from a very wide
 range of people over many years.
 
 The questions answered here cover a wide range of topics, but typesetting
