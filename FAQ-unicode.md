@@ -1,6 +1,10 @@
 ---
 title: Unicode and TeX
 category: concepts
+tags:
+  - unicode
+  - luatex
+  - xetex
 permalink: /FAQ-unicode
 date: 2018-05-27
 ---

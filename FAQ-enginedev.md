@@ -1,6 +1,10 @@
 ---
 title: TeX Engine development
 category: misc
+tags:
+  - pdftex
+  - luatex
+  - xetex
 permalink: /FAQ-enginedev
 date: 2018-05-24
 redirect_from:

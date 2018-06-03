@@ -1,7 +1,10 @@
 ---
 title: Am I using pdfTeX, XeTeX or LuaTeX?
 category: programming
-tags: macros
+tags:
+  - macros
+  - luatex
+  - xetex
 permalink: /FAQ-whatengine
 ---
 

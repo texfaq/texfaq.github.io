@@ -1,6 +1,10 @@
 ---
 title: Unicode Maths using OpenType fonts
 category: fonts
+tags:
+  - math
+  - luatex
+  - xetex
 permalink: /FAQ-otf-maths
 ---
 
