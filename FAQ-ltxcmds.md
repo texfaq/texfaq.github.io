@@ -135,7 +135,7 @@ through LaTeX, so you don't have to work with the whole of
 macro you're interested in: use your "malleable text editor" to find
 the definition in `latex.ltx`; then search backwards from that
 point for a line that starts 
-`%%% From File:`&nbsp;&mdash; that line
+`%%% From File:` &mdash; that line
 tells you which `dtx` file contains the definition you are interested
 in.  Doing this for `\protected@edef`, we find:
 ```latex
