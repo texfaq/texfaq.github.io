@@ -1,7 +1,9 @@
 ---
 title: Tables longer than a single page
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-longtab
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: Centring a very wide figure or table
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-wideflt
 ---
 

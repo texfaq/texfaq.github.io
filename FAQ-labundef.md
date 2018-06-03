@@ -1,7 +1,9 @@
 ---
 title: Finding if a label is undefined
 category: programming
-tags: latex macros
+tags:
+  - latex
+  - macros
 permalink: /FAQ-labundef
 ---
 

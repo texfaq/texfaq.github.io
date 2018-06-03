@@ -1,7 +1,9 @@
 ---
 title: Placing two-column floats at bottom of page
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-2colfloat
 date: 2018-05-18
 ---

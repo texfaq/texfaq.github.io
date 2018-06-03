@@ -1,7 +1,9 @@
 ---
 title: Merging cells in a column of a table
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-multirow
 ---
 

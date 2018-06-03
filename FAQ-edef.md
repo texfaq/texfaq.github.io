@@ -1,7 +1,9 @@
 ---
 title: `\edef` does not work with `\protect`
 category: programming
-tags: macros latex
+tags:
+  - latex
+  - macros
 permalink: /FAQ-edef
 ---
 

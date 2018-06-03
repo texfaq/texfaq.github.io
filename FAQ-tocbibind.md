@@ -1,7 +1,9 @@
 ---
 title: Bibliography, index, etc., in TOC
 category: formatting
-tags: toc index
+tags:
+  - toc
+  - index
 permalink: /FAQ-tocbibind
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: Vertical layout of float pages
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-vertposfp
 ---
 

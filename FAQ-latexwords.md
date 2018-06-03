@@ -1,7 +1,9 @@
 ---
 title: Changing the words `babel` uses
 category: programming
-tags: latex macros
+tags:
+  - latex
+  - macros
 permalink: /FAQ-latexwords
 ---
 

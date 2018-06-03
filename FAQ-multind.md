@@ -1,7 +1,9 @@
 ---
 title: Multiple indexes
 category: formatting
-tags: toc index
+tags:
+  - toc
+  - index
 permalink: /FAQ-multind
 ---
 

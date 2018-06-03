@@ -1,7 +1,9 @@
 ---
 title: The thickness of rules in LaTeX tables
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-rulethk
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: Using Plain or primitive commands in LaTeX
 category: programming
-tags: macros latex
+tags:
+  - latex
+  - macros
 permalink: /FAQ-plninltxstar
 ---
 

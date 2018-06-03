@@ -1,7 +1,9 @@
 ---
 title: Unnumbered sections in the Table of Contents
 category: formatting
-tags: toc index
+tags:
+  - toc
+  - index
 permalink: /FAQ-secnumdep
 ---
 

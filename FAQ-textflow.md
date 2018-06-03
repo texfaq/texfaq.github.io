@@ -1,7 +1,9 @@
 ---
 title: Flowing text around figures
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-textflow
 ---
 

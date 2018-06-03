@@ -1,7 +1,9 @@
 ---
 title: How to change LaTeX's "fixed names"
 category: programming
-tags: latex macros
+tags:
+  - latex
+  - macros
 permalink: /FAQ-fixnam
 ---
 

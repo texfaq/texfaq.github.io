@@ -1,7 +1,9 @@
 ---
 title: The definitions of LaTeX commands
 category: programming
-tags: macros latex
+tags:
+  - latex
+  - macros
 permalink: /FAQ-ltxcmds
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: LaTeX internal "abbreviations", etc.
 category: programming
-tags: macros latex
+tags:
+  - latex
+  - macros
 permalink: /FAQ-ltxabbrv
 ---
 

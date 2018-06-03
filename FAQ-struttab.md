@@ -1,7 +1,9 @@
 ---
 title: Spacing lines in tables
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-struttab
 ---
 

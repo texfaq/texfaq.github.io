@@ -1,7 +1,9 @@
 ---
 title: Making labels from a counter
 category: programming
-tags: latex macros
+tags:
+  - latex
+  - macros
 permalink: /FAQ-labelctr
 ---
 

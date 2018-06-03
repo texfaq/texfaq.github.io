@@ -1,7 +1,9 @@
 ---
 title: Finding if you're on an odd or an even page
 category: programming
-tags: latex macros
+tags:
+  - latex
+  - macros
 permalink: /FAQ-oddpage
 ---
 

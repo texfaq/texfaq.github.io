@@ -1,7 +1,9 @@
 ---
 title: Floats in multicolumn setting
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-mcfloat
 ---
 

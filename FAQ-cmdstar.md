@@ -1,7 +1,9 @@
 ---
 title: Commands defined with * options
 category: programming
-tags: macros latex
+tags:
+  - latex
+  - macros
 permalink: /FAQ-cmdstar
 ---
 

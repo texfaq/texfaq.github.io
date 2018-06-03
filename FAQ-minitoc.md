@@ -1,7 +1,9 @@
 ---
 title: Table of contents, etc., per chapter
 category: formatting
-tags: toc index
+tags:
+  - toc
+  - index
 permalink: /FAQ-minitoc
 ---
 

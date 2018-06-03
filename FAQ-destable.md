@@ -1,7 +1,9 @@
 ---
 title: The design of tables
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-destable
 ---
 
