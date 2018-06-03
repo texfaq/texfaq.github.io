@@ -80,7 +80,7 @@ the FAQ useful. There are a few things to watch out for
   <code>&lt;!-- &#x7b;&#x25; endraw &#x25;&#x7d; --&gt;</code>
 
 
-  (Typically these will go just before and after the <code>```</code> lines.)
+  (Typically these will go just before and after the `&#96;&#96;&#96;`  lines.)
 
 - Only use block quotes for real quotations: use code markup for terminal
   output and similar
