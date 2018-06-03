@@ -21,10 +21,10 @@ To suppress the footnote in headings and table of contents:
 
 -  Take advantage of the fact that the mandatory argument doesn't
     "move" if the optional argument is present:
-  
-
-    `\section[title]`
-      `{title}`\footnote{title ftnt}`\texttt{}`
+      ```latex
+     \section[title]{title\footnote{title ftnt}}
+     ```
+    
 -  Use the [`footmisc`](https://ctan.org/pkg/footmisc) package, with package option
     `stable`&nbsp;&mdash; this modifies footnotes so that they softly and
     silently vanish away if used in a moving argument.  With this, you
