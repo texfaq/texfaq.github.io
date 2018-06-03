@@ -40,13 +40,13 @@ The Open Directory Project (ODP) maintains a list of sources of
 
 Other non-English FAQs are available (off-CTAN):
 
-- German Posted regularly to `de.comp.tex`, and archived
+- German: Posted regularly to `de.comp.tex`, and archived
   on CTAN; the FAQ also appears at
   [http://www.dante.de/faq/de-tex-faq/]([http://www.dante.de/faq/de-tex-faq/)
-- French
+- French:
   A FAQ used to be posted regularly to
   `fr.comp.text.tex`, and is archived on CTAN&nbsp;&mdash;
   sadly, that effort seems to have fallen by the wayside.
-- Czech See [https://www.fi.muni.cz/cstug/csfaq/](https://www.fi.muni.cz/cstug/csfaq/)
+- Czech: See [https://www.fi.muni.cz/cstug/csfaq/](https://www.fi.muni.cz/cstug/csfaq/)
 
 
