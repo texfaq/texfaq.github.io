@@ -2,7 +2,6 @@
 title: Imported graphics in `dvipdfm`
 category: graphics
 permalink: /FAQ-dvipdfmgraphics
-date: 2014-06-10
 ---
 
 `Dvipdfm` (and `dvipdfmx`) translates direct from

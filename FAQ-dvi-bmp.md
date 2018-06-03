@@ -2,7 +2,6 @@
 title: Generating bitmaps from DVI
 category: misc
 permalink: /FAQ-dvi-bmp
-date: 2014-06-10
 ---
 
 In the last analysis, any DVI driver or previewer is generating

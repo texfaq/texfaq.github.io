@@ -3,7 +3,6 @@ title: "Normal" use of BibTeX from LaTeX
 category: bibliographies
 tags: citations
 permalink: /FAQ-usebibtex
-date: 2014-06-10
 ---
 
 To create a bibliography for your document, you need to perform a

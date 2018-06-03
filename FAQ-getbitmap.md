@@ -3,7 +3,6 @@ title: Acquiring bitmap fonts
 category: fonts
 tags: metafont
 permalink: /FAQ-getbitmap
-date: 2014-06-10
 ---
 
 When CTAN was young, most people would start using TeX

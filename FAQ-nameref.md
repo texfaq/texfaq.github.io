@@ -1,9 +1,10 @@
 ---
 title: Referring to things by their name
 category: formatting
-tags: labels references
+tags:
+  - labels
+  - references
 permalink: /FAQ-nameref
-date: 2014-06-10
 ---
 
 LaTeX's labelling mechanism is designed for the impersonal world of

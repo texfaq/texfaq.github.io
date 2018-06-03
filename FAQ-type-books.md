@@ -2,7 +2,6 @@
 title: Books on Type
 category: documentation
 permalink: /FAQ-type-books
-date: 2014-06-10
 ---
 
 The following is a partial listing of books on typography in general.

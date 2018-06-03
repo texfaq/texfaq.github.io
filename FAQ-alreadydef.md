@@ -2,7 +2,6 @@
 title: Package reports "command already defined"
 category: errors
 permalink: /FAQ-alreadydef
-date: 2014-06-10
 ---
 
 You load a pair of packages, and the second reports that one of the

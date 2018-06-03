@@ -2,7 +2,6 @@
 title: Getting started
 category: background
 permalink: /FAQ-startup
-date: 2014-06-10
 ---
 
 (La)TeX offers a very large number of choices, and the beginner has

@@ -2,7 +2,6 @@
 title: (La)TeX makes overfull lines
 category: usage
 permalink: /FAQ-overfull
-date: 2014-06-10
 ---
 
 When TeX is building a paragraph, it can make several attempts to

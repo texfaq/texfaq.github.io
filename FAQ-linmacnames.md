@@ -3,7 +3,6 @@ title: Non-letters in macro names
 category: programming
 tags: macros
 permalink: /FAQ-linmacnames
-date: 2014-06-10
 ---
 
 New LaTeX users are often suprised that macro definitions

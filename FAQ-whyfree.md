@@ -2,7 +2,6 @@
 title: If TeX is so good, how come it's free?
 category: background
 permalink: /FAQ-whyfree
-date: 2014-06-10
 ---
 
 It's free because Knuth chose to make it so (he makes money from

@@ -3,7 +3,6 @@ title: What's happened to `initex`?
 category: errors
 tags: deprecated
 permalink: /FAQ-initex
-date: 2014-06-10
 ---
 
 In the beginning, (La)TeX was stretching the capacity of every

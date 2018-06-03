@@ -2,7 +2,6 @@
 title: I asked for "empty", but the page is numbered
 category: errors
 permalink: /FAQ-emptynum
-date: 2014-06-10
 ---
 
 If you use `\pagestyle{empty}` and you find some pages are

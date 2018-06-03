@@ -2,7 +2,6 @@
 title: Setting text ragged right
 category: formatting
 permalink: /FAQ-ragright
-date: 2014-06-10
 ---
 
 The trick with typesetting ragged right is to be sure you've told the

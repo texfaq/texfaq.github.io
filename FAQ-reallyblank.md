@@ -3,7 +3,6 @@ title: Really blank pages between chapters
 category: formatting
 tags: structure
 permalink: /FAQ-reallyblank
-date: 2014-06-10
 ---
 
 If you're using the standard classes, you need to take special action;

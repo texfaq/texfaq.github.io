@@ -2,7 +2,6 @@
 title: How many words have you written?
 category: misc
 permalink: /FAQ-wordcount
-date: 2014-06-10
 ---
 
 One often has to submit a document (e.g., a paper or a dissertation)

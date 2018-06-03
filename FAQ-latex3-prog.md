@@ -2,7 +2,6 @@
 title: LaTeX3 programming
 category: programming
 permalink: /FAQ-latex3-prog
-date: 2014-06-10
 ---
 
 As yet, there is no book "Programming in LaTeX3", and even if

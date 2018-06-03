@@ -3,7 +3,6 @@ title: TeX User Groups
 category: background
 permalink: /FAQ-TUGstar
 redirect_from: /FAQ-tugstar
-date: 2014-06-10
 ---
 
 There has been a TeX User Group since very near the time TeX

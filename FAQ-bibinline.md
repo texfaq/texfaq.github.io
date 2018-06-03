@@ -3,7 +3,6 @@ title: Putting bibliography entries in text
 category: bibliographies
 tags: citations
 permalink: /FAQ-bibinline
-date: 2014-06-10
 ---
 
 This is a common requirement for journals and other publications in

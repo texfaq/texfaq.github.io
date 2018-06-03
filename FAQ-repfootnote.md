@@ -3,7 +3,6 @@ title: Footnotes whose texts are identical
 category: usage
 tags: footnotes
 permalink: /FAQ-repfootnote
-date: 2014-06-10
 ---
 
 If the _same_ footnote turns up at several places within a

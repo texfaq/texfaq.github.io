@@ -3,7 +3,6 @@ title: Proof environment
 category: usage
 tags: math
 permalink: /FAQ-proof
-date: 2014-06-10
 ---
 
 It was long thought impossible to make a `proof`

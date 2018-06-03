@@ -2,7 +2,6 @@
 title: Unable to read an entire line
 category: errors
 permalink: /FAQ-buffovl
-date: 2014-06-10
 ---
 
 TeX belongs to the generation of applications written for

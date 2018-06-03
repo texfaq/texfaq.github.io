@@ -2,7 +2,6 @@
 title: What is CTAN?
 category: background
 permalink: /FAQ-ctan
-date: 2014-06-10
 ---
 
 The acronym stands for "Comprehensive TeX Archive Network", which

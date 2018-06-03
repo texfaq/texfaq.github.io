@@ -2,7 +2,6 @@
 title: What's the name of this file
 category: usage
 permalink: /FAQ-filename
-date: 2014-06-10
 ---
 
 One might want this so as to automatically generate a page header or

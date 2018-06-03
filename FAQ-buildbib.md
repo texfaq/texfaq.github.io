@@ -2,7 +2,6 @@
 title: Creating a BibTeX bibliography file
 category: bibliographies
 permalink: /FAQ-buildbib
-date: 2014-06-10
 ---
 
 A BibTeX bibliography file may reasonably be compared to a small

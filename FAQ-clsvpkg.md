@@ -2,7 +2,6 @@
 title: What are LaTeX classes and packages?
 category: concepts
 permalink: /FAQ-clsvpkg
-date: 2014-06-10
 ---
 
 LaTeX aims to be a general-purpose document processor.  Such an aim

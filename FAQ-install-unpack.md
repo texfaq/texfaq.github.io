@@ -2,7 +2,6 @@
 title: Unpacking LaTeX packages
 cateogry: installing
 permalink: /FAQ-install-unpack
-date: 2014-06-10
 ---
 
 As discussed [elsewhere](FAQ-dtx), the 'ordinary' way to

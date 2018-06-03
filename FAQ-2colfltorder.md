@@ -2,7 +2,6 @@
 title: Two-column float numbers out of order
 category: errors
 permalink: /FAQ-2colfltorder
-date: 2014-06-10
 ---
 
 When LaTeX can't place a float immediately, it places it on one of

@@ -3,7 +3,6 @@ title: Packages to set up page designs
 category: formatting
 tags: layout
 permalink: /FAQ-marginpkgs
-date: 2014-06-10
 ---
 
 There are two trustworthy tools for adjusting the dimensions and position of the

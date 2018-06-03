@@ -2,7 +2,6 @@
 title: Typesetting all those TeX-related logos
 category: misc
 permalink: /FAQ-logos
-date: 2014-06-10
 ---
 
 Knuth was making a particular point about the capabilities of TeX

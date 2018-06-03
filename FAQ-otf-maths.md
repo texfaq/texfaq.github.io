@@ -2,7 +2,6 @@
 title: Unicode Maths using OpenType fonts
 category: fonts
 permalink: /FAQ-otf-maths
-date: 2014-06-10
 ---
 
 The ISO standard Universal Coding Scheme (UCS), which is

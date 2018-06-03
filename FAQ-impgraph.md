@@ -2,7 +2,6 @@
 title: Importing graphics into (La)TeX documents
 category: graphics
 permalink: /FAQ-impgraph
-date: 2014-06-10
 ---
 
 Knuth, when designing the current version of TeX back in the early

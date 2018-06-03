@@ -3,7 +3,6 @@ title: Typesetting things in landscape orientation
 category: formatting
 tags: layout
 permalink: /FAQ-landscape
-date: 2014-06-10
 ---
 
 It's often necessary to typeset part of a document in landscape

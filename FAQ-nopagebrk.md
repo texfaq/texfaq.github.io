@@ -3,7 +3,6 @@ title: Preventing page breaks between lines
 category: formatting
 tags: layout
 permalink: /FAQ-nopagebrk
-date: 2014-06-10
 ---
 
 One commonly requires that a block of typeset material be kept on the

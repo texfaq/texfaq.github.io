@@ -2,7 +2,6 @@
 title: Why is my table/figure/&hellip; not centred?
 category: errors
 permalink: /FAQ-centre-flt
-date: 2014-06-10
 ---
 
 You want a float whose contents are centred, but LaTeX ignores your

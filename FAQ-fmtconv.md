@@ -2,7 +2,6 @@
 title: Other conversions to and from (La)TeX
 category: misc
 permalink: /FAQ-fmtconv
-date: 2014-06-10
 ---
 
 - troff `Tr2latex`, assists in the translation of a

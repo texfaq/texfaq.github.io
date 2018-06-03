@@ -3,7 +3,6 @@ title: Defining a macro from an argument
 category: programming
 tags: macros
 permalink: /FAQ-csname
-date: 2014-06-10
 ---
 
 It's common to want a command to create another command: often one

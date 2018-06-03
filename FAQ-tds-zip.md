@@ -2,7 +2,6 @@
 title: Ready-built installation files on the archive
 category: installing
 permalink: /FAQ-tds-zip
-date: 2014-06-10
 ---
 
 The [TDS](FAQ-tds) is a simple structure, and almost all

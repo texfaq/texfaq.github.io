@@ -2,7 +2,6 @@
 title: Commands gobble following space
 category: usage
 permalink: /FAQ-xspace
-date: 2014-06-10
 ---
 
 People are forever surprised that simple commands gobble the space

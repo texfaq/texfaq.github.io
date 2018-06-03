@@ -3,7 +3,6 @@ title: Where to find FAQs
 category: documentation
 permalink: /FAQ-whereFAQ
 redirect_from: /FAQ-wherefaq
-date: 2014-06-10
 ---
 
 Bobby Bodenheimer's article, from which this FAQ was developed, used

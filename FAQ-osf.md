@@ -2,7 +2,6 @@
 title: Using "old-style" figures
 category: formatting
 permalink: /FAQ-osf
-date: 2014-06-10
 ---
 
 These numbers are also called medieval or lowercase figures and their

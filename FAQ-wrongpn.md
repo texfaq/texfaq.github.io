@@ -2,7 +2,6 @@
 title: Page number is wrong at start of page
 category: errors
 permalink: /FAQ-wrongpn
-date: 2014-06-10
 ---
 
 This is a long story, whose sources are deep inside the workings of

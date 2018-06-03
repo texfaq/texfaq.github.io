@@ -3,7 +3,6 @@ title: Ellipses
 category: usage
 tags: math
 permalink: /FAQ-mathlips
-date: 2014-06-10
 ---
 
 Ellipses are commonly required, and LaTeX natively supplies a fair

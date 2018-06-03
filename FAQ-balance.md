@@ -3,7 +3,6 @@ title: Balancing columns at the end of a document
 category: formatting
 tags: structure
 permalink: /FAQ-balance
-date: 2014-06-10
 ---
 
 The `twocolumn` option of the standard classes causes

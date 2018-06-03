@@ -1,9 +1,10 @@
 ---
 title: `\@` and `@` in macro names
 category: programming
-tags: macros latex
+tags:
+  - latex
+  - macros
 permalink: /FAQ-atsigns
-date: 2014-06-10
 ---
 
 Macro names containing `@` are _internal_ to LaTeX, and

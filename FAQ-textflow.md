@@ -1,9 +1,10 @@
 ---
 title: Flowing text around figures
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-textflow
-date: 2014-06-10
 ---
 
 There are several LaTeX packages that purport to do this, but they

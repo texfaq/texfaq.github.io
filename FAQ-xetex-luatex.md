@@ -18,6 +18,8 @@ Unicode-based and able to load standard system (OpenType) fonts. Internally,
 they differ in approach: the same outcomes are reached using very different
 philosophies. There are advantages to the user in each approach.
 
+## XeTeX
+
 [XeTeX](http://scripts.sil.org/xetex) is a Unicode TeX engine which can load
 system fonts directly using the HarfBuzz library, which is built in. To do
 this, the `\font` primitive is extended. In order to support these major
@@ -30,6 +32,8 @@ _via_ an intermediate format, XDV (eXtended DVI). Unlike the classical
 [DVI](FAQ-dvi) format produced by TeX, XDV files cannot be viewed directly, and
 are normally converted directly to PDF as part of the `xetex` run. (The
 conversion itself is carried out by `xdvpdfmx`.)
+
+## LuaTeX
 
 LuaTeX consists of a TeX-like engine with a Lua interpreter "embedded" in it;
 the Lua interpreter has access to many of the data structures used for

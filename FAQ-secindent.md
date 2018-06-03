@@ -3,7 +3,6 @@ title: Indent after section headings
 category: formatting
 tags: structure
 permalink: /FAQ-secindent
-date: 2014-06-10
 ---
 
 LaTeX implements a style that doesn't indent the first paragraph

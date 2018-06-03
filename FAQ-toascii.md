@@ -2,7 +2,6 @@
 title: Conversion from (La)TeX to plain text
 category: misc
 permalink: /FAQ-toascii
-date: 2014-06-10
 ---
 
 The aim here is to emulate the Unix `nroff`, which formats

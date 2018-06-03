@@ -2,7 +2,6 @@
 title: Bits of document from other directories
 category: usage
 permalink: /FAQ-docotherdir
-date: 2014-06-10
 ---
 
 A common way of constructing a large document is to break it into a

@@ -2,7 +2,6 @@
 title: Conditional compilation and "comments"
 category: usage
 permalink: /FAQ-conditional
-date: 2014-06-10
 ---
 
 While LaTeX (or any other TeX-derived package) isn't really like a

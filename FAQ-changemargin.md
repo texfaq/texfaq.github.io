@@ -3,7 +3,6 @@ title: Changing the margins in LaTeX
 category: formatting
 tags: layout
 permalink: /FAQ-changemargin
-date: 2014-06-10
 ---
 
 Changing the layout of a document's text on the page involves several

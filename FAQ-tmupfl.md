@@ -2,7 +2,6 @@
 title: "Too many unprocessed floats"
 category: errors
 permalink: /FAQ-tmupfl
-date: 2014-06-10
 ---
 
 If LaTeX responds to a `\begin{figure}` or

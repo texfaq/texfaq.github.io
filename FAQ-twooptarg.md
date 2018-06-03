@@ -1,9 +1,10 @@
 ---
 title: More than one optional argument
 category: programming
-tags: macros latex
+tags:
+  - latex
+  - macros
 permalink: /FAQ-twooptarg
-date: 2014-06-10
 ---
 
 If you've already read 

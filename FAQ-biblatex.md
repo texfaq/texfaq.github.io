@@ -5,6 +5,8 @@ permalink: /FAQ-biblatex
 date: 2018-05-24
 ---
 
+## Background
+
 As originally conceived, BibTeX was a program for creating bibliographies for
 technical documents, in English. People have contributed mechanisms for a
 degree of multilingual use, while an extension (`bibtex8`) allows use with
@@ -28,6 +30,8 @@ Whilst a number of approaches have been suggested to go beyond the
 BibTeX&ndash;LaTeX, two stand out for their availability and usage:
 `biblatex` and `amsref`.
 
+## `biblatex`/Biber
+
 The [`biblatex`](https://ctan.org/pkg/Biblatex) package provides a programmable
 approach to creating bibliographies in which control takes place in the (La)TeX
 code, rather than a BibTeX style file. This means that output can be modified
@@ -43,6 +47,8 @@ is co-developed with the Biber program. This is a Unicode-aware system which
 can extract data from `.bib` files, sort according to a range of language
 criteria, and more. It is tied to `biblatex` (the output format is targeted
 at the requirements of `biblatex`).
+
+### `amsrefs`
 
 The [`amsrefs`](https://ctan.org/pkg/amsrefs) uses a transformed `.bib` file
 which is expressed as LaTeX macros.  (The package provides a

@@ -3,7 +3,6 @@ title: Re-using an equation
 category: usage
 tags: math
 permalink: /FAQ-reuseq
-date: 2014-06-10
 ---
 
 To repeat an existing equation, one wants not only to have the same

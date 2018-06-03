@@ -2,7 +2,6 @@
 title: What's wrong with `\bf`, `\it`, etc.?
 category: usage
 permalink: /FAQ-2letterfontcmd
-date: 2014-06-10
 ---
 
 The font-selection commands of LaTeX 2.09 were `\rm`, `\sf`,

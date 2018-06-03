@@ -3,7 +3,6 @@ title: How to adjust list spacing
 category: usage
 tags: lists
 permalink: /FAQ-complist
-date: 2014-06-10
 ---
 
 [Lamport's book](FAQ-latex-books) lists various

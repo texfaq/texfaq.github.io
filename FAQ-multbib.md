@@ -3,7 +3,6 @@ title: Multiple bibliographies?
 category: bibliographies
 tags: citations
 permalink: /FAQ-multbib
-date: 2014-06-10
 ---
 
 If you're thinking of multiple bibliographies tied to some part of

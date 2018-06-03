@@ -1,9 +1,10 @@
 ---
 title: How to change LaTeX's "fixed names"
 category: programming
-tags: latex macros
+tags:
+  - latex
+  - macros
 permalink: /FAQ-fixnam
-date: 2014-06-10
 ---
 
 LaTeX document classes define several typographic operations that

@@ -3,7 +3,6 @@ title: Controlling widows and orphans
 category: errors
 tags: layout
 permalink: /FAQ-widows
-date: 2014-06-10
 ---
 
 Widows (the last line of a paragraph at the start of a page) and

@@ -2,7 +2,6 @@
 title: Installing a Type&nbsp;1 font
 category: installing
 permalink: /FAQ-instt1font
-date: 2014-06-10
 ---
 
 Once you have a prepared Type&nbsp;1 font, either direct from CTAN

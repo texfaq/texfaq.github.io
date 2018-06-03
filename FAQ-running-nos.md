@@ -2,7 +2,6 @@
 title: Running equation, figure and table numbering
 category: usage
 permalink: /FAQ-running-nos
-date: 2014-06-10
 ---
 
 Many LaTeX classes (including the standard [`book`](https://ctan.org/pkg/book) class)

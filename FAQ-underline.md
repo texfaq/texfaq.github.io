@@ -3,7 +3,6 @@ title: Underlined text won't break
 category: errors
 tags: layout
 permalink: /FAQ-underline
-date: 2014-06-10
 ---
 
 Knuth made no provision for underlining text: he took the view that

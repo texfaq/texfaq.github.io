@@ -3,7 +3,6 @@ title: Footnotes in captions
 category: usage
 tags: footnotes
 permalink: /FAQ-ftncapt
-date: 2014-06-10
 ---
 
 Footnotes in captions are especially tricky: they present problems of

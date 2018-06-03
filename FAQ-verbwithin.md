@@ -2,7 +2,6 @@
 title: Why doesn't verbatim work within &hellip;?
 category: errors
 permalink: /FAQ-verbwithin
-date: 2014-06-10
 ---
 
 The LaTeX verbatim commands work by changing category codes.  Knuth

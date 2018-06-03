@@ -3,7 +3,6 @@ title: Adjusting maths font sizes
 category: usage
 tags: math
 permalink: /FAQ-mathsize
-date: 2014-06-10
 ---
 
 In Plain TeX, when you introduce a new font size you must also

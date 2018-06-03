@@ -2,7 +2,6 @@
 title: What is Literate Programming?
 category: misc
 permalink: /FAQ-lit
-date: 2014-06-10
 ---
 
 Literate programming is the combination of documentation and source

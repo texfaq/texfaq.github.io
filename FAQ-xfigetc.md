@@ -2,7 +2,6 @@
 title: (La)TeX-friendly drawing packages
 category: misc
 permalink: /FAQ-xfigetc
-date: 2014-06-10
 ---
 
 `(X)Fig` is a menu driven tool that allows you to

@@ -3,7 +3,6 @@ title: Reducing spacing in the bibliography
 category: bibliographies
 tags: citations
 permalink: /FAQ-compactbib
-date: 2014-06-10
 ---
 
 Bibliographies are, in fact, implemented as lists, so all the

@@ -2,7 +2,6 @@
 title: Tutorials, etc., for TeX-based systems
 category: documentation
 permalink: /FAQ-tutorialsstar
-date: 2014-06-10
 ---
 
 From a situation where every (La)TeX user _had_ to buy a book

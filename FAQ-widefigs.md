@@ -3,7 +3,6 @@ title: Wide figures in two-column documents
 category: formatting
 tags: structure
 permalink: /FAQ-widefigs
-date: 2014-06-10
 ---
 
 Floating figures and tables ordinarily come out the same width as the

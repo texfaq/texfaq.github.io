@@ -2,7 +2,6 @@
 title: Finding (La)TeX files
 category: installing
 permalink: /FAQ-findfiles
-date: 2014-06-10
 ---
 
 Modern TeX distributions contain a huge array of various sorts of

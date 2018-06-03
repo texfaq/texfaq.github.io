@@ -3,7 +3,6 @@ title: (Merely) peculiar hyphenation
 category: usage
 tags: hyphenation
 permalink: /FAQ-oddhyphen
-date: 2014-06-10
 ---
 
 You may have found that TeX's famed automatic word-division does

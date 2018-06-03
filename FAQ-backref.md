@@ -3,7 +3,6 @@ title: References from the bibliography to the citation
 category: bibliographies
 tags: citations
 permalink: /FAQ-backref
-date: 2014-06-10
 ---
 
 A link (or at least a page reference), from the bibliography to the

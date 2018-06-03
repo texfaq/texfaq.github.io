@@ -3,7 +3,6 @@ title: Even subscript height
 category: usage
 tags: math
 permalink: /FAQ-subheight
-date: 2014-06-10
 ---
 
 Other things being equal, TeX will aim to position subscripts and

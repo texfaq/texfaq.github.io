@@ -3,7 +3,6 @@ title: Sorting lists of citations
 category: bibliographies
 tags: citations
 permalink: /FAQ-sortbib
-date: 2014-06-10
 ---
 
 BibTeX has a sorting function, and most BibTeX styles sort the

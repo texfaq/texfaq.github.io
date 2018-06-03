@@ -3,7 +3,6 @@ title: Transcribing LaTeX command definitions
 category: programming
 tags: macros
 permalink: /FAQ-cvtlatex
-date: 2014-06-10
 ---
 
 At several places in this FAQ, questions are answered in terms

@@ -3,7 +3,6 @@ title: Producing presentations (including slides)
 category: formatting
 tags: classes
 permalink: /FAQ-slidecls
-date: 2014-06-10
 ---
 
 Lamport's original LaTeX had a separate program (SliTeX) for

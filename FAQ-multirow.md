@@ -1,9 +1,10 @@
 ---
 title: Merging cells in a column of a table
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-multirow
-date: 2014-06-10
 ---
 
 It's easy to come up with a table design that requires a cell that

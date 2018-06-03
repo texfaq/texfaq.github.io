@@ -3,7 +3,6 @@ title: Patching existing commands
 category: programming
 tags: macros
 permalink: /FAQ-patch
-date: 2014-06-10
 ---
 
 In the general case (possibly sticking something in the middle of an

@@ -2,7 +2,6 @@
 title: Code listings in LaTeX
 category: formatting
 permalink: /FAQ-codelist
-date: 2014-06-10
 ---
 
 "Pretty" code listings are sometimes considered worthwhile by the
@@ -26,6 +25,8 @@ to typeset snippets that you include within your source:
 ...
 \begin{document}
 \begin{lstlisting}
+#include <stdio.h>
+
 int main(int argc, char ** argv)
 {
   printf("Hello world!\n");

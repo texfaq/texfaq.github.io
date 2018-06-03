@@ -2,7 +2,6 @@
 title: Realistic quotes for verbatim listings
 category: formatting
 permalink: /FAQ-upquot
-date: 2014-06-10
 ---
 
 The `cmtt` font has "curly" quotes,

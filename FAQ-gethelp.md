@@ -2,7 +2,6 @@
 title: Getting help online
 category: documentation
 permalink: /FAQ-gethelp
-date: 2014-06-10
 ---
 
 We assume, here, that you have looked at all relevant

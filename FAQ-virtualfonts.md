@@ -2,7 +2,6 @@
 title: What are virtual fonts?
 category: concepts
 permalink: /FAQ-virtualfonts
-date: 2014-06-10
 ---
 
 Virtual fonts provide a means of collecting bits and pieces together

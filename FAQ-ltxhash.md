@@ -1,9 +1,10 @@
 ---
 title: Defining LaTeX commands within other commands
 category: programming
-tags: macros latex
+tags:
+  - latex
+  - macros
 permalink: /FAQ-ltxhash
-date: 2014-06-10
 ---
 
 LaTeX command definition is significantly different from the TeX

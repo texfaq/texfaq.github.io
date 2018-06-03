@@ -1,9 +1,10 @@
 ---
 title: Optional arguments like `\section`
 category: programming
-tags: macros latex
+tags:
+  - latex
+  - macros
 permalink: /FAQ-oarglikesect
-date: 2014-06-10
 ---
 
 Optional arguments, in macros defined using `\newcommand`, don't

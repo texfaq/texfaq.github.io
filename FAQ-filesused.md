@@ -2,7 +2,6 @@
 title: All the files used by this document
 category: usage
 permalink: /FAQ-filesused
-date: 2014-06-10
 ---
 
 When you're sharing a document with someone else (perhaps as part of a

@@ -3,7 +3,6 @@ title: Finding the width of a letter, word, or phrase
 category: programming
 tags: macros
 permalink: /FAQ-findwidth
-date: 2014-06-10
 ---
 
 Put the word in a box, and measure the width of the box. For example,

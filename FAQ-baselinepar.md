@@ -2,7 +2,6 @@
 title: Only one `\baselineskip` per paragraph
 category: usage
 permalink: /FAQ-baselinepar
-date: 2014-06-10
 ---
 
 The `\baselineskip`, which determines the space between lines, is

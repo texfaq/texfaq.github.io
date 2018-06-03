@@ -2,7 +2,6 @@
 title: Capacity exceeded&nbsp;&mdash; input levels
 category: errors
 permalink: /FAQ-inputlev
-date: 2014-06-10
 ---
 
 The error

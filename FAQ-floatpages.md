@@ -1,9 +1,10 @@
 ---
 title: Floats on their own on float pages
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-floatpages
-date: 2014-06-10
 ---
 
 It's sometimes necessary to force a float to live on a page by itself.

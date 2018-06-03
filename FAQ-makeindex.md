@@ -2,7 +2,6 @@
 title: Generating an index in (La)TeX
 category: formatting
 permalink: /FAQ-makeindex
-date: 2014-06-10
 ---
 
 Making an index is not trivial; what to index, and how to index it, is

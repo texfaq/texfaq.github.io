@@ -1,9 +1,10 @@
 ---
 title: Referring to labels in other documents
 category: formatting
-tags: labels references
+tags:
+  - labels
+  - references
 permalink: /FAQ-extref
-date: 2014-06-10
 ---
 
 When producing a set of inter-related documents, you'll often want to

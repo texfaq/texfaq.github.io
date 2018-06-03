@@ -2,7 +2,6 @@
 title: Using symbols
 category: formatting
 permalink: /FAQ-usesymb
-date: 2014-06-10
 ---
 
 Most symbol font sets come with a package that defines commands for

@@ -26,13 +26,10 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-	
+
 	{% if page.category %}
 	<h3><a href="index#{{ page.category }}">{{ page.category | capitalize }}</a></h3>
 	{% endif %}
-
-        <p class="view"><a href="{{ "/about" | absolute_url }}">About the FAQ</a></p>
-        <p class="view"><a href="{{ "/authors" | absolute_url }}">Contributors</a></p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -51,7 +48,10 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>
+           <a href="{{ "/about" | absolute_url }}">About the FAQ</a> &mdash;
+           <a href="{{ "/authors" | absolute_url }}">Contributors</a>
+         </small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

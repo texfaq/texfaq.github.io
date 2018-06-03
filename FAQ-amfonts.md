@@ -3,23 +3,25 @@ title: Where are the `am` fonts?
 category: errors
 tags: deprecated
 permalink: /FAQ-amfonts
-date: 2014-06-10
 ---
 
 One _still_ occasionally comes across a request for the `am`
 series of fonts.  The initials stood for "Almost [Computer] Modern",
 and they were the predecessors of the Computer Modern fonts that we
-all know and love (or hate)
-<sup class="fmk">&dagger;</sup><span class="footnote">&dagger; 
-  The fonts acquired their label "Almost" following the realisation
-  that their first implementation in MetaFont79 still wasn't quite right;
-  Knuth's original intention had been that they were the final answer.
-</span>.
+all know and love (or hate)<sup class="fmk">&dagger;</sup>.
 There's not a lot one can do with these
 fonts; they are (as their name implies) almost (but not quite) the
 same as the `cm` series; if you're faced with a document that requests
 them, the only reasonable approach is to edit the document to replace
 `am*` font names with `cm*`.
+
+
+  > &dagger; 
+  > The fonts acquired their label "Almost" following the realisation
+  > that their first implementation in MetaFont79 still wasn't quite right;
+  > Knuth's original intention had been that they were the final answer.
+
+
 
 The appearance of DVI files that request them is sufficiently
 rare that no-one has undertaken the mammoth task of creating a

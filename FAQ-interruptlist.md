@@ -3,7 +3,6 @@ title: Interrupting enumerated lists
 category: usage
 tags: lists
 permalink: /FAQ-interruptlist
-date: 2014-06-10
 ---
 
 It's often convenient to have commentary text, "outside" the list,

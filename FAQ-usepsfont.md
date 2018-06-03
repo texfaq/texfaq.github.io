@@ -2,7 +2,6 @@
 title: Using Adobe Type 1 fonts with TeX
 category: fonts
 permalink: /FAQ-usepsfont
-date: 2014-06-10
 ---
 
 In order to use any font, TeX needs a

@@ -2,7 +2,6 @@
 title: `epsf` gives up after a bit
 category: errors
 permalink: /FAQ-epsf
-date: 2014-06-10
 ---
 
 Some copies of the documentation of `epsf.tex` seemed once to

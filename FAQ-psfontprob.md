@@ -2,7 +2,6 @@
 title: Deploying Type 1 fonts
 category: fonts
 permalink: /FAQ-psfontprob
-date: 2014-06-10
 ---
 
 For the LaTeX user trying to use the

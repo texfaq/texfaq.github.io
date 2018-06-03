@@ -2,7 +2,6 @@
 title: Typesetting music in TeX
 category: formatting
 permalink: /FAQ-music
-date: 2014-06-10
 ---
 
 The current best bet for music typesetting is to use

@@ -3,7 +3,6 @@ title: The style of document titles
 category: formatting
 tags: structure
 permalink: /FAQ-titlsty
-date: 2014-06-10
 ---
 
 The [`titling`](https://ctan.org/pkg/titling) package provides a number of facilities that

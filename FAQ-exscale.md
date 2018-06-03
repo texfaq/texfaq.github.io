@@ -2,7 +2,6 @@
 title: Maths symbols don't scale up
 category: usage
 permalink: /FAQ-exscale
-date: 2014-06-10
 ---
 
 By default, the "large" maths symbols stay at the same size

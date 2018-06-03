@@ -2,7 +2,6 @@
 title: The comma as a decimal separator
 category: usage
 permalink: /FAQ-dec-comma
-date: 2014-06-10
 ---
 
 TeX embodies the British/American cultural convention of using a

@@ -24,6 +24,8 @@ team; responsibility for the document classes and `amsthm` remains with the
 AMS. The canonical versions of the two collections reside on CTAN in distinct
 areas.
 
+## History
+
 These packages were derived from AMSTeX, a TeX macro package based on Plain
 TeX, originally written by Michael Spivak for the American Mathematical Society
 (AMS) during 1983&ndash;1985 and described in the book "[The Joy of

@@ -2,7 +2,6 @@
 title: Should I use Plain TeX or LaTeX?
 category: background
 permalink: /FAQ-plainvltx
-date: 2014-06-10
 ---
 
 There's no straightforward answer to this question.  Many people swear

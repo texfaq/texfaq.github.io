@@ -2,7 +2,6 @@
 title: What are encodings?
 category: concepts
 permalink: /FAQ-whatenc
-date: 2014-06-10
 ---
 
 Let's start by defining two concepts, the _character_ and the

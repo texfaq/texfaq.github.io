@@ -3,7 +3,6 @@ title: Key-value input for macros and package options
 category: programming
 tags: macros
 permalink: /FAQ-keyval
-date: 2014-06-10
 ---
 
 When we discussed 

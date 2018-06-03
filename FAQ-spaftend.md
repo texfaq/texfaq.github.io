@@ -1,9 +1,10 @@
 ---
 title: There's a space added after my environment
 category: programming
-tags: latex macros
+tags:
+  - latex
+  - macros
 permalink: /FAQ-spaftend
-date: 2014-06-10
 ---
 
 You've written your own environment `env`, and it works

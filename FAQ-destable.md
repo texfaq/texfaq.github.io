@@ -1,9 +1,10 @@
 ---
 title: The design of tables
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-destable
-date: 2014-06-10
 ---
 
 In recent years, several authors have argued that the examples, set

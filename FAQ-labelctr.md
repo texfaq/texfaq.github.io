@@ -1,9 +1,10 @@
 ---
 title: Making labels from a counter
 category: programming
-tags: latex macros
+tags:
+  - latex
+  - macros
 permalink: /FAQ-labelctr
-date: 2014-06-10
 ---
 
 Suppose we have a LaTeX counter, which we've defined with

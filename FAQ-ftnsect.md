@@ -3,7 +3,6 @@ title: Footnotes in LaTeX section headings
 category: usage
 tags: footnotes
 permalink: /FAQ-ftnsect
-date: 2014-06-10
 ---
 
 The `\footnote` command is fragile, so that simply placing the

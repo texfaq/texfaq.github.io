@@ -2,7 +2,6 @@
 title: Top-aligning imported graphics
 category: graphics
 permalink: /FAQ-topgraph
-date: 2014-06-10
 ---
 
 When TeX sets a line of anything, it ensures that the base-line of

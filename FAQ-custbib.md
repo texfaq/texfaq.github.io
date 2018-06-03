@@ -2,7 +2,6 @@
 title: Creating a bibliography style
 category: bibliographies
 permalink: /FAQ-custbib
-date: 2014-06-10
 ---
 
 It _is_ possible to write your own: the standard bibliography

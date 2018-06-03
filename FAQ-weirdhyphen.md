@@ -3,7 +3,6 @@ title: Weird hyphenation of words
 category: usage
 tags: hyphenation
 permalink: /FAQ-weirdhyphen
-date: 2014-06-10
 ---
 
 If your words are being h-yphenated, like this, with jus-t single

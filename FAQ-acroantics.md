@@ -3,7 +3,6 @@ title: Adobe `Reader` messing with print size
 category: formatting
 tags: layout
 permalink: /FAQ-acroantics
-date: 2014-06-10
 ---
 
 Printing from Adobe `Reader` shrinks the page "to fit"

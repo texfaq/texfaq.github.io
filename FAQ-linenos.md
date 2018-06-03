@@ -2,7 +2,6 @@
 title: Including line numbers in typeset output
 category: formatting
 permalink: /FAQ-linenos
-date: 2014-06-10
 ---
 
 For general numbering of lines, there are two packages for use with

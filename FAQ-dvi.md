@@ -2,7 +2,6 @@
 title: What is a DVI file?
 category: concepts
 permalink: /FAQ-dvi
-date: 2014-06-10
 ---
 
 "DVI" is supposed to be an acronym for

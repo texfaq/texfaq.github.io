@@ -3,7 +3,6 @@ title: How to break the 9-argument limit
 category: programming
 tags: macros
 permalink: /FAQ-moren9
-date: 2014-06-10
 ---
 
 If you think about it, you will realise that Knuth's command

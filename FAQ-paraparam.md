@@ -2,7 +2,6 @@
 title: Why does it ignore paragraph parameters?
 category: usage
 permalink: /FAQ-paraparam
-date: 2014-06-10
 ---
 
 When TeX is laying out text, it doesn't work from word to word, or

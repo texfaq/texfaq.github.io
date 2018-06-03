@@ -2,7 +2,6 @@
 title: What is the "Berry naming scheme"?
 category: concepts
 permalink: /FAQ-fontname
-date: 2014-06-10
 ---
 
 In the olden days, (La)TeX distributions were limited by the

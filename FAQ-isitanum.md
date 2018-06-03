@@ -3,7 +3,6 @@ title: Is the argument a number?
 category: programming
 tags: macros
 permalink: /FAQ-isitanum
-date: 2014-06-10
 ---
 
 TeX's own lexical analysis doesn't offer the macro programmer

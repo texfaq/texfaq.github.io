@@ -3,7 +3,6 @@ title: URLs in BibTeX bibliographies
 category: bibliographies
 permalink: /FAQ-citeURL
 redirect_from: /FAQ-citeurl
-date: 2014-06-10
 ---
 
 There is no citation type for URLs, _per se_, in the

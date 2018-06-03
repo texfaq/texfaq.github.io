@@ -2,7 +2,6 @@
 title: Setting bold Greek letters in LaTeX maths
 category: formatting
 permalink: /FAQ-boldgreek
-date: 2014-06-10
 ---
 
 The issue here is complicated by the fact that `\mathbf` (the

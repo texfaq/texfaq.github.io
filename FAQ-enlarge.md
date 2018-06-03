@@ -3,7 +3,6 @@ title: Enlarging TeX
 category: errors
 tags: layout
 permalink: /FAQ-enlarge
-date: 2014-06-10
 ---
 
 The TeX error message "capacity exceeded" covers a multitude of

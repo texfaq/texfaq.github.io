@@ -2,7 +2,6 @@
 title: Other systems' TeX availability
 category: installing
 permalink: /FAQ-sysother
-date: 2014-06-10
 ---
 
 For PCs, running MS-DOS or OS/2, EmTeX (by Eberhard

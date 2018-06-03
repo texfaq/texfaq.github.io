@@ -2,7 +2,6 @@
 title: Entering compatibility mode
 category: errors
 permalink: /FAQ-entercompmode
-date: 2014-06-10
 ---
 
 You run your LaTeX job, and it starts by saying

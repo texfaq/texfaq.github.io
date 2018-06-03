@@ -3,7 +3,6 @@ title: Am I using pdfTeX, XeTeX or LuaTeX?
 category: programming
 tags: macros
 permalink: /FAQ-whatengine
-date: 2014-06-10
 ---
 
 You often need to know what "engine" your macros are running on (the

@@ -2,7 +2,6 @@
 title: Repeated graphics in a document
 category: graphics
 permalink: /FAQ-repeatgrf
-date: 2014-06-10
 ---
 
 A logo or "watermark" image, or any other image that is repeated in

@@ -3,7 +3,6 @@ title: Theorem bodies printed in a roman font
 category: usage
 tags: math
 permalink: /FAQ-theoremfmt
-date: 2014-06-10
 ---
 
 If you want to take advantage of the powerful `\newtheorem` command

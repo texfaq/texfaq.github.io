@@ -3,7 +3,6 @@ title: Numbers for referenced equations only
 category: usage
 tags: math
 permalink: /FAQ-mathonlyref
-date: 2014-06-10
 ---
 
 There are those who consider that papers look untidy with numbers on

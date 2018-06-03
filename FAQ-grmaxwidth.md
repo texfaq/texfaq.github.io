@@ -2,7 +2,6 @@
 title: Limit the width of imported graphics
 category: graphics
 permalink: /FAQ-grmaxwidth
-date: 2014-06-10
 ---
 
 Suppose you have graphics which may or may not be able to fit within

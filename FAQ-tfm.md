@@ -2,7 +2,6 @@
 title: What are TFM files?
 category: concepts
 permalink: /FAQ-tfm
-date: 2014-06-10
 ---
 
 TFM is an acronym for "TeX Font Metrics"; TFM files hold

@@ -2,7 +2,6 @@
 title: Macintosh systems
 category: installing
 permalink: /FAQ-sysmac
-date: 2014-06-10
 ---
 
 The [TeX collection](FAQ-CD) DVD includes MacTeX,

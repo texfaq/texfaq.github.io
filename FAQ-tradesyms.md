@@ -2,7 +2,6 @@
 title: How to get copyright, trademark, etc.
 category: formatting
 permalink: /FAQ-tradesyms
-date: 2014-06-10
 ---
 
 The "[Comprehensive symbol list](FAQ-symbols)", lists

@@ -2,7 +2,6 @@
 title: Numbers too large in table of contents, etc.
 category: usage
 permalink: /FAQ-tocloftwrong
-date: 2014-06-10
 ---
 
 LaTeX constructs the table of contents, list of figures, tables,

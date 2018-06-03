@@ -2,7 +2,6 @@
 title: Why doesn't `\linespread` work?
 category: usage
 permalink: /FAQ-linespread
-date: 2014-06-10
 ---
 
 The command `\linespread{factor}` is supposed to multiply

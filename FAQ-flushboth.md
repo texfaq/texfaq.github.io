@@ -2,7 +2,6 @@
 title: Cancelling `\ragged` commands
 category: formatting
 permalink: /FAQ-flushboth
-date: 2014-06-10
 ---
 
 LaTeX provides commands `\raggedright` and `\raggedleft`, but

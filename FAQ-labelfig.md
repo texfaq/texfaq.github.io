@@ -2,7 +2,6 @@
 title: Labelling graphics
 category: graphics
 permalink: /FAQ-labelfig
-date: 2014-06-10
 ---
 
 "Technical" graphics (such as graphs and diagrams) are often

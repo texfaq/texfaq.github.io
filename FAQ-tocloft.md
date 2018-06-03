@@ -1,9 +1,10 @@
 ---
 title: The format of the Table of Contents, etc.
 category: formatting
-tags: toc index
+tags:
+  - toc
+  - index
 permalink: /FAQ-tocloft
-date: 2014-06-10
 ---
 
 The formats of entries in the table of contents (TOC) are

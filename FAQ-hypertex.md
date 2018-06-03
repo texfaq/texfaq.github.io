@@ -2,7 +2,6 @@
 title: The hyperTeX project
 category: usage
 permalink: /FAQ-hypertex
-date: 2014-06-10
 ---
 
 The hyperTeX project extended the functionality of all the

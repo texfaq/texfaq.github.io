@@ -2,7 +2,6 @@
 title: Why use `\[` &hellip;`\]` in place of `$$` &hellip; `$$`?
 category: usage
 permalink: /FAQ-dolldoll
-date: 2014-06-10
 ---
 
 LaTeX defines inline- and display-maths commands, apparently

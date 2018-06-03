@@ -1,9 +1,10 @@
 ---
 title: How to change a whole row of a table
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-wholerow
-date: 2014-06-10
 ---
 
 Each cell of a table is set in a box, so that a change of font style

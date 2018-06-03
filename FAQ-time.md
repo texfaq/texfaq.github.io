@@ -2,7 +2,6 @@
 title: Printing the time
 category: formatting
 permalink: /FAQ-time
-date: 2014-06-10
 ---
 
 TeX has a primitive register that contains "the number of minutes

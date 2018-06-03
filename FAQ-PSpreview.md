@@ -3,7 +3,6 @@ title: Previewing files using Type 1 fonts
 category: fonts
 permalink: /FAQ-PSpreview
 redirect_from: /FAQ-pspreview
-date: 2014-06-10
 ---
 
 Originally, free TeX previewers were only capable of displaying

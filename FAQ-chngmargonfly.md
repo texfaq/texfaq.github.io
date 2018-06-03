@@ -3,7 +3,6 @@ title: Changing margins "on the fly"
 category: formatting
 tags: layout
 permalink: /FAQ-chngmargonfly
-date: 2014-06-10
 ---
 
 One of the surprises characteristic of TeX use is that you cannot

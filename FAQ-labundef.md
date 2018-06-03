@@ -1,9 +1,10 @@
 ---
 title: Finding if a label is undefined
 category: programming
-tags: latex macros
+tags:
+  - latex
+  - macros
 permalink: /FAQ-labundef
-date: 2014-06-10
 ---
 
 People seem to want to know (at run time) if a label is undefined (I

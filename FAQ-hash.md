@@ -3,7 +3,6 @@ title: Defining macros within macros
 category: programming
 tags: macros
 permalink: /FAQ-hash
-date: 2014-06-10
 ---
 
 The way to think of this is that `##` gets replaced by `#` in just the

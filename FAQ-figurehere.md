@@ -1,9 +1,10 @@
 ---
 title: Figure (or table) _exactly_ where I want it
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-figurehere
-date: 2014-06-10
 ---
 
 This is of course a contradiction: `figure` and

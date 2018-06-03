@@ -2,7 +2,6 @@
 title: In-line source for graphics applications
 category: graphics
 permalink: /FAQ-inlgrphapp
-date: 2014-06-10
 ---
 
 Some of the free-standing graphics applications may also be used

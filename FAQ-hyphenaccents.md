@@ -3,7 +3,6 @@ title: Accented words aren't hyphenated
 category: usage
 tags: hyphenation
 permalink: /FAQ-hyphenaccents
-date: 2014-06-10
 ---
 
 TeX's algorithm for hyphenation gives up when it encounters an

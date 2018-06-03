@@ -3,7 +3,6 @@ title: Active characters in command arguments
 category: programming
 tags: macros
 permalink: /FAQ-actinarg
-date: 2014-06-10
 ---
 
 Occasionally, it's nice to make one or two characters active in the

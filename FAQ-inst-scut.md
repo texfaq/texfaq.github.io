@@ -2,7 +2,6 @@
 title: Shortcuts to installing files
 category: installing
 permalink: /FAQ-inst-scut
-date: 2014-06-10
 ---
 
 There are circumstances in which most of the fuss of installation can

@@ -3,7 +3,6 @@ title: The style of section headings
 category: formatting
 tags: structure
 permalink: /FAQ-secthead
-date: 2014-06-10
 ---
 
 Suppose that the editor of your favourite journal has specified that section

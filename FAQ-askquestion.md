@@ -2,7 +2,6 @@
 title: How to ask a question
 category: documentation
 permalink: /FAQ-askquestion
-date: 2014-06-10
 ---
 
 You want help from the community at large; you've decided where you're

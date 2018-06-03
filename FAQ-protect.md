@@ -1,9 +1,10 @@
 ---
 title: What's the reason for "protection"?
 category: programming
-tags: macros latex
+tags:
+  - latex
+  - macros
 permalink: /FAQ-protect
-date: 2014-06-10
 ---
 
 Sometimes LaTeX saves data it will reread later. These data are

@@ -1,9 +1,10 @@
 ---
 title: How to print contents of variables?
 category: programming
-tags: macros latex
+tags:
+  - latex
+  - macros
 permalink: /FAQ-printvar
-date: 2014-06-10
 ---
 
 It is often useful to print out the values of variables in the log

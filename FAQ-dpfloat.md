@@ -1,9 +1,10 @@
 ---
 title: Facing floats on 2-page spread
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-dpfloat
-date: 2014-06-10
 ---
 
 If a pair of floats need to be forced to form a 2-page spread (in a

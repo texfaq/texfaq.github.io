@@ -3,7 +3,6 @@ title: What are the EC fonts?
 category: concepts
 permalink: /FAQ-ECfonts
 redirect_from: /FAQ-ecfonts
-date: 2014-06-10
 ---
 
 A font provides a number of _glyphs_. In order that the glyphs

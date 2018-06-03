@@ -2,7 +2,6 @@
 title: Installation using MiKTeX package manager
 category: installing
 permalink: /FAQ-inst-miktexstar
-date: 2014-06-10
 ---
 
 Packages for use with MiKTeX are maintained very efficiently by the

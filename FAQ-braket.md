@@ -3,7 +3,6 @@ title: Set specifications and Dirac brackets
 category: usage
 tags: math
 permalink: /FAQ-braket
-date: 2014-06-10
 ---
 
 One of the few glaring omissions from TeX's mathematical

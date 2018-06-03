@@ -2,7 +2,6 @@
 title: Graphics division by zero
 category: errors
 permalink: /FAQ-divzero
-date: 2014-06-10
 ---
 
 While the error

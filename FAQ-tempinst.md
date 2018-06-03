@@ -2,7 +2,6 @@
 title: "Temporary" installation of (La)TeX files
 category: installing
 permalink: /FAQ-tempinst
-date: 2014-06-10
 ---
 
 Operating systems and applications need to know where to find files:

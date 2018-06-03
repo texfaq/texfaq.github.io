@@ -2,7 +2,6 @@
 title: Books on other TeX-related matters
 category: documentation
 permalink: /FAQ-other-books
-date: 2014-06-10
 ---
 
 There's a nicely-presented list of of "recommended books" to be had

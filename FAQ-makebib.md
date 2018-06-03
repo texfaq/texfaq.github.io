@@ -2,7 +2,6 @@
 title: Reconstructing `bib` files
 category: bibliographies
 permalink: /FAQ-makebib
-date: 2014-06-10
 ---
 
 Perhaps you've lost the `bib` file you generated your document from,

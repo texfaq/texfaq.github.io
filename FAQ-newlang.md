@@ -3,7 +3,6 @@ title: Using a new language with Babel
 category: usage
 tags: hyphenation
 permalink: /FAQ-newlang
-date: 2014-06-10
 ---
 
 [`Babel`](https://ctan.org/pkg/Babel) is capable of working with a large range of

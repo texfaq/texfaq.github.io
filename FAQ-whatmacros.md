@@ -2,7 +2,6 @@
 title: What are (TeX) macros
 category: concepts
 permalink: /FAQ-whatmacros
-date: 2014-06-10
 ---
 
 TeX is a _macro processor_: this is a computer-science-y term

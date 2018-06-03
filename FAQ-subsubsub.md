@@ -3,7 +3,6 @@ title: How to create a `\subsubsubsection`
 category: formatting
 tags: structure
 permalink: /FAQ-subsubsub
-date: 2014-06-10
 ---
 
 LaTeX's set of "sections" stops at the level of

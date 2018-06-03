@@ -2,7 +2,6 @@
 title: Tidying up after installation
 category: installing
 permalink: /FAQ-inst-tidy
-date: 2014-06-10
 ---
 
 There's not usually a lot to do after you've completed the steps

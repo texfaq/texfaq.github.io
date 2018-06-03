@@ -2,7 +2,6 @@
 title: My brackets don't match
 category: errors
 permalink: /FAQ-matchbrak
-date: 2014-06-10
 ---
 
 (La)TeX has a low-level mechanism for matching braces in document

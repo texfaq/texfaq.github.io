@@ -2,7 +2,6 @@
 title: Accents misbehave in `tabbing`
 category: errors
 permalink: /FAQ-tabacc
-date: 2014-06-10
 ---
 
 So you are constructing a `tabbing` environment, and you

@@ -3,7 +3,6 @@ title: Fancy enumeration lists
 category: usage
 tags: lists
 permalink: /FAQ-enumerate
-date: 2014-06-10
 ---
 
 The [`enumerate`](https://ctan.org/pkg/enumerate) package allows you to control the display of
@@ -31,7 +30,7 @@ starts a list whose labels run (a), (b), (c), &hellip;; while
 ```
 starts a list whose labels run I/, II/, III/, &hellip;
 
-The [`paralist`](https://ctan.org/pkg/paralist) package, whose primary purpose is 
+The [`paralist`](https://ctan.org/pkg/paralist) package, whose primary purpose is
 [compaction of lists](FAQ-complist), provides the same facilities
 for its `enumerate`-like environments.
 
@@ -61,8 +60,3 @@ to make references to the list items format appear as (i), (ii),
 The [`memoir`](https://ctan.org/pkg/memoir) class includes functions that match those in the
 [`enumerate`](https://ctan.org/pkg/enumerate) package, and has similar functionality for
 `itemize` lists.
-%% ```latex
-%%    \renewcommand{\theenumi}{\Roman{enumi}}
-%%    \renewcommand{\labelenumi}{\theenumi/}
-%% ```
-

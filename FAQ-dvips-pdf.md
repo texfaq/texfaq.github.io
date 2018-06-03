@@ -2,7 +2,6 @@
 title: Quality of PDF from PostScript
 category: misc
 permalink: /FAQ-dvips-pdf
-date: 2014-06-10
 ---
 
 Any reasonable PostScript, including any output of `dvips`, may be

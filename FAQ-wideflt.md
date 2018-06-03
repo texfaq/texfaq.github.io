@@ -1,9 +1,10 @@
 ---
 title: Centring a very wide figure or table
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-wideflt
-date: 2014-06-10
 ---
 
 The normal means of centring a figure or table object is to include

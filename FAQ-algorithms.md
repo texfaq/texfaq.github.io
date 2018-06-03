@@ -2,7 +2,6 @@
 title: Typesetting pseudocode in LaTeX
 category: formatting
 permalink: /FAQ-algorithms
-date: 2014-06-10
 ---
 
 There is no consensus on the "right" way to typeset pseudocode.

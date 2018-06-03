@@ -3,7 +3,6 @@ title: Footnotes in tables
 category: usage
 tags: footnotes
 permalink: /FAQ-footintab
-date: 2014-06-10
 ---
 
 The standard LaTeX `\footnote` command doesn't work in tables;

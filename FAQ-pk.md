@@ -2,7 +2,6 @@
 title: What are PK files?
 category: concepts
 permalink: /FAQ-pk
-date: 2014-06-10
 ---
 
 PK files (packed raster) are the canonical form of TeX font

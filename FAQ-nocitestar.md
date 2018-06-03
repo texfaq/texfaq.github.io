@@ -2,7 +2,6 @@
 title: Listing all your BibTeX entries
 category: bibliographies
 permalink: /FAQ-nocitestar
-date: 2014-06-10
 ---
 
 LaTeX and BibTeX co-operate to offer special treatment of this

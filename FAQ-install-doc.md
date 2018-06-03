@@ -2,7 +2,6 @@
 title: Generating package documentation
 category: installing
 permalink: /FAQ-install-doc
-date: 2014-06-10
 ---
 
 We are faced with a range of "normal" provision, as well as several

@@ -1,9 +1,10 @@
 ---
 title: The thickness of rules in LaTeX tables
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-rulethk
-date: 2014-06-10
 ---
 
 The rules in a LaTeX table are by default `0.4pt` thick;

@@ -2,7 +2,6 @@
 title: Checksum mismatch in font
 category: errors
 permalink: /FAQ-checksum
-date: 2014-06-10
 ---
 
 When MetaFont generates a font it includes a checksum in the font bitmap

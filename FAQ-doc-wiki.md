@@ -2,7 +2,6 @@
 title: WIKI books for TeX and friends
 category: documentation
 permalink: /FAQ-doc-wiki
-date: 2014-06-10
 ---
 
 The _WIKI_ concept can be a boon to everyone, if used sensibly.

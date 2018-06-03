@@ -1,9 +1,10 @@
 ---
 title: Spacing lines in tables
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-struttab
-date: 2014-06-10
 ---
 
 (La)TeX mechanisms for maintaining the space between lines (the

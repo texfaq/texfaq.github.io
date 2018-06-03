@@ -3,7 +3,6 @@ title: Replacing the standard classes
 category: formatting
 tags: classes
 permalink: /FAQ-replstdcls
-date: 2014-06-10
 ---
 
 People are forever concocting classes that replace the standard ones:

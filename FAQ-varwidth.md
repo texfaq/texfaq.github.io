@@ -2,7 +2,6 @@
 title: Automatic sizing of `minipage`
 category: misc
 permalink: /FAQ-varwidth
-date: 2014-06-10
 ---
 
 The `minipage` environment requires you to specify the

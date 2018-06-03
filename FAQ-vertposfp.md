@@ -1,9 +1,10 @@
 ---
 title: Vertical layout of float pages
 category: floats
-tags: tables figures
+tags:
+  - tables
+  - figures
 permalink: /FAQ-vertposfp
-date: 2014-06-10
 ---
 
 By default, LaTeX vertically centers the floats on a float page;

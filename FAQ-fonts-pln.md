@@ -2,7 +2,6 @@
 title: Using non-standard fonts in Plain TeX
 category: fonts
 permalink: /FAQ-fonts-pln
-date: 2014-06-10
 ---
 
 Plain TeX (in accordance with its description) doesn't do anything

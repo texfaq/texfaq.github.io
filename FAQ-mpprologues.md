@@ -2,7 +2,6 @@
 title: Displaying MetaPost output in `ghostscript`
 category: graphics
 permalink: /FAQ-mpprologues
-date: 2014-06-10
 ---
 
 MetaPost ordinarily expects its output to be included in some context

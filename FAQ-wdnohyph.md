@@ -3,7 +3,6 @@ title: Preventing hyphenation of a particular word
 category: usage
 tags: hyphenation
 permalink: /FAQ-wdnohyph
-date: 2014-06-10
 ---
 
 It's quite possible for (_any_) hyphenation of a particular word
