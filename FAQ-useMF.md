@@ -51,15 +51,15 @@ Now you need to make sure MetaFont loads this new base when it starts up. If
 MetaFont loads the `plain` base by default on your system, then you're
 ready to go. Under Unix (using the default TeX&nbsp;Live (and earlier)
 distributions this does indeed happen, but we could for instance
-define a command `plainmf`
-<sup class="fmk">&dagger;</sup><span class="footnote">&dagger; 
-  On the grounds that a command `plain` could be misconstrued
-  as a reference to Plain TeX
-</span>
+define a command `plainmf`<sup class="fmk">&dagger;</sup>
 which executes `mf -base=plain` (or, in more traditional
 style `mf & lain`) which loads the `plain` base
 file.
 
+  > &dagger; 
+  > On the grounds that a command `plain` could be misconstrued
+  > as a reference to Plain TeX.
+  
 The usual way to create a font with MetaFont (with an appropriate base
 file loaded) is to start MetaFont's input with the
 line
