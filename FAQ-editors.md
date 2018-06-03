@@ -8,7 +8,9 @@ There are good TeX-writing environments and editors for most
 operating systems; some are described below, but this is only a
 personal selection:
 
-- Unix The commonest choices are [X]Emacs or
+- Unix: 
+
+  The commonest choices are [X]Emacs or
   `vim`, though several others are available.
 
   [GNU&nbsp;`emacs`](http://www.gnu.org/software/emacs/emacs.html)
@@ -57,7 +59,9 @@ personal selection:
 
   A possible alternative is
   [TeXstudio](http://texstudio.sourceforge.net/)
-- Windows-32`TeXnicCenter` is a (free)
+- Windows-32: 
+  
+  `TeXnicCenter` is a (free)
   TeX-oriented development system, uniting a powerful platform for
   executing (La)TeX and friends with a configurable editor.
 
@@ -72,7 +76,9 @@ personal selection:
 
   Both `emacs` and `vim` are available in versions
   for Windows systems.
-- Macintosh For Mac OS/X users, the free tool of choice appears to be
+- Macintosh: 
+
+  For Mac OS/X users, the free tool of choice appears to be
   [TeXshop](http://pages.uoregon.edu/koch/texshop/index.html), which
   combines an editor and a shell with a coherent philosophy of dealing
   with (La)TeX in the OS&nbsp;X environment.  TeXShop is distributed as
@@ -86,7 +92,7 @@ personal selection:
   is the shareware `Alpha` which is extensible enough to let
   you perform almost any TeX-related job. It also works well with
   OzTeX.  From release 2.2.0 (at least), Textures works under Mac OS/X.
-- OS/2 `epmtex` offers an OS/2-specific shell.
+- OS/2: `epmtex` offers an OS/2-specific shell.
 
 Atari, Amiga and NeXT users also have nice
 environments. LaTeX users looking for `make`-like
