@@ -66,7 +66,7 @@ script, [`Pygments`](http://pygments.org/).
 language you want to process; lots of these are available, for the
 more commonly-used languages, and there is advice on
 "rolling your own" on the 
-[`Pygments`](http://pygments.org/docs/lexerdevelopment/) site</a>
+[`Pygments`](http://pygments.org/docs/lexerdevelopment/) site
 
 Usage of [`minted`](https://ctan.org/pkg/minted) can be as simple as
   `\begin{minted}{<language>}`
