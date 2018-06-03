@@ -27,7 +27,7 @@ correct:
   \end{enumerate}
 \end{tabular}
 ```
-produces the error at the `\ `.  This usage is just wrong; if you
+produces the error at the `\\`.  This usage is just wrong; if you
 want to number the cells in a table, you have to do it "by hand":
 ```latex
 \newcounter{tablecell}
