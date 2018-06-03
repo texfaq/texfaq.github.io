@@ -31,8 +31,8 @@ one needs to type.
 If even that one character is too many, the package [`xspace`](https://ctan.org/pkg/xspace)
 defines a command `\xspace` that guesses whether there should have
 been a space after it, and if so introduces that space.  So
-`fred`\xspace` jim` produces "fred jim", while
-`fred`\xspace`. jim` produces "fred. jim".  Which
+`fred\xspace jim` produces "fred jim", while
+`fred\xspace. jim` produces "fred. jim".  Which
 usage would of course be completely pointless; but you can incorporate
 `\xspace` in your own macros:
 ```latex
