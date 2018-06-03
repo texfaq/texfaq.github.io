@@ -30,10 +30,6 @@ Based on https://github.com/codinfox/codinfox-lanyon/blob/master/blog/tag.html
 {%- endif -%}
 {%- endfor -%}
 
-<h1 class="page-title">
-  <a href="/tags">FAQ Tags</a> | {{ page.title }}
-</h1>
-
 <ul class="tags">
 {%- for tag in tags %}
   <li><a href="#{{ tag }}"> {{ tag | capitalize }} </a></li>
