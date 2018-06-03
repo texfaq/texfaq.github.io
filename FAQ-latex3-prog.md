@@ -1,6 +1,8 @@
 ---
 title: LaTeX3 programming
 category: programming
+tags:
+  - latex3
 permalink: /FAQ-latex3-prog
 ---
 

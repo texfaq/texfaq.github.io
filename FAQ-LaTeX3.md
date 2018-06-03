@@ -1,6 +1,8 @@
 ---
 title: The LaTeX project
 category: misc
+tags:
+  - latex3
 permalink: /FAQ-LaTeX3
 redirect_from: /FAQ-latex3
 date: 2018-05-24

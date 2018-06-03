@@ -1,6 +1,8 @@
 ---
 title: Support package `expl3` too old
 category: errors
+tags:
+  - latex3
 permalink: /FAQ-expl3-old
 ---
 
