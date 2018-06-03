@@ -12,7 +12,7 @@ all have their limitations because the TeX machine isn't really
 designed to solve this sort of problem.  Piet van Oostrum has
 conducted a survey of the available packages; he recommends:
 
-- `floatflt` [`floatflt`](https://ctan.org/pkg/floatflt) is an improved version
+- [`floatflt`](https://ctan.org/pkg/floatflt) is an improved version
   (for LaTeX2e) of `floatfig.sty`, and its syntax is:
 ```latex
 \begin{floatingfigure}[options]{width of figure}
@@ -29,7 +29,7 @@ conducted a survey of the available packages; he recommends:
   in the neighbourhood of list environments (unless you change your
   LaTeX document).
 
-- `wrapfig` [`wrapfig`](https://ctan.org/pkg/wrapfig) has syntax:
+- [`wrapfig`](https://ctan.org/pkg/wrapfig) has syntax:
 ```latex
 \begin{wrapfigure}[height of figure in lines]{l,r,...}[overhang]{width}
   figure, caption, etc.
@@ -52,7 +52,7 @@ conducted a survey of the available packages; he recommends:
     before the figure or table has finished, but can be used in a
     parbox or minipage, and in twocolumn format.
 
-- `picins` [`Picins`](https://ctan.org/pkg/Picins) is part of a large bundle
+- [`Picins`](https://ctan.org/pkg/Picins) is part of a large bundle
     that allows inclusion of pictures (e.g., with shadow boxes,
     various MS-DOS formats, etc.).  The command for inserting a
     picture at the start of a paragraph is:

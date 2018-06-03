@@ -50,5 +50,5 @@ Many classes, designed to produce typeset results other than on
 ranges of sizes.  This is true, for example, of 
 [poster classes](FAQ-poster) (such as [`a0poster`](https://ctan.org/pkg/a0poster)), and of
 [presentation and lecturing classes](FAQ-slidecls) (such as
-[`beamer`](https://ctan.org/pkg/beamer).
+[`beamer`](https://ctan.org/pkg/beamer)).
 
