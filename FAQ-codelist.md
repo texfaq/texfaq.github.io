@@ -69,11 +69,11 @@ more commonly-used languages, and there is advice on
 [`Pygments`](http://pygments.org/docs/lexerdevelopment/) site
 
 Usage of [`minted`](https://ctan.org/pkg/minted) can be as simple as
-  `\begin{minted}{<language>}`
-
-  &hellip;
-
-  `\end{minted}`
+```latex
+\begin{minted}{<language>}
+...
+\end{minted}
+```
 which processes the program code dynamically, at typesetting time&nbsp;&mdash;
 though such usage is likely to require that 
 [separate processing be enabled](FAQ-spawnprog).
