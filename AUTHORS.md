@@ -15,6 +15,7 @@ The following people are _known_ to have contributed to the FAQ:
 - Charles Cameron
 - David Carlisle
 - François Charette
+- Paulo Cereda
 - Damian Cugley
 - Martin Garrod
 - Michael Dewey
