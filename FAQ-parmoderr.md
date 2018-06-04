@@ -1,7 +1,7 @@
 ---
 title: Not in outer par mode
 category: errors
-permalink: /FAQ-parmoder
+permalink: /FAQ-parmoderr
 redirect_from: /FAQ-ouparmd
 date: 2018-05-27
 ---
