@@ -2,6 +2,7 @@
 title: What is CTAN?
 category: background
 permalink: /FAQ-ctan
+date: 2018-05-27
 ---
 
 The acronym stands for "Comprehensive TeX Archive Network", which
@@ -33,7 +34,7 @@ CPAN (Perl) mirror and as a SourceForge (general free software)
 mirror, and &hellip;
 
 Functions carried out by the core archive are:
-  
+
 - Uploads: users may [submit new (or updated) material](FAQ-uploads)
 - Notifications: Significant changes to the archive are reported via the
   mailing list <ctan-ann@dante.de>
@@ -49,5 +50,3 @@ mirror monitor's database, and uses the caller's geographical location to
 offer an efficient choice of "sufficiently up-to-date" mirror site for
 you to connect to.  This procedure has the advantage of distributing
 the load on CTAN mirrors.
-
-
