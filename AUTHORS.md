@@ -5,7 +5,7 @@ permalink: /authors
 
 The following people are _known_ to have contributed to the FAQ:
 
-- *Robin Fairbairns*
+- **Robin Fairbairns**
 - William Adams
 - Donald Arseneau
 - Rosemary Bailey
