@@ -7,7 +7,7 @@ layout: default
 {{content}}
 
 {% if page.path contains "FAQ-" %}
-  <p><small>FAQ ID: {{ page.path | remove_first: "FA" | remove_first: ".md" }}
+  <p><small>FAQ ID: <a href="index#{{ page.path  | remove_first: ".md" }}">{{ page.path | remove_first: "FA" | remove_first: ".md" }}</a>
   {% if page.tags %}
     <br />Tags:&nbsp;
       {%- for tag in page.tags -%}
