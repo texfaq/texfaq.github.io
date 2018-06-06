@@ -7,6 +7,11 @@ https://github.com/uktug/uk-tex-faq/blob/master/ChangeLog
 The format is based on [Keep a
 Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2018-06-06
+
+### Changed
+- Q-capbibtex: Prefer protecting entire words, not just letters
+
 ## 2018-06-01
 
 ### Changed
