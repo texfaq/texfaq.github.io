@@ -6,12 +6,13 @@ permalink: /FAQ-formbiblabel
 ---
 
 By default, LaTeX makes entries in the bibliography look like:
-  [1] Doe, Joe et al.  Some journal.  2004.
 
-  {[2]} Doe, Jane et al. Some journal. 2003.
+  [1] Doe, Joe et al.  Some journal.  2004.<br/>
+  [2] Doe, Jane et al. Some journal. 2003.
+  
 while many documents need something like:
-  1. Doe, Joe et al.  Some journal.  2004.
 
+  1. Doe, Joe et al.  Some journal.  2004.<br/>
   2. Doe, Jane et al. Some journal. 2003.
 
 This sort of change may be achieved by many of the "general"
