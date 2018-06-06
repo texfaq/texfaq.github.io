@@ -1,5 +1,5 @@
 ---
-title: "Please type a command or say `\end`"
+title: Please type a command or say `\end`
 category: errors
 permalink: /FAQ-typend
 ---
