@@ -27,11 +27,12 @@ their layout:
 the `\@fptop` skip is always followed by a correction for that.)
 
 The LaTeX defaults are:
-  `\@fptop` = `0pt + 1fil`
 
-  `\@fpsep` = `8pt + 2fil`
-
-  `\@fpbot` = `0pt + 1fil`
+```latex
+  \@fptop = 0pt + 1fil
+  \@fpsep = 8pt + 2fil
+  \@fpbot = 0pt + 1fil
+```
 
 so that the gaps expand to fill the space not occupied by floats, but
 if there is more than one float on the page, the gap between them will
