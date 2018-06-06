@@ -6,7 +6,7 @@ permalink: /FAQ-altabcr
 
 This is an error you may encounter in LaTeX when a tabular
 environment is being processed.  "Alignment tabs" are the
-`\&` signs that separate the columns of a `tabular`
+`&` signs that separate the columns of a `tabular`
 (or `array` or matrix) environment; so the error message
 ```latex
 ! Extra alignment tab has been changed to \cr
@@ -18,7 +18,7 @@ could arise from a simple typo, such as:
   goodbye & now
 \end{tabular}
 ```
-where the second `\&` in the first line of the table is more than the
+where the second `&` in the first line of the table is more than the
 two-column `ll` column specification can cope with. In this
 case, an extra `l` in that solves the problem.  (If you
 continue from the error in this case, `jim` will be moved
@@ -56,8 +56,8 @@ the problem here (as explained in
 `\raggedright` command in the column specification has overwritten
 `tabular`s definition of `\\`, so that
 `happy` appears in a new line of the second column, and the
-following `\&` appears to LaTeX just like the second
-`\&` in the first example above.
+following `&` appears to LaTeX just like the second
+`&` in the first example above.
 
 Get rid of the error in the way described in 
 [tabular cell alignment](FAQ-tabcellalign)&nbsp;&mdash; either use

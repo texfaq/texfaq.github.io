@@ -21,7 +21,7 @@ switches the meaning to a value for use in the table, and
 `\centering`, `\raggedright` and `\raggedleft` all change the
 meaning to something incompatible.  Note that the problem only
 arises in the last cell of a row: since each cell is set into a box,
-its settings are lost at the `\&` (or `\\`) that
+its settings are lost at the `&` (or `\\`) that
 terminates it. 
 
 In the old days, the actual value of `\\` that the
