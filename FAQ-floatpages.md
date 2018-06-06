@@ -12,7 +12,7 @@ It's sometimes necessary to force a float to live on a page by itself.
 page by itself.)  When the float fails to "set", and waits for the end
 of a chapter or of the document, the natural thing to do is to declare
 the float as
-  `\begin{figure}`[p!]
+  `\begin{figure}[p!]`
 but the overriding `!` modifier has no effect on float page floats; so
 you have to make the float satisfy the parameters.
 [Moving tables and figures](FAQ-floats) offers some
