@@ -18,6 +18,8 @@ from the main index) over time.
 The source code [is on GitHub](https://github.com/texfaq/texfaq.github.io/),
 please see [CONTRIBUTING](CONTRIBUTING) and [LICENSE](LICENSE) for details.
 
+Recent Changes are listed in the [Change Log](CHANGELOG).
+
 ## Impressum
 
 > Joseph Wright<br />
