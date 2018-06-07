@@ -14,14 +14,14 @@ formulae, etc.).
 
 The solution is to enclose the words or letters whose capitalisation
 BibTeX should not touch in braces, as:
-```bibtex
+```
 title = {The {THE} operating system},
 title = {On the Theory of {Brontosauruses}},
 ```
 Sometimes you find BibTeX changing the case of a single letter
 inappropriately.  No matter: the technique can be applied to single
 letters, as in:
-```bibtex
+```
 title = {Te{X}niques and tips},
 ```
 Braces can prevent kerning between letters, so it is in general preferable
@@ -33,7 +33,7 @@ capitalisation, you should acquire a bibliography style that doesn't
 enforce BibTeX's default rules.  It is definitely _not_ a good
 idea to enclose an entire title in braces, as in
 <!-- {% raw %} -->
-```bibtex
+```
 title = {{TeXniques and tips}},
 ```
 <!-- {% endraw %} -->
@@ -46,4 +46,3 @@ style with different capitalisation rules.
 
 There's more on the subject in the
 [BibTeX documentation](FAQ-BibTeXing).
-
