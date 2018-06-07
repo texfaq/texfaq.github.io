@@ -97,6 +97,7 @@ The following people are _known_ to have contributed to the FAQ:
 - Ulrik Vieth
 - Mike Vulis
 - Chris Walker
+- Moritz Wemheuer
 - Peter Wilson
 - Joseph Wright
 - Rick Zaccone
