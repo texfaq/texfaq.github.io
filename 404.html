@@ -21,7 +21,8 @@ permalink: /404.html
 <script>
   // lowercase the URL except for /FAQ-
   var lc = document.location.href.toLowerCase()
-  var newurl=lc.replace('/faq-','/FAQ-').replace('/contributing','/CONTRIBUTING').replace('/license','/LICENSE')
+  var newurl=lc.replace(/\/(faq-|contributing|license|changelog)/,
+                          function(v) { return v.toUpperCase(); })
   if(newurl !==document.location.href) window.location.replace(newurl);
 </script>
 </head>
@@ -46,6 +47,7 @@ permalink: /404.html
       <p>Page not found.</p>
       <p><a href="/">Try searching the main FAQ index.</a></p>
       </section>
+    </div>
   </body>
 </html>
 
