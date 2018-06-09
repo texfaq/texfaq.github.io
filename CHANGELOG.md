@@ -7,6 +7,14 @@ file. Changes prior to the switch to Markdown format are available from
 The format is based on [Keep a
 Changelog](https://keepachangelog.com/en/1.0.0/).
 
+
+## 2018-06-09
+
+### Changed
+
+- Q-2colfltorder: double column float order was fixed in 2015 release
+- Q-2colfloat: double column float order was fixed in 2015 release
+
 ## 2018-06-06
 
 ### Changed

@@ -23,11 +23,7 @@ Barbara Beeton's article
 gives a manual method for doing the same.
 
 The [`stfloats`](https://ctan.org/pkg/stfloats) package also ameliorates the situation somewhat, and
-makes LaTeX honour "[b]" placement as well; the
-[`dblfloatfix`](https://ctan.org/pkg/dblfloatfix) package combines a tidied version of the changes
-made in [`stfloats`](https://ctan.org/pkg/stfloats) with the
-  [float ordering corrections](FAQ-2colfltorder) defined in
-  [`fixltx2e`](https://ctan.org/pkg/fixltx2e).
+makes LaTeX honour "[b]" placement as well.
 
 A particular problem with [`stfloats`](https://ctan.org/pkg/stfloats) and [`dblfloatfix`](https://ctan.org/pkg/dblfloatfix)
 is that the float will appear, at its earliest, on the page after it
@@ -42,3 +38,9 @@ LaTeX honour "[h]" placement of double-column floats, but the
 [`midfloat`](https://ctan.org/pkg/midfloat) package can be pressed into service to provide
 something approximating the effect it would have.)
 
+Prior to the LaTeX2e 2015 release, double and single column floats were maintained
+in separate lists and could be output in the wrong order. For these older releases
+[`dblfloatfix`](https://ctan.org/pkg/dblfloatfix) package combines a tidied version of the changes
+made in [`stfloats`](https://ctan.org/pkg/stfloats) with the
+  [float ordering corrections](FAQ-2colfltorder) defined in
+  [`fixltx2e`](https://ctan.org/pkg/fixltx2e).
