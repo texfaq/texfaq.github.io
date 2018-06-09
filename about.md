@@ -37,7 +37,7 @@ supports JavaScript and HTML redirects then other forms differing by case
 will also work such as  
 <https://texfaq.org/faq-latex3>  
 For compatibility with exiting references to the FAQ, the form  
-<http://tex.ac.uk/cgi-bin/texfaq2html?label=LaTeX3>  
+<https://www.tex.ac.uk/cgi-bin/texfaq2html?label=LaTeX3>  
 may also be used, but this again relies on the client supporting
 JavaScript in the new hosting arrangement and is just intended to
 support existing references that link to the site.
