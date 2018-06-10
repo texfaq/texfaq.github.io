@@ -17,14 +17,10 @@ from the main index) over time.
 
 ## Referencing the FAQ
 
-The preferred URL for the FAQ is
+The preferred URL for the FAQ is  
 <https://texfaq.org>
 
-The github pages URL also works:  
-<https://texfaq.github.io/>  
-but this should not be used when publishing references to the FAQ.
-
-Similary the previous canonical URL of  
+The previous canonical URL of  
 <https://www.tex.ac.uk>  
 also works at the present time but should not be used in new references.
 
@@ -42,10 +38,6 @@ may also be used, but this again relies on the client supporting
 JavaScript in the new hosting arrangement and is just intended to
 support existing references that link to the site.
 
-<!--
-Currently https://texfaq.org visibly redirects to github
-But this is a temporary issue
--->
 
 ## Source Code
 
