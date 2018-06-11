@@ -60,7 +60,7 @@ though bug fixes and cross-compatibility with other engines do continue.
 ### LuaTeX
 
 As [detailed above](#pdftex), development of pdfTeX is "in essence" complete.
-s pdfTeX development ran down, development of a new system, LuaTeX was started.
+As pdfTeX development ran down, development of a new system, LuaTeX was started.
 [Lua](http://www.lua.org/) is a interpreter designed to be incorporated into
 other applications. LuaTeX consists of a TeX-like engine with a Lua interpreter
 "embedded" in it; the `lua` interpreter has access to many of the data
