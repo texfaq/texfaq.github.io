@@ -15,6 +15,15 @@
       a code.highlighter-rouge { color: inherit}
       a:hover, a:focus { text-decoration:underline; font-weight:inherit}
     </style>
+    <style type="text/css">
+      #sch button {padding: 4px;}
+      #sch td {padding:0}
+      #sch tr {padding:0}
+      div.gsc-input-box {height:25px}
+      input.gsc-input {height:25px}
+     
+  }
+  </style>
   </head>
   <body>
     <div class="wrapper">
@@ -34,6 +43,22 @@
 	<h3><a href="index#{{ page.category }}">{{ page.category | capitalize }}</a></h3>
 	{% endif %}
 
+	<div id="sch">
+        <script>
+  (function() {
+    var cx = '012439869432470945129:bzzhlwymcqe';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+     </script>
+	<gcse:search/>
+    </div>
+
+        
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
