@@ -44,6 +44,7 @@ Many kernel commands are declared robust:
 ```
 so that `\show` isn't much help.  Define a command `\pshow` as
 shown below, and simply execute the command to find its definition:
+<!-- {% raw %} -->
 ```latex
 *\def\pshow#1{{\let\protect\show #1}}
 *\pshow\texttt
@@ -53,6 +54,7 @@ shown below, and simply execute the command to find its definition:
           \ttfamily \check@icl #1\check@icr
     \expandafter \egroup \fi .
 ```
+<!-- {% endraw %} -->
 Note that the command name that is protected is the "base" command,
 with a space appended.  This is cryptically visible, in a couple of
 places above.  (Again, the output has been sanitised.)
