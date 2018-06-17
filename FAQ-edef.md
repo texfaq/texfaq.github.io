@@ -1,5 +1,5 @@
 ---
-title: `\edef` does not work with `\protect`
+title: '`\edef` does not work with `\protect`'
 category: programming
 tags:
   - latex
