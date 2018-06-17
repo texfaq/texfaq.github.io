@@ -1,5 +1,5 @@
 ---
-title: \end occurred inside a group
+title: '`\end` occurred inside a group'
 category: errors
 permalink: /FAQ-endingroup
 ---

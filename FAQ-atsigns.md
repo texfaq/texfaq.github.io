@@ -1,5 +1,5 @@
 ---
-title: \@ and @ in macro names
+title: '`\@` and `@` in macro names'
 category: programming
 tags:
   - latex
