@@ -1,5 +1,5 @@
 ---
-title: `\special` commands
+title: \special commands
 category: concepts
 permalink: /FAQ-specials
 ---

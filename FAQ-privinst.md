@@ -1,5 +1,5 @@
 ---
-title: "Private" installations of files
+title: Private installations of files
 category: installing
 permalink: /FAQ-privinst
 ---

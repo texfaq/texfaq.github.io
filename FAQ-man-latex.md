@@ -1,5 +1,5 @@
 ---
-title: Online introductions: LaTeX
+title: "Online introductions: LaTeX"
 category: documentation
 permalink: /FAQ-man-latex
 ---

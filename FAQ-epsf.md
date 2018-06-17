@@ -1,5 +1,5 @@
 ---
-title: `epsf` gives up after a bit
+title: epsf gives up after a bit
 category: errors
 permalink: /FAQ-epsf
 ---

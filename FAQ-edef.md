@@ -7,7 +7,7 @@ tags:
 permalink: /FAQ-edef
 ---
 
-R1obust LaTeX commands are either "naturally robust"&nbsp;&mdash; meaning that
+Robust LaTeX commands are either "naturally robust"&nbsp;&mdash; meaning that
 they never need `\protect`, or "self-protected"&nbsp;&mdash; meaning that
 they have `\protect` built in to their definition in some
 way.  Self-protected commands, and fragile commands with

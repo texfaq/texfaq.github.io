@@ -1,5 +1,5 @@
 ---
-title: `\normalsize` not defined
+title: \normalsize not defined
 category: errors
 permalink: /FAQ-normalszmiss
 ---

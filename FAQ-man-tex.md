@@ -1,5 +1,5 @@
 ---
-title: Online introductions: Plain TeX
+title: Online introductions - Plain TeX
 category: documentation
 permalink: /FAQ-man-tex
 ---

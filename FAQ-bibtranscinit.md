@@ -1,5 +1,5 @@
 ---
-title: "Multi-letter" initials in BibTeX
+title: Multi-letter initials in BibTeX
 category: bibliographies
 permalink: /FAQ-bibtranscinit
 ---

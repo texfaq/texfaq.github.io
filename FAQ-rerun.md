@@ -1,5 +1,5 @@
 ---
-title: "Rerun" messages won't go away
+title: Rerun messages won&apos;t go away
 category: usage
 permalink: /FAQ-rerun
 ---

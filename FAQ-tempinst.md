@@ -1,5 +1,5 @@
 ---
-title: "Temporary" installation of (La)TeX files
+title: Temporary installation of (La)TeX files
 category: installing
 permalink: /FAQ-tempinst
 ---

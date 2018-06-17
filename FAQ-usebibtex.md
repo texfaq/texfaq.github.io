@@ -1,5 +1,5 @@
 ---
-title: "Normal" use of BibTeX from LaTeX
+title: Normal use of BibTeX from LaTeX
 category: bibliographies
 tags: citations
 permalink: /FAQ-usebibtex

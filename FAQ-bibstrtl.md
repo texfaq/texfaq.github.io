@@ -1,5 +1,5 @@
 ---
-title: "String too long" in BibTeX
+title: String too long in BibTeX
 category: bibliographies
 permalink: /FAQ-bibstrtl
 ---

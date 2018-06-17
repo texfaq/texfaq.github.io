@@ -1,5 +1,5 @@
 ---
-title: Spawning programs from (La)TeX: `\write18`
+title: Spawning programs from (La)TeX: \write18
 category: concepts
 permalink: /FAQ-spawnprog
 ---

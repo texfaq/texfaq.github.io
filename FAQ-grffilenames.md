@@ -1,5 +1,5 @@
 ---
-title: "Modern" graphics file names
+title: Modern graphics file names
 category: graphics
 permalink: /FAQ-grffilenames
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Installing" a PostScript printer built-in font
+title: Installing a PostScript printer built-in font
 category: installing
 permalink: /FAQ-instprinterfont
 ---

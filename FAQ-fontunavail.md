@@ -1,5 +1,5 @@
 ---
-title: Warning: "Font shape &hellip; not available"
+title: Warning  Font shape &hellip; not available
 category: errors
 permalink: /FAQ-fontunavail
 ---

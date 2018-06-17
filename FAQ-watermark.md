@@ -1,5 +1,5 @@
 ---
-title: "Watermarks" on every page
+title: Watermarks on every page
 category: formatting
 tags: layout
 permalink: /FAQ-watermark
