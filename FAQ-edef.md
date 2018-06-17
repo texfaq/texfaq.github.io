@@ -1,5 +1,5 @@
 ---
-title: "\edef does not work with \protect"
+title: \edef does not work with \protect
 category: programming
 tags:
   - latex
@@ -7,7 +7,7 @@ tags:
 permalink: /FAQ-edef
 ---
 
-Robust LaTeX commands are either "naturally robust"&nbsp;&mdash; meaning that
+R1obust LaTeX commands are either "naturally robust"&nbsp;&mdash; meaning that
 they never need `\protect`, or "self-protected"&nbsp;&mdash; meaning that
 they have `\protect` built in to their definition in some
 way.  Self-protected commands, and fragile commands with
