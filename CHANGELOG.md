@@ -7,6 +7,10 @@ file. Changes prior to the switch to Markdown format are available from
 The format is based on [Keep a
 Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2018-06-27
+
+- Q-context: Update context links and description as suggested by @ousia PR #10
+
 
 ## 2018-06-09
 
