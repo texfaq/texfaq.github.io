@@ -6,14 +6,15 @@ date: 2018-05-26
 ---
 
 [ConTeXt](http://www.pragma-ade.com/) is a macro package
-created by Hans Hagen of Pragma-Ade; it started as a production tool
+created by Hans Hagen of Pragma ADE (which stands for
+Advanced Document Engineering); it started as a production tool
 for Pragma (which is a publishing company).  ConTeXt is a
 document-production system based, like LaTeX, on the TeX
 typesetting system.  Whereas LaTeX insulates the writer from
 typographical details, ConTeXt takes a complementary approach by
 providing structured interfaces for handling typography, including
 extensive support for colors, backgrounds, hyperlinks, presentations,
-figure-text integration, and conditional compilation.  It gives the
+figure-text integration, and conditional compilation. It gives the
 user extensive control over formatting while making it easy to create
 new layouts and styles without learning the TeX macro
 language. ConTeXt's unified design avoids the package clashes that
@@ -36,12 +37,13 @@ ConTeXt has a large developer community (though possibly not as
 large as that of LaTeX), but those developers who are active seem to have
 prodigious energy.  Support is available via the
 [ConTeXt Garden](http://wiki.contextgarden.net/Main_Page) and via the
-[mailing list](https://mailman.ntg.nl/mailman/listinfo/ntg-ConTeXt).
-A "standalone" distribution (a TeX distribution with no macros
-other than ConTeXt-based ones) is available as the ["ConTeXt
-minimals"](http://minimals.contextgarden.net/) &mdash; it provides
+[mailing list](https://mailman.ntg.nl/mailman/listinfo/ntg-context).
+A "standalone" distribution (a TeX distribution with no macros other than
+ConTeXt-based ones) is available as ["ConTeXt
+Standalone"](http://wiki.contextgarden.net/ConTeXt_Standalone) (also
+known as "ConTeXt Minimals" or the "ConTeXt Suite") &mdash; it provides
 a ConTeXt system on any of a number of platforms, executing either
-mark&nbsp;ii or mark&nbsp;iv ConTeXt.
+Mark&nbsp;II or Mark&nbsp;IV ConTeXt.
 
 Note that CTAN does _not_ hold the primary distribution of
 ConTeXt&nbsp;&mdash; potential users should refer to the
