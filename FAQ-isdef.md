@@ -75,6 +75,6 @@ command as "existing" (since it has been `\let` to `\relax`);
 so it is important not to mix mechanisms for detecting the state of a
 command.
 
-In the 2016 LaTeX release, the definition of `\@ifundefined` was adapted
+In the 2018 LaTeX release, the definition of `\@ifundefined` was adapted
 to use the &epsilon;-TeX `\ifcsname` and now tests for a command being undefined or `\relax`
 without the side effect of defining undefined commands to `\relax`.
