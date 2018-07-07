@@ -12,7 +12,8 @@ reference an equation to which the author made no cross-reference.
 
 If you hold to the "only cross-referenced" school of thought, you
 can (using the `\nonumber` command on the relevant equations, or by
-using the AMSLaTeX unnumbered environments such as
+using the [`amsmath`](https://ctan.org/pkg/amsmath)
+unnumbered environments such as
 `equation*`) mark those of your equations to which you
 make no reference.  In a long or complex paper, this procedure could
 well become deeply tedious.

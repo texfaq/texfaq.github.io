@@ -53,10 +53,9 @@ gives you the wrong size otherwise.
 The `\mbox` short cut is (just about) OK for "occasional"
 use, but serious mathematics calls for a technique that
 relieves the typist of the sort of thought required.  As usual, the
-AMSLaTeX system provides what's necessary&nbsp;&mdash; the `\text`
+[`amsmath`](https://ctan.org/pkg/latex-amsmath) system provides what's necessary&nbsp;&mdash; the `\text`
 command.  (The command is actually provided by the [`amstext`](https://ctan.org/pkg/amstext)
-package, but the "global" [`amsmath`](https://ctan.org/pkg/amsmath) package loads it.)  Thus
-anyone using AMSLaTeX proper has the command available, so even
+package, but the "global" [`amsmath`](https://ctan.org/pkg/amsmath) package loads it.)  So even
 this author can write:
 ```latex
 \usepackage{amsmath}

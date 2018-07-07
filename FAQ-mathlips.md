@@ -17,7 +17,7 @@ result (see below).  Moreover, LaTeX's range is not adequate to
 everyone's requirements, and at least three packages provide
 extensions to the set.
 
-The AMSLaTeX bundle provides a range of "semantically-named"
+The [`amsmath`](https://ctan.org/pkg/latex-amsmath) bundle provides a range of "semantically-named"
 ellipses, for use in different situations: `\dotsb` for use between
 pairs of binary operators, `\dotsc` for use between pairs of commas,
 and so on.

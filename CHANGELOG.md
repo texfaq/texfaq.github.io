@@ -7,6 +7,12 @@ file. Changes prior to the switch to Markdown format are available from
 The format is based on [Keep a
 Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2018-07-07
+
+- Q-eqnarray and other pages, update "AMSLaTeX" references to amsmath
+  package or amsmath bundle.
+
+
 ## 2018-06-27
 
 - Q-context: Update context links and description as suggested by @ousia PR #10

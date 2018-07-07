@@ -18,7 +18,7 @@ to the right, do:
 \newcommand{\diag}{\mathop{\mathrm{diag}}\nolimits}
 ```
 
-AMSLaTeX (in its [`amsopn`](https://ctan.org/pkg/amsopn) package, which is automatically
+The [`amsmath`](https://ctan.org/pkg/latex-amsmath) bundle (in its [`amsopn`](https://ctan.org/pkg/amsopn) package, which is automatically
 loaded by [`amsmath`](https://ctan.org/pkg/amsmath)) provides a command
 `\DeclareMathOperator` that takes does the same job as the first
 definition above.  To create our original `\diag` command, one would

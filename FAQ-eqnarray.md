@@ -19,11 +19,13 @@ metrics for the font from which the glyph comes&nbsp;&mdash; it's
 `\arraycolsep`, which may be set to some very odd value for reasons
 associated with real arrays elsewhere in the document.
 
-The user is far better served by the AMSLaTeX bundle, which
+The user is far better served by the
+[`amsmath`](https://ctan.org/pkg/amsmath) package, which
 provides an `align` environment, which is designed with
 the needs of mathematicians in mind (as opposed to the convenience of
 LaTeX programmers).  For this simple case (`align` and
-other AMSLaTeX alignment environments are capable of far greater
+other [`amsmath`](https://ctan.org/pkg/amsmath)
+alignment environments are capable of far greater
 things), code as:
 ```latex
 \begin{align}

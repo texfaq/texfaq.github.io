@@ -51,7 +51,8 @@ formulation.
 
 Remember, if you're 
 [declaring a special operator of your own](FAQ-newfunction), the
-AMSLaTeX functions (that you ought to be using) allow you to choose
+[`amsmath`](https://ctan.org/pkg/amsmath) package
+functions (that you ought to be using) allow you to choose
 how limits are displayed, at definition time.
 
 (Note that the macro `\int` normally has `\nolimits` built in to

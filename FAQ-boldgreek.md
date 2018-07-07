@@ -38,7 +38,8 @@ These problems may be addressed by using a bold mathematics package.
 -  The [`bm`](https://ctan.org/pkg/bm) package, which is part of the LaTeX tools
     distribution, defines a command `\bm` which may be used anywhere
     in maths mode.
--  The [`amsbsy`](https://ctan.org/pkg/amsbsy) package (which is part of AMSLaTeX)
+-  The [`amsbsy`](https://ctan.org/pkg/amsbsy) package (which is part of
+   [`amsmath`](https://ctan.org/pkg/latex-amsmath) bundle)
     defines a command `\boldsymbol`, which (though slightly less
     comprehensive than `\bm`) covers almost all common cases.
 

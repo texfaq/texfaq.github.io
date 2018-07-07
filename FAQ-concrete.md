@@ -21,7 +21,7 @@ Concrete fonts.  If you wish to use the `Euler` fonts for
 mathematics, as Knuth did, there's the [`euler`](https://ctan.org/pkg/euler) package which
 has been developed from Knuth's own Plain TeX-based set: these
 macros are currently deprecated (they clash with many things, including
-AMSLaTeX).  The independently-developed [`eulervm`](https://ctan.org/pkg/eulervm)
+[`amsmath`](https://ctan.org/pkg/amsmath)).  The independently-developed [`eulervm`](https://ctan.org/pkg/eulervm)
 bundle is therefore preferred to the [`euler`](https://ctan.org/pkg/euler) package.  (Note
 that installing the [`eulervm`](https://ctan.org/pkg/eulervm) bundle involves installing a
 series of virtual fonts.  While most modern distributions seem to have
