@@ -7,7 +7,7 @@ permalink: /FAQ-tutbitslatex
 The AMS publishes a "Short Math Guide for LaTeX", which is
 available (in several formats) via
 [http://www.ams.org/tex/amslatex.html](http://www.ams.org/tex/amslatex.html)
-(the "Additional Documentation" about half-way down the page.
+(the "Additional Documentation" about half-way down the page).
 
 Herbert Voß has written an extensive guide to mathematics in
 LaTeX, and a development of it has been 
