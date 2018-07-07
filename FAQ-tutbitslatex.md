@@ -44,12 +44,6 @@ packages
 [PGF and TikZ](FAQ-drawing), 
 [TeXample.net](http://www.texample.net/)
 
-Included is 
- [examples catalogue](http://www.texample.net/tikz/examples/)
-includes examples (with output) from the package documentation as well
-as code written by the original site maintainer (Kjell Magne Fauske)
-and others.
-
 The compendious PGF/TikZ manual is clear, but is
 bewildering for some beginners.  The 
 ["minimal" introduction](http://cremeronline.com/LaTeX/minimaltikz.pdf)
