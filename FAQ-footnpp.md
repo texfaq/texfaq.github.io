@@ -45,3 +45,7 @@ The [`footnpag`](https://ctan.org/pkg/footnpag) package also does per-page footn
 nothing else).  With the competition from [`perpage`](https://ctan.org/pkg/perpage), it's
 probably not particularly useful any more.
 
+
+The [`bidi'](https://ctan.org/pkg/bidi) package (from version 34.4) has an option `perpagefootnote` that
+allows you to reset any counter per page from a given integer (not just 0)
+and declares the footnote counter to be reset to 0 on each page.
