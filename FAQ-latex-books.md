@@ -6,7 +6,7 @@ permalink: /FAQ-latex-books
 
 - LaTeX, a Document Preparation System by Leslie Lamport
   (second edition, Addison Wesley, 1994, ISBN-10 0-201-52983-1)
-- Guide to LaTeXHelmut Kopka and Patrick W.&nbsp;Daly (fourth
+- Guide to LaTeX by Helmut Kopka and Patrick W.&nbsp;Daly (fourth
   edition, Addison-Wesley, 2004, ISBN-10 0-321-17385-6)
 - LaTeX Beginner's Guide by Stefan Kottwitz (Packt Publishing,
   2011, ISBN-10 1847199860, ISBN-13 1847199860)
@@ -31,7 +31,7 @@ permalink: /FAQ-latex-books
 - More Math into LaTeX: _An Introduction to_ LaTeX
   _and_ AMSLaTeX by George Grätzer (fourth edition Springer Verlag,
   2007, ISBN-10 978-0-387-32289-6
-- Digital Typography Using LaTeXIncorporating some
+- Digital Typography Using LaTeX, Incorporating some
   multilingual aspects, and use of [Omega](FAQ-omegaleph), by
   Apostolos Syropoulos, Antonis Tsolomitis and Nick Sofroniou
   (Springer, 2003, ISBN-10 0-387-95217-9).
