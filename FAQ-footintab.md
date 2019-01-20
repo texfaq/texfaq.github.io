@@ -47,7 +47,7 @@ advice, you can:
     footnotes.
 -  Use [`tablefootnote`](https://ctan.org/pkg/tablefootnote); it provides a command `\tablefootnote`,
     which does the job without fuss.
--  Use [`footnote`](https://ctan.org/pkg/footnote), which provides an
+-  Use [`footnotehyper`](https://ctan.org/pkg/footnotehyper), which provides an
     `savenotes` which collects all footnotes and emits them
     at the end of the environment; thus if you put your
     `tabular` environment inside a `savenotes`
