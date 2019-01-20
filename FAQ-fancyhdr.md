@@ -22,18 +22,10 @@ also deals with the tedious behaviour of the standard styles with
 [initial pages](FAQ-nopageno), by enabling you to define
 different page styles for initial and for body pages.
 
-While [`fancyhdr`](https://ctan.org/pkg/fancyhdr) will work with [`KOMA-script`](https://ctan.org/pkg/KOMA-script) classes,
-an alternative package, [`scrpage2`](https://ctan.org/pkg/scrpage2), eases integration with the
-classes.  [`Scrpage2`](https://ctan.org/pkg/Scrpage2) may also be used as a [`fancyhdr`](https://ctan.org/pkg/fancyhdr)
-replacement, providing similar facilities.  The [`KOMA-script`](https://ctan.org/pkg/KOMA-script)
-classes themselves permit some modest redefinition of head- and
-footlines, without the use of the extra package.
+The [`scrlayer-scrpage`](https://ctan.org/pkg/scrlayer-scrpage)
+package provides another approach to controlling page headers
+and footers.  Use this package instead of [`fancyhdr`](https://ctan.org/pkg/fancyhdr)
+for improved integration with the [`KOMA-script`](https://ctan.org/pkg/koma-script) classes.
 
 [`Memoir`](https://ctan.org/pkg/Memoir) also contains the functionality of [`fancyhdr`](https://ctan.org/pkg/fancyhdr),
 and has several predefined styles.
-
-Documentation of [`fancyhdr`](https://ctan.org/pkg/fancyhdr) is distributed with the package,
-in a separate file; documentation of [`scrpage2`](https://ctan.org/pkg/scrpage2) is integrated
-with the `scrgui*` documentation files that are distributed with
-the [`KOMA-script`](https://ctan.org/pkg/KOMA-script) classes.
-
