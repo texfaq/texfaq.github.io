@@ -15,14 +15,16 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## 2018-07-07
 
+### Changed
+
 - Q-eqnarray and other pages, update "AMSLaTeX" references to amsmath
   package or amsmath bundle.
 
-
 ## 2018-06-27
 
-- Q-context: Update context links and description as suggested by @ousia PR #10
+### Changed
 
+- Q-context: Update context links and description as suggested by @ousia PR #10
 
 ## 2018-06-09
 
