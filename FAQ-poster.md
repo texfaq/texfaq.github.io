@@ -53,7 +53,7 @@ route):
 -  from Nicola Talbot, 
     [Creating technical posters with LaTeX](https://www.dickimaw-books.com/latex/posters/)
 -  From Rob Clark 
-    [Advanced LaTeX Posters](http://homepages.inf.ed.ac.uk/robert/posters/advanced.html) 
+    [Advanced LaTeX Posters](https://web.archive.org/web/20190226042657/http://homepages.inf.ed.ac.uk:80/robert/posters/advanced.html) 
     (which has links to code samples);
 -  from Brian Wolven, 
     [LaTeX Poster Macros, Examples, and Accessories (Internet Archive)](https://web.archive.org/web/20040204003003/http://fuse.pha.jhu.edu/~wolven/posters.html) 
