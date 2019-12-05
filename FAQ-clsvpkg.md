@@ -18,8 +18,8 @@ Base LaTeX offers four classes for general documents:
 [`article`](https://ctan.org/pkg/article) and
 [`letter`](https://ctan.org/pkg/letter),
 plus some more specialist classes such as
-[`letter`](https://ctan.org/pkg/slides) and
-[`letter`](https://ctan.org/pkg/ltnews).
+[`slides`](https://ctan.org/pkg/slides) and
+[`ltnews`](https://ctan.org/pkg/ltnews).
 For each class, LaTeX provides a _class file_; the user
 arranges to use it via a `\documentclass` command at the top of the
 document.  So a document starting
