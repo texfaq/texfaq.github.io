@@ -11,9 +11,15 @@ inflexible (and probably too daunting for ordinary users).  Thus the
 designers of LaTeX created a model which offered an
 _abstraction_ of the design of documents.  Obviously, not all
 documents can look the same (even with the defocussed eye of
-abstraction), so the model uses _classes_ of document.  Base
-LaTeX offers five classes of document: [`book`](https://ctan.org/pkg/book),
-[`report`](https://ctan.org/pkg/report), [`article`](https://ctan.org/pkg/article) and [`letter`](https://ctan.org/pkg/letter).
+abstraction), so the model uses _classes_ of document.
+Base LaTeX offers four classes for general documents:
+[`book`](https://ctan.org/pkg/book),
+[`report`](https://ctan.org/pkg/report),
+[`article`](https://ctan.org/pkg/article) and
+[`letter`](https://ctan.org/pkg/letter),
+plus some more specialist classes such as
+[`letter`](https://ctan.org/pkg/slides) and
+[`letter`](https://ctan.org/pkg/ltnews).
 For each class, LaTeX provides a _class file_; the user
 arranges to use it via a `\documentclass` command at the top of the
 document.  So a document starting
