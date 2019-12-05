@@ -24,9 +24,11 @@ values to the handler of one or more keys.  Thus:
 \setkeys{my}{foo=3,bar}
 ```
 will produce output saying:
+
   Foo is 3
 
   Bar is 99
+
 This has defined two keys `foo` and `bar` in family
 `my`, and then executed them, the first with argument
 `3` and the second with no argument, so that the default

@@ -7,11 +7,9 @@ permalink: /FAQ-whyfree
 It's free because Knuth chose to make it so (he makes money from
 royalties on his TeX books, which still sell well).  He is
 nevertheless apparently happy that others should earn money by selling
-TeX-based services and products. While several valuable
-TeX-related tools and packages are offered subject to restrictions
-imposed by the GNU General Public Licence (GPL,
-sometimes referred to as "Copyleft"), which denies the right to
-commercial exploitation.  TeX itself is offered under a pretty
+TeX-based services and products. There are several valuable
+TeX-related tools and packages offered GNU General Public Licence (GPL,
+sometimes referred to as "Copyleft"). TeX itself is offered under a pretty
 permissive licence of Knuth's own.
 
 There are [commercial versions of TeX available](FAQ-commercial); for some users,
