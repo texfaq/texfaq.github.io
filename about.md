@@ -42,7 +42,7 @@ support existing references that link to the site.
 ## Source Code
 
 The source code is on [GitHub](https://github.com/texfaq/texfaq.github.io/),
-please see [CONTRIBUTING](CONTRIBUTING) and [LICENSE](LICENSE) for details. You can also [email us](texfaq@texfaq.org) us with suggestions.
+please see [CONTRIBUTING](CONTRIBUTING) and [LICENSE](LICENSE) for details.
 
 Recent Changes are listed in the [Change Log](CHANGELOG).
 
