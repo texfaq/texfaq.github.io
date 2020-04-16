@@ -34,6 +34,5 @@ you should write:
 Here is page \pageref{here}\label{here}.
 ```
 (note: no space between the `\pageref` and the `\label`, since
-that could potentially end up as a page-break space itself, which
+that could potentially end up as a page break space itself, which
 rather defeats the purpose of the exercise!).
-

@@ -10,13 +10,13 @@ same page; it turns out to be surprisingly tricky to arrange this.
 
 LaTeX provides a `samepage` environment which claims it
 does this sort of thing for you.  It proceeds by setting infinite
-penalties for all sorts of page-break situations; but in many
+penalties for all sorts of page break situations; but in many
 situations where you want to prevent a page break,
 `samepage` doesn't help.  If you're trying to keep running
 text together, you need to end the paragraph inside the environment
 (see [preserving paragraph parameters](FAQ-paraparam)).
 Also, if the things you are trying to keep together insert their own
-pagebreak hints, `samepage` has no power over them (though
+page break hints, `samepage` has no power over them (though
 list items' attempts&nbsp;&mdash; they suggest page breaks between items&nbsp;&mdash;
 are subverted by `samepage`).  Naturally, if
 `samepage` _does_ work, it is capable of leaving
@@ -75,7 +75,7 @@ blocks of text that need, individually, to be kept on their own page.
 Insert the command `\filbreak` before each small block, and the
 effect is achieved.  The technique can be used in the case of
 sequences of LaTeX-style sections, by incorporating `\filbreak`
-into the definition of a command (as in 
+into the definition of a command (as in
 [patching commands](FAQ-patch)).  A simple and effective
 patch would be:
 <!-- {% raw %} -->
@@ -117,4 +117,3 @@ might be worth doing, whereas `\pagebreak[4]` "demands" a
 page break.  Similarly `\nopagebreak[0]` makes a suggestion,
 while `\nopagebreak[4]` is a demand.  In both commands, the
 default value of the optional argument is 4.
-
