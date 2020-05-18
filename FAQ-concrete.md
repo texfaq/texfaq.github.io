@@ -37,15 +37,15 @@ of the AMS fonts (this last behaviour is optional in the case
 of the [`concmath`](https://ctan.org/pkg/concmath) package).
 
 There are no bold Concrete fonts, but it is generally accepted that
-the Computer Modern Sans Serif demibold condensed fonts are an
-adequate substitute.  If you are using [`concmath`](https://ctan.org/pkg/concmath) or
+the Computer Modern Sans Serif demibold condensed fonts are a
+possible substitute.  If you are using [`concmath`](https://ctan.org/pkg/concmath) or
 [`ccfonts`](https://ctan.org/pkg/ccfonts) and you want to follow this suggestion, then use the
 package with `boldsans` class option (in spite of the fact
 that the [`concmath`](https://ctan.org/pkg/concmath) documentation calls it
 `sansbold` class option). If you are using [`beton`](https://ctan.org/pkg/beton),
-add
-  `\renewcommand{\bfdefault}{sbc}`
-to the preamble of your document.
+add `\DeclareFontSeriesDefault[rm]{bf}{sbc}` to the preamble of your document if your LaTeX is
+from 2020, in older LaTeX versions you can use 
+  `\renewcommand{\bfdefault}{sbc}` instead.
 
 Type&nbsp;1 versions of the fonts are available.  For OT1 encoding,
 they are available from [MicroPress](FAQ-psfchoice).  The
