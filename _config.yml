@@ -2,6 +2,7 @@ exclude: ['README.md']
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 theme: jekyll-theme-minimal
 
