@@ -7,6 +7,12 @@ file. Changes prior to the switch to Markdown format are available from
 The format is based on [Keep a
 Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2020-05-18
+
+### Changed
+
+- Q-typo-style: Removed links to expired material
+
 ## 2019-12-05
 
 ### Changed
