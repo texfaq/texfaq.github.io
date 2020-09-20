@@ -7,7 +7,7 @@ permalink: /FAQ-pdfpagelabels
 The [`book`](https://ctan.org/pkg/book) class (and its friends and relations) automatically
 changes the display of page numbers in the frontmatter of the document
 to lower-case roman.  This is fine for human readers, but if
-[`hyperref`](https://ctan.org/pkg/hyperref) has been misconfigured, the existence of pages have
+[`hyperref`](https://ctan.org/pkg/hyperref) has been misconfigured, the existence of pages that have
 the same page number can cause problems.  Fortunately, the
 configuration options to make [`hyperref`](https://ctan.org/pkg/hyperref) "do the right
 thing" are (by default) set up to avoid problems.
