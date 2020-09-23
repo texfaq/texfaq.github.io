@@ -68,7 +68,7 @@ So, one resolution of the problem, when you are using LaTeX, is to add
 \usepackage[processor-option,...]{geometry}
 ```
 Where `processor-option` tells the package what will produce
-your (PostScript or PDF output&nbsp;&mdash; [`geometry`](https://ctan.org/pkg/geometry) knows about
+your PostScript or PDF output&nbsp;&mdash; [`geometry`](https://ctan.org/pkg/geometry) knows about
 `dvips` and `dvipdfm` (`dvipdfm` also
 serves for the extension `dvipdfmx` and
 `xdvipdfmx`).
