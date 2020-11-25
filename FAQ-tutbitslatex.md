@@ -5,7 +5,7 @@ permalink: /FAQ-tutbitslatex
 ---
 
 A companion project to this site maintains an online LaTeX tutorial at
-<https://www.learnlatex.org> This is an introductory level course of
+<https://www.learnlatex.org>. This is an introductory level course of
 16 lessons covering most of the basic areas of a LaTeX document,
 allowing you to edit and run the examples online.
 
