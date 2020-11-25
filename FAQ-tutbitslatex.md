@@ -4,6 +4,17 @@ category: documentation
 permalink: /FAQ-tutbitslatex
 ---
 
+A companion project to this site maintains an online LaTeX tutorial at
+<https://www.learnlatex.org> This is an introductory level course of
+16 lessons covering most of the basic areas of a LaTeX document,
+allowing you to edit and run the examples online.
+
+TUG India is developing a series of online LaTeX tutorials
+which can be strongly recommended: select single chapters at a time
+from <https://www.tug.org/tutorials/tugindia>&nbsp;&mdash; there
+are 17&nbsp;chapters in the series, two of which are mostly introductory.
+
+
 The AMS publishes a "Short Math Guide for LaTeX", which is
 available (in several formats) via
 [http://www.ams.org/tex/amslatex.html](http://www.ams.org/tex/amslatex.html)
@@ -21,11 +32,6 @@ by Sebastian Rahtz, and
 cast in the form of an FAQ, by Walter Schmidt.  A general
 compendium of font information (including the two above) may be found
 on the [TUG web site](http://www.tug.org/fonts/).
-
-TUG India is developing a series of online LaTeX tutorials
-which can be strongly recommended: select single chapters at a time
-from <https://www.tug.org/tutorials/tugindia>&nbsp;&mdash; there
-are 17&nbsp;chapters in the series, two of which are mostly introductory.
 
 Peter Smith's
   "[LaTeX for Logicians](http://www.logicmatters.net/latex-for-logicians/)"
@@ -70,13 +76,6 @@ author's macros for papers submitted for IEEE publications).
 The issues are also covered in a later 
 [FAQ answer](FAQ-dvips-pdf).
 
-
-Some university departments make their local documentation available
-on the web.  Most straightforwardly, there's the simple translation of
-existing documentation into HTML, for example the INFO
-documentation of the (La)TeX installation, of which a sample is the
-LaTeX documentation available at
-<http://www.tac.dk/cgi-bin/info2www?(latex)>
 
 More ambitiously, some university departments have enthusiastic
 documenters who 
