@@ -26,7 +26,7 @@ This provides TeX conditionals to allow testing for various engine and output mo
 
 `\ifpdf` (true if outputting PDF)
 `\ifxetex` (true if using xetex), `\ifluatex` (true for luatex and luahbtex),
-`ifluahbtex` (true if the Lua Harfbuzz library is available),`\ifptex` (true for Japanese pTeX
+`\ifluahbtex` (true if the Lua Harfbuzz library is available),`\ifptex` (true for Japanese pTeX
 variants) etc.
 
 For historical reasons these commands are also provided
