@@ -14,90 +14,46 @@ typesets your document).  The reason that you need to know is that the
 set of functions available in each engine is different.  Thus, for
 TeX macros to run on any engine, they need to "know" what they
 can and cannot do, which depends on the engine in use.  Getting the
-right answer is surprisingly tricky (see below for an elaboration of
-one apparently simple test).
+right answer is surprisingly tricky.
 
-There is now a comprehensive set of packages that answer the question
-for you.  They all create a TeX conditional command:
+There is now a comprehensive package that answers the question
+for you.
   
 
--  [`ifpdf`](https://ctan.org/pkg/ifpdf) creates a command `\ifpdf`,
--  [`ifxetex`](https://ctan.org/pkg/ifxetex) creates a command `\ifxetex` and
--  [`ifluatex`](https://ctan.org/pkg/ifluatex) creates a command `\ifluatex`.
+-  [`iftex`](https://ctan.org/pkg/iftex)
 
-These TeX commands may be used within the LaTeX conditional
+This provides TeX conditionals to allow testing for various engine and output modes.
+
+`\ifpdf` (true if outputting PDF)
+`\ifxetex` (true if using xetex), `\ifluatex` (true for luatex and luahbtex),
+`ifluahbtex` (true if the Lua Harfbuzz library is available),`\ifptex` (true for Japanese pTeX
+variants) etc.
+
+For historical reasons these commands are also provided
+with mixed case names, `\ifXeTeX` for example.
+
+
+These TeX commands may also be used within the LaTeX conditional
 framework, as (for example):
 ```latex
 \ifthenelse{\boolean{pdf}}{<if pdf>}{<if not pdf>}
 ```
 
-The [`ifxetex`](https://ctan.org/pkg/ifxetex) package also provides a command
-`\RequireXeTeX` which creates an error if the code is not running
-under XeTeX; while the other packages don't provide such a command,
-it's not really difficult to write one for yourself.
 
-Now for those who want to do the job for themselves: here's a
-discussion of doing the job for pdfTeX and `\ifpdf`&nbsp;&mdash; the
-eager programmer can regenerate `\ifxetex` or `\ifluatex` in the
-same fashion.  It's not recommended&hellip;
 
-Suppose you need to test whether your output will be PDF or
-DVI.  The natural thing is to check whether you have access to
-some pdfTeX-only primitive; a good one to try (not least because it
-was present in the very first releases of pdfTeX) is
-`\pdfoutput`.  So you try
-```latex
-\ifx\pdfoutput\undefined
-  ... % not running pdfTeX
+One special conditional is `\iftutex` which is true for Unicode TeX engines (LuaTeX and XeTeX) and allows 
+a simple switch to select Unicode font packages such as
+
+```
+\iftutex
+  \usepackage{fontsepc}
+  \setmainfont{TeX Gyre Termes}
 \else
-  ... % running pdfTeX
+  \usepackage{times}
 \fi
 ```
-Except that neither branch of this conditional is rock-solid.  The
-first branch can be misleading, since the "awkward" user could have
-written:
-```latex
-\let\pdfoutput\undefined
-```
-so that your test will falsely choose the first alternative.  While
-this is a theoretical problem, it is unlikely to be a major one.
 
-More important is the user who loads a package that uses
-LaTeX-style testing for the command name's existence (for example,
-the LaTeX [`graphics`](https://ctan.org/pkg/graphics) package, which is useful even to the
-Plain TeX user).  Such a package may have gone ahead of you, so the
-test may need to be elaborated:
-```latex
-\ifx\pdfoutput\undefined
-  ... % not running pdfTeX
-\else
-  \ifx\pdfoutput\relax
-    ... % not running pdfTeX
-  \else
-    ... % running pdfTeX
-  \fi
-\fi
-```
-If you only want to know whether some pdfTeX extension (such as
-marginal kerning) is present, you can stop at this point: you know as
-much as you need.
-
-However, if you need to know whether you're creating PDF
-output, you also need to know about the value of `\pdfoutput`:
-```latex
-\ifx\pdfoutput\undefined
-  ... % not running pdfTeX
-\else
-  \ifx\pdfoutput\relax
-    ... % not running pdfTeX
-  \else
-    % running pdfTeX, with...
-    \ifnum\pdfoutput>0
-      ... % PDF output
-    \else
-      ... % DVI output
-    \fi
-  \fi
-\fi
-```
+The package also provides commands such as `\RequireXeTeX` corresponding to each of the engine tests.
+these create an error and stop the job  if the code is not
+running under the correct engine.
 
