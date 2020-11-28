@@ -46,7 +46,7 @@ a simple switch to select Unicode font packages such as
 
 ```
 \iftutex
-  \usepackage{fontsepc}
+  \usepackage{fontspec}
   \setmainfont{TeX Gyre Termes}
 \else
   \usepackage{times}
