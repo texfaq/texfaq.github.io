@@ -12,7 +12,7 @@ Before we even start, here's a check-list of things to sort out:
 1.  Licence: in the spirit of TeX, we hope for free software; in
     the spirit of today's lawyer-enthralled society, CTAN
     provides a 
-    [list of "standard" licence statements](http://mirror.ctan.org/help/Catalogue/licenses.html).
+    [list of "standard" licence statements](https://ctan.org/license).
     Make sure that there's a formal statement of the licence of your
     package, somewhere in the files you upload; beyond the CTAN
     installation, your package is a candidate for inclusion in (La)TeX
