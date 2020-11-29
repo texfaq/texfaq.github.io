@@ -40,6 +40,6 @@ Amiga users have the option of a full implementations of TeX 3.1
 It's less likely that hobbyists would be running TOPS-20
 machines, but since TeX was originally written on a DEC-10
 under WAITS, the TOPS-20 port is another near approach
-to Knuth's original environment. Sources are available by anonymous
-`ftp` from <ftp://ftp.math.utah.edu/pub/tex/pub/web>
+to Knuth's original environment. Sources are available
+from <https://ftp.math.utah.edu/pub/tex/pub/web/>
 
