@@ -9,7 +9,7 @@ be bypassed:
   
 
 -  If you are a MiKTeX user, the 
-    [MiKTeX package management system](FAQ-inst-miktex*)
+    [MiKTeX package management system](FAQ-inst-miktexstar)
     can usually help;
 -  Similarly, if you are a TeX&nbsp;Live user, the 
     [TeX&nbsp;Live manager](FAQ-inst-texlive)
