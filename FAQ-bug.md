@@ -19,8 +19,9 @@ think you have found a genuine fault in TeX itself (or MetaFont, or the
 CM fonts, or the TeXbook), don't immediately write to Knuth,
 however. He only looks at bugs infrequently, and even then
 only after they are agreed as bugs by a small vetting team. In the
-first instance, contact [Karl Berry](karl@freefriends.org)
-[TUG](FAQ-TUGstar).
+first instance, contact the [tex-k](https://lists.tug.org/tex-k)
+email list or Karl Berry as described
+at the [Reporting Bugs](https://www.tug.org/texmfbug/) page at the TUG website.
 
 If you've found a bug in LaTeX2e, [report it](FAQ-latexbug)
 using mechanisms supplied by the LaTeX team.  (Please be
