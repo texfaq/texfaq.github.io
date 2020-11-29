@@ -6,7 +6,7 @@ permalink: /FAQ-catalogue
 date: 2018-05-27
 ---
 
-Most (La)TeX package code is distributed via [CTAN](https:/ctan.org), which
+Most (La)TeX package code is distributed via [CTAN](https://ctan.org), which
 holds 1000s of contributed bundles. To enable users to find material, CTAN
 offers a "Browse CTAN" area, with links to the list of packages, to a list of
 "topics" (with packages that match each topic), and to a list of authors
