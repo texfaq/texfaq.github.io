@@ -33,12 +33,6 @@ a shell script `chbar.sh` (for use on Unix machines) that
 will compare two documents and generate a third which is marked-up
 with [`changebar`](https://ctan.org/pkg/changebar) macros to highlight changes.
 
-The shareware `WinEDT` editor has a macro that will generate
-[`changebar`](https://ctan.org/pkg/changebar) (or other) macros to show differences from an
-earlier version of your file, stored in an `RCS`-controlled
-repository&nbsp;&mdash; see
-<http://www.winedt.org/Macros/LaTeX/RCSdiff.php>
-
 The [`vertbars`](https://ctan.org/pkg/vertbars) package uses the techniques of the
 [`lineno`](https://ctan.org/pkg/lineno) package (which it loads, so the [`lineno`](https://ctan.org/pkg/lineno)
 itself must be installed); it's thus the smallest of the packages for
