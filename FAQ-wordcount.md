@@ -36,7 +36,7 @@ Several [editors and shells](FAQ-editors) offer something similar.
 `TeXcount` goes a long way with heuristics for counting,
 starting from a LaTeX file; the documentation is comprehensive, and
 you may try the script on-line via the 
-  [package home page](http://folk.uio.no/einarro/Comp/texwordcount.html).
+  [package home page](https://app.uio.no/ifi/texcount/).
 
 However, even quite sophisticated stripping of (La)TeX markup can
 never be entirely reliable: markup itself may contribute typeset
