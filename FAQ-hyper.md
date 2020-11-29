@@ -5,7 +5,7 @@ permalink: /FAQ-hyper
 ---
 
 If you want on-line hypertext with a (La)TeX source, probably on the
-World Wide Web, there are four technologies to consider:
+World Wide Web, there are several technologies to consider:
   
 
 -  start from (La)TeX, and use one of a number of techniques to
@@ -17,6 +17,5 @@ World Wide Web, there are four technologies to consider:
 -  Start from (La)TeX; use pdfTeX, XeTeX or LuaTeX to
     produce PDF, using [`hyperref`](https://ctan.org/pkg/hyperref) to construct
     hyperlinks.
--  Start from (unconventional) (La)TeX which use the 
-    [hyperTeX conventions](FAQ-hypertex).
+
 
