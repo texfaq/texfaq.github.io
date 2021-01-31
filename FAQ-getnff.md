@@ -21,19 +21,16 @@ currently available
 
 Once the script is installed, you can ask it what it has available by
 saying:
-```latex
-getnonfreefonts -l
 ```
-and you can ask it to install a font (in your local texmf tree) by:
-```latex
-getnonfreefonts luximono
+getnonfreefonts --sys  -l
+```
+and you can ask it to install a font by:
+```
+getnonfreefonts --sys luximono
 ```
 (for example; the printed version of the FAQ uses luximono, so
 that the example was to hand&hellip;).
 
-(System adminstrators may use `getnonfreefonts-sys`, which
-will install the font in the "public" `texmf` tree, so that all
-users of the system may use the new font.)
 
 The script will download the relevant font files from CTAN,
 extract them from their `zip` file, install them and update
