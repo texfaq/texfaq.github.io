@@ -54,12 +54,10 @@ completed your upload, the redirector assigns it to a member of the
 team for processing.
 
 If you can't use this method, or if you find something confusing, ask
-advice of the
-  [CTAN management team](mailto:ctan@dante.de)
+advice of the [CTAN management team](mailto:ctan@dante.de).
 
 If your package is large, or regularly updated, it may be appropriate
-to "mirror" your contribution direct into CTAN.
-Mirroring is only practical using `ftp` or `rsync`, so
-this facility is limited to packages offered by a server that uses one
-of those protocols.
+to "mirror" your contribution direct into CTAN. Mirroring is only practical
+using `ftp` or `rsync`, so this facility is limited to packages offered by
+a server that uses one of those protocols.
 

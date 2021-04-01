@@ -102,5 +102,4 @@ if you use someone else's text font (even something as simple as
 Adobe's Times family) you have to find a matching family of
 mathematical fonts, which is a non-trivial undertaking&nbsp;&mdash;
 see ["choice of scalable fonts"](FAQ-psfchoice).
-  very large download)
 

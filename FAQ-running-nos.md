@@ -63,6 +63,6 @@ numbered per chapter, try:
 \makeatother
 ```
 (the command `\@addtoreset` is a part of LaTeX itself).
-  "fragment" for use within other packages: load by
-  `\input{removefr}`)
+"fragment" for use within other packages: load by
+`\input{removefr}`)
 

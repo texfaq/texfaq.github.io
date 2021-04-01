@@ -64,6 +64,5 @@ as those of [`epigraph`](https://ctan.org/pkg/epigraph), but it's probably easie
 
 The [`memoir`](https://ctan.org/pkg/memoir) class offers all the facilities of the
 [`epigraph`](https://ctan.org/pkg/epigraph) package.  The [`Koma-script`](https://ctan.org/pkg/Koma-script) classes have
-commands `\setchapterpreamble` and `\dictum` to provide these
-facilities.
+commands `\setchapterpreamble` and `\dictum` to provide these facilities.
 

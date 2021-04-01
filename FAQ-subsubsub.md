@@ -38,5 +38,5 @@ names of sectioning commands, when creating commands for the lowest
 levels of a document.  This would seem sensible to any but the most
 rigorous stickler for symmetry&nbsp;&mdash; it would surely challenge pretty
 much anyone's reading of the source of a document, if there was a need
-to distinguish `\subsubsubsection` and `\subsubsubsubsection`
+to distinguish `\subsubsubsection` and `\subsubsubsubsection`.
 

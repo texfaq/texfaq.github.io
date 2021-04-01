@@ -19,8 +19,8 @@ error-prone.
 
 The simplest alternative is to type in an encoding that has the
 diacriticised characters in it, and to use an appropriate encoding
-definition file in the [`inputenc`](https://ctan.org/pkg/inputenc) package.  So for example,
-type:
+definition file in the [`inputenc`](https://ctan.org/pkg/inputenc) package.
+So for example, type:
 
 
 ```
@@ -35,13 +35,10 @@ type:
   ... \> voilà \> ...
 ```
 
-for:
-  &hellip;
-voilà
-&hellip;
+for: &hellip;voilà&hellip;
 
-and the internal mechanisms of the [`inputenc`](https://ctan.org/pkg/inputenc) package will put
-the right version of the accent command in there.
+and the internal mechanisms of the [`inputenc`](https://ctan.org/pkg/inputenc)
+package will put the right version of the accent command in there.
 
 A witty reversal of the roles is introduced by the package
 [`Tabbing`](https://ctan.org/pkg/Tabbing) (note the capital "T"): it provides a

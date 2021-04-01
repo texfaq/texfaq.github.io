@@ -34,6 +34,5 @@ translates SchemeWEB into LaTeX source or Scheme source.
 Other language independent versions of WEB are `nuweb` (which
 is written in ANSI C).
 
-`Tweb` is a WEB for Plain TeX macro files, using
-`noweb`.
+`Tweb` is a WEB for Plain TeX macro files, using `noweb`.
 

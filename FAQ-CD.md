@@ -38,6 +38,6 @@ they are all pretty large downloads.  TeX&nbsp;Live, once installed, may
 be updated online.
 
 More details of the collection are available from
-  [its own web page](http://www.tug.org/texcollection/)
-  on the TUG site.
+[its own web page](http://www.tug.org/texcollection/)
+on the TUG site.
 

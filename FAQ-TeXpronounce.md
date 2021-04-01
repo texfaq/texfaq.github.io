@@ -18,6 +18,5 @@ that the name comes from the Greek word for "art" or "craft"
 which is the root of the English word "technology".  Knuth's logo for TeX is
 merely the uppercase version of the first three (Greek) letters of the
 word, jiggled about a bit; we don't use that logo (and logos like it)
-in this FAQ (see 
-[Typesetting TeX-related logos](FAQ-logos)).
+in this FAQ (see [Typesetting TeX-related logos](FAQ-logos)).
 

@@ -63,6 +63,4 @@ BaKoMa TeX, by Basil Malyshev, is a comprehensive (shareware)
 distribution, which focuses on support of Acrobat.  The distribution
 comes with a bunch of Type&nbsp;1 fonts packaged to work with BaKoMa
 TeX, which further the focus.
-  web site), and read installation instructions from 
-  [the MiKTeX installation page](http://www.miktex.org/2.9/setup)
 
