@@ -35,5 +35,5 @@ runs natively under Mac OS/X; it includes a port of a version of
 [Omega](FAQ-omegaleph).
 
 Further information may be available in the 
-[MacTeX Help page](http://www.tug.org/mactex/gettinghelp.html).
+[MacTeX Help page](https://www.tug.org/mactex/gettinghelp.html).
 

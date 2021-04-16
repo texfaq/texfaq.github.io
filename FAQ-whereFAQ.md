@@ -14,7 +14,7 @@ The sources of the present FAQ are available from CTAN.
 
 This FAQ and others are regularly mentioned, on `comp.text.tex` and elsewhere,
 in a "pointer FAQ" which is also saved at
-[http://tug.org/tex-ptr-faq](https://tug.org/tex-ptr-faq).
+[https://tug.org/tex-ptr-faq](https://tug.org/tex-ptr-faq).
 
 A 2006 innovation from Scott Pakin is the "visual" LaTeX FAQ.
 This is a document with (mostly rubbish) text formatted so as to

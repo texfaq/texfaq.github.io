@@ -31,7 +31,7 @@ Both distributions may be used in a configuration which involves no
 installation at all.  MiKTeX's "portable" distribution may be
 unpacked on a memory stick, and used on any windows computer without
 making any direct use of the hard drive.  The web page 
-[TeX&nbsp;Live portable usage](http://www.tug.org/texlive/portable.html)
+[TeX&nbsp;Live portable usage](https://www.tug.org/texlive/portable.html)
 describes the options for installing TeX&nbsp;Live on a memory stick, or
 for using the TeX&nbsp;Live DVD with no installation at all.
 

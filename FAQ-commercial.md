@@ -90,5 +90,5 @@ of Y&Y systems may care to use the self-help
 [mailing list](https://tug.org/pipermail/yandytex/)
 that was established in 2003; the remaining usable content of
 Y&Y's web site is available at
-[http://www.tug.org/yandy/](http://www.tug.org/yandy/)
+[https://www.tug.org/yandy/](https://www.tug.org/yandy/)
 

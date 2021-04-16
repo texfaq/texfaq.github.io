@@ -8,7 +8,7 @@ For TeX primitive commands a rather nice
 [quick reference booklet](http://www.nmt.edu/tcc/help/pubs/texcrib.pdf),
 by John W.&nbsp;Shipman, is available; it's arranged in the same way as the
 TeXbook.  By contrast, you can view David Bausum's 
-[list of TeX primitives](http://www.tug.org/utilities/plain/cseq.html)
+[list of TeX primitives](https://www.tug.org/utilities/plain/cseq.html)
 alphabetically or arranged by "family".  Either way, the list has a
 link for each control sequence, that leads you to a detailed
 description, which includes page references to the TeXbook.

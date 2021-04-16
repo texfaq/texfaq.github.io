@@ -52,7 +52,7 @@ personal selection:
   TUG is sponsoring the development of a cross-platform editor
   and shell, modelled on the excellent TeXshop for the Macintosh.
   The result,
-  [TeXworks](http://www.tug.org/texworks/), is recommended: if
+  [TeXworks](https://www.tug.org/texworks/), is recommended: if
   you're looking for a
   (La)TeX development environment, it may be for you.  (It is
   distributed with both TeX&nbsp;Live and MiKTeX.)

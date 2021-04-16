@@ -19,7 +19,7 @@ from the network or installed off-line from a disc) a manager
 packages you didn't install at first.
 
 TeX&nbsp;Live may be run with no installation at all; the web page 
-[TeX&nbsp;Live portable usage](http://www.tug.org/texlive/portable.html)
+[TeX&nbsp;Live portable usage](https://www.tug.org/texlive/portable.html)
 describes the options for installing TeX&nbsp;Live on a memory stick for
 use on another computer, or for using the TeX&nbsp;Live DVD with
 no installation at all.

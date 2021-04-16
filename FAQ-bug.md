@@ -41,7 +41,7 @@ software, your only real hope is [help on-line](FAQ-gethelp).
 
 Failing all else, you may need to pay for
 help&nbsp;&mdash; TUG maintains a 
-[register of TeX consultants](http://www.tug.org/consultants.html).
+[register of TeX consultants](https://www.tug.org/consultants.html).
 (This of course requires that you have the resources&nbsp;&mdash; and a
 pressing  enough need&nbsp;&mdash; to hire someone.)
 

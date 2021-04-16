@@ -80,7 +80,7 @@ permalink: /FAQ-fmtconv
   V2.71 document to a TeX-compatible disk file.  It was written by Peter
   Flynn at University College, Cork, Republic of Ireland.
 
-[Wilfried Hennings' FAQ](http://www.tug.org/utilities/texconv/index.html),
+[Wilfried Hennings' FAQ](https://www.tug.org/utilities/texconv/index.html),
 which deals specifically with conversions between TeX-based formats
 and word processor formats, offers much detail as well as tables that
 allow quick comparison of features.
