@@ -18,9 +18,8 @@ is preloaded into the format.
 
 The standard input encoding for Western Europe prior to the wide adoption
 of Unicode was ISO&nbsp;8859&ndash;1 (commonly known by the standard's
-subtitle 'Latin-1'). If you are still saving files in
-Latin-1 (or other) encoding then you will need to declare that via
-a declaration such as
+subtitle 'Latin-1'). If you are still saving files in Latin-1 (or other)
+encoding then you will need to declare that via a declaration such as
 ```latex
 \usepackage[latin1]{inputenc}
 ```
@@ -47,4 +46,3 @@ with the first versions of the LaTeX2e documentation, which were
 written before the [`fonttenc`](https://ctan.org/fontenc/inputenc)
 package was produced.
 
- 

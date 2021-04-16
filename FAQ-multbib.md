@@ -130,8 +130,7 @@ citation list for.  In each environment, you list the `\cite` keys
 that you want listed in each category.  The `\bibliography` command
 (or, more precisely, the `thebibliography` environment it
 uses) will sort the keys as requested.  (Keys not mentioned in a
-`category` appear in a "misc" category created in the
-sorting process.)  A code example appears in the package documentation
-(a PDF file in the CTAN directory,
-  which you can browse to, from the link, below).
+`category` appear in a "misc" category created in the sorting process.)
+A code example appears in the package documentation (a PDF file in the CTAN
+directory, which you can browse to, from the link, below).
 

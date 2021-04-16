@@ -27,6 +27,6 @@ here, the dummy superscript has the requisite "pushing down" effect:
 While this technique does what is necessary, it is tedious and
 potentially error-prone.  So, for more than one or two equations
 in a document, the LaTeX user is advised to use the
-[`subdepth`](https://ctan.org/pkg/subdepth) package, which forces the lower position for all
-subscripts.
+[`subdepth`](https://ctan.org/pkg/subdepth) package, which forces
+the lower position for all subscripts.
 

@@ -7,6 +7,17 @@ file. Changes prior to the switch to Markdown format are available from
 The format is based on [Keep a
 Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2021-04-01
+
+### Added
+- Q-arraytab: New question
+- Q-rule: New question
+
+### Changed
+
+- Q-whereFAQ: Update to the status of non-English FAQs
+- various pages: small corrections to problems discovered while translating the FAQ into French.
+
 ## 2020-05-18
 
 ### Changed

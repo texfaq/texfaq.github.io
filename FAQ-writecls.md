@@ -37,7 +37,6 @@ technique may be seen in [`ltxguide.cls`](https://ctan.org/pkg/latex-base)
 
 An 
 [annotated version of `article`](https://tug.org/TUGboat/Articles/tb28-1/tb88flynn.pdf),
-as it appears in `classes.dtx`, was published in
-TUGboat 28(1).  The article, by Peter Flynn, is a good guide to
-understanding `classes.dtx`
+as it appears in `classes.dtx`, was published in TUGboat 28(1).  The article,
+by Peter Flynn, is a good guide to understanding `classes.dtx`
 

@@ -70,6 +70,4 @@ An interesting (and practical) tutorial about what _not_ to do is
 Trettin, translated into English by Jürgen Fenn.  The
 tutorial is available from CTAN as a PDF file (though
 the source is also available).
-  (in English, you may browse for sources and other language versions at
-  convenient for you
 

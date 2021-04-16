@@ -40,6 +40,6 @@ program nowadays, yet it has lasted better than most, and has been
 ported to many different computer architectures and operating
 systems&nbsp;&mdash; the sorts of attributes that much modern programming
 practice aims for.  The processed "readable" source of TeX the
-program may be found in the 
-  [TDS structured](FAQ-tds) version of the distribution.
+program may be found in the [TDS structured](FAQ-tds) version
+of the distribution.
 

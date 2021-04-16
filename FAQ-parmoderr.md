@@ -41,7 +41,7 @@ package such as [`algorithm2e`](https://ctan.org/pkg/algorithm2e) to place two a
 side-by-side).
 
 
-Annother common occurrence is when the user wants a figure somewhere
+Another common occurrence is when the user wants a figure somewhere
 inside a table:
 ```latex
 \begin{tabular}{|l|}
@@ -90,8 +90,7 @@ command):
   \end{tabular}
 \end{figure}
 ```
-The same goes for `table` environments (or any other sort
-of float you've defined for yourself) inside tabulars or box commands;
-you _must_ get the float environment out from inside, one way or
-another.
+The same goes for `table` environments (or any other sort of float you've
+defined for yourself) inside tabulars or box commands; you _must_ get the
+float environment out from inside, one way or another.
 

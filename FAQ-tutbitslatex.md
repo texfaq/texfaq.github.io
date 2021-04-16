@@ -46,9 +46,7 @@ CTAN, but not in the TeX&nbsp;Live or MiKTeX distributions, for
 lack of sources.
 
 Stefan Kottwitz manages a web site devoted to the use of the drawing
-packages 
-[PGF and TikZ](FAQ-drawing), 
-[TeXample.net](http://www.texample.net/)
+packages [PGF and TikZ](FAQ-drawing), [TeXample.net](http://www.texample.net/)
 
 The compendious PGF/TikZ manual is clear, but is
 bewildering for some beginners.  The 
@@ -73,14 +71,12 @@ supporting LaTeX file together with correct output, both in PostScript and
 PDF, for each of A4 and "letter" paper sizes.  The
 complete kit is available on CTAN (distributed with the
 author's macros for papers submitted for IEEE publications).
-The issues are also covered in a later 
-[FAQ answer](FAQ-dvips-pdf).
+The issues are also covered in a later [FAQ answer](FAQ-dvips-pdf).
 
 
 More ambitiously, some university departments have enthusiastic
-documenters who 
-make public record of their (La)TeX support.  For example, Tim Love
-(of Cambridge University Engineering Department) maintains his
-department's pages at
+documenters who make public record of their (La)TeX support.  For
+example, Tim Love (of Cambridge University Engineering Department)
+maintains his department's pages at
 [http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/](http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/)
 

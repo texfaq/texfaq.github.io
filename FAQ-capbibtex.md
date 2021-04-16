@@ -44,5 +44,5 @@ style, or to the way you are thinking today&nbsp;&mdash; for example, on a
 future occasion, you might find yourself using a different BibTeX
 style with different capitalisation rules.
 
-There's more on the subject in the
-[BibTeX documentation](FAQ-BibTeXing).
+There's more on the subject in the [BibTeX documentation](FAQ-BibTeXing).
+

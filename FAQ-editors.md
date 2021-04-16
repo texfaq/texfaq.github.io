@@ -102,5 +102,5 @@ facilities should review the answer on
 While many (La)TeX-oriented editors can support work on BibTeX
 files, there are many systems that provide specific "database-like"
 access to your BibTeX files&nbsp;&mdash;
-  see "[creating a bibliography file](FAQ-buildbib)".
+see "[creating a bibliography file](FAQ-buildbib)".
 

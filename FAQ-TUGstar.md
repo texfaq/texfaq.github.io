@@ -12,10 +12,9 @@ with articles about TeX, MetaFont and related technologies, and about
 document design, processing and production.  TUG holds a yearly
 conference, whose proceedings are published in _TUGboat_.
 
-TUG's [web site](http://www.tug.org) is a valuable
-resource for all sorts of
-TeX-related matters, such as details of TeX software, and lists
-of TeX vendors and TeX consultants.  Back articles from
+TUG's [web site](http://www.tug.org) is a valuable resource for
+all sorts of TeX-related matters, such as details of TeX software,
+and lists of TeX vendors and TeX consultants.  Back articles from
 _TUGboat_ are also available.
 
 Some time ago, TUG established a "technical council", whose
@@ -29,5 +28,5 @@ organisation, but there are many national and regional user groups,
 too; TUG's web site maintains a list of
 ["Local User Groups" (LUGs)](http://www.tug.org/lugs.html).
 
-Contact TUG itself via http://tug.org/contact
+Contact TUG itself via [http://tug.org/contact](http://tug.org/contact).
 

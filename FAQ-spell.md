@@ -54,5 +54,4 @@ created, which can be processed by a "normal" spelling checker to
 produce a revised "bad spelling" list.  (The package documentation
 shows the end result; it includes words such as "spellling", which are
 duly highlighted.)
-  dictionaries (under subdirectory `dict/`) that you need.
 
