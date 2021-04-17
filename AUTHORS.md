@@ -47,6 +47,7 @@ The following people are _known_ to have contributed to the FAQ:
 - David Jansen
 - Alan Jeffrey
 - Regnor Jernsletten
+- Jérémy Just
 - David Kastrup
 - Oleg Katsitadze
 - Isaac Khabaza

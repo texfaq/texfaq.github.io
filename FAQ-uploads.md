@@ -7,7 +7,6 @@ permalink: /FAQ-uploads
 You have something to submit to the archive&nbsp;&mdash; good news!
 
 Before we even start, here's a check-list of things to sort out:
-  
 
 1.  Licence: in the spirit of TeX, we hope for free software; in
     the spirit of today's lawyer-enthralled society, CTAN
@@ -23,8 +22,7 @@ Before we even start, here's a check-list of things to sort out:
     documentation before downloading a package.  You need at least a
     plain text `README` file (possible names are
     "README", "README.txt", and "README.md", but no other variants);
-    in addition a
-    PDF file of the package documentation, prepared for screen
+    in addition a PDF file of the package documentation, prepared for screen
     reading, is highly desirable.
 3.  Name: endless confusion is caused by name clashes.  If your
     package has the same name as one already on CTAN, or if your
@@ -34,24 +32,34 @@ Before we even start, here's a check-list of things to sort out:
     they may nag you to change the name, or to negotiate a take-over
     with the author of the original package. 
     [Browse the archive](FAQ-findfiles) to ensure uniqueness.
-  
 
     The name you choose should also (as far as possible) be somewhat
     descriptive of what your submission actually _does_; while
     "descriptiveness" is to some extent in the eye of the beholder,
     it's clear that names such as `mypackage` or `jiffy`
     aren't suitable.
+4.  Version: Every submission of every CTAN package has to contain a
+    "version identifier" that permits to distinguish this version of
+    the package from earlier or later ones. This tag should be put
+    into a place where it is easy to find, such as the latest entry
+    of a Changes file, a `VERSION` file, or an easily accessible place
+    (preferably: the top part) in the `README` file.
 
-You upload via the
-  [CTAN upload redirector](https://ctan.org/upload)
+    This version identifier may consist of either a version number
+    (i.e. something like `1.0`, or `3.0.17`, or `2.1a`, or a version
+    date (i.e.: preferably in `YYYY-MM-DD` or `YYYY/MM/DD` notation,
+    like `2021-04-01` or `2021/04/01`), or a string consisting of
+    both the aforementioned data.
+
+
+You upload via the [CTAN upload redirector](https://ctan.org/upload)
 (the archive's main page has a link).  The upload page shows what it
 needs to know, and allows you to enter the information.  The mechanism
 can only accept one file per upload: if you had intended to upload
 lots of files, you need to bundle them into an "archive" file of some
-sort; acceptable formats are `zip` and `tar.gz`
-(most uploads are packed in `zip` format).  Once you have
-completed your upload, the redirector assigns it to a member of the
-team for processing.
+sort; acceptable formats are `zip` and `tar.gz` (most uploads are packed
+in `zip` format).  Once you have completed your upload, the redirector
+assigns it to a member of the team for processing.
 
 If you can't use this method, or if you find something confusing, ask
 advice of the [CTAN management team](mailto:ctan@dante.de).

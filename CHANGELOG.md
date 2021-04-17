@@ -9,11 +9,15 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## 2021-04-17
 
-### Added
+### Renammed
+
+- Q-texcad to Q-texdraw: Added other drawing packages.
 
 ### Changed
 
 - Q-whereFAQ: Correction of links
+- Q-FAQ-spell: Removed information about VMS and MS-DOS programs. Added `Antidote` as a LaTeX-aware spell checker.
+- Q-uploads: Added details about version identifiers.
 
 ## 2021-04-01
 
