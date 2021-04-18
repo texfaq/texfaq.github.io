@@ -8,14 +8,14 @@ date: 2021-04-18
 This is a strength of TeX: some pairs of letters are automatically replaced
 by a single glyph, for aesthetic reasons, as is done in letterpress.  For example,
 when an `f` and an `i` are placed next to each other, the hood of the `f` would
-normally tend collide with the tittle of the i, which wouldn't look very nice.
+normally tend collide with the tittle of the `i`, which wouldn't look very nice.
 TeX therefore replaces them with a new, prettier glyph: ﬁ.
 This merging of glyphs is called a ligature.
 
 The same mechanism is used to obtain the Spanish characters ¡ and ¿, which are
 typed in as `` !` `` and `` ?` ``.
 
-In Cyrillic fonts used with OT2 encoding, the letter pair sh will produce the
+In Cyrillic fonts used with OT2 encoding, the letter pair `sh` will produce the
 glyph ш (the _sha_ letter).
 
 But in some cases, one may want to prevent ligatures from occurring.
