@@ -49,8 +49,7 @@ hyphenation: `\language` (which selects a hyphenation style), and
 engine, overriding the effect of the patterns).
 
 The ordinary LaTeX user need not worry about `\language`, since
-it is very thoroughly managed by the [`babel`](https://ctan.org/pkg/babel) package; use of
-`\hyphenation` is discussed in
-  the context of
+it is very thoroughly managed by the [`babel`](https://ctan.org/pkg/babel)
+package; use of `\hyphenation` is discussed in the context of
 [hyphenation failure](FAQ-nohyph).
 

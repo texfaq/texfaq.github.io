@@ -9,6 +9,10 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## 2021-04-18
 
+### Added
+
+- Q-prevlig: New question.
+
 ### Renammed
 
 - Q-texcad to Q-texdraw: Added other drawing packages.
