@@ -14,7 +14,7 @@ outlining the programming techniques, may be had from CTAN.
 `CWEB`, by Silvio Levy, is a WEB for C programs.
 
 `FWEB`, by John Krommes, is a version for Fortran,
-Ratfor,C, C++, working with LaTeX; it was derived
+Ratfor, C, C++, working with LaTeX; it was derived
 from `CWEB`.
 
 Spidery WEB, by Norman Ramsey, supports many 
