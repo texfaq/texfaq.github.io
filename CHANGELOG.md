@@ -20,10 +20,12 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Changed
 
 - Q-FAQ-spell: Removed information about VMS and MS-DOS programs. Added `Antidote` as a LaTeX-aware spell checker.
+- Q-recovertex: Links added.
 - Q-time.md: Added `datetime2`.
 - Q-typo-style: Added two documents.
 - Q-uploads: Added details about version identifiers.
-- Q-whereFAQ: Correction of links
+- Q-useMF: Correction of typos.
+- Q-whereFAQ: Correction of links.
 
 ## 2021-04-01
 
