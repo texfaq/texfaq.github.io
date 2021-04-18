@@ -30,20 +30,16 @@ first place, but you may find you need to create one.  The MiKTeX
   `Programs`&rarr;
   `MiKTeX`&rarr;
   `Settings`)
-has a tab `Roots`; that tab gives a list of current
-TDS roots (they're typically not called
-`texmf`-anything).  If there's not one there with
-`local` in its name, create an appropriate one (see below),
-and register it using the window's
-`Add` button.
+has a tab `Roots`; that tab gives a list of current TDS roots
+(they're typically not called `texmf`-anything).  If there's not one
+there with `local` in its name, create an appropriate one (see below),
+and register it using the window's `Add` button.
 
-The 
-[MiKTeX FAQ](http://docs.miktex.org/faq/maintenance.html)
-suggests that you should create 
-`C: Local TeX Files`, which is good if you
-manage your own machine, but often not even possible in corporate, or
-similar, environments&nbsp;&mdash; in such situations, the user may have no
-control over the hard disc of the computer, at all.
+The [MiKTeX FAQ](http://docs.miktex.org/faq/maintenance.html)
+suggests that you should create `C: Local TeX Files`, which is good
+if you manage your own machine, but often not even possible in corporate,
+or similar, environments&nbsp;&mdash; in such situations, the user may
+have no control over the hard disc of the computer, at all.
 
 So the real criterion is that your local tree should be somewhere that
 _you_, rather than the system, control.  Restrictive systems often
@@ -52,11 +48,10 @@ drive; this is a natural home for the user's local tree.  Other (often
 academic) environments assume the user is going to provide a memory
 stick, and will assign it a defined drive letter&nbsp;&mdash; another good
 candidate location.  Note that the semantics of such a tree are
-indistinguishable from those of a 
-["home" TEXMF tree](FAQ-privinst).
+indistinguishable from those of a ["home" TEXMF tree](FAQ-privinst).
 
 You might not wish to use the 'local' tree:
-  
+
 
 -  if the package, or whatever, is "personal" (for example,
     something commercial that has been licensed to you alone, or
@@ -76,14 +71,14 @@ The reason one might place upgrades the distribution's main tree is to
 avoid confusion.  Suppose you were to place the file on the local
 tree, and then install a new version of the distribution&nbsp;&mdash; you might
 have an effect like:
-  
 
--  distribution comes with package version n;
--  you install package version n+1 on the local tree; and
--  the updated distribution provides package version n+2.
+
+-  distribution comes with package version _n_;
+-  you install package version _n+1_ on the local tree; and
+-  the updated distribution provides package version _n+2_.
 
 In such a situation, you could find yourself using version
-n+1 (from the local tree) _after_ the new
+_n+1_ (from the local tree) _after_ the new
 distribution has been installed.
 
 If you install in the local tree, the only way to avoid such problems

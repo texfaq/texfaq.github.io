@@ -2,6 +2,8 @@
 title: Drawing packages for LaTeX
 category: misc
 permalink: /FAQ-texdraw
+redirect_from: /FAQ-texcad
+date: 2021-04-17
 ---
 
 In spite of the availability of [PGF/TikZ](https://ctan.org/pkg/pgf) and

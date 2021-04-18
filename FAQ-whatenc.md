@@ -49,8 +49,7 @@ encoding (though the font in question may be a
 fair bit of what appears in the output stream could be direct
 transcription of what arrived in the input, but the output stream
 also contains the product of commands in the input, and translations
-of the input such as ligatures like 
-`fi`.
+of the input such as ligatures like `fi`.
 
 Font encodings became a hot topic when the
 [Cork encoding](FAQ-ECfonts)

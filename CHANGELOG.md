@@ -7,7 +7,7 @@ file. Changes prior to the switch to Markdown format are available from
 The format is based on [Keep a
 Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## 2021-04-17
+## 2021-04-18
 
 ### Renammed
 
@@ -15,9 +15,11 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Changed
 
-- Q-whereFAQ: Correction of links
 - Q-FAQ-spell: Removed information about VMS and MS-DOS programs. Added `Antidote` as a LaTeX-aware spell checker.
+- Q-time.md: Added `datetime2`.
+- Q-typo-style: Added two documents.
 - Q-uploads: Added details about version identifiers.
+- Q-whereFAQ: Correction of links
 
 ## 2021-04-01
 
