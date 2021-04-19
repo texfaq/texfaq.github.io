@@ -5,7 +5,7 @@ permalink: /FAQ-errmissitem
 ---
 
 Sometimes, the error
-```latex
+```raw
 Something's wrong--perhaps a missing \item
 ```
 actually means what it says:
@@ -99,9 +99,8 @@ modification of the above _does_ work:
 ```
 <!-- {% endraw %} -->
 The code above produces a box that's far too wide for the text.  One
-may want to use something that allows 
-[variable size boxes](FAQ-varwidth) in place of the
-`minipage` environment.
+may want to use something that allows [variable size boxes](FAQ-varwidth)
+in place of the `minipage` environment.
 
 Oddly, although the `verbatim` environment wouldn't work
 inside a `\fbox` command argument (see 
@@ -118,6 +117,5 @@ error:
 This is a case where you've simply got to be more subtle; you should
 either write your own macros to replace the insides of LaTeX's
 sectioning macros, or  look for some alternative in the packages
-discussed in 
-"[The style of section headings](FAQ-secthead)".
+discussed in "[The style of section headings](FAQ-secthead)".
 

@@ -14,10 +14,10 @@ For example:
 ```
 The error comes when you try to build something movable inside a box.
 Movable things, in this context, are floating environments
-(`figure` and `table`, for example), and
-`\marginpar`s.  LaTeX simply doesn't have the mechanisms for
-floating out of boxes.  In fact, floats and `\marginpar`s
-themselves are built out of boxes, so that they can't be nested.
+(`figure` and `table`, for example), and `\marginpar`s.  LaTeX simply
+doesn't have the mechanisms for floating out of boxes.  In fact, floats
+and `\marginpar`s themselves are built out of boxes, so that they
+can't be nested.
 
 If your error arises from `\marginpar`, you simply have to think of
 an alternative way of placing the command; there is no slick solution.
@@ -37,8 +37,8 @@ the `H` placement option, provided (for example) by the
 <!-- {% endraw %} -->
 This example makes little sense as it stands; however, it is
 conceivable that sane uses could be found (for example, using a
-package such as [`algorithm2e`](https://ctan.org/pkg/algorithm2e) to place two algorithms
-side-by-side).
+package such as [`algorithm2e`](https://ctan.org/pkg/algorithm2e) to place
+two algorithms side-by-side).
 
 
 Another common occurrence is when the user wants a figure somewhere
@@ -64,8 +64,7 @@ The problem is, that the `tabular` environment, and the
 `\framebox` command restrain the `figure` environment
 from its natural métier, which is to float around the document.
 
-The solution is simply not to use the `figure` environment
-here:
+The solution is simply not to use the `figure` environment here:
 ```latex
 \begin{tabular}{|l|}
   \hline
@@ -78,8 +77,7 @@ serves no useful purpose; but perhaps you actually wanted a diagram
 and its caption framed, in a float.
 
 It's simple to achieve this&nbsp;&mdash; just reverse the order of the
-environments (or of the `figure` environment and the
-command):
+environments (or of the `figure` environment and the command):
 ```latex
 \begin{figure}
   \begin{tabular}{|l|}

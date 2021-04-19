@@ -5,8 +5,7 @@ permalink: /FAQ-RCS
 redirect_from: /FAQ-rcs
 ---
 
-If you use RCS, CVS, `Subversion`,
-`Bazaar` or `Git` to maintain
+If you use RCS, CVS, `Subversion`, `Bazaar` or `Git` to maintain
 your (La)TeX documents under version control, you may need some
 mechanism for including the version details in your document, in such
 a way that they can be typeset (that is, rather than just hiding them
@@ -69,8 +68,7 @@ documentation to see which suits you best.
 An alternative script-based approach to version control has been taken
 by the [`vc`](https://ctan.org/pkg/vc) bundle, that in certain situations might work more
 reliably than any of the packages mentioned above.  The [`vc`](https://ctan.org/pkg/vc)
-bundle supports `Bazaar`, `Git` and
-`Subversion` usage and works with both LaTeX and
+bundle supports `Bazaar`, `Git` and `Subversion` usage and works with both LaTeX and
 Plain TeX.  Note that [`vc`](https://ctan.org/pkg/vc) is the only option that
 currently claims to support `Bazaar`-controlled repositories.
 

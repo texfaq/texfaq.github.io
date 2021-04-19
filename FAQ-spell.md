@@ -23,20 +23,20 @@ However, it has more-or-less been replaced everywhere, by
 performs better on most metrics; there remains some question as to its
 performance with (La)TeX sources.  The most recent offering (which
 is widely used in other open-source software projects) is
-  [`Hunspell`](http://hunspell.sourceforge.net/).
+[`Hunspell`](http://hunspell.sourceforge.net/).
 `Hunspell` is available for other architectures, too; a web
 search shows versions available for Windows, at least.
 
-For the Macintosh, `Excalibur` has long been used; its
-distribution comes with dictionaries for several languages.
+For the Macintosh, [`Excalibur`](http://excalibur.sourceforge.net/)
+has long been used; it is LaTeX-aware, and its distribution comes
+with dictionaries for several languages.
 `Hunspell` (see above) is actually part of OS X from version 10.6.
 
-The VMS Pascal program `spell` makes special cases of
-some important features of LaTeX syntax.
+A commercial alternative, [`Antidote`](https://www.antidote.info/),
+takes the approach of skipping LaTeX commands, that is viable for
+documents containing limited formatting. It supports English and French,
+and is available for Mac OS, Linux and Windows.
 
-For MS-DOS, there are several programs.  `Amspell` can be
-called from within an editor, and `jspell` is an extended
-version of `ispell`.
 
 An alternative approach takes (La)TeX output, and checks that.  A
 straightforward approach is to produce PDF output, and process

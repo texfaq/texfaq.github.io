@@ -6,7 +6,7 @@ permalink: /FAQ-tmupfl
 
 If LaTeX responds to a `\begin{figure}` or
 `\begin{table}` command with the error message
-```latex
+```raw
 ! LaTeX Error: Too many unprocessed floats.
 
 See the LaTeX manual or LaTeX Companion for explanation.

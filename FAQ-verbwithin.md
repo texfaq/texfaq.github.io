@@ -24,11 +24,11 @@ which simply regurgitates its argument, and use it as:
 ```latex
 \unbrace{\verb+\error+}
 ```
-the combinartion will not (it will attempt to execute `\error`).
+the combination will not (it will attempt to execute `\error`).
 Other errors one
 may encounter are "`\verb` ended by end of line", or even the
 rather more helpful "`\verb` illegal in command argument".  The
-same sorts of thing happen with `\begin{verbatim}` &hellip;
+same sort of thing happen with `\begin{verbatim}` &hellip;
 `\end{verbatim}`:
 <!-- {% raw %} -->
 ```latex
@@ -50,15 +50,13 @@ matching `\end{verbatim}`.
 This is why the LaTeX book insists that verbatim
 commands must not appear in the argument of any other command; they
 aren't just fragile, they're quite unusable in any "normal" command
-parameter, 
-regardless of [`\protect`ion](FAQ-protect).  (The `\verb`
+parameter, regardless of [`\protect`ion](FAQ-protect).  (The `\verb`
 command tries hard to detect if you're misusing it; unfortunately, it
 can't always do so, and the error message is therefore not reliable as an
 indication of problems.)
 
-The first question to ask yourself is: "is `\verb` actually
-necessary?".
-  
+The first question to ask yourself is: "is `\verb` actually necessary?".
+
 
 -  If `\texttt{_your text_}` produces the same result
     as `\verb+_your text_+`, then there's no need of
@@ -99,14 +97,15 @@ Another way out is to use one of "argument types" of the
 \cmd{Command }|\furble|{ isn't defined}
 ```
 Which gives us:
-  Command `\furble` isn't defined
+```raw
+Command `\furble` isn't defined
+```
 The `m` tag argument specifies a normal mandatory argument,
 and the `v` specifies one of these verbatim arguments.
 As you see, it's implanting a `\verb`-style command argument in the
-argument sequence of an otherwise "normal" sort of command; that
-  `|` 
-may be any old character that doesn't
-conflict with the content of the argument.
+argument sequence of an otherwise "normal" sort of command; that `|`
+may be any old character that doesn't conflict with the content of
+the argument.
 
 This is pretty neat (even if the verbatim is in an argument of its
 own) but the downside is that [`xparse`](https://ctan.org/pkg/xparse) pulls in
@@ -115,7 +114,7 @@ the experimental LaTeX3 programming environment
 
 Other than the [`cprotect`](https://ctan.org/pkg/cprotect) package, there are four partial
 solutions to the problem:
-  
+
 
 -  Some packages have macros which are designed to be responsive
     to verbatim text in their arguments.  For example,
@@ -127,7 +126,7 @@ solutions to the problem:
     arguments of other commands, but it can clash with other packages:
     for example, `\VerbatimFootnotes` interacts poorly with the
     `para` option of the [`footmisc`](https://ctan.org/pkg/footmisc) package.
-  
+
 
     The [`memoir`](https://ctan.org/pkg/memoir) class defines its `\footnote` command so that
     it will accept verbatim in its arguments, without any supporting package.
@@ -135,7 +134,7 @@ solutions to the problem:
     with a corresponding `\UseVerb` command, that allow you to save
     and then to reuse the content of its argument; for details of this
     extremely powerful facility, see the package documentation.
-  
+
 
     Rather simpler is the [`verbdef`](https://ctan.org/pkg/verbdef) package, whose `\verbdef`
     command defines a (robust) command which expands to the verbatim
@@ -156,13 +155,11 @@ solutions to the problem:
 -  The [`tcolorbox`](https://ctan.org/pkg/tcolorbox) package provides a similar facility
 -  If you have a single character that is giving trouble (in
     its absence you could simply use `\texttt`), consider using
-    `\string`.  `\texttt{my`\string`_name}`
-    typesets the same as 
+    `\string`.  `\texttt{my`\string`_name}` typesets the same as 
     `\verb+my_name+`, and will work in the argument of a command.  It
     won't, however, work in a moving argument, and no amount of
-    [`\protect`ion](FAQ-protect) will make it work in
-    such a case.
-  
+    [`\protect`ion](FAQ-protect) will make it work in such a case.
+
 
     A robust alternative is:
     ```latex
@@ -175,7 +172,7 @@ solutions to the problem:
     troublesome character (though it's plainly not necessary for things
     like percent signs for which (La)TeX already provides
     robust macros).
-  
+
 
 -  One may also consider putting verbatim material in an external
     file; this is somewhat more tedious, but the file may be reused
@@ -188,7 +185,7 @@ solutions to the problem:
     ```
     which (as one might guess) writes to the named file; load the saved
     contents using `\input{<file name>}`
-  
+
 
     A second environment puts your verbatim material in an (apparently)
     anonymous temporary file:
@@ -200,14 +197,14 @@ solutions to the problem:
     In this case, you use the anonymous file with the `\tcbusetemp`
     macro.  (You can change the name used for the "anonymous" file, if
     its default proves troublesome.)
-  
+
 
     The [`moreverb`](https://ctan.org/pkg/moreverb) package provides a `\verbatimwrite`
     command, which doesn't provide an anonynous file.
-  
+
 
     Macros, to achieve the same effect, are outlined in the
-    documentation of the [`verbatim`](https://ctan.org/pkg/verbatim) package; the macros use the
-    facilities of the package, but the user has to write a mini-package
-    actually to use them.
+    documentation of the [`verbatim`](https://ctan.org/pkg/verbatim) package;
+    the macros use the facilities of the package, but the user has to write
+    a mini-package actually to use them.
 

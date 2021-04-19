@@ -37,7 +37,7 @@ is after all the arguments have been scanned.)  For example:
 \blah and so on
 ```
 produces the error report
-```latex
+```raw
 ! Undefined control sequence.
 l.4 \blah
           and so on
@@ -48,7 +48,7 @@ while:
 \blah{to you}, folks
 ```
 produces the error report
-```latex
+```raw
 ! Undefined control sequence.
 \blah #1->\bleah 
                  #1
@@ -61,7 +61,7 @@ If the argument itself is in error, we will see things such as
 \blah{\bleah}, folks
 ```
 producing
-```latex
+```raw
 ! Undefined control sequence.
 <argument> \bleah 
                   
@@ -70,7 +70,7 @@ l.5 \blah{\bleah}
 ```
 
 The prompt accepts single-character commands: the list of what's
-available may be had by typing `?`.  One immediately valuable
+available may be obtained by typing `?`.  One immediately valuable
 command is `h`, which gives you an expansion of TeXs original
 précis message, sometimes accompanied by a hint on what to do to
 work round the problem in the short term.  If you simply type "return"

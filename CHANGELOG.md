@@ -7,9 +7,32 @@ file. Changes prior to the switch to Markdown format are available from
 The format is based on [Keep a
 Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2021-04-18
+
+### Added
+
+- Q-prevlig: New question.
+
+### Renammed
+
+- Q-texcad to Q-texdraw: Added other drawing packages.
+
+### Changed
+
+- Q-erroradvice: Added link.
+- Q-spell: Removed information about VMS and MS-DOS programs. Added `Antidote` as a LaTeX-aware spell checker.
+- Q-recovertex: Links added.
+- Q-time.md: Added `datetime2`.
+- Q-typo-style: Added two documents.
+- Q-uploads: Added details about version identifiers.
+- Q-useMF: Correction of typos.
+- Q-whereFAQ: Correction of links.
+- Q-xspace: Correction of punctuation.
+
 ## 2021-04-01
 
 ### Added
+
 - Q-arraytab: New question
 - Q-rule: New question
 
