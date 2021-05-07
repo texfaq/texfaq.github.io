@@ -19,33 +19,33 @@ This page lists comverters to and from LaTeX, as of May 6, 2021
 
 - WordPerfect `wp2latex` is actively maintained, and is
   available either for Windows or for Unix systems.  
-  http://www.penguin.cz/%7Efojtik/wp2latex/wp2latex.htm  
+  [http://www.penguin.cz/%7Efojtik/wp2latex/wp2latex.htm] (http://www.penguin.cz/%7Efojtik/wp2latex/wp2latex.htm)  
   Latest version: 3.96 (2021-04-27)
   
 - RTF `rtf2latex2e`, by Ujwal Sathyam and Scott Prahl.  
-  https://sourceforge.net/projects/rtf2latex2e/  
+  [https://sourceforge.net/projects/rtf2latex2e/] (https://sourceforge.net/projects/rtf2latex2e/)  
   It will only convert rtf as saved from Word 2010 and earlier. 
   Rtf saved from the newer versions of Word contains tags which cause rtf2latex2e to segfault.
   Development of it seems to have stalled.
   
-- OpenOffice: `Writer2LaTeX` http://writer2latex.sourceforge.net  
+- OpenOffice: `Writer2LaTeX` [http://writer2latex.sourceforge.net] (http://writer2latex.sourceforge.net)  
   requires: OpenOffice or LibreOffice, and Java.  
   Latest versions: stable 1.6.1 (2018-10-19), snapshot 1.9.3 alpha (2018-10-19)
 
 - Word doc / docx: 
-  - `docx2tex` https://github.com/transpect/docx2tex/  
+  - `docx2tex` [https://github.com/transpect/docx2tex/] (https://github.com/transpect/docx2tex/)  
       Latest version: 1.6 - 2021-01-25  
       requires: Java 1.7 up to 1.14
     
-  - `wordtolatex` http://www.wordtolatex.com/  (commercial)
+  - `wordtolatex` [http://www.wordtolatex.com/] (http://www.wordtolatex.com/)  (commercial)
   
-  - `word2latex` https://www.word2latex.net/  (commercial)
+  - `word2latex` [https://www.word2latex.net/] (https://www.word2latex.net/)  (commercial)
   
-  - `Word-to-Latex` https://www.grindeq.com  (commercial)
+  - `Word-to-Latex` [https://www.grindeq.com] (https://www.grindeq.com)  (commercial)
   
-  - `docx2latex` https://www.docx2latex.com/  (commercial)
+  - `docx2latex` [https://www.docx2latex.com/] (https://www.docx2latex.com/)  (commercial)
   
-  - `word2tex` https://www.chikrii.com/products/word2tex/  (commercial)
+  - `word2tex` [https://www.chikrii.com/products/word2tex/] (https://www.chikrii.com/products/word2tex/)  (commercial)
   
 - PDF: `Acrobat Reader` (version 5.0 and later) 
   or `PDF Exchange Editor` will output rather feeble
@@ -53,8 +53,11 @@ This page lists comverters to and from LaTeX, as of May 6, 2021
     
 - Excel `Excel2Latex` converts an `Excel` file
   into a LaTeX `tabular` environment; it comes as a
-  `xls` file which defines some `Excel` macros to produce
-  output in a new format.
+  `xla` file which defines some `Excel` macros to produce
+  output in a new format.  
+  [https://github.com/krlmlr/Excel2LaTeX] (https://github.com/krlmlr/Excel2LaTeX)  
+  Latest version: 3.5.0 (2017-07-15)  
+  also online conversion: [http://excel2latex.com/] (http://excel2latex.com/)  
   
 - runoff Peter Vanroose's `rnototex`
   conversion program is written in VMS Pascal.
@@ -63,8 +66,7 @@ This page lists comverters to and from LaTeX, as of May 6, 2021
 - refer/tib There are a few programs for converting bibliographic
   data between BibTeX and `refer`/`tib` formats.
   The collection includes a shell script converter from BibTeX to
-  `refer` format as well. The collection
-  is not maintained.
+  `refer` format as well. The collection is not maintained.
 
 **From LaTeX to:**
   
@@ -77,18 +79,18 @@ This page lists comverters to and from LaTeX, as of May 6, 2021
       
 - Convert LaTeX to `Word` format:
 
-  - `tex2word` https://hunyadi.info.hu/levente/en/tex2word  
+  - `tex2word` [https://hunyadi.info.hu/levente/en/tex2word] (https://hunyadi.info.hu/levente/en/tex2word)  
     Latest version: 2016-03-22 (development stalled)
   
-  - `LaTeXML` https://dlmf.nist.gov/LaTeXML/  
+  - `LaTeXML` [https://dlmf.nist.gov/LaTeXML/] (https://dlmf.nist.gov/LaTeXML/)  
     latest version: 0.8.5 (2020-11-17)
   
-  - `tex2word` https://www.chikrii.com/products/tex2word/  (commercial)
+  - `tex2word` [https://www.chikrii.com/products/tex2word/] (https://www.chikrii.com/products/tex2word/) (commercial)
   
-  - `LaTeX-to-Word` https://www.grindeq.com  (commercial)
+  - `LaTeX-to-Word` [https://www.grindeq.com] (https://www.grindeq.com)(commercial)
   
 - Convert LaTeX to `rtf`: 
-  - `latex2rtf` http://latex2rtf.sourceforge.net/  
+  - `latex2rtf` [http://latex2rtf.sourceforge.net/] (http://latex2rtf.sourceforge.net/)  
     converts only a limited subset of LaTeX markup;
     development stalled
 
@@ -98,5 +100,5 @@ format could be translated to or from this one.
 
 `FrameMaker` provides "import filters" to aid translation from alien formats
 (presumably including TeX) to `FrameMaker`s own.
-ALso see http://webhome.cs.uvic.ca/~nigelh/fm2latex.html (latest update 2015)
-and http://www.cs.stir.ac.uk/~kjt/software/framemaker/#la_mml (latest update 2019)
+ALso see [http://webhome.cs.uvic.ca/~nigelh/fm2latex.html] (http://webhome.cs.uvic.ca/~nigelh/fm2latex.html) (latest update 2015)
+and [http://www.cs.stir.ac.uk/~kjt/software/framemaker/#la_mml] (http://www.cs.stir.ac.uk/~kjt/software/framemaker/#la_mml) (latest update 2019)

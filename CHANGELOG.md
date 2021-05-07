@@ -7,6 +7,14 @@ file. Changes prior to the switch to Markdown format are available from
 The format is based on [Keep a
 Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2021-05-05
+
+### Changed
+
+- Q-fmtconv: Update the information on converters from other formats to LaTeX and from LaTeX to other formats, 
+  merging the information which was contained on Wilfried Hennings' FAQ pages 
+  (https://www.tug.org/utilities/texconv/index.html). Those pages are now removed.
+
 ## 2021-04-18
 
 ### Added
