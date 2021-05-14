@@ -29,7 +29,7 @@ The list also contains no recommendations.
   
 - RTF: `rtf2latex2e`, by Ujwal Sathyam and Scott Prahl.  
   [https://sourceforge.net/projects/rtf2latex2e/](https://sourceforge.net/projects/rtf2latex2e/)  
-  Open source, GPL. Latest version: 2.2.3 (2016-09-17)
+  Open source, GPL. Latest version: 2.2.3 (2016-09-17)  
   It will only convert rtf as saved from Word 2010 and earlier. 
   Rtf saved from the newer versions of Word contains tags which cause rtf2latex2e to segfault.
   Development of it seems to have stalled. 
@@ -53,10 +53,6 @@ The list also contains no recommendations.
   - `docx2latex` [https://www.docx2latex.com/](https://www.docx2latex.com/)  (commercial)
   
   - `word2tex` [https://www.chikrii.com/products/word2tex/](https://www.chikrii.com/products/word2tex/)  (commercial)
-  
-- PDF: `Acrobat Reader` (version 5.0 and later) 
-  or `PDF Exchange Editor` will output rather feeble
-  files that `Word` can read.
   
 - Excel `Excel2Latex` converts an `Excel` file into a LaTeX `tabular` 
   environment; it comes as a `xla` file which defines some `Excel` macros 
@@ -95,6 +91,9 @@ The list also contains no recommendations.
   - `tex2word` [https://www.chikrii.com/products/tex2word/](https://www.chikrii.com/products/tex2word/)  (commercial)
   
   - `LaTeX-to-Word` [https://www.grindeq.com](https://www.grindeq.com)  (commercial)
+  
+  - Convert LaTeX via PDF: `Acrobat Reader` (version 5.0 and later) 
+    or `PDF Exchange Editor` will output rather feeble files that `Word` can read.
   
 - Convert LaTeX to `rtf`: 
   - `latex2rtf` [http://latex2rtf.sourceforge.net/](http://latex2rtf.sourceforge.net/)  
