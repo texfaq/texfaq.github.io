@@ -97,7 +97,7 @@ The list also contains no recommendations.
   
 - Convert LaTeX to `rtf`: 
   - `latex2rtf` [http://latex2rtf.sourceforge.net/](http://latex2rtf.sourceforge.net/)  
-  Open source, GPL. Latest version: 2.3.18 (2020-06-23)
+  Open source, GPL. Latest version: 2.3.18 (2020-06-23)  
   converts only a limited subset of LaTeX markup; development stalled
   
 **Converters supporting multiple formats**
