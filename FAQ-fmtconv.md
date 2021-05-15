@@ -86,7 +86,7 @@ The list also contains no recommendations.
     Open source, GPL. Latest version: 2016-03-22 (development stalled)
   
   - `LaTeXML` [https://dlmf.nist.gov/LaTeXML/](https://dlmf.nist.gov/LaTeXML/)  
-    Open source, Creative Commons 0: ”No Rights Reserved” (GPL compatible). Latest version: 0.8.5 (2020-11-17)
+    Open source, Creative Commons 0: "No Rights Reserved" (GPL compatible). Latest version: 0.8.5 (2020-11-17)
   
   - `tex2word` [https://www.chikrii.com/products/tex2word/](https://www.chikrii.com/products/tex2word/)  (commercial)
   
@@ -107,7 +107,7 @@ The list also contains no recommendations.
   Pandoc can convert between numerous markup and word processing formats, including, 
   but not limited to, various flavors of Markdown, HTML, LaTeX and Word docx. 
   Pandoc can also produce PDF output.  
-  Pandoc’s enhanced version of Markdown includes syntax for tables, definition lists, 
+  Pandoc's enhanced version of Markdown includes syntax for tables, definition lists, 
   metadata blocks, footnotes, citations, 
   math (only the new Office Math, not equation editor/MathType), 
   and much more - but no pictures.
