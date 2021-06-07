@@ -19,11 +19,9 @@ cell contents to text mode.
 While array requires being in math mode, the `tabular` environment can be used
 both in text and math mode, and its contents will be typeset in text mode.
 
-
 `array` and `tabular` environments share a lot of things, but also involve
 some specific parameters. As an example, the space between two columns is set
 separately, using `\arraycolsep` for `array` and `\tabcolsep` for `tabular`.
-
 
 A very useful LaTeX package is named [`array`](https://ctan.org/pkg/array).
 Despite its name, it provides advanced functionnalities for both `array` and
