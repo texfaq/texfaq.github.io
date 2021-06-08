@@ -26,3 +26,4 @@ separately, using `\arraycolsep` for `array` and `\tabcolsep` for `tabular`.
 A very useful LaTeX package is named [`array`](https://ctan.org/pkg/array).
 Despite its name, it provides advanced functionnalities for both `array` and
 `tabular` environments (and their relatives).
+
