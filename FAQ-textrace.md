@@ -11,7 +11,7 @@ tracing package
 generate Type&nbsp;1 outline fonts from MetaFont bitmap 
 font outputs.  The result is unlikely ever to be of the quality of
 the commercially-produced Type&nbsp;1 font, but there's always the
-[`FontForge`](http://fontforge.sourceforge.net/) font
+[`FontForge`](https://fontforge.org/) font
 editor to tidy things.  Whatever, there
 remain fonts which many people find useful and which fail to attract
 the paid experts, and auto-tracing is providing a useful service here.
@@ -23,7 +23,7 @@ Cyrillic LH font sets (for details of both of which sets, see
 ["8-bit" type 1 fonts](FAQ-type1T1)).
 
 Another system, which arrived slightly later, is 
-[`mftrace`](http://www.cs.uu.nl/~hanwen/mftrace/):
+[`mftrace`](https://lilypond.org/mftrace/):
 this is a small `Python` program that does the same job.
 `Mftrace` may use either `autotrace` (like
 `TeXtrace`) or Peter Selinger's
