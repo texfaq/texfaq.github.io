@@ -34,7 +34,7 @@ places where people ask are:
 
 1.  newsgroup `comp.text.tex`, whose "historical posts"
     are accessible via
-    [Google groups](http://groups.google.com/group/comp.text.tex),
+    [Google groups](https://groups.google.com/group/comp.text.tex),
     and
 2.  the mailing list `texhax` via its
     [archive](https://tug.org/pipermail/texhax/), which holds a
@@ -60,9 +60,9 @@ mechanisms are:
 2.  Newsgroup: to ask a question on `comp.text.tex`, you
     can use your own news client (if you have one), or use the
     "+ new post" button on
-    <http://groups.google.com/group/comp.text.tex>.
+    <https://groups.google.com/group/comp.text.tex>.
 3.  Web forum: alternatives are: the 
-    ["LaTeX community" site](http://www.latex-community.org/),
+    ["LaTeX community" site](https://latex.org/forum/),
     which offers a variety of "categories" to place your query, and the
     [TeX, LaTeX and friends&site](https://tex.stackexchange.com/)
     ("StackExchange").
