@@ -53,12 +53,12 @@ in this endeavour:
 
     Other systems, such as
     [`RefDB`](http://refdb.sourceforge.net/),
-    [BibORB](http://www.nongnu.org/biborb),
-    [`BibDesk`](http://bibdesk.sourceforge.net/),
+    [BibORB](http://www.nongnu.org/biborb/),
+    [`BibDesk`](https://bibdesk.sourceforge.net/),
     [`pybliographer`](https://pybliographer.org) and the
     `Java`-based
     [`Bibkeeper`](http://freshmeat.net/projects/bibkeeper/)
-    and [`JabRef`](http://jabref.sourceforge.net) (which
+    and [`JabRef`](https://www.jabref.org/) (which
     claims to supersede `Bibkeeper`)
     are only available from their development sites.
 -  Some commercial citation-management systems will export in
