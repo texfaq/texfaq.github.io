@@ -20,7 +20,7 @@ philosophies. There are advantages to the user in each approach.
 
 ## XeTeX
 
-[XeTeX](http://scripts.sil.org/xetex) is a Unicode TeX engine which can load
+[XeTeX](http://xetex.sourceforge.net/) is a Unicode TeX engine which can load
 system fonts directly using the HarfBuzz library, which is built in. To do
 this, the `\font` primitive is extended. In order to support these major
 concepts, a range of TeX primitives are extended. For most LaTeX end users,

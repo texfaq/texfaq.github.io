@@ -60,7 +60,7 @@ also have email, and normal telephone and fax support.
     Tel: 0345 766 0340 (within the UK)   
     Fax: 0345 603 9443 (within the UK)  
     Email: <a href="mailto:christopher@sciword.co.uk">christopher@sciword.co.uk</a>   
-    Web: [http://www.sciword.co.uk](http://www.sciword.co.uk)
+    Web: [https://www.sciword.co.uk](https://www.sciword.co.uk)
     
     MacKichan Software Inc.  
     19307 8th Avenue, Suite C  
