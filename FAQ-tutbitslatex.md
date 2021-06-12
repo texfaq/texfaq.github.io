@@ -11,7 +11,7 @@ allowing you to edit and run the examples online.
 
 TUG India is developing a series of online LaTeX tutorials
 which can be strongly recommended: select single chapters at a time
-from <https://www.tug.org/tutorials/tugindia>&nbsp;&mdash; there
+from <https://www.tug.org/tutorials/tugindia/>&nbsp;&mdash; there
 are 17&nbsp;chapters in the series, two of which are mostly introductory.
 
 
