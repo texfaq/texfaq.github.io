@@ -8,7 +8,7 @@ redirect_from: /FAQ-readml
 [ConTeXt (mark IV)](FAQ-context) can process some
 *ML, to produce typeset output directly.  Details of what can
 (and can not) be done, are discussed in 
-[The ConTeXt WIKI](http://wiki.contextgarden.net/XML).
+[The ConTeXt WIKI](https://wiki.contextgarden.net/XML).
 ConTeXt is probably the system of choice for (La)TeX users who
 also need to work in XML (and friends).  (Note that ConTeXt
 mark&nbsp;IV requires [LuaTeX](FAQ-luatex), and should

@@ -5,7 +5,7 @@ permalink: /FAQ-context
 date: 2018-05-26
 ---
 
-[ConTeXt](http://www.pragma-ade.com/) is a macro package
+[ConTeXt](https://www.pragma-ade.com/) is a macro package
 created by Hans Hagen of Pragma ADE (which stands for
 Advanced Document Engineering); it started as a production tool
 for Pragma (which is a publishing company).  ConTeXt is a
@@ -36,17 +36,17 @@ happens).
 ConTeXt has a large developer community (though possibly not as
 large as that of LaTeX), but those developers who are active seem to have
 prodigious energy.  Support is available via the
-[ConTeXt Garden](http://wiki.contextgarden.net/Main_Page) and via the
+[ConTeXt Garden](https://wiki.contextgarden.net/Main_Page) and via the
 [mailing list](https://mailman.ntg.nl/mailman/listinfo/ntg-context).
 A "standalone" distribution (a TeX distribution with no macros other than
 ConTeXt-based ones) is available as ["ConTeXt
-Standalone"](http://wiki.contextgarden.net/ConTeXt_Standalone) (also
+Standalone"](https://wiki.contextgarden.net/ConTeXt_Standalone) (also
 known as "ConTeXt Minimals" or the "ConTeXt Suite") &mdash; it provides
 a ConTeXt system on any of a number of platforms, executing either
 Mark&nbsp;II or Mark&nbsp;IV ConTeXt.
 
 Note that CTAN does _not_ hold the primary distribution of
 ConTeXt&nbsp;&mdash; potential users should refer to the
-[ConTeXt Garden](http://contextgarden.net) for details
+[ConTeXt Garden](https://contextgarden.net) for details
 of the current distribution.
 

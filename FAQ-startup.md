@@ -35,6 +35,6 @@ Plain TeX, see "[Online introductions: TeX](FAQ-man-tex)";
 for LaTeX, see 
 "[Online introductions: LaTeX](FAQ-man-latex)"; and for
 Context, the place to start is the 
-[ConTeXt garden wiki](http://wiki.contextgarden.net/Main_Page)
+[ConTeXt garden wiki](https://wiki.contextgarden.net/Main_Page)
 (which is so good the present FAQs don't even try to compete).
 

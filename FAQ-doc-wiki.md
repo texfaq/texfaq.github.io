@@ -11,7 +11,7 @@ for chaos, there is evidence that a strong user community can keep a
 WIKI under control.
 
 Following the encouraging performance of the 
-[ConTeXt WIKI](http://wiki.contextgarden.net/Main_Page), valiant
+[ConTeXt WIKI](https://wiki.contextgarden.net/Main_Page), valiant
 efforts have been made generating "WIKI books" for (La)TeX
 users.  Thus we have 
 [(Plain) TeX WIKI book](https://en.wikibooks.org/wiki/TeX) and 
