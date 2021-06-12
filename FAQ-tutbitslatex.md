@@ -17,7 +17,7 @@ are 17&nbsp;chapters in the series, two of which are mostly introductory.
 
 The AMS publishes a "Short Math Guide for LaTeX", which is
 available (in several formats) via
-[http://www.ams.org/tex/amslatex.html](http://www.ams.org/tex/amslatex.html)
+[https://www.ams.org/tex/amslatex.html](https://www.ams.org/tex/amslatex.html)
 (the "Additional Documentation" about half-way down the page).
 
 Herbert Voß has written an extensive guide to mathematics in
@@ -34,7 +34,7 @@ compendium of font information (including the two above) may be found
 on the [TUG web site](https://www.tug.org/fonts/).
 
 Peter Smith's
-  "[LaTeX for Logicians](http://www.logicmatters.net/latex-for-logicians/)"
+  "[LaTeX for Logicians](https://www.logicmatters.net/latex-for-logicians/)"
 page covers a rather smaller subject area, but is similarly comprehensive
 (mostly by links to documents on relevant topics, rather than as a
 monolithic document).
@@ -46,19 +46,19 @@ CTAN, but not in the TeX&nbsp;Live or MiKTeX distributions, for
 lack of sources.
 
 Stefan Kottwitz manages a web site devoted to the use of the drawing
-packages [PGF and TikZ](FAQ-drawing), [TeXample.net](http://www.texample.net/)
+packages [PGF and TikZ](FAQ-drawing), [TeXample.net](https://www.texample.net/)
 
 The compendious PGF/TikZ manual is clear, but is
 bewildering for some beginners.  The 
-["minimal" introduction](http://cremeronline.com/LaTeX/minimaltikz.pdf)
+["minimal" introduction](https://cremeronline.com/LaTeX/minimaltikz.pdf)
 has helped at least the present author.
 
 Vincent Zoonekynd provides a set of excellent (and graphic) tutorials
 on the programming of 
-[title page styles](http://zoonek.free.fr/LaTeX/LaTeX_samples_title/0.html),
-[chapter heading styles](http://zoonek.free.fr/LaTeX/LaTeX_samples_chapter/0.html)
+[title page styles](https://zoonek.free.fr/LaTeX/LaTeX_samples_title/0.html),
+[chapter heading styles](https://zoonek.free.fr/LaTeX/LaTeX_samples_chapter/0.html)
 and
-[section heading styles](http://zoonek.free.fr/LaTeX/LaTeX_samples_section/0.html).
+[section heading styles](https://zoonek.free.fr/LaTeX/LaTeX_samples_section/0.html).
 In each file, there is a selection of graphics representing an output
 style, and for each style, the code that produces it is shown.
 
@@ -78,5 +78,5 @@ More ambitiously, some university departments have enthusiastic
 documenters who make public record of their (La)TeX support.  For
 example, Tim Love (of Cambridge University Engineering Department)
 maintains his department's pages at
-[http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/](http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/)
+[https://www-h.eng.cam.ac.uk/help/tpl/textprocessing/](https://www-h.eng.cam.ac.uk/help/tpl/textprocessing/)
 

@@ -62,12 +62,12 @@ a "new" language, as well as the presentation details of a language.
 The [`minted`](https://ctan.org/pkg/minted) package is another alternative that offers
 the means of creating new language definitions.  It
 requires that code be processed using an external (`python`)
-script, [`Pygments`](http://pygments.org/).
+script, [`Pygments`](https://pygments.org/).
 `Pygments`, in turn, needs a "lexer" that knows the
 language you want to process; lots of these are available, for the
 more commonly-used languages, and there is advice on
 "rolling your own" on the 
-[`Pygments`](http://pygments.org/docs/lexerdevelopment/) site
+[`Pygments`](https://pygments.org/docs/lexerdevelopment/) site
 
 Usage of [`minted`](https://ctan.org/pkg/minted) can be as simple as
 ```latex
