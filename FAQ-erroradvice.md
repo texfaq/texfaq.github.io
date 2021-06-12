@@ -10,7 +10,7 @@ macroprocessors.  Knuth makes light of the problem in the TeXbook,
 suggesting that you acquire the sleuthing skills of a latter-day
 Sherlock Holmes; while this approach has a certain romantic charm to
 it, it's not good for the "production" user of (La)TeX.  This
-answer (derived, in part, from an [article by Sebastian Rahtz](http://tug.org/TUGboat/tb16-4/tb49rahtz.pdf)
+answer (derived, in part, from an [article by Sebastian Rahtz](https://tug.org/TUGboat/tb16-4/tb49rahtz.pdf)
 in TUGboat 16(4)) offers some general guidance in dealing with TeX
 error reports, and other answers in this section deal with common (but
 perplexing) errors that you may encounter.  There's a long list of

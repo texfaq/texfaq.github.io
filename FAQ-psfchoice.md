@@ -92,7 +92,7 @@ Users should also consider the possibilities of typesetting
   successful, and their use may be suppressed when loading the fonts'
   [`kpfonts`](https://ctan.org/pkg/kpfonts) LaTeX support package).
 
-  For an example, see [http://www.tug.dk/FontCatalogue/kpserif/](http://www.tug.dk/FontCatalogue/kpserif/)
+  For an example, see [https://tug.org/FontCatalogue/kpserif/](https://tug.org/FontCatalogue/kpserif/)
 
 - MathDesign (3 free families, 3 commercial-based
   families&hellip;so far) Paul Pichaureau
@@ -109,7 +109,7 @@ Users should also consider the possibilities of typesetting
   want: there is a wealth of documentation and examples.
 
   For samples of the free variants, see
-  [http://www.tug.dk/FontCatalogue/garamond/](http://www.tug.dk/FontCatalogue/garamond/) for URW Garamond 
+  [https://tug.org/FontCatalogue/garamond/](https://tug.org/FontCatalogue/garamond/) for URW Garamond 
 
 - Belleek (3 fonts) Richard Kinch
 
@@ -155,7 +155,7 @@ Users should also consider the possibilities of typesetting
   presentations.
 
 The excellent _font catalogue_ keeps an 
-[up-to-date list](http://www.tug.dk/FontCatalogue/mathfonts.html)
+[up-to-date list](https://tug.org/FontCatalogue/mathfonts.html)
 which describes the fonts by giving names and short examples, only.
 (At the time of writing&nbsp;&mdash; June 2008&nbsp;&mdash; the list has several that
 are only scheduled for inclusion here.
