@@ -22,7 +22,7 @@ personal selection:
   within the editor, and everything else like this that you can think
   of.  Complex, but very powerful.
 
-  [`Vim`](http://vim.sourceforge.net) is also highly
+  [`Vim`](https://vim.sourceforge.net) is also highly
   configurable (also available for Windows and Macintosh systems).
   Many plugins are available to support the needs of the (La)TeX user,
   including syntax highlighting, calling TeX programs,
@@ -30,7 +30,7 @@ personal selection:
   browsing LaTeX help.  The scripts `auctex.vim` and
   `bibtex.vim` seem to be the most common recommendations.
 
-  The editor [`NEdit`](http://nedit.org/) is also free
+  The editor [`NEdit`](http://www.nedit.org/) is also free
   and programmable, and is available for Unix systems.  An
   AUC-TeX-alike set of extensions for `NEdit` is available
   from CTAN.
@@ -47,7 +47,7 @@ personal selection:
   window manager provides GUI "shell-like" facilities, in a
   similar way to the widely-praised `Winedt` (see below);
   details (and downloads) are available from the project's
-  [home on SourceForge](http://kile.sourceforge.net/).
+  [home on SourceForge](https://kile.sourceforge.net/).
 
   TUG is sponsoring the development of a cross-platform editor
   and shell, modelled on the excellent TeXshop for the Macintosh.
