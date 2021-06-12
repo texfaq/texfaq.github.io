@@ -83,12 +83,11 @@ possibilities for good rendering of mathematics on the web.
   While the natural use is for converting existing figures,
   representations of formulas are also possible.
 
-- An interesting alternative is
-  [MathTeX](http://www.forkosh.com/mathtex.html), which sits
+- An interesting alternative is MathTeX, which sits
   on your server as a CGI script, and you use it to include
   your TeX, in your HTML, as if it were an image:
 ```html
 <img src="/cgi-bin/mathtex.cgi?f(x)=\int\limits_{-\infty}^xe^{-t^2}dt">
 ```
-([`Mathtex`](https://ctan.org/pkg/Mathtex) supersedes the author's earlier [`mimetex`](https://ctan.org/pkg/mimetex).)
+([`Mathtex`](https://ctan.org/pkg/mathtex) supersedes the author's earlier [`mimetex`](https://ctan.org/pkg/mimetex).)
 
