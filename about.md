@@ -21,7 +21,7 @@ The preferred URL for the FAQ is
 <https://www.texfaq.org>
 
 The previous canonical URL of  
-<https://www.tex.ac.uk>  
+<http://www.tex.ac.uk>  
 also works at the present time but should not be used in new references.
 
 To reference a specific question the preferred form is  
@@ -31,9 +31,9 @@ with FAQ in upper case and the question ID as given on the relevant page.
 There are no redirects enabled on the hosting site, however if your client
 supports JavaScript and HTML redirects then other forms differing by case
 will also work such as  
-<https://www.texfaq.org/faq-latex3>  
+<http://www.texfaq.org/faq-latex3>  
 For compatibility with exiting references to the FAQ, the form  
-<https://www.tex.ac.uk/cgi-bin/texfaq2html?label=LaTeX3>  
+<http://www.tex.ac.uk/cgi-bin/texfaq2html?label=LaTeX3>  
 may also be used, but this again relies on the client supporting
 JavaScript in the new hosting arrangement and is just intended to
 support existing references that link to the site.
