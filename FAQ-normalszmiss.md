@@ -1,5 +1,5 @@
 ---
-title: 'The font size command `\normalsize` not defined'
+title: 'The font size command `\normalsize` is not defined'
 category: errors
 permalink: /FAQ-normalszmiss
 ---
