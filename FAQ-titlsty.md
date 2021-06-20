@@ -18,7 +18,7 @@ their own range of different titling styles.
 
 Finally, the indefatigable Vincent Zoonekynd supplies examples of how
 to program alternative 
-[title styles](http://zoonek.free.fr/LaTeX/LaTeX_samples_title/0.html).
+[title styles](https://zoonek.free.fr/LaTeX/LaTeX_samples_title/0.html).
 The web page is not useful to users unless they are willing to do
 their own LaTeX programming.
 

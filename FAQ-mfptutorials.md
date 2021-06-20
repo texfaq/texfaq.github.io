@@ -47,7 +47,7 @@ TUGboat34(2)
 Vincent Zoonekynd's massive set of example MetaPost files is available on
 CTAN; the set includes a `Perl` script to convert the
 set to html, and the set may be 
-[viewed on the web](http://zoonek.free.fr/LaTeX/Metapost/metapost.html).
+[viewed on the web](https://zoonek.free.fr/LaTeX/Metapost/metapost.html).
 While these examples don't exactly constitute a "tutorial", they're
 most certainly valuable learning material.  Urs Oswald presents a
 [similar document](http://www.ursoswald.ch/metapost/tutorial.pdf),

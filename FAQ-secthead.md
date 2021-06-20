@@ -54,9 +54,9 @@ useful overall formatting specifications defined in class options.
 
 Finally, the indefatigable Vincent Zoonekynd supplies examples of how
 to program alternative 
-[chapter heading styles](http://zoonek.free.fr/LaTeX/LaTeX_samples_chapter/0.html)
+[chapter heading styles](https://zoonek.free.fr/LaTeX/LaTeX_samples_chapter/0.html)
 and
-[section heading styles](http://zoonek.free.fr/LaTeX/LaTeX_samples_section/0.html).
+[section heading styles](https://zoonek.free.fr/LaTeX/LaTeX_samples_section/0.html).
 The web pages provide programming examples, and expect users to adapt
 them to their own LaTeX use.
 
