@@ -35,7 +35,7 @@ has a tab `Roots`; that tab gives a list of current TDS roots
 there with `local` in its name, create an appropriate one (see below),
 and register it using the window's `Add` button.
 
-The [MiKTeX FAQ](http://docs.miktex.org/faq/maintenance.html)
+The [MiKTeX FAQ](https://docs.miktex.org/faq/maintenance.html)
 suggests that you should create `C: Local TeX Files`, which is good
 if you manage your own machine, but often not even possible in corporate,
 or similar, environments&nbsp;&mdash; in such situations, the user may

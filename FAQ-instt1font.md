@@ -59,7 +59,7 @@ much of what follows will be familiar:
     initexmf --mkmaps
     ```
       This, and other matters, are described in MiKTeX 
-      ["advanced" documentation](http://docs.miktex.org/manual/advanced.html).
+      ["advanced" documentation](https://docs.miktex.org/manual/advanced.html).
 
 Both processes (preparing and installing a font) are very well (and
 thoroughly) described in Philipp Lehman's guide to font installation,

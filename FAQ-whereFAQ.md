@@ -15,7 +15,7 @@ The sources of the present FAQ are available from CTAN.
 
 This FAQ and others are regularly mentioned, on `comp.text.tex` and elsewhere,
 in a "pointer FAQ" which is also saved at
-[http://tug.org/interest.html](http://tug.org/interest.html#doc).
+[https://tug.org/interest.html](https://tug.org/interest.html#doc).
 
 A 2006 innovation from Scott Pakin is the "visual" LaTeX FAQ.
 This is a document with (mostly rubbish) text formatted so as to
@@ -29,7 +29,7 @@ of Acrobat Reader.
 The Wikibook about LaTeX [offers a FAQ](https://en.wikibooks.org/wiki/LaTeX/FAQ).
 
 Another excellent information source, available in English, is the
-[(La)TeX navigator](http://tex.loria.fr/).
+[(La)TeX navigator](https://tex.loria.fr/).
 
 Both the French-speaking TeX user group, GUTenberg, and the Czech/Slovak
 user group CS-TUG have published translations of this FAQ in the past,
@@ -39,7 +39,7 @@ The French FAQ is currently hosted on an open wiki at
 [https://faq.gutenberg.eu.org](https://faq.gutenberg.eu.org/)
 and is [actively updated](https://www.gutenberg.eu.org/faq).
 Its contributors have gathered material from the French historical FAQ
-from `fr.comp.text.tex` and from [this FAQ](http://faq.tug.org/).
+from `fr.comp.text.tex` and from [this FAQ](https://texfaq.org/).
 Feel free to contribute!
 
 

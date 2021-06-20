@@ -45,7 +45,7 @@ previewers and Type&nbsp;1-to-PK conversion programs, by
     files, also updates the system's "PostScript resources database".
 -  On a MiKTeX system, version&nbsp;2.2 or later, update
     `updmap.cfg` as described in the MiKTeX 
-    [online documentation](http://docs.miktex.org/manual/psfonts.html#chgupdmapcfg).
+    [online documentation](https://docs.miktex.org/manual/psfonts.html#chgupdmapcfg).
     Then execute the command `initexmf --mkmaps`, and the
     job is done.
 

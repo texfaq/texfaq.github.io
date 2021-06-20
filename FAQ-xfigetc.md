@@ -22,5 +22,5 @@ is thought by many to be an acceptable substitute, written in Java.
 `Asymptote` is a widely-praised development of the MetaPost
 language, which can draw 2D or 3D diagrams, and can also label
 diagrams with LaTeX text; copious documentation is available via
-[`asymptote`s web site](http://asymptote.sourceforge.net).
+[`asymptote`s web site](https://asymptote.sourceforge.io).
 

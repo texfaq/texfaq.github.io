@@ -39,7 +39,7 @@ The job may also be done in a command window, using the command:
 initexmf --update-fndb
 ```
 The 
-[MiKTeX documentation](http://docs.miktex.org/manual/initexmf.html)
+[MiKTeX documentation](https://docs.miktex.org/manual/initexmf.html)
 gives further details about `initexmf`.
 
 On a TeX&nbsp;Live-based system (or its predecessor teTeX, use the command

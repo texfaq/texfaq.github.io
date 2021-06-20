@@ -42,7 +42,7 @@ disposition!).
 
 A ready-to-run copy of the MiKTeX distribution,
 on DVD may be bought via the 
-[MiKTeX web site](http://www.miktex.org/cd/).  MiKTeX may
+[MiKTeX web site](https://www.miktex.org/cd/).  MiKTeX may
 also be installed using ProTeXt, on the 
 [TeX Collection DVD](FAQ-CD).
 
@@ -50,7 +50,7 @@ The [TeX Collection DVD](FAQ-CD) also provides an
 offline installer for TeX&nbsp;Live.
 
 A further (free) option is available thanks to the
-[CygWin bundle](http://www.cygwin.com), which presents a
+[CygWin bundle](https://www.cygwin.com), which presents a
 Unix-like environment in Windows systems (and also provides an
 X-windows server).  The (now obsolete) teTeX distribution is
 provided as part of the CygWin distribution, but there is a CygWin

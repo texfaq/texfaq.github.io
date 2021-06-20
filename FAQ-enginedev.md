@@ -42,7 +42,7 @@ While the world was making good use of "pre-releases" of pdfTeX, Thành
 used it as a test-bed for the micro-typography which was the prime subject of
 his Ph.D.&nbsp;research. Since Thành was finally awarded his Ph.D.,
 day-to-day maintenance and development of pdfTeX&nbsp;1.0 (and later) has been
-in the hands of a group of [pdfTeX maintainers](http://www.pdftex.org) (which
+in the hands of a group of [pdfTeX maintainers](https://tug.org/applications/pdftex/) (which
 includes Thành); the group has managed to maintain a stable platform for
 general use.
 
