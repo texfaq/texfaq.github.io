@@ -24,10 +24,10 @@ fonts for any text or mathematics.
 Hans Hagen (of ConTeXt fame) offers a MetaPost tutorial called
 MetaFun (which admittedly concentrates on the use of MetaPost within
 ConTeXt).  It may be found on his company's 
-["manuals" page](http://www.pragma-ade.com/general/manuals/metafun-p.pdf).
+["manuals" page](https://www.pragma-ade.com/general/manuals/metafun-p.pdf).
 
 Another MetaPost tutorial in English is: 
-<http://www.tlhiv.org/MetaPost/tutorial/> by Urs Oswald.
+<https://www.tlhiv.org/MetaPost/tutorial/> by Urs Oswald.
 One in French (listed here because it's clearly enough written
 that even this author understands it),
 <http://pauillac.inria.fr/~cheno/metapost/metapost.pdf>
