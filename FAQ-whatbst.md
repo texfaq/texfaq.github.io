@@ -27,7 +27,7 @@ Fortunately, help is at hand, on the Web, with this problem:
 -  an excellent survey, that lists a huge variety of styles,
     sorted into their nominal topics as well as providing a good range
     of examples, is the Reed College 
-    "[Choosing a BibTeX style](http://web.reed.edu/cis/help/LaTeX/bibtexstyles.html)".
+    "[Choosing a BibTeX style](https://web.reed.edu/cis/help/LaTeX/bibtexstyles.html)".
 
 Of course, these pages don't cover everything; the problem the
 inquisitive user faces, in fact, is to find what the various available
