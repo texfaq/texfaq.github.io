@@ -18,13 +18,13 @@ The projects listed here are entirely distinct from TeX or its derivatives
 
 ### Patoline
 
-[Patoline](http://patoline.org/) is a typesetting system written in OCaml and
+[Patoline](https://patoline.github.io/) is a typesetting system written in OCaml and
 using a mix of TeX-like syntax and "escape" to OCaml to provide typesetting
 control. Patoline aims for a module design, and fast numerical processing.
 
 ### SILE
 
-[SILE](http://sile-typesetter.org/) is a typesetting system written in Lua and
+[SILE](https://sile-typesetter.org/) is a typesetting system written in Lua and
 using the HarfBuzz font shaper. It's input syntax is somewhat inspired by
 LaTeX, for example
 ```latex

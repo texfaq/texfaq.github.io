@@ -25,13 +25,13 @@ with lyrics; `M-Tx`s output is fed into `pmx`, and
 thence to [`musixtex`](https://ctan.org/pkg/musixtex).
 
 An alternative path to music examples within a (La)TeX document is
-[`Lilypond`](http://www.lilypond.org).
+[`Lilypond`](https://www.lilypond.org).
 `Lilypond` is (at heart) a batch music typesetting system
 with plain text input that does most of its work without TeX.
 `Lilypond`s input syntax is less cryptic than is
 MusiXTeX's, though similar quality is achieved.  The
 `lilypond`
-[FAQ](http://lilypond.org/faq.html) mentions programs
+[FAQ](https://lilypond.org/faq.html) mentions programs
 with graphical user interfaces, that export lilypond output.
 
 For occasional music references (sharp and flat signs, notes, clefs

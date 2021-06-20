@@ -32,7 +32,7 @@ distribution) is available.  One could try applying this tool to
 PostScript derived from an PDF file using `pdf2ps` (also
 from the [`ghostscript`](https://www.ghostscript.com/)
 distribution), or `Acrobat` `Reader` itself; an alternative is `pdftotext`,
-which is distributed with [`xpdf`](http://www.xpdfreader.com/).
+which is distributed with [`xpdf`](https://www.xpdfreader.com/).
 
 Another avenue available to those with a PDF file they want to
 process is offered by Adobe `Acrobat` (version 5 or later):

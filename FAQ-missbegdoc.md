@@ -65,7 +65,7 @@ How to stop your editor from doing this to you depends, of course, on
 the editor you use; if you are using GNU Emacs, you have to
 change the encoding from `utf-8-with-signature` to "plain"
 `utf-8`; instructions for that are found on
-[the "stack overflow" site](http://stackoverflow.com/questions/3859274/)
+[the "stack overflow" site](https://stackoverflow.com/questions/3859274/)
 
 (So far, all instances of this problem that the author has seen have
 afflicted GNU Emacs users.)

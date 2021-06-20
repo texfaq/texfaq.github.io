@@ -32,7 +32,7 @@ packages, you will more often than not find documentation that way.
 On MiKTeX systems, the same function is provided by the
 `mthelp`.
 
-Note that the site [texdoc.net](http://texdoc.net) provides access to the
+Note that the site [texdoc.org](https://texdoc.org) provides access to the
 documentation you _would_ have if you had a _full_
 installation of TeX&nbsp;Live; on the site you can simply ask for a
 package (as you would ask `texdoc`, or you can use the site's
