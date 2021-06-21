@@ -91,7 +91,7 @@ upTeX is developed as an extension of pTeX to support full Unicode characters. I
 includes extensions to overcome the difficulties of pTeX in processing 8-bit Latin characters
 due to conflicts with legacy multibyte Japanese encodings.
 
-𝜀-pTeX and -upTeX are -TeX extensions of pTeX and upTeX respectively. In the current
+𝜀-pTeX and 𝜀-upTeX are 𝜀-TeX extensions of pTeX and upTeX respectively. In the current
 release, some extensions derived from pdfTeX and Ω are also available.
 
 Text taken from the
