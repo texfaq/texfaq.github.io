@@ -82,6 +82,22 @@ the extensions pioneered by [Aleph](#omega-and-aleph). Current LuaTeX
 at the time of writing, the possibility of a v2 development path has been
 suggested.
 
+### pTeX
+
+pTeX is an old Japanese-specific extension of TeX82, which aims to support proper
+typesetting of Japanese text but only supports a limited character set, JIS X 0208 (6879 characters).
+
+upTeX is developed as an extension of pTeX to support full Unicode characters. It also
+includes extensions to overcome the difficulties of pTeX in processing 8-bit Latin characters
+due to conflicts with legacy multibyte Japanese encodings.
+
+𝜀-pTeX and -upTeX are -TeX extensions of pTeX and upTeX respectively. In the current
+release, some extensions derived from pdfTeX and Ω are also available.
+
+Text taken from the
+[Guide to pTEX for developers unfamiliar with Japanese](http://mirrors.ctan.org/info/ptex-manual/ptex-manual.pdf).
+
+
 ## Historical projects
 
 ### &epsilon;-TeX
