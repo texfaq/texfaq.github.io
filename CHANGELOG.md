@@ -4,8 +4,13 @@ All notable changes to the English TeX FAQ will be documented in this
 file. Changes prior to the switch to Markdown format are available from
 <https://github.com/texfaq/historical/blob/master/ChangeLog>
 
-The format is based on [Keep a
-Changelog](https://keepachangelog.com/en/1.0.0/).
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+
+## 2021-06-30
+
+### Changed
+
+- Q-typo-style: Added the [PrintWiki](http://printwiki.org/).
 
 ## 2021-05-05
 
