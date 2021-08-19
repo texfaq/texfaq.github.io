@@ -60,3 +60,7 @@ choice of hyphenation (ana-lysis is the British etymological
 hyphenation; some feel the American hyphenation feels
 "unfortunate"&hellip;).
 
+If you are working with a multilingual document in LaTeX,
+you may define different rules for different languages using
+`\babelhyphenation`, which is similar to `\hyphenation` but
+accepts a list of languages as the first (optional) parameter.
