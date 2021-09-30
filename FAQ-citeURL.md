@@ -35,7 +35,7 @@ Candidates are:
   
 
 -  The [`natbib`](https://ctan.org/pkg/natbib) styles ([`plainnat`](https://ctan.org/pkg/natbib),
-    [`unsrtnat`](https://ctan.org/pkg/natbib) and [`abbrevnat`](https://ctan.org/pkg/natbib)), which are extensions of
+    [`unsrtnat`](https://ctan.org/pkg/natbib) and [`abbrvnat`](https://ctan.org/pkg/natbib)), which are extensions of
     the standard styles, principally for use with [`natbib`](https://ctan.org/pkg/natbib)
     itself.  However, they've acquired URLs and other "modern"
     entries along the way.  The same author's [`custom-bib`](https://ctan.org/pkg/custom-bib) is
