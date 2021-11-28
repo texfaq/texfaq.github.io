@@ -15,6 +15,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Q-typo-style: Added the [PrintWiki](http://printwiki.org/).
 - Q-spell: Removed VMS material. Added URLs.
 
+## 2021-08-18
+
+### Changed
+
+- Q-nohyph: Add mention to `\babelhyphenation`.
+
 ## 2021-05-05
 
 ### Changed
