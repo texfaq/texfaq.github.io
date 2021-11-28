@@ -4,14 +4,28 @@ All notable changes to the English TeX FAQ will be documented in this
 file. Changes prior to the switch to Markdown format are available from
 <https://github.com/texfaq/historical/blob/master/ChangeLog>
 
-The format is based on [Keep a
-Changelog](https://keepachangelog.com/en/1.0.0/).
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+
+## 2021-11-28
+
+### Changed
+
+- Q-uploads: Update contact address; delete an unclear and obsolete paragraph; add details about the pressing steps after upload.
 
 ## 2021-08-18
 
 ### Changed
 
 - Q-nohyph: Add mention to `\babelhyphenation`.
+
+## 2021-07-11
+
+### Changed
+
+- Q-algorithms: Typo in a family name. Correction about [`program`](https://ctan.org/pkg/program) documentation.
+- Q-tocloft: Correction of punctuation.
+- Q-typo-style: Added the [PrintWiki](http://printwiki.org/).
+- Q-spell: Removed VMS material. Added URLs.
 
 ## 2021-05-05
 

@@ -6,7 +6,7 @@ permalink: /FAQ-whatenv
 
 While TeX makes direct provision for commands, LaTeX adds a
 concept of "environment"; environments perform an action on a block
-(of something or other) rather than than just doing something at one
+(of something or other) rather than just doing something at one
 place in your document.
 
 A totally trivial environment could change the font in use for a chunk
@@ -28,8 +28,7 @@ so it is a particularly simple example.  A rather complicated
 environment is introduced by `\begin{document}`; it looks
 simple, but needs all sorts of special TeX code to make it work
 "transparently"; most environments are more elaborate than
-`monoblock` and _much_ simpler than
-`document`.
+`monoblock` and _much_ simpler than `document`.
 
 An environment puts its content inside a TeX _group_, so that
 commands used inside the environment don't "leak out"&nbsp;&mdash; the
@@ -57,8 +56,7 @@ and use of `fontblock` as:
 ```latex
 \begin{fontblock}{\ttfamily}
 ```
-would produce the same effect as the `monoblock`
-environment.
+would produce the same effect as the `monoblock` environment.
 
 Environments may also have optional arguments, in much the same way as
 commands:

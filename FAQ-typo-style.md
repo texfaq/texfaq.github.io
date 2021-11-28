@@ -24,3 +24,9 @@ you could try the website [kerntype website](https://type.method.ac/).
 With on-screen practical examples, it will train your eye
 with a diversity of typefaces.
 
+
+The [_Free Encyclopedia of Print_](http://printwiki.org/) strives to provide a comprehensive,
+open-source knowledge base of information on the printing and graphic communication industry.
+Once an open wiki, it's now in a read-only static archive state, but the site has over 7,500&nbsp;articles,
+mainly from the _Encyclopedia of Graphic Communications_, by Frank Romano (Prentice Hall, 1998,
+ISBN-13 978-0130964229).

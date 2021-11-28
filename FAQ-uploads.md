@@ -21,9 +21,15 @@ Before we even start, here's a check-list of things to sort out:
 2.  Documentation: it's good for users to be able to browse
     documentation before downloading a package.  You need at least a
     plain text `README` file (possible names are
-    "README", "README.txt", and "README.md", but no other variants);
-    in addition a PDF file of the package documentation, prepared for screen
-    reading, is highly desirable.
+    "README", "README.txt", and "README.md", but no other variants).
+    For an international audience it would be best to write the `README`
+    file in English; of course, you can provide another `README` file
+    in another language if you want to.  All text files should be UTF-8
+    encoded.
+
+    In addition, a PDF file of the package documentation, prepared for screen
+    reading, is highly desirable. The source code of the documentation
+    should be provided.
 3.  Name: endless confusion is caused by name clashes.  If your
     package has the same name as one already on CTAN, or if your
     package installation generates files of the same name as something
@@ -40,13 +46,13 @@ Before we even start, here's a check-list of things to sort out:
     aren't suitable.
 4.  Version: Every submission of every CTAN package has to contain a
     "version identifier" that permits to distinguish this version of
-    the package from earlier or later ones. This tag should be put
-    into a place where it is easy to find, such as the latest entry
-    of a Changes file, a `VERSION` file, or an easily accessible place
-    (preferably: the top part) in the `README` file.
+    the package from earlier or later ones.  This tag should be put
+    into a place where it is easy to find, such as a `VERSION` file,
+    or the top part of your `README` file.
+    It is not enough to rely on your Changes file.
 
     This version identifier may consist of either a version number
-    (i.e. something like `1.0`, or `3.0.17`, or `2.1a`, or a version
+    (i.e. something like `1.0`, or `3.0.17`, or `2.1a`), or a version
     date (i.e.: preferably in `YYYY-MM-DD` or `YYYY/MM/DD` notation,
     like `2021-04-01` or `2021/04/01`), or a string consisting of
     both the aforementioned data.
@@ -61,11 +67,38 @@ sort; acceptable formats are `zip` and `tar.gz` (most uploads are packed
 in `zip` format).  Once you have completed your upload, the redirector
 assigns it to a member of the team for processing.
 
-If you can't use this method, or if you find something confusing, ask
-advice of the [CTAN management team](mailto:ctan@dante.de).
+If you can't use this method, or if you find something confusing, feel
+free to ask advice of the [CTAN management team](mailto:ctan@ctan.org).
+You can also use the contact field of the upload form to provide
+specific information to the CTAN team.
 
-If your package is large, or regularly updated, it may be appropriate
-to "mirror" your contribution direct into CTAN. Mirroring is only practical
-using `ftp` or `rsync`, so this facility is limited to packages offered by
-a server that uses one of those protocols.
 
+What will happen next?
+
+-  Every upload will be unpacked and checked by an upload manager
+   from the CTAN management team.
+-  Small deficiencies will be corrected immediately by that person.
+   You will receive feedback about this and be asked to apply the same sort
+   of change(s) to your own file(s) before your next upload.
+
+   If there is a non-trivial problem that cannot be fixed without your help
+   the team will ask back and the installation process will be
+   momentarily stalled until they receive an answer to their question.
+   In some cases even a re-upload may become necessary.
+-  After installation of the package on the CTAN central server, the
+   corresponding `.xml` source file of the [Catalogue](FAQ-catalogue) entry
+   will either be created (for new packages) or be updated
+   (in all other cases).
+
+   When all of this has been done, one of the upload managers will send you
+   an email to the address you entered into the upload form.
+   It may take a few hours (up to 24 hours) for your files to arrive on all
+   the mirrors worldwide.
+
+   If your upload is a new one or if you have requested an announcement,
+   the message to [`CTAN-Announce`](https://www.ctan.org/ctan-ann) will
+   be posted shortly after the end of that propagation time
+
+   It is always helpful if you check what you see at the URLs indicated
+   in the acknowledgement mail around 24 hours after installation and inform
+   the CTAN team about any possible flaws in the presentation.
