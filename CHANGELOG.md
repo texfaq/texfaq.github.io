@@ -6,6 +6,18 @@ file. Changes prior to the switch to Markdown format are available from
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2021-11-28
+
+### Changed
+
+- Q-uploads: Update contact address; delete an unclear and obsolete paragraph; add details about the pressing steps after upload.
+
+## 2021-08-18
+
+### Changed
+
+- Q-nohyph: Add mention to `\babelhyphenation`.
+
 ## 2021-07-11
 
 ### Changed
@@ -14,12 +26,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Q-tocloft: Correction of punctuation.
 - Q-typo-style: Added the [PrintWiki](http://printwiki.org/).
 - Q-spell: Removed VMS material. Added URLs.
-
-## 2021-08-18
-
-### Changed
-
-- Q-nohyph: Add mention to `\babelhyphenation`.
 
 ## 2021-05-05
 
