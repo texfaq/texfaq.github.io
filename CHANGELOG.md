@@ -6,6 +6,12 @@ file. Changes prior to the switch to Markdown format are available from
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2021-12-27
+
+### Changed
+
+- Q-repeat-set: Correction in the example of code for `dowith`.
+
 ## 2021-11-28
 
 ### Changed
@@ -91,7 +97,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Changed
 
-- Q-eqnarray and other pages, update "AMSLaTeX" references to amsmath
+- Q-eqnarray and other pages: update "AMSLaTeX" references to amsmath
   package or amsmath bundle.
 
 ## 2018-06-27
@@ -128,7 +134,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Changed
 - Q-MP: Mention LuaTeX integration of MetaPost.
-- Q-archives Germany is now the only CTAN hub.
+- Q-archives: Germany is now the only CTAN hub.
 
 ## 2018-05-27
 
@@ -162,7 +168,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Added
 - Q-xetex-luatex: New combination question based on Q-xetex and Q-luatex
 - Q-t1enc drop this (redirect to Q-why-inp-font)
-- Q-why-inp-font Update this (after 2018 release changes)
+- Q-why-inp-font: Update this (after 2018 release changes)
 
 ### Changed
 - Q-LaTeX2HTML: Update with more recent converters such as LaTeXML and lwarp.
