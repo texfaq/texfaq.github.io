@@ -7,7 +7,7 @@ permalink: /FAQ-getnff
 Some fonts are free to use, but may not be sold.  This creates a
 dilemma for distributions: users may want the fonts, but since the
 distribution is also available on a DVD for sale, the fonts may
-not be in the distribtution.
+not be in the distribution.
 
 The CTAN archives hold such fonts, together with all the
 necessary support files, but even with the support files ready-made,

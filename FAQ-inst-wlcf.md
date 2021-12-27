@@ -42,7 +42,7 @@ The
 [MiKTeX documentation](https://docs.miktex.org/manual/initexmf.html)
 gives further details about `initexmf`.
 
-On a TeX&nbsp;Live-based system (or its predecessor teTeX, use the command
+On a TeX&nbsp;Live-based system (or its predecessor teTeX), use the command
 `texhash` (or if that's not available, `mktexlsr`&nbsp;&mdash;
 they ought to be different names for the same program).
 
