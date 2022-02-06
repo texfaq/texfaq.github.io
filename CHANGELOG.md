@@ -6,6 +6,13 @@ file. Changes prior to the switch to Markdown format are available from
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2022-02-06
+
+### Changed
+
+- about: Update information about URL to the faq as the original `tex.ac.uk` domain is no longer valid.
+- Q-FAQ-setURL: Change example to use curresnt URL for the FAQ.
+
 ## 2021-12-27
 
 ### Changed
