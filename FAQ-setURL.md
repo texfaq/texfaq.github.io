@@ -71,7 +71,7 @@ package [`url`](https://ctan.org/pkg/url)) is robust (in the LaTeX sense).  If y
 a URL to go in a moving argument, you need the command
 `\urldef` from the [`url`](https://ctan.org/pkg/url) package.  So one might write:
 ```latex
-\urldef\faqhome\url{http://www.tex.ac.uk/faq}
+\urldef\faqhome\url{https://texfaq.org/FAQ-setURL}
 ```
 after which, `\faqhome` is robust.
 
