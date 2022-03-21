@@ -31,7 +31,7 @@ Like Knuth's TeX, it does not directly produce PDF output but rather works
 _via_ an intermediate format, XDV (eXtended DVI). Unlike the classical
 [DVI](FAQ-dvi) format produced by TeX, XDV files cannot be viewed directly, and
 are normally converted directly to PDF as part of the `xetex` run. (The
-conversion itself is carried out by `xdvpdfmx`.)
+conversion itself is carried out by `xdvipdfmx`.)
 
 ## LuaTeX
 
