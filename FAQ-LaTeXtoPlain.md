@@ -13,7 +13,7 @@ for further details.
 Obviously, trivial documents will translate in a trivial way.
 Documents that use even relatively simple things, such as labels and
 references, are likely to cause trouble (Plain TeX doesn't support
-labels).  While graphics are in principle covered, by the Plain TeX
+labels).
 
 Translating a document designed to work with LaTeX into one
 that will work with Plain TeX is likely to amount to carefully
