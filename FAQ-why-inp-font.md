@@ -25,7 +25,7 @@ encoding then you will need to declare that via a declaration such as
 ```
 
 
-### [`fonttenc`](https://ctan.org/pkg/fontenc)
+### [`fontenc`](https://ctan.org/pkg/fontenc)
 If you are using pdfLaTeX or LaTeX and do not specify
 ```latex
 \usepackage[T1]{fontenc}
@@ -40,9 +40,9 @@ accent will not be hyphenated.
 
 Note that the `t1enc` package is available in the base distribution,
 which is equivalent to using the `T1` option to
-[`fonttenc`](https://ctan.org/pkg/fontenc) however it should not
+[`fontenc`](https://ctan.org/pkg/fontenc) however it should not
 be used in current documents and is just retained for compatibility
 with the first versions of the LaTeX2e documentation, which were
-written before the [`fonttenc`](https://ctan.org/fontenc/inputenc)
+written before the [`fontenc`](https://ctan.org/fontenc/inputenc)
 package was produced.
 
