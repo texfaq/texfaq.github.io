@@ -21,7 +21,7 @@ A 2006 innovation from Scott Pakin is the "visual" LaTeX FAQ.
 This is a document with (mostly rubbish) text formatted so as to
 highlight things we discuss here, and providing Acrobat hyper-links to
 the relevant answers in this FAQ on the Web.
-The [visual FAQ](https://ctan.org/tex-archive/info/visualFAQ) is provided
+The [visual FAQ](https://ctan.org/tex-archive/info/visualfaq) is provided
 in PDF format, on CTAN; it works best using Adobe Acrobat Reader 7 (or later);
 some features are missing with other readers, or with earlier versions
 of Acrobat Reader.
