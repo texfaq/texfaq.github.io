@@ -20,10 +20,10 @@ at the time of writing, still being developed).
 
 While TeX users were investigating the use of these text fonts,
 ISO was extending Unicode to provide a means of expressing
-mathematics.  As this work proceeded, MicroSoft and (separately) a
+mathematics.  As this work proceeded, Microsoft and (separately) a
 consortium of publishing companies were developing OpenType maths
 fonts.  (Microsoft contributed on the development of the concepts,
-within the ISO process.)  MicroSoft's OpenType Maths font,
+within the ISO process.)  Microsoft's OpenType Maths font,
 `Cambria Math` has been available for purchase for some time.
 
 The first free OpenType Maths font to appear was 
