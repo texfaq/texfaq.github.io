@@ -19,7 +19,12 @@ local disc copy that you keep up-to-date (disc space and bandwidth are
 so cheap nowadays, that a "home mirror" of CTAN is a feasible
 proposition).
 
-To update a single package, use:
+To install a single package, use:
+```
+tlmgr install <package>
+```
+
+To update a single package that has previously been installed, use:
 ```
 tlmgr update <package>
 ```
