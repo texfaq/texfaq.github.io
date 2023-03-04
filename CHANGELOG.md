@@ -6,6 +6,12 @@ file. Changes prior to the switch to Markdown format are available from
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2022-11-24
+
+### Changed
+
+- Q-floats: Add default float placement parameters beside suggested alternatives.
+
 ## 2022-02-06
 
 ### Changed
