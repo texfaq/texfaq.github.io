@@ -2,7 +2,7 @@
 title: Alternatives to TeX
 category: misc
 permalink: /FAQ-alternatives
-date: 2018-05-24
+date: 2023-04-29
 redirect_from: /FAQ-ant
 ---
 
@@ -15,6 +15,12 @@ The projects listed here are entirely distinct from TeX or its derivatives
 (they are not "TeX-like" programs).
 
 ## Active projects
+
+### Typst
+[Typst](https://typst.app/) is a typesetting system written in Rust. It uses a
+markdown-like input syntax and includes an interpreted scripting language. Typst
+focuses on being easy to learn and create templates for and features fast
+compile times.
 
 ### Patoline
 
