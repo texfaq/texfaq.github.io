@@ -9,7 +9,7 @@ several "defer" lists.  If another float of the same type comes
 along, and the "defer" list for that type still has something in it,
 the later float has to wait for everything earlier in the list.
 
-Prior to teh 2015 release LaTeX had different lists for single-column floats,
+Prior to the 2015 release LaTeX had different lists for single-column floats,
 and double-column floats; this meant that single-column figures could
 overtake double-column figures (or vice-versa), and you observed later
 figures appear in the document before early ones.  The same was true,

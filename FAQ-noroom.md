@@ -45,7 +45,7 @@ TeX would not help. You could however, try with LuaLaTeX which has larger
 limits in most cases.
 
 One related error is an error that the number of `\inserts` has been exceeded.
-An insert is not a register type but requires allcation of matching count, skip
+An insert is not a register type but requires allocation of matching count, skip
 dimen registers with the same number, in all current engines there can be at most 256
 inserts. You are unlikely to get this error on a LaTeX format newer than 2015, however
 if you have to use an old format the [`Morefloats`](https://ctan.org/pkg/Morefloats) package

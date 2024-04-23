@@ -1,6 +1,6 @@
 ---
 title: Process a CSV file in LaTeX
-cateogry: programming
+category: programming
 permalink: /FAQ-ltx-csv
 ---
 

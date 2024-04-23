@@ -56,7 +56,7 @@ file.  The package requires a current pdfTeX, and will also run on
 LuaTeX if the [`pdftexcmds`](https://ctan.org/pkg/pdftexcmds) package is available
 ([`pdftexcmds`](https://ctan.org/pkg/pdftexcmds) emulates the requisite pdfTeX commands using
 `lua`.  Apart from this requirement, [`stampinclude`](https://ctan.org/pkg/stampinclude) is
-a low-maintenace object; include it in your document and it silently
+a low-maintenance object; include it in your document and it silently
 does its job.  When you want a final version of your document, delete
 all the `aux` files, and and [`stampinclude`](https://ctan.org/pkg/stampinclude) won't
 interfere.)
@@ -164,7 +164,7 @@ There are then commands
 \tagged{<tag list>}{<text>}
 ```
 which reproduces the text only if the &lsaquo;_tag list_&rsaquo; contains at
-least one tag listed in the `\usetag` comand, and
+least one tag listed in the `\usetag` command, and
 ```latex
 \untagged{<tag list>}{<text>}
 ```

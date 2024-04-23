@@ -37,12 +37,12 @@ can also use it:
 The [`chngcntr`](https://ctan.org/pkg/chngcntr) package encapsulates the `\@addtoreset`
 command into a command `\counterwithin`.  So:
 ```latex
-\counterwithin*{corrollary}{theorem}
+\counterwithin*{corollary}{theorem}
 ```
 will make the corollary counter slave to theorem counters.  The
 command without its asterisk:
 ```latex
-\counterwithin{corrollary}{theorem}
+\counterwithin{corollary}{theorem}
 ```
 will do the same, and also redefine `\thecorollary` as 
 &lsaquo;_theorem number_&rsaquo;.&lsaquo;_corollary number_&rsaquo;, which is a good scheme

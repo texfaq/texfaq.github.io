@@ -14,7 +14,7 @@ in a graphics interface.
 - [Inkscape](https://inkscape.org/) is a free and open-source vector graphics
   editor, that can export TikZ code. Its range of features makes it a very
   powerful tool, compatible with LaTeX workflows, but not limited to them.
-  It's developped for Linux, MacOS and Windows
+  It's developed for Linux, MacOS and Windows
 
 - [Xfig](https://sourceforge.net/projects/mcj/files/) is a free and open-source
   vector graphics editor which runs on Linux.

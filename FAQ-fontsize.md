@@ -18,7 +18,7 @@ significantly applies to the default (Computer Modern) and the
 Cork-encoded (T1) EC fonts, but it is widely considered to be
 anomalous, nowadays.  In recognition of this problem, there is a
 package [`fix-cm`](https://ctan.org/pkg/fix-cm) which will allow you to use the fonts, within
-LaTeX, at any size you choose.  If you're not using scaleable
+LaTeX, at any size you choose.  If you're not using scalable
 versions of the fonts, most modern distributions will just generate an
 appropriate bitmap for you.
 
@@ -54,5 +54,5 @@ packages, or the [`anyfontsize`](https://ctan.org/pkg/anyfontsize) package.
 A further alternative might be to switch to the
 [_Latin Modern_ fonts](FAQ-uselmfonts) (which
 provide a close simulacrum of the _Computer Modern_ set);
-these fonts were scaleable from their first
+these fonts were scalable from their first
 distribution, and don't therefore need any such trick as the above.

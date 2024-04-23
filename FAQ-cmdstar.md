@@ -67,7 +67,7 @@ definition like:
 For those of an adventurous disposition, a further option is to use
 the [`xparse`](https://ctan.org/pkg/xparse) package from the [`l3packages`](https://ctan.org/pkg/l3packages)
 distribution.  The package defines a bunch of commands (such as
-`\NewDocumentCommand`) which are somewhat analagous to
+`\NewDocumentCommand`) which are somewhat analogous to
 `\newcommand` and the like, in LaTeX2e.  The big difference is
 the specification of command arguments; for each argument, you have a
 set of choices in the command specification.  So, to create a

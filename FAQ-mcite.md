@@ -37,7 +37,7 @@ support for combined citations and so no longer even need
 [`mciteplus`](https://ctan.org/pkg/mciteplus) (but [`mciteplus`](https://ctan.org/pkg/mciteplus) is more general and will
 work with many other class and package combinations).
 
-The [`mciteplus`](https://ctan.org/pkg/mciteplus) package adresses many of the infelicites of
+The [`mciteplus`](https://ctan.org/pkg/mciteplus) package addresses many of the infelicites of
 [`mcite`](https://ctan.org/pkg/mcite).  Again, "ordinary" `bst` files will not
 work with [`mciteplus`](https://ctan.org/pkg/mciteplus), but the package documentation explains
 how to patch an existing BibTeX style.
