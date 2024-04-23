@@ -1,6 +1,6 @@
 ---
 title: Portable imported graphics
-cateogry: graphics
+category: graphics
 permalink: /FAQ-graph-pspdf
 ---
 

@@ -124,7 +124,7 @@ Users should also consider the possibilities of typesetting
   adoption is so limited and what might be done about the problem, is
   to be found at <http://truetex.com/belleek.pdf>
 
-- MTPro2 Lite Pubish or Perish (Michael Spivak)
+- MTPro2 Lite Publish or Perish (Michael Spivak)
 
   A (functional) subset of the MathTime Pro 2 font set, that is made
   available, free, for general use.  While it does not offer the full

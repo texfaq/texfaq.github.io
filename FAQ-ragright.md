@@ -11,7 +11,7 @@ corresponding `flushleft` environment) has a tendency to
 miss the "never" part, and will often create ridiculously short
 lines, for some minor benefit later in the paragraph.  The
 Plain TeX version of the command doesn't suffer this failing, but
-is rather conservative: it is loath to create too large a gap at the
+is rather conservative: it is loathe to create too large a gap at the
 end of the line, but in some circumstances&nbsp;&mdash; such as where
 [hyphenation is suppressed](FAQ-hyphoff)&nbsp;&mdash; painfully large gaps
 may sometimes be required.

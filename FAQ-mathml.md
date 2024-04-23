@@ -18,14 +18,14 @@ possibilities for good rendering of mathematics on the web.
   browsers was hampered by the limited range of symbols
   in the fonts that were available. However, all modern operating
   systems now include OpenType fonts with large collections of symbols
-  and the availablity of web font technology means that page authors
+  and the availability of web font technology means that page authors
   may specify fonts without relying on the reader having pre-installed
   suitable fonts.
 
 
   The available OpenType math fonts are discussed in [OpenType fonts](FAQ-otf-maths)
 
-- Direct interpretaton of a subset of LaTeX math markup by Javascript.
+- Direct interpretation of a subset of LaTeX math markup by Javascript.
   The speed of modern javaScript engines means that it is feasible to
   serve web pages that contain fragments of TeX markup that is converted
   in the reader's browser. Two main systems are in common use:
@@ -58,7 +58,7 @@ possibilities for good rendering of mathematics on the web.
 - Direct
   representation of mathematics MathML is a standard for representing
   maths on the Web; Browser support for MathML is provided by
-  `firefox`, and `safari` and other browsers using te same underlying
+  `firefox`, and `safari` and other browsers using the same underlying
   html rendering libraries.  At the current time it is not supported
   by Chrome or Edge browsers.  MathML in the page may be rendered by
   MathJax, with an output identical to its TeX r.endering. MathJax

@@ -47,7 +47,7 @@ in the environment:
 \begin{center}
   First (heading) line\\
   \\
-  body of the centerd text...
+  body of the centered text...
 \end{center}
 ```
 The solution here is plain: use the `\\` command in the way it's
@@ -58,7 +58,7 @@ be had by saying:
 ```latex
 \begin{center}
   First (heading) line\\[\baselineskip]
-  body of the centerd text...
+  body of the centered text...
 \end{center}
 ```
 
@@ -67,7 +67,7 @@ You _can_ use `\leavevmode`, as above:
 \begin{center}
   First (heading) line\\
   \leavevmode\\
-  body of the centerd text...
+  body of the centered text...
 \end{center}
 ```
 but that is just as tiresome to type as `\\` with an optional

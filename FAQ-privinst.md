@@ -29,7 +29,7 @@ kpsewhich -var-value TEXMFHOME
 ```
 (for example).  This will almost invariably return a pointer to a
 subdirectory `texmf` of your home directory; the commonest
-exception is Macintoshes, using MacTeX, where the diretory is
+exception is Macintoshes, using MacTeX, where the directory is
 conventionally `Library/texmf` in your home directory.
 
 If you can confirm that the technique does indeed work, install your

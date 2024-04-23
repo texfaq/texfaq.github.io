@@ -30,7 +30,7 @@ have a couple options:
     [`ghostscript`](https://www.ghostscript.com/) fonts) to
     make PK bitmap fonts which
     your previewer will understand (a process similar to the way some
-    browsers fo the job "automatically") This can produce adequate results,
+    browsers for the job "automatically") This can produce adequate results,
     also suitable for printing with non-PostScript devices.  (Note: if you
     purchased the fonts, it is advisable to check that their licence
     permits you to convert them, for private use, in this way.)

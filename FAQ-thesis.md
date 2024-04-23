@@ -14,5 +14,5 @@ up [double spacing](FAQ-linespace).
 If you want to write a new thesis class of your own, a good place to
 start is the University of California style, but remember that it's
 often difficult to produce a thesis that both looks good and conforms
-with the style that your univeristy demands.
+with the style that your university demands.
 

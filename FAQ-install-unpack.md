@@ -1,6 +1,6 @@
 ---
 title: Unpacking LaTeX packages
-cateogry: installing
+category: installing
 permalink: /FAQ-install-unpack
 ---
 

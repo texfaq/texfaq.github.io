@@ -40,6 +40,6 @@ example above would become:
 \section{\filled{foo}{bar}}
 ```
 <!-- {% endraw %} -->
-and with that definition, the example will compile succesfully
+and with that definition, the example will compile successfully
 ([`hyperref`](https://ctan.org/pkg/hyperref) knows about the macro `\space`).
 

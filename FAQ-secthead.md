@@ -6,7 +6,7 @@ permalink: /FAQ-secthead
 ---
 
 Suppose that the editor of your favourite journal has specified that section
-headings must be centerd, in small capitals, and subsection headings ragged 
+headings must be centered, in small capitals, and subsection headings ragged 
 right in italic, but that you don't want to get involved in the sort of
 programming described in section 2.2 of _The LaTeX Companion_
   (see [LaTeX books](FAQ-latex-books); the

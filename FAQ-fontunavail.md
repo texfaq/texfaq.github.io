@@ -31,10 +31,10 @@ LaTeX's list of "allowed" sizes for this font; LaTeX has
 chosen the nearest font size it knows is allowed.  In fact, you can
 tell LaTeX to allow _any_ size: the restrictions come from the
 days when only bitmap fonts were available, and they have never
-applied to fonts that come in scaleable form in the first place.
+applied to fonts that come in scalable form in the first place.
 Nowadays, most of the fonts that were once bitmap-only are also
-available in scaleable (Adobe Type&nbsp;1) form.  If your installation uses
-scaleable versions of the Computer Modern or European Computer Modern
+available in scalable (Adobe Type&nbsp;1) form.  If your installation uses
+scalable versions of the Computer Modern or European Computer Modern
 (EC) fonts, you can tell LaTeX to remove the restrictions;
 use the [`type1cm`](https://ctan.org/pkg/type1cm) or [`type1ec`](https://ctan.org/pkg/type1ec) package as appropriate.
 

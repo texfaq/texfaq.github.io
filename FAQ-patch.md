@@ -55,7 +55,7 @@ and then repeat the technique we had above, with one extension:
              {\mumble\OldRough[{#1}]{#2}}
 ```
 We see here that (for tedious argument-matching reasons) it is
-necessary to provide braces arround the optional argument that is
+necessary to provide braces around the optional argument that is
 being passed on.
 
 The general case may be achieved in two ways.  First, one can use the
