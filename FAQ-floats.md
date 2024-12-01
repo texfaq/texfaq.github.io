@@ -40,17 +40,18 @@ equally well to tables, or to "non-standard" floats defined by the
     ones are the ratio of text to float on a given page, but it's
     sensible to have a fixed set that changes the whole lot, to meet
     every eventuality.)
+    The default values are commented beside some relaxed alternatives.
     ```latex
-    \renewcommand{\topfraction}{.85}
-    \renewcommand{\bottomfraction}{.7}
-    \renewcommand{\textfraction}{.15}
-    \renewcommand{\floatpagefraction}{.66}
-    \renewcommand{\dbltopfraction}{.66}
-    \renewcommand{\dblfloatpagefraction}{.66}
-    \setcounter{topnumber}{9}
-    \setcounter{bottomnumber}{9}
-    \setcounter{totalnumber}{20}
-    \setcounter{dbltopnumber}{9}
+    \renewcommand{\topfraction}{.85} % .7
+    \renewcommand{\bottomfraction}{.7} % .3
+    \renewcommand{\textfraction}{.15} % .2
+    \renewcommand{\floatpagefraction}{.66} % .5
+    \renewcommand{\dbltopfraction}{.66} % .7
+    \renewcommand{\dblfloatpagefraction}{.66} % .5
+    \setcounter{topnumber}{9} % 2
+    \setcounter{bottomnumber}{9} % 1
+    \setcounter{totalnumber}{20} % 3
+    \setcounter{dbltopnumber}{9} % 2
     ```
     The meanings of these
     parameters are described on pages&nbsp;199&ndash;200, section&nbsp;C.9 of the
