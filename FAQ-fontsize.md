@@ -39,9 +39,7 @@ which will indeed work, but will actually produce a worse result than
   Huge text
 \end{center}
 ```
-Note that the [`fix-cm`](https://ctan.org/pkg/fix-cm) package was not distributed until the
-December 2003 edition of LaTeX; if you have an older distribution,
-the packages  are available.
+
 
 [`Fix-cm`](https://ctan.org/pkg/fix-cm) has one or two omissions&nbsp;&mdash; fonts the LaTeX
 team did not consider useful, including the CM dunhill fonts (as
