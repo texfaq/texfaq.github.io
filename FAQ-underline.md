@@ -21,7 +21,8 @@ defines an `\underline` command that applies the mathematical
 satisfactory, however: the text gets stuck into a box, and won't break
 at line end.
 
-Two packages are available that solve this problem.  The
+Several packages are available that solve this problem the two oldest being `ulem` and `soul`:
+
 [`ulem`](https://ctan.org/pkg/ulem) package redefines the
 `\emph` command to underline its argument; the underlined text thus
 produced behaves as ordinary emphasised text, and will break over the
@@ -36,4 +37,12 @@ loading the package with:
 ```latex
 \usepackage[normalem]{ulem}
 ```
+
+Two newer packages are `soulpos` and `lua-ul`.
+
+[`soulpos`](https://ctan.org/pkg/soulpos) supports other decorations (e.g. wavy line), but requires two compilation passes.
+
+[`lua-ul`](https://ctan.org/pkg/lua-ul) has better support for linebreaking and hyphenation and arbitrary TeX commands within the argument, but only works with LuaLatex.
+
+
 
