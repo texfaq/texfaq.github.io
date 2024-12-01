@@ -1,5 +1,5 @@
 ---
-title: Prefering `\newcommand*` over `\newcommand`
+title: Preferring `\newcommand*` over `\newcommand`
 category: programming
 tags:
   - latex

@@ -6,11 +6,20 @@ file. Changes prior to the switch to Markdown format are available from
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## 2022-11-24
+
+## 2024-12-01
 
 ### Changed
 
-- Q-floats: Add default float placement parameters beside suggested alternatives.
+ - Q-fontsize: Clarified wording around type1cm and type1ec font packages.
+ - Q-underline: Extend to cover `soulpos` and `lua-ml` underlining packages.
+ - Q-floats: Add default float placement parameters beside suggested alternatives.
+
+## 2023-04-29
+
+### Changed
+
+- Q-alternatives: Add Typst.
 
 ## 2022-02-06
 

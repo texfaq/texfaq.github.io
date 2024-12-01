@@ -35,7 +35,7 @@ BibTeX&ndash;LaTeX, two stand out for their availability and usage:
 The [`biblatex`](https://ctan.org/pkg/Biblatex) package provides a programmable
 approach to creating bibliographies in which control takes place in the (La)TeX
 code, rather than a BibTeX style file. This means that output can be modified
-on a per-document basis. Moreover, with full availablity of the data in the
+on a per-document basis. Moreover, with full availability of the data in the
 LaTeX run, a much wider range of bibliographic outcomes are possible. This is
 particularly important in supporting citation styles in the humanities. The
 `biblatex` package also integrates many ideas from existing BibTeX-focussed

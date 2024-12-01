@@ -32,7 +32,7 @@ Today, with native MathML rendering in some browsers
 and high quality math rendering available via JavaScript and CSS
 in all modern graphical browsers there are several possibilities.
 
-The LaTeX to HTML convertors listed below  all handle mathematics
+The LaTeX to HTML converters listed below  all handle mathematics
 to some extent, and further math-specific details are discussed
 in [Math on the Web](FAQ-mathml).
 
@@ -49,7 +49,7 @@ For today, possible packages are:
 
   Configuring and calling `TeX4ht` can be quite complicated,
   Michal Hoftich's `make4ht` system provides an alternative
-  easier calling convention, using the `tex4ht` convertor internally.
+  easier calling convention, using the `tex4ht` converter internally.
 
 - `LaTeXML` From [NIST](https://www.nist.gov/) is a perl program
   that can parse most TeX code, including complicated macro definitions.
@@ -57,7 +57,7 @@ For today, possible packages are:
   from LaTeX sources. Currently it is distributed from the NIST site, and is not
   in standard TeX distributions.
 
-- `lwarp` by Brian Dunn is a recent TeX to HTML convertor that uses
+- `lwarp` by Brian Dunn is a recent TeX to HTML converter that uses
    TeX to parse the input document. Documents may be produced by LaTeX, LuaLaTeX, or XeLaTeX.
    A texlua script removes the need for system utilities such as make and gawk,
    and also supports xindy and latexmk. [CTAN](https://ctan.org/pkg/lwarp).
@@ -91,7 +91,7 @@ For today, possible packages are:
 
 - `plasTeX` a Python-based LaTeX document processing
     framework.  It gives DOM-like access to a LaTeX document, as
-    well as the ability to generate mulitple output formats
+    well as the ability to generate multiple output formats
     (e.g. HTML, DocBook, tBook, etc.).
 
 - `TeXpider` a commercial program from

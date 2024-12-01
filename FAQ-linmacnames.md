@@ -5,7 +5,7 @@ tags: macros
 permalink: /FAQ-linmacnames
 ---
 
-New LaTeX users are often suprised that macro definitions
+New LaTeX users are often surprised that macro definitions
 containing non-letters, such as
 ```latex
 \newcommand{\cul8r}{Goodbye!}

@@ -15,7 +15,7 @@ The list is provided in four answers:
 -  TeX systems for use with
     [Unix and GNU Linux systems](FAQ-sysunix)
 -  TeX systems for use with 
-    [Modern Windows systems](FAQ-syswin32)
+    [Modern Windows systems](FAQ-syswindows)
 -  TeX systems for use with 
     [Macintosh systems](FAQ-sysmac)
 -  TeX systems for 

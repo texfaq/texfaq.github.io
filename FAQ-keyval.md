@@ -92,7 +92,7 @@ systems; some notable differences are:
 -  [`pgfkeys`](https://ctan.org/pkg/pgfkeys) can support call-backs when an unknown key
     appears (these things are called _handlers_.
 
-Keys are organized in a tree that is reminiscent of the Unix fille
+Keys are organized in a tree that is reminiscent of the Unix file
 tree.  A typical key might be, `/tikz/coordinate system/x` or
 just `/x`.  When you specify keys you can provide the complete
 path of the key, but you usually just provide the name of the key

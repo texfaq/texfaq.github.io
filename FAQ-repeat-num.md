@@ -18,7 +18,7 @@ repeating operations once for each of a set of objects is dealt with
 in the answer [repeating "over a set"](FAQ-repeat-set).
 
 Plain TeX itself provides a `\loop` &hellip; `\repeat`
-contruct, which enables you to repeat a command (or set of commands).
+construct, which enables you to repeat a command (or set of commands).
 The syntax is simple enough, but it use of TeX conditionals is
 different enough that many people find it confusing.
 ```latex

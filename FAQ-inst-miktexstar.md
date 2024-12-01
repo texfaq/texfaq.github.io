@@ -31,11 +31,12 @@ interested in, and press the `Search` button.  If
 MiKTeX knows about your package, it will open up the tree to show
 you a tick box for your package: check that box.
 
-If you prefer a command-line utility, there's `mpm`.  Open a
+If you prefer a command-line utility, open a
 command shell, and type:
 ```
-mpm --install=<package>
+miktex packages install <package>
 ```
+
 (which of course assumes you know the name by which MiKTeX refers to
 your package).
 

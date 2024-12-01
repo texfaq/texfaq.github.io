@@ -1,7 +1,8 @@
 ---
 title: (Modern) Windows systems
 category: installing
-permalink: /FAQ-syswin32
+permalink: /FAQ-syswindows
+redirect_from: /FAQ-syswin32
 ---
 
 Windows users nowadays have a real choice, between two excellent
@@ -23,9 +24,8 @@ MiKTeX, by Christian Schenk, is the longer-established of the pair,
 and has a large audience of satisfied users; TeX&nbsp;Live is the
 dominant distribution in use in the world of Unix-like systems, and so
 its Windows version may be expected to appeal to those who use both
-Unix-like and Windows systems.  The latest release of MiKTeX&nbsp;&mdash;
-version 2.9&nbsp;&mdash; requires Windows&nbsp;XP, or later (so it does not work on
-Windows&nbsp;2000 or earlier).
+Unix-like and Windows systems.  Current releases of MiKTeX require
+64bit Windows.
 
 Both distributions may be used in a configuration which involves no
 installation at all.  MiKTeX's "portable" distribution may be
@@ -52,15 +52,10 @@ offline installer for TeX&nbsp;Live.
 A further (free) option is available thanks to the
 [CygWin bundle](https://www.cygwin.com), which presents a
 Unix-like environment in Windows systems (and also provides an
-X-windows server).  The (now obsolete) teTeX distribution is
-provided as part of the CygWin distribution, but there is a CygWin
-build of TeX&nbsp;Live so you can have a current TeX system.  TeX
-under CygWin is reputedly somewhat slower than native Win32
-implementations such as MiKTeX, and of course the TeX
-applications behave like Unix-system applications.
+X-windows server).
 
-BaKoMa TeX, by Basil Malyshev, is a comprehensive (shareware)
-distribution, which focuses on support of Acrobat.  The distribution
-comes with a bunch of Type&nbsp;1 fonts packaged to work with BaKoMa
+BaKoMa TeX, by Basil Malyshev, was a comprehensive (shareware)
+distribution, which focused on support of Acrobat.  The distribution
+came with a bunch of Type&nbsp;1 fonts packaged to work with BaKoMa
 TeX, which further the focus.
 
