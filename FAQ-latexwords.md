@@ -39,11 +39,15 @@ names to the settings for that language.  In particular,
 any changes to these symbolic names made in the prologue of a document
 that uses [`babel`](https://ctan.org/pkg/babel). 
 
-Therefore, babel defines a command to enable users to change the
+Therefore, `babel` defines a command to enable users to change the
 definitions of the symbolic names, on a per-language basis:
-`\addto\captions<language>` is the thing
-(`<language>` being the language option you gave to
-[`babel`](https://ctan.org/pkg/babel) in the first place).  For example:
+`\setlocalecaption` is the thing.  For example:
+<!-- {% raw %} -->
+```latex
+\setlocalecaption{danish}{contents}{Indholdsfortegnelse}
+```
+<!-- {% endraw %} -->
+This redefines the Danish `\contentsname` to “Indholdsfortegnelse”. While this is the recommended method, an alternative approach is:
 <!-- {% raw %} -->
 ```latex
 \addto\captionsdanish{%

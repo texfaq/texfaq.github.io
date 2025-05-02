@@ -10,12 +10,8 @@ permalink: /FAQ-latex-books
   edition, Addison-Wesley, 2004, ISBN-10 0-321-17385-6)
 - LaTeX Beginner's Guide by Stefan Kottwitz (Packt Publishing,
   2011, ISBN-10 1847199860, ISBN-13 1847199860)
-- The LaTeX Companion by Frank Mittelbach, Michel Goossens,
-  Johannes Braams, David Carlisle and Chris Rowley (second edition,
-  Addison-Wesley, 2004, ISBN-10 0-201-36299-6, ISBN-13 0-201-36299-6); the
-  book as also available as a digital download (in EPUB,
-  MOBI and PDF formats) from
-  <https://www.informit.com/store/latex-companion-9780133387667>
+- The LaTeX Companion by Frank Mittelbach and Ulrike Fischer (third edition,
+  Addison-Wesley, 2023, 2 vols., ISBN-13 978-0-13-816648-9).
 - The LaTeX Graphics Companion:
   _Illustrating documents with TeX and PostScript_ by Michel
   Goossens, Sebastian Rahtz, Frank Mittelbach, Denis Roegel and
