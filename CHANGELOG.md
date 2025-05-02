@@ -6,6 +6,12 @@ file. Changes prior to the switch to Markdown format are available from
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2025-05-02
+
+### Changed
+ - Q-latexwords: Minor updates related to babel.
+ - Q-newlang: Minor updates related to babel.
+ - Q-latex-books: Updated bib info on The LaTeX Companion.
 
 ## 2024-12-01
 
