@@ -14,9 +14,11 @@ use the language, with the command
 ```
 provokes the warning message
 ```latex
-Package babel Warning: No hyphenation patterns were loaded for
-(babel)                the language `Catalan'
-(babel)                I will use the patterns loaded for \language=0 instead.
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language 'Catalan' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 53.
 ```
 
 The problem is that your TeX system doesn't know how to hyphenate
@@ -25,7 +27,7 @@ properly.  To do this, for LaTeX installations, one needs to change
 `language.dat` (which is part of the Babel installation); it will
 contain a line
 ```latex
-%catalan         cahyphen.tex
+% catalan loadhyph-ca.tex
 ```
 which, if you remove the comment marker, is supposed to instruct
 LaTeX to load Catalan hyphenation patterns when you tell it to build
@@ -34,8 +36,8 @@ a new format.
 Unfortunately, in many Babel distributions, the line just isn't
 right&nbsp;&mdash; you need to check the name of the file containing the
 patterns you're going to use.  As you can see, in the author's system,
-the name is supposed to be `cahyphen.tex`; however the file
-actually present on the system is `cahyph.tex`&nbsp;&mdash; fortunately,
+the name is supposed to be `loadhyph-ca.tex`; however the file
+actually present on the system is `loadhyph-ca.tex`&nbsp;&mdash; fortunately,
 the error should prove little more than an inconvenience (most of the
 files are in better distributions anyway, but an elusive one
 may be found on CTAN; if you have to retrieve
@@ -45,7 +47,9 @@ a new file, ensure that it's correctly installed, for which see
 Finally, you need to regenerate the formats used (in fact, most users
 of Babel are using it in their LaTeX documents, so regenerating the
 LaTeX-related formats will ordinarily be enough; however, the
-author always generates the lot, regardless).
+author always generates the lot, regardless). This step is not required
+when Babel is used with LuaLaTeX, because this engine loads hyphenation
+patterns dynamically.
 
 - teTeX It's possible to do the whole operation in one go, by
   using the `texconfig` command:
