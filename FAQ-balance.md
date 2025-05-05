@@ -40,10 +40,20 @@ documents.
 The [`balance`](https://ctan.org/pkg/balance) package also patches the output routine
 (somewhat more carefully than [`flushend`](https://ctan.org/pkg/flushend)).
 
-The user should be aware that any of these packages are liable to
+The user should be aware that both these packages are liable to
 become confused in the presence of floats: if problems arise, manual
 adjustment of the floats in the document is likely to be necessary.
 It is this difficulty (what's required in any instance can't really be
 expressed in current LaTeX) that led the author of
 [`multicol`](https://ctan.org/pkg/multicol) to suppress single-column-wide floats.
 
+The [`poor man's balance`](https://ctan.org/pkg/pbalance) package tries
+to solve this limitation. It should be "safe" (changes to the output
+routine are minimal) and "just work" without user intervention. However,
+as most things in life, it comes with its own set of caveats (check the
+docs). The most important ones are
+
+1. It is a very new package (2020) and, therefore, has been very
+   lightly tested;
+
+2. It demands additional LaTeX passes (up to three in some cases).
