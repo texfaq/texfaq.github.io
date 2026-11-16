@@ -2,6 +2,7 @@
 title: TeX-friendly editors and shells
 category: installing
 permalink: /FAQ-editors
+date: 2026-11-16
 ---
 
 There are good TeX-writing environments and editors for most
@@ -93,6 +94,15 @@ personal selection:
   you perform almost any TeX-related job. It also works well with
   OzTeX.  From release 2.2.0 (at least), Textures works under Mac OS/X.
 - OS/2: `epmtex` offers an OS/2-specific shell.
+
+JetBrains IDEs such as IntelliJ IDEA and PyCharm can be used for
+(La)TeX work via plugins.
+[TeXiFy-IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA) is a
+free, MIT-licensed plugin.
+[LaTeX Pro](https://plugins.jetbrains.com/plugin/33154-latex-pro) is a
+commercial alternative (paid, with a trial) that also provides local
+compilation, PDF preview with SyncTeX, and bibliography tools.  A TeX
+distribution is still required to produce PDFs.
 
 Atari, Amiga and NeXT users also have nice
 environments. LaTeX users looking for `make`-like
