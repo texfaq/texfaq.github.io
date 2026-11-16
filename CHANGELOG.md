@@ -6,6 +6,11 @@ file. Changes prior to the switch to Markdown format are available from
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2026-11-16
+
+### Changed
+ - Q-editors: Mention JetBrains IDEs (TeXiFy-IDEA and LaTeX Pro).
+
 ## 2025-05-02
 
 ### Changed
